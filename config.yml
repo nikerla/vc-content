@@ -4,7 +4,7 @@
      path: ""
      type: "posts"
    values:
-     layout: "my-site"
+     layout: "my-site2"
   -
    scope:
      path: "projects"
