@@ -137,7 +137,7 @@ tags :
 				<img alt="Virto Commerce e-commerce framework" src="/Content/images/advantages/3.jpg">
 				<p class="title">Launch your solutions faster with automation tools</p>
 				<p>
-					Using combination of azure and automation cmdlets, setup an 
+					Using combination of azure and automation cmdlets, setup 
 					automated deployments for your solutions. From development to 
 					staging to production.
 				</p>
