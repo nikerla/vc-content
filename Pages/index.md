@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Virto commerce - Enterprise ASP.NET open-source ecommerce cloud platform
 description: Virto commerce - Enterprise ASP.NET open-source ecommerce cloud platform
@@ -13,7 +13,7 @@ tags :
 	<div class="main-enterprise">
 		<div class="presentation responsive">
 			<div class="presentation-info">
-				<h1 class="presentation-title">Enterprise open-source <span></span>.NET e-commerce platform <span></span>for Microsoft Cloud</h1>
+				<h1 class="presentation-title">Enterprise open-source <span></span>.NET e-Commerce Platform <span></span>for Microsoft Cloud</h1>
 				<h2 class="presentation_sub-title">Free Community Edition license <span></span>available for small businesses</h2>
 				<div class="presentation-buttons">
 					<a class="button fill" href="#" id="href_1">Try it now</a>
