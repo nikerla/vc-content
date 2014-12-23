@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Download SDK
 description: Enterprise .NET open-source ecommerce cloud platform. Download SDK
@@ -12,7 +12,7 @@ tags :
 	<div class="download responsive">
 		<h1 class="head-title">Download SDK (it's Free)</h1>
 		<p class="text">Please provide short information about yourself to get updates on new releases, after which you will be able to download SDK.</p>
-		<p class="text">SDK allows you to install and run Virto Commerce locally on your own windows machine. You will also be able to open front end project in VS.NET 2012 to create a proof of concept site and evaluate the functionality deeper.</p>
+		<p class="text">SDK allows you to install and run Virto Commerce locally on your own windows machine. You will also be able to open front end project in VS.NET 2013 to create a proof of concept site and evaluate the functionality deeper.</p>
 		<form class="form" action="">
 			<input type="hidden" value="Download SDK" name="Subject"/>
 			<input type="hidden" value="true" name="IsResend"/>
