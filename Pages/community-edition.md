@@ -52,7 +52,7 @@ tags :
 	</div>
 	<!-- Prices -->
 	<div class="prices clearfix">
-		<p class="head-title">Request Free Community License!</p>
+		<p class="head-title">Request Free Community License</p>
 		<div class="responsive">
 			<div class="price-descr">
 				<p id="cont_2"></p>
