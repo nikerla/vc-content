@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Virto commerce - Enterprise ASP.NET open-source ecommerce cloud platform
 description: Virto commerce - Enterprise ASP.NET open-source ecommerce cloud platform
@@ -10,7 +10,7 @@ tags :
 ---
 <article role="main" class="main">
 	<div class="download responsive">
-		<h1 class="head-title">Virto commerce sdk 1.12</h1>
+		<h1 class="head-title">Virto Commerce SDK 1.12</h1>
 		<p class="sub-title">Pick a version below</p>
 		<p class="text">Get "hands on" with Virto Commerce. Technical support is included.</p>
 		<div class="columns">
