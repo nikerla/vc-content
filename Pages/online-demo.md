@@ -21,7 +21,7 @@ tags :
 					<h3>Frontend Accelerator</h3>
 					<p class="text">Explore front end written using MVC4/Razor. It utilizes jquery for dynamically loading cart elements, updating reviews and many other things. Make sure to check one page checkout, product page with dynamic variations, faceted search and dynamic contents features.</p>
 					<p class="text"><a href="http://demo.virtocommerce.com" target="_blank" rel="nofollow">http://demo.virtocommerce.com</a></p>
-					<a class="button fill" href="http://demo.virtocommerce.com/" rel="nofollow">Open Frontend Accelerator</a>
+					<a class="button fill" target="_blank" href="http://demo.virtocommerce.com/" rel="nofollow">Open Frontend Accelerator</a>
 				</div>
 			</div>
 			<div class="column">
@@ -36,7 +36,7 @@ tags :
 					<p class="text">login: admin</p>
 					<p class="text">pass: store</p>
 					<p class="text">link: http://demo.virtocommerce.com</p>
-					<a class="button fill" href="http://assets.virtocommerce.com/software/1.12/admin/setup.exe" rel="nofollow">Download Commerce Manager</a>
+					<a class="button fill" target="_blank"  href="http://assets.virtocommerce.com/software/1.12/admin/setup.exe" rel="nofollow">Download Commerce Manager</a>
 				</div>
 			</div>
 		</div>
