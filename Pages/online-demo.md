@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Try now online demo
 description: Enterprise .NET open-source ecommerce cloud platform. Try now online demo
@@ -20,7 +20,7 @@ tags :
 					</div>
 					<h3>Frontend Accelerator</h3>
 					<p class="text">Explore front end written using MVC4/Razor. It utilizes jquery for dynamically loading cart elements, updating reviews and many other things. Make sure to check one page checkout, product page with dynamic variations, faceted search and dynamic contents features.</p>
-					<p class="text"><a href="http://demo.virtocommerce.com" rel="nofollow">http://demo.virtocommerce.com</a></p>
+					<p class="text"><a href="http://demo.virtocommerce.com" target="_blank" rel="nofollow">http://demo.virtocommerce.com</a></p>
 					<a class="button fill" href="http://demo.virtocommerce.com/" rel="nofollow">Open Frontend Accelerator</a>
 				</div>
 			</div>
