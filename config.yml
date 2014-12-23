@@ -7,7 +7,7 @@
      layout: "my-site"
   -
    scope:
-     path: "projects"
+     path: "pages"
      type: "pages"
    values:
      layout: "project" # overrides previous default layout
