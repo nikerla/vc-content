@@ -32,7 +32,7 @@ tags :
 					<h3>Commerce Manager</h3>
 					<p class="text">Virto Commerce uses WPF application for administration. Native application allows for much better user experience compared to more traditional web application. It utilizes Click Once technology, so updates are seamless.</p>
 					<p class="text">To connect to the demo store please use:</p>
-					<p class="text"><a href="http://demo.virtocommerce.com" rel="nofollow">http://demo.virtocommerce.com</a></p>
+					<p class="text">http://demo.virtocommerce.com</p>
 					<p class="text">login: admin</p>
 					<p class="text">pass: store</p>
 					<p class="text">link: http://demo.virtocommerce.com</p>
