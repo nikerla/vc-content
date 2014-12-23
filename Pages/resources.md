@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Virto commerce - ASP.NET open-source ecommerce framework. Resources
 description: Virto commerce - ASP.NET open-source ecommerce framework. Resources
@@ -11,7 +11,7 @@ tags :
 <article role="main" class="main">
 	<!-- Roadmap -->
 	<div class="roadmap __responsive">
-		<h1 class="head-title">Resources for developers</h1>
+		<h1 class="head-title">Resources for Developers</h1>
 		<ul class="list">
 			<li class="list-item">
 				<div class="columns">
