@@ -43,7 +43,7 @@ tags :
 			</li>
 			<li class="list-item updates">
 				<div class="proposal-ico"></div>
-				<p class="proposal-title">Join Community!</p>
+				<p class="proposal-title">Join our Community!</p>
 				<p class="proposal-descr">
 					Create custom solutions, themes, extensions and post them to our community. 
 				</p>
