@@ -68,7 +68,7 @@ tags :
 					<textarea placeholder="Comments ..." rows="5" cols="5" name="Comments" class="form-text" required></textarea>
 				</div>
 				<input type="checkbox" required name="Agree">
-				<a href="/open-source-license" style="margin-left: 15px; color:#fff;">I Agree to terms (yearly revenue of not exceeding US100,000)</a>
+				<a href="/open-source-license" style="margin-left: 15px; color:#fff;" target="_blank">I Agree to terms (yearly revenue of not exceeding US100,000)</a>
 				<button class="button fill" type="submit">Submit request</button>
 			</form>
 		</div>
