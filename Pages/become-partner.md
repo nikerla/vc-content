@@ -27,7 +27,7 @@ tags :
 								<input type="text" name="Phone" class="form-input" required>
 							</div>
 							<div class="control-group">
-								<label for="jobTitle">job Title</label>
+								<label for="jobTitle">Job Title</label>
 								<input type="text" name="JobTitle" class="form-input" required>
 							</div>
 						</div>
