@@ -54,8 +54,7 @@ tags :
 		<p class="head-title">Request Free Community License!</p>
 		<div class="responsive">
 			<div class="price-descr">
-				<p id="cont_2">All we ask from you is to complete the form below and share your experience with our community
-on Facebook or Twitter.</p>
+				<p id="cont_2"></p>
 			</div>
 			<form class="price-form clearfix">
 				<input type="hidden" value="Request Free Community License!" name="Subject"/>
@@ -65,9 +64,11 @@ on Facebook or Twitter.</p>
 					<input type="text" placeholder="Full name ..." name="FullName" class="form-input" required>
 					<input type="text" placeholder="Your email ..." name="To" class="form-input" required>
 				</div>
-				<div class="control-group">
+				<div class="control-group" style="margin-bottom:20px">
 					<textarea placeholder="Comments ..." rows="5" cols="5" name="Comments" class="form-text" required></textarea>
 				</div>
+				<input type="checkbox" required name="Agree">
+				<a href="/open-source-license" style="margin-left: 15px; color:#fff;">I Agree to terms (yearly revenue of not exceeding US100,000)</a>
 				<button class="button fill" type="submit">Submit request</button>
 			</form>
 		</div>
