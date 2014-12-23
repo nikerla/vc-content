@@ -10,5 +10,5 @@
      path: "pages"
      type: "pages"
    values:
-     layout: "project" # overrides previous default layout
+     layout: "project2" # overrides previous default layout
      author: "No one"
