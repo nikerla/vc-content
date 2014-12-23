@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Contacts
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Contacts
@@ -14,7 +14,7 @@ tags :
 		<div class="columns">
 			<div class="column">
 				<div class="block">
-					<p class="title">Contact us</p>
+					<p class="title">Contact Us</p>
 					<p class="text">Email: <a href="mailto: sales@virtocommerce.com">sales@virtocommerce.com</a> <br>Phone: <span itemprop="telephone">+1 (800) 980-5288</span></p>
 					<p class="sub-title">Locations</p>
 					<ul class="list">
