@@ -83,7 +83,7 @@ tags :
 		<p class="title">Team</p>
 		<img alt="" src="/Content/images/our_team.jpg">
 		<p class="text">The key to our success is the team behind VirtoCommerce. With a team of more than 150 professionals located in 5 offices around the world and a network of solution providers, we are ready to meet any challenge and help our customers deliver the best enterprise ecommerce solution possible. Our team consists of architects that developed e-Commerce products and solutions for over a decade thus providing a wealth of experience to our customers.</p>
-		<p class="text">Our focus on quality product and professional developers gives us unique advantage over competitors mostly focused on selling business features. Architecture and right approach to solving problems is what gives our platform a flexibility to adjust to current and future business requirements.</p>
+		<p class="text">Our focus on quality product and professional developers gives us unique advantage over competitors mostly focused on selling business features. Architecture and the right approach to solving problems is what gives our platform a flexibility to adjust to current and future business requirements.</p>
 	</div>
 	{% include technologies.html %}
 </article>
