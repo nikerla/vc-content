@@ -60,15 +60,15 @@ tags :
 					<div class="ico"></div>
 					<div class="planet-content social">
 						<h2 class="name">Social</h2>
-						<p>Authenticate using popular social networks including Facebook, Linkedin, Google and many others. Create custom store front using our web api services and javascript libraries</p>
+						<p>Authenticate using popular social networks including Facebook, Linkedin, Google and many others. Create custom store front using our web api services and javascript libraries.</p>
 					</div>
 					<div class="planet-content marketplace">
 						<h2 class="name">Multi Channel</h2>
-						<p>Start selling on Amazon, Ebay and other channels with our integrated Multi Channel solution.</p>
+						<p>Start selling on Amazon, eBay and other channels with our integrated Multi Channel solution.</p>
 					</div>
 					<div class="planet-content mobile">
 						<h2 class="name">Mobile</h2>
-						<p>Our site fully supports mobile, tablet and other devices using responsive approach. You can utilize Virto Commerce mobile friendly Web API to integrate iOS, Android and Windows apps with commerce</p>
+						<p>Our site fully supports mobile, tablet and other devices using responsive approach. You can utilize Virto Commerce mobile friendly Web API to integrate iOS, Android and Windows apps with commerce.</p>
 					</div>
 					<div class="planet-content pc opened">
 						<h2 class="name">B2C</h2>
