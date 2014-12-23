@@ -28,7 +28,7 @@ tags :
 								</li>
 								<li>
 									<span class="title">Code repository</span>
-									<span class="descr">Explore latest production and development source code. <a href="https://github.com/VirtoCommerce/vc-community/" target="_blank" rel="nofollow">Go To GitHub</a></span>
+									<span class="descr">Explore latest production and development source code. <br><a href="https://github.com/VirtoCommerce/vc-community/" target="_blank" rel="nofollow">Go To GitHub</a></span>
 								</li>
 								<li>
 									<span class="title">Roadmap</span>
