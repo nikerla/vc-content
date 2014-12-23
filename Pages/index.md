@@ -31,7 +31,7 @@ tags :
 			</div>
 		</div>
 	</div>
-	<!-- Your costumers -->
+	<!-- Your customers -->
 	<div class="your-costumers">
 		<div class="responsive">
 			<p class="head-title">Expand and Customize Your Business</p>
@@ -72,7 +72,7 @@ tags :
 					</div>
 					<div class="planet-content pc opened">
 						<h2 class="name">B2C</h2>
-						<p>Use our our sample site to launch your Business to Consumer store. Features include support for search, faceted filters, reviews, one page checkout and many more. Can be used to launch Fashion, Services, Digital Downloads and other types of stores.</p>
+						<p>Use our sample site to launch your Business to Consumer store. Features include support for search, faceted filters, reviews, one page checkout and many more. Can be used to launch Fashion, Services, Digital Downloads and other types of stores.</p>
 					</div>
 					<div class="planet-content b2b">
 						<h2 class="name">B2B</h2>
