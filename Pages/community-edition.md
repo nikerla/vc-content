@@ -7,6 +7,7 @@ permalink: our-offers/community-edition
 tags : 
 - enterprise
 - commerce
+- community
 ---
 <div class="slider">
 	<img alt="" src="/Content/images/bg-community.jpg" class="slider-bg">
