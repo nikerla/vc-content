@@ -17,7 +17,7 @@ tags :
 		<div class="columns">
 			<div class="column">
 				<div class="block">
-					<form action="">
+					<form class="fixed" action="">
 						<input type="hidden" value="Signup for news" name="Subject" />
 						<input type="hidden" value="true" name="IsResend" />
 						<input type="hidden" value="/thank-you-demo" name="RedirectUrl" />
