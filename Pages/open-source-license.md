@@ -92,16 +92,6 @@ tags :
 			    	Virto Commerce
 		        </span>
 	   	</a>
-		<div class="brand">
-			<a>
-				<img src="/Content/images/logo.jpg" alt="">
-			</a>
-			<a> 
-				Powered by 
-				<br /> 
-				Virto Commerce 
-			</a>
-		</div>
 		<br />
 		<br />
 		You may request production community license 
