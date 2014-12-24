@@ -28,12 +28,12 @@ deployment and configuration, samples of modular plugin extensions and more.</sp
 									<span class="descr">Obtain SDK, installation packages or sources code.
 								</li>
 								<li>
-									<span class="title">Code repository</span>
-									<span class="descr">Explore latest production and development source code. <br><a href="https://github.com/VirtoCommerce/vc-community/" target="_blank" rel="nofollow">Go To GitHub</a></span>
+									<a href="https://github.com/VirtoCommerce/vc-community/" target="_blank" rel="nofollow" class="title">Code repository</a>
+									<span class="descr">Explore latest production and development source code by subscribing to our GitHub repository.
 								</li>
 								<li>
-									<span class="title">Roadmap</span>
-									<span class="descr"><a href="/roadmap">Go To Roadmap</a></span>
+									<a href="/roadmap" class="title">Platfom Evolution</a>
+									<span class="descr">Actual roadmap includes product development plans from virtocommerce team as well as from our partners.</span>
 								</li>
 							</ul>
 						</div>
@@ -42,16 +42,18 @@ deployment and configuration, samples of modular plugin extensions and more.</sp
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title">Blog</span>
-									<span class="descr"><a href="http://blog.virtocommerce.com/" target="_blank" rel="nofollow">Go To Blog</a></span>
+									<a href="http://blog.virtocommerce.com/" target="_blank" rel="nofollow" class="title">Blog</a>
+									<span class="descr">Subscribe to our blog and get the latest news, developments plans, success
+stories and other virtocommerce related updates.
 								</li>
 								<li>
 									<span class="title">Support</span>
 									<span class="descr"><a href="http://help.virtocommerce.com/support/home" target="_blank" rel="nofollow">Go To Support</a></span>
 								</li>
 								<li>
-									<span class="title">Stackoverflow</span>
-									<span class="descr"><a href="http://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Go To Stackoverflow</a></span>
+									<a href="http://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow" class="title">Community Support</a>
+									<span class="descr">Additionally to our helpdesk portal, we officially support
+virtocommerce branch on stackoverflow. It is a recommended way to get answers to your technical questions.</span>
 								</li>
 							</ul>
 						</div>
