@@ -31,21 +31,25 @@ tags :
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Free for Small Businesses</p>
 				<p class="proposal-descr">
-					We understand it takes a lot to start a new business. With Community Edition License, you get fully featured enterprise class product completely free with just a revenue restriction. That way when your business becomes a success, your e-commerce platform will scale with it.
+					We understand it takes a lot to start a new business. With Community Edition License, you get fully featured enterprise class product completely free with just a revenue restriction. That way when your business becomes a success, your e-commerce platform will scale with it. Community edition is available under <a href="/open-source-license">Virto Commerce Open Source License</a>.
 				</p>
 			</li>
 			<li class="list-item community">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Community Support</p>
 				<p class="proposal-descr">
-					Use our community forums and support site to receive support.
+					Use our community forums and support site to receive support. We also
+officially support virto commerce branch on StackOverflow. For more
+developers resources visit <a href="/resources">resource center</a>.
 				</p>
 			</li>
 			<li class="list-item updates">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Join our Community!</p>
 				<p class="proposal-descr">
-					Create custom solutions, themes, extensions and post them to our community. 
+					Prove your e-commerce competence  with virto commerce. Create custom
+solutions, themes, extensions and post them to our community. Share
+your ideas and experience in any e-commerce related fields.
 				</p>
 			</li>
 		</ul>
