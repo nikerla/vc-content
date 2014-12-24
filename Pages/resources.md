@@ -19,7 +19,7 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title"><a href="http://docs.virtocommerce.com/" target="_blank" rel="nofollow">Documentation</a></span>
+									<a href="http://docs.virtocommerce.com/" target="_blank" class="title" rel="nofollow">Documentation</a>
 									<span class="descr">Technical documentation for developers that includes platform architecture description, API reference, recommendation for
 deployment and configuration, samples of modular plugin extensions and more.</span>
 								</li>
