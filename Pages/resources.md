@@ -51,7 +51,7 @@ deployment and configuration, samples of modular plugin extensions and more.</sp
 							<ul class="list">
 								<li>
 									<span class="title">
-										<a href="http://blog.virtocommerce.com/" target="_blank" rel="nofollow" class="title">Blog</a>
+										<a href="http://blog.virtocommerce.com/" target="_blank" rel="nofollow">Blog</a>
 									</span>
 									<span class="descr">Subscribe to our blog and get the latest news, developments plans, success
 stories and other virtocommerce related updates.
