@@ -19,7 +19,7 @@ tags :
 			<input type="hidden" value="/pickedition" name="RedirectUrl" />
 			<div class="control-group">
 				<label for="" class="form-label">Full name:</label>
-				<input type="text" class="form-input" name="Fullname" required/>
+				<input type="text" class="form-input" name="FullName" required/>
 			</div>
 			<div class="control-group">
 				<label for="" class="form-label">Email:</label>
