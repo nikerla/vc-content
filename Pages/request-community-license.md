@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Request community license
 description: Enterprise .NET open-source ecommerce cloud platform. Request community license
@@ -18,7 +18,7 @@ tags :
 			<div class="column">
 				<div class="block">
 					<form class="fixed" action="">
-						<input type="hidden" value="Signup for news" name="Subject" />
+						<input type="hidden" value="Request Community License w/URL" name="Subject" />
 						<input type="hidden" value="true" name="IsResend" />
 						<input type="hidden" value="/thank-you-demo" name="RedirectUrl" />
 						<div class="control-group">
