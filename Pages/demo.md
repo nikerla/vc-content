@@ -16,7 +16,7 @@ tags :
 			<div class="column">
 				<div class="block">
 					<form class="fixed" action="">
-						<input type="hidden" value="Signup for news" name="Subject" />
+						<input type="hidden" value="Signup for Personal Demo" name="Subject" />
 						<input type="hidden" value="true" name="IsResend" />
 						<input type="hidden" value="/thank-you-demo" name="RedirectUrl" />
 						<div class="control-group">
