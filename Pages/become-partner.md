@@ -17,6 +17,9 @@ tags :
 			<div class="column">
 				<div class="block">
 					<form action="">
+						<input type="hidden" value="Become a partner" name="Subject"/>
+						<input type="hidden" value="true" name="IsResend"/>
+						<input type="hidden" value="/thank-you-partner" name="RedirectUrl" />
 						<div class="column">
 							<div class="control-group">
 								<label for="Fullname">Full name</label>
