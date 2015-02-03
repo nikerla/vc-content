@@ -23,10 +23,11 @@ tags :
 		<div class="costumers">
 			<div class="responsive">
 				<ul class="list __inline">
-					<li class="list-item"></li>
+					<li class="list-item helvetia"></li>
+					<li class="list-item kitmall"></li>
 					<li class="list-item kalla"></li>
 					<li class="list-item caromba"></li>
-					<li class="list-item ns"></li>
+					<li class="list-item markus"></li>
 				</ul>
 			</div>
 		</div>
