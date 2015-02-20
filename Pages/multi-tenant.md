@@ -15,6 +15,5 @@ tags :
 		<p class="text">Marketplaces - Virto Commerce allows creation of multi-seller solutions with various levels of isolation for different vendors. Modular open architecture to create innovative solutions that can quickly take advantage of modern opportunities. Realize your dreams by not getting stuck using old school platform.</p>
 		<a class="link" href="/features/for-business-professionals">Learn more business features</a>
 	</div>
-	{% include learn-more.html %}
 	{% include technologies.html %}
 </article>
