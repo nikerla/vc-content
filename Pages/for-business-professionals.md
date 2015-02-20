@@ -30,7 +30,7 @@ tags :
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce multi-tenant" src="/Content/images/business-features/multi-tenant.png">
-					<h1>Multiple stores</h1>
+					<h1>Multi-tenant</h1>
 					<p>Use the multi-vendor approach to extend your business capabilities.
 Our multi-tenant e-commerce platform allows easy vendor and
 partner relations management. <a class="link" href="/features/multi-tenant">Read more</a></p>
