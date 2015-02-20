@@ -25,6 +25,9 @@ tags :
 					<li>
 						<a href="/features/for-business-professionals" target="_blank">Features for business professionals</a>
 					</li>
+					<li>
+						<a href="/features/multi-tenant" target="_blank">Multi-tenant</a>
+					</li>
 				</ul>
 			</li>
 			<li>
