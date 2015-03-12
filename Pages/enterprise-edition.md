@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Virto commerce - Enterprise ASP.NET open-source b2b  b2c ecommerce software
-description: Enterprise Edition
+title: Virto commerce - Enterprise ecommerce platform
+description: VirtoCommerce offers an enterprise ecommerce platform designed to expand sales with simple and exciting ecommerce solutions.
 permalink: our-offers/enterprise-edition
 date: 2014-01-30
 tags : 
@@ -15,7 +15,7 @@ tags :
 			<h1 class="slider-title">Enterprise Edition</h1>
 			<h2 class="slider-descr">
 				Build your business with a .NET <br /> 
-				open-source e-Commerce Platform <br /> 
+				Enterprise e-Commerce Platform <br /> 
 				that can evolve over time
 			</h2>
 			<a class="button fill" href="/try-now">Try It Now</a>
