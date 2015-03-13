@@ -36,7 +36,7 @@ tags :
 					<p class="text">login: admin</p>
 					<p class="text">pass: store</p>
 					<p class="text">link: http://demo.virtocommerce.com</p>
-					<a class="button fill" target="_blank"  href="http://assets.virtocommerce.com/software/1.12/admin/setup.exe" rel="nofollow">Download Commerce Manager</a>
+					<a class="button fill" target="_blank"  href="http://assets.virtocommerce.com/software/1.13/admin/setup.exe" rel="nofollow">Download Commerce Manager</a>
 				</div>
 			</div>
 		</div>
