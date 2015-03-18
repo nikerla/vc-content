@@ -24,6 +24,9 @@ tags :
 							<span itemprop="addressLocality">Los Angeles</span>, <span itemprop="addressRegion">California</span> <span itemprop="postalCode">91311</span> <br>
 							Phone: <span itemprop="telephone">+1 (800) 980-5288</span><br>
 						</li>
+						<li class="list-item">
+							<img alt="" src="/content/Images/laoffice.jpg">
+						</li>
 						<li class="list-item" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 							<span class="bold" itemprop="addressCountry">Lithuania</span>
 							Address: <span itemprop ="streetAddress">Laisvės pr. 79E</span>, <span itemprop="addressLocality">Vilnius</span>, <br>Lithuania <span itemprop="postalCode">06122</span>
