@@ -40,6 +40,18 @@ tags :
 				</div>
 			</div>
 		</div>
+		<div class="columns">
+			<div class="column">
+				<div style="width:800px" class="block">
+					
+					<h3>UPDATE: Demo of Virtocommerce Beta 2.0 now available! </h3>
+					<p class="text">Look at the new Web Virto Commerce Manager.</p>
+					<p class="text"><a href="http://virtoadmin.azurewebsites.net/" target="_blank" rel="nofollow">http://virtoadmin.azurewebsites.net/</a></p>
+					<p class="text">login: admin</p>
+					<p class="text">pass: store</p>
+				</div>
+			</div>
+		</div>
 	</div>
 	{% include technologies.html %}
 </article>
