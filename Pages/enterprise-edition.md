@@ -27,28 +27,28 @@ tags :
 	<div class="proposal __responsive">
 		<h2>Enterprise Edition Advantages</h2>
 		<ul class="list">
-			<li class="list-item team">
+			<li class="list-item team" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Ensure Successful Implementation</p>
 				<p class="proposal-descr">
 					We understand that today’s e-commerce store is a complex integration solution that requires multiple teams, from marketing to IT, working together to make it a success. With Virto Commerce Enterprise e-commerce platform, you’ll gain access to a team of experienced developers and architects who will guide you to an elegant and simple e-commerce solution.
 				</p>
 			</li>
-			<li class="list-item updates">
+			<li class="list-item updates" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Take Advantage of New Opportunities</p>
 				<p class="proposal-descr">
 					With an e-commerce field changing so fast, be the first to benefit from new trends and markets before the opportunity window closes. Get a competitive edge by utilizing our extensible open source platform.
 				</p>
 			</li>
-			<li class="list-item dev">
+			<li class="list-item dev" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Influence Us</p>
 				<p class="proposal-descr">
 					As an enterprise customer, you have a unique power to influence our roadmap. Take advantage of that to shape the product into helping you archive your own goals and reduce your development time and costs.
 				</p>
 			</li>
-			<li class="list-item support">
+			<li class="list-item support" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Professional Support</p>
 				<p class="proposal-descr">
