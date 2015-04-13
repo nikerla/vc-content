@@ -40,7 +40,6 @@ tags :
 				</div>
 			</div>
 		</div>
-
 		<h1 class="title">Explore our 2.0 Beta Online Demo</h1>
 		<div class="columns">
 			<div class="column">
@@ -68,6 +67,7 @@ tags :
 					<a class="button fill" target="_blank"  href="http://demo2.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
 				</div>
 			</div>
+		</div>
 	</div>
 	{% include technologies.html %}
 </article>
