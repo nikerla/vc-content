@@ -67,7 +67,7 @@ tags :
 			II. Entity Size Restrictions
 			<br />
 			<br />
-			This licene may not be used by a commercial entity with annual gross revenues (based on prior fiscal year) in excess of US$100,000, or by an educational, academic, non-profit or government entity with a total annual budget for the entire entity (based on prior fiscal year) in excess of US$100,000.
+			This licene may not be used by a commercial entity with annual gross revenues (based on prior fiscal year) in excess of US$1,000,000, or by an educational, academic, non-profit or government entity with a total annual budget for the entire entity (based on prior fiscal year) in excess of US$1,000,000.
 			<br />
 			<br />
 			III. Virto Commerce logo and text
