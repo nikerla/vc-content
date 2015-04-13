@@ -40,7 +40,34 @@ tags :
 				</div>
 			</div>
 		</div>
-		<div class="columns"><div class="column"><div style="width:800px;" class="block"><h3>UPDATE: Demo of Virtocommerce Beta 2.0 now available! </h3><p class="text">Look at the new Web Virto Commerce Manager.</p><p class="text"><a href="http://virtoadmin.azurewebsites.net/" target="_blank" rel="nofollow">http://virtoadmin.azurewebsites.net/</a></p><p class="text">login: admin</p><p class="text">pass: store</p></div></div></div>
+
+		<h1 class="title">Explore our 2.0 Beta Online Demo</h1>
+		<div class="columns">
+			<div class="column">
+				<div class="block">
+					<div class="img-300">
+						<img alt="Virto Commerce frontend accelerator" src="/Content/images/advantages/2.jpg" class="border">
+					</div>
+					<h3>Frontend Accelerator</h3>
+					<p class="text">Explore front end written using MVC5/Liquid.</p>
+					<p class="text"><a href="http://demo2.virtocommerce.com" target="_blank" rel="nofollow">http://demo2.virtocommerce.com</a></p>
+					<a class="button fill" target="_blank" href="http://demo2.virtocommerce.com/" rel="nofollow">Open Frontend Accelerator</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="block">
+					<div class="img-300">
+						<img alt="Virto Commerce manager" src="/Content/images/advantages/demo-console.png" class="border">
+					</div>
+					<h3>Commerce Manager</h3>
+					<p class="text">Virto Commerce Admin Demo.</p>
+					<p class="text">To connect to the demo store please use:</p>
+					<p class="text">login: admin</p>
+					<p class="text">pass: store</p>
+					<p class="text">link: http://demo2.virtocommerce.com</p>
+					<a class="button fill" target="_blank"  href="http://demo2.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
+				</div>
+			</div>
 	</div>
 	{% include technologies.html %}
 </article>
