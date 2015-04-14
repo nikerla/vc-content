@@ -15,8 +15,8 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Winter 2014-2015</p>
-				<p class="roadmap-descr">We are gearing up for a very eventful winter here at Virto Commerce. Several major releases as scheduled to be published including Marketplace, new generation Order System and a lot of updates to the Web Admin.</p>
+				<p class="roadmap-title">Spring-Summer 2015</p>
+				<p class="roadmap-descr">We are gearing up for a very eventful spring-summer here at Virto Commerce. Several major releases as scheduled to be published including AppStore, new generation Order System and a lot of updates to the Web Admin.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
