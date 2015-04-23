@@ -26,9 +26,7 @@ tags :
 			<div class="head __cart">
 				<h1 class="title">Running your store</h1>
 			</div>
-			<h2 class="sub-title">Running your store</h2>
 			<p class="text">Create and deploy stores, add products, accept and process orders, manage themes and website content and more.</p>
-			<h2 class="sub-title">Virto Commerce provides everything to build your online business</h2>
 			<p class="text">Virto Commerce provides everything to build your online business. You can even decide where you want it to be hosted (based on location, price and any factors that are important for you). You will gain complete access to all the code and control your own business as compared to a SaaS model where you have to use functionality SaaS provides.</p>
 			<h2 class="sub-title">Free Hosting</h2>
 			<p class="text">Host free with Microsoft Azure using their free websites hosting plan.</p>
