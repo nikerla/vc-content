@@ -21,15 +21,7 @@ tags :
 
 <article role="main" class="main">
 	<div class="business-features clearfix __responsive">
-		<div class="business-menu">
-			<ul class="menu __business-features">
-				<li class="menu-item __cart __selected">
-					<a class="menu-link" href="/shopping-cart">
-						Shopping Cart
-					</a>
-				</li>
-			</ul>
-		</div>
+		{% include features-left-menu.html %}
 		<div class="business-cnt">
 			<div class="head __cart">
 				<h1 class="title">H1 B2B Ecommerce Platform</h1>
