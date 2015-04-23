@@ -22,7 +22,7 @@ tags :
 	<div class="business-features clearfix __responsive">
 		{% include features-left-menu.html %}
 		<div class="business-cnt">
-			<div class="head __cart">
+			<div class="head __features">
 				<h1 class="title">Multi-tenant</h1>
 			</div>
 			<h2 class="sub-title">Multi-Vendor e-Commerce Platform</h2>
