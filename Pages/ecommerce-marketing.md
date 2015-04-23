@@ -26,7 +26,7 @@ tags :
 			<div class="head __cart">
 				<h1 class="title">Marketing and SEO</h1>
 			</div>
-			<h2 class="sub-title">Marketing and SEO</h2>
+
 			<p class="text">Use Virto Commerce advanced marketing and SEO features to promote your store online and encourage customers to shop more.</p>
 			<h2 class="sub-title">Search Engine Optimization</h2>
 			<p class="text">Virto Commerce follows Search Engine Optimization best practices and allows customization of Meta Tags, Title and H1 tag. At the same time it provides requirements for product listing and info pages structure. Mechanism of creating SEO friendly URLs and sitemap.xml allows creation of unified naming structure and together with dynamic search implement SEO for low frequency requests. Collection of SEO features lets your ecommerce solution attract traffic from Google, Bing and Yahoo.</p>
