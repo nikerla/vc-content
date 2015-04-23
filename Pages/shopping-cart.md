@@ -5,6 +5,14 @@ description: Build an online store with Virto Commerce ASP.NET shopping cart sof
 date: 2014-01-30
 canonical: http://virtocommerce.com/shopping-cart
 permalink: /pages/shopping-cart
+ogimage: http://virtocommerce.com/Content/images/vc_fb.jpg
+ogtitle: Best ASP.NET Shopping Cart Software - Free Community Edition
+ogsitename: Virtocommerce
+twittercard: summary
+twittertitle: Virto Commerce
+twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
+twitterimage: http://virtocommerce.com/Content/images/vc_fb-2.jpg
+twittersite: Virtocommerce
 tags : 
 - shopping-cart
 - cart
