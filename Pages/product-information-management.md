@@ -25,7 +25,7 @@ tags :
 	<div class="business-features clearfix __responsive">
 		{% include features-left-menu.html %}
 		<div class="business-cnt">
-			<div class="head __cart">
+			<div class="head __cnt">
 				<h1 class="title">Catalog and Product information management (PIM)</h1>
 			</div>
 			<h2 class="sub-title">Catalog management</h2>
