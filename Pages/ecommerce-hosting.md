@@ -34,11 +34,11 @@ tags :
 			<p class="text">If you want to completely control all the data and how site is running, use on-premise hosting and deploy Virto Commerce on your own servers.</p>
 			<h2 class="sub-title">Scalable & reliable</h2>
 			<p class="text">When hosted on Microsoft Cloud, you have an option to seamlessly scale up and down your own instance based on schedule, traffic or manually. Running on two instances will also improve reliability.</p>
-      <h2 class="sub-title">Geo location</h2>
+			<h2 class="sub-title">Geo location</h2>
 			<p class="text">Choose where you want instances of Virto Commerce to run from US, Europe to South America and Asia. Virto Commerce can be as easily installed in multiple regions to better serve your local customers.</p>
-      <h2 class="sub-title">Free hosting</h2>
+			<h2 class="sub-title">Free hosting</h2>
 			<p class="text">New business? Microsoft Cloud provides free hosting for up to 10 shared websites. Virto Commerce Community Edition can be easily configured to run in such environment.</p>
-      <h2 class="sub-title">Automatic backups</h2>
+			<h2 class="sub-title">Automatic backups</h2>
 			<p class="text">Database can be automatically backed up with a restore points available within the past 35 days.</p>
 
 			<div class="buttons columns"><div class="column"><a class="button fill" href="/try-now">Try It Now</a></div></div>
