@@ -40,8 +40,11 @@ tags :
 			<p class="text">New business? Microsoft Cloud provides free hosting for up to 10 shared websites. Virto Commerce Community Edition can be easily configured to run in such environment.</p>
 			<h2 class="sub-title">Automatic backups</h2>
 			<p class="text">Database can be automatically backed up with a restore points available within the past 35 days.</p>
-
-			<div class="buttons columns"><div class="column"><a class="button fill" href="/try-now">Try It Now</a></div></div>
+			<div class="buttons columns">
+			<div class="column">
+			<a class="button fill" href="/try-now">Try It Now</a>
+			</div>
+			</div>
 		</div>
 	</div>
 </article>
