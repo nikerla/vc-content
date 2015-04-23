@@ -23,7 +23,7 @@ tags :
 	<div class="business-features clearfix __responsive">
 		{% include features-left-menu.html %}
 		<div class="business-cnt">
-			<div class="head __cart">
+			<div class="head __search">
 				<h1 class="title">Running your store</h1>
 			</div>
 			<p class="text">Create and deploy stores, add products, accept and process orders, manage themes and website content and more.</p>
