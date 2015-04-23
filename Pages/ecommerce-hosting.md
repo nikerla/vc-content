@@ -23,7 +23,7 @@ tags :
 	<div class="business-features clearfix __responsive">
 		{% include features-left-menu.html %}
 		<div class="business-cnt">
-			<div class="head __cart">
+			<div class="head __pr">
 				<h1 class="title">Azure ecommerce hosting</h1>
 			</div>
 			<h2 class="sub-title">Cloud based hosting</h2>
