@@ -23,7 +23,7 @@ tags :
 	<div class="business-features clearfix __responsive">
 		{% include features-left-menu.html %}
 		<div class="business-cnt">
-			<div class="head __cart">
+			<div class="head __order">
 				<h1 class="title">Marketing and SEO</h1>
 			</div>
 			<p class="text">Use Virto Commerce advanced marketing and SEO features to promote your store online and encourage customers to shop more.</p>
