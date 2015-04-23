@@ -27,7 +27,7 @@ tags :
 				<h1 class="title">Shopping cart and checkout</h1>
 			</div>
 			<h2 class="sub-title">Open source shopping cart software</h2>
-			<p class="text">Open Source, Shopping cart, Free Community Edition</p>
+			<p class="text">Virto Commerce is now available for startup companies. It solves the growth problem many startups experience when migration from free/hosted shopping cart software to more sophisticated ecommerce platform is needed. Using Free Virto Commerce Community Edition deployed on Microsoft Azure Cloud becomes a natural choice for any startup.</p>
 			<h2 class="sub-title">Shopping user experience</h2>
 			<p class="text">Virto Commerce shopping cart supplies you with the right technology so you can concentrate on designing a satisfying user experience (UX). Open architecture allows you to easily adapt to new trends in a dynamic e-commerce market without losing competitive advantages. Utilize such features as A/B testing, commerce analytics and many more.</p>
 			<h2 class="sub-title">Checkout/integration</h2>
