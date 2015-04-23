@@ -4,7 +4,7 @@ title: Advanced pricing engine
 description: Virto Commerce provides flexible and isolated pricing engine that can be used to implement any type of pricing logic.
 date: 2014-01-30
 canonical: http://virtocommerce.com/multi-tenant-list
-permalink: /pages/multi-tenant-list
+permalink: /pages/multi-tenant
 ogimage: http://virtocommerce.com/Content/images/vc_fb.jpg
 ogtitle: Virto Commerce provides flexible and isolated pricing engine that can be used to implement any type of pricing logic
 ogsitename: Virtocommerce
