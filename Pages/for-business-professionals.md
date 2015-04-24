@@ -33,7 +33,7 @@ tags :
 					<h1>Multi-tenant</h1>
 					<p>Use the multi-vendor approach to extend your business capabilities.
 Our multi-tenant e-commerce platform allows easy vendor and
-partner relations management. <a class="link" href="/features/multi-tenant">Read more</a></p>
+partner relations management. <a class="link" href="/multi-tenant">Read more</a></p>
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce separate price lists" src="/Content/images/business-features/3.png">
