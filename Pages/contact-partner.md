@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Contact Partner
 description: Enterprise .NET open-source ecommerce cloud platform. Contact Partner
