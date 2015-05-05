@@ -74,7 +74,7 @@ your ideas and experience in any e-commerce related fields.
 				</div>
 				<div class="control-group normal error">
                                     <input type="checkbox" required="" class="error" id="" name="">
-                                    <a target="_blank" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US100,000)</a>
+                                    <a target="_blank" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US1,000,000)</a>
                                 </div>
 				<button class="button fill" type="submit">Submit request</button>
 			</form>
