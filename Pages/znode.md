@@ -15,7 +15,7 @@ tags :
 			<div class="column">
 				<div class="block">
 					<h3 class="title">Virto Commerce</h3>
-					<p class="text">Developed from 2011 as an enterprise platform with focus on Azure cloud and all the latest technologies available including .NET 4.5, Windows Workflow Foundation, Entity Framework 5, Web API, Elastic Search etc.</p>
+					<p class="text">Developed from 2011 as an enterprise platform with focus on Azure cloud and all the latest technologies available including .NET 4.5, Windows Workflow Foundation, Entity Framework 6, Web API, Elastic Search etc.</p>
 				</div>
 			</div>
 			<div class="column">
@@ -32,7 +32,7 @@ tags :
 			<thead>
 				<tr>
 					<th>Feature</th>
-					<th>Virto Commerce 1.7</th>
+					<th>Virto Commerce 2.0</th>
 					<th>ZNode Multifront 7.0</th>
 				</tr>
 			</thead>
@@ -42,11 +42,9 @@ tags :
 					<td>
 						<ul class="list">
 							<li>.NET 4.5</li>
-							<li>MVC 4/Razor</li>
-							<li>Entity Framework 5</li>
-							<li>WPF</li>
-							<li>WWF</li>
-							<li>WCF Web Services (REST/OData/SOAP)</li>
+							<li>MVC 5/Liquid/Razor</li>
+							<li>Entity Framework 6</li>
+							<li>Angular JS based Backend</li>
 							<li>Web API</li>
 							<li>Elastic Search Server / Lucene</li>
 							<li>IoC/Unity</li>
@@ -75,7 +73,7 @@ tags :
 				</tr>
 				<tr>
 					<td>Backend</td>
-					<td>Uses native WPF Application with ClickOnce update technology</td>
+					<td>AngularJS based extensible web administration</td>
 					<td>Web Form based online application</td>
 				</tr>
 				<tr>
