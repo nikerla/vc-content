@@ -39,7 +39,7 @@ deployment and configuration, samples of modular plugin extensions and more.</sp
 								</li>
 								<li>
 									<span class="title">
-										<a href="/roadmap" >Platfom Evolution</a>
+										<a href="/roadmap" >Platform Evolution</a>
 									</span>
 									<span class="descr">Actual roadmap includes product development plans from virtocommerce team as well as from our partners.</span>
 								</li>
@@ -66,6 +66,11 @@ stories and other virtocommerce related updates.
 									</span>
 									<span class="descr">Additionally to our helpdesk portal, we officially support
 virtocommerce branch on stackoverflow. It is a recommended way to get answers to your technical questions.</span>
+								</li>
+								<li>
+									<span class="title">
+										<a href="/apps">App store</a>
+									</span>
 								</li>
 							</ul>
 						</div>
