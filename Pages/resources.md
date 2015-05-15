@@ -70,6 +70,8 @@ virtocommerce branch on stackoverflow. It is a recommended way to get answers to
 								<li>
 									<span class="title">
 										<a href="/apps">App store</a>
+									<span class="descr">Explore our constantly growing store for new features, modules and services provided both by our Partner Community and Virto Commerce engineers.</span>
+
 									</span>
 								</li>
 							</ul>
