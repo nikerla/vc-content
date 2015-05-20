@@ -25,7 +25,7 @@ tags :
 		{% include features-left-menu.html %}
 		<div class="business-cnt">
 			<div class="head __multi">
-				<h1 class="title">Design you store</h1>
+				<h1 class="title">Design your store</h1>
 			</div>
 			<p class="text">Choose one of the existing templates or create a custom ecommerce website design.</p>
 			<h2 class="sub-title">Virto Themes App Store</h2>
