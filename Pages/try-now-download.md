@@ -27,7 +27,7 @@ tags :
 			</div>
 			<div class="column">
 				<div class="block">
-					<h3 class="title">Azire and Source Code (version 2)</h3>
+					<h3 class="title">Azure and Source Code (version 2)</h3>
 					<p class="text">You can download full source code and setup platform locally by following <a title="Fetting started Guide" href="http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started" target="_blank" rel="nofollow">source code getting started guide</a>&nbsp;or you can setup your own private and free azure environment by following <a href="http://docs.virtocommerce.com/display/vc2devguide/Deploy+from+GitHub+to+Microsoft+Cloud+Azure" target="_blank" rel="nofollow"> deploying to Azure</a> guide.</p>
 				</div>
 				<div class="block">
