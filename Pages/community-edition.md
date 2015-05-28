@@ -25,7 +25,7 @@ tags :
 <article role="main" class="main">
 	<!-- Proposal -->
 	<div class="proposal __responsive">
-		<h2>What can you expect with Community Edition</h2>
+		<h2 class="head-title">What can you expect with Community Edition</h2>
 		<ul class="list">
 			<li class="list-item access" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
