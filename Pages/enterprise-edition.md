@@ -25,7 +25,7 @@ tags :
 <article role="main" class="main">
 	<!-- Proposal -->
 	<div class="proposal __responsive">
-		<h2>Enterprise Edition Advantages</h2>
+		<h2 class="head-title">Enterprise Edition Advantages</h2>
 		<ul class="list">
 			<li class="list-item team" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
