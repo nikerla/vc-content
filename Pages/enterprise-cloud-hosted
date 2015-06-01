@@ -16,45 +16,48 @@ tags :
 		<div class="slider-info">
 			<h1 class="slider-title">Enterprise Cloud Hosted</h1>
 			<h2 class="slider-descr">
-				Build your business with a .NET <br /> 
-				Enterprise e-Commerce Platform <br /> 
-				that can evolve over time
+				Focus on business features <br /> 
+				while we manage everything from <br /> 
+				code quality to backups
 			</h2>
-			<a class="button fill" href="/try-now">Try It Now</a>
+			<a class="button fill" href="/try-now">Sign Up Now</a>
 		</div>
 	</div>
 </div>
 <article role="main" class="main">
 	<!-- Proposal -->
 	<div class="proposal __responsive">
-		<h2 class="head-title">Enterprise Edition Advantages</h2>
+		<h2 class="head-title">Features</h2>
 		<ul class="list">
 			<li class="list-item team" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
-				<p class="proposal-title">Ensure Successful Implementation</p>
+				<p class="proposal-title">Software as a Service</p>
 				<p class="proposal-descr">
-					We understand that today’s e-commerce store is a complex integration solution that requires multiple teams, from marketing to IT, working together to make it a success. With Virto Commerce Enterprise e-commerce platform, you’ll gain access to a team of experienced developers and architects who will guide you to an elegant and simple e-commerce solution.
+				With our platform we tak care of everything, including uptime, maintenance, security and updates so you
+				can focus on business features.
 				</p>
 			</li>
 			<li class="list-item updates" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
-				<p class="proposal-title">Take Advantage of New Opportunities</p>
+				<p class="proposal-title">Stability and Security</p>
 				<p class="proposal-descr">
-					With an e-commerce field changing so fast, be the first to benefit from new trends and markets before the opportunity window closes. Get a competitive edge by utilizing our extensible open source platform.
+				Virto Commerce experts work with your development team to make sure your e-commerce store code is secure,
+				optimized and fast.
 				</p>
 			</li>
 			<li class="list-item dev" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
-				<p class="proposal-title">Influence Us</p>
+				<p class="proposal-title">Backups</p>
 				<p class="proposal-descr">
-					As an enterprise customer, you have a unique power to influence our roadmap. Take advantage of that to shape the product into helping you archive your own goals and reduce your development time and costs.
+					We backup your site files, database in multiple locations and you can restore to any point of time
+					in the last 30 days to make sure you don't have to worry about data loss.
 				</p>
 			</li>
 			<li class="list-item support" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
-				<p class="proposal-title">Professional Support</p>
+				<p class="proposal-title">24/7 IT Support</p>
 				<p class="proposal-descr">
-					Get access to a vendor level support and receive timely updates and fixes.
+				In case of emergency we handle the call at 2am, not you.
 				</p>
 			</li>
 		</ul>
