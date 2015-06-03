@@ -67,7 +67,7 @@ tags :
 		<p class="head-title">Request Enterprise Hosting details</p>
 		<div class="responsive">
 			<div class="price-descr">
-				<p id="cont_1"></p>
+				To learn more about Enterprise Edition Hosting, please complete the brief form and we will be in contact with you shortly
 			</div>
 			<form class="price-form clearfix">
 				<input type="hidden" value="Virto Commerce Enterprise Hosted Edition Request" name="Subject" />
@@ -76,9 +76,10 @@ tags :
 				<div class="control-group">
 					<input type="text" placeholder="Full name ..." class="form-input" name="FullName" required>
 					<input type="text" placeholder="Your email ..." class="form-input" name="To" required>
+					<input type="text" placeholder="Your phone ..." class="form-input" name="Phone" required>
 				</div>
 				<div class="control-group">
-					<textarea placeholder="Comments ..." rows="5" cols="5" id="" name="Comment" class="form-text" required></textarea>
+					<textarea placeholder="Describe what are you looking for ..." rows="5" cols="5" id="" name="Comment" class="form-text" required></textarea>
 				</div>
 				<button class="button fill" type="submit">Submit request</button>
 			</form>
