@@ -20,7 +20,7 @@ tags :
 				while we manage everything from <br /> 
 				code quality to backups
 			</h2>
-			<a class="button fill" href="/try-now">Sign Up Now</a>
+			<a class="button fill" href="#pricing">Sign Up Now</a>
 		</div>
 	</div>
 </div>
@@ -63,6 +63,7 @@ tags :
 		</ul>
 	</div>
 	<!-- Prices -->
+	<a name="pricing"></a>
 	<div class="prices clearfix">
 		<p class="head-title">Request Enterprise Hosting details</p>
 		<div class="responsive">
