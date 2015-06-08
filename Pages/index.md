@@ -9,7 +9,7 @@ tags :
 - commerce
 ---
 <article role="main" class="main">
-	<!-- Enetrprise -->
+	<!-- Enterprise -->
 	<div class="main-enterprise">
 		<div class="presentation responsive">
 			<div class="presentation-info">
