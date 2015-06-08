@@ -88,14 +88,14 @@ tags :
 		<div class="responsive">
 			<h1 class="head-title">Designed for Developers</h1>
 			<div class="join-info">
-				<h2 class="joiner pro">Marketplace</h2>
+				<h2 class="joiner pro">AppStore</h2>
 				<h2 class="joiner flex">Modular Architecture</h2>
 				<h2 class="joiner code">Open source</h2>
 			</div>
 			<div class="join-dialog">
 				<div class="join-content pro opened">
-					<h3 class="name">Marketplace</h3>
-					<p>Publish your solutions, modules and services to Virto Commerce Marketplace. Connect with potential customers and buyers.</p>
+					<h3 class="name">AppStore</h3>
+					<p>Publish your solutions, modules and services to Virto Commerce AppStore. Connect with potential customers and buyers.</p>
 				</div>
 				<div class="join-content flex">
 					<h3 class="name">Modular <br>architerture</h3>
