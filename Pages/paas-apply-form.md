@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Become Partner
-description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Become Partner
+title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
+description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 date: 2015-06-09
 permalink: our-services/contact
 tags : 
-- become-partner
-- partner
 - commerce
 ---
 <article role="main" class="main">
@@ -58,27 +56,20 @@ tags :
 							<textarea rows="10" cols="30" name="Comments" class="form-text" required></textarea>
 						</div>
 						<div class="control-group">
-							<button class="button fill" type="submit">Send Message</button>
+							<button class="button fill" type="submit">Submit Request</button>
 						</div>
 					</form>
 				</div>
 			</div>
 			<div class="column">
 				<div class="block">
-					<p class="title">Who can participate?</p>
-					<p class="text">Consulting or developing companies with eCommerce practice background and expertise reviewed by us.</p>
-					<p class="title">What's in it for you?</p>
-					<ul class="list">
-						<li>Access to latest eCommerce Platfrom features</li>
-						<li>Generous commissions</li>
-						<li>Priority Technical Support</li>
-						<li>Licenses for testing and evaluating purposes</li>
-						<li>Web site presence with partner profile</li>
-						<li>Lead generation and referral program</li>
-						<li>Joint PR &amp; Marketing Activities</li>
-						<li>Joint press releases</li>
-						<li>Success story postings</li>
+<p class="title">How much does Virto Commerce cost?</p>
+					<ul class="text">
+						Prices for Virto Commerce Hosting start at $2,998 per month for up to 3 websites. Our Self-Hosted services start at $298 per month. If that sounds like a good fit, get in touch!
 					</ul>
+					<p class="title">Do we need to have any Virto Commerce development skills to take advantage of these services?</p>
+					<p class="text">To receive the full benefits of this programs we recommend having at least one in-house Virto Commerce developer or an outside consultant involved with your company (we can recommend some).</p>
+					
 				</div>
 			</div>
 		</div>
