@@ -11,7 +11,7 @@ tags :
 ---
 <article role="main" class="main">
 	<div class="responsive">
-		<h1 class="title">Explore our 2.0 Beta Online Demo</h1>
+		<h1 class="title">Explore our 2.0 Online Demo</h1>
 		<div class="columns">
 			<div class="column">
 				<div class="block">
