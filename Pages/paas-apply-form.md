@@ -63,13 +63,16 @@ tags :
 			</div>
 			<div class="column">
 				<div class="block">
-<p class="title">How much does Virto Commerce cost?</p>
+                    <p class="title">How much does Virto Commerce cost?</p>
 					<p class="text">
 						Prices for Virto Commerce Hosting start at $2,998 per month for up to 3 websites. Our Self-Hosted services start at $298 per month. If that sounds like a good fit, get in touch!
 					</p>
-					<p class="title">Do we need to have any Virto Commerce development skills to take advantage of these services?</p>
-					<p class="text">To receive the full benefits of this programs we recommend having at least one in-house Virto Commerce developer or an outside consultant involved with your company (we can recommend some).</p>
-					
+					<p class="title">
+                        Do we need to have any Virto Commerce development skills to take advantage of these services?
+                    </p>
+					<p class="text">
+                        To receive the full benefits of this programs we recommend having at least one in-house Virto Commerce developer or an outside consultant involved with your company (we can recommend some).
+                    </p>
 				</div>
 			</div>
 		</div>
