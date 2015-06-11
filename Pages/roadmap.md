@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
 description: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
@@ -15,8 +15,8 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Spring-Summer 2015</p>
-				<p class="roadmap-descr">We are gearing up for a very eventful spring-summer here at Virto Commerce. Several major releases as scheduled to be published including AppStore, new generation Order System and a lot of updates to the Web Admin.</p>
+				<p class="roadmap-title">Summer-Fall 2015</p>
+				<p class="roadmap-descr">Here is an updated roadmap for Summer-Fall. Several major releases as scheduled to be published including support for blogs, amazon and ebay marketplaces, dynamics nav and ax support, integration with xero and a lot of updates to the Commerce Manager.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
@@ -26,8 +26,8 @@ tags :
 									<span class="descr">This model has a new architecture that provides transaction model and support for simplifying various B2B and B2C scenarios. Integration with ERP and WMS platforms will be much more intuitive and simple.</span>
 								</li>
 								<li>
-									<span class="title">Virto Commerce Marketplace</span>
-									<span class="descr">Site where our partners can publish various components and solutions for Virto Commerce. It will allow for a better collaboration between partners, solution providers and customers. Our core modules will also be published through new marketplace site.</span>
+									<span class="title">Virto Commerce AppStore</span>
+									<span class="descr">Site where our partners can publish various components and solutions for Virto Commerce. It will allow for a better collaboration between partners, solution providers and customers. Our core modules will also be published through new appstore site.</span>
 								</li>
 								<li>
 									<span class="title">Multi Channel</span>
