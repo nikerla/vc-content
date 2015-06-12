@@ -44,8 +44,8 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title">Improved major APIs</span>
-									<span class="descr">Updated Web API based web services for Catalog, Dynamic Content, Order and Configuration.</span>
+									<span class="title"><a href="/features/ecommerce-microsoft-dynamics-nav">Microsoft Dynamics NAV Integration</a></span>
+									<span class="descr">Module to seamlessly launch stores using your Dynamics NAV ERP. Learn more <a href="/features/ecommerce-microsoft-dynamics-nav">here</a>.</span>
 								</li>
 								<li>
 									<span class="title">Samples of Facebook and Wordpress stores</span>
