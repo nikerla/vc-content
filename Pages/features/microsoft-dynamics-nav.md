@@ -79,7 +79,7 @@ tags :
                 <li class="list-item">
                     <span class="title">Keep Growing</span>
                     <span class="descr">
-                        Virto commerce supports multiple stores, multiple currencies, multiple languages. Exapnd to new countries or regions, build your vendor specific stores, integrate POS systems, all this is possible with Virto Commerce and our AppStore. 
+                        Virto commerce supports multiple stores, multiple currencies, multiple languages. Expand to new countries or regions, build your vendor specific stores, integrate POS systems, all this is possible with Virto Commerce and our AppStore. 
                     </span>
                 </li>
                 <li class="list-item">
