@@ -22,7 +22,7 @@ tags :
 									<span class="title">
 										<a href="/try-now">Live Demo & Source Code Download</a>
 									</span>
-									<span class="descr">Explore our online demo for both frontend and admin sites. Download complete source code.
+									<span class="descr">Explore our online demo for both frontend and admin sites. Install your own instance on Microsoft Cloud (Azure). Download complete source code.
 								</li>
 								<li>
 									<span class="title">
