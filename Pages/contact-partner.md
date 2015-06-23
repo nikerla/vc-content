@@ -4,17 +4,13 @@ title: Enterprise .NET open-source ecommerce cloud platform. Contact Partner
 description: Enterprise .NET open-source ecommerce cloud platform. Contact Partner
 date: 2014-01-30
 permalink: /pages/contact-partner
-tags :
-- contact-partner
-- partner
-- commerce
 ---
 <article role="main" class="main">
-	<div class="download responsive">
+	<div class="roadmap responsive">
 		<h1 class="head-title">Contact Partner</h1>
 		<p class="text">Use this form to contact partner directly.</p>
 		<form class="form" action="">
-			<input type="hidden" value="Download SDK" name="Subject"/>
+			<input type="hidden" value="Contact Partner" name="Subject"/>
 			<input type="hidden" value="true" name="IsResend"/>
 			<input type="hidden" value="/thank-you" name="RedirectUrl" />
 			<input type="hidden" value="" name="PartnerId" />
