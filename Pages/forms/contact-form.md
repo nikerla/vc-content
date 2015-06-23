@@ -39,18 +39,18 @@ tags :
 							<input type="text" name="Company" class="form-input">
 						</div>
 						<div class="control-group">
-							<label for="descr">Which Virto product are you consideting?</label>
+							<label for="descr">Which Virto product are you considering?</label>
 							<label><input name="SoftwareType" type="radio" value="Cloud Hosting"/> Cloud Hosting</label>
 							<label><input name="SoftwareType" type="radio" value="Self Hosted"/> Self Hosted</label>
 							<label><input name="SoftwareType" type="radio" value="Community"/> Community</label>
 							<label><input name="SoftwareType" type="radio" value="Not Sure"/> I'm not sure yet</label>
 						</div>
 						<div class="control-group">
-							<label for="web">Which website you are considering</label>
-							<input type="text" name="Website" class="form-input" required>
+							<label for="web">Which website are you are considering</label>
+							<input type="text" name="Website" class="form-input">
 						</div>
 						<div class="control-group">
-							<label for="descr">Tell us about your site, company and traffic</label>
+							<label for="descr">Tell us about your site, company and traffic (required)</label>
 							<textarea rows="10" cols="30" name="Comments" class="form-text" required></textarea>
 						</div>
 						<div class="control-group">
@@ -69,7 +69,12 @@ tags :
 						</li>
 						<li>
 							<span class="title">Is the source code provided?</span>
-							<span class="descr">Yes, complete source code of Virto Commerce can be accessed from our <a href="http://github.com/VirtoCommerce/vc-community" target="_blank">GitHub repository</a>.</span>
+							<span class="descr">Yes, complete source code of Virto Commerce can be accessed from our <a href="http://virtocommerce.com/try-now-download" target="_blank">GitHub repository</a>.</span>
+						</li>
+						<li>
+							<span class="title">How do I request for a demo?</span>
+							<span class="descr">We'd love to demo our awesome platform for you! Please fill out the form on this page and include a note that you'd love to have a demo, 
+							its as simple as that! Or if you prefer, you can also email us at <a href="mailto:sales@virtocommerce.com">sales@virtocommerce.com</a> and we'll be right on it.</span>
 						</li>
 						<li>
 							<span class="title">Do we need to have any Virto Commerce development skills to take advantage of Cloud Hosting Services?</span>
