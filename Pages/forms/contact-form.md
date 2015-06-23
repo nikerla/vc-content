@@ -68,17 +68,17 @@ tags :
 							<span class="descr">Prices for Virto Commerce Hosting start at $2,998 per month for up to 3 websites. Our Self-Hosted product start at $298 per month. If that sounds like a good fit, get in touch!</span>
 						</li>
 						<li>
-							<span class="title">Do we need to have any Virto Commerce development skills to take advantage of these services?</span>
+							<span class="title">Do we need to have any Virto Commerce development skills to take advantage of Cloud Hosting Services?</span>
 							<span class="descr">To receive the full benefits of this programs we recommend having at least one in-house Virto Commerce developer or an outside consultant involved with your company (we can recommend some).</span>
 						</li>
 						<li>
 							<span class="title">What are limitations of Community Edition?</span>
-							<span class="descr">Community edition must display have "{{ powered_by_link }}" in the layout which in tern displays a link to virtocommerce.com. Community edition also can't be used for sites or businesses that generate
+							<span class="descr">Community edition must have "powered_by_link" in the layout which displays a link to virtocommerce.com. Community edition also can't be used for sites or businesses that generate
 							more than USD1,000,000 gross annual revenue.</span>
 						</li>
 						<li>
-							<span class="title">How do I obtain Community license?</span>
-							<span class="descr">In order to get a community license you must send us information about your company and website domain you want to use for community license.</span>
+							<span class="title">How do I remove "powered_by_link" while using Community license?</span>
+							<span class="descr">You will need to get produciton deployment community license. Please fill the form on your left making sure to complete information about your company and website domain you want to use for community license.</span>
 						</li>
 					</ul>
 				</div>
