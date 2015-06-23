@@ -13,8 +13,8 @@ permalink: features/shopify-migration
 		<div class="features-content clearfix">
 			<div class="responsive">
                 <div class="feature-descr">
-                    Shopify importer is an extension for Virto Commerce that will allow you to completely migrate you shopify store to 
-					Virto Commerce platform. Import products, variations, images, prices, inventory, customers, orders and complete themes including stylesheets and custom assets.
+                    Shopify importer is an extension for Virto Commerce that allows you to completely migrate you shopify store to 
+					Virto Commerce platform. Import products, variations, images, prices, inventory, customers and templates and themes.
                 </div>
 			</div>
 		</div>
@@ -25,20 +25,20 @@ permalink: features/shopify-migration
 						<p>Status: Testing</p>
 						<p>Versions: 2.x</p>
 					</div>
-                    <a class="button white large" href="http://help.virtocommerce.com/support/discussions/topics/4000320958" target="_blank">Vote and discuss!</a>
+                    <a class="button white large" href="http://help.virtocommerce.com/support/discussions/topics/4000321192" target="_blank">Vote and discuss!</a>
 				</div>
 				<div class="column">
 					<div class="feauture-soc">
 						<span class="feauture-soc_name">Share this <br>feature:</span>
 						<ul class="list __inline __socials">
                             <li class="list-item">
-                                <a target="_blank" href="http://twitter.com/share?url=http://virtocommerce.com/features/ecommerce-microsoft-dynamics-nav"></a>
+                                <a target="_blank" href="http://twitter.com/share?url=http://virtocommerce.com/features/shopify-migration"></a>
                             </li>
                             <li class="list-item fb">
-                                <a target="_blank" href="//www.facebook.com/sharer.php?u=http://virtocommerce.com/features/ecommerce-microsoft-dynamics-nav"></a>
+                                <a target="_blank" href="//www.facebook.com/sharer.php?u=http://virtocommerce.com/features/shopify-migration"></a>
                             </li>
 							<li class="list-item plus">
-                                <a target="_blank" href="http://plus.google.com/share?url=http://virtocommerce.com/features/ecommerce-microsoft-dynamics-nav"></a>
+                                <a target="_blank" href="http://plus.google.com/share?url=http://virtocommerce.com/features/shopify-migration"></a>
 							</li>
 							<li class="list-item ln">
 								<a target="_blank" href="http://www.linkedin.com/company/virtoway/virto-commerce-788516/product?trk=biz_product"></a>

@@ -20,16 +20,16 @@ tags :
 							<ul class="list">
 								<li>
 									<span class="title">
+										<a href="/try-now">Live Demo & Source Code Download</a>
+									</span>
+									<span class="descr">Explore our online demo for both frontend and admin sites. Download complete source code.
+								</li>
+								<li>
+									<span class="title">
 										<a href="http://docs.virtocommerce.com/" target="_blank" rel="nofollow">Documentation</a>
 									</span>
 									<span class="descr">Technical documentation for developers that includes platform architecture description, API reference, recommendation for
 deployment and configuration, samples of modular plugin extensions and more.</span>
-								</li>
-								<li>
-									<span class="title">
-										<a href="/try-now-download">Downloads</a>
-									</span>
-									<span class="descr">Obtain SDK, installation packages or sources code.
 								</li>
 								<li>
 									<span class="title">
