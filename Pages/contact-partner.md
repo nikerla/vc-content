@@ -12,25 +12,25 @@ permalink: /pages/contact-partner
 		<div class="columns">
 			<div class="column">
 				<div class="block">
-					<form class="form" action="">
+					<form action="">
 						<input type="hidden" value="Contact Partner" name="Subject"/>
 						<input type="hidden" value="true" name="IsResend"/>
 						<input type="hidden" value="/thank-you" name="RedirectUrl" />
 						<input type="hidden" value="" name="PartnerId" />
 						<div class="control-group">
-							<label for="Fullname" class="form-label">Full name:</label>
+							<label for="Fullname">Full name:</label>
 							<input type="text" class="form-input" name="Fullname" required>
 						</div>
 						<div class="control-group">
-							<label for="To" class="form-label">Email:</label>
+							<label for="To">Email:</label>
 							<input type="text" class="form-input" name="To" required>
 						</div>
 						<div class="control-group">
-							<label for="CompanyName" class="form-label">Company name:</label>
+							<label for="CompanyName">Company name:</label>
 							<input type="text" class="form-input" name="CompanyName" required>
 						</div>
 						<div class="control-group">
-							<label for="Kickoff" class="form-label">When do you want to kick off this project?</label>
+							<label for="Kickoff">When do you want to kick off this project?</label>
 							<select type="text" name="Kickoff" class="form-input" required>
 								<option value="" selected>Select Option</option>
 								<option value="immediately">Immediately</option>
