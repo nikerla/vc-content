@@ -18,26 +18,26 @@ tags :
 						<input type="hidden" value="Become a partner" name="Subject"/>
 						<input type="hidden" value="true" name="IsResend"/>
 						<input type="hidden" value="/thank-you" name="RedirectUrl" />
-							<div class="control-group">
-								<label for="Fullname">Full name (required)</label>
-								<input type="text" name="Fullname" class="form-input" required>
-							</div>
-							<div class="control-group">
-								<label for="email">Email (required)</label>
-								<input type="text" name="To" class="form-input" required>
-							</div>
-							<div class="control-group">
-								<label for="phone">Phone</label>
-								<input type="text" name="Phone" class="form-input">
-							</div>
-							<div class="control-group">
-								<label for="title">Title</label>
-								<input type="text" name="Title" class="form-input">
-							</div>
-							<div class="control-group">
-								<label for="company">Company</label>
-								<input type="text" name="Company" class="form-input">
-							</div>
+						<div class="control-group">
+							<label for="Fullname">Full name (required)</label>
+							<input type="text" name="Fullname" class="form-input" required>
+						</div>
+						<div class="control-group">
+							<label for="email">Email (required)</label>
+							<input type="text" name="To" class="form-input" required>
+						</div>
+						<div class="control-group">
+							<label for="phone">Phone</label>
+							<input type="text" name="Phone" class="form-input">
+						</div>
+						<div class="control-group">
+							<label for="title">Title</label>
+							<input type="text" name="Title" class="form-input">
+						</div>
+						<div class="control-group">
+							<label for="company">Company</label>
+							<input type="text" name="Company" class="form-input">
+						</div>
 						<div class="control-group">
 							<label for="descr">Which Virto product are you consideting?</label>
 							<label><input name="SoftwareType" type="radio" value="Cloud Hosting"/> Enterprise Cloud Hosting</label>
@@ -45,11 +45,10 @@ tags :
 							<label><input name="SoftwareType" type="radio" value="Community Licensing"/> Virto Commerce Community</label>
 							<label><input name="SoftwareType" type="radio" value="Not Sure"/> I'm not sure yet</label>
 						</div>
-							<div class="control-group">
-								<label for="web">Which website you are considering</label>
-								<input type="text" name="Website" class="form-input" required>
-							</div>
-
+						<div class="control-group">
+							<label for="web">Which website you are considering</label>
+							<input type="text" name="Website" class="form-input" required>
+						</div>
 						<div class="control-group">
 							<label for="descr">Tell us about your site, company and traffic</label>
 							<textarea rows="10" cols="30" name="Comments" class="form-text" required></textarea>
