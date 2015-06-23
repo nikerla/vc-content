@@ -41,8 +41,8 @@ tags :
 						<div class="control-group">
 							<label for="descr">Which Virto product are you consideting?</label>
 							<label><input name="SoftwareType" type="radio" value="Cloud Hosting"/> Enterprise Cloud Hosting</label>
-							<label><input name="SoftwareType" type="radio" value="Software Licensing"/> Enterprise Edition</label>
-							<label><input name="SoftwareType" type="radio" value="Community Licensing"/> Community Edition</label>
+							<label><input name="SoftwareType" type="radio" value="Commercial Edition"/> Commercial Edition</label>
+							<label><input name="SoftwareType" type="radio" value="Community Edition"/> Community Edition</label>
 							<label><input name="SoftwareType" type="radio" value="Not Sure"/> I'm not sure yet</label>
 						</div>
 						<div class="control-group">
