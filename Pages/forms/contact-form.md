@@ -3,7 +3,7 @@ layout: post
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 date: 2015-06-09
-permalink: contact-us
+permalink: /pages/contact-us
 tags : 
 - commerce
 ---
