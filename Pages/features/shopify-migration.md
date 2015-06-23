@@ -1,20 +1,20 @@
 ---
 layout: post
-title: B2B & B2C e-commerce for Dynamics NAV
-description: B2B & B2C e-commerce for Dynamics NAV
-date: 2014-01-30
-permalink: features/ecommerce-microsoft-dynamics-nav
+title: Migrate your shopify store
+description: Learn how to migrate shipify store
+date: 2015-05-22
+permalink: features/shopify-migration
 ---
 <article role="main" class="main">
 	<div class="features">
 		<div class="responsive">
-			<h2 class="title">e-Commerce for Dynamics NAV</h2>
+			<h2 class="title">Import your Shopify store and start selling</h2>
 		</div>
 		<div class="features-content clearfix">
 			<div class="responsive">
                 <div class="feature-descr">
-                    Easily launch B2B or B2C online stores using Dynamics NAV. This module seamlessly integrates with your ERP backend while providing all the
-                    advantages of Virto Commerce Open Platform. Expand to new sales channels, improve service to your customers and start generating higher revenues. Our eCommerce for Dynamics NAV will help you efficiently process your online orders.
+                    Shopify importer is an extension for Virto Commerce that will allow you to completely migrate you shopify store to 
+					Virto Commerce platform. Import products, variations, images, prices, inventory, customers, orders and complete themes including stylesheets and custom assets.
                 </div>
 			</div>
 		</div>
@@ -22,7 +22,7 @@ permalink: features/ecommerce-microsoft-dynamics-nav
 			<div class="responsive">
 				<div class="column">
 					<div class="feature-info">
-						<p>Status: Under Development</p>
+						<p>Status: Testing</p>
 						<p>Versions: 2.x</p>
 					</div>
                     <a class="button white large" href="http://help.virtocommerce.com/support/discussions/topics/4000320958" target="_blank">Vote and discuss!</a>
