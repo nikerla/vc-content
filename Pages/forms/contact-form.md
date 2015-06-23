@@ -8,7 +8,7 @@ tags :
 - commerce
 ---
 <article role="main" class="main">
-	<div class="partner __responsive">
+	<div class="contact __responsive">
 		<h1 class="head-title">Ready to Order?</h1>
 		<p class="text">Tell us about your project and requirements and we’ll contact you shortly.</p>
 		<div class="columns">
