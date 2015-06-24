@@ -45,8 +45,8 @@ tags :
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Take Advantage of New Opportunities</p>
 				<p class="proposal-descr">
-					With an e-commerce field changing so fast, be the first to benefit from new trends and markets before the o
-					pportunity window closes. Get a competitive edge by utilizing our extensible open source platform.
+					With an e-commerce field changing so fast, be the first to benefit from new trends and markets before the
+					opportunity window closes. Get a competitive edge by utilizing our extensible open source platform.
 				</p>
 			</li>
 			<li class="list-item dev" style="padding-left:205px; margin-bottom: 50px;">
