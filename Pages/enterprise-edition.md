@@ -31,28 +31,38 @@ tags :
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Ensure Successful Implementation</p>
 				<p class="proposal-descr">
-					We understand that today’s e-commerce store is a complex integration solution that requires multiple teams, from marketing to IT, working together to make it a success. With Virto Commerce Enterprise e-commerce platform, you’ll gain access to a team of experienced developers and architects who will guide you to an elegant and simple e-commerce solution.
+					We understand that today’s e-commerce store is a complex integration solution that requires multiple teams, 
+					from marketing to IT, working together to make it a success. That is why every enterprise license comes with
+					architecture audit & success assurance. We'll review your code with your development team and make recommendation
+					on any pain point identified. 
+					<br/>
+					With Virto Commerce Enterprise e-commerce 
+					platform, you’ll gain access to a team of experienced developers and architects who will guide you to an 
+					elegant and simple e-commerce solution.
 				</p>
 			</li>
 			<li class="list-item updates" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Take Advantage of New Opportunities</p>
 				<p class="proposal-descr">
-					With an e-commerce field changing so fast, be the first to benefit from new trends and markets before the opportunity window closes. Get a competitive edge by utilizing our extensible open source platform.
+					With an e-commerce field changing so fast, be the first to benefit from new trends and markets before the o
+					pportunity window closes. Get a competitive edge by utilizing our extensible open source platform.
 				</p>
 			</li>
 			<li class="list-item dev" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Influence Us</p>
 				<p class="proposal-descr">
-					As an enterprise customer, you have a unique power to influence our roadmap. Take advantage of that to shape the product into helping you archive your own goals and reduce your development time and costs.
+					As an enterprise customer, you have a unique power to influence our roadmap. Take advantage of that to shape 
+					the product into helping you archive your own goals and reduce your development time and costs.
 				</p>
 			</li>
 			<li class="list-item support" style="padding-left:205px; margin-bottom: 50px;">
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Professional Support</p>
 				<p class="proposal-descr">
-					Get access to a vendor level support and receive timely updates and fixes.
+					Get access to a vendor level support and receive timely updates and fixes. We provide both standard and priority 
+					support.
 				</p>
 			</li>
 		</ul>
