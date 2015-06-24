@@ -66,7 +66,8 @@ permalink: features/shopify-migration
 				<li class="list-item">
 					<div class="title">Leverage Shopify investments</div>
 					<span class="descr">
-						We'll migrate your unique theme so you don't have to redesign your store.
+						In addition to migrating all your products and images, we will also migrate your unique shopify theme and templates, pages and blogs so 
+						you can get up and running in no time.
 					</span>
 				</li>
                 <li class="list-item">
