@@ -93,7 +93,6 @@ permalink: features/shopify-migration
                 </li>
                 <li class="list-item">
                     <span class="title">Virto Commerce Experts</span>
-                    <img alt="" src="/assets/images/dynamics/e-commerce-for-Dynamics-NAV.png">
                     <span class="descr">
                         Virto Commerce is developed using well known Microsoft .NET technology and you won't have any problems finding developers to customize it for you. 
 						We are also will be happy to recommend reliable solution partner that has experience in building stores with Virto Commerce for any budget.
