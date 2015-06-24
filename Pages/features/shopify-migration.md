@@ -65,7 +65,7 @@ permalink: features/shopify-migration
 				</li>
 				<li class="list-item">
 					<div class="title">Leverage Shopify investments</div>
-                    <img alt="" src="/assets/images/shopify/shopify-default.png">
+                    <img alt="" src="/assets/images/shopify/shopify-default.png" style="width: 250px">
 					<span class="descr">
 						We know it takes a lot of effort to launch your store. That is why we tried to make sure the work you put into creating your shopify store is not wasted.
 						In addition to migrating all your products and images, we will also migrate your unique shopify theme and templates, pages and blogs so 
