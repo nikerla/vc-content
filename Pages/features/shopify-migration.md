@@ -80,7 +80,7 @@ permalink: features/shopify-migration
                     <span class="title">Stay ahead of your competitors with Open Platform</span>
                     <span class="descr">
                         Don't get stuck using closed source e-Commerce product or saas platform. Ecommerce is constantly evolving and 
-						you can't afford to wait for your vendor to release that crucual new feature. Stay ahead of your 
+						you can't afford to wait for your vendor to release that crucial new feature. Stay ahead of your 
 						competition by utilizing Virto Commerce open source platform that is constantly (daily!) evolving.
                     </span>
                 </li>

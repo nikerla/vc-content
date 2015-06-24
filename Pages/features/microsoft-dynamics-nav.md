@@ -70,7 +70,7 @@ permalink: features/ecommerce-microsoft-dynamics-nav
 					</span>
 					<img alt="" src="/assets/images/dynamics/feature1.jpg">
                     <span class="descr">
-                        Virto Commerce is designed as a platform that can leverage data from multiple sources including your ERP. If at any point you'd like to integrate other products (online marketing, CRM, support), it can be easily accomplished using our innovative appstore modules. We and our partners add new apps every day and using services lke Zapier allows configration based integration without any custom code.
+                        Virto Commerce is designed as a platform that can leverage data from multiple sources including your ERP. If at any point you'd like to integrate other products (online marketing, CRM, support), it can be easily accomplished using our innovative appstore modules. We and our partners add new apps every day and using services like Zapier allows configuration based integration without any custom code.
                     </span>
 				</li>
                 <li class="list-item">
@@ -88,7 +88,7 @@ permalink: features/ecommerce-microsoft-dynamics-nav
                 <li class="list-item">
                     <span class="title">Stay ahead of your competitors with Open Platform</span>
                     <span class="descr">
-                        Don't get stuck using closed source e-Commerce product or platform. eCommerce and especially B2B eCommerce is constantly evolving and you can't afford to wait for your vendor to release that crucual new feature. Stay ahead of your competition by utilizing our open source platform that is constantly (daily!) evolving.
+                        Don't get stuck using closed source e-Commerce product or platform. eCommerce and especially B2B eCommerce is constantly evolving and you can't afford to wait for your vendor to release that crucial new feature. Stay ahead of your competition by utilizing our open source platform that is constantly (daily!) evolving.
                     </span>
                 </li>
                 <li class="list-item">
