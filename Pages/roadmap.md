@@ -35,7 +35,7 @@ tags :
 								</li>
 								<li>
 									<span class="title">Java Script integration API</span>
-									<span class="descr">Javascript based api to quickly integrate frontend anywhere.</span>
+									<span class="descr">Javascript based api to quickly integrate frontend anywhere. Sample facebook and wordpress stores.</span>
 								</li>
 							</ul>
 						</div>
@@ -48,8 +48,8 @@ tags :
 									<span class="descr">Module to seamlessly launch stores using your Dynamics NAV ERP. Learn more <a href="/features/ecommerce-microsoft-dynamics-nav">here</a>.</span>
 								</li>
 								<li>
-									<span class="title">Samples of Facebook and Wordpress stores</span>
-									<span class="descr">Based on javascript api.</span>
+									<span class="title"><a href="/features/shopify-migration">Shopify import</a></span>
+									<span class="descr">Import your shopify store including custom themes.</span>
 								</li>
 								<li>
 									<span class="title">Marking automation modules</span>
