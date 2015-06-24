@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Migrate your shopify store
+title: Import your shopify store
 description: Learn how to migrate shipify store
 date: 2015-05-22
 permalink: features/shopify-migration
@@ -8,13 +8,13 @@ permalink: features/shopify-migration
 <article role="main" class="main">
 	<div class="features">
 		<div class="responsive">
-			<h2 class="title">Import your Shopify store and start selling</h2>
+			<h2 class="title">Import your Shopify store and start expanding</h2>
 		</div>
 		<div class="features-content clearfix">
 			<div class="responsive">
                 <div class="feature-descr">
-                    Shopify importer is an extension for Virto Commerce that allows you to completely migrate you shopify store to 
-					Virto Commerce platform. Import products, variations, images, prices, inventory, customers and templates and themes.
+                    Shopify importer is an extension for Virto Commerce that allows you to completely migrate your shopify store to 
+					Virto Commerce platform. Import products, variations, images, prices, inventory, customers and themes.
                 </div>
 			</div>
 		</div>
@@ -51,22 +51,20 @@ permalink: features/shopify-migration
 		<div class="features-list __responsive">
 			<ul class="list">
 				<li class="list-item">
-					<span class="title">Start selling now</span>
+					<span class="title">Want more flexible and integrated solution?</span>
 					<span class="descr">
-						Start selling online in a matter of days with Dynamics Modules for Virto Commerce. Pick one of the existing fully customizable themes or create a new one. Virto Commerce provides everything you need to start selling online.
+                        Are you not able to create customer experience that you invisioned? Shopify is designed for small businesses and offers a generic fits all checkout experience that you can customize using css. However such customizations are only cosmetic. With Virto Commerce
+						you'll be able to completely change how customers shop and purchase products from you.
 					</span>
                     <img alt="" src="/assets/images/dynamics/feature3.png">
 					<span class="descr">
-						Easily create dealer stores for regions with completely custom themes, product assortment, category taxonomy, price lists and currencies. Localize these dealer stores and customize everything from payment types supported to shipping methods and delivery costs.
-					</span>
-					<span class="descr">
-                        Create private (login required) stores for just your partners.
+                        Want to offer special terms and pricing for your partners and vendors? Want to allow your vendors to have custom stores with their own themes? Virto Commerce allows all this and much more with innovative B2B features.
 					</span>
 				</li>
 				<li class="list-item">
-					<div class="title">Leverage you NAV investments</div>
+					<div class="title">Leverage Shopify investments</div>
 					<span class="descr">
-						Synchronize your product catalog, prices, contacts, promotions and orders in near real-time. You can continue to utilize Dynamics NAV for all your product, pricing and order management.
+						We'll migrate your unique theme so you don't have to redesign your store.
 					</span>
 					<img alt="" src="/assets/images/dynamics/feature1.jpg">
                     <span class="descr">
@@ -80,22 +78,18 @@ permalink: features/shopify-migration
                     </span>
                 </li>
                 <li class="list-item">
-                    <span class="title">Performance and Reliability</span>
-                    <span class="descr">
-                        Virto Commerce is designed to handle seasonal traffic spikes. It can be deployed in Microsoft Cloud (azure) and won't be unavailable even if your ERP system or network is offline. Orders and other sync messages will be stored in the reliable queue for later processing allowing your customers to still use your online store.
-                    </span>
-                </li>
-                <li class="list-item">
                     <span class="title">Stay ahead of your competitors with Open Platform</span>
                     <span class="descr">
-                        Don't get stuck using closed source e-Commerce product or platform. eCommerce and especially B2B eCommerce is constantly evolving and you can't afford to wait for your vendor to release that crucual new feature. Stay ahead of your competition by utilizing our open source platform that is constantly (daily!) evolving.
+                        Don't get stuck using closed source e-Commerce product or platform. eCommerce and especially B2B eCommerce is constantly evolving and you can't afford to wait for your 
+						vendor to release that crucual new feature. Stay ahead of your competition by utilizing our open source platform that is constantly (daily!) evolving.
                     </span>
                 </li>
                 <li class="list-item">
-                    <span class="title">Microsoft Dynamics Experts</span>
+                    <span class="title">Virto Commerce Experts</span>
                     <img alt="" src="/assets/images/dynamics/e-commerce-for-Dynamics-NAV.png">
                     <span class="descr">
-                        We've partnered with the best Microsoft Dynamics solutions providers to continually develop this module. Let us know what features are important to you!
+                        Virto Commerce is developed using well known Microsoft .NET technology and you won't have any problems finding developers to customize it for you. 
+						We are also will be happy to recommend reliable solution partner that has experience in building stores with Virto Commerce for any budget.
                     </span>                    
                 </li>
 			</ul>
