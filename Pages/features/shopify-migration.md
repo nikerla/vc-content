@@ -13,7 +13,7 @@ permalink: features/shopify-migration
 		<div class="features-content clearfix">
             <div class="responsive">
                 <div class="column">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/CWYlKO9nJgw" frameborder="0" allowfullscreen></iframe>
+                    <iframe frameborder="0" width="100%" allowfullscreen="" src="https://www.youtube.com/embed/CWYlKO9nJgw"></iframe>
                 </div>
                 <div class="column">
                     <div class="feature-descr">
