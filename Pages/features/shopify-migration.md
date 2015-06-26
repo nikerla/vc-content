@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Import your shopify store
-description: Learn how to migrate shipify store
+description: Learn how to migrate shopify store
 date: 2015-05-22
 permalink: features/shopify-migration
 ---
@@ -17,7 +17,7 @@ permalink: features/shopify-migration
                 </div>
                 <div class="column">
                     <div class="feature-descr">
-                        Shopify importer is an extension for Virto Commerce that allows you to completely migrate your shopify store to
+                        Shopify importer is an extension for Virto Commerce that allows you to completely migrate your shopify store to the
                         Virto Commerce platform. Import products, variations, images, prices, inventory, customers and themes. Extension is
                         available as open source project, so anyone can contribute and improve it.
                     </div>
@@ -59,8 +59,8 @@ permalink: features/shopify-migration
 				<li class="list-item">
 					<span class="title">Create experience your customers deserve</span>
 					<span class="descr">
-                        Shopify is designed for small businesses and offers a generic fits all checkout experience that you can customize using css. 
-						However such customizations are only cosmetic and don't offer way to dramatically improve your customer experience resulting
+                        Shopify is designed for small businesses and offers a generic one size fits all checkout experience that you can customize using css. 
+						However such customizations are only cosmetic and don't offer a way to dramatically improve your customer experience resulting
 						in lost opportunities and revenue. With Virto Commerce you'll be able to completely change how customers shop and purchase your products. 
 					</span>
 					<span class="descr">
@@ -89,7 +89,7 @@ permalink: features/shopify-migration
                     <span class="descr">
                         Don't get stuck using closed source e-Commerce product or saas platform. Ecommerce is constantly evolving and 
 						you can't afford to wait for your vendor to release that crucial new feature. Stay ahead of your 
-						competition by utilizing Virto Commerce open source platform that is constantly (daily!) evolving.
+						competition by utilizing Virto Commerce, the open source platform that is constantly (daily!) evolving.
                     </span>
                 </li>
                 <li class="list-item">
@@ -103,7 +103,7 @@ permalink: features/shopify-migration
                     <span class="title">Virto Commerce Experts</span>
                     <span class="descr">
                         Virto Commerce is developed using well known Microsoft .NET technology and you won't have any problems finding developers to customize it for you. 
-						We are also will be happy to recommend reliable solution partner that has experience in building stores with Virto Commerce for any budget.
+						We are happy to recommend reliable solution partners that have experience in building stores with Virto Commerce for any budget.
                     </span>                    
                 </li>
 			</ul>
