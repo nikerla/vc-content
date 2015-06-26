@@ -19,7 +19,7 @@ permalink: features/shopify-migration
                     <div class="feature-descr">
                         Shopify importer is an extension for Virto Commerce that allows you to completely migrate your shopify store to the
                         Virto Commerce platform. Import products, variations, images, prices, inventory, customers and themes. Extension is
-                        available as open source project, so anyone can contribute and improve it.
+                        available as an open source project, so anyone can contribute and improve it.
                     </div>
                 </div>
             </div>
