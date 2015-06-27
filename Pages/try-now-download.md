@@ -15,15 +15,16 @@ tags :
 		<div class="columns clearfix">
 			<div class="column">
 				<div class="block">
-					<h3 class="title">Online Demo</h3>
-					<p class="text">This is the easiest way to explore Virto Commerce. Our online demo runs in Azure environment. You will be able to explore both front-end and back-end functionality.</p>
-					<a class="button fill" href="/try-now/online-demo">View demo</a>
+					<h3 class="title">Setup in Microsoft Cloud (Azure)</h3>
+					<p class="text">This is the easiest way to explore Virto Commerce in your own environment. Follow the guide to configure Virto Commerce in your own private azure environment.</p>
+					<a class="button fill" target="_blank" rel="nofollow" href="http://docs.virtocommerce.com/display/vc2devguide/Deploy+from+GitHub+to+Microsoft+Cloud+Azure">Microsoft Cloud Deployment</a>
 				</div>
 			</div>
 			<div class="column">
 				<div class="block">
-					<h3 class="title">Azure and Source Code (version 2)</h3>
-					<p class="text">You can download full source code and setup platform locally by following <a title="Fetting started Guide" href="http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started" target="_blank" rel="nofollow">source code getting started guide</a>&nbsp;or you can setup your own private and free azure environment by following <a href="http://docs.virtocommerce.com/display/vc2devguide/Deploy+from+GitHub+to+Microsoft+Cloud+Azure" target="_blank" rel="nofollow"> deploying to Azure</a> guide.</p>
+					<h3 class="title">Setup using Source Code</h3>
+					<p class="text">You can download full source code and setup platform locally by following the source code guide.</p>
+					<a class="button fill" target="_blank" rel="nofollow" href="http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started">Source Code Getting Started</a>
 				</div>
 			</div>
 		</div>
