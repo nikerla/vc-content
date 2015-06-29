@@ -18,7 +18,7 @@ tags :
 				Enterprise e-Commerce Platform <br /> 
 				that can evolve over time
 			</h2>
-			<a class="button fill" href="/contact-us">Request Now</a>
+			<a class="button fill" href="/contact-us">Order Now</a>
 		</div>
 	</div>
 </div>

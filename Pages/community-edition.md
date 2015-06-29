@@ -18,7 +18,7 @@ tags :
 				Use Community Edition to start<br>
 				your Online Business
 			</h2>
-			<a class="button fill" href="/contact-us">Request Now</a>
+			<a class="button fill" href="/contact-us">Order Now</a>
 		</div>
 	</div>
 </div>
