@@ -65,7 +65,7 @@ tags :
 					<ul class="list">
 						<li>
 							<span class="title">How much does Virto Commerce cost?</span>
-							<span class="descr">Our Community License is free for qualified companies. Prices for Virto Commerce start at $298 per month. If that sounds like a good fit, get in touch!</span>
+							<span class="descr">Prices for Self-Hosted Virto Commerce start at $298 per month. If that sounds like a good fit, get in touch!</span>
 						</li>
 						<li>
 							<span class="title">Is the source code provided?</span>
