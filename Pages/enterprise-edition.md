@@ -68,7 +68,7 @@ tags :
 		</ul>
 	</div>
 	<div class="try-it">
-		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Apply now</a>
+		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
 	</div>
 	{% include learn-more.html %}
 	{% include technologies.html %}

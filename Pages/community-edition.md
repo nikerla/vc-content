@@ -55,30 +55,8 @@ your ideas and experience in any e-commerce related fields.
 		</ul>
 	</div>
 	<!-- Prices -->
-	<div class="prices clearfix">
-		<p class="head-title">Request Free Community License</p>
-		<div class="responsive">
-			<div class="price-descr">
-				<p id="cont_2"></p>
-			</div>
-			<form class="price-form clearfix">
-				<input type="hidden" value="Request Free Community License!" name="Subject"/>
-				<input type="hidden" value="true" name="IsResend"/>
-				<input type="hidden" value="/thank-you-community-request-license" name="RedirectUrl" />
-				<div class="control-group">
-					<input type="text" placeholder="Full name ..." name="FullName" class="form-input" required>
-					<input type="text" placeholder="Your email ..." name="To" class="form-input" required>
-				</div>
-				<div class="control-group" style="margin-bottom:20px">
-					<textarea placeholder="Comments ..." rows="5" cols="5" name="Comments" class="form-text" required></textarea>
-				</div>
-				<div class="control-group normal error">
-                                    <input type="checkbox" required="" class="error" id="" name="">
-                                    <a target="_blank" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US1,000,000)</a>
-                                </div>
-				<button class="button fill" type="submit">Submit request</button>
-			</form>
-		</div>
+	<div class="try-it">
+		<span class="try-it-text">Want production community license?</span> <a class="button fill" href="/contact-us">Request now</a>
 	</div>
 	{% include learn-more.html %}
 	{% include technologies.html %}
