@@ -67,27 +67,8 @@ tags :
 			</li>
 		</ul>
 	</div>
-	<!-- Prices -->
-	<div class="prices clearfix">
-		<p class="head-title">Prices</p>
-		<div class="responsive">
-			<div class="price-descr">
-				<p id="cont_1"></p>
-			</div>
-			<form class="price-form clearfix">
-				<input type="hidden" value="Virto Commerce Enterprise Edition Pricing Request" name="Subject" />
-				<input type="hidden" value="true" name="IsResend" />
-				<input type="hidden" value="/thank-you" name="RedirectUrl" />
-				<div class="control-group">
-					<input type="text" placeholder="Full name ..." class="form-input" name="FullName" required>
-					<input type="text" placeholder="Your email ..." class="form-input" name="To" required>
-				</div>
-				<div class="control-group">
-					<textarea placeholder="Comments ..." rows="5" cols="5" id="" name="Comment" class="form-text" required></textarea>
-				</div>
-				<button class="button fill" type="submit">Submit request</button>
-			</form>
-		</div>
+	<div class="try-it">
+		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Apply now</a>
 	</div>
 	{% include learn-more.html %}
 	{% include technologies.html %}
