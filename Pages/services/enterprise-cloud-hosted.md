@@ -56,8 +56,11 @@ permalink: our-offers/enterprise-cloud-hosted
 				</p>
 			</li>
 		</ul>
-		{% include pricing-paas.html %}
 	</div>
+    <div class="responsive">
+        <h2 class="head-title">Pricing</h2>
+        {% include pricing-paas.html %}
+    </div>
 	<div class="try-it">
 		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
 	</div>
