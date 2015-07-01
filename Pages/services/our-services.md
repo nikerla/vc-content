@@ -9,7 +9,7 @@ tags :
 - commerce
 ---
 <article class="main" role="main">
-    <div class="responsive">
+    <div class="our-services __responsive">
         <h2 class="head-title">Our Services</h2>
         {% include services-compare.html %}
     </div>
