@@ -15,7 +15,7 @@ permalink: our-offers/enterprise-cloud-hosted
 				while we manage everything from <br /> 
 				code quality to backups
 			</h2>
-			<a class="button fill" href="/our-offers/enterprise-cloud-hosted#pricing">Sign Up Now</a>
+			<a class="button fill" href="/contact-us">Sign Up Now</a>
 		</div>
 	</div>
 </div>
