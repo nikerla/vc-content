@@ -24,36 +24,46 @@ permalink: our-offers/enterprise-cloud-hosted
 	<div class="proposal __responsive">
 		<h2 class="head-title">Features</h2>
 		<ul class="list">
-			<li class="list-item team" style="padding-left:205px; margin-bottom: 50px;">
-				<div class="proposal-ico"></div>
-				<p class="proposal-title">Software as a Service</p>
-				<p class="proposal-descr">
-				With our platform we take care of everything, including uptime, maintenance, security and updates so you
-				can focus on business features.
-				</p>
-			</li>
-			<li class="list-item updates" style="padding-left:205px; margin-bottom: 50px;">
-				<div class="proposal-ico"></div>
-				<p class="proposal-title">Stability and Security</p>
-				<p class="proposal-descr">
-				Virto Commerce experts work with your development team to make sure your e-commerce store code is secure,
+			<li class="list-item">
+				<div class="columns">
+					<div class="column">
+						<div class="block">
+							<ul class="list">
+								<li>
+									<span class="title">Software as a Service</span>
+									<span class="descr">With our platform we take care of everything, including uptime, maintenance, security and updates so you
+				can focus on business features.</span>
+								</li>
+								<li>
+									<span class="title">
+										Backups
+									</span>
+									<span class="descr">We backup your site files, database in multiple locations and you can restore to any point of time
+					in the last 30 days to make sure you don't have to worry about data loss.</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+										<div class="column">
+						<div class="block">
+							<ul class="list">
+								<li>
+									<span class="title">
+										Stability and Security
+									</span>
+									<span class="descr">Virto Commerce experts work with your development team to make sure your e-commerce store code is secure,
 				optimized and fast.
-				</p>
-			</li>
-			<li class="list-item dev" style="padding-left:205px; margin-bottom: 50px;">
-				<div class="proposal-ico"></div>
-				<p class="proposal-title">Backups</p>
-				<p class="proposal-descr">
-					We backup your site files, database in multiple locations and you can restore to any point of time
-					in the last 30 days to make sure you don't have to worry about data loss.
-				</p>
-			</li>
-			<li class="list-item support" style="padding-left:205px; margin-bottom: 50px;">
-				<div class="proposal-ico"></div>
-				<p class="proposal-title">24/7 IT Support</p>
-				<p class="proposal-descr">
-				In case of emergency we handle the call at 2am, not you.
-				</p>
+								</li>
+								<li>
+									<span class="title">
+										24/7 IT Support
+									</span>
+									<span class="descr">In case of emergency we handle the call at 2am, not you.</span>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
 			</li>
 		</ul>
 	</div>
