@@ -21,8 +21,8 @@ permalink: our-offers/enterprise-cloud-hosted
 </div>
 <article role="main" class="main">
 	<!-- Proposal -->
-	<div class="proposal __responsive">
-		<h2 class="head-title">Features</h2>
+	<div class="roadmap __responsive">
+		<h2 class="title">Features</h2>
 		<ul class="list">
 			<li class="list-item">
 				<div class="columns">
