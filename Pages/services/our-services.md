@@ -16,7 +16,7 @@ tags :
 			<h2 class="slider-descr">
 				We offer both cloud hosted and self hosted options
 			</h2>
-			<a class="button fill" href="/contact-us">Sign Up Now</a>
+			<a class="button fill" href="/contact-us">Order now</a>
 		</div>
 	</div>
 </div>
