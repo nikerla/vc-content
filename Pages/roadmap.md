@@ -53,7 +53,11 @@ tags :
 								</li>
 								<li>
 									<span class="title">Marking automation modules</span>
-									<span class="descr">Integration with popular marketing platforms <a href="http://silverpop.com" rel="nofollow">Silverpop</a>, <a href="http://hubspot.com" rel="nofollow">Marketo</a>, <a href="http://www.marketo.com" rel="nofollow">SpotHub</a></span>
+									<span class="descr">Integration with popular marketing platforms Silverpop, Marketo, SpotHub</span>
+								</li>
+								<li>
+									<span class="title"><a href="/features/orchard-cms-ecommerce">Orchard CMS integration</a></span>
+									<span class="descr">Widgets for a popular ASP.NET CMS application.</span>
 								</li>
 								<li>
 									<span class="title">New payment systems</span>
