@@ -22,7 +22,7 @@ permalink: features/orchard-cms-ecommerce
 			<div class="responsive">
 				<div class="column">
 					<div class="feature-info">
-						<p>Status: Development (<a href="mailto:support@virtocommerce.com?subject=Orchard">Participate</a>)</p>
+						<p>Status: Development</p>
 						<p>Versions: 2.x</p>
 					</div>
                     <a class="button white large" href="http://help.virtocommerce.com/support/discussions/topics/4000321467" target="_blank">Vote and discuss!</a>

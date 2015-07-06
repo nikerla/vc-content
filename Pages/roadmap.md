@@ -30,6 +30,10 @@ tags :
 									<span class="descr">Site where our partners can publish various components and solutions for Virto Commerce. It will allow for a better collaboration between partners, solution providers and customers. Our core modules will also be published through new appstore site.</span>
 								</li>
 								<li>
+									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
+									<span class="descr">Extension for open source Umbraco CMS product.</span>
+								</li>
+								<li>
 									<span class="title">Multi Channel</span>
 									<span class="descr">Extensible open source module that provides integration with popular marketplaces. Initial version will include eBay and Amazon.</span>
 								</li>
