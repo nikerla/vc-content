@@ -13,10 +13,10 @@ tags :
 	<div class="main-enterprise">
 		<div class="presentation responsive">
 			<div class="presentation-info">
-				<h1 class="presentation-title">Open-source <span></span>.NET e-Commerce Platform <span></span>version 2 is here!</h1>
-				<h2 class="presentation_sub-title">Free Community Edition license <span></span>available for small businesses</h2>
+				<h1 class="presentation-title">Open-source .NET eCommerce<span></span>version 2 is here!<span></span>Get Started Free!</h1>
+				<h2 class="presentation_sub-title">The most advanced extensible web admin<span></span>based on AngularJS and ASP.NET MVC</h2>
 				<div class="presentation-buttons">
-					<a class="button fill" href="#" id="href_1">Try it now</a>
+					<a class="button fill" href="#" id="href_1">Download</a>
 				</div>
 			</div>
 		</div>
