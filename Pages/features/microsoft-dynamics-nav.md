@@ -8,7 +8,7 @@ permalink: features/ecommerce-microsoft-dynamics-nav
 <article role="main" class="main">
 	<div class="features">
 		<div class="responsive">
-			<h2 class="title">e-Commerce for Dynamics NAV</h2>
+			<h1 class="title">e-Commerce for Dynamics NAV</h1>
 		</div>
 		<div class="features-content clearfix">
 			<div class="responsive">

@@ -8,7 +8,7 @@ permalink: features/shopify-migration
 <article role="main" class="main">
 	<div class="features">
 		<div class="responsive">
-			<h2 class="title">Import your shopify store</h2>
+			<h1 class="title">Import your shopify store</h1>
 		</div>
 		<div class="features-content clearfix">
             <div class="responsive">
