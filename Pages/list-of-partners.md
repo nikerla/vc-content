@@ -15,6 +15,18 @@ tags :
 		<p class="text">These are hand picked companies with expertise reviewed by us. They all have experiences delivering successful e-commerce solutions for medium and large businesses.</p>
 		<ul class="list">
 			<li class="list-item">
+				<a href="http://projectthunder.com/" class="list-pic" rel="nofollow">
+					<img alt="" src="/assets/images/partners/projectthunder.png">
+				</a>
+				<div class="list-info">
+					<a href="http://projectthunder.com/" class="link" rel="nofollow">ProjectThunder</a>
+					<p class="country">United States</p>
+					<p class="lang">Languages Spoken: English</p>
+					<p class="text">ProjectThunder is an internet software development company for web, desktop and mobile platforms. Our team consists of seasoned veterans with over 100 years of collective experience, we have the savvy to bring it all together. With our ongoing demographic analysis, testing and evaluation we create eCommerce websites that convert clicks into sales.</p>
+					<a class="button" href="/contact-partner?pid=projectthunder" rel="nofollow">Contact partner</a>
+				</div>
+			</li>
+			<li class="list-item">
 				<a href="http://icubeonline.com/" class="list-pic" rel="nofollow">
 					<img alt="" src="/Content/images/partners/icube.jpg">
 				</a>
