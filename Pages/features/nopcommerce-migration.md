@@ -61,7 +61,7 @@ permalink: features/nopcommerce-migration
                     <span class="descr">
                     	Virto Commerce utilizes Liquid engine for frontend themes instead of razor. That means views are completely decoupled from the implementation 
 						and can be easily migrate from one version to the next. Liquid was developed specifically to allow designers and users to be able to 
-						modify templates while razor is specifically for developers. With liquid you can allow your customers to edit templates without worring that
+						modify templates while razor is specifically for developers. With liquid you can allow your customers to edit templates without worrying that
 						these modifications will crash the store.  
 					</span>
                 </li>
@@ -76,7 +76,7 @@ permalink: features/nopcommerce-migration
                     <span class="title">Take advantage of powerful eCommerce Platform</span>
                     <span class="descr">
                         NopCommerce is great product for starting a new store. However once you have a successful store
-						that requires high scalabiility or extensive integration it will become not so simple to manage. Virto Commerce was designed to be easily customized and extended. It has
+						that requires high scalability or extensive integration it will become not so simple to manage. Virto Commerce was designed to be easily customized and extended. It has
 						features to implemented both B2C and B2B type of stores and will easily scale to handle thousands of products and millions of orders.
                     </span>
                 </li>
