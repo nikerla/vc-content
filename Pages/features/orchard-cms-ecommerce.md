@@ -64,7 +64,7 @@ permalink: features/orchard-cms-ecommerce
 					</span>
 				</li>
 				<li class="list-item">
-					<div class="title">Leverage you Orchard CMS investments</div>
+					<div class="title">Leverage Orchard CMS investments</div>
 					<span class="descr">
 						Use your existing Orchard CMS site and simply drag and drop ecommerce widgets.
 					</span>

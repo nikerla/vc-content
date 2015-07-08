@@ -13,8 +13,8 @@ permalink: features/wordpress-woocommerce-migration
 		<div class="features-content clearfix">
 			<div class="responsive">
                 <div class="feature-descr">
-                    Virto Commerce includes functionality that allows WooCommerce customers to quickly migrate there stores to Virto Commerce. Several
-					stores already took advantage of these features and accomplished migration.
+					Virto Commerce includes functionality that allows WooCommerce customers to quickly migrate stores to Virto Commerce. Several
+					stores already took advantage of these features and accomplished successful migration.
 				</div>
 			</div>
 		</div>
@@ -51,18 +51,20 @@ permalink: features/wordpress-woocommerce-migration
 		<div class="features-list __responsive">
 			<ul class="list">
 				<li class="list-item">
-					<span class="title">Start selling now</span>
+					<div class="title">Leverage WooCommerce investments</div>
+					<img alt="" src="/assets/images/woocommerce_logo.png">
 					<span class="descr">
-						Start selling online in a matter of days with Virto Commerce CVS import modules.
+						Use Virto Commerce advanced CSV importing functionality to migrate all the catalog data including images, products, prices and categories.
 					</span>
-                    <img alt="" src="/assets/images/woocommerce_logo.png">
 				</li>
 				<li class="list-item">
-					<div class="title">Leverage you WooCommerce investments</div>
-					<span class="descr">
-						Quickly import your catalog data and take advantage of Virto Commerce theme engine.
-					</span>
-				</li>
+                    <span class="title">Take advantage of powerful eCommerce Platform</span>
+                    <span class="descr">
+                        WooCommerce is great product for starting a new store or adding one to the existing Wordpress site. However once you have a successful store
+						that requires integration or some customization it will become not so simple to manage. Virto Commerce was designed to be easily customized and extended. It has
+						features to implemented both B2C and B2B type of stores and will easily scale to handle thousands of products and millions of orders.
+                    </span>
+                </li>
                 <li class="list-item">
                     <span class="title">Stay ahead of your competitors with Open Platform</span>
                     <span class="descr">

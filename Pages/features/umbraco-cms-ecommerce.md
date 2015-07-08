@@ -64,7 +64,7 @@ permalink: features/umbraco-cms-ecommerce
 					</span>
 				</li>
 				<li class="list-item">
-					<div class="title">Leverage you Umbraco CMS investments</div>
+					<div class="title">Leverage Umbraco CMS investments</div>
 					<span class="descr">
 						Use your existing Umbraco CMS site and simply drag and drop ecommerce widgets.
 					</span>
