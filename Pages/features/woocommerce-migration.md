@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Import your WordPress WooCommerce store
+title: Migrate your WordPress WooCommerce store
 description: Learn how to migrate WordPress WooCommerce store
 date: 2015-05-22
 permalink: features/wordpress-woocommerce-migration
@@ -8,7 +8,7 @@ permalink: features/wordpress-woocommerce-migration
 <article role="main" class="main">
 	<div class="features">
 		<div class="responsive">
-			<h1 class="title">Import your WordPress WooCommerce store</h1>
+			<h1 class="title">Migrate your WordPress WooCommerce store</h1>
 		</div>
 		<div class="features-content clearfix">
 			<div class="responsive">

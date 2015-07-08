@@ -38,6 +38,10 @@ tags :
 									<span class="descr">Learn how to migrate your WooCommerce store to Virto Commerce.</span>
 								</li>
 								<li>
+									<span class="title"><a href="/features/nopcommerce-migration">NopCommerce migration</a></span>
+									<span class="descr">Learn how to migrate your NopCommerce store to Virto Commerce.</span>
+								</li>
+								<li>
 									<span class="title">Multi Channel</span>
 									<span class="descr">Extensible open source module that provides integration with popular marketplaces. Initial version will include eBay and Amazon.</span>
 								</li>
