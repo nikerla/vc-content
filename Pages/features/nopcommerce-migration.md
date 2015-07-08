@@ -14,7 +14,9 @@ permalink: features/nopcommerce-migration
 			<div class="responsive">
                 <div class="feature-descr">
 					NopCommerce is a popular ASP.NET application and utilizes similar technologies including ASP.NET MVC and 
-					MS SQL Server allowing for easier migration.
+					MS SQL Server allowing for easier migration. Import your store assets and take advantage of all the advanced features
+					Virto Commerce has to offer including multiple catalogs, price lists, powerful theme engine and many more. Contact us if 
+					you need any help with the import process.
 				</div>
 			</div>
 		</div>
