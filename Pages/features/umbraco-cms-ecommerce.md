@@ -78,5 +78,8 @@ permalink: features/umbraco-cms-ecommerce
 			</ul>
 		</div>
 	</div>
+	<div class="try-it">
+		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
+	</div>
 	{% include technologies.html %}
 </article>
