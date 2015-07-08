@@ -34,6 +34,10 @@ tags :
 									<span class="descr">Extension for open source Umbraco CMS product.</span>
 								</li>
 								<li>
+									<span class="title"><a href="/features/wordpress-woocommerce-migration">WordPress WooCommerce migration</a></span>
+									<span class="descr">Learn how to migrate your WooCommerce store to Virto Commerce.</span>
+								</li>
+								<li>
 									<span class="title">Multi Channel</span>
 									<span class="descr">Extensible open source module that provides integration with popular marketplaces. Initial version will include eBay and Amazon.</span>
 								</li>
