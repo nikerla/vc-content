@@ -3,7 +3,6 @@ layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Features
 description: Enterprise .NET open-source ecommerce cloud platform. Features
 date: 2014-01-30
-published:false
 permalink: /pages/pricing
 tags : 
 - features
