@@ -13,8 +13,8 @@ tags :
 	<div class="main-enterprise">
 		<div class="presentation responsive">
 			<div class="presentation-info">
-				<h1 class="presentation-title">Open-source .NET eCommerce product<span></span>Version 2 is here!</h1>
-				<h2 class="presentation_sub-title">Built using the most extensible web platform<span></span>based on AngularJS and ASP.NET MVC.
+				<h1 class="presentation-title">Open-source ecommerce platform<span></span>for B2B & B2C solutions</h1>
+				<h2 class="presentation_sub-title">Finally ecommerce .NET developers deserve
 				<span></span>Get started for free.</h2>
 				<div class="presentation-buttons">
 					<a class="button fill" href="#" id="href_1">Try Now</a>
