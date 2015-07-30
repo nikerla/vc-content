@@ -64,7 +64,7 @@ permalink: features/ecommerce-microsoft-dynamics-nav
 					</span>
 				</li>
 				<li class="list-item">
-					<div class="title">Leverage you NAV investments</div>
+					<div class="title">Leverage Dynamics NAV investments</div>
 					<span class="descr">
 						Synchronize your product catalog, prices, contacts, promotions and orders in near real-time. You can continue to utilize Dynamics NAV for all your product, pricing and order management.
 					</span>
