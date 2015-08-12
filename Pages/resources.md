@@ -73,6 +73,12 @@ virtocommerce branch on stackoverflow. It is a recommended way to get answers to
 									</span>
 <span class="descr">Explore our constantly growing store for new features, modules and services provided both by our Partner Community and Virto Commerce engineers.</span>
 								</li>
+								<li>
+									<span class="title">
+										<a href="http://demo2.virtocommerce.com/admin/docs/ui/index">API Reference</a>
+									</span>
+<span class="descr">The REST API provides you with the ability to manage your modules by providing calls for working with resources.</span>
+								</li>
 							</ul>
 						</div>
 					</div>
