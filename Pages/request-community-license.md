@@ -34,7 +34,7 @@ tags :
 							<input type="text" name="Url" class="form-input" required>
 						</div>
 						<div class="control-group">
-							<label for="descr"><br /><input type="checkbox" name="Agree" required /><a style="margin-left: 15px; color:#fff;" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US100,000)</a></label>
+							<label for="descr"><br /><input type="checkbox" name="Agree" required /><a style="margin-left: 15px; color:#fff;" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US1,000,000)</a></label>
 						</div>
 						<div class="control-group">
 							<button class="button fill" type="submit">Request license</button>
