@@ -35,8 +35,8 @@ tags :
 					<p class="text">To connect to the demo store please use:</p>
 					<p class="text">login: admin</p>
 					<p class="text">pass: store</p>
-					<p class="text"><a href="http://demo2.virtocommerce.com/admin" target="_blank" rel="nofollow">http://demo2.virtocommerce.com/admin</a></p>
-					<a class="button fill" target="_blank"  href="http://demo2.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
+					<p class="text"><a href="http://demo2.virtocommerce.com/admin" target="_blank" rel="nofollow">http://demo.virtocommerce.com/admin</a></p>
+					<a class="button fill" target="_blank"  href="http://demo.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
 				</div>
 			</div>
 		</div>
