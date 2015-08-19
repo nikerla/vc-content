@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Virto commerce - Try now .NET open-source ecommerce platform
 description: Virto commerce - Try now .NET open-source ecommerce platform
