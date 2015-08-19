@@ -20,8 +20,8 @@ tags :
 					</div>
 					<h3>Frontend Accelerator</h3>
 					<p class="text">Explore front end written using MVC5/Liquid. It support 100's of various themes in liquid format. Supports variety of devices from desktop to mobile.</p>
-					<p class="text"><a href="http://demo2.virtocommerce.com" target="_blank" rel="nofollow">http://demo2.virtocommerce.com</a></p>
-					<a class="button fill" target="_blank" href="http://demo2.virtocommerce.com/" rel="nofollow">Open Frontend Accelerator</a>
+					<p class="text"><a href="http://demo.virtocommerce.com" target="_blank" rel="nofollow">http://demo.virtocommerce.com</a></p>
+					<a class="button fill" target="_blank" href="http://demo.virtocommerce.com/" rel="nofollow">Open Frontend Accelerator</a>
 				</div>
 			</div>
 			<div class="column">
