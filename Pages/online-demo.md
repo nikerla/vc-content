@@ -15,8 +15,8 @@ tags :
 		<div class="columns">
 			<div class="column">
 				<div class="block">
-					<div class="img-300">
-						<img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-home.png" class="border">
+					<div class="img-500">
+						<a target="_blank" href="http://demo.virtocommerce.com/" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-home.png" class="border"></a>
 					</div>
 					<h3>Frontend Accelerator</h3>
 					<p class="text">Explore front end written using MVC5/Liquid. It support 100's of various themes in liquid format. Supports variety of devices from desktop to mobile.</p>
@@ -26,8 +26,8 @@ tags :
 			</div>
 			<div class="column">
 				<div class="block">
-					<div class="img-300">
-						<img alt="Virto Commerce manager" src="assets/images/demo/admin-dashboard.png" class="border">
+					<div class="img-500">
+						<a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="assets/images/demo/admin-dashboard.png" class="border"></a>
 					</div>
 					<h3>Commerce Manager</h3>
 					<p class="text">Virto Commerce Manager Demo.</p>
