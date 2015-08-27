@@ -40,7 +40,7 @@ tags :
 						</div>
 						<div class="control-group">
 							<label for="descr">Which Virto product are you considering?</label>
-							<label><input name="SoftwareType" type="radio" value="Cloud Hosting"/> Cloud Hosting</label>
+							<label><input name="SoftwareType" type="radio" value="Cloud Hosting"/> Cloud Hosting (we manage and deploy)</label>
 							<label><input name="SoftwareType" type="radio" value="Self Hosted"/> Self Hosted</label>
 							<label><input name="SoftwareType" type="radio" value="Community"/> Community</label>
 							<label><input name="SoftwareType" type="radio" value="Not Sure"/> I'm not sure yet</label>
@@ -77,18 +77,16 @@ tags :
 							its as simple as that! Or if you prefer, you can also email us at <a href="mailto:sales@virtocommerce.com">sales@virtocommerce.com</a> and we'll be right on it.</span>
 						</li>
 						<li>
-							<span class="title">Do we need to have any Virto Commerce development skills to take advantage of Cloud Hosting Services?</span>
-							<span class="descr">To receive the full benefits of this program we recommend having at least one in-house Virto Commerce developer or an outside consultant involved with your company (we can recommend some).</span>
+							<span class="title">What is Cloud Hosting Services?</span>
+							<span class="descr">Cloud hosting is a unique service we offer that allow our customers to focus on developing business features while our experienced engineers handle code and architecture validation, product code merges  in your source repository, deployments to production and much more.</span>
 						</li>
 						<li>
 							<span class="title">Can I use Community Edition?</span>
-							<span class="descr">Community edition can only be used for sites or businesses that generate less than 1 million USD gross annual revenue. 
-							Sites running community edition must have "powered by link" in the layout which displays a link to virtocommerce.com.</span>
+							<span class="descr">Community edition can only be used for sites or businesses that generate less than 1 million USD gross annual revenue. Sites running community edition must have "powered by link" in the layout which displays a link to virtocommerce.com.</span>
 						</li>
 						<li>
 							<span class="title">How do I remove "powered by link" while using Community Edition?</span>
-							<span class="descr">You will need to get our production deployment community license. Please fill the form on this page and make sure to complete information 
-							about your company and website domain you want to use for community license.</span>
+							<span class="descr">You will need to get our production deployment community license. Please fill the form on this page and make sure to complete information about your company and website domain you want to use for community license.</span>
 						</li>
 					</ul>
 				</div>
