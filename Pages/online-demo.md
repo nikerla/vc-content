@@ -30,8 +30,7 @@ tags :
 						<a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="assets/images/demo/admin-dashboard.png" class="border"></a>
 					</div>
 					<h3>Commerce Manager</h3>
-					<p class="text">Virto Commerce Manager Demo.</p>
-					<p class="text">Manage everything using this singple page web based HTML5/AngularJS based administration console. Supports complete extensibility and additional modules/extensions can be downloaded and installed from our AppStore.</p>
+					<p class="text">Manage everything using this single page web based HTML5/AngularJS based administration console. Supports complete extensibility and additional modules/extensions can be downloaded and installed from our AppStore.</p>
 					<p class="text">To connect to the demo store please use:</p>
 					<p class="text">login: admin</p>
 					<p class="text">pass: store</p>
