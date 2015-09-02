@@ -31,7 +31,7 @@ permalink: features/shopify-migration
 						<p>Status: Testing</p>
 						<p>Versions: 2.x</p>
 					</div>
-                    <a class="button white large" href="http://help.virtocommerce.com/support/discussions/topics/4000321192" target="_blank">Vote and discuss!</a>
+                    <a class="button white large" href="http://virtocommerce.com/apps/import-from-shopify-to-virtocommerce-platform" target="_blank">Download!</a>
 				</div>
 				<div class="column">
 					<div class="feauture-soc">
