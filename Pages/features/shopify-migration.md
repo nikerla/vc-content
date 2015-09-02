@@ -28,8 +28,8 @@ permalink: features/shopify-migration
 			<div class="responsive">
 				<div class="column">
 					<div class="feature-info">
-						<p>Status: Testing</p>
-						<p>Versions: 2.x</p>
+						<p>Status: Available</p>
+						<p>Versions: 2.4</p>
 					</div>
                     <a class="button white large" href="http://virtocommerce.com/apps/import-from-shopify-to-virtocommerce-platform" target="_blank">Download!</a>
 				</div>
