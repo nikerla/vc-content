@@ -22,10 +22,10 @@ permalink: features/orchard-cms-ecommerce
 			<div class="responsive">
 				<div class="column">
 					<div class="feature-info">
-						<p>Status: Development</p>
-						<p>Versions: 2.x</p>
+						<p>Status: Available</p>
+						<p>Versions: 2.4</p>
 					</div>
-                    <a class="button white large" href="http://help.virtocommerce.com/support/discussions/topics/4000321467" target="_blank">Vote and discuss!</a>
+                    <a class="button white large" href="http://gallery.orchardproject.net/List/Modules/Orchard.Module.VirtoCommerce.Webshop" target="_blank">Download!</a>
 				</div>
 				<div class="column">
 					<div class="feauture-soc">
