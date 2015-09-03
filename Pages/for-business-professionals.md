@@ -23,12 +23,13 @@ tags :
 					<h1>Catalog</h1>
 					<p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and B2B product lists.
 					Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 
-					3rd party PIM or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.</p>
+					3rd party PIM or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.
 					<ul>
 						<li>Multiple store catalogs</li>
 						<li>Physical products</li>
 						<li>Digital products</li>
 					</ul>
+					</p>
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce multiple stores" src="/Content/images/business-features/2.png">
@@ -46,16 +47,6 @@ partner relations management. <a class="link" href="/multi-tenant">Read more</a>
 					<img alt="Virto Commerce separate price lists" src="/Content/images/business-features/3.png">
 					<h1>Separate price lists</h1>
 					<p>Maximize profits with targeted pricing for different users! Prices can be determined by locations as well as taking shipping costs into consideration. You can also offer special pricings for returning customers. Virto Commerce makes this possible by separating the price lists from products, giving you greater pricing control.</p>
-				</li>
-				<li class="list-item">
-					<img alt="Virto Commerce multiple product types" src="/Content/images/business-features/4.png">
-					<h1>Multiple product types</h1>
-					<p>Provide customers with a richer shopping experience by linking related products, bundling products into kits, or automatically adding satellite products to shopping carts. Simply define these product relationships by indicating the product type you want, which includes options for SKU, tax codes, and more.</p>
-				</li>
-				<li class="list-item">
-					<img alt="Virto Commerce advanced template engine" src="/Content/images/business-features/5.png">
-					<h1>Advanced template engine</h1>
-					<p>Templates define different product types, as well as different categories. The advanced template engine enables you to customize templates for individual products, or for entire stores and categories.</p>
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce promotions" src="/Content/images/business-features/6.png">
