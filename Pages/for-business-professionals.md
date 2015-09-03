@@ -52,7 +52,7 @@ Our multi-tenant e-commerce platform allows easy vendor and
 partner relations management. <a class="link" href="/multi-tenant">Read more</a></p>
 				</li>
 				<li class="list-item">
-					<img alt="Virto Commerce separate price lists" src="/Content/images/business-features/3.png">
+					<img alt="personalized price lists" src="/assets/images/features/pricing.png">
 					<h1>Pricing</h1>
 					<p>Virto Commerce provides responsive pricing engine. Prices can be personalized in real-time based on audience, campaign, purchase history, geo-location, contracts and other customer-based scenarios.</p>
 					<ul class="features-list">
