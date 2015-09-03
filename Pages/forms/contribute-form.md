@@ -10,7 +10,7 @@ tags :
 <article role="main" class="main">
 	<div class="roadmap __responsive">
 		<h1 class="head-title">Virto Commerce Contributor License Agrement</h1>
-		<p class="text">Grant of Copyright and Patent License</p>
+		<p class="text">Complete the form below to accept contributor agreement</p>
 		<div class="columns">
 			<div class="column">
 				<div class="block">
