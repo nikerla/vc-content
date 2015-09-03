@@ -63,19 +63,27 @@ partner relations management. <a class="link" href="/multi-tenant">Read more</a>
 					</ul>										
 				</li>
 				<li class="list-item">
-					<img alt="Virto Commerce promotions" src="/Content/images/business-features/6.png">
-					<h1>Promotions</h1>
-					<p>Our promotion engine lets you create free shipping campaigns, discounts on selected products, coupons for future purchases, and much more! And because it's such a simple and easy tool to utilize, you won't be needing any developer assistance. That's a promotions in itself!</p>
+					<img alt="Virto Commerce promotions" src="/assets/images/features/pricing.png">
+					<h1>Promotions & Marketing</h1>
+					<p>Our promotion engine lets you create free shipping campaigns, discounts on selected products, coupons for future purchases, and much more! And because it's such a simple and easy tool to utilize, you 
+					won't be needing any developer assistance. That's a promotions in itself! Promotions can be combined with marketing system to deliver truely engaging campaigns.</p>
+					<ul class="features-list">
+						<li>Product & Cart promotions</li>
+						<li>Shipping promotions</li>
+						<li>Marketing campaigns</li>
+						<li>Banners</li>
+					</ul>										
 				</li>
 				<li class="list-item">
-					<img alt="Virto Commerce dynamic content" src="/Content/images/business-features/7.png">
-					<h1>Dynamic content</h1>
-					<p>With dynamic content, you can create unique messaging for specific customers based on their behaviors. This gives your marketing team the power to implement targeted campaigns and raise the average revenue per user.</p>
-				</li>
-				<li class="list-item">
-					<img alt="Virto Commerce customer ratings and reviews" src="/Content/images/business-features/8.png">
-					<h1>Customer Ratings &amp; Reviews</h1>
-					<p>Customer reviews and ratings are an out-of-the-box feature. It gives customers the product feedback they want and increasing their brand trust. The Commerce Manager also helps oversee reviews and ratings, verifying them to be appropriate and useful.</p>
+					<img alt="order management" src="/assets/images/features/order.png">
+					<h1>Order Management</h1>
+					<p>Virto Commerce provides industry leading document based order management functionality. It can be integrated into complex enterprise workflows - including many leading ERP and Fulfillment systems.</p>
+					<ul class="features-list">
+						<li>Customer order history</li>
+						<li>Split shipments</li>
+						<li>Punchout support</li>
+						<li>Quotes & Purchase Orders</li>
+					</ul>				
 				</li>
 			</ul>
 			<a class="link" href="/Files/Feature-Guide.pdf">Read our Feature Guide</a>
