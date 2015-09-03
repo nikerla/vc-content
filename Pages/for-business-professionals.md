@@ -24,25 +24,25 @@ tags :
 					<p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and B2B product lists.
 					Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 
 					3rd party PIM or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.
-						<ul>
+					</p>
+						<ul class="features-list">
 							<li>Multiple store catalogs</li>
 							<li>Physical products</li>
 							<li>Digital products</li>
 						</ul>
-					</p>
 				</li>
 				<li class="list-item">
 					<img alt="Merchandising" src="/assets/images/features/crosssell.png">
 					<h1>Merchandising</h1>
 					<p>Our tools are designed for innovative companies where merchants collaborate closely with brand marketing. We provide tools to optimize your 
 					offering and drive conversions. With Cross-sells, up-sells, product recommendations and even custom relations you will be able to execute any merchandising plan.
-					<ul>
+					</p>
+					<ul class="features-list">
 						<li>Cross-sell products</li>
 						<li>Up-sell products</li>
 						<li>Replacement and accessories</li>
 						<li>Recently viewed products</li>
-					</ul>					
-					</p>
+					</ul>										
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce multi-tenant" src="/Content/images/business-features/multi-tenant.png">
@@ -53,8 +53,8 @@ partner relations management. <a class="link" href="/multi-tenant">Read more</a>
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce separate price lists" src="/Content/images/business-features/3.png">
-					<h1>Separate price lists</h1>
-					<p>Maximize profits with targeted pricing for different users! Prices can be determined by locations as well as taking shipping costs into consideration. You can also offer special pricings for returning customers. Virto Commerce makes this possible by separating the price lists from products, giving you greater pricing control.</p>
+					<h1>Pricing</h1>
+					<p>Virto Commerce provides responsive pricing engine. Prices can be personalized in real-time based on audience, campaign, purchase history, and other customer-based scenarios.				
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce promotions" src="/Content/images/business-features/6.png">
