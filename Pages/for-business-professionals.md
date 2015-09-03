@@ -21,9 +21,14 @@ tags :
 				<li class="list-item">
 					<img alt="Virto Commerce master and virtual catalogs" src="/assets/images/features/catalog.png">
 					<h1>Catalog</h1>
-					<p>Our ecommerce platform provides sophisticated catalog management capabilities making is simple and elegant to manage even the most complex B2C and B2B product lists.
+					<p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and B2B product lists.
 					Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 
 					3rd party PIM or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.</p>
+					<ul>
+						<li>Multiple store catalogs</li>
+						<li>Physical products</li>
+						<li>Digital products</li>
+					</ul>
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce multiple stores" src="/Content/images/business-features/2.png">
