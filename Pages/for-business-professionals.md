@@ -24,17 +24,25 @@ tags :
 					<p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and B2B product lists.
 					Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 
 					3rd party PIM or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.
-					<ul>
-						<li>Multiple store catalogs</li>
-						<li>Physical products</li>
-						<li>Digital products</li>
-					</ul>
+						<ul>
+							<li>Multiple store catalogs</li>
+							<li>Physical products</li>
+							<li>Digital products</li>
+						</ul>
 					</p>
 				</li>
 				<li class="list-item">
-					<img alt="Virto Commerce multiple stores" src="/Content/images/business-features/2.png">
-					<h1>Multiple stores</h1>
-					<p>Expand your business globally in a short amount of time! Reach diversification and expand your target market with our multi-currency, multi-language and multi-store options. Connect with customers worldwide and tap into foreign markets that will surely boost your sales and profits.</p>
+					<img alt="Merchandising" src="/assets/images/features/crosssell.png">
+					<h1>Merchandising</h1>
+					<p>Our tools are designed for innovative companies where merchants collaborate closely with brand marketing. We provide tools to optimize your 
+					offering and drive conversions. With Cross-sells, up-sells, product recommendations and even custom relations you will be able to execute any merchandising plan.
+					<ul>
+						<li>Cross-sell products</li>
+						<li>Up-sell products</li>
+						<li>Replacement and accessories</li>
+						<li>Recently viewed products</li>
+					</ul>					
+					</p>
 				</li>
 				<li class="list-item">
 					<img alt="Virto Commerce multi-tenant" src="/Content/images/business-features/multi-tenant.png">
