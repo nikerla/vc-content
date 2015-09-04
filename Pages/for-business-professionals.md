@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Virto Commerce - Set of the best e-commerce business features
+title: Virto Commerce - experience drive ecommerce platform
 description: Virto commerce - Features for B2B and B2C ecommerce solutions
 date: 2014-01-30
 permalink: features/for-business-professionals
@@ -56,7 +56,7 @@ tags :
 					</ul>										
 				</li>
 				<li class="list-item">
-					<img alt="Virto Commerce promotions" src="/assets/images/features/pricing.png">
+					<img alt="Virto Commerce promotions" src="/assets/images/features/pricing.png"/>
 					<h1>Promotions & Marketing</h1>
 					<p>Our promotion engine lets you create free shipping campaigns, discounts on selected products, coupons for future purchases, and much more! And because it's such a simple and easy tool to utilize, you 
 					won't be needing any developer assistance. That's a promotions in itself! Promotions can be combined with marketing system to deliver truely engaging campaigns.</p>
@@ -68,7 +68,7 @@ tags :
 					</ul>										
 				</li>
 				<li class="list-item">
-					<img alt="order management" src="/assets/images/features/order.png">
+					<img alt="order management" src="/assets/images/features/order.png"/>
 					<h1>Order Management</h1>
 					<p>Virto Commerce provides industry leading document based order management functionality. It can be integrated into complex enterprise workflows - including many leading ERP and fulfillment systems.</p>
 					<ul class="features-list">
@@ -80,7 +80,7 @@ tags :
 					</ul>				
 				</li>
 				<li class="list-item">
-					<img alt="order management" src="/assets/images/features/cms.png">
+					<img alt="order management" src="/assets/images/features/cms.png"/>
 					<h1>Content Management (CMS)</h1>
 					<p>Virto Commerce comes with a simple yet extremely powerful CMS that gives both developers and marketers complete access customizing the store look and feel. Developers can easily create and publish new themes while marketers can 
 					create landing pages, blog posts, marketing banners and more. Virto Commerce is also integrated with many industry leading CMS to provide even more flexibility</p>
@@ -93,17 +93,162 @@ tags :
 					</ul>				
 				</li>
 				<li class="list-item">
-					<img alt="Virto Commerce multi-tenant" src="/Content/images/business-features/multi-tenant.png">
+					<img alt="multi-tenant" src="/assets/images/features/frontend.png"/>
 					<h1>Multi-tenant</h1>
-					<p>Use the multi-vendor approach to extend your business capabilities.
-Our multi-tenant e-commerce platform allows easy vendor and
-partner relations management. <a class="link" href="/multi-tenant">Read more</a></p>
+					<p>Built to support complex B2B scenarios, Virto Commerce includes capabilities to create solutions for distributors and manufacturers. Create complex org structures, allow vendors to accept orders and customize 
+					look and feel of their storefront. <a class="link" href="/multi-tenant">Read more</a></p>
+					<ul class="features-list">
+						<li>Create organizations</li>
+						<li>Vendor store themes and templates</li>
+						<li>Relate orders to specific vendor/store</li>
+						<li>Control vendor permissions</li>
+					</ul>				
 				</li>
-			</ul>
-			<!--
+			</ul> 
+			<!-- 
 			<a class="link" href="/Files/Feature-Guide.pdf">Read our Feature Guide</a>
 			-->
 		</div>
+        <div class="advantages">
+			<h2>Commerce Integration Platform</h2>
+			<ul class="list">
+				<li class="list-item">
+						<img alt="multi-tenant" src="/assets/images/features/rest-api.png"/>
+						<p>Virto Commerce is developed using modular architecture with each module exposing a set of REST based API's. These standards based unified API's provide
+						businesses, agencies, and system integrators with advanced ecommerce capabilities that are easier to consume, manage and combine with other business systems and frontend technologies. 
+						</p>
+				</li> 
+			</ul> 
+		</div>
+        <div class="capabilities">
+         	<h2>Virto Commerce Platform Capabilities</h2>
+        	<div class="columns four">
+		        <div class="column">
+                    <div class="block">
+                        <h3>Catalog</h3>
+                        <ul class="list">
+                            <li>Master & virtual catalogs</li>
+                            <li>Categories</li>
+							<li>Multiple languages</li>
+                            <li>Multiple currencies</li>
+							<li>Physical products</li>
+							<li>Digital products</li>
+							<li>Subscription products</li>
+							<li>Product & category attributes</li>
+                        </ul>
+                    </div>
+                </div>
+		        <div class="column">
+                    <div class="block">
+                        <h3>Pricing</h3>
+                        <ul class="list">
+                            <li>Multiple price lists</li>
+                            <li>Tiered pricing</li>
+                            <li>Sale pricing</li>
+							<li>Personalized pricing</li>
+							<li>Import/Export price list from ERP</li>
+							<li>B2B pricing</li>
+                        </ul>
+                    </div>
+                </div>
+		        <div class="column">
+                    <div class="block">
+                        <h3>Merchandising</h3>
+                        <ul class="list">
+                            <li>Cross-sell products</li>
+                            <li>Up-sell products</li>
+                            <li>Replacement products</li>
+							<li>Accessories</li>
+							<li>Featured products</li>
+							<li>Recently viewed products</li>
+                        </ul>
+                    </div>
+                </div>
+		        <div class="column">
+                    <div class="block">
+                        <h3>Promotions</h3>
+                        <ul class="list">
+                            <li>Product promotions</li>
+                            <li>Shopping cart promotions</li>
+                            <li>Shipping promotions</li>
+							<li>Public-use coupons</li>
+							<li>Limited-use coupons</li>
+							<li>Private-use coupons</li>
+							<li>Build custom promotions engine</li>
+							<li>Personalized banners</li>
+                        </ul>
+                    </div>
+                </div>
+		        <div class="column">
+                    <div class="block">
+                        <h3>Order Management</h3>
+                        <ul class="list">
+                            <li>Customer order history</li>
+                            <li>Search orders</li>
+							<li>Define & associate documents</li>
+							<li>Split order shipments</li>
+							<li>Purchase orders</li>
+							<li>Punchout</li>
+                            <li>Refunds</li>
+							<li>Returns</li>
+							<li>Exchanges</li>
+                        </ul>
+                    </div>
+                </div>
+		        <div class="column">
+                    <div class="block">
+                        <h3>Cart & Checkout</h3>
+                        <ul class="list">
+                            <li>Physical and digital orders</li>
+							<li>Anonymous persistent cart</li>
+							<li>Registered persistent cart</li>
+							<li>Guest user checkout</li>
+							<li>Subscription products</li>
+                            <li>Request for quote</li>
+                            <li>Punchout</li>							
+							<li>Wishlists</li>
+							<li>Gift registry</li>
+							<li>Tax calculatons</li>
+							<li>Shipping methods</li>
+							<li>Payment methods</li>
+							<li>Tokenized billing</li>
+							<li>Order confirmation</li>
+                        </ul>
+                    </div>
+                </div>
+		        <div class="column">
+                    <div class="block">
+                        <h3>Content Management (CMS)</h3>
+                        <ul class="list">
+                            <li>Professional themes</li>
+							<li>Edit HTML and CSS</li>
+							<li>Brand and customize your store</li>
+							<li>Web-based website builder</li>
+							<li>Full blogging platform</li>
+                            <li>Mobile commerce ready</li>
+                            <li>Create pages</li>
+							<li>Multiple stores</li>
+                        </ul>
+                    </div>
+                </div>
+		        <div class="column">
+                    <div class="block">
+                        <h3>Administration</h3>
+                        <ul class="list">
+                            <li>Data import/export</li>
+							<li>Data synchronization</li>
+							<li>Backup and restore</li>
+							<li>Staging and production environments</li>
+							<li>Manage roles and permissions</li>
+							<li>REST API permissions</li>
+                            <li>Active directory and federation</li>
+							<li>Email notifications</li>
+							<li>SMS notifications</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
 	</div>
 	{% include learn-more.html %}
 	{% include technologies.html %}
