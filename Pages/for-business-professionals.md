@@ -231,6 +231,38 @@ tags :
                         </ul>
                     </div>
                 </div>
+                <div class="column">
+                    <div class="block">
+                        <h3>Customer Profile</h3>
+                        <ul class="list">
+                            <li>Account registration</li>
+                            <li>Profile attributes</li>
+                            <li>Address book</li>
+                            <li>Payment methods</li>
+                            <li>Passwords</li>
+                            <li>Segmentation</li>
+                            <li>Login on behalf</li>
+                            <li>Customer self-management</li>
+                            <li>Social login</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="block">
+                        <h3>Search and Browse</h3>
+                        <ul class="list">
+                            <li>Keyword product search</li>
+                            <li>Attribute product search</li>
+                            <li>Product filtering</li>
+                            <li>Search engine optimization (SEO)</li>
+                            <li>Dynamic content and banners</li>
+                            <li>Facet filtering</li>
+                            <li>Similar search terms</li>
+                            <li>Spell checking</li>
+                            <li>Google Analytics</li>
+                        </ul>
+                    </div>
+                </div>
 		        <div class="column">
                     <div class="block">
                         <h3>Administration</h3>
