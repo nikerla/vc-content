@@ -80,12 +80,12 @@ tags :
 					</ul>				
 				</li>
 				<li class="list-item">
-					<img alt="order management" src="/assets/images/features/cms.png"/>
+					<img alt="order management" src="/assets/images/features/cms.png"/> 
 					<h1>Content Management (CMS)</h1>
 					<p>Virto Commerce comes with a simple yet extremely powerful CMS that gives both developers and marketers complete access customizing the store look and feel. Developers can easily create and publish new themes while marketers can 
 					create landing pages, blog posts, marketing banners and more. Virto Commerce is also integrated with many industry leading CMS to provide even more flexibility</p>
 					<ul class="features-list">
-						<li>Professional themes</li>
+						<li>Professional themes</li> 
 						<li>Edit HTML and CSS</li>
 						<li>Mobile commerce ready</li>
 						<li>Full blogging platform</li>
@@ -113,7 +113,7 @@ tags :
 			<h2>Commerce Integration Platform</h2>
 			<ul class="list">
 				<li class="list-item">
-						<img alt="multi-tenant" src="/assets/images/features/rest-api.png"/>
+						<img alt="rest-api" src="/assets/images/features/rest-api.png"/>
 						<p>Virto Commerce is developed using modular architecture with each module exposing a set of REST based API's. These standards based unified API's provide
 						businesses, agencies, and system integrators with advanced ecommerce capabilities that are easier to consume, manage and combine with other business systems and frontend technologies. 
 						</p>
