@@ -100,7 +100,9 @@ partner relations management. <a class="link" href="/multi-tenant">Read more</a>
 					</ul>				
 				</li>
 			</ul>
+			<!--
 			<a class="link" href="/Files/Feature-Guide.pdf">Read our Feature Guide</a>
+			-->
 		</div>
 	</div>
 	{% include learn-more.html %}
