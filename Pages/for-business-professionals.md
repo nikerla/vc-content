@@ -80,13 +80,6 @@ tags :
 					</ul>				
 				</li>
 				<li class="list-item">
-					<img alt="Virto Commerce multi-tenant" src="/Content/images/business-features/multi-tenant.png">
-					<h1>Multi-tenant</h1>
-					<p>Use the multi-vendor approach to extend your business capabilities.
-Our multi-tenant e-commerce platform allows easy vendor and
-partner relations management. <a class="link" href="/multi-tenant">Read more</a></p>
-				</li>
-				<li class="list-item">
 					<img alt="order management" src="/assets/images/features/cms.png">
 					<h1>Content Management (CMS)</h1>
 					<p>Virto Commerce comes with a simple yet extremely powerful CMS that gives both developers and marketers complete access customizing the store look and feel. Developers can easily create and publish new themes while marketers can 
@@ -98,6 +91,13 @@ partner relations management. <a class="link" href="/multi-tenant">Read more</a>
 						<li>Full blogging platform</li>
 						<li>Web-based website builder</li>
 					</ul>				
+				</li>
+				<li class="list-item">
+					<img alt="Virto Commerce multi-tenant" src="/Content/images/business-features/multi-tenant.png">
+					<h1>Multi-tenant</h1>
+					<p>Use the multi-vendor approach to extend your business capabilities.
+Our multi-tenant e-commerce platform allows easy vendor and
+partner relations management. <a class="link" href="/multi-tenant">Read more</a></p>
 				</li>
 			</ul>
 			<!--
