@@ -45,13 +45,6 @@ tags :
 					</ul>										
 				</li>
 				<li class="list-item">
-					<img alt="Virto Commerce multi-tenant" src="/Content/images/business-features/multi-tenant.png">
-					<h1>Multi-tenant</h1>
-					<p>Use the multi-vendor approach to extend your business capabilities.
-Our multi-tenant e-commerce platform allows easy vendor and
-partner relations management. <a class="link" href="/multi-tenant">Read more</a></p>
-				</li>
-				<li class="list-item">
 					<img alt="personalized price lists" src="/assets/images/features/pricing.png">
 					<h1>Pricing</h1>
 					<p>Virto Commerce provides responsive pricing engine. Prices can be personalized in real-time based on audience, campaign, purchase history, geo-location, contracts and other customer-based scenarios.</p>
@@ -85,6 +78,13 @@ partner relations management. <a class="link" href="/multi-tenant">Read more</a>
 						<li>Punchout support</li>
 						<li>Quotes & Purchase Orders</li>
 					</ul>				
+				</li>
+				<li class="list-item">
+					<img alt="Virto Commerce multi-tenant" src="/Content/images/business-features/multi-tenant.png">
+					<h1>Multi-tenant</h1>
+					<p>Use the multi-vendor approach to extend your business capabilities.
+Our multi-tenant e-commerce platform allows easy vendor and
+partner relations management. <a class="link" href="/multi-tenant">Read more</a></p>
 				</li>
 				<li class="list-item">
 					<img alt="order management" src="/assets/images/features/cms.png">
