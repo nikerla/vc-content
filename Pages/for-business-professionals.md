@@ -115,8 +115,14 @@ tags :
 				<li class="list-item">
 						<img alt="rest-api" src="/assets/images/features/rest-api.png"/>
 						<p>Virto Commerce is developed using modular architecture with each module exposing a set of REST based API's. These standards based unified API's provide
-						businesses, agencies, and system integrators with advanced ecommerce capabilities that are easier to consume, manage and combine with other business systems and frontend technologies. 
+						businesses, agencies, and system integrators with advanced ecommerce capabilities that are easier to consume, manage and combine with other business systems and frontend technologies.  <a class="link" href="http://docs.virtocommerce.com/display/vc2devguide/API+Reference">Explore our API.</a>
 						</p>
+                    <ul class="features-list">
+                        <li>Module architecture</li>
+                        <li>Real-time documentation</li>
+                        <li>REST Oauth and token based authentication</li>
+                        <li>Granular permissions</li>
+                    </ul>
 				</li> 
 			</ul> 
 		</div>
