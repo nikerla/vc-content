@@ -14,8 +14,8 @@ tags :
 <article role="main" class="main">
 	<div class="for-business __responsive">
 		<p class="head-title">Experience-driven ecommerce platform</p>
-		<p class="text">Virto Commerce is a highly scalable eCommerce product for fast growing and large companies. It provides powerful enterprise-class features right out of box and gives you the flexibility to create your own unique eCommerce solution.</p>
-		<p class="text">Multiple store management, advanced promotion engines, dynamic content, as well as advanced product and price management are just a few of the tools you will receive with Virto Commerce. With the ability of full customization, you'll be able to achieve your unique business needs, convert browsers to buyers and increase online revenue!</p>
+		<p class="text">Virto Commerce is a highly scalable eCommerce product for fast growing and large companies. It provides powerful enterprise-class features right out-of-the-box and gives you the flexibility to create your own unique eCommerce solution.</p>
+		<p class="text">Multiple store management, advanced promotion engines, dynamic content, as well as advanced product and price management are just a few of the tools at your fingertips with Virto Commerce. With the ability of full customization, you'll be able to achieve your unique business needs, convert browsers to buyers and increase online revenue!</p>
 		<div class="advantages">
 			<ul class="list">
 				<li class="list-item">
@@ -34,7 +34,7 @@ tags :
 				<li class="list-item">
 					<img alt="Merchandising" src="/assets/images/features/crosssell.png">
 					<h1>Merchandising</h1>
-					<p>Our tools are designed for innovative companies where merchants collaborate closely with brand marketing. We provide tools to optimize your 
+					<p>Our tools are designed for innovative companies where merchants collaborate closely with brand marketers. We provide tools to optimize your 
 					offering and drive conversions. With Cross-sells, up-sells, product recommendations and even custom relations you will be able to execute any merchandising plan.
 					</p>
 					<ul class="features-list">
@@ -47,7 +47,7 @@ tags :
 				<li class="list-item">
 					<img alt="personalized price lists" src="/assets/images/features/pricing.png">
 					<h1>Pricing</h1>
-					<p>Virto Commerce provides responsive pricing engine. Prices can be personalized in real-time based on audience, campaign, purchase history, geo-location, contracts and other customer-based scenarios.</p>
+					<p>Virto Commerce provides a responsive pricing engine. Prices can be personalized in real-time based on audience, campaign, purchase history, geo-location, contracts and other customer-based scenarios.</p>
 					<ul class="features-list">
 						<li>Personalized pricing</li>
 						<li>Price lists</li>
@@ -58,8 +58,8 @@ tags :
 				<li class="list-item">
 					<img alt="Virto Commerce promotions" src="/assets/images/features/pricing.png"/>
 					<h1>Promotions & Marketing</h1>
-					<p>Our promotion engine lets you create free shipping campaigns, discounts on selected products, coupons for future purchases, and much more! And because it's such a simple and easy tool to utilize, you 
-					won't be needing any developer assistance. That's a promotions in itself! Promotions can be combined with marketing system to deliver truely engaging campaigns.</p>
+					<p>Our promotion engine lets you create free shipping campaigns, discounts on selected products, coupons for future purchases, and much more! And because it's a simple and easy tool to utilize, you 
+					won't be needing any developer assistance. That's a promotions in itself! Promotions can be combined with the marketing system to deliver truely engaging campaigns.</p>
 					<ul class="features-list">
 						<li>Product & Cart promotions</li>
 						<li>Shipping promotions</li>
@@ -70,7 +70,7 @@ tags :
 				<li class="list-item">
 					<img alt="order management" src="/assets/images/features/order.png"/>
 					<h1>Order Management</h1>
-					<p>Virto Commerce provides industry leading document based order management functionality. It can be integrated into complex enterprise workflows - including many leading ERP and fulfillment systems.</p>
+					<p>Virto Commerce provides an industry leading document based order management functionality. It can be integrated into complex enterprise workflows - including many leading ERP and fulfillment systems.</p>
 					<ul class="features-list">
 						<li>Customer order history</li>
 						<li>Split shipments</li>
@@ -96,7 +96,7 @@ tags :
 					<img alt="multi-tenant" src="/assets/images/features/frontend.png"/>
 					<h1>Multi-tenant</h1>
 					<p>Built to support complex B2B scenarios, Virto Commerce includes capabilities to create solutions for distributors and manufacturers. Create complex org structures, allow vendors to accept orders and customize 
-					look and feel of their storefront. <a class="link" href="/multi-tenant">Read more</a></p>
+					the look and feel of their storefront. <a class="link" href="/multi-tenant">Read more</a></p>
 					<ul class="features-list">
 						<li>Create organizations</li>
 						<li>Vendor store themes and templates</li>
