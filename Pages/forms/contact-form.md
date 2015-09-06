@@ -64,10 +64,6 @@ tags :
 					<h3>Frequently asked questions</h3>
 					<ul class="list">
 						<li>
-							<span class="title">How much does Virto Commerce cost?</span>
-							<span class="descr">Prices for Self-Hosted Virto Commerce start at $298 per month. If that sounds like a good fit, get in touch!</span>
-						</li>
-						<li>
 							<span class="title">Is the source code provided?</span>
 							<span class="descr">Yes, complete source code of Virto Commerce can be accessed from our <a href="http://virtocommerce.com/try-now-download">repository</a>.</span>
 						</li>
