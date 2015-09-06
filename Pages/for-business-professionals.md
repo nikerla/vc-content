@@ -288,6 +288,11 @@ tags :
             </div>
         </div>
 	</div>
+	<!-- Prices -->
+	<div class="try-it">
+		<span class="try-it-text">Want to know more about Virto Commerce?</span> <a class="button fill" href="/contact-us">Request more info now</a>
+	</div>
+
 	{% include learn-more.html %}
 	{% include technologies.html %}
 </article>
