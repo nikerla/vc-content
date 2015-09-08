@@ -24,6 +24,13 @@ permalink: our-offers/enterprise-cloud-hosted
 	<div class="roadmap __responsive">
 		<ul class="list">
 			<li class="list-item">
+				<p class="roadmap-title">Overview</p>
+				<p class="roadmap-descr">Virto Commerce Cloud is a unique offering that combines all the freedom of open source software 
+				and features, scalability, and security of Microsoft Cloud platform. <b>We know Virto Commerce</b>. As operators of several large
+				e-commerce sites, we know all the secrets, tips, and tricks to help Virto Commerce shine. We're global company dedicated to making 
+				Virto Commerce work better for our clients and users.  
+				And with our PaaS architecture, your developers have the freedom to extend Virto Commerce and build any custom features you need as well. 
+				</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
