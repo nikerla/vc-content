@@ -9,7 +9,7 @@ permalink: our-offers/enterprise-cloud-hosted
 	<img alt="" src="/Content/images/bg-enterprise.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
-			<h1 class="slider-title">Platform as a service - eCommerce Cloud</h1>
+			<h1 class="slider-title">Virto Commerce Cloud</h1>
 			<h2 class="slider-descr">
 				Focus on business features <br /> 
 				while we manage everything from <br /> 
