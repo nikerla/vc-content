@@ -34,6 +34,10 @@ permalink: our-offers/enterprise-cloud-hosted
 				can focus on business features.</span>
 								</li>
 								<li>
+									<span class="title">Source control</span>
+									<span class="descr">Source contrrol is included and all the customizations are saved and are available for review.</span>
+								</li>
+								<li>
 									<span class="title">
 										Backups
 									</span>
@@ -43,7 +47,7 @@ permalink: our-offers/enterprise-cloud-hosted
 							</ul>
 						</div>
 					</div>
-										<div class="column">
+					<div class="column">
 						<div class="block">
 							<ul class="list">
 								<li>
@@ -51,7 +55,12 @@ permalink: our-offers/enterprise-cloud-hosted
 										Stability and Security
 									</span>
 									<span class="descr">Virto Commerce experts work with your development team to make sure your e-commerce store code is secure,
-				optimized and fast.
+				optimized and fast. We have rocket scientists so you don't have to.
+								</li>
+								<li>
+									<span class="title">Staging & Deployment</span>
+									<span class="descr">Developer staging and production deployment is done using automation scripts. You will be able to preview
+									any changes in the live staging environment deployed in the cloud.</span>
 								</li>
 								<li>
 									<span class="title">
