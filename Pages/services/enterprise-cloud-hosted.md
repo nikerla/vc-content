@@ -11,8 +11,8 @@ permalink: our-offers/enterprise-cloud-hosted
 		<div class="slider-info">
 			<h1 class="slider-title">Virto Commerce Cloud</h1>
 			<h2 class="slider-descr">
-				All the freedom of open source software. <br /> 
-				All the  features, scalability, and security of a Microsoft Cloud.
+				All the freedom of open source software <br /> 
+				All the  features, scalability, and security of a Microsoft Cloud
 			</h2>
 			<a class="button fill" href="/contact-us">Sign Up Now</a>
 		</div>
