@@ -45,7 +45,7 @@ tags :
 			<li class="list-item big">
 				<div class="list-info">
 					<span class="title">Latest Technologies</span>
-					<span class="descr">Built using Microsoft .Net 4.5 framework, it encompasses latest architecture practices and technologies for .Net platform. Some of them are: Entity Framework 6, MVC5/Razor, WCF, OData, Workflow Foundation, Unity, WPF, ClickOnce, HTML5, AngularJS.</span>
+					<span class="descr">Built using Microsoft .Net 4.5 framework, it encompasses latest architecture practices and technologies for .NET platform. Some of them are: Entity Framework 6, MVC5/Liquid, Web API, Unity, HTML5, AngularJS.</span>
 					<span class="title">Use what you need, replace what you don't</span>
 					<span class="descr">Virto Commerce is designed to be a flexible and non-monolithic framework where each part can be replaced or changed when needed. If you have an existing e-Commerce product and simply like how product catalogs are managed in Virto Commerce, you can integrate just the catalog module leaving all other parts of your existing commerce solution intact. This design paradigm minimizes risks of upgrading or creating e-Commerce solution.</span>
 				</div>
@@ -61,17 +61,17 @@ tags :
 			<div class="column">
 				<img alt="Virto Commerce dependency injection and IoC" src="/Content/images/for-dev/features-architecture-dependency.png">
 				<span class="title">Dependency Injection &amp; IoC</span>
-				<span class="descr">To make sure Virto Commerce is loosely coupled and can be easily extended, the Unity Dependency Injection Container is used both in Front-end Accelerator and back-end application (Commerce Manager).</span>
+				<span class="descr">To make sure Virto Commerce is loosely coupled and can be easily extended, the Unity Dependency Injection Container is used both in Front-end Accelerator and back-end admin (Commerce Manager).</span>
 			</div>
 			<div class="column">
 				<img alt="Virto Commerce pluggable search engine" src="/Content/images/for-dev/features-architecture-search.png">
 				<span class="title">Pluggable Search Engine</span>
-				<span class="descr">Virto Commerce enables various integration methods. You can use provided OData/Rest Web Services, SOAP Web Services or integrate directly with a database using SQL Server Integration Services.</span>
+				<span class="descr">Virto Commerce comes preconfigured to work with Lucene and ElasticSearch. Indexing/Search provides pluggable mechanism to utilize any search engine.</span>
 			</div>
 			<div class="column">
 				<img alt="Virto Commerce integration" src="/Content/images/for-dev/features-architecture-odata.png">
 				<span class="title">Integration</span>
-				<span class="descr">Business processes can be customized using custom activities and workflows. Use included activities or create new ones for payment processing, integration with other systems or other tasks. Activities are implemented using Windows Workflow Foundation and workflows can be customized using GUI designer.</span>
+				<span class="descr">Virto Commerce enables various integration methods. The recommended approach is to use our Web API or create new modules to extend the functionality. You can also use such integration tools and SQL Server Integration Services and Biztalk to seamlessly integrate with a platform.</span>
 			</div>
 			<div class="column">
 				<img alt="Virto Commerce professional source code" src="/Content/images/for-dev/features-architecture-source.png">
