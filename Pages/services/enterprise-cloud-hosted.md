@@ -11,9 +11,8 @@ permalink: our-offers/enterprise-cloud-hosted
 		<div class="slider-info">
 			<h1 class="slider-title">Virto Commerce Cloud</h1>
 			<h2 class="slider-descr">
-				Focus on business features <br /> 
-				while we manage everything from <br /> 
-				code quality to backups
+				All the freedom of open source software. <br /> 
+				All the  features, scalability, and security of Microsoft Cloud platform
 			</h2>
 			<a class="button fill" href="/contact-us">Sign Up Now</a>
 		</div>
@@ -24,7 +23,6 @@ permalink: our-offers/enterprise-cloud-hosted
 	<div class="roadmap __responsive">
 		<ul class="list">
 			<li class="list-item">
-				<p class="roadmap-title">All the freedom of open source software. All the  features, scalability, and security of Microsoft Cloud platform</p>
 				<p class="roadmap-descr"><b>We know Virto Commerce</b>. As operators of several large
 				e-commerce sites, we know all the secrets, tips, and tricks to help Virto Commerce shine. We're global company dedicated to making 
 				Virto Commerce work better for our clients and users.  
