@@ -14,7 +14,7 @@ tags :
 		<div class="presentation responsive">
 			<div class="presentation-info">
 				<h1 class="presentation-title">Open-source platform<span></span>for B2B & B2C solutions</h1>
-				<h2 class="presentation_sub-title">Finally enterprise ecommerce .NET developers deserve.
+				<h2 class="presentation_sub-title">Enterprise ecommerce .NET developers deserve.
 				<span></span>Get started for free.</h2>
 				<div class="presentation-buttons">
 					<a class="button fill" href="#" id="href_1">Try Now</a>
@@ -78,7 +78,8 @@ tags :
 					</div>
 					<div class="planet-content b2b">
 						<h2 class="name">B2B</h2>
-						<p>Create custom solutions that fit your business. Create integration points for your partners. Utilize multiple master and virtual catalogs to create partner product lists. Define custom pricing using Price Lists for vendors, customers and partners.</p>
+						<p>Virto Commerce Web API provides integration points for your partners. Use multiple master and virtual catalogs to create partner product lists. 
+						Define custom pricing using Price Lists for vendors, customers and partners. Native support for quotes to enable business users execute quote requests online. Integrate with your procurement system, we support integration with Ariba, SciQuest, Coupa, SAP etc.</p>
 					</div>
 				</div>
 			</div>
