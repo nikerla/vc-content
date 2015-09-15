@@ -75,7 +75,7 @@ tags :
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
 				<p class="roadmap-title">Some recent features</p>
-				<p class="roadmap-descr"></p>
+				<p class="roadmap-descr">These are just some features implemented in the past, more details available <a href="https://github.com/VirtoCommerce/vc-community/releases" targe="_blanl">here</a>.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
