@@ -74,7 +74,7 @@ tags :
 			</li>
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Recently implemented features</p>
+				<p class="roadmap-title">Some recent features</p>
 				<p class="roadmap-descr"></p>
 				<div class="columns">
 					<div class="column">

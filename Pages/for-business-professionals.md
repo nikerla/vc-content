@@ -290,7 +290,7 @@ tags :
 	</div>
 	<!-- Prices -->
 	<div class="try-it">
-		<span class="try-it-text">Want to learn more about Virto Commerce?</span> <a class="button fill" href="/contact-us">Schedule a personal demo</a>
+		<span class="try-it-text">Want to learn more about Virto Commerce?</span> <a class="button fill" href="/contact-us">Request more info & pricing</a>
 	</div>
 	{% include technologies.html %}
 </article>
