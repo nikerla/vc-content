@@ -111,7 +111,6 @@ tags :
 					</div>
 				</div>
 			</li>
-
 		</ul>
 	</div>
 	{% include technologies.html %}
