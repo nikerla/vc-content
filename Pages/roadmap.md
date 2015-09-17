@@ -53,7 +53,7 @@ tags :
 								</li>
 								<li>
 									<span class="title">PunchOut Support</span>
-									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP etc.</span>
+									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP, Unimarket, Oracle, PeopleSoft Punchout, Oracle Punchout, TBlox, Perfect Commerce, etc.</span>
 								</li>
 								<li>
 									<span class="title"><a href="/features/ecommerce-microsoft-dynamics-nav">Microsoft Dynamics NAV Integration</a></span>
