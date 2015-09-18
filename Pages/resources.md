@@ -33,6 +33,12 @@ deployment and configuration, samples of modular plugin extensions and more.</sp
 								</li>
 								<li>
 									<span class="title">
+										<a href="/case-studies">Case Studies</a>
+									</span>
+									<span class="descr">Review how our partners and us are using Virto Commerce to create the most innovative solutions on the web.</span>
+								</li>
+								<li>
+									<span class="title">
 										<a href="https://github.com/VirtoCommerce/vc-community/" target="_blank" rel="nofollow">Code repository</a>
 									</span>
 									<span class="descr">Explore latest production and development source code by subscribing to our GitHub repository.
@@ -60,12 +66,9 @@ stories and other virtocommerce related updates.
 									<span class="title">
 										<a href="http://help.virtocommerce.com/support/home" target="_blank" rel="nofollow">Support</a>
 									</span>
-								<li>
-									<span class="title">
-										<a href="http://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Community Support</a>
+									<span class="descr">There are several support options available from Community to Enterprise level, contact us to get more information. Additionally to our helpdesk portal, we officially support
+										<a href="http://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">virtocommerce on stackoverflow</a>. It is a recommended way to get answers to your technical questions.
 									</span>
-									<span class="descr">Additionally to our helpdesk portal, we officially support
-virtocommerce branch on stackoverflow. It is a recommended way to get answers to your technical questions.</span>
 								</li>
 								<li>
 									<span class="title">
