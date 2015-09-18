@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Virto Commerce - experience drive ecommerce platform
-description: Virto commerce - Features for B2B and B2C ecommerce solutions
+title: Experience driven ecommerce platform for b2c and b2b - Virto Commerce
+description: Experience driven ecommerce platform for b2c and b2b
 date: 2014-01-30
 permalink: features/for-business-professionals
 tags : 
