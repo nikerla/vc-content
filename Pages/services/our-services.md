@@ -20,7 +20,7 @@ tags :
 		</div>
 	</div>
 </div>
-<p/>
+<br/>
 <article class="main" role="main">
     <div class="our-services __responsive">
         {% include services-compare.html %}
