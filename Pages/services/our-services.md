@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: Enterprise .NET open-source ecommerce cloud platform. Features
-description: Enterprise .NET open-source ecommerce cloud platform. Features
+title: Our Services - Virto Commerce
+description: Our services
 date: 2014-01-30
 permalink: /pages/our-services
 tags : 
@@ -20,6 +20,7 @@ tags :
 		</div>
 	</div>
 </div>
+<p/>
 <article class="main" role="main">
     <div class="our-services __responsive">
         {% include services-compare.html %}
