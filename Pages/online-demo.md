@@ -12,22 +12,11 @@ tags :
 <article role="main" class="main">
 	<div class="responsive">
 		<h1 class="title">Explore Online Demo</h1>
-		<div class="columns">
+		<div class="columns three">
 			<div class="column">
 				<div class="block">
-					<div class="img-500">
-						<a target="_blank" href="http://demo.virtocommerce.com/" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-home.png" class="border"></a>
-					</div>
-					<h3>Frontend Accelerator</h3>
-					<p class="text">Explore front end written using MVC5/Liquid. It support 100's of various themes in liquid format. Supports variety of devices from desktop to mobile.</p>
-					<p class="text"><a href="http://demo.virtocommerce.com" target="_blank" rel="nofollow">http://demo.virtocommerce.com</a></p>
-					<a class="button fill" target="_blank" href="http://demo.virtocommerce.com/" rel="nofollow">Open Frontend Accelerator</a>
-				</div>
-			</div>
-			<div class="column">
-				<div class="block">
-					<div class="img-500">
-						<a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="assets/images/demo/admin-dashboard.png" class="border"></a>
+					<div class="img-300">
+						<a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="assets/images/demo/admin-dashboard.jpg" class="border"></a>
 					</div>
 					<h3>Commerce Manager</h3>
 					<p class="text">Manage everything using this single page web based HTML5/AngularJS based administration console. Supports complete extensibility and additional modules/extensions can be downloaded and installed from our AppStore.</p>
@@ -36,6 +25,28 @@ tags :
 					<p class="text">pass: store</p>
 					<p class="text"><a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow">http://demo.virtocommerce.com/admin</a></p>
 					<a class="button fill" target="_blank"  href="http://demo.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="block">
+					<div class="img-300">
+						<a target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-electronics.jpg" class="border"></a>
+					</div>
+					<h3>Electronics store</h3>
+					<p class="text">Explore front end written using MVC5/Liquid. It support 100's of various themes in liquid format. Supports variety of devices from desktop to mobile.</p>
+					<p class="text"><a href="http://demo.virtocommerce.com/electronics" target="_blank" rel="nofollow">http://demo.virtocommerce.com/electronics</a></p>
+					<a class="button fill" target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow">Open electronics store</a>
+				</div>
+			</div>
+			<div class="column">
+				<div class="block">
+					<div class="img-300">
+						<a target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-clothing.jpg" class="border"></a>
+					</div>
+					<h3>Clothing store</h3>
+					<p class="text">Explore front end written using MVC5/Liquid. It support 100's of various themes in liquid format. Supports variety of devices from desktop to mobile.</p>
+					<p class="text"><a href="http://demo.virtocommerce.com/clothing" target="_blank" rel="nofollow">http://demo.virtocommerce.com/clothing</a></p>
+					<a class="button fill" target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow">Open clothing store</a>
 				</div>
 			</div>
 		</div>
