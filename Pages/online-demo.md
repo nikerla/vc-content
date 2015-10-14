@@ -19,11 +19,10 @@ tags :
 						<a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="assets/images/demo/admin-dashboard.jpg" class="border"></a>
 					</div>
 					<h3>Commerce Manager</h3>
-					<p class="text">Manage everything using this single page web based HTML5/AngularJS based administration console. Supports complete extensibility and additional modules/extensions can be downloaded and installed from our AppStore.</p>
+					<p class="text">Manage multiple stores.</p>
 					<p class="text">To connect to the demo store please use:</p>
 					<p class="text">login: admin</p>
 					<p class="text">pass: store</p>
-					<p class="text"><a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow">http://demo.virtocommerce.com/admin</a></p>
 					<a class="button fill" target="_blank"  href="http://demo.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
 				</div>
 			</div>
@@ -33,8 +32,7 @@ tags :
 						<a target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-electronics.jpg" class="border"></a>
 					</div>
 					<h3>Electronics store</h3>
-					<p class="text">Explore front end written using MVC5/Liquid. It support 100's of various themes in liquid format. Supports variety of devices from desktop to mobile.</p>
-					<p class="text"><a href="http://demo.virtocommerce.com/electronics" target="_blank" rel="nofollow">http://demo.virtocommerce.com/electronics</a></p>
+					<p class="text">Simple electronics template that supports responsive design and various mobile devices.</p>
 					<a class="button fill" target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow">Open electronics store</a>
 				</div>
 			</div>
@@ -44,8 +42,7 @@ tags :
 						<a target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-clothing.jpg" class="border"></a>
 					</div>
 					<h3>Clothing store</h3>
-					<p class="text">Explore front end written using MVC5/Liquid. It support 100's of various themes in liquid format. Supports variety of devices from desktop to mobile.</p>
-					<p class="text"><a href="http://demo.virtocommerce.com/clothing" target="_blank" rel="nofollow">http://demo.virtocommerce.com/clothing</a></p>
+					<p class="text">More advanced clothing store that includes blogs, social integrations, mailchimp and much more.</p>
 					<a class="button fill" target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow">Open clothing store</a>
 				</div>
 			</div>
