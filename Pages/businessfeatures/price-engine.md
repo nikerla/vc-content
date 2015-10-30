@@ -1,6 +1,6 @@
 ---
 layout: businesspost
-title: Best ASP.NET shopping cart software - Free Community Edition
+title: Best .NET Price engine software - Free Community Edition
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
 canonical: http://virtocommerce.com/price-engine
