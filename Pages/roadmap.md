@@ -15,15 +15,15 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Fall 2015</p>
+				<p class="roadmap-title">Fall/Winter 2015</p>
 				<p class="roadmap-descr">Focus on B2B functionality, improvements to frontend, more sample stores and integrations.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title">AngularJS based frontend</span>
-									<span class="descr">Fully dynamic frontend based on advanced javascript framework.</span>
+									<span class="title">Redesigned frontend</span>
+									<span class="descr">Implements AngularJS, full page caching for ultimate performance, product comparison, dependency injection, SDK client libraries.</span>
 								</li>
 								<li>
 									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
@@ -48,10 +48,6 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title">B2B Quotation</span>
-									<span class="descr">Quotation system enables business users to execute quote requests online.</span>
-								</li>
-								<li>
 									<span class="title">PunchOut Support</span>
 									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP, Unimarket, Oracle, PeopleSoft Punchout, Oracle Punchout, TBlox, Perfect Commerce, etc.</span>
 								</li>
@@ -60,8 +56,12 @@ tags :
 									<span class="descr">Module to seamlessly launch stores using your Dynamics NAV ERP. Learn more <a href="/features/ecommerce-microsoft-dynamics-nav">here</a>.</span>
 								</li>
 								<li>
-									<span class="title">Marking automation modules</span>
+									<span class="title">Marketing automation modules</span>
 									<span class="descr">Integration with popular marketing platforms Silverpop, Marketo, SpotHub</span>
+								</li>
+								<li>
+									<span class="title">Asset manager</span>
+									<span class="descr">Single explorer like interface to manage all your digital assets no matter where they are located, in the cloud storage or locally.</span>
 								</li>
 								<li>
 									<span class="title">Google Commerce Analytics</span>
@@ -80,6 +80,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title">B2B/B2C Quotation</span>
+									<span class="descr">Quotation system enables business users to execute quote requests online with custom pricing without a need to create special coupons.</span>
+								</li>
 								<li>
 									<span class="title">Document based order system</span>
 									<span class="descr">This model has a new architecture that provides transaction model and support for simplifying various B2B and B2C scenarios. Integration with ERP and WMS platforms will be much more intuitive and simple.</span>
