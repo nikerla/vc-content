@@ -38,6 +38,10 @@ tags :
 									<span class="descr">Learn how to migrate your NopCommerce store to Virto Commerce.</span>
 								</li>
 								<li>
+									<span class="title">Admin localization</span>
+									<span class="descr">Localize all strings in our angularjs based admin using json resource files.</span>
+								</li>
+								<li>
 									<span class="title">Multi Channel</span>
 									<span class="descr">Extensible open source module that provides integration with popular marketplaces. Initial version will include eBay and Amazon.</span>
 								</li>
