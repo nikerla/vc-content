@@ -169,7 +169,27 @@ tags :
 
 <h4>6. Response (Acknowledgement) Times</h4>
 
-<p>VIRTO or its authorized reseller or referral partner shall exercise commercially reasonable efforts to meet the response times specified below for Standard Support (unless Licensee has upgraded to Professional or Enterprise Support, as provided in the Order Form), following receipt of a Software problem properly submitted by Licensee:</p>
+<p>VIRTO or its authorized reseller or referral partner shall exercise commercially reasonable efforts to meet the response times specified below for Standard Support (unless Licensee has upgraded to Professional or Enterprise Support, as provided in the Order Form).</p>
+
+<h4>7. Problem Priority</h4>
+
+<p>Upon receipt of a properly submitted Software problem, as specified on the Site, Support Services shall be prioritized in accordance with the guidelines below:</p>
+
+<p>7.1. Priority 1 ("P1") - A P1 is a catastrophic production problem within the Software that severely impacts the Licensee's Production Server Instance, or because of which Licensee's Production Server Instance is down or not functioning, or that results in a loss of production data and no work around exists. P1 problems must be reported on VIRTO's toll-free support telephone number in order to expedite resolution. VIRTO will use continuous efforts 24x7x365, with appropriate escalation to senior management, to provide a resolution for any P1 problem as soon as is commercially reasonable.</p>
+
+<p>7.2. Priority 2 ("P2") - A P2 is a problem within the Software where the Licensee's system is functioning but in a reduced capacity, or the Problem is causing significant impact to portions of the Licensee's business operations and productivity, or the Software is exposed to potential loss or interruption of service. Problems existing in a non-production environment that would otherwise qualify as a P1 if they were in a production system qualify as P2. VIRTO will use efforts during its normal hours of operation, 24 hours a day, (Monday - Friday) to provide a resolution for any P2 problem as soon as is commercially reasonable.</p>
+
+<p>7.3. Priority 3 ("P3") - A P3 is a medium-to-low impact problem that involves partial and/or non-critical loss of functionality, or that impairs some operations but allows Licensee's operations to continue to function. Problems for which there is limited or no loss or functionality or impact to Licensee's operation and for which there is an easy work-around qualify as P3. VIRTO will use reasonable efforts during its normal hours of operation<span style="line-height: 20.7999992370605px;">, 24 hours a day, (Monday - Friday)</span> to provide a resolution for any P3 problem in time for the next minor release of the Software.</p>
+
+<p>7.4. Priority 4 ("P4") - A P4 is for a general usage question or issue that may be cosmetic in nature or documentation related, but the Software works without interruption.&nbsp; VIRTO will use efforts during its normal hours of operation<span style="line-height: 20.7999992370605px;">, 24 hours a day, (Monday - Friday)</span> to provide a resolution for any P4 problem in time for the next major release of the Software.</p>
+
+<p>7.5. Enhancement Request ("ER") - An ER is a recommendation for future product enhancement or modification to add official support and documentation for an unsupported or undocumented feature, or features that do not exist in the Software. VIRTO will take ERs into consideration in the product management process, but has no obligation to deliver enhancements based on any ER.</p>
+
+<h4>8. Response Times</h4>
+
+<p>VIRTO will provide Support Services and any Updates to Licensee during the periods identified in the Order Form and the default and termination shall be governed by Article 6 of the Agreement. &nbsp;Licensee's obligation of payment of moneys due under these Support Terms shall survive termination of these Support Terms or the Agreement. &nbsp;Licensee acknowledges and agrees that VIRTO shall have the right to terminate the provision of Support Services upon nonpayment of any fees due to VIRTO.</p>
+
+<h6><span style="font-size: 13px; line-height: 1.6em;">Last Updated: June 24, 2015</span></h6>
 
 	</div>
 </article>
