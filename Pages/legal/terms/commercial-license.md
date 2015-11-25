@@ -190,6 +190,4 @@ tags :
 <p>VIRTO will provide Support Services and any Updates to Licensee during the periods identified in the Order Form and the default and termination shall be governed by Article 6 of the Agreement. &nbsp;Licensee's obligation of payment of moneys due under these Support Terms shall survive termination of these Support Terms or the Agreement. &nbsp;Licensee acknowledges and agrees that VIRTO shall have the right to terminate the provision of Support Services upon nonpayment of any fees due to VIRTO.</p>
 
 <h6><span style="font-size: 13px; line-height: 1.6em;">Last Updated: November 24, 2015</span></h6>
-
-	</div>
 </article>
