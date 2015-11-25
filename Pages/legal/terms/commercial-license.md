@@ -16,9 +16,9 @@ tags :
 
 <h4>1. License</h4>
 
-<p>1.1. Subject to Licensee's payment of the applicable fees and to Licensee's compliance with other terms and conditions of this Agreement, VIRTO grants Licensee a non-transferable, non-assignable, non-sublicensable, worldwide license to copy the Software for the purpose of installing and using it on a computer and solely for internal purposes, in accordance with the Software's technical documentation and solely during the periods and on the maximum number of Designated Cores or Servers specified in one or more applicable VIRTO or VIRTO-authorized reseller ordering schedules (the "<strong>Virto Commerce Order Form</strong>") executed with Licensee.</p>
+<p>1.1. Subject to Licensee's payment of the applicable fees and to Licensee's compliance with other terms and conditions of this Agreement, VIRTO grants Licensee a non-transferable, non-assignable, non-sublicensable, worldwide license to copy the Software for the purpose of installing and using it on a computer and solely for internal purposes, in accordance with the Software's technical documentation and solely during the periods and on the maximum number of Designated Servers specified in one or more applicable VIRTO or VIRTO-authorized reseller ordering schedules (the "<strong>Virto Commerce Order Form</strong>") executed with Licensee.</p>
 
-<p>1.2. In the event that Licensee's actual number of Cores or Servers of a particular Software license exceeds the licensed number of Designated Servers or Cores on such license, Licensee shall promptly provide VIRTO with written notice and pay VIRTO the fees required to license such additional Server(s) or Cores in accordance with the commercial terms set out in the Virto Commerce Order Form.</p>
+<p>1.2. In the event that Licensee's actual number of Servers of a particular Software license exceeds the licensed number of Designated Servers on such license, Licensee shall promptly provide VIRTO with written notice and pay VIRTO the fees required to license such additional Server(s) in accordance with the commercial terms set out in the Virto Commerce Order Form.</p>
 
 <p>1.3. Licensee shall implement reasonable controls to ensure that it does not exceed the maximum number of licensed Servers of the Software. VIRTO reserves the right to audit Licensee's use of the Software during normal business hours and with reasonable notice and to include means within the Software to limit Licensee's use of the Software to the licensed number of Servers.</p>
 
@@ -189,7 +189,7 @@ tags :
 
 <p>VIRTO will provide Support Services and any Updates to Licensee during the periods identified in the Order Form and the default and termination shall be governed by Article 6 of the Agreement. &nbsp;Licensee's obligation of payment of moneys due under these Support Terms shall survive termination of these Support Terms or the Agreement. &nbsp;Licensee acknowledges and agrees that VIRTO shall have the right to terminate the provision of Support Services upon nonpayment of any fees due to VIRTO.</p>
 
-<h6><span style="font-size: 13px; line-height: 1.6em;">Last Updated: June 24, 2015</span></h6>
+<h6><span style="font-size: 13px; line-height: 1.6em;">Last Updated: November 24, 2015</span></h6>
 
 	</div>
 </article>
