@@ -19,8 +19,8 @@ tags :
 						<input type="hidden" value="true" name="IsResend"/>
 						<input type="hidden" value="/thank-you" name="RedirectUrl" />
 						<div class="control-group">
-							<label for="Fullname">Full name (required)</label>
-							<input type="text" name="Fullname" class="form-input" required>
+							<label for="FullName">Full name (required)</label>
+							<input type="text" name="FullName" class="form-input" required>
 						</div>
 						<div class="control-group">
 							<label for="email">Email (required)</label>
