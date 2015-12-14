@@ -18,7 +18,7 @@ tags :
 				Use Community Edition to start<br>
 				your Online Business
 			</h2>
-			<a class="button fill" href="/contact-us">Get Now</a>
+			<a class="button fill" href="/try-now/online-demo">SUBSCRIBE FOR FREE Tutorial</a>
 		</div>
 	</div>
 </div>
@@ -129,7 +129,7 @@ tags :
 	</div>
 	<!-- Prices -->
 	<div class="try-it">
-		<span class="try-it-text">Want production community license?</span> <a class="button fill" href="/contact-us">Request now</a>
+		<a class="button fill" href="/try-now/online-demo">SUBSCRIBE FOR FREE Tutorial</a>
 	</div>
 	{% include learn-more.html %}
 	{% include technologies.html %}
