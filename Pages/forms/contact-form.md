@@ -87,7 +87,7 @@ tags :
 					</ul>
 				</div>
 			</div>
-		</div>
+		</div> 
 	</div>
 	{% include technologies.html %}
 </article>
