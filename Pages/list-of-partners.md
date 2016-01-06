@@ -75,6 +75,18 @@ tags :
 					<a class="button" href="/contact-partner?pid=olympicsoftware" rel="nofollow">Contact partner</a>
 				</div>
 			</li>
+			<li class="list-item">
+				<a href="http://www.nz-technologies.com/" class="list-pic" rel="nofollow">
+					<img alt="" src="/assets/images/partners/virtomint.jpg">
+				</a>
+				<div class="list-info">
+					<a href="http://www.nz-technologies.com/" class="link" rel="nofollow">NZ Technologies</a>
+					<p class="country">Australia, New Zealand</p>
+					<p class="lang">Languages Spoken: English</p>
+					<p class="text">We are a band of ecommerce development specialists with a special focus on building and supporting websites on the Virto Commerce Platform.</p>
+					<a class="button" href="/contact-partner?pid=NZTechnologies" rel="nofollow">Contact partner</a>
+				</div>
+			</li>
 		</ul>
 	</div>
 	{% include technologies.html %}
