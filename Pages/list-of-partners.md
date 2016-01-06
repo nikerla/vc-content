@@ -81,7 +81,7 @@ tags :
 				</a>
 				<div class="list-info">
 					<a href="http://www.nz-technologies.com/" class="link" rel="nofollow">NZ Technologies</a>
-					<p class="country">Australia, New Zealand</p>
+					<p class="country">United States, India</p>
 					<p class="lang">Languages Spoken: English</p>
 					<p class="text">We are a band of ecommerce development specialists with a special focus on building and supporting websites on the Virto Commerce Platform.</p>
 					<a class="button" href="/contact-partner?pid=NZTechnologies" rel="nofollow">Contact partner</a>
