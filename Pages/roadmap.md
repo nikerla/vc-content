@@ -15,7 +15,7 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Fall/Winter 2015</p>
+				<p class="roadmap-title">Winter 2016</p>
 				<p class="roadmap-descr">Focus on B2B functionality, improvements to frontend, more sample stores and integrations.</p>
 				<div class="columns">
 					<div class="column">
