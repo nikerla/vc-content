@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Enterprise .NET open-source ecommerce cloud platform. Contact Partner
-description: Enterprise .NET open-source ecommerce cloud platform. Contact Partner
+title: Contact our Partners | Virto Commerce Platform
+description: Enterprise .NET open-source ecommerce cloud platform. Contact our Partners
 date: 2014-01-30
 permalink: /pages/contact-partner
 ---
