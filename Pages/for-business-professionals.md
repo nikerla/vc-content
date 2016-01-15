@@ -127,7 +127,7 @@ tags :
 			</ul> 
 		</div>
         <div class="capabilities">
-         	<h2>Virto Commerce Platform Capabilities</h2>
+         	<p class="sub-title">Virto Commerce Platform Capabilities</p>
         	<div class="columns four">
 		        <div class="column">
                     <div class="block">
