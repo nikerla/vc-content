@@ -23,7 +23,7 @@ tags :
 					<p class="country">United States</p>
 					<p class="lang">Languages Spoken: English</p>
 					<p class="text">ProjectThunder is an internet software development company for web, desktop and mobile platforms. Our team consists of seasoned veterans with over 100 years of collective experience, we have the savvy to bring it all together. With our ongoing demographic analysis, testing and evaluation we create eCommerce websites that convert clicks into sales.</p>
-					<a class="button" href="/contact-partner?pid=projectthunder" rel="nofollow">Contact partner</a>
+					<a class="button" href="/contact-partner-project-thunder" rel="nofollow">Contact partner</a>
 				</div>
 			</li>
 			<li class="list-item">
