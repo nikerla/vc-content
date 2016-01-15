@@ -15,7 +15,7 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Winter 2016</p>
+				<p class="roadmap-title">Winter/Spring 2016</p>
 				<p class="roadmap-descr">Focus on B2B functionality, improvements to frontend, more sample stores and integrations.</p>
 				<div class="columns">
 					<div class="column">
@@ -64,8 +64,8 @@ tags :
 									<span class="descr">Integration with popular marketing platforms Silverpop, Marketo, SpotHub</span>
 								</li>
 								<li>
-									<span class="title">Asset manager</span>
-									<span class="descr">Single explorer like interface to manage all your digital assets no matter where they are located, in the cloud storage or locally.</span>
+									<span class="title">Points gift card support</span>
+									<span class="descr">Allow support for custom currencies including points and bitcoin.</span>
 								</li>
 								<li>
 									<span class="title">Google Commerce Analytics</span>
@@ -84,6 +84,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title">Asset manager</span>
+									<span class="descr">Single explorer like interface to manage all your digital assets no matter where they are located, in the cloud storage or locally.</span>
+								</li>                            
 								<li>
 									<span class="title">B2B/B2C Quotation</span>
 									<span class="descr">Quotation system enables business users to execute quote requests online with custom pricing without a need to create special coupons.</span>
