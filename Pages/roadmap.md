@@ -22,8 +22,8 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title">Redesigned frontend</span>
-									<span class="descr">Implements AngularJS, full page caching for ultimate performance, product comparison, dependency injection, SDK client libraries.</span>
+									<span class="title">Mobile App (iOS, Android, Windows)</span>
+									<span class="descr">Mobile Starter App for iOS, Android and Windows Mobile implemented using Ionic Framework.</span>
 								</li>
 								<li>
 									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
@@ -64,8 +64,8 @@ tags :
 									<span class="descr">Integration with popular marketing platforms Silverpop, Marketo, SpotHub</span>
 								</li>
 								<li>
-									<span class="title">Points gift card support</span>
-									<span class="descr">Allow support for custom currencies including points and bitcoin.</span>
+									<span class="title">Points & gift card support</span>
+									<span class="descr">Allow support for custom currencies including points and bitcoin. Support gift cards.</span>
 								</li>
 								<li>
 									<span class="title">Google Commerce Analytics</span>
@@ -106,6 +106,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title">Redesigned frontend</span>
+									<span class="descr">Implements AngularJS, full page caching for ultimate performance, product comparison, dependency injection, SDK client libraries.</span>
+								</li>
 								<li>
 									<span class="title"><a href="/features/shopify-migration">Shopify import</a></span>
 									<span class="descr">Import your shopify store including custom themes.</span>
