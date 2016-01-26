@@ -53,6 +53,7 @@ tags :
 						<li>Price lists</li>
 						<li>B2B pricing</li>
 						<li>Tiered pricing</li>
+                        <li>Custom currencies (bitcoin, points)</li>
 					</ul>										
 				</li>
 				<li class="list-item">
@@ -154,6 +155,8 @@ tags :
 							<li>Personalized pricing</li>
 							<li>Import/Export price list from ERP</li>
 							<li>B2B pricing</li>
+                            <li>Points</li>
+                            <li>Bitcoin & customer currencies</li>
                         </ul>
                     </div>
                 </div>
@@ -282,6 +285,20 @@ tags :
                             <li>Active directory and federation</li>
 							<li>Email notifications</li>
 							<li>SMS notifications</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="block">
+                        <h3>Mobile App</h3>
+                        <ul class="list">
+                            <li>Ionic Framework / AngularJS</li>
+							<li>Catalog Browsing</li>
+							<li>Checkout</li>
+							<li>Products and Variations</li>
+							<li>Uses Web API</li>
+							<li>Source code provided</li>
+                            <li>iOS and Android</li>
                         </ul>
                     </div>
                 </div>
