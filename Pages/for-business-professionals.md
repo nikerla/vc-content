@@ -13,7 +13,7 @@ tags :
 ---
 <article role="main" class="main">
 	<div class="for-business __responsive">
-		<h1 class="head-title">Agile ecommerce platform</h1>
+		<h1 class="head-title">Agile Ecommerce Platform</h1>
 		<p class="text">Virto Commerce is a highly scalable eCommerce product for fast growing and large companies. It provides powerful enterprise-class features right out-of-the-box and gives you the flexibility to create your own unique eCommerce solution while utilizing agile principles.</p>
 		<p class="text">Multiple store management, advanced promotion engines, dynamic content, as well as advanced product and price management are just a few of the tools at your fingertips with Virto Commerce. With the ability of full customization, you'll be able to achieve your unique business needs, convert browsers to buyers and increase online revenue!</p>
 		<div class="advantages">
