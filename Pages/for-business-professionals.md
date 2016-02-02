@@ -19,7 +19,7 @@ tags :
 		<div class="advantages">
 			<ul class="list">
 				<li class="list-item">
-					<img alt="Architecture" src="/assets/images/features/architecture-circle.png">
+					<img alt="Architecture" src="/assets/images/features/architecture-circle.png" style="border: 0px">
 					<p class="title">Solution Architecture</p>
 					<p>Virto Commerce Manager, at the core of the Virto Commerce platform provides administration and management tools. Its comprehensive core functionality that can be easily extended
 					with modules and customer capabilities as well as integrated with back-end ERP systems and front-end authentication solutions.
