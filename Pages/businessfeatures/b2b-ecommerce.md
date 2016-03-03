@@ -1,6 +1,6 @@
 ---
 layout: businesspost
-title: Best .NET B2B ecommerce platform - Free Community Edition
+title: B2B eCommerce Platform | Software by Virto Commerce
 description: Build B2B ecommerce solutions with open source enterprise .net ecommerce platform.
 date: 2014-01-30
 canonical: http://virtocommerce.com/b2b-ecommerce
@@ -21,7 +21,6 @@ tags :
 
 <article role="main" class="main">
 	<div class="business-features clearfix __responsive">
-		{% include features-left-menu.html %}
 		<div class="business-cnt">
 			<div class="head __promo">
 				<h1 class="title">B2B Ecommerce Platform</h1>
