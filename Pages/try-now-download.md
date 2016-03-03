@@ -31,4 +31,8 @@ tags :
 	</div>
 
 	{% include technologies.html %}
+	
+	<div class="about-vc __responsive">
+		<a class="link learn-link" href="/b2b-ecommerce">Learn more about Virto Commerce as a Ecommerce Platform for B2B</a>
+	</div>
 </article>
