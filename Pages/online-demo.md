@@ -49,5 +49,5 @@ tags :
 		</div>
 	</div>
 	{% include technologies.html %}
-
+	{% include learn-about-b2b.html %}
 </article>
