@@ -1,7 +1,7 @@
 ---
 layout: businesspost
 title: B2B eCommerce Platform | Software by Virto Commerce
-description: Build B2B ecommerce solutions with open source enterprise .net ecommerce platform.
+description: Grow your business with B2B Ecommerce Platform by Virto Software. The Truly Scalable Enterprise Solution based on Cloud. Mobile Friendly, Easily Integrated, Agile Devoted.
 date: 2014-01-30
 canonical: http://virtocommerce.com/b2b-ecommerce
 permalink: /pages/b2b-ecommerce
