@@ -12,7 +12,7 @@ path {
 <script>
 
 var width = 960,
-    height = 700,
+    height = 800,
     radius = (Math.min(width, height) / 2) - 10;
 
 var formatNumber = d3.format(",d");
@@ -51,6 +51,29 @@ d3.json("data.json", function(error, root) {
       .on("click", click)
     .append("title")
       .text(function(d) { return d.name + "\n" + formatNumber(d.value); });
+    
+    /*
+    // text paths  
+    var field = svg.selectAll("g")
+        .data(partition.nodes(root))
+    .enter().append("g");
+
+    field.append("path")
+        .attr("class", "arc-body");
+
+    field.append("path")
+        .attr("id", function(d, i) { return "arc-center-" + i; })
+        .attr("class", "arc-center");
+
+    field.append("text")
+        .attr("dy", ".35em")
+        .attr("dx", ".75em")
+        .style("text-anchor", "start")
+    .append("textPath")
+        .attr("startOffset", "50%")
+        .attr("class", "arc-text")
+        .attr("xlink:href", function(d, i) { return "#arc-center-" + i; });
+        */
 });
 
 function click(d) {
