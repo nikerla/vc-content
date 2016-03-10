@@ -16,7 +16,7 @@ tags :
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
 				<p class="roadmap-title">Winter/Spring 2016</p>
-				<p class="roadmap-descr">Focus on B2B functionality, improvements to frontend, more sample stores and integrations.</p>
+				<p class="roadmap-descr">Focus on <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
@@ -89,7 +89,7 @@ tags :
 									<span class="descr">Single explorer like interface to manage all your digital assets no matter where they are located, in the cloud storage or locally.</span>
 								</li>                            
 								<li>
-									<span class="title">B2B/B2C Quotation</span>
+									<span class="title"><a href="/b2b-ecommerce">B2B</a>/B2C Quotation</span>
 									<span class="descr">Quotation system enables business users to execute quote requests online with custom pricing without a need to create special coupons.</span>
 								</li>
 								<li>
