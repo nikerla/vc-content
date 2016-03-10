@@ -52,7 +52,7 @@ tags :
 						<img alt="Virto Commerce frontend accelerator" src="assets/images/demo/mobile.png" class="border">
 					</div>
 					<h3>Mobile App (iOS & Android)</h3>
-					<p class="text">To launch, download Install <a href="http://view.ionic.io" target="_blank">Ionic View</a> on your phone and sign up / log in to Ionic. Then Tap PREVIEW APP and Enter app id: <b>9eb6619b</b></p>
+					<p class="text">To launch, download Install <a href="http://view.ionic.io" target="_blank">Ionic View</a> on your phone and sign up / log in to Ionic, then Tap PREVIEW APP and enter app id <b>9eb6619b</b></p>
 				</div>
 			</div>
 		</div>
