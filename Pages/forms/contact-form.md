@@ -48,7 +48,7 @@ tags :
 						<div class="control-group">
 							<label for="revenue">Revenue (Gross Merchandise Volume) per year (USD)</label>
 							<select name="revenue" type="text" class="form-input">
-							  <option value="1m">0 - 1 Million</option>
+							  <option value="1m" selected>Up to 1 Million</option>
 							  <option value="5m">1 - 5 Million</option>
 							  <option value="10m">5 - 10 Million</option>
 							  <option value="25m">10 - 25 Million</option>
