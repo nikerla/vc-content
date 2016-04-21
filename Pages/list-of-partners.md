@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Virto commerce - ASP.NET open-source ecommerce platform. Partners
 description: Virto commerce - ASP.NET open-source ecommerce platform. Partners
