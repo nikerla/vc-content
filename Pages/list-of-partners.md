@@ -75,6 +75,7 @@ tags :
 					<a class="button" href="/contact-partner?pid=olympicsoftware" rel="nofollow">Contact partner</a>
 				</div>
 			</li>
+<!--
 			<li class="list-item">
 				<a href="http://virto-mint.com/" class="list-pic" rel="nofollow">
 					<img alt="" src="/assets/images/partners/virtomint.jpg">
@@ -87,6 +88,7 @@ tags :
 					<a class="button" href="/contact-partner?pid=virtomint" rel="nofollow">Contact partner</a>
 				</div>
 			</li>
+-->
 		</ul>
 	</div>
 	{% include technologies.html %}
