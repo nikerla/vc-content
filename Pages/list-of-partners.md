@@ -75,20 +75,6 @@ tags :
 					<a class="button" href="/contact-partner?pid=olympicsoftware" rel="nofollow">Contact partner</a>
 				</div>
 			</li>
-<!--
-			<li class="list-item">
-				<a href="http://virto-mint.com/" class="list-pic" rel="nofollow">
-					<img alt="" src="/assets/images/partners/virtomint.jpg">
-				</a>
-				<div class="list-info">
-					<a href="http://virto-mint.com/" class="link" rel="nofollow">Virto Mint</a>
-					<p class="country">United States, India</p>
-					<p class="lang">Languages Spoken: English</p>
-					<p class="text">We are a band of ecommerce development specialists with a special focus on building and supporting websites on the Virto Commerce Platform.</p>
-					<a class="button" href="/contact-partner?pid=virtomint" rel="nofollow">Contact partner</a>
-				</div>
-			</li>
--->
 		</ul>
 	</div>
 	{% include technologies.html %}
