@@ -25,7 +25,9 @@ tags :
 					<ul class="list">
 						<li>
 							<span class="title">What are the commands supported?</span>
-							<span class="descr">"Where is my order?".</span>
+							<span class="descr">"Where is my order?"</span>
+							<span class="descr">"What is your address?"</span>
+							<span class="descr">"Where are you located?"</span>
 						</li>
 					</ul>
 				</div>
