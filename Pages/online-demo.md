@@ -20,9 +20,6 @@ tags :
 					</div>
 					<h3>Commerce Manager</h3>
 					<p class="text">Manage multiple stores.</p>
-					<p class="text">To connect to the demo store please use:</p>
-					<p class="text">login: admin</p>
-					<p class="text">pass: store</p>
 					<a class="button fill" target="_blank"  href="http://demo.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
 				</div>
 			</div>
