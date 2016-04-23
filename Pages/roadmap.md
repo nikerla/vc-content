@@ -15,15 +15,15 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Winter/Spring 2016</p>
-				<p class="roadmap-descr">Focus on <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations.</p>
+				<p class="roadmap-title">Summer 2016</p>
+				<p class="roadmap-descr">Focus on platform functionality including support for incremental updates. Additional <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title">Mobile App (iOS, Android, Windows)</span>
-									<span class="descr">Mobile Starter App for iOS, Android and Windows Mobile implemented using Ionic Framework.</span>
+									<span class="title">Platform Auto Updates</span>
+									<span class="descr">Adding support for platform autoupdates.</span>
 								</li>
 								<li>
 									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
@@ -36,10 +36,6 @@ tags :
 								<li>
 									<span class="title"><a href="/features/nopcommerce-migration">NopCommerce migration</a></span>
 									<span class="descr">Learn how to migrate your NopCommerce store to Virto Commerce.</span>
-								</li>
-								<li>
-									<span class="title">Admin localization</span>
-									<span class="descr">Localize all strings in our angularjs based admin using json resource files.</span>
 								</li>
 								<li>
 									<span class="title">Multi Channel</span>
@@ -62,10 +58,6 @@ tags :
 								<li>
 									<span class="title">Marketing automation modules</span>
 									<span class="descr">Integration with popular marketing platforms Silverpop, Marketo, SpotHub</span>
-								</li>
-								<li>
-									<span class="title">Points & gift card support</span>
-									<span class="descr">Allow support for custom currencies including points and bitcoin. Support gift cards.</span>
 								</li>
 								<li>
 									<span class="title">Google Commerce Analytics</span>
@@ -121,6 +113,18 @@ tags :
 								<li>
 									<span class="title">New payment systems</span>
 									<span class="descr"><a href="https://klarna.com" rel="nofollow">Klarna</a>, <a href="http://payex.com" rel="nofollow">Payex</a>, <a href="https://www.merchante-solutions.com/" rel="nofollow">Merchante-solutions</a></span>
+								</li>
+								<li>
+									<span class="title">Mobile App (iOS, Android, Windows)</span>
+									<span class="descr">Mobile Starter App for iOS, Android and Windows Mobile implemented using Ionic Framework.</span>
+								</li>
+								<li>
+									<span class="title">Admin localization</span>
+									<span class="descr">Localized all strings in our angularjs based admin using json resource files. Added support for RTL languages (v2.10).</span>
+								</li>
+								<li>
+									<span class="title">Points & gift card support</span>
+									<span class="descr">Added support for custom currencies including points and bitcoin. Support gift cards.</span>
 								</li>
 							</ul>
 						</div>
