@@ -30,10 +30,14 @@ tags :
             <p class="text">There are two types of Web breadcrumbs:</p>
             <ol>
                 <li>
-                    <p class="text">Location: location breadcrumbs are static and show where the page is located in the website hierarchy.</p>  
+                    <p class="text">
+                    	Attribute: attribute breadcrumbs give information that categorizes the current page.
+                    </p>
                 </li>
                 <li>
-                    <p class="text">Attribute: attribute breadcrumbs give information that categorizes the current page.</p>
+                    <p class="text">
+                    	Location: location breadcrumbs are static and show where the page is located in the website hierarchy.
+                    </p>
                 </li>
             </ol>
             <div class="buttons columns">
