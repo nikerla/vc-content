@@ -22,10 +22,12 @@ tags :
 					<img alt="Architecture" src="/assets/images/features/architecture-circle.png" style="border: 0px">
 					<p class="title">Solution Architecture</p>
 					<p>Virto Commerce Manager, at the core of the Virto Commerce platform provides administration and management tools. Its comprehensive core functionality that can be easily extended
-					with modules and customer capabilities as well as integrated with back-end ERP systems and front-end authentication solutions.
+					with modules and customer capabilities as well as integrated with back-end ERP systems and front-end authentication solutions. Modular architecture supports automatic updates to allow
+					solutions to stay up to date with the latest features and fixes.
 					</p>
 					<ul class="features-list">
 						<li>Extensible architecture</li>
+						<li>Automatic updates</li>
 						<li>Notification engine</li>
 						<li>Authentication & authorization services</li>
 						<li>Flexible event enabled data layer</li>
