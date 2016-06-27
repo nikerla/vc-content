@@ -292,6 +292,7 @@ tags :
                     <div class="block">
                         <h3>Administration</h3>
                         <ul class="list">
+							<li>Modules/Extensions Auto Updates</li>						
                             <li>Data import/export</li>
 							<li>Data synchronization</li>
 							<li>Backup and restore</li>
