@@ -1,0 +1,7 @@
+﻿<ul class="tags-list list __inline">
+    {% for tag in article.tags %}
+        <li class="list-item">
+            {{ tag }}{% if forloop.index != article.tags.size %},&nbsp;{% endif %}
+        </li>
+    {% endfor %}
+</ul>

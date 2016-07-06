@@ -1,0 +1,11 @@
+{
+    "current": "Default",
+    "presets": {
+        "Default": {
+            "google_site_verification_id": "SECRET",
+            "google_analytics_key": "SECRET",
+            "facebook_tracker_id": "SECRET",
+            "microsoft_app_insights_key": "SECRET"
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "general": {
+        "case_studies": "Case studies",
+        "b2b_ecommerce": "B2B eCommerce Platform",
+        "business_feautures": "Business Features",
+        "technical_feautures": "Technical Features",
+        "contact_us": "Contact us",
+        "search": "Search",
+        "try_now": "Try Now",
+        "menu": "Menu",
+        "dev_resources": "Dev resources",
+        "documentation": "Documentation",
+        "downloads": "Downloads",
+        "code_repository": "Code repository",
+        "roadmap": "Roadmap",
+        "blog": "Blog",
+        "support": "Support",
+        "stackoverflow": "StackOverflow",
+        "app_store": "App store",
+        "social_networks": "Social networks",
+        "404_text": "Oops! Something has gone wrong and the page you were looking for could not be displayed!",
+        "partner": {
+            "microsoft": "Microsoft Gold certificated Partner",
+            "azure": "Windows Azure"
+        },
+        "news_sign_up": {
+            "title": "Signup for news",
+            "to": "Enter email ...",
+            "subject": "Signup for news",
+            "submit": "Submit"
+        },
+        "technologies": {
+            "windows_azure": "Windows Azure",
+            "elasticsearch": "Elasticsearch",
+            "microsoft_net": "Microsoft.NET",
+            "web": "CSS 3, HTML 5, Jquery, Bootstrap",
+            "angular_js": "Angular JS"
+        },
+        "copyright": "Copyright &copy; 2011-2016 Virto Commerce &copy;. All rights reserved",
+        "terms": "Terms",
+        "privacy": "Privacy"
+    },
+    "main_page": {
+        "about": {
+            "link_text": "Learn more about Virto Commerce",
+            "description": "Virto Commerce was founded by a team that previously developed Mediachase eCommerce Framework, successfully used by thousands of merchants around the world. Since 2011 our team of architects and engineers has been developing Virto Commerce to be a new generation of .NET ecommerce platforms, and in June 2013 Virto Commerce v1.0 has been released. We are company with a mission to make e-Commerce development simple and exciting. Our main focus is professional developers and organizations looking for a framework that will help them deliver \"more than expected\" to their customers in less time. Our goal is to deliver software product that we can be proud of. We are a global company with offices and local experience in USA, European and Asian markets."
+        },
+        "presentation": {
+            "title": ".NET Ecommerce Platform<span></span>for B2B & B2C solutions",
+            "subtitle": "Enterprise ecommerce .NET developers deserve<span></span>Get started for free"
+        },
+        "customers": {
+            "title": "Expand and Customize Your Business",
+            "subtitle": {
+                "mobile": "Mobile",
+                "multichannel": "Multichannel",
+                "b2c": "B2C",
+                "b2b": "B2B",
+                "social": "Social network"
+            },
+            "content": {
+                "social_title": "Social",
+                "social_description": "Authenticate using popular social networks including Facebook, Linkedin, Google and many others. Create custom store front using our web api services and javascript libraries.",
+                "multichannel_title": "Multi Channel",
+                "multichannel_description": "Start selling on Amazon, eBay and other channels with our integrated Multi Channel solution.",
+                "mobile_title": "Mobile",
+                "mobile_description": "Our site fully supports mobile, tablet and other devices using responsive approach. You can utilize Virto Commerce mobile friendly Web API to integrate iOS, Android and Windows apps with commerce.",
+                "b2c_title": "B2C",
+                "b2c_description": "Use our sample site to launch your Business to Consumer store. Features include support for search, faceted filters, reviews, one page checkout and many more. Can be used to launch Fashion, Services, Digital Downloads and other types of stores.",
+                "b2b_title": "B2B Ecommerce",
+                "b2b_description": "Virto Commerce Web API provides integration points for your partners. Use multiple master and virtual catalogs to create partner product lists. Define custom pricing using Price Lists for vendors, customers and partners. Native support for quotes to enable business users execute quote requests online. Integrate with your procurement system, we support integration with Ariba, SciQuest, Coupa, SAP etc."
+            }
+        },
+        "developers": {
+            "title": "Designed for Developers",
+            "subtitle": {
+                "app_store": "AppStore",
+                "modular": "Modular Architecture",
+                "open_source": "Open source"
+            },
+            "content": {
+                "app_store_title": "AppStore",
+                "app_store_description": "Publish your solutions, modules and services to Virto Commerce AppStore. Connect with potential customers and buyers.",
+                "modular_title": "Modular<br />architecture",
+                "modular_description": "Enhance or replace existing modules without modifying any of the core functionality.",
+                "open_source_title": "Open source",
+                "open_source_description": "Download complete source code of Virto Commerce. Explore our development and feature branches to see whats coming next. Submit bug fixes and enhancements to be included in the next release."
+            }
+        },
+        "platform": {
+            "title": ".NET e-Commerce Platform as a Service"
+        },
+        "advantages": {
+            "open_source": {
+                "alt": "Virto Commerce ASP.NET open-source e-commerce platform",
+                "title": "Take Advantage of ASP.NET Open-source Platform",
+                "description": "Customize anything and stay ahead of your competition. Evolve faster than SaaS offerings and stay ahead of proprietary based solutions."
+            },
+            "catalogs": {
+                "alt": "Virto Commerce ASP.NET open-source shopping cart",
+                "title": "Browse, filter and search product catalogs",
+                "description": "Provide your customers with tools to find a product they are looking for."
+            },
+            "automation": {
+                "alt": "Virto Commerce e-commerce framework",
+                "title": "Launch your solutions faster with automation tools",
+                "description": "Using combination of azure and automation cmdlets, setup automated deployments for your solutions. From development to staging to production."
+            }
+        }
+    }
+}

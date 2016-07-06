@@ -1,0 +1,36 @@
+{% paginate blog.articles by 5 %}
+<div class="posts __responsive">
+    <div class="cnt">
+        {% include 'breadcrumb' %}
+        {% for article in blog.articles %}
+            <div class="post">
+                <div class="post-t">
+                    <a href="{{ article.url | absolute_url }}">{{ article.title }}</a>
+                </div>
+                <div class="post-cnt">
+                    {% if article.tags.size > 0 %}
+                    {% include 'article-tags-list' %}
+                    {% endif %}
+                    <div class="text-light">
+                        Posted by <span class="author">{{ article.author }}</span> on <span class="date">{{ article.created_at | date: 'month_day_year' }}</span>
+                    </div>
+                    <div class="text">
+                        {{ article.excerpt }}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+
+        {% if paginate.pages > 1 %}
+        <hr />
+        <div class="text-center">
+          {% include 'pagination-custom' %}
+        </div>
+        {% endif %}
+
+    </div>
+    <div class="sidebar">
+        {% include 'blog-sidebar' %}
+    </div>
+</div>
+{% endpaginate %}

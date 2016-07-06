@@ -1,0 +1,109 @@
+﻿<div class="footer-wrap">
+    <footer class="responsive" role="contentinfo">
+        <div class="column">
+            <div class="links">
+                <p class="title">{{ 'general.menu' | t }}</p>
+                <ul class="menu">
+                    <li class="menu-item">
+                        <a class="link-white" href="{{ '/case-studies' | absolute_url }}">{{ 'general.case_studies' | t }}</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="link-white" href="{{ '/b2b-ecommerce' | absolute_url }}">{{ 'general.b2b_ecommerce' | t }}</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="link-white" href="{{ '/shopping-cart' | absolute_url }}">{{ 'general.business_feautures' | t }}</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="link-white" href="{{ '/features/for-developers' | absolute_url }}">{{ 'general.technical_feautures' | t }}</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="link-white" href="{{ '/contact-us' | absolute_url }}">{{ 'general.contact_us' | t }}</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="dev">
+                <p class="title">{{ 'general.dev_resources' | t }}</p>
+                <ul class="menu">
+                    <li class="menu-item document">
+                        <a class="link-white" href="http://docs.virtocommerce.com" rel="nofollow" target="_blank">{{ 'general.documentation' | t }}</a>
+                    </li>
+                    <li class="menu-item downloads">
+                        <a class="link-white" href="{{ '/try-now-download' | absolute_url }}">{{ 'general.downloads' | t }}</a>
+                    </li>
+                    <li class="menu-item code">
+                        <a class="link-white" href="https://github.com/VirtoCommerce/vc-community" rel="nofollow" target="_blank">{{ 'general.code_repository' | t }}</a>
+                    </li>
+                    <li class="menu-item roadmap">
+                        <a class="link-white" href="{{ '/roadmap' }}">{{ 'general.roadmap' | t }}</a>
+                    </li>
+                </ul>
+                <ul class="menu">
+                    <li class="menu-item blog">
+                        <a class="link-white" href="http://blog.virtocommerce.com/" rel="nofollow" target="_blank">{{ 'general.blog' | t }}</a>
+                    </li>
+                    <li class="menu-item support">
+                        <a class="link-white" href="http://help.virtocommerce.com/support/home" rel="nofollow" target="_blank">{{ 'general.support' | t }}</a>
+                    </li>
+                    <li class="menu-item stackoverflow">
+                        <a class="link-white" href="http://stackoverflow.com/questions/tagged/virtocommerce" rel="nofollow" target="_blank">{{ 'general.stackoverflow' | t }}</a>
+                    </li>
+                    <li class="menu-item marketplace">
+                        <a class="link-white" href="{{ '/apps' | absolute_url }}">{{ 'general.app_store' | t }}</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="column">
+            <div class="social">
+                <p class="title">{{ 'general.social_networks' | t }}</p>
+                <ul class="list __inline __socials">
+                    <li class="list-item">
+                        <a href="https://twitter.com/VirtoCommerce" rel="nofollow" target="_blank"></a>
+                    </li>
+                    <li class="list-item fb">
+                        <a href="https://www.facebook.com/virtocommerce" rel="nofollow" target="_blank"></a>
+                    </li>
+                    <li class="list-item plus">
+                        <a href="https://plus.google.com/u/0/110275588520785121043/posts" rel="nofollow" target="_blank"></a>
+                    </li>
+                    <li class="list-item ln">
+                        <a href="https://www.linkedin.com/groups/Virtocommerce-Users-Group-8116785" rel="nofollow" target="_blank"></a>
+                    </li>
+                    <li class="list-item mail">
+                        <a href="mailto:sales@virtocommerce.com" rel="nofollow" target="_blank"></a>
+                    </li>
+                </ul>
+                <div class="partner microsoft">
+                    <a href="https://pinpoint.microsoft.com/en-us/companies/4298254222" rel="nofollow" target="_blank">{{ 'general.partner.microsoft' | t }}</a>
+                </div>
+                <div class="partner azure">
+                    <a href="http://azure.microsoft.com/" rel="nofollow" target="_blank">{{ 'general.partner.azure' | t }}</a>
+                </div>
+            </div>
+            <form class="subscribe" id="subscribe">
+                <p class="title">{{ 'general.contact_us' | t }}</p>
+                <a class="email" href="mailto: sales@virtocommerce.com">sales@virtocommerce.com</a>
+                <p class="phone">+1 (800) 980-5288</p>
+                <p class="title">{{ 'general.news_sign_up.title' | t }}</p>
+                <input class="form-input" name="To" placeholder="{{ 'general.news_sign_up.to' | t }}" type="text" />
+                <input name="Subject" type="hidden" value="{{ 'general.news_sign_up.subject' | t }}" />
+                <input name="IsResend" type="hidden" value="true" />
+                <input name="RedirectUrl" type="hidden" value="{{ '/thank-you' | absolute_url }}" />
+                <input class="button mini white" type="submit" value="{{ 'general.news_sign_up.submit' | t }}" />
+            </form>
+        </div>
+    </footer>
+</div>
+<div class="footer-copy">
+    <div class="responsive">
+        <p>{{ 'general.copyright' | t }}</p>
+        <ul class="menu __inline">
+            <li class="menu-item">
+                <a href="{{ '/terms' | absolute_url }}">{{ 'general.terms' | t }}</a>
+            </li>
+            <li class="menu-item">
+                <a href="{{ '/privacy' | absolute_url }}">{{ 'general.privacy' | t }}</a>
+            </li>
+        </ul>
+    </div>
+</div>

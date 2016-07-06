@@ -1,0 +1,25 @@
+<div class="posts __responsive">
+    <div class="cnt">
+        {% include 'breadcrumb' %}
+        <div class="post">
+            <div class="post-t">{{ article.title }}</div>
+            <div class="post-cnt">
+                {% if article.tags.size > 0 %}
+                {% include 'article-tags-list' %}
+                {% endif %}
+                <div class="text-light">
+                    Posted by <span class="author">{{ article.author }}</span> on <span class="date">{{ article.created_at | date: 'month_day_year' }}</span>
+                </div>
+                <div class="text">
+                    {{ article.content }}
+                </div>
+            </div>
+            <div class="post-soc">
+                {% include 'share-post-menu' %}
+            </div>
+        </div>
+    </div>
+    <div class="sidebar">
+        {% include 'blog-sidebar' %}
+    </div>
+</div>
