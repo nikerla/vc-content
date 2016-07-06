@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Import your shopify store
 description: Learn how to migrate shopify store
 date: 2015-05-22
@@ -112,5 +111,5 @@ permalink: features/shopify-migration
     <div class="try-it">
         <span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
     </div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Umbraco CMS eCommerce
 description: eCommerce for Umbraco CMS
 date: 2014-01-30
@@ -81,5 +80,5 @@ permalink: features/umbraco-cms-ecommerce
 	<div class="try-it">
 		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

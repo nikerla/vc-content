@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Virto commerce - Enterprise ecommerce platform
 description: VirtoCommerce offers an enterprise ecommerce platform designed to expand sales with simple and exciting ecommerce solutions.
 permalink: our-offers/enterprise-edition
@@ -9,7 +8,7 @@ tags :
 - commerce
 ---
 <div class="slider">
-	<img alt="" src="/Content/images/bg-enterprise.jpg" class="slider-bg">
+	<img alt="" src="/assets/images/bg-enterprise.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
 			<h1 class="slider-title">Enterprise Edition</h1>
@@ -70,6 +69,6 @@ tags :
 	<div class="try-it">
 		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
 	</div>
-	{% include learn-more.html %}
-	{% include technologies.html %}
+	{% include 'learn-more' %}
+	{% include 'technologies' %}
 </article>

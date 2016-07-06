@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Download SDK
 description: Enterprise .NET open-source ecommerce cloud platform. Download SDK
 date: 2014-01-30
-permalink: /pages/download-sdk
+permalink: download-sdk
 tags :
 - download-sdk
 - commerce
@@ -31,5 +30,5 @@ tags :
 			</div>
 		</form>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

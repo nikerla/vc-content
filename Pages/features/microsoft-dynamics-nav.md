@@ -1,5 +1,4 @@
 ---
-layout: post
 title: B2B & B2C e-commerce for Dynamics NAV
 description: B2B & B2C e-commerce for Dynamics NAV
 date: 2014-01-30
@@ -104,5 +103,5 @@ permalink: features/ecommerce-microsoft-dynamics-nav
 	<div class="try-it">
 		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

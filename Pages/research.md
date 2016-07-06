@@ -1,15 +1,14 @@
 ﻿---
-layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Research
 description: Enterprise .NET open-source ecommerce cloud platform. Research
 date: 2014-01-30
-permalink: /pages/research
+permalink: research
 tags : 
 - research
 - commerce
 ---
 <div class="slider">
-	<img alt="" src="/Content/images/bg-research.jpg" class="slider-bg">
+	<img alt="" src="/assets/images/bg-research.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
 			<h1 class="slider-title">VC Research</h1>
@@ -75,6 +74,6 @@ tags :
 			</div>
 		</div>
 	</div>
-	{% include learn-more.html %}
-	{% include technologies.html %}
+	{% include 'learn-more' %}
+	{% include 'technologies' %}
 </article>

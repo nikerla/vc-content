@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Agile ecommerce platform for b2c and b2b - Virto Commerce
 description: Agile ecommerce platform for b2c and b2b
 date: 2014-01-30
@@ -326,5 +325,5 @@ tags :
 	<div class="try-it">
 		<span class="try-it-text">Want to learn more about Virto Commerce?</span> <a class="button fill" href="/contact-us">Request more info & pricing</a>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

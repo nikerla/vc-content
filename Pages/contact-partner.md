@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Contact our Partners | Virto Commerce Platform
 description: Enterprise .NET open-source ecommerce cloud platform. Contact our Partners
 date: 2014-01-30
-permalink: /pages/contact-partner
+permalink: contact-partner
 ---
 <article role="main" class="main">
 	<div class="roadmap responsive">
@@ -64,5 +63,5 @@ permalink: /pages/contact-partner
 			</div>
 		</div>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

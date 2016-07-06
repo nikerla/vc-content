@@ -1,9 +1,8 @@
 ﻿---
-layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Open source lisense
 description: Enterprise .NET open-source ecommerce cloud platform. Open source lisense
 date: 2014-01-30
-permalink: /pages/open-source-license
+permalink: open-source-license
 tags : 
 - open-source-license
 - license
@@ -85,7 +84,7 @@ tags :
 		<p>The official "Virto Commerce" logo and text must be placed as follows:</p>
 		<br />
 		<a class="brand" href="/">
-		    <img alt="" src="/Content/images/logo.jpg">
+		    <img alt="" src="/assets/images/logo.jpg">
 		        <span class="slogan">
 			        Powered by 
 			    	<br> 

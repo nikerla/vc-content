@@ -1,9 +1,8 @@
 ﻿---
-layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Privacy
 description: Enterprise .NET open-source ecommerce cloud platform. Privacy
 date: 2014-01-30
-permalink: /pages/privacy
+permalink: privacy
 tags : 
 - privacy
 - commerce

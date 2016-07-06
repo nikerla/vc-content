@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Migrate your WordPress WooCommerce store
 description: Learn how to migrate WordPress WooCommerce store
 date: 2015-05-22
@@ -77,5 +76,5 @@ permalink: features/wordpress-woocommerce-migration
 	<div class="try-it">
 		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

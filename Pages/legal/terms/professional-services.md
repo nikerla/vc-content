@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Professional services terms and conditions
 description: Professional services terms and conditions
 date: 2014-01-30

@@ -1,9 +1,8 @@
 ﻿---
-layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Documentation
 description: Enterprise .NET open-source ecommerce cloud platform. Documentation
 date: 2014-01-30
-permalink: /pages/documentation
+permalink: documentation
 tags : 
 - documentation
 - commerce
@@ -30,5 +29,5 @@ tags :
 			</div>
 		</div>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

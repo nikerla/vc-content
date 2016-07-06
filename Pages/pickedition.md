@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Virto commerce - Enterprise ASP.NET open-source ecommerce cloud platform
 description: Virto commerce - Enterprise ASP.NET open-source ecommerce cloud platform
 date: 2014-01-30
-permalink: /pages/pickedition
+permalink: pickedition
 tags : 
 - pickedition
 - commerce
@@ -34,5 +33,5 @@ tags :
 			</div>
 		</div>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

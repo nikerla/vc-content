@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Virto commerce - Try now .NET open-source ecommerce platform
 description: Virto commerce - Try now .NET open-source ecommerce platform
 date: 2014-01-30
-permalink: /pages/try-now
+permalink: try-now
 tags : 
 - thank-you
 - commerce
@@ -33,5 +32,5 @@ tags :
 		<a class="button mini" href="/demo">Sign-up for a personal demo</a>
 		<p class="text-mini">If you need a more in-depth discussion on a specific scenario or a demonstration of virto commerce</p>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

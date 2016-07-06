@@ -1,17 +1,16 @@
 ---
-layout: businesspost
 title: Ecommerce Web Hosting | Use free Azure hosting for Virto Commerce
 description: Build B2B ecommerce solutions with open source enterprise .net ecommerce platform.
 date: 2014-01-30
 canonical: http://virtocommerce.com/ecommerce-hosting
-permalink: /pages/ecommerce-hosting
-ogimage: http://virtocommerce.com/Content/images/vc_fb.jpg
+permalink: ecommerce-hosting
+ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Enterprise ecommerce open source software for creating B2B and B2C stores and marketplaces
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is an enterprise ecommerce open source software for creating B2B and B2C stores and marketplaces. Includes free community edition.
-twitterimage: http://virtocommerce.com/Content/images/vc_fb-2.jpg
+twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - ecommerce-hosting
@@ -21,7 +20,7 @@ tags :
 
 <article role="main" class="main">
 	<div class="business-features clearfix __responsive">
-		{% include features-left-menu.html %}
+		{% include 'features-left-menu' %}
 		<div class="business-cnt">
 			<div class="head __pr">
 				<h1 class="title">Azure ecommerce hosting</h1>

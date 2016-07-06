@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Virto commerce - ASP.NET open-source ecommerce framework. External links
 description: Virto commerce - ASP.NET open-source ecommerce framework. External links
 date: 2014-01-30
-permalink: /pages/external-links
+permalink: external-links
 tags : 
 - external
 - links
@@ -45,5 +44,5 @@ tags :
 			</li>
 		</ul>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

@@ -1,9 +1,8 @@
 ﻿---
-layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Virto Commerce vs Znode
 description: Enterprise .NET open-source ecommerce cloud platform. Virto Commerce vs Znode
 date: 2014-01-30
-permalink: /pages/znode
+permalink: znode
 tags : 
 - znode
 - commerce
@@ -249,5 +248,5 @@ tags :
 		<a class="button fill exchange" href="">Exchange your Znode licenses for Virto Commerce licenses now!</a>
 		<p class="text">1 - cnet download page with original znode posting http://download.cnet.com/Znode-ASP-NET-Storefront/3000-10248_4-179183.html</p>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

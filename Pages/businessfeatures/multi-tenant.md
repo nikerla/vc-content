@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Virto Commerce - Multi-tenant opensource e-commerce platform
 description: Virto Commerce - Multi-vendor opensource e-commerce platform for Marketplace  and SaaS solutions
 date: 2014-01-30
@@ -15,5 +14,5 @@ tags :
 		<p class="text">Marketplaces - Virto Commerce allows creation of multi-seller solutions with various levels of isolation for different vendors. Modular open architecture to create innovative solutions that can quickly take advantage of modern opportunities. Realize your dreams by not getting stuck using old school platform.</p>
 		<a class="link" href="/features/for-business-professionals">Learn more business features</a>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

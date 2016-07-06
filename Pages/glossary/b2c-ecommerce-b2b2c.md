@@ -1,17 +1,16 @@
 ---
-layout: businesspost
 title: B2C&B2B2C eCommerce - Definition| Glossary Virto Commerce.
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
 canonical: http://virtocommerce.com/glossary/b2c-ecommerce-b2b2c
 permalink: glossary/b2c-ecommerce-b2b2c
-ogimage: http://virtocommerce.com/Content/images/vc_fb.jpg
+ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: B2C&B2B2C eCommerce - Definition| Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: http://virtocommerce.com/Content/images/vc_fb-2.jpg
+twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - glossary
@@ -20,7 +19,7 @@ tags :
 
 <article role="main" class="main">
 	<div class="business-features clearfix __responsive">
-		{% include glossary-left-menu.html %}
+		{% include 'glossary-left-menu' %}
 		<div class="business-cnt">
 			<div class="head __cart">
 				<h1 class="title">B2C eCommerce</h1>

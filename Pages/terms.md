@@ -1,9 +1,8 @@
 ﻿---
-layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Terms
 description: Enterprise .NET open-source ecommerce cloud platform. Terms
 date: 2014-01-30
-permalink: /pages/terms
+permalink: terms
 tags : 
 - terms
 - commerce

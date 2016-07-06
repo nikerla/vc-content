@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Virto Commerce Demo Bot
 description: Demo Bot.
 date: 2014-01-30
@@ -34,5 +33,5 @@ tags :
 			</div>
 		</div> 
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

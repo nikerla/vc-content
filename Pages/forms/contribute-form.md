@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Contribute Agreement - Virto Commerce
 description: Virto commerce - Contribute Agreement
 date: 2015-06-09
-permalink: /pages/contribute-agreement
+permalink: contribute-agreement
 tags : 
 - commerce
 ---
@@ -81,5 +80,5 @@ tags :
 			</div>
 		</div>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

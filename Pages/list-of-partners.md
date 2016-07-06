@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Virto commerce - ASP.NET open-source ecommerce platform. Partners
 description: Virto commerce - ASP.NET open-source ecommerce platform. Partners
 date: 2014-01-30
@@ -28,7 +27,7 @@ tags :
 			</li>
 			<li class="list-item">
 				<a href="http://icubeonline.com/" class="list-pic" rel="nofollow">
-					<img alt="" src="/Content/images/partners/icube.jpg">
+					<img alt="" src="/assets/images/partners/icube.jpg">
 				</a>
 				<div class="list-info">
 					<a href="http://icubeonline.com/" class="link" rel="nofollow">I.Cube</a>
@@ -40,7 +39,7 @@ tags :
 			</li>
 			<li class="list-item">
 				<a href="http://www.aydus.com/" class="list-pic" rel="nofollow">
-					<img alt="" src="/Content/images/partners/aydus-consulting.jpg">
+					<img alt="" src="/assets/images/partners/aydus-consulting.jpg">
 				</a>
 				<div class="list-info">
 					<a href="http://www.aydus.com/" class="link" rel="nofollow">Aydus Consulting</a>
@@ -52,7 +51,7 @@ tags :
 			</li>
 			<li class="list-item">
 				<a href="http://www.allium.cz/" class="list-pic" rel="nofollow">
-					<img alt="" src="/Content/images/partners/allium.jpg">
+					<img alt="" src="/assets/images/partners/allium.jpg">
 				</a>
 				<div class="list-info">
 					<a href="http://www.allium.cz/" class="link" rel="nofollow">Allium</a>
@@ -64,7 +63,7 @@ tags :
 			</li>
 			<li class="list-item">
 				<a href="http://www.olympic.co.nz/" class="list-pic" rel="nofollow">
-					<img alt="" src="/Content/images/partners/olympic.jpg">
+					<img alt="" src="/assets/images/partners/olympic.jpg">
 				</a>
 				<div class="list-info">
 					<a href="http://www.olympic.co.nz/" class="link" rel="nofollow">Olympic Software</a>
@@ -77,5 +76,5 @@ tags :
 			</li>
 		</ul>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

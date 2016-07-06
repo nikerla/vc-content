@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Enterprise .NET open-source ecommerce cloud platform. Request community license
 description: Enterprise .NET open-source ecommerce cloud platform. Request community license
 date: 2014-01-30
-permalink: /pages/request-community-license
+permalink: request-community-license
 tags : 
 - request-community-license
 - license

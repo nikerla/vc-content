@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Become Partner
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Become Partner
 date: 2014-01-30
@@ -78,5 +77,5 @@ tags :
 			</div>
 		</div>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

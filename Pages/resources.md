@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Virto commerce - ASP.NET open-source ecommerce framework. Resources
 description: Virto commerce - ASP.NET open-source ecommerce framework. Resources
 date: 2014-01-30
-permalink: /pages/resources
+permalink: resources
 tags : 
 - roadmap
 - commerce
@@ -89,5 +88,5 @@ stories and other virtocommerce related updates.
 			</li>
 		</ul>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

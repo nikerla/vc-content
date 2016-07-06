@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
 description: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
 date: 2014-01-30
-permalink: /pages/roadmap
+permalink: roadmap
 tags : 
 - roadmap
 - commerce
@@ -137,5 +136,5 @@ tags :
 			</li>
 		</ul>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

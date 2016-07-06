@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Migrate your NopCommerce store
 description: Learn how to migrate NopCommerce store
 date: 2015-05-22
@@ -88,5 +87,5 @@ permalink: features/nopcommerce-migration
 	<div class="try-it">
 		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

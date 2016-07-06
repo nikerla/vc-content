@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Virto Commerce - Cloud Hosted
 description: VirtoCommerce offers an enterprise cloud hosted ecommerce platform designed to expand sales with simple and exciting ecommerce solutions.
 date: 2015-05-31
 permalink: our-offers/enterprise-cloud-hosted
 ---
 <div class="slider">
-	<img alt="" src="/Content/images/bg-enterprise.jpg" class="slider-bg">
+	<img alt="" src="/assets/images/bg-enterprise.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
 			<h1 class="slider-title">Virto Commerce Cloud</h1>
@@ -82,10 +81,10 @@ permalink: our-offers/enterprise-cloud-hosted
 	</div>
     <div class="responsive">
         <h2 class="head-title">Pricing</h2>
-        {% include pricing-paas.html %}
+        {% include 'pricing-paas' %}
     </div>
 	<div class="try-it">
 		<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

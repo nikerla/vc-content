@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Enterprise .net open-source ecommerce cloud platform. Demo
 description: Enterprise .net open-source ecommerce cloud platform. Demo
 date: 2014-01-30
-permalink: /pages/demo
+permalink: demo
 tags : 
 - demo
 - commerce
@@ -69,5 +68,5 @@ tags :
 			</div>
 		</div>
 	</div>
-	{% include technologies.html %}
+	{% include 'technologies' %}
 </article>

@@ -1,17 +1,16 @@
 ---
-layout: businesspost
 title: Advanced pricing engine
 description: Virto Commerce provides flexible and isolated pricing engine that can be used to implement any type of pricing logic.
 date: 2014-01-30
 canonical: http://virtocommerce.com/multi-tenant-list
-permalink: /pages/multi-tenant
-ogimage: http://virtocommerce.com/Content/images/vc_fb.jpg
+permalink: multi-tenant
+ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Virto Commerce provides flexible and isolated pricing engine that can be used to implement any type of pricing logic
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce provides flexible and isolated pricing engine that can be used to implement any type of pricing logic
-twitterimage: http://virtocommerce.com/Content/images/vc_fb-2.jpg
+twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - multi-tenant
@@ -20,7 +19,7 @@ tags :
 
 <article role="main" class="main">
 	<div class="business-features clearfix __responsive">
-		{% include features-left-menu.html %}
+		{% include 'features-left-menu' %}
 		<div class="business-cnt">
 			<div class="head __features">
 				<h1 class="title">Multi-tenant</h1>

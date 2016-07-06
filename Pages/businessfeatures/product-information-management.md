@@ -1,17 +1,16 @@
 ---
-layout: businesspost
 title: Best .NET product information management software - Free Community Edition
 description: Build ecommerce catalog management solutions with open source enterprise .net ecommerce platform.
 date: 2014-01-30
 canonical: http://virtocommerce.com/product-information-management
-permalink: /pages/product-information-management
-ogimage: http://virtocommerce.com/Content/images/vc_fb.jpg
+permalink: product-information-management
+ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Best .NET Catalog management software - Free Community Edition
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful enterprise .NET ecommerce platform for creating flexible Catalog management solutions. Try it free with Free Community License
-twitterimage: http://virtocommerce.com/Content/images/vc_fb-2.jpg
+twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - product-information-management
@@ -23,7 +22,7 @@ tags :
 
 <article role="main" class="main">
 	<div class="business-features clearfix __responsive">
-		{% include features-left-menu.html %}
+		{% include 'features-left-menu' %}
 		<div class="business-cnt">
 			<div class="head __cnt">
 				<h1 class="title">Catalog and Product information management (PIM)</h1>

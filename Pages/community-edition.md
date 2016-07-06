@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Virto Commerce - Free Community Edition of MVC ASP.NET open-source ecommerce framework
 description: Community Edition
 date: 2014-01-30
@@ -10,7 +9,7 @@ tags :
 - community
 ---
 <div class="slider">
-	<img alt="" src="/Content/images/bg-community.jpg" class="slider-bg">
+	<img alt="" src="/assets/images/bg-community.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
 			<h1 class="slider-title">Community Edition</h1>
@@ -58,6 +57,6 @@ your ideas and experience in any e-commerce related fields.
 	<div class="try-it">
 		<span class="try-it-text">Want production community license?</span> <a class="button fill" href="/contact-us">Request now</a>
 	</div>
-	{% include learn-more.html %}
-	{% include technologies.html %}
+	{% include 'learn-more' %}
+	{% include 'technologies' %}
 </article>
