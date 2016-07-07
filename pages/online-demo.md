@@ -15,7 +15,7 @@ tags :
             <div class="column">
                 <div class="block">
                     <div class="img-300">
-                        <a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="assets/images/demo/admin-dashboard.jpg" class="border"></a>
+                        <a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="/assets/images/demo/admin-dashboard.jpg" class="border"></a>
                     </div>
                     <h3>Commerce Manager</h3>
                     <p class="text">Manage multiple stores.</p>
@@ -25,7 +25,7 @@ tags :
             <div class="column">
                 <div class="block">
                     <div class="img-300">
-                        <a target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-electronics.jpg" class="border"></a>
+                        <a target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="/assets/images/demo/frontend-electronics.jpg" class="border"></a>
                     </div>
                     <h3>Electronics store</h3>
                     <p class="text">Simple electronics template that supports responsive design and various mobile devices.</p>
@@ -35,7 +35,7 @@ tags :
             <div class="column">
                 <div class="block">
                     <div class="img-300">
-                        <a target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="assets/images/demo/frontend-clothing.jpg" class="border"></a>
+                        <a target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="/assets/images/demo/frontend-clothing.jpg" class="border"></a>
                     </div>
                     <h3>Clothing store</h3>
                     <p class="text">More advanced clothing store that includes blogs, social integrations, mailchimp and much more.</p>
@@ -45,7 +45,7 @@ tags :
             <div class="column">
                 <div class="block">
                     <div class="img-300">
-                        <img alt="Virto Commerce frontend accelerator" src="assets/images/demo/mobile.png" class="border">
+                        <img alt="Virto Commerce frontend accelerator" src="/assets/images/demo/mobile.png" class="border">
                     </div>
                     <h3>Mobile App (iOS & Android)</h3>
                     <p class="text">To launch, download Install <a href="http://view.ionic.io" target="_blank">Ionic View</a> on your phone and sign up / log in to Ionic, then Tap PREVIEW APP and enter app id <b>9eb6619b</b></p>
