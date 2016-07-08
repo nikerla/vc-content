@@ -23,7 +23,7 @@ tags :
 								<li>
 									<span class="title">Javascript Shopping Cart Module</span>
 									<span class="descr">Integrate e-commerce functionality into any CMS/html site.</span>
-								</li>							
+								</li>
 								<li>
 									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
 									<span class="descr">Extension for open source Umbraco CMS product.</span>
@@ -76,13 +76,13 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title"><a href="https://blog.virtocommerce.com/2016/06/09/virtocommerce-2-11-release-notes/" target="_blank">Platform modules Auto Updates</a> (June 2016)</span>
+									<span class="title"><a href="/blogs/news/virtocommerce-2-11-release-notes/" target="_blank">Platform modules Auto Updates</a> (June 2016)</span>
 									<span class="descr">Support for platform modules auto updates.</span>
-								</li>							
+								</li>
 								<li>
 									<span class="title">Asset manager</span>
 									<span class="descr">Single explorer like interface to manage all your digital assets no matter where they are located, in the cloud storage or locally.</span>
-								</li>                            
+								</li>
 								<li>
 									<span class="title"><a href="/b2b-ecommerce">B2B</a>/B2C Quotation</span>
 									<span class="descr">Quotation system enables business users to execute quote requests online with custom pricing without a need to create special coupons.</span>

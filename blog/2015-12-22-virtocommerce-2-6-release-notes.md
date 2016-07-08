@@ -77,7 +77,7 @@ We have made it easy for you to accept the most popular payment methods in the N
 
 #### Integrate using Azure Logic Apps
 
-Create new integrations with VirtoCommerce Azure API App in Microsoft Azure. Check our recent <a href="http://blog.virtocommerce.com/2015/10/21/integrating-virtocommerce-with-erp-and-other-systems-using-azure-api-app/">article for more details</a>.
+Create new integrations with VirtoCommerce Azure API App in Microsoft Azure. Check our recent <a href="/blogs/news/integrating-virtocommerce-with-erp-and-other-systems-using-azure-api-app/">article for more details</a>.
 
 #### Integration with Amazon Marketplace
 
