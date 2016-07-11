@@ -8,7 +8,7 @@ title: "Virto Commerce 1.12 & 1.13 Release"
 ---
 Since we haven’t posted updates for 1.12 release and 1.13 was just launched, this post will contain info on both of them.
 
-Here is the list of some of new features (you can see more detailed list [https://github.com/VirtoCommerce/vc-community/releases](here)):
+Here is the list of some of new features (you can see more detailed list [here](https://github.com/VirtoCommerce/vc-community/releases)):
 
 * **Azure SDK 2.4** – we upgrade our elastic path providers to support 1.1.1 version (the previous one was an old 0.29 release). Lots of new functionality added (v1.10)
 * **SDK Installer Updated** – it is now more robust and better checks which version of JRE is setup 

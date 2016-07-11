@@ -1,8 +1,8 @@
 <h4>{{ 'blogs.sidebar.recent_articles' | t }}</h4>
 <ul class="list">
-{% for article in blogs.News.articles limit:6 %}
+{% for article in blog.articles limit:6 %}
   <li class="list-item">
-    <a class="list-link" href="{{ article.url }}">{{ article.title }}</a>
+    <a class="list-link" href="{{ article.url | absolute_url }}">{{ article.title }}</a>
     <time class="list-date" pubdate datetime="{{ article.published_at | date: '%Y-%m-%d' }}">
       <em class="text-light">{{ article.published_at | date: format: 'month_day_year' }}</em>
     </time>

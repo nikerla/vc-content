@@ -33,7 +33,7 @@ We currently working on the following features:
 * Programmable promotions
 * Multi channel features (eBay, Amazon integrations)
 * Additional European payment gateways integrations
-* We also helping our customers launch several [http://virtocommerce.com/b2b-ecommerce](B2B) and B2C sites that will allow us to bring more features to a product
+* We also helping our customers launch several [B2B](http://virtocommerce.com/b2b-ecommerce) and B2C sites that will allow us to bring more features to a product
 
 Let us know at [http://help.virtocommerce.com/support/discussions/forums/264127](http://help.virtocommerce.com/support/discussions/forums/264127) if you’d like certain feature to be included in our roadmap.
 
