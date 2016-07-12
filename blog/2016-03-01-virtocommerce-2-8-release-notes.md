@@ -101,10 +101,10 @@ GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Store_module/St
 
 ##### **Changed methods**
 
-GET <a href="http://virtoadmin.azurewebsites.net/admin/docs/ui/index#!/Customer_management_module/CustomerModule_GetContactById"> **/api/contacts/{id}**</a> - added new property Contact.SecurityAccounts. Returns all security account’s logins associated with this member.
+GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_GetContactById"> **/api/contacts/{id}**</a> - added new property Contact.SecurityAccounts. Returns all security account’s logins associated with this member.
 
 GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Commerce_core_module/StorefrontSecurity_GetUserById"> **/api/storefront/security/user/id/{userId}**</a>
 
-GET<a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Commerce_core_module/StorefrontSecurity_GetUserByName"> **/api/storefront/security/user/name/{userName}**</a>
+GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Commerce_core_module/StorefrontSecurity_GetUserByName"> **/api/storefront/security/user/name/{userName}**</a>
 
-GET<a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Commerce_core_module/StorefrontSecurity_GetUserByLogin"> **/api/storefront/security/user/external**</a> - Changed response type to **StorefrontUser** with new property **AllowedStores** (Array[string], optional): List of stores which user can login to.
+GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Commerce_core_module/StorefrontSecurity_GetUserByLogin"> **/api/storefront/security/user/external**</a> - Changed response type to **StorefrontUser** with new property **AllowedStores** (Array[string], optional): List of stores which user can login to.

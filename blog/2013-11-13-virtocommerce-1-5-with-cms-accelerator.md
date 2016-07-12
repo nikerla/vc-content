@@ -32,7 +32,7 @@ Some highlights include:
 * Product and Category Templates are implemented using Kooboo views and determined (which template to use, based on user context, product viewed or category browsed) by Virto Commerce engine 
 * All virto commerce business logic remained intact, so you can easily migrate your application from MVC site to Kooboo and back if needed
 
-We also added the source code of that product into Github at [https://github.com/VirtoCommerce/vc-kooboo](https://github.com/VirtoCommerce/vc-kooboo) and it is available for demo at [http://virtocommerce-cms.azurewebsites.net](http://virtocommerce-cms.azurewebsites.net) (admin: [http://virtocommerce-cms.azurewebsites.net/admin](http://virtocommerce-cms.azurewebsites.net/admin)).
+We also added the source code of that product into Github at [https://github.com/VirtoCommerce/vc-kooboo](https://github.com/VirtoCommerce/vc-kooboo).
 
 Here are some more specific features that you might find interesting after digging dipper into implementation:
 

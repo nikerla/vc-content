@@ -27,7 +27,7 @@ The API App is available on <a href="https://github.com/VirtoCommerce/vc-azure-a
 
 Click "Deploy to Azure" to start VirtoCommerce API App deployment to your account.
 
-Provide the required data during setup. More on deployment process read the Readme section on the github project page and VirtoCommerce <a href="http://docs.virtocommerce.com/pages/viewpage.action?pageId=17465349" target="_blank">documentation page</a>.
+Provide the required data during setup. More on deployment process read the Readme section on the github project page.
 
 After the deployment process has successfully completed the VirtoCommerce.API App should appear in the list of API Apps of your Azure subscription. It can be used like any other API App by adding it to your Logic App.
 

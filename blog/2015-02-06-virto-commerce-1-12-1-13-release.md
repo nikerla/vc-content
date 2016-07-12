@@ -29,7 +29,7 @@ Here is the list of some of new features (you can see more detailed list [here](
 
 We currently working on the following features:
 
-* Web based Admin/Commerce Manager (checkout progress at [http://virtoadmin.azurewebsites.net](http://virtoadmin.azurewebsites.net) or check the code in under webadmin branch on github) Multi channel features (eBay, Amazon integrations)
+* Web based Admin/Commerce Manager (checkout progress at [http://demo.virtocommerce.com/admin](http://demo.virtocommerce.com/admin) or check the code in under webadmin branch on github) Multi channel features (eBay, Amazon integrations)
 * Multi channel features (eBay, Amazon integrations)
 * Additional European payment gateways integrations
 * Additional themed frontend site 

@@ -15,7 +15,7 @@ title: 'Virto Commerce demo is available!'
 ---
 #### Try alpha 1 version of Virto Commerce!
 
-We are excited to announce that the first alpha version of Virto Commerce is now available. Simply register on our support site [http://support.virtocommerce.com](http://support.virtocommerce.com) and you will then get instructions on how to download and test the demo for yourself.
+We are excited to announce that the first alpha version of Virto Commerce is now available: [http://demo.virtocommerce.com](http://demo.virtocommerce.com).
 
 Some highlights about he demo:
 

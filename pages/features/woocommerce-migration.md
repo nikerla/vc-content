@@ -40,7 +40,7 @@ permalink: features/wordpress-woocommerce-migration
                                 <a target="_blank" href="http://plus.google.com/share?url=http://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
 							</li>
 							<li class="list-item ln">
-								<a target="_blank" href="http://www.linkedin.com/company/virtoway/virto-commerce-788516/product?trk=biz_product"></a>
+								<a target="_blank" href="https://www.linkedin.com/shareArticle?url=http://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
 							</li>
 						</ul>
 					</div>

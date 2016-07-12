@@ -19,7 +19,7 @@ Today we release version 1.4.591 of Virto Commerce. This is a minor release and 
 * SDK: improvements to installer and configurator
 * Documentation: added object model and other diagrams for catalog system
 
-During the current spring we also introduced new support system and support forums available at [http://hep.virtocommerce.com](http://hep.virtocommerce.com).
+During the current spring we also introduced new support system and support forums available at [http://help.virtocommerce.com](http://help.virtocommerce.com).
 
 #### What's Next?
 
