@@ -130,8 +130,6 @@
     box-sizing: border-box;
 }
 
-
-
 .responsive,
 .__responsive
 {
@@ -142,8 +140,18 @@
     box-sizing: border-box;
 }
 
+.pagination-custom
+{
+    border-top: 1px solid #e6e6e6;
+    padding: 15px 0 0;
+}
 
-
+    .pagination-custom li
+    {
+        display: inline-block;
+        margin: 0 5px;
+        vertical-align: middle;
+    }
 
 /* ==========================================================================
    / Base layer
