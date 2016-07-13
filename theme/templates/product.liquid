@@ -1,0 +1,110 @@
+﻿<div ng-controller="productController">
+    {% include 'breadcrumb' %}
+    <div class="extension __responsive clearfix">
+        <div class="extension-slider __left">
+            <div class="slider-item">
+                <figure class="slider-outer">
+                    <a class="slider-pic">
+                        <img class="slider-img" itemprop="image" src="{% if product.featured_image.src %}{{ product.featured_image.src }}{% else %}{{ 'blank.png' | asset_url }}{% endif %}" />
+                    </a>
+                </figure>
+            </div>
+        </div>
+        <div class="extension-detail">
+            <div class="extension-detail_inner __col-w">
+                <div class="extension-info col __col-60">
+                    <h1 class="extension-t">{{ product.selected_or_first_available_variant.title }}</h1>
+                    {% if product.description %}
+                    <div class="extension-descr" itemprop="description">{{ product.descriptions['QuickReview'].content }}</div>
+                    {% endif %}
+                    <div class="select-container" ng-if="product.variations.length > 1">
+                        <select ng-model="selectedVariation.id" ng-change="selectVariation()">
+                            <option ng-repeat="variation in product.variations" ng-value="variation.id" ng-selected="selectedVariation.id === variation.id" ng-bind="variation.name"></option>
+                        </select>
+                    </div>
+                    <ul class="list __properties">
+                        <li class="list-item" ng-if="selectedVariation.versionNumber && selectedVariation.versionNumber.value">
+                            <span class="list-t">{{ 'product_page.version' | t }}</span>
+                            <span class="list-name" ng-bind="selectedVariation.versionNumber.value"></span>
+                        </li>
+                        <li class="list-item" ng-if="selectedVariation.releaseDate && selectedVariation.releaseDate.value">
+                            <span class="list-t">{{ 'product_page.release_date' | t }}</span>
+                            <span class="list-name" ng-bind="selectedVariation.releaseDate.value"></span>
+                        </li>
+                        <li class="list-item" ng-if="selectedVariation.compatibility && selectedVariation.compatibility.value">
+                            <span class="list-t">{{ 'product_page.compatibility' | t }}</span>
+                            <span class="list-name" ng-bind="selectedVariation.compatibility.value"></span>
+                        </li>
+                        <li class="list-item" ng-if="selectedVariation.locale && selectedVariation.locale.value">
+                            <span class="list-t">{{ 'product_page.locale' | t }}</span>
+                            <span class="list-name" ng-bind="selectedVariation.locale.value"></span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="extension-links col __col-40">
+                    {% comment %}
+                    <div class="extension-canvas __right">
+                        <img class="extension-img" src="" />
+                    </div>
+                    <ul class="menu">
+                        <li class="menu-item __author">
+                            <a class="menu-link" href=""></a>
+                        </li>
+                        <li class="menu-item">
+                            <a class="menu-link" href="">{{ 'product_page.developer_profile' | t }}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a class="menu-link" href="">{{ 'product_page.contact_developer' | t }}</a>
+                        </li>
+                        <li class="menu-item">
+                            <a class="menu-link" href="">{{ "product_page.developer_extensions" | t }}</a>
+                        </li>
+                    </ul>
+                    {% endcomment %}
+                    <div class="socials">
+                        <div class="social-t">{{ 'product_page.share' | t }}</div>
+                        <ul class="list __inline __socials">
+                            <li class="list-item fb">
+                                <a class="list-link" href="https://www.facebook.com/sharer/sharer.php?u={{ product.url | full_url }}" target="_blank"></a>
+                            </li>
+                            <li class="list-item plus">
+                                <a class="list-link" href="https://plus.google.com/share?url={{ product.url | full_url }}" target="_blank"></a>
+                            </li>
+                            <li class="list-item">
+                                <a class="list-link" href="http://www.twitter.com/share?url={{ product.url | full_url }}" target="_blank"></a>
+                            </li>
+                            <li class="list-item ln">
+                                <a class="list-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ product.url | full_url }}&amp;title={{ product.name }}&amp;source={{ '/' | full_url }}" target="_blank"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <a class="btn __red __round __block __ucase" ng-href="{% raw %}{{ asset.url }}{% endraw %}" ng-if="selectedVariation.assets.length && selectedVariation.price.actualPrice.amount === 0" ng-repeat="asset in selectedVariation.assets">{{ 'product_page.get_extension' | t }} ({{ 'general.free' | t }})</a>
+        </div>
+    </div>
+    <div class="tabs">
+        <ul class="menu __inline __tabs __responsive">
+            <li class="menu-item" ng-class="{ '__selected': productOverviewVisible }" ng-click="showProductOverview()">{{ 'product_page.overview' | t }}</li>
+            <li class="menu-item" ng-class="{ '__selected': productReleaseNotesVisible }" ng-click="showProductReleaseNotes()">{{ 'product_page.release_notes' | t }}</li>
+        </ul>
+        <div class="tab-content">
+            <div class="content-inner __responsive">
+                <p ng-if="fullDescription && productOverviewVisible" ng-bind-html="fullDescription"></p>
+                <div ng-if="productReleaseNotesVisible">
+                    <p class="tab-t" ng-if="selectedVariation.versionNumber" ng-bind="'{{ 'product_page.version' | t }} ' + selectedVariation.versionNumber.value"></p>
+                    <p ng-if="selectedVariation.releaseDate" ng-bind="selectedVariation.releaseDate.value"></p>
+                    <div ng-if="selectedVariation.releaseNotes && selectedVariation.releaseNotes.value">
+                        <p class="tab-t">{{ 'product_page.version_features' | t }}</p>
+                        <p ng-bind="selectedVariation.releaseNotes.value"></p>
+                    </div>
+                    <a class="btn __red __round __left __ucase" ng-href="{% raw %}{{ asset.url }}{% endraw %}" ng-if="selectedVariation.assets.length && selectedVariation.price.actualPrice.amount === 0" ng-repeat="asset in selectedVariation.assets">{{ 'product_page.get_extension' | t }} ({{ 'general.free' | t }})</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    window.products = [];
+    window.products.push({{ product | json }});
+</script>

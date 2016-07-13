@@ -579,6 +579,116 @@
     font-size: 12px;
 }
 
+/* Apps */
+.apps
+{
+}
+
+    .apps .items
+    {
+        margin-bottom: 45px;
+        margin-top: 60px;
+    }
+
+    .apps .list.__items
+    {
+        margin: 0 -15px;
+    }
+
+        .apps .list.__items .list-item
+        {
+            margin: 15px 0 0;
+            padding: 15px;
+            vertical-align: top;
+            width: 25%;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        .apps .list.__items .list-link
+        {
+            background: #f6f6f6;
+            border: 1px solid #eee;
+            display: block;
+            overflow: hidden;
+            padding: 5px;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+        }
+
+        .apps .list.__items .image-outer
+        {
+            background: #fff;
+            height: 208px;
+            margin: 0 0 25px;
+            overflow: hidden;
+            text-align: center;
+        }
+
+            .apps .list.__items .image-outer::after
+            {
+                content: '';
+                display: inline-block;
+                height: 100%;
+                vertical-align: middle;
+            }
+
+        .apps .list.__items .list-img
+        {
+            display: inline-block;
+            margin: 0 0 0 4px;
+            max-width: 170px;
+            vertical-align: middle;
+        }
+
+        .apps .list.__items .list-name,
+        .apps .list.__items .list-descr,
+        .apps .list.__items .list-rating,
+        .apps .list.__items .list-price
+        {
+            margin: 0 5px;
+        }
+
+        .apps .list.__items .list-name
+        {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .apps .list.__items .list-name
+        {
+            display: block;
+            font-size: 14px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+        }
+
+        .apps .list.__items .list-descr
+        {
+            color: #888;
+            display: block;
+            font-size: 12px;
+            height: 30px;
+            line-height: 1.2;
+            overflow: hidden;
+        }
+
+        .apps .list.__items .list-rating,
+        .apps .list.__items .list-price
+        {
+            margin-top: 15px;
+        }
+
+        .apps .list.__items .list-price
+        {
+            color: #888;
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
 /* Enterprise block */
 .main-enterprise
 {

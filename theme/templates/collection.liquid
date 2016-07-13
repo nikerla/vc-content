@@ -1,0 +1,41 @@
+<div class="apps">
+    {% include 'breadcrumb' %}
+    {% if collection.handle == 'apps' %}
+    <div class="items __responsive">
+            <div class="title-w">
+                <h2 class="t">{{ 'apps.new_extensions' | t }}</h2>
+            </div>
+            <div class="list __items __inline">
+                <ul class="main">
+                    {% for collection in collections %}
+                        {% for product in collection.products limit:12 %}
+                            {% include 'grid-item' %}
+                        {% endfor %}
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="info-w">
+            <div class="info __responsive">
+                <div class="info-ico"></div>
+                <div class="info-descr">{{ 'apps.contact_us_slogan' | t }}</div>
+                <a class="btn __large __round __red __ucase" ng-click="showContactUsForm()">{{ 'apps.become_a_developer' | t }}</a>
+            </div>
+        </div>
+    {% else %}
+        {% paginate collection.products by 12 %}
+            <div class="items __responsive">
+                <div class="title-w">
+                    <h2 class="t">{{ collection.title }}</h2>
+                </div>
+                <div class="list __items __inline">
+                    <ul class="main">
+                        {% for product in collection.products %}
+                            {% include 'grid-item' %}
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        {% endpaginate %}
+    {% endif %}
+</div>
