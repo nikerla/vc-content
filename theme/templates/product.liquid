@@ -14,8 +14,8 @@
             <div class="extension-detail_inner __col-w">
                 <div class="extension-info col __col-60">
                     <h1 class="extension-t">{{ product.selected_or_first_available_variant.title }}</h1>
-                    {% if product.description %}
-                    <div class="extension-descr" itemprop="description">{{ product.descriptions['QuickReview'].content }}</div>
+                    {% if product.metafields.properties.Description %}
+                    <div class="extension-descr" itemprop="description">{{ product.metafields.properties.Description }}</div>
                     {% endif %}
                     <div class="select-container" ng-if="product.variations.length > 1">
                         <select ng-model="selectedVariation.id" ng-change="selectVariation()">
@@ -23,20 +23,20 @@
                         </select>
                     </div>
                     <ul class="list __properties">
-                        <li class="list-item" ng-if="selectedVariation.versionNumber && selectedVariation.versionNumber.value">
-                            <span class="list-t">{{ 'product_page.version' | t }}</span>
+                        <li class="list-item" ng-if="selectedVariation.versionNumber &amp;&amp; selectedVariation.versionNumber.value">
+                            <span class="list-t">{{ 'apps.product.version' | t }}</span>
                             <span class="list-name" ng-bind="selectedVariation.versionNumber.value"></span>
                         </li>
-                        <li class="list-item" ng-if="selectedVariation.releaseDate && selectedVariation.releaseDate.value">
-                            <span class="list-t">{{ 'product_page.release_date' | t }}</span>
+                        <li class="list-item" ng-if="selectedVariation.releaseDate &amp;&amp; selectedVariation.releaseDate.value">
+                            <span class="list-t">{{ 'apps.product.release_date' | t }}</span>
                             <span class="list-name" ng-bind="selectedVariation.releaseDate.value"></span>
                         </li>
-                        <li class="list-item" ng-if="selectedVariation.compatibility && selectedVariation.compatibility.value">
-                            <span class="list-t">{{ 'product_page.compatibility' | t }}</span>
+                        <li class="list-item" ng-if="selectedVariation.compatibility &amp;&amp; selectedVariation.compatibility.value">
+                            <span class="list-t">{{ 'apps.product.compatibility' | t }}</span>
                             <span class="list-name" ng-bind="selectedVariation.compatibility.value"></span>
                         </li>
-                        <li class="list-item" ng-if="selectedVariation.locale && selectedVariation.locale.value">
-                            <span class="list-t">{{ 'product_page.locale' | t }}</span>
+                        <li class="list-item" ng-if="selectedVariation.locale &amp;&amp; selectedVariation.locale.value">
+                            <span class="list-t">{{ 'apps.product.locale' | t }}</span>
                             <span class="list-name" ng-bind="selectedVariation.locale.value"></span>
                         </li>
                     </ul>
@@ -51,18 +51,18 @@
                             <a class="menu-link" href=""></a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu-link" href="">{{ 'product_page.developer_profile' | t }}</a>
+                            <a class="menu-link" href="">{{ 'apps.product.developer_profile' | t }}</a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu-link" href="">{{ 'product_page.contact_developer' | t }}</a>
+                            <a class="menu-link" href="">{{ 'apps.product.contact_developer' | t }}</a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu-link" href="">{{ "product_page.developer_extensions" | t }}</a>
+                            <a class="menu-link" href="">{{ "apps.product.developer_extensions" | t }}</a>
                         </li>
                     </ul>
                     {% endcomment %}
                     <div class="socials">
-                        <div class="social-t">{{ 'product_page.share' | t }}</div>
+                        <div class="social-t">{{ 'apps.product.share' | t }}</div>
                         <ul class="list __inline __socials">
                             <li class="list-item fb">
                                 <a class="list-link" href="https://www.facebook.com/sharer/sharer.php?u={{ product.url | full_url }}" target="_blank"></a>
@@ -80,25 +80,25 @@
                     </div>
                 </div>
             </div>
-            <a class="btn __red __round __block __ucase" ng-href="{% raw %}{{ asset.url }}{% endraw %}" ng-if="selectedVariation.assets.length && selectedVariation.price.actualPrice.amount === 0" ng-repeat="asset in selectedVariation.assets">{{ 'product_page.get_extension' | t }} ({{ 'general.free' | t }})</a>
+            <a class="btn __red __round __block __ucase" ng-href="{% raw %}{{ selectedVariation.downloadLink.value }}{% endraw %}" ng-if="selectedVariation.downloadLink &amp;&amp; selectedVariation.downloadLink.value">{{ 'apps.product.get_extension' | t }} ({{ 'apps.general.free' | t }})</a>
         </div>
     </div>
     <div class="tabs">
         <ul class="menu __inline __tabs __responsive">
-            <li class="menu-item" ng-class="{ '__selected': productOverviewVisible }" ng-click="showProductOverview()">{{ 'product_page.overview' | t }}</li>
-            <li class="menu-item" ng-class="{ '__selected': productReleaseNotesVisible }" ng-click="showProductReleaseNotes()">{{ 'product_page.release_notes' | t }}</li>
+            <li class="menu-item" ng-class="{ '__selected': productOverviewVisible }" ng-click="showProductOverview()">{{ 'apps.product.overview' | t }}</li>
+            <li class="menu-item" ng-class="{ '__selected': productReleaseNotesVisible }" ng-click="showProductReleaseNotes()">{{ 'apps.product.release_notes' | t }}</li>
         </ul>
         <div class="tab-content">
             <div class="content-inner __responsive">
-                <p ng-if="fullDescription && productOverviewVisible" ng-bind-html="fullDescription"></p>
+                <p ng-if="fullDescription &amp;&amp; productOverviewVisible" ng-bind-html="fullDescription"></p>
                 <div ng-if="productReleaseNotesVisible">
-                    <p class="tab-t" ng-if="selectedVariation.versionNumber" ng-bind="'{{ 'product_page.version' | t }} ' + selectedVariation.versionNumber.value"></p>
+                    <p class="tab-t" ng-if="selectedVariation.versionNumber" ng-bind="'{{ 'apps.product.version' | t }} ' + selectedVariation.versionNumber.value"></p>
                     <p ng-if="selectedVariation.releaseDate" ng-bind="selectedVariation.releaseDate.value"></p>
-                    <div ng-if="selectedVariation.releaseNotes && selectedVariation.releaseNotes.value">
-                        <p class="tab-t">{{ 'product_page.version_features' | t }}</p>
+                    <div ng-if="selectedVariation.releaseNotes &amp;&amp; selectedVariation.releaseNotes.value">
+                        <p class="tab-t">{{ 'apps.product.version_features' | t }}</p>
                         <p ng-bind="selectedVariation.releaseNotes.value"></p>
                     </div>
-                    <a class="btn __red __round __left __ucase" ng-href="{% raw %}{{ asset.url }}{% endraw %}" ng-if="selectedVariation.assets.length && selectedVariation.price.actualPrice.amount === 0" ng-repeat="asset in selectedVariation.assets">{{ 'product_page.get_extension' | t }} ({{ 'general.free' | t }})</a>
+                    <a class="btn __red __round __left __ucase" ng-href="{% raw %}{{ selectedVariation.downloadLink.value }}{% endraw %}" ng-if="selectedVariation.downloadLink &amp;&amp; selectedVariation.downloadLink.value">{{ 'apps.product.get_extension' | t }} ({{ 'apps.general.free' | t }})</a>
                 </div>
             </div>
         </div>

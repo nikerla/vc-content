@@ -394,6 +394,31 @@
         width: 33.3333%;
     }
 
+	/* Extension */
+	.extension .extension-slider
+	{
+		width: 310px;
+	}
+
+	.extension-slider .slider-item
+	{
+		height: 310px;
+		line-height: 286px;
+		width: 310px;
+	}
+
+	.extension .extension-detail
+	{
+		margin: 0 0 0 330px;
+	}
+
+	.extension-license .col
+	{
+		display: block;
+		padding: 5px 15px;
+		width: auto;
+	}
+
     /* Enterprise */
     .main-enterprise
     {

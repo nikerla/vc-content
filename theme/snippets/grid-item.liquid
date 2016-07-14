@@ -1,12 +1,12 @@
 ﻿<li class="list-item">
     <a class="list-link" href="{{ product.url | absolute_url }}">
         <figure class="image-outer">
-            <img alt="product.title" class="list-img" onerror="this.onerror=null;this.src='{{ 'blank.png' | asset_url }}';" src="{{ product.featured_image.src }}" />
+            <img alt="" class="list-img" onerror="this.onerror=null;this.src='{{ 'no-image.png' | asset_url }}';" src="{{ product.featured_image.src }}" />
         </figure>
         <h3 class="list-name">{{ product.title }}</h3>
-        {% if product.description %}
-            <span class="list-descr">{{ product.description }}</span>
+        {% if product.metafields.properties.Description %}
+        <span class="list-descr">{{ product.metafields.properties.Description }}</span>
         {% endif %}
-        <span class="list-price __left">{% if product.price > 0 %}{{ product.price | money }}{% else %}{{ 'apps.free' | t }}{% endif %}</span>
+        <span class="list-price __left">{% if product.price > 0 %}{{ product.price | money }}{% else %}{{ 'apps.general.free' | t }}{% endif %}</span>
     </a>
 </li>

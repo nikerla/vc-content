@@ -109,15 +109,28 @@
         }
     },
     "apps": {
-        "new_extensions": "New extensions",
-        "view_all": "View all",
-        "free": "Free",
-        "contact_us_slogan": "If you want sell your module on our marketplace become a developer.",
-        "become_a_developer": "Become a developer"
-    },
-    "product_page": {
-        "share": "Share",
-        "overview": "Overview",
-        "release_notes": "Release notes"
+        "general": {
+            "free": "Free"
+        },
+        "category": {
+            "new_extensions": "New extensions",
+            "view_all": "View all",
+            "contact_us_slogan": "If you want to sell your module on our marketplace, become a developer.",
+            "become_a_developer": "Become a developer"
+        },
+        "product": {
+            "version": "Version number",
+            "release_date": "Release date",
+            "compatibility": "Compatibility",
+            "locale": "Locale",
+            "developer_profile": "Developer profile",
+            "contact_developer": "Contact the developer",
+            "developer_extensions": "More extensions by developer",
+            "share": "Share",
+            "get_extension": "Get extension",
+            "overview": "Overview",
+            "release_notes": "Release notes",
+            "version_features": "Version features:"
+        }
     }
 }

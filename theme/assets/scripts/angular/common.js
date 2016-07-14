@@ -1,6 +1,6 @@
 ﻿var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$anchorScroll', 'feedbackService', function ($scope, $window, $location, $anchorScroll, feedbackService) {
+storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$anchorScroll', 'feedbackService', 'dialogService', function ($scope, $window, $location, $anchorScroll, feedbackService, dialogService) {
     $scope.formModel = {};
     $scope.$location = $location;
 
@@ -27,5 +27,9 @@ storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$
             }
         }, function (response) {
         });
+    }
+
+    $scope.showContactUsForm = function () {
+        dialogService.showDialog(null, 'feedbackController', 'storefront.contact-us-form.tpl');
     }
 }]);

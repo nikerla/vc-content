@@ -1,9 +1,9 @@
 <div class="apps">
     {% include 'breadcrumb' %}
     {% if collection.handle == 'apps' %}
-    <div class="items __responsive">
+        <div class="items __responsive">
             <div class="title-w">
-                <h2 class="t">{{ 'apps.new_extensions' | t }}</h2>
+                <h2 class="t">{{ 'apps.category.new_extensions' | t }}</h2>
             </div>
             <div class="list __items __inline">
                 <ul class="main">
@@ -18,8 +18,8 @@
         <div class="info-w">
             <div class="info __responsive">
                 <div class="info-ico"></div>
-                <div class="info-descr">{{ 'apps.contact_us_slogan' | t }}</div>
-                <a class="btn __large __round __red __ucase" ng-click="showContactUsForm()">{{ 'apps.become_a_developer' | t }}</a>
+                <div class="info-descr">{{ 'apps.category.contact_us_slogan' | t }}</div>
+                <a class="btn __large __round __red __ucase" ng-click="showContactUsForm()">{{ 'apps.category.become_a_developer' | t }}</a>
             </div>
         </div>
     {% else %}
