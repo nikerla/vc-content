@@ -150,6 +150,247 @@
     color: #fff;
 }
 
+/* Tabs */
+.tabs
+{
+}
+
+.tab-t
+{
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+    .tab-t + p
+    {
+        margin-top: 0;
+    }
+
+.menu.__tabs
+{
+}
+
+    .menu.__tabs .menu-item
+    {
+        background: #fff;
+        border: 1px solid #f4f4f4;
+        color: #b7b7b7;
+        cursor: pointer;
+        height: 50px;
+        text-align: center;
+        text-transform: uppercase;
+        vertical-align: text-top;
+        width: 200px;
+        -webkit-border-radius: 8px 8px 0 0;
+        border-radius: 8px 8px 0 0;
+    }
+
+        .menu.__tabs .menu-item + .menu-item
+        {
+            margin: 0 0 0 10px;
+        }
+
+        .no-touch .menu.__tabs .menu-item:hover,
+        .menu.__tabs .menu-item.__selected
+        {
+            background-color: #f4f4f4;
+            color: #888;
+        }
+
+        .menu.__tabs .menu-item::after
+        {
+            content: '';
+            display: inline-block;
+            height: 50px;
+            vertical-align: middle;
+        }
+
+.tabs .tab-content
+{
+    background: #f4f4f4;
+}
+
+    .tabs .tab-content .content-inner
+    {
+        overflow: hidden;
+        padding: 30px;
+        text-align: center;
+    }
+
+.tab-content .content-inner ul,
+.tab-content .content-inner ol,
+.tab-content .content-inner p
+{
+    text-align: left;
+}
+
+.tab-content .content-inner ul,
+.tab-content .content-inner ol
+{
+    list-style: inside;
+    margin: 20px 0;
+}
+
+.tab-content .content-inner ol
+{
+    list-style: inside decimal;
+}
+
+.tab-content .content-inner .list,
+.tab-content .content-inner .menu
+{
+    list-style: none;
+}
+
+.tab-content .content-inner .tab-img
+{
+    display: inline-block;
+    max-width: 100%;
+}
+
+    .tab-content .content-inner .tab-img.__i-left
+    {
+        float: left;
+        margin: 0 20px 20px 0;
+    }
+
+    .tab-content .content-inner .tab-img.__i-list
+    {
+        clear: both;
+        display: block;
+    }
+
+.tab-img img
+{
+    background: #fff;
+    border: 1px solid #ccc;
+    display: block;
+    max-width: 100%;
+    padding: 5px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.tab-img.__i-list img
+{
+    display: inline-block;
+    margin: 10px;
+    vertical-align: middle;
+}
+
+/* Popup */
+.overlay
+{
+    background: rgba(90,90,90,.8);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 9000;
+}
+
+.overlay-cnt
+{
+    position: absolute;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+}
+
+    .overlay-cnt::after
+    {
+        content: '';
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+    }
+
+.popup
+{
+    background: #fff;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    width: 800px;
+}
+
+    .popup .popup-close
+    {
+        background: url(close.png) no-repeat scroll 0 0;
+        cursor: pointer;
+        height: 18px;
+        position: absolute;
+        right: 25px;
+        top: 25px;
+        width: 18px;
+    }
+
+    .popup .popup-head
+    {
+        border-bottom: 1px solid #e4e4e5;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 25px 0;
+        text-transform: uppercase;
+    }
+
+    .popup .popup-cnt
+    {
+        padding: 0 40px;
+        text-align: left;
+    }
+
+.popup-cnt .popup-rating
+{
+    padding: 25px 0;
+}
+
+.popup-rating .rating-t,
+.popup-rating .rating,
+.popup-rating .rating-eval
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.popup-rating .rating-t
+{
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 30px 0 0;
+    text-transform: uppercase;
+}
+
+.popup-rating .rating
+{
+    margin: 0 15px 0 0;
+}
+
+.popup-rating .rating-eval
+{
+    color: #bcbec0;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.popup .popup-footer
+{
+    padding: 40px;
+    text-align: left;
+}
+
+    .popup .popup-footer .btn.__yellow
+    {
+        width: 200px;
+    }
+
+    .popup .popup-footer .btn.__cancel
+    {
+        margin: 0 0 0 20px;
+        width: 100px;
+    }
+
 
 .t-descr
 {

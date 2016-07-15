@@ -110,7 +110,10 @@
     },
     "apps": {
         "general": {
-            "free": "Free"
+            "free": "Free",
+            "submit": "Submit",
+            "cancel": "Cancel",
+            "thanks_submitting": "Thank you!"
         },
         "category": {
             "new_extensions": "New extensions",
@@ -131,6 +134,15 @@
             "overview": "Overview",
             "release_notes": "Release notes",
             "version_features": "Version features:"
+        },
+        "contact_us": {
+            "become_developer": "Become a developer",
+            "company_email": "Your company e-mail",
+            "company_name": "Your company name",
+            "developer_fullname": "Your full name",
+            "message": "Your message",
+            "field_required_validation_message": "This field is required",
+            "email_format_validation_message": "Please check the Email address format"
         }
     }
 }
