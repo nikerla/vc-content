@@ -19,7 +19,7 @@ storefrontApp.controller('productController', ['$scope', '$window', '$sce', 'cat
 
     function initialize() {
         $scope.productOverviewVisible = true;
-        var productIds = _.map($window.products, function (product) { return product.id });
+        var productIds = $window.productIds[0];
         catalogService.getProduct(productIds).then(function (response) {
             var product = response.data[0];
             $scope.product = product;
