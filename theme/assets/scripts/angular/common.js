@@ -29,7 +29,11 @@ storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$
         });
     }
 
-    $scope.showContactUsForm = function () {
-        dialogService.showDialog(null, 'feedbackController', 'storefront.contact-us-form.tpl');
+    $scope.showBecomeADeveloperForm = function () {
+        dialogService.showDialog(null, 'feedbackController', 'storefront.form-become-a-developer.tpl');
+    }
+
+    $scope.showWriteAReviewForm = function () {
+        dialogService.showDialog(null, 'feedbackController', 'storefront.form-write-a-review.tpl');
     }
 }]);

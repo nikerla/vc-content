@@ -14,6 +14,9 @@
             <div class="extension-detail_inner __col-w">
                 <div class="extension-info col __col-60">
                     <h1 class="extension-t">{{ product.selected_or_first_available_variant.title }}</h1>
+                    <div class="reviews-links">
+                        <a class="link __ucase" style="cursor:pointer;" ng-click="showWriteAReviewForm()">{{ 'apps.product.write_a_review' | t }}</a>
+                    </div>
                     {% if product.metafields.properties.Description %}
                     <div class="extension-descr" itemprop="description">{{ product.metafields.properties.Description }}</div>
                     {% endif %}

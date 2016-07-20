@@ -110,10 +110,7 @@
     },
     "apps": {
         "general": {
-            "free": "Free",
-            "submit": "Submit",
-            "cancel": "Cancel",
-            "thanks_submitting": "Thank you!"
+            "free": "Free"
         },
         "category": {
             "new_extensions": "New extensions",
@@ -122,9 +119,10 @@
             "become_a_developer": "Become a developer"
         },
         "product": {
+            "write_a_review": "Write a review",
             "version": "Version number",
             "release_date": "Release date",
-            "compatibility": "Compatibility",
+            "compatible-with": "Compatible with",
             "locale": "Locale",
             "developer_profile": "Developer profile",
             "contact_developer": "Contact the developer",
@@ -135,14 +133,21 @@
             "release_notes": "Release notes",
             "version_features": "Version features:"
         },
-        "contact_us": {
-            "become_developer": "Become a developer",
+        "forms": {
+            "become_a_developer_title": "Become a developer",
+            "write_a_review_title": "Your review",
             "company_email": "Your company e-mail",
             "company_name": "Your company name",
-            "developer_fullname": "Your full name",
+            "your_email": "Your e-mail",
+            "your_full_name": "Your full name",
             "message": "Your message",
+            "select_rating": "Please select rating",
+            "review_text": "Your review text",
             "field_required_validation_message": "This field is required",
-            "email_format_validation_message": "Please check the Email address format"
+            "email_format_validation_message": "Please check the Email address format",
+            "submit": "Submit",
+            "cancel": "Cancel",
+            "thank_you": "Thank you!"
         }
     }
 }
