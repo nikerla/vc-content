@@ -1083,6 +1083,85 @@
             text-transform: uppercase;
         }
 
+    /* Info block */
+    .apps .info-w
+    {
+        background: #f4f4f4;
+        padding: 70px 0;
+        text-align: center;
+    }
+
+    .apps .info .info-ico
+    {
+        background: url(info.png) no-repeat scroll 0 0;
+        display: inline-block;
+        height: 112px;
+        width: 124px;
+    }
+
+    .apps .info .info-descr,
+    .apps .info .btn
+    {
+        margin: 0 auto;
+        max-width: 600px;
+    }
+
+    .apps .info .info-descr
+    {
+        font-size: 14px;
+        padding: 40px 0;
+        text-transform: uppercase;
+    }
+
+    .apps .info .btn
+    {
+        width: 100%;
+    }
+
+.apps .title-w
+{
+    margin: 0 0 15px;
+}
+
+.apps .t
+{
+    display: inline-block;
+    font-size: 22px;
+    line-height: 1.2;
+    margin: 20px 0;
+    text-transform: uppercase;
+}
+
+.apps .title-w .t
+{
+    margin: 0;
+}
+
+.apps .title-w .menu
+{
+    margin: 5px 0 0;
+    word-spacing: -3px;
+}
+
+.apps .title-w .menu-item + .menu-item
+{
+    margin: 0 0 0 15px;
+}
+
+.apps .title-w .menu-link
+{
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.apps .sub-t
+{
+    color: #58595b;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
 /* Extension */
 .extension
 {
