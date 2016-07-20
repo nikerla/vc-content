@@ -36,4 +36,8 @@ storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$
     $scope.showWriteAReviewForm = function () {
         dialogService.showDialog(null, 'feedbackController', 'storefront.form-write-a-review.tpl');
     }
+
+    $scope.showContactVendorForm = function () {
+        dialogService.showDialog(null, 'feedbackController', 'storefront.form-contact-vendor.tpl');
+    }
 }]);
