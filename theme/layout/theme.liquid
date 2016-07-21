@@ -34,13 +34,13 @@
     {{ 'hider.js' | asset_url | script_tag }}
     {{ 'base64.js' | asset_url | script_tag }}
     <script type="text/javascript">
-		var appInsights=window.appInsights||function(config){
-			function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i) }) }}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
-				}({
-					instrumentationKey: "{{ settings.microsoft_app_insights_key }}"
-				});
-		window.appInsights=appInsights;
-		appInsights.trackPageView();
+        var appInsights=window.appInsights||function(config){
+            function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i) }) }}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
+                }({
+                    instrumentationKey: "{{ settings.microsoft_app_insights_key }}"
+                });
+        window.appInsights=appInsights;
+        appInsights.trackPageView();
     </script> 
     <script src="//www.google-analytics.com/ga.js" type="text/javascript" async></script>
     <script>
@@ -54,23 +54,23 @@
      {{ content_for_header }}
     <base href="{{ '/' | absolute_url }}" />
     <script>
-	    (function() {
-		    var _fbq = window._fbq || (window._fbq = []);
-		    if (!_fbq.loaded) {
-			    var fbds = document.createElement('script');
-			    fbds.async = true;
-			    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-			    var s = document.getElementsByTagName('script')[0];
-			    s.parentNode.insertBefore(fbds, s);
-			    _fbq.loaded = true;
-		    }
-		    _fbq.push(['addPixelId', '{{ settings.facebook_tracker_id }}']);
-	    })();
-	    window._fbq = window._fbq || [];
-	    window._fbq.push(['track', 'PixelInitialized', {}]);
+        (function() {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+            _fbq.push(['addPixelId', '{{ settings.facebook_tracker_id }}']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
     </script>
 <noscript>
-	<img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: settings.facebook_tracker_id | append: '&amp;ev=PixelInitialized' }}" />
+    <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: settings.facebook_tracker_id | append: '&amp;ev=PixelInitialized' }}" />
 </noscript>
     <style>
         .google-like {
@@ -138,12 +138,12 @@
         $(function () {
             var items = $('.menu.__business-features li a');
             for (var i = 0; i < items.length; i++) {
-			    $(items[i]).parent().removeClass('__selected');
-			    if ($(items[i]).attr('href') === window.location.pathname.replace('/', '')) {
-				    $(items[i]).parent().addClass('__selected');
-			    }
-		    }
-	    });
+                $(items[i]).parent().removeClass('__selected');
+                if ($(items[i]).attr('href') === window.location.pathname.replace('/', '')) {
+                    $(items[i]).parent().addClass('__selected');
+                }
+            }
+        });
     </script>
 </body>
 </html>

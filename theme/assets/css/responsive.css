@@ -332,7 +332,7 @@
     }
 
     /* Header
-	========================================================================== */
+    ========================================================================== */
     .header-wrap
     {
         height: 60px;
@@ -377,7 +377,7 @@
     }
 
     /* Slider
-	========================================================================== */
+    ========================================================================== */
     .slider .bg
     {
         width: auto;
@@ -394,30 +394,36 @@
         width: 33.3333%;
     }
 
-	/* Extension */
-	.extension .extension-slider
-	{
-		width: 310px;
-	}
+    /* Nav */
+    .nav
+    {
+        display: none;
+    }
 
-	.extension-slider .slider-item
-	{
-		height: 310px;
-		line-height: 286px;
-		width: 310px;
-	}
+    /* Extension */
+    .extension .extension-slider
+    {
+        width: 310px;
+    }
 
-	.extension .extension-detail
-	{
-		margin: 0 0 0 330px;
-	}
+    .extension-slider .slider-item
+    {
+        height: 310px;
+        line-height: 286px;
+        width: 310px;
+    }
 
-	.extension-license .col
-	{
-		display: block;
-		padding: 5px 15px;
-		width: auto;
-	}
+    .extension .extension-detail
+    {
+        margin: 0 0 0 330px;
+    }
+
+    .extension-license .col
+    {
+        display: block;
+        padding: 5px 15px;
+        width: auto;
+    }
 
     /* Enterprise */
     .main-enterprise
@@ -1249,6 +1255,20 @@
         width: auto;
     }
 
+    .col,
+    .col.__col-25,
+    .col.__col-30,
+    .col.__col-33,
+    .col.__col-40,
+    .col.__col-60,
+    .col.__col-70,
+    .col.__col-75,
+    .col.__col-80
+    {
+        display: block;
+        width: auto;
+    }
+
     h2,
     .head_sub-title,
     .head-title,
@@ -1294,7 +1314,7 @@
     }
 
     /* Header
-	========================================================================== */
+    ========================================================================== */
     .header-wrap
     {
         height: 60px;
@@ -1343,7 +1363,7 @@
     }
 
     /* Slider
-	========================================================================== */
+    ========================================================================== */
     .slider-bg
     {
         display: none;
@@ -1371,6 +1391,12 @@
         padding: 5px 0 15px;
     }
 
+    /* Nav */
+    .nav
+    {
+        display: none;
+    }
+
     /* Apps */
     .apps .items
     {
@@ -1388,6 +1414,51 @@
     {
         height: 207px;
         margin: 0 0 15px;
+    }
+
+    .extension-slider .slider-item
+    {
+        display: none;
+    }
+
+    .extension .extension-detail
+    {
+        display: block;
+        margin: 20px 0 0;
+    }
+
+    .extension-links
+    {
+        text-align: left;
+    }
+
+        .extension-links .extension-canvas.__right
+        {
+            float: none;
+        }
+
+        .extension-links .menu
+        {
+            float: none;
+            width: auto;
+        }
+
+    .extension .socials
+    {
+        float: none;
+    }
+
+        .extension .socials .list
+        {
+            width: 155px;
+        }
+
+    .extension-links .extension-canvas
+    {
+        height: 150px;
+        margin: 20px 0 0;
+        text-align: left;
+        width: 150px;
     }
 
     /* Enterprise */
@@ -1747,6 +1818,31 @@
             padding: 0;
             width: 100%;
         }
+
+    .menu.__tabs .menu-item
+    {
+        font-size: 10px;
+        height: 40px;
+        width: 32.6666%;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+        .menu.__tabs .menu-item + .menu-item
+        {
+            margin: 0 0 0 1%;
+        }
+
+        .menu.__tabs .menu-item::after
+        {
+            height: 40px;
+        }
+
+    .tabs .tab-content .content-inner
+    {
+        font-size: 12px;
+        padding: 15px;
+    }
 
     /* Learn more */
     .learn .title
@@ -2275,10 +2371,39 @@
         font-size: 34px;
     }
 
+    .col,
+    .col.__col-25,
+    .col.__col-30,
+    .col.__col-33,
+    .col.__col-40,
+    .col.__col-60,
+    .col.__col-70,
+    .col.__col-75,
+    .col.__col-80
+    {
+        display: block;
+        width: auto;
+    }
+
     .title
     {
         margin-bottom: 0;
     }
+
+    .title-w .t
+    {
+        display: block;
+    }
+
+    .title-w .menu
+    {
+        margin: 5px 0 0;
+    }
+
+        .title-w .menu.__right
+        {
+            float: none;
+        }
 
     /* Apps */
     .apps .list.__items .list-item

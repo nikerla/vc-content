@@ -1,0 +1,11 @@
+<div class="nav">
+    <ul class="menu __inline __responsive">
+        {% for col in collections %}
+            {% if col.handle != 'apps' %}
+                <li class="menu-item">
+                    <a class="menu-link" href="{{ col.url | absolute_url }}">{{ col.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
