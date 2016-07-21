@@ -1,8 +1,10 @@
 <div class="apps">
     {% include 'apps-menu' %}
-    {% include 'breadcrumb' %}
+    {% if collection.handle != 'apps' %}
+        {% include 'breadcrumb' %}
+    {% endif %}
     {% paginate collection.products by 12 %}
-        <div class="items __responsive">
+    <div class="items __responsive">
             <div class="title-w">
                 {% if collection.handle == 'apps' %}
                     <h2 class="t">{{ 'apps.category.new_extensions' | t }}</h2>
