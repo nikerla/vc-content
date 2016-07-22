@@ -13,9 +13,8 @@
 
     {% if collection %}
       {% if collection.url %}
-        {% capture url %}{{ collection.url | absolute_url }}{% endcapture %}
         <li class="menu-item">
-          <a href="{{ url }}" class="menu-link">{{ collection.title }}</a>
+          <a href="{{ collection.url | absolute_url }}" class="menu-link">{{ collection.title }}</a>
         </li>
       {% endif %}
     {% endif %}
@@ -79,13 +78,14 @@
       {{ blog.title | link_to: blog_url }}
       <span>{{ current_tags | join: " + " }}</span>
     {% else %}
-    <li class="menu-item">{{ blog.title }}</li>
+      <li class="menu-item">{{ blog.title }}</li>
     {% endif %}
 
   {% elsif template == 'article' %}
 
-    {% assign blog_url = blog.url | absolute_url %}
-    {{ blog.title | link_to: blog_url }}
+    <li class="menu-item">
+        <a href="{{ blog.url | absolute_url }}" class="menu-link">{{ blog.title }}</a>
+    </li>
     <li class="menu-item">{{ article.title }}</li>
 
   {% elsif template contains 'page' %}
