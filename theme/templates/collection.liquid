@@ -1,12 +1,20 @@
 <div class="apps">
+    {% if collection.handle == 'apps' %}
+        {% assign is_main_page = true %}
+    {% else %}
+        {% assign is_main_page = false %}
+    {% endif %}
+
     {% include 'apps-menu' %}
-    {% if collection.handle != 'apps' %}
+
+    {% if is_main_page == false %}
         {% include 'breadcrumb' %}
     {% endif %}
+
     {% paginate collection.products by 12 %}
     <div class="items __responsive">
             <div class="title-w">
-                {% if collection.handle == 'apps' %}
+                {% if is_main_page %}
                     <h2 class="t">{{ 'apps.category.new_extensions' | t }}</h2>
                 {% else %}
                     <h2 class="t">{{ collection.title }}</h2>
@@ -14,7 +22,13 @@
             </div>
             <div class="list __items __inline">
                 <ul class="main">
-                    {% for product in collection.products %}
+                    {% if is_main_page %}
+                        {% assign products = collection.products %}
+                    {% else %}
+                        {% assign products = collection.products | sort: 'title' %}
+                    {% endif %}
+
+                    {% for product in products %}
                         {% include 'grid-item' %}
                     {% endfor %}
                 </ul>
@@ -26,7 +40,8 @@
             {% endif %}
         </div>
     {% endpaginate %}
-    {% if collection.handle == 'apps' %}
+
+    {% if is_main_page %}
         <div class="info-w">
             <div class="info __responsive">
                 <div class="info-ico"></div>
