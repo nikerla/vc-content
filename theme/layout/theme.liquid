@@ -11,7 +11,11 @@
     <meta content="{{ 'virtocommerce.png' | asset_url }}" itemprop="image" />
     <meta name="google-site-verification" content="{{ settings.google_site_verification_id }}" />
     <link href="{{ 'favicon.ico' | asset_url }}" rel="shortcut icon" type="image/x-icon" />
-    <title>{{ page_title }}</title>
+    {% if page_title != '' %}
+        <title>{{ page_title }}</title>
+    {% else %}
+        <title>Virto Commerce - Enterprise ASP.NET open-source ecommerce cloud platform</title>
+    {% endif %}
     {{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
     {{ 'reset.css' | asset_url | stylesheet_tag }}
     {{ 'main.css' | asset_url | stylesheet_tag }}
