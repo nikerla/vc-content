@@ -417,6 +417,7 @@ textarea.__error
 /* Tabs */
 .tabs
 {
+    margin: 30px 0 0;
 }
 
 .tab-t
@@ -542,6 +543,34 @@ textarea.__error
     vertical-align: middle;
 }
 
+.gallery
+{
+    padding: 30px 0 0;
+}
+
+.gallery-list
+{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    margin: 0 -15px;
+}
+
+.gallery .gallery-item
+{
+    box-sizing: border-box;
+    cursor: pointer;
+    padding: 0 15px;
+    width: 33.3333%;
+}
+
+.gallery img
+{
+    max-width: 100%;
+}
+
 /* Popup */
 .overlay
 {
@@ -604,6 +633,37 @@ textarea.__error
         padding: 0 40px;
         text-align: left;
     }
+
+    .popup .gallery
+    {
+        margin: 50px 0 0;
+        padding: 20px;
+        position: relative;
+    }
+
+    .popup .gallery-control
+    {
+        background: url(gallery-arrow.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0.2);
+        cursor: pointer;
+        height: 40px;
+        left: 20px;
+        margin: -20px 0 0;
+        position: absolute;
+        top: 50%;
+        width: 40px;
+    }
+
+        .popup .gallery-control.prev
+        {
+            left: 20px;
+        }
+
+        .popup .gallery-control.next
+        {
+            background-position: 100% 0;
+            left: auto;
+            right: 20px;
+        }
 
 .popup-cnt .popup-rating
 {

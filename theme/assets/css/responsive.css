@@ -2486,6 +2486,18 @@
     {
         font-size: 14px;
     }
+
+    .gallery-list
+    {
+        -webkit-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .gallery .gallery-item
+    {
+        margin: 15px 0 0;
+        width: 100%;
+    }
 }
 
 @media (max-width: 460px)

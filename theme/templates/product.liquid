@@ -21,29 +21,10 @@
                     {% if product.metafields.properties.Description %}
                     <div class="extension-descr" itemprop="description">{{ product.metafields.properties.Description }}</div>
                     {% endif %}
-                    <div class="select-container" ng-if="product.variations.length > 1">
-                        <select ng-model="selectedVariation.id" ng-change="selectVariation()">
-                            <option ng-repeat="variation in product.variations" ng-value="variation.id" ng-selected="selectedVariation.id === variation.id" ng-bind="variation.name"></option>
-                        </select>
+                    <div class="extension-actions">
+                        <a href="#" class="button fill">Project</a>
+                        <a href="#" class="button fill">Download</a>
                     </div>
-                    <ul class="list __properties">
-                        <li class="list-item" ng-if="selectedVariation.versionNumber &amp;&amp; selectedVariation.versionNumber.value">
-                            <span class="list-t">{{ 'apps.product.version' | t }}</span>
-                            <span class="list-name" ng-bind="selectedVariation.versionNumber.value"></span>
-                        </li>
-                        <li class="list-item" ng-if="selectedVariation.releaseDate &amp;&amp; selectedVariation.releaseDate.value">
-                            <span class="list-t">{{ 'apps.product.release_date' | t }}</span>
-                            <span class="list-name" ng-bind="selectedVariation.releaseDate.value"></span>
-                        </li>
-                        <li class="list-item" ng-if="selectedVariation.compatibility &amp;&amp; selectedVariation.compatibility.value">
-                            <span class="list-t">{{ 'apps.product.compatibility' | t }}</span>
-                            <span class="list-name" ng-bind="selectedVariation.compatibility.value"></span>
-                        </li>
-                        <li class="list-item" ng-if="selectedVariation.locale &amp;&amp; selectedVariation.locale.value">
-                            <span class="list-t">{{ 'apps.product.locale' | t }}</span>
-                            <span class="list-name" ng-bind="selectedVariation.locale.value"></span>
-                        </li>
-                    </ul>
                 </div>
                 <div class="extension-links col __col-40">
                     <div class="extension-canvas __right">
@@ -83,6 +64,13 @@
                 </div>
             </div>
             <a class="btn __red __round __block __ucase" ng-href="{% raw %}{{ selectedVariation.downloadLink.value }}{% endraw %}" ng-if="selectedVariation.downloadLink &amp;&amp; selectedVariation.downloadLink.value">{{ 'apps.product.get_extension' | t }} ({{ 'apps.general.free' | t }})</a>
+        </div>
+    </div>
+    <div class="gallery __responsive">
+        <div class="gallery-list">
+            <div class="gallery-item" ng-repeat="image in product.images">
+                <img alt="" src="{% raw %}{{ image.url }}{% endraw %}" />
+            </div>
         </div>
     </div>
     <div class="tabs">
