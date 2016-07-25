@@ -5,11 +5,12 @@
                 <a class="popup-close" ng-click="closeModal()"></a>
                 <div class="popup-head">{{ 'apps.forms.become_a_developer_title' | t }}</div>
                 <form class="popup-cnt" name="formContactUs" novalidate="novalidate" method="post">
-                    <input name="Subject" type="hidden" value="{{ 'apps.forms.become_developer' | t }}" ng-init="setContactUsForm(formContactUs)" ng-model="model.contact.subject" />
+                    <div ng-init="setContactUsForm(formContactUs)"></div>
+                    <input name="Subject" type="hidden" ng-value="model.contact.Subject" ng-init="model.contact.Subject='Become a developer'" />
                     <div class="form-group">
                         <label class="form-label">{{ 'apps.forms.company_email' | t }} <span style="color: #ef4036;">*</span></label>
                         <div class="form-input">
-                            <input name="Email" required="required" type="email" ng-class="{ 'error': (formContactUs.Email.$dirty || formContactUs.$submitted) && formContactUs.Email.$invalid }" ng-disabled="model.isProcessing" ng-model="model.contact.email" />
+                            <input name="Email" required="required" type="email" ng-class="{ 'error': (formContactUs.Email.$dirty || formContactUs.$submitted) && formContactUs.Email.$invalid }" ng-disabled="model.isProcessing" ng-model="model.contact.Email" />
                         </div>
                         <div class="form-error" ng-if="(formContactUs.Email.$dirty || formContactUs.$submitted) && formContactUs.Email.$error.required">
                             {{ 'apps.forms.field_required_validation_message' | t }}
@@ -21,7 +22,7 @@
                     <div class="form-group">
                         <label class="form-label">{{ 'apps.forms.company_name' | t }} <span style="color: #ef4036;">*</span></label>
                         <div class="form-input">
-                            <input name="CompanyName" required="required" type="text" ng-class="{ 'error': (formContactUs.CompanyName.$dirty || formContactUs.$submitted) && formContactUs.CompanyName.$invalid }" ng-disabled="model.isProcessing" ng-model="model.contact.companyName" />
+                            <input name="CompanyName" required="required" type="text" ng-class="{ 'error': (formContactUs.CompanyName.$dirty || formContactUs.$submitted) && formContactUs.CompanyName.$invalid }" ng-disabled="model.isProcessing" ng-model="model.contact.CompanyName" />
                         </div>
                         <div class="form-error" ng-if="(formContactUs.CompanyName.$dirty || formContactUs.$submitted) && formContactUs.CompanyName.$invalid">
                             {{ 'apps.forms.field_required_validation_message' | t }}
@@ -30,7 +31,7 @@
                     <div class="form-group">
                         <label class="form-label">{{ 'apps.forms.your_full_name' | t }} <span style="color: #ef4036;">*</span></label>
                         <div class="form-input">
-                            <input name="FullName" required="required" type="text" ng-class="{ 'error': (formContactUs.FullName.$dirty || formContactUs.$submitted) && formContactUs.FullName.$invalid }" ng-disabled="model.isProcessing" ng-model="model.contact.fullname" />
+                            <input name="FullName" required="required" type="text" ng-class="{ 'error': (formContactUs.FullName.$dirty || formContactUs.$submitted) && formContactUs.FullName.$invalid }" ng-disabled="model.isProcessing" ng-model="model.contact.FullName" />
                         </div>
                         <div class="form-error" ng-if="(formContactUs.FullName.$dirty || formContactUs.$submitted) && formContactUs.FullName.$invalid">
                             {{ 'apps.forms.field_required_validation_message' | t }}
@@ -39,7 +40,7 @@
                     <div class="form-group">
                         <label class="form-label">{{ 'apps.forms.message' | t }} <span style="color: #ef4036;">*</span></label>
                         <div class="form-input">
-                            <textarea cols="30" name="Message" required="required" rows="10" ng-class="{ 'error': (formContactUs.Message.$dirty || formContactUs.$submitted) && formContactUs.Message.$invalid }" ng-disabled="model.isProcessing" ng-model="model.contact.message"></textarea>
+                            <textarea cols="30" name="Message" required="required" rows="10" ng-class="{ 'error': (formContactUs.Message.$dirty || formContactUs.$submitted) && formContactUs.Message.$invalid }" ng-disabled="model.isProcessing" ng-model="model.contact.Message"></textarea>
                         </div>
                         <div class="form-error" ng-if="(formContactUs.Message.$dirty || formContactUs.$submitted) && formContactUs.Message.$invalid">
                             {{ 'apps.forms.field_required_validation_message' | t }}
