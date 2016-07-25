@@ -16,43 +16,42 @@ tags :
 			<div class="column">
 				<div class="block">
 					<form action="">
-						<input type="hidden" value="Become a partner" name="Subject"/>
-						<input type="hidden" value="true" name="IsResend"/>
-						<input type="hidden" value="/thank-you-partner" name="RedirectUrl" />
+						<input type="hidden" name="Subject" value="Become a partner" />
+						<input type="hidden" name="RedirectUrl" value="/thank-you-partner" />
 						<div class="column">
 							<div class="control-group">
-								<label for="Fullname">Full name</label>
-								<input type="text" name="Fullname" class="form-input" required>
+								<label for="FullName">Full name</label>
+								<input type="text" name="FullName" class="form-input" required="required" />
 							</div>
 							<div class="control-group">
-								<label for="phone">Phone</label>
-								<input type="text" name="Phone" class="form-input" required>
+								<label for="Phone">Phone</label>
+								<input type="text" name="Phone" class="form-input" required="required" />
 							</div>
 							<div class="control-group">
-								<label for="jobTitle">Job Title</label>
-								<input type="text" name="JobTitle" class="form-input" required>
+								<label for="JobTitle">Job Title</label>
+								<input type="text" name="JobTitle" class="form-input" required="required" />
 							</div>
 						</div>
 						<div class="column">
 							<div class="control-group">
-								<label for="email">Email</label>
-								<input type="text" name="To" class="form-input" required>
+								<label for="Email">Email</label>
+								<input type="text" name="Email" class="form-input" required="required" />
 							</div>
 							<div class="control-group">
-								<label for="company">Company</label>
-								<input type="text" name="Company" class="form-input" required>
+								<label for="CompanyName">Company</label>
+								<input type="text" name="CompanyName" class="form-input" required="required" />
 							</div>
 							<div class="control-group">
-								<label for="web">Website</label>
-								<input type="text" name="Website" class="form-input" required>
+								<label for="Website">Website</label>
+								<input type="text" name="Website" class="form-input" required="required" />
 							</div>
 						</div>
 						<div class="control-group">
-							<label for="descr">Comments</label>
-							<textarea rows="10" cols="30" name="Comments" class="form-text" required></textarea>
+							<label for="Message">Comments</label>
+							<textarea rows="10" cols="30" name="Message" class="form-text" required="required"></textarea>
 						</div>
 						<div class="control-group">
-							<button class="button fill" type="submit">Send Message</button>
+							<button type="submit" class="button fill">Send Message</button>
 						</div>
 					</form>
 				</div>

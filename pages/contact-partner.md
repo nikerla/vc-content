@@ -12,25 +12,24 @@ permalink: contact-partner
 			<div class="column">
 				<div class="block">
 					<form action="">
-						<input type="hidden" value="Contact Partner" name="Subject"/>
-						<input type="hidden" value="true" name="IsResend"/>
-						<input type="hidden" value="/thank-you" name="RedirectUrl" />
-						<input type="hidden" value="" name="PartnerId" />
+						<input type="hidden" name="Subject" value="Contact Partner" />
+						<input type="hidden" name="RedirectUrl" value="/thank-you" />
+						<input type="hidden" name="PartnerId" value="" />
 						<div class="control-group">
-							<label for="Fullname">Full name:</label>
-							<input type="text" class="form-input" name="Fullname" required>
+							<label for="FullName">Full name:</label>
+							<input type="text" name="FullName" required class="form-input" />
 						</div>
 						<div class="control-group">
-							<label for="To">Email:</label>
-							<input type="text" class="form-input" name="To" required>
+							<label for="Email">Email:</label>
+							<input type="text" name="Email" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
 							<label for="CompanyName">Company name:</label>
-							<input type="text" class="form-input" name="CompanyName" required>
+							<input type="text" name="CompanyName" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
 							<label for="Kickoff">When do you want to kick off this project?</label>
-							<select type="text" name="Kickoff" class="form-input" required>
+							<select type="text" name="Kickoff" class="form-input" required="required">
 								<option value="" selected>Select Option</option>
 								<option value="immediately">Immediately</option>
 								<option value="1-3 months">1-3 months</option>
@@ -40,11 +39,11 @@ permalink: contact-partner
 							</select>
 						</div>
 						<div class="control-group">
-							<label for="descr">Comments</label>
-							<textarea rows="10" cols="30" name="Comments" class="form-text" required></textarea>
+							<label for="Message">Comments</label>
+							<textarea rows="10" cols="30" name="Message" class="form-text" required="required"></textarea>
 						</div>
 						<div class="control-group">
-							<button class="button fill" type="submit">Submit request</button>
+							<button type="submit" class="button fill">Submit request</button>
 						</div>
 					</form>
 				</div>

@@ -14,51 +14,50 @@ tags :
 			<div class="column">
 				<div class="block">
 					<form action="">
-						<input type="hidden" value="Contributor License Agrement" name="Subject"/>
-						<input type="hidden" value="true" name="IsResend"/>
-						<input type="hidden" value="/thank-you" name="RedirectUrl" />
+						<input type="hidden" name="Subject" value="Contributor License Agrement" />
+						<input type="hidden" name="RedirectUrl" value="/thank-you" />
 						<div class="control-group">
-							<label for="Fullname">Full name (required)</label>
-							<input type="text" name="Fullname" class="form-input" required>
+							<label for="FullName">Full name (required)</label>
+							<input type="text" name="FullName" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="email">Email (required)</label>
-							<input type="text" name="To" class="form-input" required>
+							<label for="Email">Email (required)</label>
+							<input type="text" name="Email" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="phone">GitHub Handle (required)</label>
-							<input type="text" name="GithubHandle" class="form-input" required>
+							<label for="GitHubHandle">GitHub Handle (required)</label>
+							<input type="text" name="GitHubHandle" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="phone">Street Address (required)</label>
-							<input type="text" name="StreetAddress" class="form-input" required>
+							<label for="StreetAddress">Street Address (required)</label>
+							<input type="text" name="StreetAddress" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="phone">Street Address 2</label>
-							<input type="text" name="StreetAddress2" class="form-input">
+							<label for="StreetAddress2">Street Address 2</label>
+							<input type="text" name="StreetAddress2" class="form-input" />
 						</div>
 						<div class="control-group">
-							<label for="phone">City, State/Region (required)</label>
-							<input type="text" name="CityState" class="form-input">
+							<label for="CityState">City, State/Region (required)</label>
+							<input type="text" name="CityState" class="form-input" />
 						</div>
 						<div class="control-group">
-							<label for="phone">Country, Zip/Postal Code (required)</label>
-							<input type="text" name="CountryZip" class="form-input">
+							<label for="CountryZip">Country, Zip/Postal Code (required)</label>
+							<input type="text" name="CountryZip" class="form-input" />
 						</div>
 						<div class="control-group">
-							<label for="phone">Phone (required)</label>
-							<input type="text" name="Phone" class="form-input" required>
+							<label for="Phone">Phone (required)</label>
+							<input type="text" name="Phone" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="title">Company Name</label>
-							<input type="text" name="Company" class="form-input">
+							<label for="CompanyName">Company Name</label>
+							<input type="text" name="CompanyName" class="form-input" />
 						</div>
 						<div class="control-group">
-							<label for="company">Electronic Signature (type "I AGREE" to accept terms)</label>
-							<input type="text" name="Signature" class="form-input" required>
+							<label for="Signature">Electronic Signature (type "I AGREE" to accept terms)</label>
+							<input type="text" name="Signature" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<button class="button fill" type="submit">Submit Agreement</button>
+							<button type="submit" class="button fill">Submit Agreement</button>
 						</div>
 					</form>
 				</div>

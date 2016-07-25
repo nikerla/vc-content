@@ -17,26 +17,26 @@ tags :
 			<div class="column">
 				<div class="block">
 					<form class="fixed" action="">
-						<input type="hidden" value="Request Community License w/URL" name="Subject" />
-						<input type="hidden" value="true" name="IsResend" />
-						<input type="hidden" value="/thank-you-demo" name="RedirectUrl" />
+						<input type="hidden" name="Subject" value="Request Community License w/URL" />
+						<input type="hidden" name="RedirectUrl" value="/thank-you-demo" />
 						<div class="control-group">
 							<label for="FullName">Full name</label>
-							<input type="text" name="FullName" class="form-input" required>
+							<input type="text" name="FullName" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="To">Email</label>
-							<input type="text" name="To" class="form-input">
+							<label for="Email">Email</label>
+							<input type="text" name="Email" class="form-input" />
 						</div>
 						<div class="control-group">
-							<label for="Url">Url</label>
-							<input type="text" name="Url" class="form-input" required>
+							<label for="Url">URL</label>
+							<input type="text" name="Url" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="descr"><br /><input type="checkbox" name="Agree" required /><a style="margin-left: 15px; color:#fff;" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US1,000,000)</a></label>
+							<label for="Agree"><br />
+							<input type="checkbox" name="Agree" required="required" /><a style="margin-left: 15px; color:#fff;" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US1,000,000)</a></label>
 						</div>
 						<div class="control-group">
-							<button class="button fill" type="submit">Request license</button>
+							<button type="submit" class="button fill">Request license</button>
 						</div>
 					</form>
 				</div>

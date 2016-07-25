@@ -15,24 +15,23 @@ tags :
 			<div class="column">
 				<div class="block">
 					<form class="fixed" action="">
-						<input type="hidden" value="Signup for Personal Demo" name="Subject" />
-						<input type="hidden" value="true" name="IsResend" />
-						<input type="hidden" value="/thank-you-demo" name="RedirectUrl" />
+						<input type="hidden" name="Subject" value="Signup for Personal Demo" />
+						<input type="hidden" name="RedirectUrl" value="/thank-you-demo" />
 						<div class="control-group">
-							<label for="fullName">Full name</label>
-							<input type="text" name="FullName" class="form-input" required>
+							<label for="FullName">Full name</label>
+							<input type="text" name="FullName" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="email">Email</label>
-							<input type="text" name="To" class="form-input">
+							<label for="Email">Email</label>
+							<input type="text" name="Email" class="form-input" />
 						</div>
 						<div class="control-group">
-							<label for="email">Company name</label>
-							<input type="text" name="CompanyName" class="form-input" required>
+							<label for="CompanyName">Company name</label>
+							<input type="text" name="CompanyName" class="form-input" required="required" />
 						</div>
 						<div class="control-group">
-							<label for="company">Number of Employees</label>
-							<select type="text" name="NumberOfEmployees" class="form-input" required>
+							<label for="NumberOfEmployees">Number of Employees</label>
+							<select type="text" name="NumberOfEmployees" class="form-input" required="required">
 								<option value="">Select Option</option>
 								<option value="1">Less than 10</option>
 								<option value="11">10 to 100</option>
@@ -43,8 +42,8 @@ tags :
 							</select>
 						</div>
 						<div class="control-group">
-							<label for="web">Company total annual revenue</label>
-							<select type="text" name="CompanyTotalAnnualRevenue" class="form-input" required>
+							<label for="CompanyRevenue">Company total annual revenue</label>
+							<select type="text" name="CompanyRevenue" class="form-input" required="required">
 								<option value="">Select Option</option>
 								<option value="1k">Less than $500K</option>
 								<option value="501k">$500K - $1M</option>
@@ -57,11 +56,11 @@ tags :
 							</select>
 						</div>
 						<div class="control-group">
-							<label for="descr">Comments</label>
-							<textarea rows="10" cols="30" name="Comments" class="form-text" required></textarea>
+							<label for="Message">Comments</label>
+							<textarea rows="10" cols="30" name="Message" class="form-text" required="required"></textarea>
 						</div>
 						<div class="control-group">
-							<button class="button fill" type="submit">Send Request</button>
+							<button type="submit" class="button fill">Send Request</button>
 						</div>
 					</form>
 				</div>

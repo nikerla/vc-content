@@ -96,9 +96,6 @@ $(function () {
                 case 'RedirectUrl':
                     redirectUrl = value;
                     break
-                case 'To':
-                    key = "EmailTo";
-                    break;
             }
             key = 'contact[' + key + ']';
             formData.append(key, value);

@@ -26,7 +26,6 @@
         "news_sign_up": {
             "title": "Signup for news",
             "to": "Enter email ...",
-            "subject": "Signup for news",
             "submit": "Submit"
         },
         "technologies": {

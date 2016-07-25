@@ -85,11 +85,10 @@
                 <a class="email" href="mailto: sales@virtocommerce.com">sales@virtocommerce.com</a>
                 <p class="phone">+1 (800) 980-5288</p>
                 <p class="title">{{ 'general.news_sign_up.title' | t }}</p>
-                <input class="form-input" name="To" placeholder="{{ 'general.news_sign_up.to' | t }}" type="text" />
-                <input name="Subject" type="hidden" value="{{ 'general.news_sign_up.subject' | t }}" />
-                <input name="IsResend" type="hidden" value="true" />
-                <input name="RedirectUrl" type="hidden" value="{{ '/thank-you' | absolute_url }}" />
-                <input class="button mini white" type="submit" value="{{ 'general.news_sign_up.submit' | t }}" />
+                <input type="hidden" name="Subject" value="Signup for news" />
+                <input type="hidden" name="RedirectUrl" value="{{ '/thank-you' | absolute_url }}" />
+                <input type="text" name="Email" placeholder="{{ 'general.news_sign_up.to' | t }}" class="form-input" />
+                <input type="submit" value="{{ 'general.news_sign_up.submit' | t }}" class="button mini white" />
             </form>
         </div>
     </footer>
