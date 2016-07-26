@@ -1,6 +1,6 @@
 ﻿var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('feedbackController', ['$scope', '$uibModalInstance', 'feedbackService', function ($scope, $uibModalInstance, feedbackService) {
+storefrontApp.controller('feedbackController', ['$scope', '$uibModalInstance', 'feedbackService', 'dialogService', function ($scope, $uibModalInstance, feedbackService, dialogService) {
     $scope.setContactUsForm = function (form) {
         $scope.formContactUs = form;
     }
@@ -15,6 +15,8 @@ storefrontApp.controller('feedbackController', ['$scope', '$uibModalInstance', '
             $scope.model.isProcessing = false;
             $scope.model.isProcessed = true;
             $scope.model.isSubmittedSuccessfully = true;
+            $scope.closeModal();
+            dialogService.showDialog(null, 'feedbackController', 'storefront.form-thank-you.tpl');
         }, function (response) {
             $scope.model.isProcessing = false;
             $scope.model.isProcessed = true;

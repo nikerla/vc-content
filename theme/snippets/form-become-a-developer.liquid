@@ -47,13 +47,7 @@
                         </div>
                     </div>
                 </form>
-                <div class="popup-footer">
-                    <a class="btn __yellow __mini __round __ucase" ng-if="!model.isProcessed && !model.isProcessing" ng-click="submit()" ng-disabled="model.isProcessing">{{ 'apps.forms.submit' | t }}</a>
-                    <a class="btn __cancel __mini __round __ucase" ng-if="!model.isProcessed && !model.isProcessing" ng-click="closeModal()">{{ 'apps.forms.cancel' | t }}</a>
-                    <a class="btn __yellow __mini __round __ucase" ng-if="model.isProcessed && model.isSubmittedSuccessfully" ng-click="closeModal()">{{ 'apps.forms.thank_you' | t }}</a>
-                    <p style="margin: 0;" ng-if="model.isProcessing">Processing your request...</p>
-                    <p ng-if="model.isProcessed && !model.isSubmittedSuccessfully" style="color: #ef4036; margin: 0;">Oops! An error was occured while processing your request. Please try again later.</p>
-                </div>
+                {% include 'popup-footer' %}
             </div>
         </div>
     </div>

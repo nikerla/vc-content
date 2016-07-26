@@ -149,7 +149,8 @@
             "email_format_validation_message": "Please check the Email address format",
             "submit": "Submit",
             "cancel": "Cancel",
-            "thank_you": "Thank you!"
+            "thank_you": "Thank you!",
+            "close": "Close"
         }
     }
 }
