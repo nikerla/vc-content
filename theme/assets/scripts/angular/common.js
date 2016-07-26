@@ -40,4 +40,8 @@ storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$
     $scope.showContactVendorForm = function () {
         dialogService.showDialog(null, 'feedbackController', 'storefront.form-contact-vendor.tpl');
     }
+
+    $scope.showSupportVendorForm = function () {
+        dialogService.showDialog(null, 'feedbackController', 'storefront.form-support-vendor.tpl');
+    }
 }]);

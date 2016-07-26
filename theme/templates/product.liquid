@@ -32,7 +32,7 @@
                     </div>
                     <ul class="menu">
                         <li class="menu-item __author">
-                            <a class="menu-link" href="{{ product.vendor.site_url }}">{{ product.vendor.name }}</a>
+                            <a class="menu-link" href="{{ '~/vendor/' | append: product.vendor.id | absolute_url }}">{{ product.vendor.name }}</a>
                         </li>
                         <li class="menu-item">
                             <a class="menu-link" href="{{ '~/vendor/' | append: product.vendor.id | absolute_url }}">{{ 'apps.product.developer_profile' | t }}</a>
