@@ -54,7 +54,7 @@ permalink: features/orchard-cms-ecommerce
 					<span class="descr">
 						Start selling online in a matter of days with Virto Commerce Orchard CMS Modules. Pick one of the existing fully customizable themes or create a new one. Virto Commerce provides everything you need to start selling online.
 					</span>
-                    <img alt="" src="/assets/images/dynamics/feature3.png">
+                    <img alt="" src="../assets/images/dynamics/feature3.png">
 					<span class="descr">
 						Easily create dealer stores for regions with completely custom themes, product assortment, category taxonomy, price lists and currencies. Localize these dealer stores and customize everything from payment types supported to shipping methods and delivery costs.
 					</span>

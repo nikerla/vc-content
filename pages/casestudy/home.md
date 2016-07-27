@@ -12,20 +12,20 @@ permalink: case-studies
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/gc-logo.jpg" alt="giftcertificates.com">
+                            <img src="../assets/images/casestudies/gc-logo.jpg" alt="giftcertificates.com">
                         </div>
                         <div class="list-t">B2B Gifts</div>
                         <div class="list-text">Objective: Platform</div>
                         <div class="list-descr">Consolidate various system using single platform to manage gift certificates for largest companies in the world. Provides both B2C and B2B solutions.</div>
                         <div class="list-btn">
-                            <a class="button fill" href="/assets/files/gc-case-study.pdf" target="_blank">Read case study</a>
+                            <a class="button fill" href="../assets/files/gc-case-study.pdf" target="_blank">Read case study</a>
                         </div>
                     </div>
                 </li>
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/staypro-logo.png" alt="staypro.no">
+                            <img src="../assets/images/casestudies/staypro-logo.png" alt="staypro.no">
                         </div>
                         <div class="list-t">Tools for professionals</div>
                         <div class="list-text">Objective: B2C & B2B Online Store</div>
@@ -38,7 +38,7 @@ permalink: case-studies
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/pf-logo.png" alt="proflowers">
+                            <img src="../assets/images/casestudies/pf-logo.png" alt="proflowers">
                         </div>
                         <div class="list-t">RETAIL FLOWERS</div>
                         <div class="list-text">Objective: Premium market</div>
@@ -51,20 +51,20 @@ permalink: case-studies
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/kitmall-logo.png" alt="kitmall">
+                            <img src="../assets/images/casestudies/kitmall-logo.png" alt="kitmall">
                         </div>
                         <div class="list-t">RETAIL MARKETPLACE</div>
                         <div class="list-text">Objective: New Marketplace</div>
                         <div class="list-descr">Used platform capabilities to develop marketplace that sells thousands of products to CIS countries.<br /></div>
                         <div class="list-btn">
-                            <a class="button fill" href="/assets/files/kitmall-case-study.pdf" target="_blank">Read case study</a>
+                            <a class="button fill" href="../assets/files/kitmall-case-study.pdf" target="_blank">Read case study</a>
                         </div>
                     </div>
                 </li>
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/caromba-logo.svg" alt="caromba">
+                            <img src="../assets/images/casestudies/caromba-logo.svg" alt="caromba">
                         </div>
                         <div class="list-t">AUTOMOTIVE</div>
                         <div class="list-text">Objective: Platform</div>
@@ -77,21 +77,21 @@ permalink: case-studies
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/kupinatao-logo.png" alt="kupinatao.com">
+                            <img src="../assets/images/casestudies/kupinatao-logo.png" alt="kupinatao.com">
                         </div>
                         <div class="list-t">MARKETPLACE</div>
                         <div class="list-text">Objective: Platform</div>
                         <div class="list-descr">Created platform that allows sellers from china sell to the eastern europe countries. Integrated warehouse, merchandising, customer support and marketing.</div>
                         <a class="list-link">Play video</a>
                         <div class="list-btn">
-                            <a class="button fill" href="/assets/files/kupinatao-case-study.pdf" target="_blank">Read case study</a>
+                            <a class="button fill" href="../assets/files/kupinatao-case-study.pdf" target="_blank">Read case study</a>
                         </div>
                     </div>
                 </li>
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/bdo-logo.gif" alt="bdo switzerland">
+                            <img src="../assets/images/casestudies/bdo-logo.gif" alt="bdo switzerland">
                         </div>
                         <div class="list-t">FINANCIAL SERVICES</div>
                         <div class="list-text">Objective: Employee store</div>
@@ -104,7 +104,7 @@ permalink: case-studies
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/fluehmann-logo.jpg" alt="fluehmann distributions">
+                            <img src="../assets/images/casestudies/fluehmann-logo.jpg" alt="fluehmann distributions">
                         </div>
                         <div class="list-t">WAREHOUSING & DISTRIBUTION</div>
                         <div class="list-text">Objective: B2B Platform</div>
@@ -117,7 +117,7 @@ permalink: case-studies
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="/assets/images/casestudies/mycanvas-logo.png" alt="mycanvas by Alexander's'">
+                            <img src="../assets/images/casestudies/mycanvas-logo.png" alt="mycanvas by Alexander's'">
                         </div>
                         <div class="list-t">RETAIL PRINTING</div>
                         <div class="list-text">Objective: Order platform</div>

@@ -16,18 +16,18 @@ tags :
 			<div class="responsive">
 				<div class="column">
 					<div class="feature-slider">
-						<img alt="" src="/assets/images/features/bg-main.jpg" class="feature-main_slide">
+						<img alt="" src="assets/images/features/bg-main.jpg" class="feature-main_slide">
 						<div class="feature-nav">
 							<a class="feature-control back"></a>
 							<ul class="list clearfix">
 								<li class="list-item">
-									<img alt="" src="/assets/images/features/1.jpg" class="feature-slide">
+									<img alt="" src="assets/images/features/1.jpg" class="feature-slide">
 								</li>
 								<li class="list-item">
-									<img alt="" src="/assets/images/features/2.jpg" class="feature-slide">
+									<img alt="" src="assets/images/features/2.jpg" class="feature-slide">
 								</li>
 								<li class="list-item active">
-									<img alt="" src="/assets/images/features/1.jpg" class="feature-slide">
+									<img alt="" src="assets/images/features/1.jpg" class="feature-slide">
 								</li>
 							</ul>
 							<a class="feature-control next"></a>
@@ -101,7 +101,7 @@ tags :
 						both front-end and back-end functionality. This is the easiest way to explore Virto Commerce. Our online demo runs in Azure
 						environment. You will be able to explore both front-end and back-end functionality.
 					</span>
-					<img alt="" src="/assets/images/features/bg-main.jpg">
+					<img alt="" src="assets/images/features/bg-main.jpg">
 					<span class="descr">
 						This is the easiest way to explore Virto Commerce. Our online
 						demo runs in Azure environment. You will be able to explore
@@ -128,7 +128,7 @@ tags :
 						both front-end and back-end functionality. This is the easiest way to explore Virto Commerce. Our online demo runs in Azure
 						environment. You will be able to explore both front-end and back-end functionality.
 					</span>
-					<img alt="" src="/assets/images/features/bg-main.jpg">
+					<img alt="" src="assets/images/features/bg-main.jpg">
 					<span class="descr">
 						This is the easiest way to explore Virto Commerce. Our online
 						demo runs in Azure environment. You will be able to explore

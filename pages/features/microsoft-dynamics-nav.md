@@ -54,7 +54,7 @@ permalink: features/ecommerce-microsoft-dynamics-nav
 					<span class="descr">
 						Start selling online in a matter of days with Dynamics Modules for Virto Commerce. Pick one of the existing fully customizable themes or create a new one. Virto Commerce provides everything you need to start selling online.
 					</span>
-                    <img alt="" src="/assets/images/dynamics/feature3.png">
+                    <img alt="" src="../assets/images/dynamics/feature3.png">
 					<span class="descr">
 						Easily create dealer stores for regions with completely custom themes, product assortment, category taxonomy, price lists and currencies. Localize these dealer stores and customize everything from payment types supported to shipping methods and delivery costs.
 					</span>
@@ -67,7 +67,7 @@ permalink: features/ecommerce-microsoft-dynamics-nav
 					<span class="descr">
 						Synchronize your product catalog, prices, contacts, promotions and orders in near real-time. You can continue to utilize Dynamics NAV for all your product, pricing and order management.
 					</span>
-					<img alt="" src="/assets/images/dynamics/feature1.jpg">
+					<img alt="" src="../assets/images/dynamics/feature1.jpg">
                     <span class="descr">
                         Virto Commerce is designed as a platform that can leverage data from multiple sources including your ERP. If at any point you'd like to integrate other products (online marketing, CRM, support), it can be easily accomplished using our innovative appstore modules. We and our partners add new apps every day and using services like Zapier allows configuration based integration without any custom code.
                     </span>
@@ -92,7 +92,7 @@ permalink: features/ecommerce-microsoft-dynamics-nav
                 </li>
                 <li class="list-item">
                     <span class="title">Microsoft Dynamics Experts</span>
-                    <img alt="" src="/assets/images/dynamics/e-commerce-for-Dynamics-NAV.png">
+                    <img alt="" src="../assets/images/dynamics/e-commerce-for-Dynamics-NAV.png">
                     <span class="descr">
                         We've partnered with the best Microsoft Dynamics solutions providers to continually develop this module. Let us know what features are important to you!
                     </span>                    

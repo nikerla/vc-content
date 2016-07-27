@@ -5,7 +5,7 @@ date: 2015-05-31
 permalink: our-offers/enterprise-cloud-hosted
 ---
 <div class="slider">
-	<img alt="" src="/assets/images/bg-enterprise.jpg" class="slider-bg">
+	<img alt="" src="../assets/images/bg-enterprise.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
 			<h1 class="slider-title">Virto Commerce Cloud</h1>

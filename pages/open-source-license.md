@@ -84,7 +84,7 @@ tags :
 		<p>The official "Virto Commerce" logo and text must be placed as follows:</p>
 		<br />
 		<a class="brand" href="/">
-		    <img alt="" src="/assets/images/logo.jpg">
+		    <img alt="" src="assets/images/logo.jpg">
 		        <span class="slogan">
 			        Powered by 
 			    	<br> 

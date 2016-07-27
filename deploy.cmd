@@ -60,8 +60,6 @@ IF NOT DEFINED DEPLOYMENT_TEMP (
 set pages_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\pages\vccom
 set blog_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\pages\vccom\blogs\news
 set theme_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\themes\vccom\default
-set pages_files_target=%DEPLOYMENT_TEMP%\App_Data\assets\files
-set pages_images_target=%DEPLOYMENT_TEMP%\App_Data\assets\images
 set blog_images_target=%DEPLOYMENT_TEMP%\App_Data\assets\cms-content\blogs\vccom\assets
 
 xcopy "%DEPLOYMENT_SOURCE%\pages\*.*" "%pages_target%" /S /R /Y /I
@@ -71,12 +69,6 @@ xcopy "%DEPLOYMENT_SOURCE%\blog\*.*" "%blog_target%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
 
 xcopy "%DEPLOYMENT_SOURCE%\theme\*.*" "%theme_target%" /S /R /Y /I
-IF !ERRORLEVEL! NEQ 0 goto error
-
-xcopy "%DEPLOYMENT_SOURCE%\pages_files\*.*" "%pages_files_target%" /S /R /Y /I
-IF !ERRORLEVEL! NEQ 0 goto error
-
-xcopy "%DEPLOYMENT_SOURCE%\pages_images\*.*" "%pages_images_target%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
 
 xcopy "%DEPLOYMENT_SOURCE%\blog_images\*.*" "%blog_images_target%" /S /R /Y /I

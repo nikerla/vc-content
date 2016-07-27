@@ -51,7 +51,7 @@ permalink: features/wordpress-woocommerce-migration
 			<ul class="list">
 				<li class="list-item">
 					<div class="title">Leverage WooCommerce investments</div>
-					<img alt="" src="/assets/images/woocommerce_logo.png">
+					<img alt="" src="../assets/images/woocommerce_logo.png">
 					<span class="descr">
 						Use Virto Commerce advanced CSV importing functionality to migrate all the catalog data including images, products, prices and categories.
 					</span>
