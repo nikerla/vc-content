@@ -10,20 +10,20 @@ We are happy to announce the initial version of VirtoCommerce Azure API App for 
 
 With the help of the API App you can integrate VirtoCommerce with many systems like SAP ERP, Salesforce and many more that are available on Azure Marketplace as connectors.
 
-![](/assets/cms-content/blogs/vccom/assets/connectors.png)
+![](../../assets/images/blog/connectors.png)
 
 API Connectors and API Apps are a relatively new approach for Microsoft to integrate systems within the Azure ecosystem. It allows you to integrate cloud solutions with on-premises solutions. Systems can automatically exchange data based on the rules defined in the Azure Logic App. You can read more about Logic Apps in these helpful links:
 
 * <a href="https://azure.microsoft.com/en-us/documentation/articles/app-service-logic-what-are-logic-apps/" target="_blank">What are Logic Apps</a>
 * <a href="https://azure.microsoft.com/en-us/documentation/videos/azure-app-service-logic-apps-with-josh-twist/" target="_blank">Azure App Service Logic Apps</a>
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_l.png)
+![](../../assets/images/blog/untitled_l.png)
 
 The VirtoCommerce API App exposes VirtoCommerce platform and its modules API as an Azure API App. That means any solution based on VirtoCommerce can exchange data with other systems available on Azure Marketplace.
 
 The API App is available on <a href="https://github.com/VirtoCommerce/vc-azure-api-app" target="_blank">github</a> and can be deployed from there using “Deploy to Azure” button. You’ll need an Azure subscription.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_m.png)
+![](../../assets/images/blog/untitled_m.png)
 
 Click "Deploy to Azure" to start VirtoCommerce API App deployment to your account.
 
@@ -51,19 +51,19 @@ Logic App can be used as some part of the integration process of the VirtoCommer
 
 While creating Logic app, there is an API Apps list on the right of Logic App designer in Azure management portal. If the VirtoCommerce API App deployment completed successfully it should appear in the list
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_1.png)
+![](../../assets/images/blog/untitled_1.png)
 
 Choose it. The VirtoCommerce.APIApp will be added to the Logic App designer as action.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_2.png)
+![](../../assets/images/blog/untitled_2.png)
 
 Choose the action you need to do with the VirtoCommerce API.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_3.png)
+![](../../assets/images/blog/untitled_3.png)
 
 In the screenshot above the “create order” action selected. It has input parameters required to compose api request, e.g. order data. The order data field values can be entered by hand in the Logic app designer, but commonly it’s passed from another Logic app action. The resulting Logic App could look like on the screenshot below.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_4.png)
+![](../../assets/images/blog/untitled_4.png)
 
 Click OK to save changes. Depending on the trigger the application will execute periodically or under defined conditions and programmed actions will be launched.
 

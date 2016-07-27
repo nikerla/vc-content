@@ -40,19 +40,19 @@ We have many more features planned for the next few sprints including:
 
 The dashboard now is dedicated to customer service representatives (CSRs) as orders and sales statistics are provided by default.
 
-![](/assets/cms-content/blogs/vccom/assets/pasted_image_0.png)
+![](../../assets/images/blog/pasted_image_0.png)
 
 #### Settings management
 
 All settings in one place: a dedicated blade for convenient settings management added. The settings are grouped to hierarchical tree for easier navigation. Navigate the tree, use breadcrumbs to go up or search to find particular setting or group.
 
-![](/assets/cms-content/blogs/vccom/assets/pasted_image_1.png)
+![](../../assets/images/blog/pasted_image_1.png)
 
 #### Delete confirmations in catalogs
 
 A more detailed and attention-requiring delete confirmation dialogs are displayed while deleting a catalog, categories or items. The “Confirm” action gets activated only after a correct text was typed.
 
-![](/assets/cms-content/blogs/vccom/assets/pasted_image_2.png)
+![](../../assets/images/blog/pasted_image_2.png)
 
 #### Tax calculation
 
@@ -60,7 +60,7 @@ Avalara AvaTax module has been added and provides realtime integration uisng Ava
 
 It’s time consuming to keep tax rates up to date manually.  After installing Virto Commerce Avalara module, all you need to do is enter Avalara provided credentials and click "test connection" to start using the services.
 
-![](/assets/cms-content/blogs/vccom/assets/pasted_image_3.png)
+![](../../assets/images/blog/pasted_image_3.png)
 
 All taxes applied to items and shipping are stored in Virto Commerce and Avalara user cabinet.
 
@@ -68,16 +68,16 @@ All taxes applied to items and shipping are stored in Virto Commerce and Avalara
 
 * Merging anonymous cart with cart of registered customer on checkout with popup dialog
 
-![](/assets/cms-content/blogs/vccom/assets/base641a65d33f8199e417.png)
+![](../../assets/images/blog/base641a65d33f8199e417.png)
 
 * Registered customer can choose existing address from dropdown while filling shipping or billing addresses
 
-![](/assets/cms-content/blogs/vccom/assets/base643d11190c679bd248.png)
+![](../../assets/images/blog/base643d11190c679bd248.png)
 
 * Added payment method with bank card through PayPal Direct
 
-![](/assets/cms-content/blogs/vccom/assets/base64673775ead581000.png)
+![](../../assets/images/blog/base64673775ead581000.png)
 
 * Download links for digital products on “thank you page” after successful payment
 
-![](/assets/cms-content/blogs/vccom/assets/base642335c95f976b81e6.png)
+![](../../assets/images/blog/base642335c95f976b81e6.png)

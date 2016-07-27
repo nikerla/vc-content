@@ -48,7 +48,7 @@ Virto Commerce Platform is a base for Commerce Manager and extended by core comm
 
 Added support for security roles management. You are now able to create new roles with assigned permissions, then assign roles to security accounts.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_a.png)
+![](../../assets/images/blog/untitled_a.png)
 
 Assigning permissions in role management blade.
 
@@ -58,21 +58,21 @@ Also each module can define its own, additional permissions and they will be aut
 
 Themes, pages and menu CMS modules were combined in one module. New menu was added in Commerce Manager named “Content", that simplifies working with CMS.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_b.png)
+![](../../assets/images/blog/untitled_b.png)
 
 Now user can quickly start working with active theme, preview and modify it.
 
-![](/assets/cms-content/blogs/vccom/assets/base64740912136ac9498d.png)
+![](../../assets/images/blog/base64740912136ac9498d.png)
 
 Themes list blade now has new buttons for working with themes. Active theme is marked with triangle in right top corner in themes list.
 
-![](/assets/cms-content/blogs/vccom/assets/base64b7b7619796d1b6b8.png)
+![](../../assets/images/blog/base64b7b7619796d1b6b8.png)
 
 Pages list blade has new representation of pages.
 
-![](/assets/cms-content/blogs/vccom/assets/base64a3e318be8f82ac39.png)
+![](../../assets/images/blog/base64a3e318be8f82ac39.png)
 
-![](/assets/cms-content/blogs/vccom/assets/base6464e73add01384d5f.png)
+![](../../assets/images/blog/base6464e73add01384d5f.png)
 
 Additional content types (images, archives, etc…) are now supported.
 
@@ -80,7 +80,7 @@ Additional content types (images, archives, etc…) are now supported.
 
 New engine for tiles. Now every user can have individually positioned tiles. It’s as simple as drag-dropping a tile to the desired location. And that’s not only in dashboard but in every blade where tiles are available (product details, store details, etc.).
 
-![](/assets/cms-content/blogs/vccom/assets/base646e40a34dfd2bb71e.png)
+![](../../assets/images/blog/base646e40a34dfd2bb71e.png)
 
 “Seo” tile repositioning inside product detail blade.
 
@@ -88,7 +88,7 @@ New engine for tiles. Now every user can have individually positioned tiles. It�
 
 All security logic was moved from frontend to WebAPI security level. Implemented merging of anonymous and customer shopping carts after login. Fixed variation selector on product page - variant’s images, price etc. are matched with selected variant and switching between store’s currencies. Implemented display of dynamic content (such as different banners) on frontend.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_c.png)
+![](../../assets/images/blog/untitled_c.png)
 
 #### Zendesk integration
 

@@ -13,7 +13,7 @@ The main focus of this release was Storefront API redesign and Mobile Starter ki
 
 Check out our new Mobile Starter kit for developing e-commerce apps using VirtoCommerce API. It is developed using [Ionic Framework](http://ionicframework.com/), [AngularJS](https://angularjs.org/) and [Cordova](https://cordova.apache.org/):
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_5.png)
+![](../../assets/images/blog/untitled_5.png)
 
 The VirtoCommerce Mobile Starter kit is currently available to partners and customers only. Contact us for more info on how to get the kit: [http://virtocommerce.com/contact-us](http://virtocommerce.com/contact-us).
 
@@ -23,7 +23,7 @@ A preconfigured Mobile Starter kit app is already publicly available. Check for
 
 A new storefront API layer was defined. Create new point of sale applications in any environment or technology and exchange the data in Json format:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_6.png)
+![](../../assets/images/blog/untitled_6.png)
 
 Currently web Storefront and Mobile Starter kit utilize this common API. The existing Storefront controllers were significantly refactored in favor of the new API.
 
@@ -33,19 +33,19 @@ A VirtoCommerce Manager user (operator) possessing a **store:loginOnBehalf** per
 
 **Login on behalf** button was added to the customer account management toolbar. Click to open a special Storefront page for logging in as a selected customer:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_7.png)
+![](../../assets/images/blog/untitled_7.png)
 
 Operator should enter his own credentials and get signed in as a customer:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_8.png)
+![](../../assets/images/blog/untitled_8.png)
 
 This “**Logged in on behalf of**” fact is indicated in the upper right corner. **Customer** in this case is the first name of the customer:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_9.png)
+![](../../assets/images/blog/untitled_9.png)
 
 Information about the operator is stored in the authentication cookie and saved to the appropriate (CreatedBy, ModifiedBy) database fields later.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_10.png)
+![](../../assets/images/blog/untitled_10.png)
 
 Order created by operator on behalf of Customer
 
@@ -59,21 +59,21 @@ By default a store is not sharing security accounts, meaning that all accounts t
 
 We have two stores: **Electronics** and **Clothing**. We want users of **Electronics** store to be able to login to **Clothing **(but not vice versa). We do it by adding **Clothing **to linked stores list of **Electronics **store:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_11.png)
+![](../../assets/images/blog/untitled_11.png)
 
 #### CMS menu link lists associations
 
 Now you can extend your site menu links by adding association to existing product or category:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_12.png)
+![](../../assets/images/blog/untitled_12.png)
 
 Then you can use associated product or category object in your storefront theme:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_13.png)
+![](../../assets/images/blog/untitled_13.png)
 
 Showing menu items with category image:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_14.png)
+![](../../assets/images/blog/untitled_14.png)
 
 Menus decorated with images from associated categories
 
@@ -81,13 +81,13 @@ Menus decorated with images from associated categories
 
 Now you can make copy of a product record with all related objects (variations, properties, descriptions, etc.)
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_15.png)
+![](../../assets/images/blog/untitled_15.png)
 
 #### Open Storefront store from manager
 
 Operator can now navigate quickly to the store in Storefront from the currently viewed store in Manager:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_16.png)
+![](../../assets/images/blog/untitled_16.png)
 
 #### Platform API changes
 

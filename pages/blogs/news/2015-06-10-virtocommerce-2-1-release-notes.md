@@ -28,7 +28,7 @@ Here is the list of new features and improvements in 2.1:
 
 Added ability to export and import catalog categories, products, prices, inventories to and from CSV files. Added extension point to enable additional types of support for import/export. Now install new modules for additional functionality.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_d.png)
+![](../../assets/images/blog/untitled_d.png)
 
 #### Shipping methods support
 
@@ -36,13 +36,13 @@ Shipping Methods - they are the carriers and services used to send your products
 
 We added the ability to define new shipping methods and integrate them into the system. After a new shipping method is installed, you can configure it individually for each store in the system and also specify the display order in the checkout page.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_e.png)
+![](../../assets/images/blog/untitled_e.png)
 
 #### Dashboard
 
 Dashboard is updated to use a unified widget management engine. Now any module can register custom widgets to it just like to any other widget container in the Virto Commerce Platform.
 
-![](/assets/cms-content/blogs/vccom/assets/base64791695cb45652864.png)
+![](../../assets/images/blog/base64791695cb45652864.png)
 
 Widgets displaying real catalog and marketing data have been added. They act as shortcuts to other blades. Click any widget to navigate to catalogs or promotions respectively. This functionality will be extended more in the next sprint.
 
@@ -50,7 +50,7 @@ Widgets displaying real catalog and marketing data have been added. They act as 
 
 Toolbar extension point was added. Now any module can register custom commands to a toolbar on any blade. Furthermore, the toolbar extensibility is not limited to commands only. Anything can be added to “custom content area” on the right blade’s side. This is the place for switches, flags, progress indicators, etc.
 
-![](/assets/cms-content/blogs/vccom/assets/base64cb6781a45e9be11.png)
+![](../../assets/images/blog/base64cb6781a45e9be11.png)
 
 In the above toolbar, extensibility sample 2, additional commands and a switch were added to “Content items” blade.
 
@@ -58,7 +58,7 @@ In the above toolbar, extensibility sample 2, additional commands and a switch w
 
 Security permissions were grouped to provide more convenient role management. Grouping is done “as needed”, meaning that any module can register permissions to any existing group or create new ones where appropriate. It allows for each module to be customized and assigned specific permissions that then can be utilized by a system administrator.
 
-![](/assets/cms-content/blogs/vccom/assets/base64c9143a64b579a9a8.png)
+![](../../assets/images/blog/base64c9143a64b579a9a8.png)
 
 Grouped permissions in role management UI.
 
@@ -72,7 +72,7 @@ API keys management updated to support multiple keys (Hmac, simple). They can be
 
 Placed price for a shopper depends on the pricelist being applied. The pricelist itself is bound to a specific catalog by “pricelist assignment”. We’ve added dynamic conditions for refining when and which pricelist should be assigned.
 
-![](/assets/cms-content/blogs/vccom/assets/base64e52bc30758dd10ac.png)
+![](../../assets/images/blog/base64e52bc30758dd10ac.png)
 
 Pricelist assignment condition management sample.
 
@@ -80,7 +80,7 @@ Pricelist assignment condition management sample.
 
 Dynamic content, published in StoreFront, allows for increased accuracy and personalization. We’ve added dynamic conditions for refining when and which specific content should be provided to the shopper.
 
-![](/assets/cms-content/blogs/vccom/assets/base64fcc0d1bb7fc6de49.png)
+![](../../assets/images/blog/base64fcc0d1bb7fc6de49.png)
 
 Dynamic content publishing condition management sample.
 
@@ -88,21 +88,21 @@ Dynamic content publishing condition management sample.
 
 We update the user interface to work with payment methods in the Commerce Manager store details blade.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_f.png)
+![](../../assets/images/blog/untitled_f.png)
 
 It is also possible to specify payment gateway configuration parameters per store to allow for multi vendor functionality.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_g.png)
+![](../../assets/images/blog/untitled_g.png)
 
 #### Storefront
 
 Shipping and payment methods are now retrieved using web api service, payment can be performed with PayPal or Klarna account.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_h.png)
+![](../../assets/images/blog/untitled_h.png)
 
 Custom 404 page with original url, HTTP response 404.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_i.png)
+![](../../assets/images/blog/untitled_i.png)
 
 #### Documentation
 

@@ -41,13 +41,13 @@ We also launched a new Stackoverflow community dedicated to Virto Commerce. Use 
 
 The filtering has been improved. Now it is possible to filter items using multiple facets of the same kind. For example products can be filtered by brand “samsung” or “sony”. Also the new filter was introduced for subcategories. It will automatically show all direct child subcategories for current category.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image002e.jpg)
+![](../../assets/images/blog/clip_image002e.jpg)
 
 #### Clear Cache through admin
 
 The cache can be now cleared from Commerce Manager. There are two types of cache that can be cleared: html output cache (all rendered pages, sitemap) and database cache (objects retrieved from database). The cache can be selectively cleared for specific areas or all cache.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image0022e.jpg)
+![](../../assets/images/blog/clip_image0022e.jpg)
 
 #### Sitemap improvements
 
@@ -74,4 +74,4 @@ This allows more precisely store, identify and display orders when needed.
 
 The mobile design has been improved. Now in mobile menu there are links to login, view cart and wish list.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image0023e.jpg)
+![](../../assets/images/blog/clip_image0023e.jpg)

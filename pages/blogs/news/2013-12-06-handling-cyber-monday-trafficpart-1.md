@@ -22,7 +22,7 @@ If you don’t want to look like engineers of [http://healthcare.gov](http://hea
 
 Load Testing is a process of generating traffic by means of automatic tools like VS.NET Web Load tests or many varieties of java based tools. This has to be done even when you are using existing platform or product, since certain code has been customized, you might find a lot of bottlenecks and issues during first couple of tests.
 
-![](/assets/cms-content/blogs/vccom/assets/tmpa71.png)
+![](../../assets/images/blog/tmpa71.png)
 
 The screenshot above shows our internal load test done against the demo site installed in azure environment. You can find that test in source code solution under “Performance.FunctionalTests” project.(note: you will need VS.NET edition that supports Web Load Tests).
 
@@ -40,11 +40,11 @@ This particular test environment that we ran our test against is 1 small instanc
 
 Since our test environment is running on azure, lets try to scale it and run the load tests again. To scale, all you have to do is login into azure, go to services and click scale tab. Change instance count from 1 to 2, it will take a minute or two for azure to provision new instance and now you will have 2 web servers.
 
-![](/assets/cms-content/blogs/vccom/assets/tmp2cd2.png)
+![](../../assets/images/blog/tmp2cd2.png)
 
 Now lets start the tests again and see what happens. As you might notice from the screenshot below, the requests per second grew to an average of 83.6 with 284 concurrent users. The page response time went overboard (mostly due to client machine broadband limitation).
 
-![](/assets/cms-content/blogs/vccom/assets/tmp4fcc.png)
+![](../../assets/images/blog/tmp4fcc.png)
 
 #### Automatic Scalability
 
@@ -54,13 +54,13 @@ Scaling by CPU load is self explanatory and is simply done when CPU reaches cert
 
 Scaling by Queue however is a unique feature available in azure and allows you to scale your backend systems based on how many items are sitting in a queue. This can be used for example when processing orders or insurance application, especially when CQRS (Command–query separation, we will go into more details during next part) feature is implemented. Basically when order is created, it is immediately put into the queue for further processing (authorizing credit card, settling inventory, pushing order to backend processing systems and so on). That queue can be small or large based on the time of day and the services (VMs) that are responsible for processing orders can either be very busy or doing nothing. In this case, you can automatically increase number of servers processing the requests in parallel when load is high and reduce when it is low.
 
-![](/assets/cms-content/blogs/vccom/assets/tmpce34.png)
+![](../../assets/images/blog/tmpce34.png)
 
 #### Schedule Scalability
 
 This allows to scale the system to certain levels during periods of time. If your traffic is very consistent and you know when heavy load comes, you can pre scale your infrastructure so no user is experiencing delays while system auto scales.
 
-![](/assets/cms-content/blogs/vccom/assets/tmpf043.png)
+![](../../assets/images/blog/tmpf043.png)
 
 #### Availability
 

@@ -35,37 +35,37 @@ We improved and simplified how promotions are handled in 2.0. Instead of definin
 
 We also created a brand new web based expression builder which can also be easily extended with custom expressions.
 
-![](/assets/cms-content/blogs/vccom/assets/1429081222_full.png)
+![](../../assets/images/blog/1429081222_full.png)
 
 #### Price Lists
 
 Price lists allow adding multiple prices for products.
 
-![](/assets/cms-content/blogs/vccom/assets/1429081797_full.png)
+![](../../assets/images/blog/1429081797_full.png)
 
 #### API Security
 
 Generate App Id and App Secret that can then be used to connect to the APIs under user identity. You can then further specify permissions for that user which will be applied to the application connecting under that account.
 
-![](/assets/cms-content/blogs/vccom/assets/1429081520_full.png)
+![](../../assets/images/blog/1429081520_full.png)
 
 #### Themes
 
 Download and install themes per store and then customize templates, stylesheets and assets using Commerce Manager.
 
-![](/assets/cms-content/blogs/vccom/assets/1429084380_full.png)
+![](../../assets/images/blog/1429084380_full.png)
 
 #### Navigation Menus
 
 Define multiple navigation menus for top navigation, footers, side menus and many others.
 
-![](/assets/cms-content/blogs/vccom/assets/1429084476_full.png)
+![](../../assets/images/blog/1429084476_full.png)
 
 #### Pages
 
 Use pages to create simple about us, contact and terms pages. You can also embed page content inside other templates.
 
-![](/assets/cms-content/blogs/vccom/assets/1429084558_full.png)
+![](../../assets/images/blog/1429084558_full.png)
 
 #### Development
 
@@ -75,7 +75,7 @@ Use pages to create simple about us, contact and terms pages. You can also embed
 
 We created several guides that should help you both setup Virto Commerce on Microsoft Azure Cloud and on your own development machine. The setup takes only 10 minutes on Azure.
 
-![](/assets/cms-content/blogs/vccom/assets/image2015-4-6-174141.png)
+![](../../assets/images/blog/image2015-4-6-174141.png)
 
 * [Install on Microsoft Azure Cloud](http://docs.virtocommerce.com/display/vc2devguide/Deploy+from+GitHub+to+Microsoft+Cloud+Azure) – checkout the installation guide on how to setup full version of Virto Commerce on free azure environment
 * [Install on private server](http://docs.virtocommerce.com/display/vc2devguide/Deploy+web+applications+to+dedicated+server) – use this guide to setup Virto Commerce on your own server

@@ -13,7 +13,7 @@ The main focus of this release was Social Login and lazy API data loading in Sto
 
 Ability to sign in via external login providers (Google, Facebook, etc.) on Storefront:
 
-![](/assets/cms-content/blogs/vccom/assets/capture.png)
+![](../../assets/images/blog/capture.png)
 
 Documentation for developers <a href="http://docs.virtocommerce.com/x/CAAdAQ" target="_blank">is here</a>.
 
@@ -25,15 +25,15 @@ We define special IMutablePagedList&lt;T&gt; abstraction to represent paged coll
 
 Declaration:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_17.png)
+![](../../assets/images/blog/untitled_17.png)
 
 Definition:
 
-![](/assets/cms-content/blogs/vccom/assets/6d0be2dc-c641-6a95-d69f-c4b0c468cca1.png)
+![](../../assets/images/blog/6d0be2dc-c641-6a95-d69f-c4b0c468cca1.png)
 
 Usage in Liquid:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_18.png)
+![](../../assets/images/blog/untitled_18.png)
 
 #### Unique SEO keywords within one tenant (Store)
 
@@ -41,7 +41,7 @@ Now Categories and Products can have unique SEO information defined for each 
 
 Another useful scenario is to use different SEO for a single product sold in different stores.
 
-![](/assets/cms-content/blogs/vccom/assets/72f1f244-e73e-6e82-0c29-c8f8683c1148.png)
+![](../../assets/images/blog/72f1f244-e73e-6e82-0c29-c8f8683c1148.png)
 
 Product SEO management for "Electronics" store
 
@@ -49,13 +49,13 @@ Product SEO management for "Electronics" store
 
 Individual settings for each store added. That is in addition to Dynamic properties that we had already:
 
-![](/assets/cms-content/blogs/vccom/assets/d2fce9a0-8204-c190-6cb1-57161789fdf1.png)
+![](../../assets/images/blog/d2fce9a0-8204-c190-6cb1-57161789fdf1.png)
 
 #### Individual asset container for each store
 
 Manage assets for each store independently. A dedicated folder for each store now exists in the assets management system. Access and manage assets directly from store:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_19.png)
+![](../../assets/images/blog/untitled_19.png)
 
 #### Other improvements
 

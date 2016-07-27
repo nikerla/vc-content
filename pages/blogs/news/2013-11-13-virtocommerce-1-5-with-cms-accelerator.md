@@ -23,7 +23,7 @@ For the next sprint we are working on many exciting features including moving ou
 
 For the past 6 months we have been working with Kooboo team to create an integrated product that uses Kooboo for the frontend management and Virto Commerce for commerce stuff (catalog management, pricing, orders etc). We went through several internal implementations and couple POCs. As a result we created an integration that is in our opinion offers the most value to both end users and developers.
 
-![](/assets/cms-content/blogs/vccom/assets/tmp1392.png)
+![](../../assets/images/blog/tmp1392.png)
 
 Some highlights include:
 
@@ -40,33 +40,33 @@ Here are some more specific features that you might find interesting after diggi
 
 Site setting custom field is added for this purpose called VCStoreId.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image002_.png)
+![](../../assets/images/blog/clip_image002_.png)
 
 #### External registration confirmation
 
 After user externally registers using kooboo, she or he is redirected back to custom confirmation page which after pressing confirm button will create account record in VC database. Currently only email address is shown in read-only mode (it cannot be changed as it is used as userId for kooboo membership)
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image004.png)
+![](../../assets/images/blog/clip_image004.png)
 
 #### Account dashboard and other pages
 
 All account pages were moved to kooboo views. User can change password, edit profile. Account left menu is dynamically created from specific kooboo pages.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image006.png)
+![](../../assets/images/blog/clip_image006.png)
 
 User can edit his First and Last names, email address, age, culture and time zone. The profile is saved both in kooboo profile settings and in Virto Commerce Contact details table.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image008.png)
+![](../../assets/images/blog/clip_image008.png)
 
 Change password is only allowed if user is registered locally (not through external login service). It is standard kooboo plugin without any changes.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image010.png)
+![](../../assets/images/blog/clip_image010.png)
 
 #### Announcement Section
 
 Virto Commerce announcements section added to Commerce Manager Dashboard.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image002__.jpg)
+![](../../assets/images/blog/clip_image002__.jpg)
 
 You'll find it on the very right side in the dashboard. It contains the latest news and detailed information is displayed in the browser window.
 
@@ -84,10 +84,10 @@ The following issues were fixed with installation:
 
 * Install button is not available if no of the install options selected
 
-![](/assets/cms-content/blogs/vccom/assets/base643ac26e4a9c7f683c.png)
+![](../../assets/images/blog/base643ac26e4a9c7f683c.png)
 
 * Virto Commerce SDK not installed if it is not selected in the first step
 * If Virto Commerce SDK not selected to be installed, the option to start won’t appear in the last screen
 * If installation is cancelled or failed there is an link to the installation troubleshooting page and links to the installation log files.
 
-![](/assets/cms-content/blogs/vccom/assets/base64687d6d485df067ae.png)
+![](../../assets/images/blog/base64687d6d485df067ae.png)

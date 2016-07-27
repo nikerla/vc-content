@@ -41,16 +41,16 @@ A general purpose progress indicator implemented. All long running processes sho
 
 Status reporting for Asset upload, Catalog and Category deletion has been added at the moment.
 
-![](/assets/cms-content/blogs/vccom/assets/image.png)
+![](../../assets/images/blog/image.png)
 
 #### Large numbers abbreviated on dashboard tiles
 
 Abbreviation rules applied for large numbers on dashboard tiles. Now all numbers will fit in the fixed size dashboard tile:
 
-![](/assets/cms-content/blogs/vccom/assets/image1.png)
+![](../../assets/images/blog/image1.png)
 
 #### Item and Category validation fixed
 
 Some entities possess logical restrictions that can't be checked at database level. For instance, a product can have a property assigned whose value is marked as required. Now such product is not saved, the faulty tab is activated and invalid property values are marked:
 
-![](/assets/cms-content/blogs/vccom/assets/image2.png)
+![](../../assets/images/blog/image2.png)

@@ -41,24 +41,24 @@ Let us know at [http://help.virtocommerce.com/support/discussions/forums/264127]
 
 Promotion reservation has been implemented. This feature allows promotions to be configured with Allow limit (total allowed usages), Limit per customer and exclusivity policy. When promotion is applied in shopping cart, the record with status reserved is added to PromotionUsage table. The reservations are automatically removed by system job after configured expirationtimeout.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image002d.jpg)
+![](../../assets/images/blog/clip_image002d.jpg)
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image004d.jpg)
+![](../../assets/images/blog/clip_image004d.jpg)
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image006d.jpg)
+![](../../assets/images/blog/clip_image006d.jpg)
 
 #### PayPal express checkout
 
 A new PayPal payment gateway is available for express checkout. This allows for quick checkout without filling addresses or shipping method. PayPal can also be selected as regular payment method in normal checkout flow, by selecting address and shipping method. This information then is sent to PayPal.
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image008d.jpg)
+![](../../assets/images/blog/clip_image008d.jpg)
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image010d.jpg)
+![](../../assets/images/blog/clip_image010d.jpg)
 
 PayPal payment gateway can be configured in commerce manager as all other payments. For more information about PayPal configuration check this link [https://github.com/paypal/sdk-core-dotnet/wiki/SDK-Configuration-Parameters](https://github.com/paypal/sdk-core-dotnet/wiki/SDK-Configuration-Parameters).
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image012d.jpg)
+![](../../assets/images/blog/clip_image012d.jpg)
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image014d.jpg)
+![](../../assets/images/blog/clip_image014d.jpg)
 
-![](/assets/cms-content/blogs/vccom/assets/clip_image016d.jpg)
+![](../../assets/images/blog/clip_image016d.jpg)

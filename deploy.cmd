@@ -58,20 +58,12 @@ IF NOT DEFINED DEPLOYMENT_TEMP (
 
 :: Build to the temporary path
 set pages_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\pages\vccom
-set blog_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\pages\vccom\blogs\news
 set theme_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\themes\vccom\default
-set blog_images_target=%DEPLOYMENT_TEMP%\App_Data\assets\cms-content\blogs\vccom\assets
 
 xcopy "%DEPLOYMENT_SOURCE%\pages\*.*" "%pages_target%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
 
-xcopy "%DEPLOYMENT_SOURCE%\blog\*.*" "%blog_target%" /S /R /Y /I
-IF !ERRORLEVEL! NEQ 0 goto error
-
 xcopy "%DEPLOYMENT_SOURCE%\theme\*.*" "%theme_target%" /S /R /Y /I
-IF !ERRORLEVEL! NEQ 0 goto error
-
-xcopy "%DEPLOYMENT_SOURCE%\blog_images\*.*" "%blog_images_target%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
 
 :: KuduSync

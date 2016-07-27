@@ -33,13 +33,13 @@ A record of the RFQ is maintained in the RFQ request list for a predetermined pe
 
 To enable quotes functionality in your store, switch it on in Commerce manager ⇨ Stores ⇨ &lt;&lt;select store&gt;&gt; ⇨ Settings ⇨ EnableQuotes.
 
-![](/assets/cms-content/blogs/vccom/assets/image11.png)
+![](../../assets/images/blog/image11.png)
 
 A RFQ’s main information after updating and submitting it to the customer. *
 
 After successful negotiation the customer can click “Confirm and checkout”:
 
-![](/assets/cms-content/blogs/vccom/assets/image08.png)
+![](../../assets/images/blog/image08.png)
 
 A store manager’s confirmed proposal complete with custom prices and additional discount is available for the customer in the Storefront. *
 
@@ -57,21 +57,21 @@ To use this feature you need to define roles with permissions bounded (limited) 
 * built-in UI for permissions scope assignment
 * server (API methods) and UI permissions checks
 
-![](/assets/cms-content/blogs/vccom/assets/image12.png)
+![](../../assets/images/blog/image12.png)
 
 #### Individual tax provider for each store
 
 A new "Tax providers" widget added to store edit blade.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_k.png)
+![](../../assets/images/blog/untitled_k.png)
 
 Now each store can have an individual tax provider assigned and providers can have individual configuration settings per store.
 
-![](/assets/cms-content/blogs/vccom/assets/image14.png)
+![](../../assets/images/blog/image14.png)
 
 **Tax provider choosing blade**
 
-![](/assets/cms-content/blogs/vccom/assets/image15.png)
+![](../../assets/images/blog/image15.png)
 
 **Avalara tax configuration for a selected store.**
 
@@ -81,6 +81,6 @@ New tax providers can be implemented. Read our documentation on how to create ne
 
 Now [Authorize.Net](http://www.authorize.net/) payment gateway is supported. Configure it in a user friendly UI and let your customers pay by credit card using a leading provider of payment gateway services.
 
-![](/assets/cms-content/blogs/vccom/assets/image13.png)
+![](../../assets/images/blog/image13.png)
 
 Authorize.Net payment gateway activated for selected store

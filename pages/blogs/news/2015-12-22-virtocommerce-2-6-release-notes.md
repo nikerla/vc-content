@@ -24,7 +24,7 @@ The Storefront application was redesigned and rewritten from scratch. Main point
 
 Commerce Platform and all the Commerce modules were fully localized. All the translation resources are public and available in a dedicated git repository. Check the <a href="http://docs.virtocommerce.com/x/UYAKAQ">localization guide</a> for more information on managing the translations and localizing Commerce Manager to new languages. In case of your own module, study the <a href="http://docs.virtocommerce.com/x/YoAKAQ">guide on localization implementation</a>.
 
-![](/assets/cms-content/blogs/vccom/assets/2-6_localize.png)
+![](../../assets/images/blog/2-6_localize.png)
 
 Excerpt of the Virto Commerce localization data
 
@@ -43,7 +43,7 @@ The lists in Commerce Manager now are much more functional as we’ve adapted <a
 
 Furthermore, all your customizations are automatically and seamlessly saved in the browser (using <a href="https://en.wikipedia.org/wiki/Web_storage">Web Storage</a>).
 
-![](/assets/cms-content/blogs/vccom/assets/2-6_1uigrid.png)
+![](../../assets/images/blog/2-6_1uigrid.png)
 
 Assets list in Commerce Manager with list element selection and available actions column, context menu and pagination functionality.
 
@@ -51,7 +51,7 @@ Assets list in Commerce Manager with list element selection and available action
 
 Asset management functionality added as a full-fledged module in UI. Create folders and manage assets comfortably - directly in Commerce Manager.
 
-![](/assets/cms-content/blogs/vccom/assets/2-6_2assets.png)
+![](../../assets/images/blog/2-6_2assets.png)
 
 Asset list and new file upload dialog.
 
@@ -59,7 +59,7 @@ Asset list and new file upload dialog.
 
 Now you can view images in more detail after they were added to the item. Just click “Gallery” in the toolbar while managing the images:
 
-![](/assets/cms-content/blogs/vccom/assets/2-6_3gallery.png)
+![](../../assets/images/blog/2-6_3gallery.png)
 
 #### Catalog database structure optimization
 

@@ -26,11 +26,11 @@ The article below describes in detail how to work with the members extension poi
 
 How to register new member types in your custom module
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_20.png)
+![](../../assets/images/blog/untitled_20.png)
 
 How custom member types appear in management UI
 
-![](/assets/cms-content/blogs/vccom/assets/1.png)
+![](../../assets/images/blog/1.png)
 
 #### Web Farms support
 
@@ -54,7 +54,7 @@ If Redis cache is disabled, then `IDistributedCacheManager` works like a seriali
 
 Running multiple storefronts instances on web farms requires shared storage for CMS themes and static content resources instead of a local file system when a running a single storefront instance. We decide to use this for Azure blob storage service.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_21.png)
+![](../../assets/images/blog/untitled_21.png)
 
 To switch to azure blob storage for CMS content resources, the following steps are required:
 
@@ -76,15 +76,15 @@ SEO management was redesigned and an intelligent conflicts resolution feature wa
 
 UI prevents SEO conflicts at concrete product (or category) within the concrete store level.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_22.png)
+![](../../assets/images/blog/untitled_22.png)
 
 Conflicting SEO detection is executed every time when you open a store in Manager UI. In case same duplicating SEOs are found, the red SEO widget comes into notice:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_23.png)
+![](../../assets/images/blog/untitled_23.png)
 
 SEOs list now has an informer describing the problem. Click "Resolve conflicts" and fix the duplicating SEOs quickly by updating semantic URL(s):
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_24.png)
+![](../../assets/images/blog/untitled_24.png)
 
 In this article you can read more about SEO url routing on storefront works [http://docs.virtocommerce.com/display/vc2devguide/Storefront+SEO+routing](http://docs.virtocommerce.com/display/vc2devguide/Storefront+SEO+routing).
 
@@ -92,7 +92,7 @@ In this article you can read more about SEO url routing on storefront works [htt
 
 CMS module was rewritten nearly from scratch. Now themes, pages and blogs browsing has a unified UI which is very similar to Assets management.
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_25.png)
+![](../../assets/images/blog/untitled_25.png)
 
 #### Simple images uploading for blog and static pages
 
@@ -127,7 +127,7 @@ There is a new setting, **SEO Links**, with one of three predefined values:
 
 The right-to-left (RTL) writing system is now supported in Manager:
 
-![](/assets/cms-content/blogs/vccom/assets/untitled_26.png)
+![](../../assets/images/blog/untitled_26.png)
 
 Even if you haven't translated the localization scripts to RTL language yet, the Manager UI switching to RTL can be done right away:
 
@@ -141,11 +141,11 @@ If product has several prices then line item price will change depending on line
 
 Price for quantity 1 is $249.95 (without any discounts):
 
-![](/assets/cms-content/blogs/vccom/assets/fig1.png)
+![](../../assets/images/blog/fig1.png)
 
 Price for quantity 3 or greater is $240.00 (without any discounts):
 
-![](/assets/cms-content/blogs/vccom/assets/fig2.png)
+![](../../assets/images/blog/fig2.png)
 
 #### Other improvements
 
