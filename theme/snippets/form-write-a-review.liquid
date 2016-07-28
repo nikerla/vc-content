@@ -7,7 +7,7 @@
                 <form class="popup-cnt" name="formContactUs" novalidate="novalidate" method="post">
                     <div ng-init="setContactUsForm(formContactUs)"></div>
                     <input name="Subject" type="hidden" ng-value="model.contact.Subject" ng-init="model.contact.Subject='Review app store'" />
-                    <input name="ProductCode" type="hidden" ng-value="model.contact.ProductCode" ng-init="{{ product.code }}'" />
+                    <input name="ProductCode" type="hidden" ng-value="model.contact.ProductCode" ng-init="model.contact.ProductCode='{{ product.variants[0].sku }}'" />
                     <input name="RedirectUrl" type="hidden" ng-value="model.contact.RedirectUrl" ng-init="model.contact.RedirectUrl=''" />
                     <div class="popup-rating">
                         <div class="rating-t">{{ 'apps.forms.select_rating' | t }}</div>

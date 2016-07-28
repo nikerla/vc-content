@@ -1,4 +1,4 @@
-﻿<div class="apps" ng-controller="productController">
+﻿<div class="apps">
     {% include 'apps-menu' %}
     {% include 'breadcrumb' %}
     <div class="extension __responsive clearfix">
@@ -22,8 +22,8 @@
                     <div class="extension-descr" itemprop="description">{{ product.metafields.properties.Description }}</div>
                     {% endif %}
                     <div class="extension-actions">
-                        <a href="#" class="button fill">Project</a>
-                        <a href="#" class="button fill">Download</a>
+                        <a href="{{ product.metafields.properties.ProjectLink }}" class="button fill" target="_blank">Project</a>
+                        <a href="{{ product.metafields.properties.DownloadLink }}" class="button fill" target="_blank">Download</a>
                     </div>
                 </div>
                 <div class="extension-links col __col-40">
@@ -35,13 +35,7 @@
                             <a class="menu-link" href="{{ '~/vendor/' | append: product.vendor.id | absolute_url }}">{{ product.vendor.name }}</a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu-link" href="{{ '~/vendor/' | append: product.vendor.id | absolute_url }}">{{ 'apps.product.developer_profile' | t }}</a>
-                        </li>
-                        <li class="menu-item">
                             <a class="menu-link" style="cursor:pointer;" ng-click="showContactVendorForm()">{{ 'apps.product.contact_developer' | t }}</a>
-                        </li>
-                        <li class="menu-item">
-                            <a class="menu-link" href="">{{ "apps.product.developer_extensions" | t }}</a>
                         </li>
                     </ul>
                     <div class="socials">
@@ -63,38 +57,29 @@
                     </div>
                 </div>
             </div>
-            <a class="btn __red __round __block __ucase" ng-href="{% raw %}{{ selectedVariation.downloadLink.value }}{% endraw %}" ng-if="selectedVariation.downloadLink &amp;&amp; selectedVariation.downloadLink.value">{{ 'apps.product.get_extension' | t }} ({{ 'apps.general.free' | t }})</a>
         </div>
     </div>
+    {% if product.images.size > 1 %}
     <div class="gallery __responsive">
         <div class="gallery-list">
-            <div class="gallery-item" ng-repeat="image in product.images">
-                <img alt="" src="{% raw %}{{ image.url }}{% endraw %}" />
+            {% for image in product.images %}
+            <div class="gallery-item">
+                <img alt="" src="{{ image.src }}" />
             </div>
+            {%endfor %}
         </div>
     </div>
+    {% endif %}
+    {% if product.metafields.properties.Overview %}
     <div class="tabs">
         <ul class="menu __inline __tabs __responsive">
-            <li class="menu-item" ng-class="{ '__selected': productOverviewVisible }" ng-click="showProductOverview()">{{ 'apps.product.overview' | t }}</li>
-            <li class="menu-item" ng-class="{ '__selected': productReleaseNotesVisible }" ng-click="showProductReleaseNotes()">{{ 'apps.product.release_notes' | t }}</li>
+            <li class="menu-item __selected">{{ 'apps.product.overview' | t }}</li>
         </ul>
         <div class="tab-content">
             <div class="content-inner __responsive">
-                <p ng-if="fullDescription &amp;&amp; productOverviewVisible" ng-bind-html="fullDescription"></p>
-                <div ng-if="productReleaseNotesVisible">
-                    <p class="tab-t" ng-if="selectedVariation.versionNumber" ng-bind="'{{ 'apps.product.version' | t }} ' + selectedVariation.versionNumber.value"></p>
-                    <p ng-if="selectedVariation.releaseDate" ng-bind="selectedVariation.releaseDate.value"></p>
-                    <div ng-if="selectedVariation.releaseNotes &amp;&amp; selectedVariation.releaseNotes.value">
-                        <p class="tab-t">{{ 'apps.product.version_features' | t }}</p>
-                        <p ng-bind="selectedVariation.releaseNotes.value"></p>
-                    </div>
-                    <a class="btn __red __round __left __ucase" ng-href="{% raw %}{{ selectedVariation.downloadLink.value }}{% endraw %}" ng-if="selectedVariation.downloadLink &amp;&amp; selectedVariation.downloadLink.value">{{ 'apps.product.get_extension' | t }} ({{ 'apps.general.free' | t }})</a>
-                </div>
+                {{ product.metafields.properties.Overview }}
             </div>
         </div>
     </div>
+    {% endif %}
 </div>
-<script type="text/javascript">
-    window.productIds = [];
-    window.productIds.push('{{ product.id }}');
-</script>
