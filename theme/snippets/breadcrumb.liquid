@@ -5,6 +5,12 @@
       <a class="menu-link" href="{{ "/" | absolute_url }}" title="{{ 'general.breadcrumbs.home_link_title' | t }}">{{ 'general.breadcrumbs.home' | t }}</a>
     </li>
 
+  {% if template contains 'vendor' or template contains 'product' or template contains 'collection' %}
+    <li class="menu-item">
+        <a href="{{ '/apps' | absolute_url }}" class="menu-link">App Store</a>
+    </li>
+  {% endif %}
+
   {% if template contains 'vendor' %}
 
     <li class="menu-item">{{ vendor.name }}</li>
