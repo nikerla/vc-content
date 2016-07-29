@@ -1,0 +1,24 @@
+<div class="apps">
+    {% include 'breadcrumb' %}
+    {% paginate collection.products by 15 %}
+    <div class="items __responsive">
+            <div class="title-w">
+                <h2 class="t">{{ collection.title }}</h2>
+            </div>
+            <div class="list __items __inline">
+                <ul class="main">
+                    {% assign products = collection.products | sort: 'title' %}
+
+                    {% for product in products %}
+                        {% include 'grid-item' %}
+                    {% endfor %}
+                </ul>
+            </div>
+            {% if paginate.pages > 1 %}
+                <div class="text-center">
+                    {% include 'pagination-custom' %}
+                </div>
+            {% endif %}
+        </div>
+    {% endpaginate %}
+</div>
