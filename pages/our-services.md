@@ -8,7 +8,7 @@ tags :
 - commerce
 ---
 <div class="slider">
-	<img alt="" src="../assets/images/bg-enterprise.jpg" class="slider-bg">
+	<img alt="" src="assets/images/bg-enterprise.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
 			<h1 class="slider-title">Our Services</h1>

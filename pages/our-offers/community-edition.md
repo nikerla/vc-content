@@ -9,7 +9,7 @@ tags :
 - community
 ---
 <div class="slider">
-	<img alt="" src="assets/images/bg-community.jpg" class="slider-bg">
+	<img alt="" src="../assets/images/bg-community.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
 			<h1 class="slider-title">Community Edition</h1>

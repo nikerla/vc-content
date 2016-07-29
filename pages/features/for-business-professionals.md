@@ -18,7 +18,7 @@ tags :
         <div class="advantages">
             <ul class="list">
                 <li class="list-item">
-                    <img alt="Architecture" src="assets/images/features/architecture-circle.png" style="border: 0px">
+                    <img alt="Architecture" src="../assets/images/features/architecture-circle.png" style="border: 0px">
                     <p class="title">Solution Architecture</p>
                     <p>Virto Commerce Manager, at the core of the Virto Commerce platform provides administration and management tools. Its comprehensive core functionality that can be easily extended
                     with modules and customer capabilities as well as integrated with back-end ERP systems and front-end authentication solutions. Modular architecture supports automatic updates to allow
@@ -34,7 +34,7 @@ tags :
                     </ul>
                 </li>
                 <li class="list-item">
-                    <img alt="Virto Commerce master and virtual catalogs" src="assets/images/features/catalog.png">
+                    <img alt="Virto Commerce master and virtual catalogs" src="../assets/images/features/catalog.png">
                     <p class="title">Catalog & Product Information Management (PIM)</p>
                     <p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and <a href="/b2b-ecommerce">B2B</a> product lists.
                     Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 
@@ -47,7 +47,7 @@ tags :
                         </ul>
                 </li>
                 <li class="list-item">
-                    <img alt="Merchandising" src="assets/images/features/crosssell.png">
+                    <img alt="Merchandising" src="../assets/images/features/crosssell.png">
                     <p class="title">Merchandising</p>
                     <p>Our tools are designed for innovative companies where merchants collaborate closely with brand marketers. We provide tools to optimize your 
                     offering and drive conversions. With Cross-sells, up-sells, product recommendations and even custom relations you will be able to execute any merchandising plan.
@@ -60,7 +60,7 @@ tags :
                     </ul>
                 </li>
                 <li class="list-item">
-                    <img alt="personalized price lists" src="assets/images/features/pricing.png">
+                    <img alt="personalized price lists" src="../assets/images/features/pricing.png">
                     <p class="title">Pricing</p>
                     <p>Virto Commerce provides a responsive pricing engine. Prices can be personalized in real-time based on audience, campaign, purchase history, geo-location, contracts and other customer-based scenarios.</p>
                     <ul class="features-list">
@@ -72,7 +72,7 @@ tags :
                     </ul>
                 </li>
                 <li class="list-item">
-                    <img alt="Virto Commerce promotions" src="assets/images/features/pricing.png"/>
+                    <img alt="Virto Commerce promotions" src="../assets/images/features/pricing.png"/>
                     <p class="title">Promotions & Marketing</p>
                     <p>Our promotion engine lets you create free shipping campaigns, discounts on selected products, coupons for future purchases, and much more! And because it's a simple and easy tool to utilize, you 
                     won't be needing any developer assistance. That's a promotions in itself! Promotions can be combined with the marketing system to deliver truely engaging campaigns.</p>
@@ -84,7 +84,7 @@ tags :
                     </ul>
                 </li>
                 <li class="list-item">
-                    <img alt="order management" src="assets/images/features/order.png"/>
+                    <img alt="order management" src="../assets/images/features/order.png"/>
                     <p class="title">Order Management</p>
                     <p>Virto Commerce provides an industry leading document based order management functionality. It can be integrated into complex enterprise workflows - including many leading ERP and fulfillment systems.</p>
                     <ul class="features-list">
@@ -96,7 +96,7 @@ tags :
                     </ul>
                 </li>
                 <li class="list-item">
-                    <img alt="order management" src="assets/images/features/cms.png"/> 
+                    <img alt="order management" src="../assets/images/features/cms.png"/> 
                     <p class="title">Content Management (CMS)</p>
                     <p>Virto Commerce comes with a simple yet extremely powerful CMS that gives both developers and marketers complete access customizing the store look and feel. Developers can easily create and publish new themes while marketers can 
                     create landing pages, blog posts, marketing banners and more. Virto Commerce is also integrated with many industry leading CMS to provide even more flexibility.</p>
@@ -109,7 +109,7 @@ tags :
                     </ul>
                 </li>
                 <li class="list-item">
-                    <img alt="multi-tenant" src="assets/images/features/frontend.png"/>
+                    <img alt="multi-tenant" src="../assets/images/features/frontend.png"/>
                     <p class="title">Multi-tenant</p>
                     <p>Built to support complex B2B scenarios, Virto Commerce includes capabilities to create solutions for distributors and manufacturers. Create complex org structures, allow vendors to accept orders and customize 
                     the look and feel of their storefront. <a class="link" href="/multi-tenant">Read more</a></p>
@@ -122,14 +122,14 @@ tags :
                 </li>
             </ul> 
             <!-- 
-            <a class="link" href="assets/files/feature-guide.pdf">Read our Feature Guide</a>
+            <a class="link" href="../assets/files/feature-guide.pdf">Read our Feature Guide</a>
             -->
         </div>
         <div class="advantages">
             <h2>Commerce Integration Platform</h2>
             <ul class="list">
                 <li class="list-item">
-                        <img alt="rest-api" src="assets/images/features/rest-api.png"/>
+                        <img alt="rest-api" src="../assets/images/features/rest-api.png"/>
                         <p>Virto Commerce is developed using modular architecture with each module exposing a set of REST based API's. These standards based unified API's provide
                         businesses, agencies, and system integrators with advanced ecommerce capabilities that are easier to consume, manage and combine with other business systems and frontend technologies.  <a class="link" href="http://docs.virtocommerce.com/display/vc2devguide/API+Reference">Explore our API.</a>
                         </p>
