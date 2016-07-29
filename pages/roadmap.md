@@ -76,7 +76,7 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title"><a href="/blogs/news/virtocommerce-2-11-release-notes/" target="_blank">Platform modules Auto Updates</a> (June 2016)</span>
+									<span class="title"><a href="/blogs/news/virtocommerce-2-11-release-notes" target="_blank">Platform modules Auto Updates</a> (June 2016)</span>
 									<span class="descr">Support for platform modules auto updates.</span>
 								</li>
 								<li>
