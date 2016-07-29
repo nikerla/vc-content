@@ -6,7 +6,7 @@
             <div class="slider-item">
                 <figure class="slider-outer">
                     <a class="slider-pic">
-                        <img class="slider-img" itemprop="image" src="{% if product.featured_image.src %}{{ product.featured_image.src }}{% else %}{{ 'blank.png' | asset_url }}{% endif %}" />
+                        <img class="slider-img" itemprop="image" src="{% if product.featured_image.src %}{{ product.featured_image.src }}{% else %}{{ 'no-image.png' | asset_url }}{% endif %}" />
                     </a>
                 </figure>
             </div>
