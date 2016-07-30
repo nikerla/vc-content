@@ -1041,6 +1041,16 @@ textarea.__error
     width: 150px;
 }
 
+.appstore-logo
+{
+	background: url(appstore-logo.png) no-repeat scroll 0 0;
+    font-size: 0;
+    height: 48px;
+    left: 0;
+    top: 25px;
+    width: 147px;
+}
+
 /* Phone */
 .head-phone
 {
