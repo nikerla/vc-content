@@ -1,6 +1,6 @@
 ﻿<nav class="head-menu">
     <ul class="menu __inline">
-        {% for link in linklists.main-menu.links %}
+        {% for link in menu.links %}
             {% assign child_list_handle = link.title | handleize %}
             <li class="menu-item{% if linklists[child_list_handle].links.size > 0 %} dropdown{% endif %}">
                 <a href="{{ link.url }}">{{ link.title | escape }}</a>

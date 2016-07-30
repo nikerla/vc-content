@@ -102,7 +102,9 @@
             </div>
             <div class="header-wrap">
                 <header class="responsive" role="banner">
+                    {% assign menu = linklists.main-menu %}
                     {% if template contains 'collection' %}
+                        {% assign menu = linklists.apps-menu %}
                         <a class="appstore-logo logo" href="{{ '/' | absolute_url }}"></a>
                     {% else %}
                         <a class="logo" href="{{ '/' | absolute_url }}"></a>
@@ -112,6 +114,7 @@
                         <span></span>
                         <span></span>
                     </a>
+
                     {% include 'main-menu' %}
                     <div class="head-phone">
                         <div class="head-phone_num">+1 (800) 980-5288</div>
