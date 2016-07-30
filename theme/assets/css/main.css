@@ -6046,6 +6046,12 @@ table
         background-size: 150px 56px;
     }
 
+    .appstore-logo
+    {
+        background-image: url(appstore-logo.png);
+        background-size: 150px 56px;
+    }
+
     .head-phone
     {
         background-image: url(phonex2.png);
