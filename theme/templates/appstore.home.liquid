@@ -6,10 +6,11 @@
             <a class="btn __large __round __red __ucase" ng-click="showBecomeADeveloperForm()">{{ 'apps.category.become_a_developer' | t }}</a>
         </div>
     </div>
-    {% paginate collections.featured.products by 5 %}
-    <div class="items __responsive">
+
+    {% for product in collections['featured'].products limit: 5 %}
+        <div class="items __responsive">
             <div class="title-w">
-                <h2 class="t">{{ collections.featured.title }}</h2>
+                <h2 class="t">{{ collections['featured'].title }}</h2>
             </div>
             <div class="list __items __inline">
                 <ul class="main">
@@ -21,9 +22,10 @@
                 </ul>
             </div>
         </div>
-    {% endpaginate %}
-    {% paginate collection.products by 5 %}
-    <div class="items __responsive">
+    {% endfor %}
+
+    {% for product in collection.products limit: 5 %}
+        <div class="items __responsive">
             <div class="title-w">
                 <h2 class="t">{{ 'apps.category.new_extensions' | t }}</h2>
             </div>
@@ -37,5 +39,5 @@
                 </ul>
             </div>
         </div>
-    {% endpaginate %}
+    {% endfor %}
 </div>
