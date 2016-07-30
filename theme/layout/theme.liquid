@@ -89,6 +89,7 @@
     <div class="google-like">
         <div class="g-plusone" data-href="http://virtocommerce.com" data-size="tall"></div>
     </div>
+    {% include 'apps-identifier.liquid' %}
     {% include 'form-become-a-developer' %}
     {% include 'form-write-a-review' %}
     {% include 'form-contact-vendor' %}
@@ -103,7 +104,7 @@
             <div class="header-wrap">
                 <header class="responsive" role="banner">
                     {% assign menu = linklists.main-menu %}
-                    {% if template contains 'collection' %}
+                    {% if isAppsStore %}
                         {% assign menu = linklists.apps-menu %}
                         <a class="appstore-logo logo" href="{{ '/' | absolute_url }}"></a>
                     {% else %}
