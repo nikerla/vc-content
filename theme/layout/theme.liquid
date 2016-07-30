@@ -95,6 +95,10 @@
     {% include 'form-contact-vendor' %}
     {% include 'form-support-vendor' %}
     {% include 'form-thank-you' %}
+    {% assign menu = linklists.main-menu %}
+    {% if isAppsStore %}
+        {% assign menu = linklists.apps-menu %}
+    {% endif %}
     <div id="layout">
         <div class="layout-canvas">
             <div class="swipe">
@@ -103,9 +107,7 @@
             </div>
             <div class="header-wrap">
                 <header class="responsive" role="banner">
-                    {% assign menu = linklists.main-menu %}
                     {% if isAppsStore %}
-                        {% assign menu = linklists.apps-menu %}
                         <a class="appstore-logo logo" href="{{ '/apps' | absolute_url }}"></a>
                     {% else %}
                         <a class="logo" href="{{ '/' | absolute_url }}"></a>
