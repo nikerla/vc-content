@@ -7,24 +7,20 @@
         </div>
     </div>
 
-    {% for product in collections['featured'].products limit: 5 %}
         <div class="items __responsive">
             <div class="title-w">
                 <h2 class="t">{{ collections['featured'].title }}</h2>
             </div>
             <div class="list __items __inline">
                 <ul class="main">
-	               {% assign products = collection.products %}
-
-                   {% for product in products %}
+                   {% for product in collections['featured'].products limit: 5 %}
                         {% include 'grid-item' %}
                     {% endfor %}
                 </ul>
             </div>
         </div>
-    {% endfor %}
 
-    {% for product in collection.products limit: 5 %}
+
         <div class="items __responsive">
             <div class="title-w">
                 <h2 class="t">{{ 'apps.category.new_extensions' | t }}</h2>
@@ -33,11 +29,10 @@
                 <ul class="main">
 	               {% assign products = collection.products %}
 
-                   {% for product in products %}
+                   {% for product in collection.products limit: 5 %}
                         {% include 'grid-item' %}
                     {% endfor %}
                 </ul>
             </div>
         </div>
-    {% endfor %}
 </div>
