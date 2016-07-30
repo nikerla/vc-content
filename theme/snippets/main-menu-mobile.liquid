@@ -1,5 +1,5 @@
 ﻿<ul class="menu">
-    {% for link in linklists.main-menu.links %}
+    {% for link in menu.links %}
         {% assign child_list_handle = link.title | handleize %}
         <li class="menu-item" data-id="swipeli">
             <a href="{{ link.url }}" data-swipe="opened">{{ link.title | escape }}</a>
@@ -13,13 +13,5 @@
                 </ul>
             {% endif %}
         </li>
-    {% endfor %}
-    {% for col in collections %}
-        {% if col.handle != collection.handle %}
-            {% assign col_url = col.url | absolute_url %}
-            <li class="menu-item">
-                <a class="menu-link" href="{{ col_url }}">{{ col.title }}</a>
-            </li>
-        {% endif %}
     {% endfor %}
 </ul>

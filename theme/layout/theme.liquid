@@ -117,9 +117,11 @@
                     </a>
 
                     {% include 'main-menu' %}
+                    {% if isAppsStore == false %}
                     <div class="head-phone">
                         <div class="head-phone_num">+1 (800) 980-5288</div>
                     </div>
+                    {% endif %}
                     <form action="{{ '/search' | absolute_url }}" class="head-search" method="POST">
                         <input class="form-input" id="q" name="q" placeholder="{{ 'general.search' | t }}" />
                     </form>
