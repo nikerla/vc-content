@@ -6053,7 +6053,7 @@ table
 
     .head-search .btn
     {
-        background-image: url(searchx2.png);
+        /*background-image: url(searchx2.png);*/
         background-size: 16px 16px;
     }
 
