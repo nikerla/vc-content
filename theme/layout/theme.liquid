@@ -124,9 +124,9 @@
                         <div class="head-phone_num">+1 (800) 980-5288</div>
                     </div>
                     {% endif %}
-                    <form action="{{ '/search' | absolute_url }}" class="head-search" method="POST">
-                        <input class="form-input" id="q" name="q" placeholder="{{ 'general.search' | t }}" />
-                    </form>
+                    <div class="head-search">
+                        {% include 'search-bar' %}
+                    </div>
                 </header>
             </div>
             <article class="main" role="main">

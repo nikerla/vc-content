@@ -262,7 +262,7 @@ form fieldset,
 
     .form-input.__search::after
     {
-        background: url(../images/icons/head.png) no-repeat scroll 0 0;
+        background: url(head.png) no-repeat scroll 0 0;
         content: '';
         height: 16px;
         left: 20px;
@@ -307,7 +307,7 @@ form fieldset,
 .form-input.__search input,
 .form-input.__subscribe input
 {
-    padding-right: 110px;
+    padding-right: 80px;
 }
 
 .form-input textarea
@@ -1043,7 +1043,7 @@ textarea.__error
 
 .appstore-logo
 {
-	background: url(appstore-logo.png) no-repeat scroll 0 0;
+    background: url(appstore-logo.png) no-repeat scroll 0 0;
     font-size: 0;
     height: 48px;
     left: 0;
@@ -1108,9 +1108,8 @@ textarea.__error
 /* Head Search */
 .head-search
 {
-    margin: 20px 0 0 10px;
+    margin: 15px 0 0 10px;
     position: relative;
-    width: 120px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
@@ -1125,17 +1124,11 @@ textarea.__error
         box-sizing: border-box;
     }
 
-    .head-search .btn
-    {
-        background: url(search.png) no-repeat scroll 0 0;
-        border: none;
-        cursor: pointer;
-        height: 14px;
-        position: absolute;
-        right: 7px;
-        top: 7px;
-        width: 14px;
-    }
+/* Body Search */
+.body-search
+{
+    max-width: 750px;
+}
 
 /* Mobile btn */
 .mobile-btn

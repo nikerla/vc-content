@@ -5,7 +5,6 @@
         "business_feautures": "Business Features",
         "technical_feautures": "Technical Features",
         "contact_us": "Contact us",
-        "search": "Search",
         "try_now": "Try Now",
         "menu": "Menu",
         "dev_resources": "Dev resources",
@@ -22,6 +21,12 @@
         "partner": {
             "microsoft": "Microsoft Gold certificated Partner",
             "azure": "Windows Azure"
+        },
+        "search": {
+            "placeholder": "Search",
+            "title": "Search for products on our site",
+            "no_results_html": "Your search for \"{{ terms }}\" did not yield any results",
+            "results_for_html": "Your search for \"{{ terms }}\" revealed the following:"
         },
         "news_sign_up": {
             "title": "Signup for news",
