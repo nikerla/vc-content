@@ -72,6 +72,12 @@
         filter: alpha(opacity=50);
     }
 
+    .btn.__medium
+    {
+        height: 50px;
+        padding: 0 20px;
+    }
+
     .btn.__mini
     {
         height: 30px;
@@ -98,6 +104,11 @@
     {
         height: 33px;
     }
+
+    .btn.__medium::after
+    {
+        height: 53px;
+    }    
 
     .btn.__large::after
     {
