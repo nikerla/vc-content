@@ -22,8 +22,12 @@
                     <div class="extension-descr" itemprop="description">{{ product.metafields.properties.Description }}</div>
                     {% endif %}
                     <div class="extension-actions">
+                        {% if product.metafields.properties.ProjectLink%}
                         <a href="{{ product.metafields.properties.ProjectLink }}" class="button fill" target="_blank">Project</a>
+                        {% endif %}
+                        {% if product.metafields.properties.DownloadLink%}
                         <a href="{{ product.metafields.properties.DownloadLink }}" class="button fill" target="_blank">Download</a>
+                        {% endif %}
                     </div>
                 </div>
                 <div class="extension-links col __col-40">
