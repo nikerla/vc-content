@@ -17,14 +17,14 @@
                     <div class="reviews-links">
                         <a class="link __ucase" style="cursor:pointer;" ng-click="showWriteAReviewForm()">{{ 'apps.product.write_a_review' | t }}</a>
                     </div>
-                    {% if product.metafields.properties.Description %}
+                    {% if product.metafields.properties.Description.size > 0 %}
                     <div class="extension-descr" itemprop="description">{{ product.metafields.properties.Description }}</div>
                     {% endif %}
                     <div class="extension-actions">
-                        {% if product.metafields.properties.ProjectLink%}
+                        {% if product.metafields.properties.ProjectLink.size > 0%}
                         <a href="{{ product.metafields.properties.ProjectLink }}" class="button fill" target="_blank">Project</a>
                         {% endif %}
-                        {% if product.metafields.properties.DownloadLink%}
+                        {% if product.metafields.properties.DownloadLink.size > 0%}
                         <a href="{{ product.metafields.properties.DownloadLink }}" class="button fill" target="_blank">Download</a>
                         {% endif %}
                     </div>
@@ -73,7 +73,7 @@
         </div>
     </div>
     {% endif %}
-    {% if product.metafields.properties.Overview %}
+    {% if product.metafields.properties.Overview.size > 0 %}
     <div class="tabs">
         <ul class="menu __inline __tabs __responsive">
             <li class="menu-item __selected">{{ 'apps.product.overview' | t }}</li>
