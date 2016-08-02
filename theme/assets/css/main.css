@@ -5884,6 +5884,10 @@ img
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
+    ul.list.__socials
+    {
+        padding-left: 0px;
+    }
 
     .list.__socials:after
     {
