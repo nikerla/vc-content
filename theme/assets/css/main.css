@@ -307,7 +307,7 @@ form fieldset,
 .form-input.__search input,
 .form-input.__subscribe input
 {
-    padding-right: 80px;
+    padding-right: 70px;
 }
 
 .form-input textarea
@@ -1112,6 +1112,7 @@ textarea.__error
     position: relative;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+    width: 190px;
 }
 
     .head-search input
