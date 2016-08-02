@@ -22,3 +22,23 @@
     {% endfor %}
   </ul>
 {% endif %}
+
+{% comment %} ----- Social Widget ----- {% endcomment %}
+{% if settings.blog_social_visible != 'none' %}
+
+<div class="widget-wrapper">
+  {% if settings.blog_social_heading != blank %}
+  <div class="title">
+    {{settings.blog_social_heading}}
+  </div>
+  {% endif %}
+  
+  {% case settings.blog_social_visible %}
+  {% when 'twitter' %}
+  {% include 'twitter' %}
+
+  {% when 'facebook' %}
+  {% include 'facebook' %}
+  {% endcase %}
+</div>
+{% endif %}
