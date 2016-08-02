@@ -2,6 +2,7 @@
     "current": "Default",
     "presets": {
         "Default": {
+            "disqus_site": "virto-commerce",
             "blog_social_visible": "twitter",
             "blog_social_heading": "Latest Tweets",
             "twitterwidget_username": "virtocommerce",
@@ -10,6 +11,7 @@
             "twitterwidget_link_colour": "#ffffff",
             "twitterwidget_scheme": "light",
             "facebook_username": "https://www.facebook.com/virtocommerce"
+            
         }
     }
 }

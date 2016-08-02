@@ -17,6 +17,11 @@
             <div class="post-soc">
                 {% include 'share-post-menu' %}
             </div>
+            {% if settings.disqus_site.size > 0 %}
+            <div class="post-comments">
+                {% include 'disqus' %}
+            </div>
+            {% endif %}
         </div>
     </div>
     <div class="sidebar">
