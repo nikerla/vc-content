@@ -7,6 +7,8 @@
         {% if product.metafields.properties.Description %}
         <span class="list-descr">{{ product.metafields.properties.Description }}</span>
         {% endif %}
-        <span class="list-price __left">{% if product.price > 0 %}{{ product.price | money }}{% else %}{{ 'apps.general.free' | t }}{% endif %}</span>
+        <span class="list-price __left">
+            {% include 'product-pricing' %}
+        </span>
     </a>
 </li>

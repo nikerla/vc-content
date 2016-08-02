@@ -1,0 +1,9 @@
+﻿{% if product.price > 0 %}
+    {{ product.price | money }}
+{% else %}
+    {% if product.metafields.properties.Pricing.size > 0%}
+        {{ product.metafields.properties.Pricing }}
+    {% else %}
+        {{ 'apps.general.free' | t }}
+    {% endif %}
+{% endif %}
