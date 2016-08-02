@@ -262,7 +262,7 @@ form fieldset,
 
     .form-input.__search::after
     {
-        background: url(../images/icons/head.png) no-repeat scroll 0 0;
+        background: url(head.png) no-repeat scroll 0 0;
         content: '';
         height: 16px;
         left: 20px;
@@ -307,7 +307,7 @@ form fieldset,
 .form-input.__search input,
 .form-input.__subscribe input
 {
-    padding-right: 110px;
+    padding-right: 70px;
 }
 
 .form-input textarea
@@ -1041,6 +1041,16 @@ textarea.__error
     width: 150px;
 }
 
+.appstore-logo
+{
+    background: url(appstore-logo.png) no-repeat scroll 0 0;
+    font-size: 0;
+    height: 48px;
+    left: 0;
+    top: 25px;
+    width: 147px;
+}
+
 /* Phone */
 .head-phone
 {
@@ -1098,11 +1108,11 @@ textarea.__error
 /* Head Search */
 .head-search
 {
-    margin: 20px 0 0 10px;
+    margin: 15px 0 0 10px;
     position: relative;
-    width: 120px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+    width: 190px;
 }
 
     .head-search input
@@ -1115,17 +1125,11 @@ textarea.__error
         box-sizing: border-box;
     }
 
-    .head-search .btn
-    {
-        background: url(search.png) no-repeat scroll 0 0;
-        border: none;
-        cursor: pointer;
-        height: 14px;
-        position: absolute;
-        right: 7px;
-        top: 7px;
-        width: 14px;
-    }
+/* Body Search */
+.body-search
+{
+    max-width: 750px;
+}
 
 /* Mobile btn */
 .mobile-btn
@@ -6036,6 +6040,12 @@ table
         background-size: 150px 56px;
     }
 
+    .appstore-logo
+    {
+        background-image: url(appstore-logo.png);
+        background-size: 147px 48px;
+    }
+
     .head-phone
     {
         background-image: url(phonex2.png);
@@ -6044,7 +6054,7 @@ table
 
     .head-search .btn
     {
-        background-image: url(searchx2.png);
+        /*background-image: url(searchx2.png);*/
         background-size: 16px 16px;
     }
 

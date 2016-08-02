@@ -1,0 +1,6 @@
+<form action="{{ '/search' | absolute_url }}" method="GET">
+    <div class="form-input __search">
+        <input type="text" name="q" value="{{ search.terms | escape }}" placeholder="{{ 'general.search.placeholder' | t }}" autocomplete="off" class="__round" />
+        <button class="btn __mini __round __yellow __ucase">OK</button>
+    </div>
+</form>

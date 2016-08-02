@@ -1,0 +1,37 @@
+<div class="apps">
+    <div class="items __responsive">
+        <div class="title-w">
+            {% if search.performed %}
+                {% if search.results_count == 0 %}
+                    <h2 class="t">{{ 'general.search.no_results_html' | t: terms: search.terms }}</h2>
+                {% else %}
+                    <h2 class="t">{{ 'general.search.results_for_html' | t: terms: search.terms }}</h2>
+                {% endif %}
+            {% else %}
+                {% comment %}
+                    If search.performed is false, someone either accessed the page without the q parameter, or it was blank.
+                {% endcomment %}
+                <h2 class="t">{{ 'general.search.title' | t }}</h2>
+            {% endif %}
+            <div class="body-search">
+                {% include 'search-bar' %}
+            </div>
+        </div>
+        {% if search.results_count > 0 %}
+            {% paginate search.results by 15 %}
+                <div class="list __items __inline">
+                    <ul class="main">
+                        {% for product in search.results %}
+                            {% include 'grid-item' %}
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% if paginate.pages > 1 %}
+                    <div class="text-center">
+                        {% include 'pagination-custom' %}
+                    </div>
+                {% endif %}
+            {% endpaginate %}
+        {% endif %}
+    </div>
+</div>
