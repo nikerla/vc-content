@@ -2,10 +2,10 @@
     "current": "Default",
     "presets": {
         "Default": {
-            "google_site_verification_id": "SECRET",
-            "google_analytics_key": "SECRET",
-            "facebook_tracker_id": "SECRET",
-            "microsoft_app_insights_key": "SECRET"
+            "google_site_verification_id": "key",
+            "google_analytics_key": "UA-490257-44",
+            "facebook_tracker_id": "633370876772981",
+            "microsoft_app_insights_key": "5dd6f970-6c76-44c0-9501-0f8cf7e24865"
         }
     }
 }
