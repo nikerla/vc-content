@@ -5163,21 +5163,6 @@ form.fixed
     overflow: hidden;
 }
 
-.post-t
-{
-    font-size: 30px;
-}
-
-    .post-t a
-    {
-        color: #666;
-    }
-
-.post-cnt .text
-{
-    font-size: 14px;
-}
-
 .post-cnt .text-light
 {
     color: #787878;
