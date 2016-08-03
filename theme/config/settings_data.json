@@ -2,10 +2,16 @@
     "current": "Default",
     "presets": {
         "Default": {
-            "google_site_verification_id": "SECRET",
-            "google_analytics_key": "SECRET",
-            "facebook_tracker_id": "SECRET",
-            "microsoft_app_insights_key": "SECRET"
+            "disqus_site": "virto-commerce",
+            "blog_social_visible": "twitter",
+            "blog_social_heading": "Latest Tweets",
+            "twitterwidget_username": "virtocommerce",
+            "twitterwidget_id": "646234978192195584",
+            "twitterwidget_numtweets": "120",
+            "twitterwidget_link_colour": "#ffffff",
+            "twitterwidget_scheme": "light",
+            "facebook_username": "https://www.facebook.com/virtocommerce"
+            
         }
     }
 }

@@ -72,6 +72,12 @@
         filter: alpha(opacity=50);
     }
 
+    .btn.__medium
+    {
+        height: 50px;
+        padding: 0 20px;
+    }
+
     .btn.__mini
     {
         height: 30px;
@@ -98,6 +104,11 @@
     {
         height: 33px;
     }
+
+    .btn.__medium::after
+    {
+        height: 53px;
+    }    
 
     .btn.__large::after
     {
@@ -307,7 +318,7 @@ form fieldset,
 .form-input.__search input,
 .form-input.__subscribe input
 {
-    padding-right: 80px;
+    padding-right: 70px;
 }
 
 .form-input textarea
@@ -1112,6 +1123,7 @@ textarea.__error
     position: relative;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+    width: 190px;
 }
 
     .head-search input
@@ -5143,26 +5155,12 @@ form.fixed
 {
     margin: 0 0 30px;
 }
+    .post ul {padding-left: 40px}
 
 .post-img
 {
     max-height: 300px;
     overflow: hidden;
-}
-
-.post-t
-{
-    font-size: 30px;
-}
-
-    .post-t a
-    {
-        color: #666;
-    }
-
-.post-cnt .text
-{
-    font-size: 14px;
 }
 
 .post-cnt .text-light
@@ -5174,6 +5172,11 @@ form.fixed
 .tags-list .list-item
 {
     font-size: 12px;
+}
+
+ul.tags-list
+{
+    padding-left: 0px
 }
 
 .post-soc
@@ -5881,6 +5884,10 @@ img
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
+    ul.list.__socials
+    {
+        padding-left: 0px;
+    }
 
     .list.__socials:after
     {
