@@ -10,8 +10,10 @@
             "twitterwidget_numtweets": "120",
             "twitterwidget_link_colour": "#ffffff",
             "twitterwidget_scheme": "light",
-            "facebook_username": "https://www.facebook.com/virtocommerce"
-            
+            "facebook_username": "https://www.facebook.com/virtocommerce",
+            "freshsales_enable": false,
+            "freshsales_url": "//virtocommerce.freshsales.io",
+            "freshsales_token": "79179bb0c06b1985baf823d0c33d23d6"            
         }
     }
 }
