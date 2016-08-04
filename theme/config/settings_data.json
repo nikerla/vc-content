@@ -11,7 +11,7 @@
             "twitterwidget_link_colour": "#ffffff",
             "twitterwidget_scheme": "light",
             "facebook_username": "https://www.facebook.com/virtocommerce",
-            "freshsales_enable": false,
+            "freshsales_enable": true,
             "freshsales_url": "//virtocommerce.freshsales.io",
             "freshsales_token": "79179bb0c06b1985baf823d0c33d23d6"            
         }
