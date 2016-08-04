@@ -1,0 +1,4 @@
+<script> function createTempFunction(function_name) { (window.freshsales)[function_name]=function() { (window.freshsales).push([function_name].concat(Array.prototype.slice.call(arguments,0))) }; } (function(url, app_token) { window.assets_url='//d952cmcgwqsjf.cloudfront.net'; window.freshsales = window.freshsales || []; functions_list='init identify trackPageView trackEvent set'.split(' '); for(var i=0; i < functions_list.length; i++) { var function_name = functions_list[i]; createTempFunction(function_name); } var script_tag = document.createElement('script'); script_tag.async=1; script_tag.src= window.assets_url +'/assets/analytics.js'; var first_script_tag = document.getElementsByTagName('script')[0]; first_script_tag.parentNode.insertBefore(script_tag,first_script_tag); freshsales.init(url, app_token); })('{{settings.freshsales_url}}','{{settings.freshsales_token}}'); 
+
+freshsales.trackPageView('{{ canonical_url }}');
+</script>
