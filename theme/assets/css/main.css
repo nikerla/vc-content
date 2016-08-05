@@ -1521,7 +1521,7 @@ textarea.__error
 
         .apps .list.__items .list-link
         {
-            border: 1px solid #eee;
+            border: 1px solid #E0E0E0;
             display: block;
             height: 270px;
             position: relative;
