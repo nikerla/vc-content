@@ -1526,6 +1526,7 @@ textarea.__error
             height: 270px;
             position: relative;
             text-align: center;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
             
             -webkit-border-radius: 5px;
                     border-radius: 5px;
