@@ -1588,6 +1588,8 @@ textarea.__error
             font-size: 11px;
             line-height: 1.2;
             padding: 0 10px;
+            max-height: 68px;
+            overflow: hidden;
         }
 
         .apps .list.__items .list-rating
@@ -1597,18 +1599,15 @@ textarea.__error
 
         .apps .list.__items .list-price
         {
-            background: rgba(252, 176, 64, 0.85);
             bottom: -1px;
-            color: #fff;
             display: block;
             font-size: 14px;
-            font-weight: bold;
             left: -1px;
             padding: 5px 0;
             position: absolute;
             right: -1px;
             text-align: center;
-            text-transform: uppercase;
+            border-top: 1px solid #eee;
         }
 
     /* Info block */
