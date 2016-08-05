@@ -1532,6 +1532,10 @@ textarea.__error
                     border-radius: 5px;
         }
 
+        .apps .list.__items .list-link:hover, .apps .list.__items .list-link:focus {
+           box-shadow: 0 5px 30px rgba(0, 0, 0, 0.15)
+        }        
+
         .apps .list.__items .image-outer
         {
             border-bottom: 1px solid #eee;
@@ -1610,6 +1614,12 @@ textarea.__error
             text-align: center;
             border-top: 1px solid #eee;
         }
+        .apps .list.__items .list-price:hover, .apps .list.__items .list-price:focus {
+            background-color: #0078D7;
+            color: white;
+            outline: none;
+            border: none;
+        }        
 
     /* Info block */
     .apps .info-w
