@@ -32,7 +32,7 @@ tags :
 									<span class="title"><a href="/features/wordpress-woocommerce-migration">WordPress WooCommerce migration</a></span>
 									<span class="descr">Learn how to migrate your WooCommerce store to Virto Commerce.</span>
 								</li>
-								<li>
+								<li> 
 									<span class="title"><a href="/features/nopcommerce-migration">NopCommerce migration</a></span>
 									<span class="descr">Learn how to migrate your NopCommerce store to Virto Commerce.</span>
 								</li>
