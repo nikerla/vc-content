@@ -21,7 +21,7 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title">Javascript Shopping Cart Module</span>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart">Javascript Shopping Cart Module</a>/span>
 									<span class="descr">Integrate e-commerce functionality into any CMS/html site.</span>
 								</li>
 								<li>
@@ -47,6 +47,10 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/572">Recurring billing/subscription module</a></span>
+									<span class="descr">Add support for recurring billing and subscription management.</span>
+								</li>							
+								<li>
 									<span class="title">PunchOut Support</span>
 									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP, Unimarket, Oracle, PeopleSoft Punchout, Oracle Punchout, TBlox, Perfect Commerce, etc.</span>
 								</li>
@@ -57,10 +61,6 @@ tags :
 								<li>
 									<span class="title">Marketing automation modules</span>
 									<span class="descr">Integration with popular marketing platforms Silverpop, Marketo, SpotHub</span>
-								</li>
-								<li>
-									<span class="title">Google Commerce Analytics</span>
-									<span class="descr">Out of the box integration with Google Analytics Commerce API, track cart abandonments, product views and total sales by products all in real time.</span>
 								</li>
 							</ul>
 						</div>
@@ -75,6 +75,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title"><a href="/apps/extensions/google-ecommerce-analytics-module">Google Commerce Analytics</a></span>
+									<span class="descr">Out of the box integration with Google Analytics Commerce API, track cart abandonments, product views and total sales by products all in real time.</span>
+								</li>
 								<li>
 									<span class="title"><a href="/blogs/news/virtocommerce-2-11-release-notes" target="_blank">Platform modules Auto Updates</a> (June 2016)</span>
 									<span class="descr">Support for platform modules auto updates.</span>
