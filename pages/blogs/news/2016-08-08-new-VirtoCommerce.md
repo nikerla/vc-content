@@ -1,6 +1,6 @@
 ---
 permalink: blogs/news/New-VirtoCommerce
-published: '2016-04-27 06:43'
+date: '2016-08-08'
 tags:
   - Announcemnets
 title: 'New VirtoCommerce.com!'
