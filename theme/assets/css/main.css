@@ -4997,8 +4997,6 @@ form.fixed
 
 .features .list-item
 {
-    border-bottom: 1px solid #ccc;
-    cursor: pointer;
     padding: 5px;
     position: relative;
 }
