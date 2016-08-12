@@ -55,8 +55,8 @@
         ga('create', '{{ application_settings.GoogleAnalyticsKey }}', 'auto');
         ga('send', 'pageview');
     </script> 
-     {{ content_for_header }}
-     <base href="{{ '/' | absolute_url }}" />
+    {{ content_for_header }}
+    <base href="{{ '/' | absolute_url }}" />
     <link rel="canonical" href="{{ canonical_url }}" />
     <script>
         (function() {
@@ -91,7 +91,7 @@
 </head>
 <body ng-controller="mainController">
     <div class="google-like">
-        <div class="g-plusone" data-href="http://virtocommerce.com" data-size="tall"></div>
+        <div class="g-plusone" data-href="https://virtocommerce.com" data-size="tall"></div>
     </div>
     {% include 'apps-identifier' %}
     {% include 'form-become-a-developer' %}

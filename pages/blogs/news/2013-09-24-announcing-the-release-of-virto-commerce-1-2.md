@@ -21,7 +21,7 @@ These new capabilities include:
 
 In addition to these, we also fixed a lot of minor issues and bugs as well as improved SDK.
 
-All of these SDK enhancements are now available to start using immediately and you can download SDK from [Virto Commerce downloads page](http://virtocommerce.com/try).
+All of these SDK enhancements are now available to start using immediately and you can download SDK from [Virto Commerce downloads page](https://virtocommerce.com/try).
 
 Below are more details on new enhancements.
 

@@ -77,7 +77,7 @@ tags :
 			<br />
 			However, in addition to the other notice obligations, all copies of the Original Work and all derivative works and copies of derivative works of the Original Work&nbsp;in Executable and Source Code form distributed must, as a form of attribution of the original author, include on each user interface screen and on program start-up or login screen the "Virto Commerce" logo and the "powered by Virto Commerce" text, visible to all users. The dimensions of the "Virto Commerce" logo must be at least 100 x 47 pixels. When users click on the "Powered by Virto Commerce" logo or the "powered by Virto Commerce" text&nbsp;it must direct them to 
 			<a href="">
-				http://virtocommerce.com
+				https://virtocommerce.com
 			</a>
 			<br />
 		</p>

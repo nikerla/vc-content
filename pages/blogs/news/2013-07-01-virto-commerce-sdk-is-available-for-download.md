@@ -18,7 +18,7 @@ All you need is a machine running MS Windows 7|8 with MS SQL Server 2008|2012
 
 After installation you'll have a front-end, database with demo data and administration back-end.
 
-You can get both x86 and x64 versions of SDK here [http://virtocommerce.com/downloadSDK](http://virtocommerce.com/downloadSDK).
+You can get both x86 and x64 versions of SDK here [https://virtocommerce.com/downloadSDK](https://virtocommerce.com/downloadSDK).
 
 We highly appreciate your feedback and welcome any comments and suggestions you have on how we can continue to improve Virto Commerce.
 

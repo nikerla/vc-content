@@ -2,15 +2,15 @@
 title: Easily control your store
 description: Utilize our cutting edge administration console to control everything from inventory to product data from within any web enabled device
 date: 2014-01-30
-canonical: http://virtocommerce.com/ecommerce-marketing
+canonical: https://virtocommerce.com/ecommerce-marketing
 permalink: ecommerce-marketing
-ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
+ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Utilize our cutting edge administration console to control everything from inventory to product data from within any web enabled device
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Utilize our cutting edge administration console to control everything from inventory to product data from within any web enabled device
-twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - ecommerce-marketing

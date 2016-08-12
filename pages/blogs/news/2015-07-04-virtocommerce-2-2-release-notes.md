@@ -15,7 +15,7 @@ The 2.2 release is here and it brings many innovative features. The sprint was o
 * **Tax Calculations** - connected avalara avatax for realtime tax calculations, certification is pending
 * **Storefront checkout improvement** - integrated user authentication and better displaying of credit card choices
 * **New payment methods** - added Paypal Direct Payment gateway, added US/UK implementation for Klarna using new Klarna REST API
-* **<a href="http://virtocommerce.com/features/shopify-migration" target="_blank">Shopify Integration</a>** - import all your shopify themes, pages, products, images, collections and more right into the virto commerce store, learn more on how it works <a href="http://virtocommerce.com/features/shopify-migration" target="_blank">here</a>
+* **<a href="https://virtocommerce.com/features/shopify-migration" target="_blank">Shopify Integration</a>** - import all your shopify themes, pages, products, images, collections and more right into the virto commerce store, learn more on how it works <a href="https://virtocommerce.com/features/shopify-migration" target="_blank">here</a>
 * **Separate Solutions** - created different solutions for empty platform and e-commerce solution, allows to use empty platform for new application development
 * **Rebuild Index button** - added r*ebuild index* button to catalogs list
 * **Predefined settings** - added support for predefined (platform) settings in standard UI
@@ -32,9 +32,9 @@ We have many more features planned for the next few sprints including:
 * **Copy/Paste** - allow for copy/paste functionality to move products and categories in catalog
 * **Import/Export functionality** - platform wide import/export engine, with each module being able to define import/export interfaces
 * **Recurring Orders** - support for subscription based products
-* **<a href="http://virtocommerce.com/features/ecommerce-microsoft-dynamics-nav" target="_blank">Microsoft Dynamics NAV Integration</a>** - integration module for ERP system allowing synchronizing product, order and customer data
+* **<a href="https://virtocommerce.com/features/ecommerce-microsoft-dynamics-nav" target="_blank">Microsoft Dynamics NAV Integration</a>** - integration module for ERP system allowing synchronizing product, order and customer data
 * **ShipStation Integration** - provide module that allows to use popular service to ship items ordered through Virto Commerce
-* **<a href="http://virtocommerce.com/features/orchard-cms-ecommerce" target="_blank">Orchard CMS Ecommerce Module</a>** - integration with orchard CMS to allow displaying products, categories, shopping cart and checkout pages inside orchard
+* **<a href="https://virtocommerce.com/features/orchard-cms-ecommerce" target="_blank">Orchard CMS Ecommerce Module</a>** - integration with orchard CMS to allow displaying products, categories, shopping cart and checkout pages inside orchard
 
 #### Dashboard
 

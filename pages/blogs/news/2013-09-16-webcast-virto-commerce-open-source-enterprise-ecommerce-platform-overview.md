@@ -13,4 +13,4 @@ During this webcast you will learn what's wrong with current products in the mar
 
 There will be 4 webcasts conducted on the 9th and 10th of October
 
-You can get an invitation to these webcasts <a href="http://virtocommerce.com/webcast-virto-commerce-9-10-oct" target="_blank">here</a>
+You can get an invitation to these webcasts <a href="https://virtocommerce.com/webcast-virto-commerce-9-10-oct" target="_blank">here</a>

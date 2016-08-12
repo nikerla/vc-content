@@ -31,16 +31,16 @@ permalink: features/wordpress-woocommerce-migration
 						<span class="feauture-soc_name">Share this <br>feature:</span>
 						<ul class="list __inline __socials">
                             <li class="list-item">
-                                <a target="_blank" href="http://twitter.com/share?url=http://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
+                                <a target="_blank" href="http://twitter.com/share?url=https://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
                             </li>
                             <li class="list-item fb">
-                                <a target="_blank" href="//www.facebook.com/sharer.php?u=http://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
+                                <a target="_blank" href="//www.facebook.com/sharer.php?u=https://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
                             </li>
 							<li class="list-item plus">
-                                <a target="_blank" href="http://plus.google.com/share?url=http://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
+                                <a target="_blank" href="http://plus.google.com/share?url=https://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
 							</li>
 							<li class="list-item ln">
-								<a target="_blank" href="https://www.linkedin.com/shareArticle?url=http://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
+								<a target="_blank" href="https://www.linkedin.com/shareArticle?url=https://virtocommerce.com/features/wordpress-woocommerce-migration"></a>
 							</li>
 						</ul>
 					</div>

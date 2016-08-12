@@ -2,15 +2,15 @@
 title: Full control over your website’s design
 description: Utilize powerful themes engines to create unique store designs.
 date: 2014-01-30
-canonical: http://virtocommerce.com/ecommerce-website
+canonical: https://virtocommerce.com/ecommerce-website
 permalink: ecommerce-website
-ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
+ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Utilize powerful themes engines to create unique store designs
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Utilize powerful themes engines to create unique store designs
-twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - ecommerce-hosting

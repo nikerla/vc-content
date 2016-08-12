@@ -2,15 +2,15 @@
 title: Abandoned Cart - Definition, What is it and what can be done to improve cart abandonment rate?| Glossary Virto Commerce.
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
-canonical: http://virtocommerce.com/glossary/abandoned-cart
+canonical: https://virtocommerce.com/glossary/abandoned-cart
 permalink: glossary/abandoned-cart
-ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
+ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Abandoned Cart - Definition, What is it and what can be done to improve cart abandonment rate?| Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - glossary

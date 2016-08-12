@@ -30,20 +30,20 @@ permalink: features/shopify-migration
 						<p>Status: Available</p>
 						<p>Versions: 2.4</p>
 					</div>
-                    <a class="button white large" href="http://virtocommerce.com/apps/import-from-shopify-to-virtocommerce-platform" target="_blank">Download!</a>
+                    <a class="button white large" href="https://virtocommerce.com/apps/import-from-shopify-to-virtocommerce-platform" target="_blank">Download!</a>
 				</div>
 				<div class="column">
 					<div class="feauture-soc">
 						<span class="feauture-soc_name">Share this <br>feature:</span>
 						<ul class="list __inline __socials">
                             <li class="list-item">
-                                <a target="_blank" href="http://twitter.com/share?url=http://virtocommerce.com/features/shopify-migration"></a>
+                                <a target="_blank" href="http://twitter.com/share?url=https://virtocommerce.com/features/shopify-migration"></a>
                             </li>
                             <li class="list-item fb">
-                                <a target="_blank" href="//www.facebook.com/sharer.php?u=http://virtocommerce.com/features/shopify-migration"></a>
+                                <a target="_blank" href="//www.facebook.com/sharer.php?u=https://virtocommerce.com/features/shopify-migration"></a>
                             </li>
 							<li class="list-item plus">
-                                <a target="_blank" href="http://plus.google.com/share?url=http://virtocommerce.com/features/shopify-migration"></a>
+                                <a target="_blank" href="http://plus.google.com/share?url=https://virtocommerce.com/features/shopify-migration"></a>
 							</li>
 							<li class="list-item ln">
 								<a target="_blank" href="http://www.linkedin.com/company/virtoway/virto-commerce-788516/product?trk=biz_product"></a>

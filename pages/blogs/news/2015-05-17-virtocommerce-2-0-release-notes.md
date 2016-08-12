@@ -8,7 +8,7 @@ title: "Virto Commerce 2.0 Release Notes"
 ---
 This release focus was on performance and technology updates as well as some smaller enhancements.
 
-You can see the latest demo as well as download source code at: <a href="http://virtocommerce.com/try-now" target="_blank">http://virtocommerce.com/try-now</a>.
+You can see the latest demo as well as download source code at: <a href="https://virtocommerce.com/try-now" target="_blank">https://virtocommerce.com/try-now</a>.
 
 Here is the list of new features:
 
