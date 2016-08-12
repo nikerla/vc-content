@@ -4999,14 +4999,13 @@ form.fixed
 {
     border-bottom: 1px solid #ccc;
     cursor: pointer;
-    padding: 20px 50px 20px 0;
+    padding: 5px;
     position: relative;
 }
 
     .features .list-item::after
     {
         border-radius: 50%;
-        content: '+';
         font-family: caption;
         font-size: 36px;
         height: 30px;
@@ -5032,10 +5031,12 @@ form.fixed
         background: #eee;
     }
 
+/*
     .features .list-item:first-child
     {
         border-top: 1px solid #ccc;
     }
+*/
 
 .features ol
 {
