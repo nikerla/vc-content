@@ -14,6 +14,31 @@ tags :
 		<p class="text">These are hand picked companies with expertise reviewed by us. They all have experiences delivering successful e-commerce solutions for medium and large businesses.</p>
 		<ul class="list">
 			<li class="list-item">
+				<a href="http://jbecker.com/" class="list-pic" rel="nofollow">
+					<img alt="" src="../assets/images/vendors/jbs-logo.jpg">
+				</a>
+				<div class="list-info">
+					<a href="http://jbecker.com/" class="link" rel="nofollow">JBS</a>
+					<p class="country">United States</p>
+					<p class="lang">Languages Spoken: English</p>
+					<p class="text">JBS is a custom application development and ecommerce solutions provider that has been in business since 1999. We are a long term Microsoft Gold Certified Partner with a highly experienced team of senior level Solutions Architects, Developers, Designers and Project Managers. We have a long track record of delivering custom solutions that work. Our clients range from companies on the Retail 100 list to mid-sized organizations to early round startups. JBS is USA based organization with project coverage capabilities on a national basis.</p>
+					<a class="button" href="/contact-partner?pid=jbs" rel="nofollow">Contact partner</a>
+				</div>
+			</li>
+			<li class="list-item">
+				<a href="http://niteco.com/" class="list-pic" rel="nofollow">
+					<img alt="" src="../assets/images/vendors/niteco-logo.png">
+				</a>
+				<div class="list-info">
+					<a href="http://niteco.com/" class="link" rel="nofollow">Niteco</a>
+					<p class="country">United States, Sweden, Vietnam</p>
+					<p class="lang">Languages Spoken: English, Swedish</p>
+					<p class="text">Bringing diversity and competency into everything we do, we are a software development company with a thirst for excellence.</p>
+					<a class="button" href="/contact-partner?pid=niteco" rel="nofollow">Contact partner</a>
+				</div>
+			</li>
+			<!--			
+			<li class="list-item">
 				<a href="http://projectthunder.com/" class="list-pic" rel="nofollow">
 					<img alt="" src="../assets/images/partners/projectthunder.png">
 				</a>
@@ -25,6 +50,7 @@ tags :
 					<a class="button" href="/contact-partner?pid=projectthunder" rel="nofollow">Contact partner</a>
 				</div>
 			</li>
+			-->
 			<li class="list-item">
 				<a href="http://icubeonline.com/" class="list-pic" rel="nofollow">
 					<img alt="" src="../assets/images/partners/icube.jpg">
@@ -37,6 +63,7 @@ tags :
 					<a class="button" href="/contact-partner?pid=icube" rel="nofollow">Contact partner</a>
 				</div>
 			</li>
+			<!--
 			<li class="list-item">
 				<a href="http://www.aydus.com/" class="list-pic" rel="nofollow">
 					<img alt="" src="../assets/images/partners/aydus-consulting.jpg">
@@ -73,7 +100,8 @@ tags :
 					<p class="text">Olympic is not only about the best tech though, we are also committed to co-creation: delivering software that supports your uniqueness and aligns with your strategic objectives. There's a wealth of technology out there and we help you take advantage of it to become digital and connected and extend your business reach. </p>
 					<a class="button" href="/contact-partner?pid=olympicsoftware" rel="nofollow">Contact partner</a>
 				</div>
-			</li>
+			</li
+			-->
 		</ul>
 	</div>
 	{% include 'technologies' %}
