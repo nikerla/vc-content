@@ -3,6 +3,7 @@ title: Enterprise .NET open-source ecommerce cloud platform. Open source lisense
 description: Enterprise .NET open-source ecommerce cloud platform. Open source lisense
 date: 2014-01-30
 permalink: open-source-license
+aliases: opensourcelicense
 tags : 
 - open-source-license
 - license
