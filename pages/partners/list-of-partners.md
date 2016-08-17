@@ -33,7 +33,8 @@ tags :
 					<a href="http://niteco.com/" class="link" rel="nofollow">Niteco</a>
 					<p class="country">United States, Sweden, Vietnam</p>
 					<p class="lang">Languages Spoken: English, Swedish</p>
-					<p class="text">Bringing diversity and competency into everything we do, we are a software development company with a thirst for excellence.</p>
+					<p class="text">Niteco is a fast-growing software development company with offices in the USA, Sweden and Vietnam.<br><br>
+						We offer an extensive range of IT outsourcing services, such as software development, testing, hosting, support, and technical staffing, using the best web technologies at a reasonable cost.</p>
 					<a class="button" href="/contact-partner?pid=niteco" rel="nofollow">Contact partner</a>
 				</div>
 			</li>
