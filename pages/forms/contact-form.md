@@ -6,6 +6,7 @@ permalink: contact-us
 aliases: 
 - pricing
 - support
+- understandingsupport
 tags : 
 - commerce
 ---

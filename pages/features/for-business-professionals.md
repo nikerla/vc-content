@@ -3,6 +3,7 @@ title: Agile ecommerce platform for b2c and b2b - Virto Commerce
 description: Agile ecommerce platform for b2c and b2b
 date: 2014-01-30
 permalink: features/for-business-professionals
+aliases: product
 tags : 
 - for-business-professionals
 - business
