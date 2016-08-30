@@ -3,4 +3,13 @@
     <sitemap>
         <loc>https://virtocommerce.com/main_sitemap.xml</loc>
     </sitemap>
+   <sitemap>
+        <loc>https://virtocommerce.com/apps_partner_sitemap.xml</loc>
+    </sitemap>
+   <sitemap>
+        <loc>https://virtocommerce.com/apps_modules_sitemap.xml</loc>
+    </sitemap>
+    <sitemap>
+        <loc>https://virtocommerce.com/apps_categories_sitemap.xml</loc>
+    </sitemap>
 </sitemapindex>

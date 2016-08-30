@@ -1,0 +1,207 @@
+html,
+body
+{
+	height: 100%;
+}
+
+body
+{
+	background: #eef5f7;
+    color: #333;
+    font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    line-height: 1.4;
+}
+
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+h2
+{
+	font-size: 32px;
+}
+
+h3
+{
+	font-size: 24px;
+}
+
+h2,
+h3
+{
+	margin: 20px 0 10px;
+}
+
+a
+{
+	color: #43b0e6;
+}
+
+a:hover
+{
+	color: #52a2ca;
+}
+
+ul,
+ol
+{
+	list-style: none;
+	margin: 10px 0 20px;
+}
+
+ul li,
+ol li
+{
+	color: #666;
+	font-size: 14px;
+	padding: 0 0 0 15px;
+	position: relative;
+}
+
+ul li::before
+{
+	background: #666;
+	border-radius: 50%;
+	content: ' ';
+	height: 5px;
+	left: 0;
+	position: absolute;
+	top: 8px;
+	width: 5px;
+}
+
+ul ul
+{
+	margin: 0;
+}
+
+ol
+{
+	list-style: inside decimal;
+}
+
+ol li
+{
+	padding: 0;
+}
+
+img
+{
+	display: block;
+	margin: 20px 0;
+	max-width: 100%;
+	width: 640px;
+}
+
+code
+{
+	background: #eee;
+	border: 1px solid #e2e2e2;
+	display: block;
+	margin: 20px 0;
+	padding: 20px 10px;
+	text-align: left;
+}
+
+p
+{
+	margin: 20px 0;
+}
+
+.note
+{
+	background: #f6f6f6;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	font-size: 15px;
+	margin: 20px 0;
+	padding: 10px 10px 10px 40px;
+	position: relative;
+}
+
+.note::after
+{
+	border: 1px solid #ccc;
+    border-radius: 50%;
+    box-sizing: border-box;
+    content: "i";
+    font-family: Lucida Console;
+    height: 20px;
+    left: 10px;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    width: 20px;
+}
+
+#layout
+{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	min-height: 100%;
+}
+
+.nav
+{
+	background: #f0f0f0;
+	min-width: 300px;
+	width: 300px;
+}
+
+	.nav .menu
+	{
+		padding: 20px 15px;
+	}
+
+	.nav .menu-item
+	{
+		margin: 4px 0 10px;
+		padding: 0;
+	}
+
+	.nav .menu-item::before
+	{
+		display: none;
+	}
+
+	.nav .menu-link
+	{
+		font-size: 12px;
+	}
+
+	.menu.__sub
+	{
+		margin: 0;
+		padding: 0 15px;
+	}
+
+	.menu.__sub .menu-item
+	{
+		margin: 0;
+	}
+
+.cnt
+{
+	background: #fff;
+	border-left: 5px solid rgba(0,0,0,.15);
+	flex-grow: 1;
+	padding: 0 20px;
+}
+
+@media (max-width: 767px) {
+	#layout
+	{
+		flex-direction: column;
+	}
+
+	.nav
+	{
+		min-width: 100%;
+	}
+}
