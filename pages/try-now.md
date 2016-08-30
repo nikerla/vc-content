@@ -3,6 +3,7 @@ title: Virto commerce - Try now .NET open-source ecommerce platform
 description: Virto commerce - Try now .NET open-source ecommerce platform
 date: 2014-01-30
 permalink: try-now
+aliases: try
 tags : 
 - thank-you
 - commerce
