@@ -21,7 +21,7 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart">Javascript Shopping Cart Module</a></span>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-cart">Javascript Shopping Cart Module</a></span>
 									<span class="descr">Integrate e-commerce functionality into any CMS/html site.</span>
 								</li>
 								<li>
