@@ -2,7 +2,8 @@
 title: Virto commerce - Enterprise ecommerce platform
 description: VirtoCommerce offers an enterprise ecommerce platform designed to expand sales with simple and exciting ecommerce solutions.
 permalink: our-offers/enterprise-edition
-date: 2014-01-30
+aliases: enterprise-edition
+date: 2016-09-07
 tags : 
 - enterprise
 - commerce
