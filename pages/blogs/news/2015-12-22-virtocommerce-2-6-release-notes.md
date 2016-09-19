@@ -9,7 +9,7 @@ title: "VirtoCommerce 2.6 Release Notes"
 ---
 We are excited to announce the 2.6 release of Virto Commerce. The primary focus of this release was the new Storefront application rewritten from scratch. Commerce Manager got some cool features as well: asset management and more functional lists to name some. The most significant features are outlined below.
 
-#### New Storefront
+# New Storefront
 
 The Storefront application was redesigned and rewritten from scratch. Main points to note:
 
@@ -20,17 +20,17 @@ The Storefront application was redesigned and rewritten from scratch. Main point
 * Liquid templating language and full <a href="https://themes.shopify.com/">Shopify themes</a> support
 * Razor View Engine support
 
-#### Commerce Manager localization
+# Commerce Manager localization
 
 Commerce Platform and all the Commerce modules were fully localized. All the translation resources are public and available in a dedicated git repository. Check the <a href="http://docs.virtocommerce.com/x/UYAKAQ">localization guide</a> for more information on managing the translations and localizing Commerce Manager to new languages. In case of your own module, study the <a href="http://docs.virtocommerce.com/x/YoAKAQ">guide on localization implementation</a>.
 
-![](../../assets/images/blog/2-6_localize.png)
+![](assets/images/blog/2-6_localize.png)
 
 Excerpt of the Virto Commerce localization data
 
 User can change his UI language from user profile (Configuration -&gt; USER PROFILE) and the changes are applied immediately. Note that only English language is available by default.
 
-#### More functional lists
+# More functional lists
 
 The lists in Commerce Manager now are much more functional as we’ve adapted <a href="http://ui-grid.info/">ui-grid</a> component for them. The aboriginal static html tables were replaced with a highly customizable lists. Some of the new cool features are:
 
@@ -43,29 +43,29 @@ The lists in Commerce Manager now are much more functional as we’ve adapted <a
 
 Furthermore, all your customizations are automatically and seamlessly saved in the browser (using <a href="https://en.wikipedia.org/wiki/Web_storage">Web Storage</a>).
 
-![](../../assets/images/blog/2-6_1uigrid.png)
+![](assets/images/blog/2-6_1uigrid.png)
 
 Assets list in Commerce Manager with list element selection and available actions column, context menu and pagination functionality.
 
-#### Asset management
+# Asset management
 
 Asset management functionality added as a full-fledged module in UI. Create folders and manage assets comfortably - directly in Commerce Manager.
 
-![](../../assets/images/blog/2-6_2assets.png)
+![](assets/images/blog/2-6_2assets.png)
 
 Asset list and new file upload dialog.
 
-#### View item images in a gallery
+# View item images in a gallery
 
 Now you can view images in more detail after they were added to the item. Just click “Gallery” in the toolbar while managing the images:
 
-![](../../assets/images/blog/2-6_3gallery.png)
+![](assets/images/blog/2-6_3gallery.png)
 
-#### Catalog database structure optimization
+# Catalog database structure optimization
 
 The underlying (database) data structure was optimized for Catalog module. This change had no functional changes in UI, but the overall performance was improved (especially when dealing with large amounts of data).
 
-#### New payment gateways
+# New payment gateways
 
 Support for 2 more — CyberSource and DIBS Account — payment gateways was added.
 
@@ -75,10 +75,10 @@ DIBS Account. Start accepting card and invoice payments with only one agreement 
 
 We have made it easy for you to accept the most popular payment methods in the Nordics: VISA, MasterCard and DIBS Invoice payments.
 
-#### Integrate using Azure Logic Apps
+# Integrate using Azure Logic Apps
 
 Create new integrations with VirtoCommerce Azure API App in Microsoft Azure. Check our recent <a href="integrating-virtocommerce-with-erp-and-other-systems-using-azure-api-app">article for more details</a>.
 
-#### Integration with Amazon Marketplace
+# Integration with Amazon Marketplace
 
 Facilitate and automate the stages of your business process for selling on Amazon.com using our new Amazon Merchant module. Our module relies on <a href="http://www.amazon.com/gp/help/customer/display.html?nodeId=201269090">Amazon Marketplace Web Service</a> and it’s currently available to Professional Selling Plan possessors only.

@@ -15,11 +15,11 @@ tags:
 category: Release
 title: 'VirtoCommerce 2.10 Release Notes'
 ---
-#### Integration modules moved to separate repository
+# Integration modules moved to separate repository
 
 All integration modules were moved to the new [vc-modules repository](https://github.com/VirtoCommerce/vc-modules). Now the vc-community repository contains only the platform and eCommerce modules.
 
-#### New members extension point. (API, Entity framework and UI extension from custom module)
+# New members extension point. (API, Entity framework and UI extension from custom module)
 
 The new powerful platform extension point allows you to extend existing member types from the external module without changing the platform code. Possible extension types:
 
@@ -34,15 +34,15 @@ The article below describes in detail how to work with the members extension poi
 
 How to register new member types in your custom module
 
-![](../../assets/images/blog/untitled_20.png)
+![](assets/images/blog/untitled_20.png)
 
 How custom member types appear in management UI
 
-![](../../assets/images/blog/1.png)
+![](assets/images/blog/1.png)
 
-#### Web Farms support
+# Web Farms support
 
-##### Redis cache
+## Redis cache
 
 Now storefront has two cache managers: `ILocalCacheManager` and `IDistributedCacheManager`.
 
@@ -58,11 +58,11 @@ Where the endpoint is the IP address or domain name of the Redis server.
 
 If Redis cache is disabled, then `IDistributedCacheManager` works like a serializing local cache.
 
-##### Azure blob theme storage
+## Azure blob theme storage
 
 Running multiple storefronts instances on web farms requires shared storage for CMS themes and static content resources instead of a local file system when a running a single storefront instance. We decide to use this for Azure blob storage service.
 
-![](../../assets/images/blog/untitled_21.png)
+![](assets/images/blog/untitled_21.png)
 
 To switch to azure blob storage for CMS content resources, the following steps are required:
 
@@ -78,35 +78,35 @@ To switch to azure blob storage for CMS content resources, the following steps a
 `<add name="CmsContentConnectionString" connectionString="provider=AzureBlobStorage;rootPath=cms-content;DefaultEndpointsProtocol=https;AccountName=yourAccount;AccountKey=yourKey" />`
 </span>
 
-#### SEO conflicts detection and resolution
+# SEO conflicts detection and resolution
 
 SEO management was redesigned and an intelligent conflicts resolution feature was added.
 
 UI prevents SEO conflicts at concrete product (or category) within the concrete store level.
 
-![](../../assets/images/blog/untitled_22.png)
+![](assets/images/blog/untitled_22.png)
 
 Conflicting SEO detection is executed every time when you open a store in Manager UI. In case same duplicating SEOs are found, the red SEO widget comes into notice:
 
-![](../../assets/images/blog/untitled_23.png)
+![](assets/images/blog/untitled_23.png)
 
 SEOs list now has an informer describing the problem. Click "Resolve conflicts" and fix the duplicating SEOs quickly by updating semantic URL(s):
 
-![](../../assets/images/blog/untitled_24.png)
+![](assets/images/blog/untitled_24.png)
 
 In this article you can read more about SEO url routing on storefront works [http://docs.virtocommerce.com/display/vc2devguide/Storefront+SEO+routing](http://docs.virtocommerce.com/display/vc2devguide/Storefront+SEO+routing).
 
-#### CMS UI and API redesign
+# CMS UI and API redesign
 
 CMS module was rewritten nearly from scratch. Now themes, pages and blogs browsing has a unified UI which is very similar to Assets management.
 
-![](../../assets/images/blog/untitled_25.png)
+![](assets/images/blog/untitled_25.png)
 
-#### Simple images uploading for blog and static pages
+# Simple images uploading for blog and static pages
 
 Added ability to upload and insert images within different modes (markdown / HTML) via drag and drop, copy-paste and standard file open dialog.
 
-#### Configurable SEO links in storefront
+# Configurable SEO links in storefront
 
 It is possible to define how links for products and categories are built in storefront for each store.
 
@@ -135,7 +135,7 @@ There is a new setting, **SEO Links**, with one of three predefined values:
 
 The right-to-left (RTL) writing system is now supported in Manager:
 
-![](../../assets/images/blog/untitled_26.png)
+![](assets/images/blog/untitled_26.png)
 
 Even if you haven't translated the localization scripts to RTL language yet, the Manager UI switching to RTL can be done right away:
 
@@ -143,19 +143,19 @@ Even if you haven't translated the localization scripts to RTL language yet, the
 * Set Commerce Manager language in Configuration -> USER PROFILE to RTL language.
 * Refresh the browser page.
 
-#### Applying tier prices while changing the line item quantity in shopping cart
+# Applying tier prices while changing the line item quantity in shopping cart
 
 If product has several prices then line item price will change depending on line item quantity (tier prices).
 
 Price for quantity 1 is $249.95 (without any discounts):
 
-![](../../assets/images/blog/fig1.png)
+![](assets/images/blog/fig1.png)
 
 Price for quantity 3 or greater is $240.00 (without any discounts):
 
-![](../../assets/images/blog/fig2.png)
+![](assets/images/blog/fig2.png)
 
-#### Other improvements
+# Other improvements
 
 * Add more advanced support for related products in storefront
 * Possibility of individual configuration for order and RFQ tracking numbers in each store
@@ -163,9 +163,9 @@ Price for quantity 3 or greater is $240.00 (without any discounts):
 * Major fixes with cart and order totals calculation
 * Simplifying storefront routing
 
-#### Platform API changes
+# Platform API changes
 
-##### New methods
+## New methods
 
 **CMS Content module**
 
@@ -183,6 +183,6 @@ Price for quantity 3 or greater is $240.00 (without any discounts):
 * PUT **/api/seoinfos/batchupdate** - Batch create or update seo infos
 * GET **/api/seoinfos/duplicates** - Get seo dupllicates for store
 
-##### Removed methods
+## Removed methods
 
 * All old  cms content module methods: **/api/cms instead**, **/api/cms/menu**

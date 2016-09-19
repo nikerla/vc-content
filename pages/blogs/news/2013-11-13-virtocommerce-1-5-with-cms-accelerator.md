@@ -15,15 +15,15 @@ It includes the following new features and fixes:
 * SDK Installation - fixes to how install handles various scenarios
 * Status Indicator Updates - minor updates to various statuses
 
-#### What's next?
+# What's next?
 
 For the next sprint we are working on many exciting features including moving our development to Github from internal TFS, to allow more community involvement, developing comprehensive tutorial on launching a new store and many other.
 
-#### Virto Commerce CMS Accelerator – Kooboo
+# Virto Commerce CMS Accelerator – Kooboo
 
 For the past 6 months we have been working with Kooboo team to create an integrated product that uses Kooboo for the frontend management and Virto Commerce for commerce stuff (catalog management, pricing, orders etc). We went through several internal implementations and couple POCs. As a result we created an integration that is in our opinion offers the most value to both end users and developers.
 
-![](../../assets/images/blog/tmp1392.png)
+![](assets/images/blog/tmp1392.png)
 
 Some highlights include:
 
@@ -36,41 +36,41 @@ We also added the source code of that product into Github at [https://github.com
 
 Here are some more specific features that you might find interesting after digging dipper into implementation:
 
-#### Kooboo site now represents one store in virto commerce
+# Kooboo site now represents one store in virto commerce
 
 Site setting custom field is added for this purpose called VCStoreId.
 
-![](../../assets/images/blog/clip_image002_.png)
+![](assets/images/blog/clip_image002_.png)
 
-#### External registration confirmation
+# External registration confirmation
 
 After user externally registers using kooboo, she or he is redirected back to custom confirmation page which after pressing confirm button will create account record in VC database. Currently only email address is shown in read-only mode (it cannot be changed as it is used as userId for kooboo membership)
 
-![](../../assets/images/blog/clip_image004.png)
+![](assets/images/blog/clip_image004.png)
 
-#### Account dashboard and other pages
+# Account dashboard and other pages
 
 All account pages were moved to kooboo views. User can change password, edit profile. Account left menu is dynamically created from specific kooboo pages.
 
-![](../../assets/images/blog/clip_image006.png)
+![](assets/images/blog/clip_image006.png)
 
 User can edit his First and Last names, email address, age, culture and time zone. The profile is saved both in kooboo profile settings and in Virto Commerce Contact details table.
 
-![](../../assets/images/blog/clip_image008.png)
+![](assets/images/blog/clip_image008.png)
 
 Change password is only allowed if user is registered locally (not through external login service). It is standard kooboo plugin without any changes.
 
-![](../../assets/images/blog/clip_image010.png)
+![](assets/images/blog/clip_image010.png)
 
-#### Announcement Section
+# Announcement Section
 
 Virto Commerce announcements section added to Commerce Manager Dashboard.
 
-![](../../assets/images/blog/clip_image002__.jpg)
+![](assets/images/blog/clip_image002__.jpg)
 
 You'll find it on the very right side in the dashboard. It contains the latest news and detailed information is displayed in the browser window.
 
-#### SDK Project Configurator Updates
+# SDK Project Configurator Updates
 
 * Validation for New project name was improved to prevent names that will generate error when installing
 * Project is allowed to install to existing DB if it doesn’t contain Virto Commerce tables already
@@ -78,16 +78,16 @@ You'll find it on the very right side in the dashboard. It contains the latest n
 * Project URL is passed to “Commerce Manager” application login dialog when it’s activated from “Project Manager”
 * Design improvements to make sure when wizard is running multiple times old information is not displayed  Many other small fixes
 
-#### SDK Installation
+# SDK Installation
 
 The following issues were fixed with installation:
 
 * Install button is not available if no of the install options selected
 
-![](../../assets/images/blog/base643ac26e4a9c7f683c.png)
+![](assets/images/blog/base643ac26e4a9c7f683c.png)
 
 * Virto Commerce SDK not installed if it is not selected in the first step
 * If Virto Commerce SDK not selected to be installed, the option to start won’t appear in the last screen
 * If installation is cancelled or failed there is an link to the installation troubleshooting page and links to the installation log files.
 
-![](../../assets/images/blog/base64687d6d485df067ae.png)
+![](assets/images/blog/base64687d6d485df067ae.png)

@@ -13,15 +13,15 @@ In this release we finally implemented long awaited features we always wanted to
 
 For more details on these and other features read further.
 
-#### Automatic REST API online documentation Swashbuckle module
+# Automatic REST API online documentation Swashbuckle module
 
 The current module is based on a <a href="https://github.com/domaindrivendev/Swashbuckle">Swashbuckle</a> solution used by ApiExplorer and Swagger/swagger-ui and provides a rich discovery, documentation and playground experience to API consumers.
 
 The module contains an embedded version of <a href="https://github.com/swagger-api/swagger-ui">swagger-ui</a> that will automatically start up once the Swashbuckle module is installed. This means you can compliment your API with a slick discovery UI to assist consumers with their integration efforts. Best of all, it requires minimal coding and maintenance, allowing you to focus on building an awesome API!
 
-![](../../assets/images/blog/2-4-pic.png)
+![](assets/images/blog/2-4-pic.png)
 
-#### Online sample data discovery based on platform export &amp; import functionality
+# Online sample data discovery based on platform export &amp; import functionality
 
 Replace old SQL scripts based sample data initialization to platform export &amp; import functionality, this allows you to initialize new platform installations with sample data as you wish.
 
@@ -33,10 +33,10 @@ Now you can quickly setup your system using a predefined template.
 * All sample data contains binary content (images, themes etc) and you can use it on your resources.
 * Built in UI sample data selection wizard and initialization progress with errors log
 
-![](../../assets/images/blog/sample-data-wizard.png)
+![](assets/images/blog/sample-data-wizard.png)
 
-![](../../assets/images/blog/2-4-pic2.png)
+![](assets/images/blog/2-4-pic2.png)
 
-#### New article for developers: “Blades and navigation”
+# New article for developers: “Blades and navigation”
 
 We have added a new article for developers describing how to deal with VirtoCommerce platform panels (“blades”). Check it out at <a href="http://docs.virtocommerce.com/x/NQLr">VC 2.x Developer Guide: Blades and navigation</a>.

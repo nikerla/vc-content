@@ -19,19 +19,19 @@ layout: blog-layout
 ---
 The main focus of this release was the development process change and related source code redesign.
 
-![](../../assets/images/blog/without-source-code-development-process-data-flow-1.png "Developing a custom solution. Data Flow Diagram")
+![](assets/images/blog/without-source-code-development-process-data-flow-1.png "Developing a custom solution. Data Flow Diagram")
 
-## Modules management
+# Modules management
 
 Many changes were made to modules management UI:
 
-![](../../assets/images/blog/modules.png)
+![](assets/images/blog/modules.png)
 
 The main modules data source is the (online) module registry. All module versions will be stored there since the 2.11 release. Now you can install or update a VC module instantly after its release and add it to the registry.
 
 Check for more info on [Modules management](http://docs.virtocommerce.com/x/4wDr) tutorial.
 
-## Source code repository restructure
+# Source code repository restructure
 
 The repository structure has changed dramatically. The [vc-platform](https://github.com/VirtoCommerce/vc-platform) repository on GitHub was split into multiple repositories having clear and concrete purposes:
 
@@ -39,15 +39,15 @@ The repository structure has changed dramatically. The [vc-platform](https://git
 * Storefront website now resides on its own [vc-storefront](https://github.com/VirtoCommerce/vc-storefront) repository.
 * Every logical module was isolated from the Platform (and other modules) to its own repository (vc-module-catalog, vc-module-store, vc-module-cart to name a few).
 
-![](../../assets/images/blog/vc-repository-split.png "vc-community repository structure change")
+![](assets/images/blog/vc-repository-split.png "vc-community repository structure change")
 
-## Future releases and versioning
+# Future releases and versioning
 
 2.11 is the last version to release VC Platform, Storefront and Commerce modules all at once and while keeping the identical version number. We'll be delivering "feature based" releases more often so deployers will receive changes and features more quickly.
 
 The version numbers of VC parts should diverge over time.
 
-## Documentation updates
+# Documentation updates
 
 Some new articles appeared on our documentation site covering the long awaited topics for developers:
 

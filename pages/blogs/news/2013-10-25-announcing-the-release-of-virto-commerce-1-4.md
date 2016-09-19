@@ -21,7 +21,7 @@ Today we release version 1.4.591 of Virto Commerce. This is a minor release and 
 
 During the current spring we also introduced new support system and support forums available at [http://help.virtocommerce.com](http://help.virtocommerce.com).
 
-#### What's Next?
+# What's Next?
 
 * CMS Integrated Sample Site Beta Release - we've integrated our e-Commerce package with Kooboo CMS and we'll be releasing public beta in the next few weeks, stay tuned!
 * New Responsive mobile design for sample store
@@ -29,7 +29,7 @@ During the current spring we also introduced new support system and support foru
 * More improvements to SDK Installer to make it easier to setup VC
 * Public Source Code repository either on codeplex or github
 
-#### Progress indicator
+# Progress indicator
 
 A general purpose progress indicator implemented. All long running processes should report their statuses to this progress indicator. Some features:
 
@@ -41,16 +41,16 @@ A general purpose progress indicator implemented. All long running processes sho
 
 Status reporting for Asset upload, Catalog and Category deletion has been added at the moment.
 
-![](../../assets/images/blog/image.png)
+![](assets/images/blog/image.png)
 
-#### Large numbers abbreviated on dashboard tiles
+# Large numbers abbreviated on dashboard tiles
 
 Abbreviation rules applied for large numbers on dashboard tiles. Now all numbers will fit in the fixed size dashboard tile:
 
-![](../../assets/images/blog/image1.png)
+![](assets/images/blog/image1.png)
 
-#### Item and Category validation fixed
+# Item and Category validation fixed
 
 Some entities possess logical restrictions that can't be checked at database level. For instance, a product can have a property assigned whose value is marked as required. Now such product is not saved, the faulty tab is activated and invalid property values are marked:
 
-![](../../assets/images/blog/image2.png)
+![](assets/images/blog/image2.png)
