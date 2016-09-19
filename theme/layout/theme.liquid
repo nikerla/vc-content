@@ -9,7 +9,7 @@
     <meta itemprop="name" content="Virto Commerce" />
     <meta itemprop="description" content="Multi Channel Ecommerce Platform | Enterprise Shopping Cart Software | VirtoCommerce" />
     <meta itemprop="image" content="{{ 'virtocommerce.png' | asset_url }}" />
-    <meta name="google-site-verification" content="{{ application_settings.GoogleSiteVerificationKey }}" />
+    <meta name="google-site-verification" content="U2sXV9qIWUb-RceW8MpL-EfFnwvOqCo_jLWIDL8c6xI" />
     <link type="image/x-icon" rel="shortcut icon" href="{{ 'favicon.ico' | asset_url }}" />
     <link rel="publisher" href="//plus.google.com/+Virtocommerce" />
     {% if page_title != '' %}
@@ -22,6 +22,7 @@
     {{ 'main.css' | asset_url | stylesheet_tag }}
     {{ 'flags.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
+    {{ 'magnific-popup.css' | asset_url | stylesheet_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js' | script_tag }}
@@ -38,11 +39,12 @@
     {{ 'feedback.js' | asset_url | script_tag }}
     {{ 'hider.js' | asset_url | script_tag }}
     {{ 'base64.js' | asset_url | script_tag }}
+    {{ 'jquery.magnific-popup.js' | asset_url | script_tag }}
     <script type="text/javascript">
         var appInsights=window.appInsights||function(config){
             function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i) }) }}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
                 }({
-                    instrumentationKey: "{{ application_settings.MicrosoftApplicationInsightsKey }}"
+                    instrumentationKey: "{{ application_settings.ApplicationInsightsInstrumentationKey }}"
                 });
         window.appInsights=appInsights;
         appInsights.trackPageView();
@@ -55,9 +57,9 @@
         ga('create', '{{ application_settings.GoogleAnalyticsKey }}', 'auto');
         ga('send', 'pageview');
     </script> 
-     {{ content_for_header }}
-    <link rel="canonical" href="{{ canonical_url }}" />
+    {{ content_for_header }}
     <base href="{{ '/' | absolute_url }}" />
+    <link rel="canonical" href="{{ canonical_url }}" />
     <script>
         (function() {
             var _fbq = window._fbq || (window._fbq = []);
@@ -91,7 +93,7 @@
 </head>
 <body ng-controller="mainController">
     <div class="google-like">
-        <div class="g-plusone" data-href="http://virtocommerce.com" data-size="tall"></div>
+        <div class="g-plusone" data-href="https://virtocommerce.com" data-size="tall"></div>
     </div>
     {% include 'apps-identifier' %}
     {% include 'form-become-a-developer' %}

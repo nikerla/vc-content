@@ -2,15 +2,15 @@
 title: Flexible free cloud and on-premise hosting
 description: Deploy Virto Commerce on Microsoft Azure Cloud for free or use your own hosting provider.
 date: 2014-01-30
-canonical: http://virtocommerce.com/website-design
+canonical: https://virtocommerce.com/website-design
 permalink: website-design
-ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
+ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Deploy Virto Commerce on Microsoft Azure Cloud for free or use your own hosting provider.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Deploy Virto Commerce on Microsoft Azure Cloud for free or use your own hosting provider.
-twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - website-design

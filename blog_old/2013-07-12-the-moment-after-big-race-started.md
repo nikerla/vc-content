@@ -5,7 +5,7 @@ excerpt: If you are E-Commerce domain specialist, I believe, that you will be su
 permalink: blogs/news/the-moment-after-big-race-started
 title: "The moment after big race started"
 ---
-A week ago we had finally released our SDK: [http://virtocommerce.com/downloadSDK](http://virtocommerce.com/downloadSDK)
+A week ago we had finally released our SDK: [https://virtocommerce.com/download-sdk](https://virtocommerce.com/download-sdk)
 
 You can explore the product from its documentation as well: [http://docs.virtocommerce.com/display/vc1userguide/Home](http://docs.virtocommerce.com/display/vc1userguide/Home)
 

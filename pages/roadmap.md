@@ -21,7 +21,7 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart">Javascript Shopping Cart Module</a>/span>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-cart">Javascript Shopping Cart Module</a></span>
 									<span class="descr">Integrate e-commerce functionality into any CMS/html site.</span>
 								</li>
 								<li>
@@ -32,7 +32,7 @@ tags :
 									<span class="title"><a href="/features/wordpress-woocommerce-migration">WordPress WooCommerce migration</a></span>
 									<span class="descr">Learn how to migrate your WooCommerce store to Virto Commerce.</span>
 								</li>
-								<li>
+								<li> 
 									<span class="title"><a href="/features/nopcommerce-migration">NopCommerce migration</a></span>
 									<span class="descr">Learn how to migrate your NopCommerce store to Virto Commerce.</span>
 								</li>
@@ -80,7 +80,7 @@ tags :
 									<span class="descr">Out of the box integration with Google Analytics Commerce API, track cart abandonments, product views and total sales by products all in real time.</span>
 								</li>
 								<li>
-									<span class="title"><a href="/blogs/news/virtocommerce-2-11-release-notes" target="_blank">Platform modules Auto Updates</a> (June 2016)</span>
+									<span class="title"><a href="https://blog.virtocommerce.com/2016/06/09/virtocommerce-2-11-release-notes/" target="_blank">Platform modules Auto Updates</a> (June 2016)</span>
 									<span class="descr">Support for platform modules auto updates.</span>
 								</li>
 								<li>

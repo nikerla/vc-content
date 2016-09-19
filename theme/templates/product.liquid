@@ -67,7 +67,9 @@
         <div class="gallery-list">
             {% for image in product.images %}
             <div class="gallery-item">
-                <img alt="" src="{{ image.src }}" />
+                <a href="{{ image.src }}">
+                    <img alt="" src="{{ image.src }}" />
+                </a>
             </div>
             {%endfor %}
         </div>
@@ -86,3 +88,10 @@
     </div>
     {% endif %}
 </div>
+<script type="text/javascript">
+    $('.gallery-list').magnificPopup({
+        delegate: 'a', // child items selector, by clicking on it popup will open
+        type: 'image',
+        gallery: { enabled: true }
+    });
+</script>

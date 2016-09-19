@@ -16,7 +16,7 @@ Today we released the v1.1 update of the Virto Commerce. This is a big refresh o
 
 In addition to these, we also fixed a lot of minor issues and bugs.
 
-All of these SDK enhancements are now available to start using immediately and you can download SDK from [Virto Commerce downloads page](http://virtocommerce.com/download).
+All of these SDK enhancements are now available to start using immediately and you can download SDK from [Virto Commerce downloads page](https://virtocommerce.com/download).
 
 Below are more details on new enhancements.
 

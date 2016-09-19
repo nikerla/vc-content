@@ -3,6 +3,7 @@ title: Enterprise .NET open-source ecommerce cloud platform. Open source lisense
 description: Enterprise .NET open-source ecommerce cloud platform. Open source lisense
 date: 2014-01-30
 permalink: open-source-license
+aliases: opensourcelicense
 tags : 
 - open-source-license
 - license
@@ -10,13 +11,13 @@ tags :
 ---
 <article role="main" class="main">
 	<div class="for-business __responsive">
-		<h1 class="head-title">Virto Commerce Open Software License</h1>
-		<p>The Virto Commerce Open Software License Version 3.0 ("VCOSL") consists of the Open Software License 3.0 (OSL-3.0) with the Additional Terms in Exhibit A. The original Open Software License 3.0 (OSL-3.0) can be found at:&nbsp;<a href="http://opensource.org/licenses/OSL-3.0" target="_blank">http://opensource.org/licenses/OSL-3.0</a></p>
+		<h1 class="head-title">Virto Commerce Open Source License</h1>
+		<p>The Virto Commerce Open Source License Version 3.0 ("VCOSL") consists of the Open Software License 3.0 (OSL-3.0) with the Additional Terms in Exhibit A. The original Open Software License 3.0 (OSL-3.0) can be found at:&nbsp;<a href="http://opensource.org/licenses/OSL-3.0" target="_blank">http://opensource.org/licenses/OSL-3.0</a></p>
 		<br />
 		<p>1)&nbsp;<span class="bold">Grant of Copyright License.</span>&nbsp;Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, for the duration of the copyright, to do the following:</p>
 		<p class="text">a) to reproduce the Original Work in copies, either alone or as part of a collective work;</p>
 		<p class="text">b) to translate, adapt, alter, transform, modify, or arrange the Original Work, thereby creating derivative works ("Derivative Works") based upon the Original Work;</p>
-		<p class="text">c) to distribute or communicate copies of the Original Work and Derivative Works to the public,&nbsp;<span style="text-decoration: underline;">with the proviso that copies of Original Work or Derivative Works that You distribute or communicate shall be licensed under this Virto Commerce Open Software License</span>;</p>
+		<p class="text">c) to distribute or communicate copies of the Original Work and Derivative Works to the public,&nbsp;<span style="text-decoration: underline;">with the proviso that copies of Original Work or Derivative Works that You distribute or communicate shall be licensed under this Virto Commerce Open Source License</span>;</p>
 		<p class="text">d) to perform the Original Work publicly; and</p>
 		<p class="text">e) to display the Original Work publicly.</p>
 		<br />
@@ -51,16 +52,16 @@ tags :
 		<p>16)&nbsp;<span class="bold">Modification of This License.</span>&nbsp;This License is Copyright &copy; 2005 Lawrence Rosen. Permission is granted to copy, distribute, or communicate this License without modification. Nothing in this License permits You to modify this License as applied to the Original Work or to Derivative Works. However, You may modify the text of this License and copy, distribute or communicate your modified version (the "Modified License") and apply it to other original works of authorship subject to the following conditions: (i) You may not indicate in any way that your Modified License is the "Open Software License" or "OSL" and you may not use those names in the name of your Modified License; (ii) You must replace the notice specified in the first paragraph above with the notice "Licensed under &lt;insert your license name here&gt;" or with a notice of your own that is not confusingly similar to the notice in this License; and (iii) You may not claim that your original works are open source software unless your Modified License has been approved by Open Source Initiative (OSI) and You comply with its license review and certification process.</p>
 		<br />
 		<h3>
-			Exhibit A - Virto Commerce Open Software License
+			Exhibit A - Virto Commerce Open Source License
 		</h3>
 		<p class="text">
-			Additional Terms applicable to the Virto Commerce Open Software License&nbsp;.
+			Additional Terms applicable to the Virto Commerce Open Source License&nbsp;.
 			<br />
 			<br />
 			I. Effect.
 			<br />
 			<br />
-			These additional terms described in this Virto Commerce Open Software License&nbsp;&ndash; Additional Terms shall apply to the Original Work under this License.
+			These additional terms described in this Virto Commerce Open Source License&nbsp;&ndash; Additional Terms shall apply to the Original Work under this License.
 			<br />
 			<br />
 			II. Entity Size Restrictions
@@ -77,7 +78,7 @@ tags :
 			<br />
 			However, in addition to the other notice obligations, all copies of the Original Work and all derivative works and copies of derivative works of the Original Work&nbsp;in Executable and Source Code form distributed must, as a form of attribution of the original author, include on each user interface screen and on program start-up or login screen the "Virto Commerce" logo and the "powered by Virto Commerce" text, visible to all users. The dimensions of the "Virto Commerce" logo must be at least 100 x 47 pixels. When users click on the "Powered by Virto Commerce" logo or the "powered by Virto Commerce" text&nbsp;it must direct them to 
 			<a href="">
-				http://virtocommerce.com
+				https://virtocommerce.com
 			</a>
 			<br />
 		</p>

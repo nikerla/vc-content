@@ -574,7 +574,8 @@ textarea.__error
     box-sizing: border-box;
     cursor: pointer;
     padding: 0 15px;
-    width: 33.3333%;
+    width: 190px;
+    height: 190px;
 }
 
 .gallery img
@@ -1519,17 +1520,43 @@ textarea.__error
             box-sizing: border-box;
         }
 
+        .apps .list.__items .list-item .top-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100px;
+            width: 100%;
+            transition: opacity 0.25s;
+            opacity: 0.1;
+            overflow: hidden;
+            z-index: 1;
+        }        
+
+        .apps .list.__items .list-item .top-bg > svg {
+            position: relative;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 400px;
+            height: 400px;
+        }
+
         .apps .list.__items .list-link
         {
-            border: 1px solid #eee;
+            border: 1px solid #E0E0E0;
             display: block;
             height: 270px;
             position: relative;
             text-align: center;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
             
             -webkit-border-radius: 5px;
                     border-radius: 5px;
         }
+
+        .apps .list.__items .list-link:hover, .apps .list.__items .list-link:focus {
+           box-shadow: 0 5px 30px rgba(0, 0, 0, 0.15)
+        }        
 
         .apps .list.__items .image-outer
         {
@@ -1588,6 +1615,8 @@ textarea.__error
             font-size: 11px;
             line-height: 1.2;
             padding: 0 10px;
+            max-height: 68px;
+            overflow: hidden;
         }
 
         .apps .list.__items .list-rating
@@ -1597,19 +1626,22 @@ textarea.__error
 
         .apps .list.__items .list-price
         {
-            background: rgba(252, 176, 64, 0.85);
             bottom: -1px;
-            color: #fff;
             display: block;
             font-size: 14px;
-            font-weight: bold;
             left: -1px;
             padding: 5px 0;
             position: absolute;
             right: -1px;
             text-align: center;
-            text-transform: uppercase;
+            border-top: 1px solid #eee;
         }
+        .apps .list.__items .list-price:hover, .apps .list.__items .list-price:focus {
+            background-color: #0078D7;
+            color: white;
+            outline: none;
+            border: none;
+        }        
 
     /* Info block */
     .apps .info-w
@@ -4966,16 +4998,13 @@ form.fixed
 
 .features .list-item
 {
-    border-bottom: 1px solid #ccc;
-    cursor: pointer;
-    padding: 20px 50px 20px 0;
+    padding: 5px;
     position: relative;
 }
 
     .features .list-item::after
     {
         border-radius: 50%;
-        content: '+';
         font-family: caption;
         font-size: 36px;
         height: 30px;
@@ -5001,10 +5030,12 @@ form.fixed
         background: #eee;
     }
 
+/*
     .features .list-item:first-child
     {
         border-top: 1px solid #ccc;
     }
+*/
 
 .features ol
 {

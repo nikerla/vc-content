@@ -2,15 +2,15 @@
 title: A/B Testing - Definition, What is it ? the Step by Step A/B Testing Process and why is A/B Testing important?| Glossary Virto Commerce.
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
-canonical: http://virtocommerce.com/glossary/a-b-testing
+canonical: https://virtocommerce.com/glossary/a-b-testing
 permalink: glossary/a-b-testing
-ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
+ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: A/B Testing - Definition, What is it ? the Step by Step A/B Testing Process and why is A/B Testing important?| Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - glossary

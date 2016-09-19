@@ -31,13 +31,13 @@ permalink: features/umbraco-cms-ecommerce
 						<span class="feauture-soc_name">Share this <br>feature:</span>
 						<ul class="list __inline __socials">
                             <li class="list-item">
-                                <a target="_blank" href="http://twitter.com/share?url=http://virtocommerce.com/features/umbraco-cms-ecommerce"></a>
+                                <a target="_blank" href="http://twitter.com/share?url=https://virtocommerce.com/features/umbraco-cms-ecommerce"></a>
                             </li>
                             <li class="list-item fb">
-                                <a target="_blank" href="//www.facebook.com/sharer.php?u=http://virtocommerce.com/features/umbraco-cms-ecommerce"></a>
+                                <a target="_blank" href="//www.facebook.com/sharer.php?u=https://virtocommerce.com/features/umbraco-cms-ecommerce"></a>
                             </li>
 							<li class="list-item plus">
-                                <a target="_blank" href="http://plus.google.com/share?url=http://virtocommerce.com/features/umbraco-cms-ecommerce"></a>
+                                <a target="_blank" href="http://plus.google.com/share?url=https://virtocommerce.com/features/umbraco-cms-ecommerce"></a>
 							</li>
 							<li class="list-item ln">
 								<a target="_blank" href="http://www.linkedin.com/company/virtoway/virto-commerce-788516/product?trk=biz_product"></a>

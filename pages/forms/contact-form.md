@@ -3,6 +3,11 @@ title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Re
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 date: 2015-06-09
 permalink: contact-us
+aliases: 
+- pricing
+- support
+- understandingsupport
+- startups
 tags : 
 - commerce
 ---
@@ -73,7 +78,7 @@ tags :
 					<ul class="list">
 						<li>
 							<span class="title">Is the source code provided?</span>
-							<span class="descr">Yes, complete source code of Virto Commerce can be accessed from our <a href="http://virtocommerce.com/try-now-download">repository</a>.</span>
+							<span class="descr">Yes, complete source code of Virto Commerce can be accessed from our <a href="https://virtocommerce.com/try-now-download">repository</a>.</span>
 						</li>
 						<li>
 							<span class="title">How do I request for a demo?</span>

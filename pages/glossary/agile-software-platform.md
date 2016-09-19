@@ -2,15 +2,15 @@
 title: Agile Platform - Definition, What is agile project management software and why are Agile Tools valuable?| Glossary Virto Commerce.
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
-canonical: http://virtocommerce.com/glossary/agile-software-platform
+canonical: https://virtocommerce.com/glossary/agile-software-platform
 permalink: glossary/agile-software-platform
-ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
+ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Agile Platform - Definition, What is agile project management software and why are Agile Tools valuable?| Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - glossary

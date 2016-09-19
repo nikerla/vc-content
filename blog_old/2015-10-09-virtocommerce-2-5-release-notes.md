@@ -7,7 +7,7 @@ permalink: blogs/news/virtocommerce-2-5-release-notes
 tags: [Announcements, azure, ecommerce, enterprise ecommerce, features, open source, platform]
 title: "VirtoCommerce 2.5 Release Notes"
 ---
-We are pleased to announce the 2.5 release of Virto Commerce. The primary focus of this release was to update <a href="http://virtocommerce.com/b2b-ecommerce" target="_blank">B2B ecommerce</a> features and extended security.
+We are pleased to announce the 2.5 release of Virto Commerce. The primary focus of this release was to update <a href="https://virtocommerce.com/b2b-ecommerce" target="_blank">B2B ecommerce</a> features and extended security.
 
 Below are just some of the updates we made during last sprint, for more details you may refer to our github repository, there was more than **800 individual commits** since our last release with a lot of small fixes. The most significant features are outlined below.
 

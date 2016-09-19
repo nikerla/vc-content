@@ -2,15 +2,15 @@
 title: B2B eCommerce Platform | Software by Virto Commerce
 description: Grow your business with B2B Ecommerce Platform by Virto Software. The Truly Scalable Enterprise Solution based on Cloud. Mobile Friendly, Easily Integrated, Agile Devoted.
 date: 2014-01-30
-canonical: http://virtocommerce.com/b2b-ecommerce
+canonical: https://virtocommerce.com/b2b-ecommerce
 permalink: b2b-ecommerce
-ogimage: http://virtocommerce.com/assets/images/vc_fb.jpg
+ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Best .NET B2B ecommerce platform - Free Community Edition
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful enterprise .NET ecommerce platform for creating flexible B2B solutions. Try it free with Free Community License
-twitterimage: http://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - b2b-ecommerce
