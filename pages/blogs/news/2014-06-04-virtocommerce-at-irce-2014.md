@@ -6,7 +6,7 @@ permalink: blogs/news/virtocommerce-at-irce-2014
 tags: [announcements]
 title: "Virto Commerce at IRCE 2014"
 ---
-![](assets/images/blog/irce-2014.jpg)
+![](../../assets/images/blog/irce-2014.jpg)
 
 We are very excited about being at IRCE 2014 next week. It is our first IRCE conference since the launch of Virto Commerce and we'll be showcasing our product and our customers. Come ask us about our product and what we have planned for near future.
 

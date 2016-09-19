@@ -8,7 +8,7 @@ storefrontApp.service('blogService', ['$http', function ($http) {
     }
 }]);
 
-storefrontApp.controller('blogController', ['$scope', '$window', '$location', 'blogService', function ($scope, $window, $location, blogService) {
+storefrontApp.controller('blogController', ['$scope', '$window', '$browser', '$location', 'blogService', function ($scope, $window, $browser, $location, blogService) {
     $scope.articles = [];
     $scope.pageNumber = 2;
 
@@ -25,7 +25,7 @@ storefrontApp.controller('blogController', ['$scope', '$window', '$location', 'b
            var articles = response.data;
            _.each(articles, function (article) {
                if (article.imageUrl) {
-                   article.imageUrl = $window.baseUrl + article.imageUrl;
+                   article.imageUrl = $browser.baseHref() + article.imageUrl;
                }
                $scope.articles.push(article);
            });

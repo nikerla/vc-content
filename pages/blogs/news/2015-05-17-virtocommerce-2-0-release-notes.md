@@ -18,7 +18,7 @@ Here is the list of new features:
 * **Integrations** – Zapier and Zendesk integrations
 * **New Dashboards** – edit and save custom dashboards
 
-# Virto Commerce Platform
+#### Virto Commerce Platform
 
 We have isolated a clean platform constructed to the full compliance of SOLID and DDD architectural principals. Designed for use in Azure or IIS based environments. I is based on the following technologies:
 
@@ -44,56 +44,56 @@ The base platform can be used for new module development or as a starting point 
 
 Virto Commerce Platform is a base for Commerce Manager and extended by core commerce modules to provide full e-commerce capabilities.
 
-# Security Role Management
+#### Security Role Management
 
 Added support for security roles management. You are now able to create new roles with assigned permissions, then assign roles to security accounts.
 
-![](assets/images/blog/untitled_a.png)
+![](../../assets/images/blog/untitled_a.png)
 
 Assigning permissions in role management blade.
 
 Also each module can define its own, additional permissions and they will be automatically available in role definition UI. Permissions are defined inside module’s manifest file.
 
-# CMS module
+#### CMS module
 
 Themes, pages and menu CMS modules were combined in one module. New menu was added in Commerce Manager named “Content", that simplifies working with CMS.
 
-![](assets/images/blog/untitled_b.png)
+![](../../assets/images/blog/untitled_b.png)
 
 Now user can quickly start working with active theme, preview and modify it.
 
-![](assets/images/blog/base64740912136ac9498d.png)
+![](../../assets/images/blog/base64740912136ac9498d.png)
 
 Themes list blade now has new buttons for working with themes. Active theme is marked with triangle in right top corner in themes list.
 
-![](assets/images/blog/base64b7b7619796d1b6b8.png)
+![](../../assets/images/blog/base64b7b7619796d1b6b8.png)
 
 Pages list blade has new representation of pages.
 
-![](assets/images/blog/base64a3e318be8f82ac39.png)
+![](../../assets/images/blog/base64a3e318be8f82ac39.png)
 
-![](assets/images/blog/base6464e73add01384d5f.png)
+![](../../assets/images/blog/base6464e73add01384d5f.png)
 
 Additional content types (images, archives, etc…) are now supported.
 
-# Dashboard
+#### Dashboard
 
 New engine for tiles. Now every user can have individually positioned tiles. It’s as simple as drag-dropping a tile to the desired location. And that’s not only in dashboard but in every blade where tiles are available (product details, store details, etc.).
 
-![](assets/images/blog/base646e40a34dfd2bb71e.png)
+![](../../assets/images/blog/base646e40a34dfd2bb71e.png)
 
 “Seo” tile repositioning inside product detail blade.
 
-# FrontEnd
+#### FrontEnd
 
 All security logic was moved from frontend to WebAPI security level. Implemented merging of anonymous and customer shopping carts after login. Fixed variation selector on product page - variant’s images, price etc. are matched with selected variant and switching between store’s currencies. Implemented display of dynamic content (such as different banners) on frontend.
 
-![](assets/images/blog/untitled_c.png)
+![](../../assets/images/blog/untitled_c.png)
 
-# Zendesk integration
+#### Zendesk integration
 
 One more integration module. This one is for getting information from Zendesk helpdesk and showing open tickets in VirtoCommerce Customer view blade as a widget. It’s the first step of integration. The plan is to create Zendesk App in order to pass information about customer and order to Zendesk dashboard.
 
-# Zapier integration
+#### Zapier integration
 
 Integration with Zapier allows VirtoCommerce solution to interchange data with outside systems using Zapier. We have implemented two triggers “New Customer” and “New Order”. That allows to pass information about customers and orders to 3rd-party systems. Also we implemented “New Customer” action, so that new customers can be imported automatically from the 3rd-party systems using Zapier Zap. In future releases we plan to add more triggers and actions on demand. The next challenge regarding Zapier integration is to make API available to public.

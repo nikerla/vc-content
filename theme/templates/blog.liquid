@@ -1,18 +1,11 @@
 <div class="blog" itemtype="http://schema.org/Blog" itemscope ng-controller="blogController">
     <div class="posts __responsive">
-        {% assign page_size = 3 %}
-
         {% include 'blog-categories-item', categories: blog.categories %}
-
-        {% assign sticked_article = blog.articles | where: "is_sticked", "equal", true | first %}
-        {% if sticked_article == nil %}
-            {% assign sticked_article = blog.articles | first %}
+        {% if blog.sticked_article %}
+            {% include 'blog-list-item', article: blog.sticked_article, style: "double" %}
         {% endif %}
-        {% include 'blog-list-item', article: sticked_article, style: "double" %}
-
-        {% assign first_page_articles = blog.articles | where: "handle", "not_equal", sticked_article.handle %}
-        {% paginate blog.articles by page_size %}
-            {% for article in first_page_articles %}
+        {% paginate blog.articles by 9 %}
+            {% for article in blog.articles %}
                 {% include 'blog-list-item', article: article, style: "single" %}
             {% endfor %}
         {% endpaginate %}
@@ -21,14 +14,13 @@
         {% include 'blog-list-item-js' %}
     </div>
     <div class="more __responsive" ng-if="!isLastPage">
-        <a class="button fill" ng-class="{ 'loading': isLoading }" ng-click="getArticles(pageNumber, {{ page_size }})">Older</a>
+        <a class="button fill" ng-class="{ 'loading': isLoading }" ng-click="getArticles(pageNumber, 9)">Older</a>
     </div>
-    {% assign trending_articles = blog.articles | where: "is_trending", "equal", true %}
     {% if blog.trending_articles %}
         {% include 'blog-trending-list', articles: blog.trending_articles %}
     {% endif %}
 </div>
+
 <script>
     window.blogName = '{{ blog.handle }}';
-    window.baseUrl = '{{ "/" | full_url }}';
 </script>

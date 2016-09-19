@@ -16,6 +16,6 @@ Today we release version 1.3 of Virto Commerce. This is a minor release just a l
 
 Make sure to try running Virto Commerce in azure environment, it is now as simple as executing PowerShell script by following [this guide](http://docs.virtocommerce.com/display/vc1devguide/Source+Code+Azure+Deployment) which automatically installs and configures frontend web role, storage, search worker role and scheduler worker role.
 
-# What’s next?
+#### What’s next?
 
 We have many exiting things planned for the next sprint, including integration with Kooboo CMS and many other smaller features.

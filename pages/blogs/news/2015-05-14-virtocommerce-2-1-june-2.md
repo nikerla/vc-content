@@ -10,7 +10,7 @@ To better communicate our plans we continue with a approach of making our next s
 
 So here is again our plan for the next Development Sprint scheduled to be completed on June 2nd. The sprint is about 3 weeks at the end of which we’ll have some new functionality available. Below is description of those new features. You can also let us know what you want to see in platform by posting it here: [http://help.virtocommerce.com/support/discussions/forums/264127](http://help.virtocommerce.com/support/discussions/forums/264127)
 
-# Platform Improvements
+#### Platform Improvements
 
 * **Git Branches Reorganization** - merging webadmin branch to dev and master branch, dev branch will be used as an integration branch while master as a release branch
 * **Virto Commerce Platform Release** - bare platform release that doesn’t include&nbsp;any extensions/modules. It can be used&nbsp;to develop non-commerce business applications
@@ -20,39 +20,39 @@ So here is again our plan for the next Development Sprint scheduled to be comple
 * **Import/Export Module** - implement unified API and UI for importing and exporting data in Virto Commerce
 * **Store Developer Training Materials** - training documents for a store developer track
 
-# Frontend
+#### Frontend
 
 * **Payment Gateways/Methods** - concept for integrating with front end, configuration on per store basis
 * **Shipping Methods**
 * **Blogging** - add support for jekyll style blogs with markdown and liquid support
 
-# Price Lists
+#### Price Lists
 
 * **Price List Expressions** - implement ability to define expressions for pricelists to allow to define how lists are assigned
 
-# Marketing
+#### Marketing
 
 * **Dynamic Content** - implement expression builder, documentation on how content can be inserted into existing themes
 * **Promotions** - integrate new engine in frontend store (cart, browsing, coupons, gifts). Usage tracking, Gift cards, performance optimization and caching, support for marketing events
 
-# Order
+#### Order
 
 * **Tax UI **- user interface for managing taxes
 * **Extending Order Workflows** - document how to extend business logic around order processes
 * **Order Number Sequencing** - improve how order numbers are generated
 
-# Security
+#### Security
 
 * **Support for OAuth Authentication**
 * **Support for API Key Authentication**
 * **Permission Grouping in UI**
 
-# Customers
+#### Customers
 
 * **Account Integration** - add quick actions to customer screen (create account, disable, change password, login on behalf)
 * **Organization Properties** - add UI for organization custom properties
 
-# Integrations
+#### Integrations
 
 * **Zapier Improvements** - document how happier integration works, add simple authentication mechanism
 * **Zendesk Widgets** - display order information for customer ticket in zendesk

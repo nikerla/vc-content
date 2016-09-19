@@ -23,7 +23,7 @@ Here is the list of new features:
 * **Order Statistics** – added job that recalculates statistics for the order dashboard
 * [StackOverflow](http://stackoverflow.com/tags/virtocommerce) – we added new public community on StackOverflow, go ask your questions!
 
-# What’s next?
+#### What’s next?
 
 We currently working on the following features:
 
@@ -37,27 +37,27 @@ We currently working on the following features:
 
 We also launched a new Stackoverflow community dedicated to Virto Commerce. Use it Let us know at [http://help.virtocommerce.com/support/discussions/forums/264127](http://help.virtocommerce.com/support/discussions/forums/264127) if you’d like certain feature to be included in our roadmap.
 
-# “Or” based filters
+#### “Or” based filters
 
 The filtering has been improved. Now it is possible to filter items using multiple facets of the same kind. For example products can be filtered by brand “samsung” or “sony”. Also the new filter was introduced for subcategories. It will automatically show all direct child subcategories for current category.
 
-![](assets/images/blog/clip_image002e.jpg)
+![](../../assets/images/blog/clip_image002e.jpg)
 
-# Clear Cache through admin
+#### Clear Cache through admin
 
 The cache can be now cleared from Commerce Manager. There are two types of cache that can be cleared: html output cache (all rendered pages, sitemap) and database cache (objects retrieved from database). The cache can be selectively cleared for specific areas or all cache.
 
-![](assets/images/blog/clip_image0022e.jpg)
+![](../../assets/images/blog/clip_image0022e.jpg)
 
-# Sitemap improvements
+#### Sitemap improvements
 
 There were some issues fixed related to sitemap. Also top menu categories are now created dynamically from database for current store and can be ordered using priority of categories.
 
-# Paypal improvements
+#### Paypal improvements
 
 There were fixes and improvements done to paypal express checkout. Now checkout will create order in database before redirecting to paypal payment site. When paypal redirects back it sends token that was saved in order payment. This allows finding correct order and continue checkout process.
 
-# More discount related fields added to order module
+#### More discount related fields added to order module
 
 <span class="code-block">
 `AddColumn(“dbo.OrderForm”, “LineItemDiscountAmount”, c => c.Decimal(nullable: false, precision: 18, scale: 2));
@@ -70,8 +70,8 @@ AddColumn(“dbo.OrderGroup”, “ShipmentDiscountTotal”, c => c.Decimal(null
 
 This allows more precisely store, identify and display orders when needed.
 
-# Design improvements
+#### Design improvements
 
 The mobile design has been improved. Now in mobile menu there are links to login, view cart and wish list.
 
-![](assets/images/blog/clip_image0023e.jpg)
+![](../../assets/images/blog/clip_image0023e.jpg)
