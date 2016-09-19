@@ -1,62 +1,30 @@
-<div class="blog">
-    <div class="posts __responsive">
-        <a class="post-back" href="{{ blog.url | absolute_url }}"><i class="fa fa-arrow-left"></i></a>
-    </div>
-    <div class="posts __responsive">
-        {% include 'blog-categories-item', categories: blog.categories %}
-        <div class="post post-double post-detail">
-            <div class="post-inner">
-                <div class="post-media" style="background-image: url('{{ article.image_url | absolute_url }}');">
-                    <h3>{{ article.title }}</h3>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="posts __responsive">
-        <div class="post post-triple post-detail">
-            <div class="post-inner">
-                <div class="post-other">
-                    <div class="post-info">
-                        <div class="post-logo"></div>
-                        <div class="post-author">
-                            <div class="author">{{ article.author }}</div>
-                            <div class="date">{{ article.created_at | date: 'month_day_year' }}</div>
-                        </div>
-                    </div>
-                    {% include 'blog-list-tags', tags: article.tags, position: "top" %}
-                </div>
-                <div class="post-descr">
-                    <div class="inner">
-                        {{ article.content }}
-                    </div>
-                </div>
-                <div class="post-meta">
-                    {% include 'blog-list-tags', tags: article.tags, position: "bottom" %}
-                    <ul class="socials list">
-                        <li class="list-item fb">
-                            <a class="list-link" href="#"><i class="list-ico fa fa-facebook"></i></a>
-                        </li>
-                        <li class="list-item plus">
-                            <a class="list-link" href="#"><i class="list-ico fa fa-google-plus"></i></a>
-                        </li>
-                        <li class="list-item tw">
-                            <a class="list-link" href="#"><i class="list-ico fa fa-twitter"></i></a>
-                        </li>
-                        <li class="list-item in">
-                            <a class="list-link" href="#"><i class="list-ico fa fa-linkedin"></i></a>
-                        </li>
-                    </ul>
-                </div>
-                {% if article.comments_count > 0 %}
-                    <div class="post-comments">
-                    </div>
+<div class="posts __responsive">
+    <div class="cnt">
+        {% include 'breadcrumb' %}
+        <div class="post">
+            <h1 class="head-title">{{ article.title }}</h1>
+            <div class="post-cnt">
+                {% if article.tags.size > 0 %}
+                {% include 'article-tags-list' %}
                 {% endif %}
+                <div class="text-light">
+                    Posted by <span class="author">{{ article.author }}</span> on <span class="date">{{ article.created_at | date: 'month_day_year' }}</span>
+                </div>
+                <div class="text">
+                    {{ article.content }}
+                </div>
             </div>
+            <div class="post-soc">
+                {% include 'share-post-menu' %}
+            </div>
+            {% if settings.disqus_site.size > 0 %}
+            <div class="post-comments">
+                {% include 'disqus' %}
+            </div>
+            {% endif %}
         </div>
-        <a class="post-back" href="{{ blog.url | absolute_url }}"><i class="fa fa-arrow-left"></i></a>
     </div>
-    {% if blog.trending_articles %}
-        {% include 'blog-trending-list', articles: blog.trending_articles %}
-    {% endif %}
-    
+    <div class="sidebar">
+        {% include 'blog-sidebar' %}
+    </div>
 </div>

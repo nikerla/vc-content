@@ -1,11 +1,6 @@
 ---
-category: Release
-date: '08-08-2016'
-author: 'Virtocommerce'
-is-sticked: false
-is-trending: true
-permalink: blogs/vc/article/New-VirtoCommerce
-style: double
+permalink: blogs/news/New-VirtoCommerce
+date: '2016-08-08'
 tags:
   - Announcemnets
 title: 'New VirtoCommerce.com!'

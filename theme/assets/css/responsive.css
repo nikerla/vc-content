@@ -1117,14 +1117,6 @@
         margin: 0 0 30px;
     }
 
-    .blog .posts .post-single.post-detail,
-    .blog .posts .post-double.post-detail,
-    .blog .posts .post-triple.post-detail
-    {
-        padding: 15px 0 0;
-        width: 100%;
-    }
-
     /* Footer */
     .footer-wrap
     {
@@ -2298,31 +2290,6 @@
     .knt-text
     {
         max-width: 80%;
-    }
-
-    .blog .posts .post-single,
-    .blog .posts .post-double,
-    .blog .posts .post-triple,
-    .blog .trending .post-single
-    {
-        padding: 15px 0 0;
-        width: 100%;
-    }
-
-    .blog .more
-    {
-        padding: 40px 25px 0;
-        width: 100%;
-    }
-
-    .blog .more .button
-    {
-        width: 100%;
-    }
-
-    .blog .trending .trending-t
-    {
-        width: 210px;
     }
 
     /* Footer */
