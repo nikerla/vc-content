@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="apple-touch-fullscreen" content="yes" />
+    <meta name="description" content="{{ page_description }}" />
+
+    <!-- Facebook  Open Graph Meta Tags BEGIN -->
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="{% if article %}article{% else %}website{% endif %}" />
+    
+    <meta content="{{ page_title }}" property="og:title" />
+    <meta content="{{ page_image_url  }}" property="og:image" />
+
+    <meta content="{{ page_title }}" property="og:title" />
+    <meta content="{{ canonical_url }}" property="og:url" />
+    <meta content="{{ page_description }}" property="og:description" />
+    
+    <meta content="Virtocommerce Blog" property="og:site_name" />
+    
+    {% if article %}
+        {% for tag in article.tags %}
+            <meta content="{{ tag }}" property="article:tag" />
+        {% endfor %}
+		<meta content="{{ article.category }}" property="article:section" />
+		<meta content="{{ article.created_at }}" property="article:published_time" />
+		<meta content="{{ article.created_at }}" property="article:modified_time" />
+		<meta content="{{ article.created_at }}" property="og:updated_time" />
+    {% endif %}
+
+    <meta name="twitter:card" content="summary" />
+    <meta content="{{ page_description }}" name="twitter:description" />
+    <meta content="{{ page_title }}" name="twitter:title"/>
+    {% comment %}<meta content="{{ page_image_url | absolute_url }}" name="twitter:image"/>{% endcomment %}
+    <!-- Facebook Open Graph Meta Tags END: -->
+
+    <title>{% if article %}{{ article.title }} - {% endif %}Virtocommerce blog</title>
+
+    {{ '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js' | script_tag }}
+    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js' | script_tag }}
+    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular-route.min.js' | script_tag }}
+    {{ 'app.js' | asset_url | script_tag }}
+    {{ 'services.js' | asset_url | script_tag }}
+    {{ 'blog.js' | asset_url | script_tag }}
+
+    {{ '//fonts.googleapis.com/css?family=Roboto:400,100,300,700' | stylesheet_tag }}
+    {{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
+    {{ 'reset.css' | asset_url | stylesheet_tag }}
+    {{ 'main.css' | asset_url | stylesheet_tag }}
+    {{ 'responsive.css' | asset_url | stylesheet_tag }}
+
+    {{ content_for_header }}
+
+    <base href="{{ '/' | absolute_url }}" />
+
+    <!-- html5.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+        <script src="/js/ie.js"></script>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- css3-mediaqueries.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+        <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+    {% if article %}
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "BlogPosting",
+                "mainEntityOfPage":{
+                    "@type":"WebPage",
+                    "@id":"{{ canonical_url }}"
+                },
+                "headline": "{{ article.title }}",
+                "image": {
+                    "@type": "ImageObject",
+                    "url": "{{ page_image_url | absolute_url }}",
+                    "height": 800,
+                    "width": 800
+                },
+                "datePublished": "{{ article.created_at | date: "%Y-%m-%dT%T" }}",
+                "dateModified": "{{ article.created_at | date: "%Y-%m-%dT%T" }}",
+                "author": {
+                    "@type": "Person",
+                    "name": "{{ article.author }}"
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ article.author }}",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{}}",
+                        "width": 600,
+                        "height": 60
+                    }
+                },
+                "description": "{{ page_description }}"
+            }
+        </script>
+    {% endif %}
+</head>
+<body>
+    <div id="layout">
+        <div class="layout-canvas">
+            <div class="swipe">
+                {% include 'main-menu-mobile' %}
+            </div>
+            <div class="header-wrap">
+                <header class="responsive" role="banner">
+                    <a class="logo" href="{{ '/' | absolute_url }}"></a>
+                    <a class="mobile-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </a>
+                    {% include 'main-menu' %}
+                    <div class="head-search">
+                        {% include 'search-bar' %}
+                    </div>
+                </header>
+            </div>
+            <article class="main" role="main">
+                {{ content_for_layout }}
+            </article>
+            {% include 'footer' %}
+        </div>
+    </div>
+</body>
+</html>
