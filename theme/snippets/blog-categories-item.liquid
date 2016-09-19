@@ -1,0 +1,23 @@
+<div class="post post-single">
+    <div class="post-inner">
+        <div class="post-media categories">
+            <div class="categories-t">Virtocommerce Blog</div>
+            <ul class="menu">
+                {% paginate categories by 5 %}
+                    {% for category in categories %}
+                        <li class="menu-item">
+                            {% assign category_handle = category | handleize %}
+                            {% assign blog_url = '/blogs/' | append: blog.handle %}
+                            {% assign category_url = blog_url | append: '/category/' | append: category_handle  %}
+                            <a class="menu-link" href="{{ category_url }}">{{ category }}</a>
+                        </li>
+                    {% endfor %}
+                {% endpaginate %}
+            </ul>
+            <a class="rss" href="#">
+                <span class="rss-ico"><i class="fa fa-rss"></i></span>
+                <div class="rss-text">Get the latest in Virtocommerce News</div>
+            </a>
+        </div>
+    </div>
+</div>
