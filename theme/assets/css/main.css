@@ -1790,6 +1790,9 @@ textarea.__error
 
     -webkit-align-items: flex-end;
             align-items: flex-end;
+
+    -webkit-flex-grow: 1;
+            flex-grow: 1;
 }
 
 .blog .post-media.categories
@@ -1890,7 +1893,8 @@ textarea.__error
     display: -o-flex;
     display: flex;
 
-    align-items: center;
+    -webkit-align-items: center;
+            align-items: center;
 }
 
 .blog .post-detail .post-media
@@ -2156,6 +2160,11 @@ textarea.__error
 
     -webkit-flex-grow: 1;
             flex-grow: 1;
+}
+
+.blog .post-detail .post-media h3
+{
+    position: relative;
 }
 
 .blog .post-detail .post-descr h3
