@@ -7,9 +7,9 @@
                     {% for category in categories %}
                         <li class="menu-item">
                             {% assign category_handle = category | handleize %}
-                            {% assign blog_url = '/blogs/' | append: blog.handle %}
-                            {% assign category_url = blog_url | append: '/category/' | append: category_handle  %}
-                            <a class="menu-link" href="{{ category_url }}">{{ category }}</a>
+                            {% assign blog_url = '~/blogs/' | append: blog.handle  %}
+                            {% assign category_url = blog_url | append: '/category/' | append: category_handle %}
+                            <a class="menu-link" href="{{ category_url | absolute_url }}">{{ category }}</a>
                         </li>
                     {% endfor %}
                 {% endpaginate %}
