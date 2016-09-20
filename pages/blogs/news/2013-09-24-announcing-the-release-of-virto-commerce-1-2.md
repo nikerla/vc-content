@@ -1,13 +1,13 @@
 ---
 author: VirtoCommerce
 date: 2013-09-24 01:36
-excerpt: Today we released the v1.2 update of the Virto Commerce. This is a big update of Virto Commerce and it includes some great new features and enhancements. It is also our first Open Source release which can be accessed using codeplex project at http://virtocommerce.codeplex.com
 permalink: blogs/news/announcing-the-release-of-virtocommerce-1-2
 tags: [announcements]
 title: "Announcing the release of Virto Commerce 1.2"
+published: Private
 ---
 Today we released the v1.2 update of the Virto Commerce. This is a big update of Virto Commerce and it includes some great new features and enhancements. It is also our first Open Source release which can be accessed using codeplex project at [http://virtocommerce.codeplex.com](http://virtocommerce.codeplex.com)!
-
+<!--excerpt-->
 These new capabilities include:
 
 * **Import improvements**: reorganized to make it user friendly, support for localization import

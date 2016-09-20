@@ -1,3 +1,9 @@
+---
+category: Release
+date: '2016-09-20'
+published: Private
+
+---
 Release notes for "September 2016" release
 ========
 ##Platform
@@ -26,5 +32,3 @@ We've switched the C# clients generation tool to Autorest.  This simplified code
 
 ###Checkout
 ???
-
-

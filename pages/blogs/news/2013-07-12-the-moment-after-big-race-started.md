@@ -1,9 +1,10 @@
----
+﻿---
 author: VirtoCommerce
 date: 2013-07-12 21:27
 excerpt: If you are E-Commerce domain specialist, I believe, that you will be surprised how many features of mature products we are providing right now. And if you are web developer, you will be amazed by VirtoCommerce system’s architecture.
 permalink: blogs/news/the-moment-after-big-race-started
 title: "The moment after big race started"
+published: Private
 ---
 A week ago we had finally released our SDK: [https://virtocommerce.com/download-sdk](https://virtocommerce.com/download-sdk)
 

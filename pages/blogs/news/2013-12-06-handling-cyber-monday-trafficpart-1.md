@@ -1,15 +1,15 @@
----
+﻿---
 author: VirtoCommerce
 date: 2013-12-06 21:49
-excerpt: You developed and launched an e-commerce site and now wondering, can my site handle the traffic? What happens if it doesn’t, do I have a backup plan? What if that new marketing campaign generates 10x more traffic than we predicted? What if it generates 10x less traffic? Do I still need all those servers or can I simply turn then off.
 permalink: blogs/news/handling-cyber-monday-traffic-part-1
 tags: [Architecture, Performance, Scalability]
 title: "Handling Cyber Monday Traffic–Part 1"
+published: Private
 ---
 # Introduction
 
 You developed and launched an e-commerce site and now wondering, can my site handle the traffic? What happens if it doesn’t, do I have a backup plan? What if that new marketing campaign generates 10x more traffic than we predicted? What if it generates 10x less traffic? Do I still need all those servers or can I simply turn then off.
-
+<!--excerpt-->
 All these questions arise in various times when running e-commerce sites. It is especially true during such events as Cyber Monday or holidays your business is targeting (Valentines day for gifting site for example).
 
 So how do you prepare? This post goes through the common scenarios from the software architect prospective.

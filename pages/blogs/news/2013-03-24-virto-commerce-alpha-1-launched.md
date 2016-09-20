@@ -8,7 +8,7 @@ tags:
   - ecommerce
   - sdk
 title: 'Virto Commerce demo is available!'
-
+published: Private
 ---
 # Try alpha 1 version of Virto Commerce!
 

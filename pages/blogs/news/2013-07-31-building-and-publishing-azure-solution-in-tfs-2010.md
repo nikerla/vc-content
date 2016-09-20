@@ -1,9 +1,10 @@
----
+﻿---
 author: VirtoCommerce
 date: 2013-07-31 22:37
 permalink: blogs/news/building-and-publishing-azure-solution-in-tfs-2010
 tags: [azure programming, programming, azure, build, cloud, tfs]
 title: "Building and publishing azure solution in TFS 2010"
+published: Private
 ---
 The process of creating [continuous integration](http://en.wikipedia.org/wiki/Continuous_integration) process in azure is well described here [http://www.windowsazure.com/en-us/develop/net/common-tasks/continuous-delivery/](http://www.windowsazure.com/en-us/develop/net/common-tasks/continuous-delivery/).
 

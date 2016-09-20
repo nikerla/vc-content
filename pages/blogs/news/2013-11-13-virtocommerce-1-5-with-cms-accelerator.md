@@ -1,12 +1,12 @@
----
+﻿---
 author: VirtoCommerce
 date: 2013-11-13 17:28
-excerpt: This release main feature is a CMS Integrated Accelerator. We also improved many other bugs and annoyances reported by our customers.
 permalink: blogs/news/virtocommerce-1-5-with-cms-accelerator
 title: "Virto Commerce 1.5 with CMS Accelerator"
+published: Private
 ---
 This release main feature is a CMS Integrated Accelerator. We also improved many other bugs and annoyances reported by our customers.
-
+<!--excerpt-->
 It includes the following new features and fixes:
 
 * **Release of Virto Commerce CMS Accelerator** (Kooboo) – download it from [https://github.com/VirtoCommerce/vc-kooboo](https://github.com/VirtoCommerce/vc-kooboo)

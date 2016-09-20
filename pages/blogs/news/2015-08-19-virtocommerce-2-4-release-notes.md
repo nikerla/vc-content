@@ -1,14 +1,14 @@
----
+﻿---
 author: VirtoCommerce
 date: 2015-08-19 15:31
-excerpt: In this release we finally implemented long awaited features we always wanted to complete but never had quite enough time to do. These are API documentation and sample stores.
 main-image: assets/images/blog/release-2-4-moss.jpg
 permalink: blogs/news/virtocommerce-2-4-release-notes
 tags: [Announcements, azure, ecommerce, enterprise ecommerce, features, open source, platform]
 title: "VirtoCommerce 2.4 Release Notes"
+published: Private
 ---
 In this release we finally implemented long awaited features we always wanted to complete but never had quite enough time to do. These are **API documentation** and **sample stores**. API documentation is not static content, rather it is completely dynamic and generated at run time from the .net classes. It is also connected to our demo store, so you can test it yourself, a very useful feature.
-
+<!--excerpt-->
 **Sample Stores** offer even more exciting functionality, they allow for the creation of complete starter/sample stores which includes properties, products, promotions, marketing banners, themes, templates, custom settings and more. You can then import these stores and use them right out-of-the-box or as a starting point for your own custom solution. Once you modify anything, you can even export that configuration again to use in the future projects or share with a community. We currently created two samples: **apparel/clothing store** and **electronics store** that you can import during the initial setup. We plan to have a repository of many different types of stores including a software store with digital downloads, subscription based store, <a href="https://virtocommerce.com/b2b-ecommerce" target="_blank">B2B ecommerce</a> store etc. Were also looking to our partners to create and publish custom sample stores in our App Store.
 
 For more details on these and other features read further.
