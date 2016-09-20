@@ -1,11 +1,13 @@
 ---
+aliases:
+  - blogs/vc/article/New-VirtoCommerce
+author: VirtoCommerce
 category: Release
-date: '08-08-2016'
-permalink: blogs/vc/article/New-VirtoCommerce
+date: '2016-08-08'
+permalink: blogs/news/new-virtocommerce
 tags:
   - Announcemnets
 title: 'New VirtoCommerce.com!'
-
 ---
 VirtoCommerce.com site has FINALLY migrated to VirtoCommerce Platform. Now it's fully managed from VirtoCommerce Manager <!--excerpt--> including appearance and content:
 
