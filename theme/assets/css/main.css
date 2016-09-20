@@ -1918,6 +1918,18 @@ textarea.__error
     top: 0;
 }
 
+.blog .post-media.no-image::before
+{
+    background: url(blue-abstract-background.jpg) no-repeat scroll 50% 50%;
+    background-size: cover;
+    bottom: 0;
+    content: ' ';
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
 .blog .post-descr
 {
     background: #fff;
