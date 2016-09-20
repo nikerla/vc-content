@@ -1,35 +1,34 @@
-{% paginate blog.articles by 5 %}
-<div class="posts __responsive">
-    <div class="cnt">
-        {% include 'breadcrumb' %}
-        {% for article in blog.articles %}
-            <div class="post">
-                <div class="post-t">
-                    <a href="{{ article.url | absolute_url }}">{{ article.title }}</a>
-                </div>
-                <div class="post-cnt">
-                    {% if article.tags.size > 0 %}
-                    {% include 'article-tags-list' %}
-                    {% endif %}
-                    <div class="text-light">
-                        Posted by <span class="author">{{ article.author }}</span> on <span class="date">{{ article.created_at | date: 'month_day_year' }}</span>
-                    </div>
-                    <div class="text">
-                        {{ article.excerpt }}
-                    </div>
-                </div>
-            </div>
-        {% endfor %}
+<div class="blog" itemtype="http://schema.org/Blog" itemscope ng-controller="blogController">
+    <div class="posts __responsive">
+        {% assign page_size = 9 %}
 
-        {% if paginate.pages > 1 %}
-        <div class="text-center">
-          {% include 'pagination-custom' %}
-        </div>
+        {% include 'blog-categories-item', categories: blog.categories %}
+
+        {% assign sticked_article = blog.articles | where: "isSticked", "==", "true" | first %}
+        {% if sticked_article == nil %}
+            {% assign sticked_article = blog.articles | first %}
         {% endif %}
+        {% include 'blog-list-item', article: sticked_article, style: "double" %}
 
+        {% assign first_page_articles = blog.articles | where: "Handle", "!=", sticked_article.handle %}
+        {% for article in first_page_articles limit: page_size %}
+            {% include 'blog-list-item', article: article, style: "single" %}
+        {% endfor %}
     </div>
-    <div class="sidebar">
-        {% include 'blog-sidebar' %}
+    <div class="posts __responsive" ng-if="articles || articles.length">
+        {% include 'blog-list-item-js' %}
     </div>
+    {% if first_page_articles.size > page_size %}
+        <div class="more __responsive" ng-if="!isLastPage">
+            <a class="button fill" ng-class="{ 'loading': isLoading }" ng-click="getArticles(pageNumber, {{ page_size }})">Older</a>
+        </div>
+    {% endif %}
+    {% assign trending_articles = blog.articles | where: "isTrending", "==", "true" %}
+    {% if blog.trending_articles %}
+        {% include 'blog-trending-list', articles: blog.trending_articles %}
+    {% endif %}
 </div>
-{% endpaginate %}
+<script>
+    window.blogName = '{{ blog.handle }}';
+    window.baseUrl = '{{ "/" | full_url }}';
+</script>
