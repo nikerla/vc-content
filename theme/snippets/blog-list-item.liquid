@@ -6,7 +6,7 @@
 
 <div class="{{ article_css_class }}">
     <div class="post-inner">
-        <div class="post-media" style="background-image: url('{{ article.image_url }}');">
+        <div class="post-media{% if article.image_url == nil %} no-image{% endif %}" style="background-image: url('{{ article.image_url }}');">
             {% if article.category %}
                 <div class="category-name">{{ article.category }}</div>
             {% endif %}
