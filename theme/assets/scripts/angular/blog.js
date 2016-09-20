@@ -30,7 +30,7 @@ storefrontApp.controller('blogController', ['$scope', '$window', '$location', 'b
            });
            $scope.pageNumber++;
            $scope.isLoading = false;
-           if (!response.data.length) {
+           if (!response.data.length || response.data.length < pageSize) {
                $scope.isLastPage = true;
            } 
         }, function (response) {
