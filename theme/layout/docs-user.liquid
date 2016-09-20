@@ -79,18 +79,13 @@
 </noscript>
 </head>
 <body ng-controller="mainController">
-    <div class="home">
-        <div class="home-t">
-            Welcome to Virto Commerce Documentation Site!
+    <div id="layout">
+        <div class="nav">
+            {% include 'user-tree' %}
         </div>
-        <ul class="menu">
-            <li class="menu-item">
-                <a href="#" class="menu-link">User guide</a>
-            </li>
-            <li class="menu-item">
-                <a href="#" class="menu-link">Developer guide</a>
-            </li>
-        </ul>
+        <div class="cnt">
+            {{ content_for_layout }}
+        </div>
     </div>
     <script type="text/javascript">
         var ShareIt = {

@@ -2115,20 +2115,47 @@ textarea.__error
     padding: 30px;
 }
 
-.blog .post h3
+.blog .post-media h3
 {
+    bottom: 0;
     font-size: 22px;
     font-weight: 300;
+    left: 0;
     line-height: 1.2;
     margin: 0;
-    position: relative;
+    position: absolute;
+    right: 0;
+    top: 0;
     z-index: 5;
+
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
 }
 
 .blog .post h3,
 .blog .post a
 {
     color: #fff;
+}
+
+.blog .post-media h3 a
+{
+    padding: 0 25px 20px;
+
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+
+    -webkit-align-items: flex-end;
+            align-items: flex-end;
+
+    -webkit-flex-grow: 1;
+            flex-grow: 1;
 }
 
 .blog .post-detail .post-descr h3
