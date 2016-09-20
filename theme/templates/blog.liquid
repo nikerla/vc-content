@@ -18,9 +18,11 @@
     <div class="posts __responsive" ng-if="articles || articles.length">
         {% include 'blog-list-item-js' %}
     </div>
-    <div class="more __responsive" ng-if="!isLastPage">
-        <a class="button fill" ng-class="{ 'loading': isLoading }" ng-click="getArticles(pageNumber, {{ page_size }})">Older</a>
-    </div>
+    {% if first_page_articles.size > page_size %}
+        <div class="more __responsive" ng-if="!isLastPage">
+            <a class="button fill" ng-class="{ 'loading': isLoading }" ng-click="getArticles(pageNumber, {{ page_size }})">Older</a>
+        </div>
+    {% endif %}
     {% assign trending_articles = blog.articles | where: "isTrending", "==", "true" %}
     {% if blog.trending_articles %}
         {% include 'blog-trending-list', articles: blog.trending_articles %}
