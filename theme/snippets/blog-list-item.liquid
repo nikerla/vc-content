@@ -16,7 +16,7 @@
             <div class="post-descr">{{ article.excerpt }}</div>
         {% endif %}
         <div class="post-other">
-            <div class="post-logo"></div>
+            <div class="post-logo"><img src="{{ 'logo-mini.png' | asset_url }}" /></div>
             <div class="post-author">
                 <div class="author">{{ article.author }}</div>
                 <div class="date">{{ article.created_at | date: "%b %d, %Y" }}</div>

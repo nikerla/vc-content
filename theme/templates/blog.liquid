@@ -1,6 +1,6 @@
 <div class="blog" itemtype="http://schema.org/Blog" itemscope ng-controller="blogController">
     <div class="posts __responsive">
-        {% assign page_size = 3 %}
+        {% assign page_size = 9 %}
 
         {% include 'blog-categories-item', categories: blog.categories %}
 
@@ -11,11 +11,9 @@
         {% include 'blog-list-item', article: sticked_article, style: "double" %}
 
         {% assign first_page_articles = blog.articles | where: "Handle", "!=", sticked_article.handle %}
-        {% paginate blog.articles by page_size %}
-            {% for article in first_page_articles %}
-                {% include 'blog-list-item', article: article, style: "single" %}
-            {% endfor %}
-        {% endpaginate %}
+        {% for article in first_page_articles limit: page_size %}
+            {% include 'blog-list-item', article: article, style: "single" %}
+        {% endfor %}
     </div>
     <div class="posts __responsive" ng-if="articles || articles.length">
         {% include 'blog-list-item-js' %}
