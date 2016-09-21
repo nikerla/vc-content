@@ -4,13 +4,13 @@
     {% assign article_css_class = "post post-single" %}
 {% endif %}
 
-<div class="{{ article_css_class }}">
+<div class="{{ article_css_class }}" itemprop="blogPost">
     <div class="post-inner">
         <div class="post-media{% if article.image_url == nil %} no-image{% endif %}" style="background-image: url('{{ article.image_url }}');">
             {% if article.category %}
                 <div class="category-name">{{ article.category }}</div>
             {% endif %}
-            <h3><a href="{{ article.url | absolute_url }}">{{ article.title }}</a></h3>
+            <h3><a href="{{ article.url | absolute_url }}" itemprop="headline">{{ article.title }}</a></h3>
         </div>
         {% if article.excerpt %}
             <div class="post-descr">{{ article.excerpt }}</div>
@@ -18,8 +18,8 @@
         <div class="post-other">
             <div class="post-logo"><img src="{{ 'logo-mini.png' | asset_url }}" /></div>
             <div class="post-author">
-                <div class="author">{{ article.author }}</div>
-                <div class="date">{{ article.created_at | date: "%b %d, %Y" }}</div>
+                <div class="author" itemprop="author">{{ article.author }}</div>
+                <div class="date" itemprop="dateCreated">{{ article.created_at | date: "%b %d, %Y" }}</div>
             </div>
         </div>
     </div>

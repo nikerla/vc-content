@@ -1,5 +1,5 @@
 <div class="blog" itemtype="http://schema.org/Blog" itemscope ng-controller="blogController">
-    <div class="posts __responsive">
+    <div class="posts __responsive" itemprop="blogPosts">
         {% assign page_size = 9 %}
 
         {% include 'blog-categories-item', categories: blog.categories %}
