@@ -1,15 +1,16 @@
 ﻿---
 author: VirtoCommerce
+category: Technical
 date: 2015-09-02 14:21
+excerpt: Quick tip on how to reduce size of a bloated Github repository. 
 permalink: blogs/news/reducing-size-of-github-source-code-repository
 tags: [Announcements, open source, CodeProject, Github]
 title: "Reducing size of Github source code repository"
-published: Private
 ---
 # Introduction
 
 Quick tip on how to reduce size of a bloated Github repository.
-<!--excerpt-->
+
 # Background
 
 We have been developing Virto Commerce on Github for the past two years. There have been quite a few feature branches and many files have been added/removed during the development. All these files still sit in the Git history which is downloaded every time when the repository is cloned. At its peak, the repository reached a size of over 200mb, while useful/active code was only a few MBs in size. At that point the size started to impact efficiency of developers working on the platform. We researched several options on how to reduce size. The main concern was keeping a history of still active files while also allowing our existing customers to be able to see and merge changes to their older versions.

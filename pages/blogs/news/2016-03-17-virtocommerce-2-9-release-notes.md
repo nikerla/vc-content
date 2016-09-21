@@ -1,14 +1,15 @@
 ﻿---
 author: VirtoCommerce
+category: Release
 date: '2016-03-17 06:43'
+excerpt: The main focus of this release was Social Login and lazy API data loading in Storefront.
 main-image: assets/images/blog/release-2-9-snowdrop.jpg
 permalink: blogs/news/virtocommerce-2-9-release-notes
-tags: [2.0,Announcements,ecommerce,enterprise ecommerce,features,open source,release notes,seo]
+tags: [ 2.0, Announcements, ecommerce, enterprise ecommerce, features, open source, release notes, seo ]
 title: 'VirtoCommerce 2.9 Release Notes'
-published: Private
----
+ ---
 The main focus of this release was Social Login and lazy API data loading in Storefront.
-<!--excerpt-->
+
 # Social Login
 
 Ability to sign in via external login providers (Google, Facebook, etc.) on Storefront:

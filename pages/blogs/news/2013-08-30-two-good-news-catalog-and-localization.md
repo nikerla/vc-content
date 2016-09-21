@@ -1,9 +1,10 @@
 ﻿---
 author: VirtoCommerce
+category: VirtoCommerce News
 date: 2013-08-30 05:06
+excerpt: During the last development our demo catalog got more consistent structure.
 permalink: blogs/news/two-good-news-catalog-and-localization
 title: "Two good news: catalog and localization"
-published: Private
 ---
 Hello All,
 

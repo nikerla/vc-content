@@ -5,7 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
     <meta name="viewport" content="width=device-width" />
     <meta name="apple-touch-fullscreen" content="yes" />
-    <meta name="description" content="{{ page_description }}" />
+    
+    {% if article %}
+        {% assign page_url = article.url | full_url %}
+        {% assign description = article.excerpt %}
+    {% else %}
+        {% assign page_url = blog.url | full_url %}
+        {% assign description = page_description %}
+    {% endif %}
+    
+    <meta name="description" content="{{ description }}" />
 
     <!-- Facebook  Open Graph Meta Tags BEGIN -->
     <meta property="og:locale" content="en_US" />
@@ -20,13 +29,6 @@
     {% endif %}
     <meta content="{{ page_image_full_url }}" property="og:image" />
 
-    {% if article %}
-        {% assign page_url = article.url | full_url %}
-        {% assign description = article.excerpt %}
-    {% else %}
-        {% assign page_url = blog.url | full_url %}
-        {% assign description = page_description %}
-    {% endif %}
     <meta content="{{ page_url }}" property="og:url" />
     <meta content="{{ description }}" property="og:description" />
     <meta content="{{ page_title }}" property="og:title" />
@@ -55,6 +57,7 @@
     {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js' | script_tag }}
     {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular-route.min.js' | script_tag }}
     {{ '//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js' | script_tag }}
+    {{ '//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js' | script_tag }}
     {{ 'app.js' | asset_url | script_tag }}
     {{ 'services.js' | asset_url | script_tag }}
     {{ 'blog.js' | asset_url | script_tag }}
