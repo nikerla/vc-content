@@ -1,13 +1,14 @@
 ﻿---
 author: VirtoCommerce
+category: Technical
 date: 2015-10-21 04:07
+excerpt: We are happy to announce the initial version of VirtoCommerce Azure API App for deployment into the Azure App Service.
 permalink: blogs/news/integrating-virtocommerce-with-erp-and-other-systems-using-azure-api-app
 tags: [Announcements]
 title: "Integrating VirtoCommerce with ERP and other systems using Azure API App"
-published: Private
 ---
 We are happy to announce the initial version of VirtoCommerce Azure API App for deployment into the Azure App Service. This API App implements integration points with the VirtoCommerce platform api using Azure Logic Apps. In the initial version catalog, products and order APIs are exposed.
-<!--excerpt-->
+
 With the help of the API App you can integrate VirtoCommerce with many systems like SAP ERP, Salesforce and many more that are available on Azure Marketplace as connectors.
 
 ![](assets/images/blog/connectors.png)

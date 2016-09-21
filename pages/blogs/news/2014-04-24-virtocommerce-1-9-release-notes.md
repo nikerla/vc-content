@@ -1,13 +1,14 @@
 ﻿---
 author: VirtoCommerce
+category: Release
 date: 2014-04-24 00:40
+excerpt: This release focus was on performance and technology updates as well as some smaller enhancements. 
 permalink: blogs/news/virtocommerce-1-9-release-notes
 tags: [announcements, ecommerce, entityframework, full page caching, html5, localization, paypal]
 title: "Virto Commerce 1.9 Release"
-published: Private
 ---
 This release focus was on performance and technology updates as well as some smaller enhancements.
-<!--excerpt-->
+
 Here is the list of new features:
 
 * **Entity Framework 6** – migrated to the latest Entity Framework version which improves migrations, performance and extensibility

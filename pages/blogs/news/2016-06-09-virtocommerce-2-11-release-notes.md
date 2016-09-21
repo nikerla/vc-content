@@ -1,24 +1,16 @@
 ---
-author: 'Virtocommerce'
-date: '2016-06-09'
+author: VirtoCommerce
 category: Release
+date: '2016-06-09'
+excerpt: The main focus of this release was the development process change and related source code redesign.
 is-trending: 'true'
-permalink: blogs/news/virtocommerce-2-11-release-notes
-tags:
-  - '2'
-  - Announcements
-  - Ecommerce
-  - 'Enterprise Ecommerce'
-  - Features
-  - 'Open Source'
-  - 'Release notes'
-  - 'SEO'
-title: 'VirtoCommerce 2.11 Release Notes'
 main-image: 'assets/images/blog/release-2-11-primula.jpg'
-published: Private
+permalink: blogs/news/virtocommerce-2-11-release-notes
+tags: [ 2.0, Announcements, Ecommerce, Enterprise Ecommerce, Features, Open Source, Release notes, SEO ]
+title: 'VirtoCommerce 2.11 Release Notes'
 ---
 The main focus of this release was the development process change and related source code redesign.
-<!--excerpt-->"
+
 ![](assets/images/blog/without-source-code-development-process-data-flow-1.png "Developing a custom solution. Data Flow Diagram")
 
 # Modules management

@@ -1,12 +1,13 @@
 ﻿---
 author: VirtoCommerce
+category: Release
 date: 2013-08-02 21:38
+excerpt: Today we released the v1.1 update of the Virto Commerce. This is a big refresh of Virto Commerce and it includes some great new features and enhancements.
 permalink: blogs/news/announcing-the-release-of-virtocommerce-1-1
 tags: [announcements]
 title: "Announcing the release of Virto Commerce 1.1"
-published: Private
 ---
-Today we released the v1.1 update of the Virto Commerce. This is a big refresh of Virto Commerce and it includes some great new features and enhancements.<!--excerpt--> These new capabilities include:
+Today we released the v1.1 update of the Virto Commerce. This is a big refresh of Virto Commerce and it includes some great new features and enhancements. These new capabilities include:
 
 * **SDK Installer Improvements**: improved User Interface for both installer and configuration utility, improved sample data
 * **Front End Accelerator**: now supports localization, fuzzy search, better inventory handling and product display, social buttons
