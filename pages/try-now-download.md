@@ -3,7 +3,9 @@ title: Virto commerce - Free download .NET open-source ecommerce platform
 description: Virto commerce - Free download .NET open-source ecommerce platform
 date: 2014-01-30
 permalink: try-now-download
-aliases: pickedition
+aliases: 
+- pickedition
+- download-sdk
 tags : 
 - thank-you
 - commerce
