@@ -13,13 +13,13 @@
             <h3><a href="{{ article.url | absolute_url }}" itemprop="headline">{{ article.title }}</a></h3>
         </div>
         {% if article.excerpt %}
-            <div class="post-descr">{{ article.excerpt }}</div>
+            <div class="post-descr" itemprop="description">{{ article.excerpt }}</div>
         {% endif %}
         <div class="post-other">
             <div class="post-logo"><img src="{{ 'logo-mini.png' | asset_url }}" /></div>
             <div class="post-author">
                 <div class="author" itemprop="author">{{ article.author }}</div>
-                <div class="date" itemprop="dateCreated">{{ article.created_at | date: "%b %d, %Y" }}</div>
+                <div class="date" itemprop="datePublished">{{ article.created_at | date: "%b %d, %Y" }}</div>
             </div>
         </div>
     </div>
