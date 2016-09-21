@@ -2,7 +2,7 @@
 author: VirtoCommerce
 category: Technical
 date: '2016-06-10'
-is-trending: 'true'
+is-trending: true
 permalink: blogs/news/migrating-virtocommerce-from-previous-2-x-versions-to-2-11
 tags: [ Announcements ]
 title: 'Migrating VirtoCommerce from previous 2.x versions to 2.11'
