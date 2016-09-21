@@ -20,7 +20,7 @@
                         <div class="post-logo"><img src="{{ 'logo-mini.png' | asset_url }}" /></div>
                         <div class="post-author">
                             <div class="author" itemprop="author">{{ article.author }}</div>
-                            <div class="date" itemprop="dateCreated">{{ article.created_at | date: 'month_day_year' }}</div>
+                            <div class="date" itemprop="datePublished">{{ article.created_at | date: 'month_day_year' }}</div>
                         </div>
                     </div>
                     {% include 'blog-list-tags', tags: article.tags, position: "top" %}
