@@ -8,6 +8,7 @@ permalink: blogs/news/new-virtocommerce
 tags:
   - Announcemnets
 title: 'New VirtoCommerce.com!'
+layout: 'blog-layout'
 ---
 VirtoCommerce.com site has FINALLY migrated to VirtoCommerce Platform. Now it's fully managed from VirtoCommerce Manager <!--excerpt--> including appearance and content:
 
