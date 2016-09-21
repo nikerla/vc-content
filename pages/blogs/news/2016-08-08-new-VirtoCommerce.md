@@ -2,11 +2,11 @@
 aliases:
   - blogs/vc/article/New-VirtoCommerce
 author: VirtoCommerce
-category: Release
+category: News
 date: '2016-08-08'
 permalink: blogs/news/new-virtocommerce
 tags:
-  - Announcemnets
+  - Announcements
 title: 'New VirtoCommerce.com!'
 layout: 'blog-layout'
 ---
