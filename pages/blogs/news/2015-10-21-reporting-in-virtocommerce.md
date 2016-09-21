@@ -1,13 +1,13 @@
----
+﻿---
 author: VirtoCommerce
 date: 2015-10-21 05:22
-excerpt: The amount of data accumulated for analysis is increasing daily. In the past, companies used internal data sources for analysis and decision-making. Usually SQL database server was used as the default data source. Today a common enterprise company having multiple subsystems can have different data sources like Microsoft Sql Server, Oracle Sql Server, SAP, structured files (XML, XLS, CSV etc.) and many more to store and exchange data.
 permalink: blogs/news/reporting-in-virtocommerce
 tags: [Announcements]
 title: "Reporting in VirtoCommerce"
+published: Private
 ---
 The amount of data accumulated for analysis is increasing daily. In the past, companies used internal data sources for analysis and decision-making. Usually SQL database server was used as the default data source. Today a common enterprise company having multiple subsystems can have different data sources like Microsoft Sql Server, Oracle Sql Server, SAP, structured files (XML, XLS, CSV etc.) and many more to store and exchange data.
-
+<!--excerpt-->
 A great volume of analytical data is placed in external &amp; cloud based sources such as Google Analytics, Google BigQuery, ZenDesk, Salesforce Objects etc.
 
 Company analysts face a difficult task to aggregate data from different sources and use it for analytical reports. Recently, these duties were performed by company IT departments, because analysts and consumers are not skilled enough to retrieve the data and build the report.

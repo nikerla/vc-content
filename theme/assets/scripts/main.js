@@ -136,14 +136,15 @@ $(function () {
     });
 
     $('body').delegate('[data-swipe="opened"]', 'click', function (e) {
-        e.preventDefault();
         var li = $(this).parent('[data-id="swipeli"]');
-        if (li.hasClass('opened')) {
-            $('[data-id="swipeli"]').removeClass('opened');
-        }
-        else {
-            $('[data-id="swipeli"]').removeClass('opened');
-            li.addClass('opened');
+        if (li.find('.sub-menu').length) {
+            e.preventDefault();
+            if (li.hasClass('opened')) {
+                $('[data-id="swipeli"]').removeClass('opened');
+            } else {
+                $('[data-id="swipeli"]').removeClass('opened');
+                li.addClass('opened');
+            }
         }
     });
 

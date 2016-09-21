@@ -24,14 +24,13 @@ storefrontApp.controller('blogController', ['$scope', '$window', '$location', 'b
         blogService.getArticles($window.blogName, filterType, criteria, page, pageSize).then(function (response) {
            var articles = response.data;
            _.each(articles, function (article) {
-               if (article.imageUrl) {
-                   article.imageUrl = $window.baseUrl + article.imageUrl;
-               }
+               article.imageUrl = $window.baseUrl + (article.imageUrl || 'themes/assets/blue-abstract-background.jpg');
+               article.authorImageUrl = $window.baseUrl + 'themes/assets/logo-mini.png';
                $scope.articles.push(article);
            });
            $scope.pageNumber++;
            $scope.isLoading = false;
-           if (!response.data.length) {
+           if (!response.data.length || response.data.length < pageSize) {
                $scope.isLastPage = true;
            } 
         }, function (response) {

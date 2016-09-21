@@ -1,16 +1,16 @@
----
+﻿---
 author: VirtoCommerce
 date: 2015-07-25 10:00
-excerpt: The focus of this release was integration, import/export, performance and custom properties engine. Below are just some of the updates we made during last sprint, for more details you may refer to our github repository, there was more than 448 individual commits in the past 3 weeks.
 main-image: assets/images/blog/release-2-3-dew.jpg
 permalink: blogs/news/virtocommerce-2-3-release-notes
 tags: [2.0, Announcements, azure, ecommerce, enterprise ecommerce, features, open source, Performance, platform]
 title: "VirtoCommerce 2.3 Release Notes"
+published: Private
 ---
 The focus of this release was integration, import/export, performance and custom properties engine.
 
 Below are just some of the updates we made during last sprint, for more details you may refer to our github repository, there was more than **448 individual** **commits** in the past 3 weeks:
-
+<!--excerpt-->
 * **Catalog** - Default language, additional language and currency management system have been redesigned
 * **Documentation** - new developer and user guides
 * **Platform Export/Import** - allows migration of modules data between different Virto Commerce platform instances, provides import/export engine for custom modules

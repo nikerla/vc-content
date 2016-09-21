@@ -3,6 +3,7 @@ author: VirtoCommerce
 date: 2013-08-14 22:05
 permalink: blogs/news/why-elon-musk-hyperloop-on-an-ecommerce-platform-site
 title: "Why Elon Musk Hyperloop on an eCommerce platform site?"
+published: Private
 ---
 ![Why Elon Musk Hyperloop on an eCommerce platform site?](../../assets/images/blog/hyperloop.jpg)
 

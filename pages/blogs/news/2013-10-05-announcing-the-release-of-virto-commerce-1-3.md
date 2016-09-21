@@ -1,12 +1,12 @@
----
+﻿---
 author: VirtoCommerce
 date: 2013-10-05 01:08
-excerpt: Today we release version 1.3 of Virto Commerce. This is a minor release just a little over a week since previous one.
 permalink: blogs/news/announcing-the-release-of-virtocommerce-1-3
 tags: [announcements]
 title: "Announcing the release of Virto Commerce 1.3"
+published: Private
 ---
-Today we release version 1.3 of Virto Commerce. This is a minor release just a little over a week since previous one. This release was mostly focused around the following:
+Today we release version 1.3 of Virto Commerce. This is a minor release just a little over a week since previous one. <!--excerpt-->This release was mostly focused around the following:
 
 * [User Guide](http://docs.virtocommerce.com/display/vc1userguide/Home): we reviewed our User Guide and improved the content, please send us information on what section can be improved
 * [Developer Guide](http://docs.virtocommerce.com/display/vc1devguide/Home): added some extra info on working with assets as well as documentation on deploying source code package into azure, we will continue adding content to the guide

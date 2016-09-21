@@ -1,15 +1,15 @@
 ---
 author: VirtoCommerce
 date: 2013-06-18 20:18
-excerpt: We are proud to announce, that we have just released new version of our platform. It's now available for hosted demo. You can get your hands-on it following this link http://demo.virtocommerce.com
 permalink: blogs/news/virtocommerce-1-0
 tags: [.net, asp.net, ecommerce, platfrom]
 title: "Virto Commerce 1.0"
+published: Private
 ---
 Hi everyone,
 
 We are proud to announce, that we have just released new version of our platform.
-
+<!--excerpt-->
 It's now available for hosted demo. You can get your hands-on it following this link: [http://demo.virtocommerce.com](http://demo.virtocommerce.com).
 
 The hosted demo lets you view and explore the latest version of Virto Commerce.

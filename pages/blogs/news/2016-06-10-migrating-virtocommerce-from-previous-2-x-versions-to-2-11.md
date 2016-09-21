@@ -1,20 +1,20 @@
 ---
 category: Release
 author: 'Virtocommerce'
-date: '06-09-2016'
+date: '2016-06-10'
 is-trending: 'true'
 permalink: blogs/news/migrating-virtocommerce-from-previous-2-x-versions-to-2-11
 tags:
   - Announcements
 title: 'Migrating VirtoCommerce from previous 2.x versions to 2.11'
-
+published: Private
 ---
 # On local file system
 
 * Make new platform installation http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started and leave old database connection string.
 * Make new storefront installation http://docs.virtocommerce.com/display/vc2devguide/Storefront+Source+Code+Getting+Started
 * (Optional) If you have some changes in CMS content you need to copy it to 2.11 platform */App_Data/cms-content* folder:
-
+ <!--excerpt-->
 > COPY FROM
 >
 > {storefront 2.x path}\STOREFRONT\VirtoCommerce.Storefront\App_Data\Themes\*.*

@@ -1,8 +1,9 @@
----
+﻿---
 author: VirtoCommerce
 date: 2013-08-30 05:06
 permalink: blogs/news/two-good-news-catalog-and-localization
 title: "Two good news: catalog and localization"
+published: Private
 ---
 Hello All,
 

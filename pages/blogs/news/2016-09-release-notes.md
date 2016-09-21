@@ -1,3 +1,9 @@
+---
+category: Release
+date: '2016-09-20'
+published: Private
+
+---
 Release notes for "September 2016" release
 ========
 ##Platform
@@ -12,6 +18,14 @@ Release notes for "September 2016" release
 * Advanced Order filtering in UI
 <<img>>
 
+## JavaScript Shopping Cart module
+Storefront or Mobile application are only ones of your possible sales channels. Right now VirtoCommerce makes it easy to add ecommerce functionality to share and sell your products on any website.
+
+![vcsalechannels](https://cloud.githubusercontent.com/assets/16013311/18511407/d76a3c14-7a83-11e6-9c07-c09c1c7f0289.PNG)
+
+You have designed an awesome blog with Wordpress or other platform, and now you can start making money by adding easy-to-use VirtoCommerce JavaScriptShoppingCart. It works by offering a small piece of code, which can be implemented on your site to turn any element into a Buy button.
+
+https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart
 
 ##Storefront
 ###Client generation with Autorest
@@ -26,5 +40,3 @@ We've switched the C# clients generation tool to Autorest.  This simplified code
 
 ###Checkout
 ???
-
-

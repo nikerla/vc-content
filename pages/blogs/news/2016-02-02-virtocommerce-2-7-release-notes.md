@@ -1,4 +1,4 @@
----
+﻿---
 author: VirtoCommerce
 date: 2016-02-02 01:02
 excerpt: The main focus of this release was performance tuning and stability.
@@ -6,6 +6,7 @@ main-image: assets/images/blog/release-2-7-needles.jpg
 permalink: blogs/news/virtocommerce-2-7-release-notes
 tags: [2.0, Announcements, ecommerce, enterprise ecommerce, features, open source, platform, release notes]
 title: "VirtoCommerce 2.7 Release Notes"
+published: Private
 ---
 The main focus of this release was performance tuning and stability.
 

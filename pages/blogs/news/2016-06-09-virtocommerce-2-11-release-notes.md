@@ -1,6 +1,6 @@
 ---
 author: 'Virtocommerce'
-date: '06-09-2016'
+date: '2016-06-09'
 category: Release
 is-trending: 'true'
 permalink: blogs/news/virtocommerce-2-11-release-notes
@@ -15,10 +15,10 @@ tags:
   - 'SEO'
 title: 'VirtoCommerce 2.11 Release Notes'
 main-image: 'assets/images/blog/release-2-11-primula.jpg'
-layout: blog-layout
+published: Private
 ---
 The main focus of this release was the development process change and related source code redesign.
-
+<!--excerpt-->"
 ![](assets/images/blog/without-source-code-development-process-data-flow-1.png "Developing a custom solution. Data Flow Diagram")
 
 # Modules management

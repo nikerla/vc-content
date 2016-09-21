@@ -1,16 +1,16 @@
 ---
-category: Release
-date: '08-08-2016'
-author: 'Virtocommerce'
-is-sticked: true
-is-trending: true
-permalink: blogs/vc/article/New-VirtoCommerce
-style: double
+aliases:
+  - blogs/vc/article/New-VirtoCommerce
+author: VirtoCommerce
+category: News
+date: '2016-08-08'
+permalink: blogs/news/new-virtocommerce
 tags:
-  - Announcemnets
+  - Announcements
 title: 'New VirtoCommerce.com!'
+layout: 'blog-layout'
 ---
-VirtoCommerce.com site has FINALLY migrated to VirtoCommerce Platform. Now it's fully managed from VirtoCommerce Manager including appearance and content:
+VirtoCommerce.com site has FINALLY migrated to VirtoCommerce Platform. Now it's fully managed from VirtoCommerce Manager <!--excerpt--> including appearance and content:
 
 * The theme was updated giving an exceptional look for the website. The theme itself can be updated in VC CMS module (themes management).
 * The VC blog has migrated from external WordPress site to VC CMS module (blogs management).

@@ -14,6 +14,7 @@ tags:
   - SEO
 category: Release
 title: 'VirtoCommerce 2.10 Release Notes'
+published: Private
 ---
 # Integration modules moved to separate repository
 
