@@ -1,13 +1,14 @@
 ﻿---
 author: VirtoCommerce
+category: Release
 date: 2014-08-06 11:52
+excerpt: Since we haven’t posted updates for 1.10 release and 1.11 was just launched, this post will contain info on both of them. 
 permalink: blogs/news/virtocommerce-1-10-1-11-release-notes
 tags: [Announcements, Architecture]
 title: "Virto Commerce 1.10 and 1.11 Releases"
-published: Private
 ---
 Since we haven’t posted updates for 1.10 release and 1.11 was just launched, this post will contain info on both of them.
-<!--excerpt-->
+
 Here is the list of new features:
 
 * **Elastic Path 1.1.1** – we upgrade our elastic path providers to support 1.1.1 version (the previous one was an old 0.29 release). Lots of new functionality added (v1.10)

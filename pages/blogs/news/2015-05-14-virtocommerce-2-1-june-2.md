@@ -1,13 +1,14 @@
 ﻿---
 author: VirtoCommerce
+category: Release
 date: 2015-05-14 21:58
+excerpt: To better communicate our plans we continue with a approach of making our next sprint plans public.
 permalink: blogs/news/virtocommerce-2-1-june-2
 tags: [aspstore, ecommerce, marketing, marketplace, open source, promotions, search indexing, seo, zapper, zendesk]
 title: "Virto Commerce 2.1 - June 2"
-published: Private
 ---
 To better communicate our plans we continue with a approach of making our next sprint plans public. There will also be a post regarding previous (May 11) release and what functionality has been implemented. Stay tuned for that.
-<!--excerpt-->
+
 So here is again our plan for the next Development Sprint scheduled to be completed on June 2nd. The sprint is about 3 weeks at the end of which we’ll have some new functionality available. Below is description of those new features. You can also let us know what you want to see in platform by posting it here: [http://help.virtocommerce.com/support/discussions/forums/264127](http://help.virtocommerce.com/support/discussions/forums/264127)
 
 # Platform Improvements

@@ -1,10 +1,11 @@
 ﻿---
 author: VirtoCommerce
+category: VirtoCommerce News
 date: 2015-10-21 05:22
+excerpt: The amount of data accumulated for analysis is increasing daily. In the past, companies used internal data sources for analysis and decision-making.
 permalink: blogs/news/reporting-in-virtocommerce
 tags: [Announcements]
 title: "Reporting in VirtoCommerce"
-published: Private
 ---
 The amount of data accumulated for analysis is increasing daily. In the past, companies used internal data sources for analysis and decision-making. Usually SQL database server was used as the default data source. Today a common enterprise company having multiple subsystems can have different data sources like Microsoft Sql Server, Oracle Sql Server, SAP, structured files (XML, XLS, CSV etc.) and many more to store and exchange data.
 <!--excerpt-->
