@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Release
 date: 2015-04-15 15:37
 excerpt: We have been working hard on the new 2.0 version and finally have some exciting things to show.
-permalink: blogs/news/virtocommerce-2-0-beta
+permalink: blog/virtocommerce-2-0-beta
 tags: [2.0, azure, beta, deployment, ecommerce, features, installation, microsoft cloud, themes]
 title: "Virto Commerce 2.0 Beta!"
 ---

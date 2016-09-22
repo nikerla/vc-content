@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Release
 date: 2013-10-05 01:08
 excerpt: Today we release version 1.3 of Virto Commerce. This is a minor release just a little over a week since previous one.
-permalink: blogs/news/announcing-the-release-of-virtocommerce-1-3
+permalink: blog/announcing-the-release-of-virtocommerce-1-3
 tags: [announcements]
 title: "Announcing the release of Virto Commerce 1.3"
 ---

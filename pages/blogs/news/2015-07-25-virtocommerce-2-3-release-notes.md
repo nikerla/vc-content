@@ -4,7 +4,7 @@ category: Release
 date: 2015-07-25 10:00
 excerpt: The focus of this release was integration, import/export, performance and custom properties engine. 
 main-image: assets/images/blog/release-2-3-dew.jpg
-permalink: blogs/news/virtocommerce-2-3-release-notes
+permalink: blog/virtocommerce-2-3-release-notes
 tags: [2.0, Announcements, azure, ecommerce, enterprise ecommerce, features, open source, Performance, platform]
 title: "VirtoCommerce 2.3 Release Notes"
 ---

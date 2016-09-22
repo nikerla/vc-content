@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Technical
 date: 2014-12-11 13:16
 excerpt: Evolution of e-commerce platforms was always tightly connected to CMS. Recently most of the world leading CMS companies acquired e-commerce component or developed one themselves.
-permalink: blogs/news/no-cms-approach-for-e-commerce
+permalink: blog/no-cms-approach-for-e-commerce
 tags: [Architecture, CMS platform, e-commerce]
 title: "NO-CMS approach for e-commerce"
 ---

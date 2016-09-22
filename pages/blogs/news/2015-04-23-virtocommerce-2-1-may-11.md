@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Release
 date: 2015-04-23 21:55
 excerpt: Here is our plan for the next Development Sprint scheduled to be completed on May 11.
-permalink: blogs/news/virtocommerce-2-0-may-11
+permalink: blog/virtocommerce-2-0-may-11
 tags: [aspstore, ecommerce, mailchimp, marketing, marketplace, open source, promotions, search indexing, seo, zapper, zendesk]
 title: "Virto Commerce 2.0 - May 11"
 ---

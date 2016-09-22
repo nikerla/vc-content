@@ -5,9 +5,7 @@
     <ul class="tags list">
         {% for tag in tags %}
             <li class="list-item">
-                {% assign tag_handle = tag | handleize %}
-                {% assign blog_url = '/blogs/' | append: blog.handle %}
-                {% assign tag_url = blog_url | append: '/tag/' | append: tag_handle  %}
+                {% assign tag_url = '/blog/tag/' | append: tag  %}
                 <a class="list-link" href="{{ tag_url | absolute_url }}">{{ tag }}</a>
             </li>
         {% endfor %}

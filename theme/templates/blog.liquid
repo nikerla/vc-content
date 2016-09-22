@@ -4,32 +4,105 @@
 
         {% include 'blog-categories-item', categories: blog.categories %}
 
+        {% assign sticked_article = blog.articles | where: 'IsSticked', '==', 'true' | first %}
+        {% if sticked_article == nil %}
+            {% assign sticked_article = blog.articles | first %}
+        {% endif %}
+        {% include 'blog-list-item', article: sticked_article, style: "double" %}
+
+        {% assign articles = blog.articles %}
+        {% if current_blog_category != nil %}
+            {% assign articles = articles | where: 'CategoryHandle', '==', current_blog_category %}
+        {% elseif current_blog_tag != nil %}
+            {% assign articles = articles | where: 'Tags', 'contains', current_blog_tag %}
+        {% endif %}
+        {% for article in articles %}
+            {% include 'blog-list-item', article: article, style: "single" %}
+            {% if forloop.index == page_size %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="posts __responsive" ng-if="articles || articles.length">
+        {% include 'blog-list-item-js' %}
+    </div>
+
+    {% if articles.size > page_size %}
+        <div class="more __responsive" ng-if="!isLastPage">
+            <a class="button fill" ng-class="{ 'loading': isLoading }" ng-click="getArticles(pageNumber)">Older</a>
+        </div>
+    {% endif %}
+
+    {% assign trending_articles = blog.articles | where: "IsTrending", "==", "true" %}
+    {% if trending_articles.size > 0 %}
+        {% include 'blog-trending-list', articles: trending_articles %}
+    {% endif %}
+</div>
+
+{{ sticked_articles.size }}
+
+<script>
+    window.baseUrl = '{{ "/" | full_url }}';
+    window.blogName = '{{ blog.handle }}';
+    window.currentBlogCategory = '{{ current_blog_category }}';
+    window.currentBlogTag = '{{ current_blog_tag }}';
+    window.pageSize = {{ page_size }};
+</script>
+
+{% comment %}
+<div class="blog" itemtype="http://schema.org/Blog" itemscope ng-controller="blogController">
+    <div class="posts __responsive" itemprop="blogPosts">
+        {% assign page_size = 9 %}
+
+        {% include 'blog-categories-item', categories: blog.categories %}
+
         {% assign sticked_article = blog.articles | where: "IsSticked", "==", "true" | first %}
         {% if sticked_article == nil %}
             {% assign sticked_article = blog.articles | first %}
         {% endif %}
         {% include 'blog-list-item', article: sticked_article, style: "double" %}
 
-        {% assign first_page_articles = blog.articles | where: "Handle", "!=", sticked_article.handle %}
-        {% for article in first_page_articles limit: page_size %}
+        {% assign articles = blog.articles | where: "IsSticked", "!=", "true" %}
+        {% assign articles = articles | where: "Handle", "!=", sticked_article.handle %}
+        {% if current_blog_category %}
+            {% assign articles = articles | where: "CategoryHandle", "==", current_blog_category %}
+        {% endif %}
+        {% comment %}
+        {% if current_blog_tag %}
+            {% assign articles = articles | where: "Tag", "contains", current_blog_tag %}
+        {% endif %}
+        {% endcomment %}
+
+        {% for article in articles limit: page_size %}
             {% include 'blog-list-item', article: article, style: "single" %}
         {% endfor %}
     </div>
+
     <div class="posts __responsive" ng-if="articles || articles.length">
         {% include 'blog-list-item-js' %}
     </div>
-    {% if first_page_articles.size > page_size %}
+
+    {% if articles.size > page_size %}
         <div class="more __responsive" ng-if="!isLastPage">
-            <a class="button fill" ng-class="{ 'loading': isLoading }" ng-click="getArticles(pageNumber, {{ page_size }})">Older</a>
+            <a class="button fill" ng-class="{ 'loading': isLoading }" ng-click="getArticles(pageNumber)">Older</a>
         </div>
     {% endif %}
+
     {% assign trending_articles = blog.articles | where: "IsTrending", "==", "true" %}
-    {{ trending_articles.size }}
-    {% if trending_articles %}
+    {% if trending_articles.size > 0 %}
         {% include 'blog-trending-list', articles: trending_articles %}
     {% endif %}
+    {% assign excluded_articles = blog.articles | where: "IsSticked", "==", "true" %}
+    {{ excluded_articles.size }}
 </div>
+
 <script>
-    window.blogName = '{{ blog.handle }}';
     window.baseUrl = '{{ "/" | full_url }}';
+    window.blogName = '{{ blog.handle }}';
+    window.currentBlogCategory = '{{ blog.current_blog_category }}';
+    window.currentBlogTag = '{{ blog.current_blog_tag }}';
+    window.pageSize = {{ page_size }};
+    //window.excludedArticles = {{ excluded_articles | map: 'handle' | json }};
 </script>
+{% endcomment %}

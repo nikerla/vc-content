@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Release
 date: 2014-08-06 11:52
 excerpt: Since we haven’t posted updates for 1.10 release and 1.11 was just launched, this post will contain info on both of them. 
-permalink: blogs/news/virtocommerce-1-10-1-11-release-notes
+permalink: blog/virtocommerce-1-10-1-11-release-notes
 tags: [Announcements, Architecture]
 title: "Virto Commerce 1.10 and 1.11 Releases"
 ---

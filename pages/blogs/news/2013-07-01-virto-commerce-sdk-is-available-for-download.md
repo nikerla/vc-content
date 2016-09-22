@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: VirtoCommerce News
 date: 2013-07-01 18:55
 excerpt: We decided to celebrate the 1st of July by releasing Virto Commerce SDK.
-permalink: blogs/news/virtocommerce-sdk-is-available-for-download
+permalink: blog/virtocommerce-sdk-is-available-for-download
 tags: [Announcements, .net, asp.net, ecommerce, platfrom, sdk]
 title: "Virto Commerce SDK is available for download"
 ---

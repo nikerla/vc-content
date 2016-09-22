@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Technical
 date: 2015-09-02 14:21
 excerpt: Quick tip on how to reduce size of a bloated Github repository. 
-permalink: blogs/news/reducing-size-of-github-source-code-repository
+permalink: blog/reducing-size-of-github-source-code-repository
 tags: [Announcements, open source, CodeProject, Github]
 title: "Reducing size of Github source code repository"
 ---

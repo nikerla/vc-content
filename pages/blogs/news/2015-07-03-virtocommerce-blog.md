@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: VirtoCommerce News
 date: 2015-07-03 09:00
 excerpt: Virto Commerce is the most innovative .NET open source product developed on top of Virto Commerce Platform. Platform is created with full compliance of SOLID and DDD principles.
-permalink: blogs/news/virtocommerce-blog
+permalink: blog/virtocommerce-blog
 tags: [Announcements, VirtoCommerce, blog]
 title: "Virto Commerce Blog"
 ---
