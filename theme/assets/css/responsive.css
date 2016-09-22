@@ -1117,9 +1117,9 @@
         margin: 0 0 30px;
     }
 
-    .blog .posts .post-single.post-detail,
-    .blog .posts .post-double.post-detail,
-    .blog .posts .post-triple.post-detail
+    .blog .posts .post-single,
+    .blog .posts .post-double,
+    .blog .posts .post-triple
     {
         padding: 15px 0 0;
         width: 100%;
@@ -1266,7 +1266,7 @@
     .__responsive
     {
         padding: 0 15px;
-        width: auto;
+        width: 100%;
     }
 
     .col,
@@ -2536,6 +2536,23 @@
     {
         margin: 15px 0 0;
         width: 100%;
+    }
+
+    .blog code
+    {
+        display: block;
+        word-break: break-all;
+    }
+
+    .blog .post-other
+    {
+        -webkit-flex-wrap: wrap;
+                flex-wrap: wrap;
+    }
+
+    .blog .post-descr p
+    {
+        font-size: 14px;
     }
 }
 
