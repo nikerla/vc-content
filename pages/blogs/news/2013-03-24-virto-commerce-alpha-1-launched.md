@@ -1,9 +1,9 @@
 ---
 author: VirtoCommerce
-category: VirtoCommerce News
+category: virtocommerce-news
 date: 2013-03-24
 excerpt: We are excited to announce that the first alpha version of Virto Commerce is now available
-permalink: blogs/news/virtocommerce-demo-is-available
+permalink: blog/virtocommerce-demo-is-available
 tags: [ announcements, alpha, commerce, demo, ecommerce, sdk ]
 title: 'Virto Commerce demo is available!'
 ---

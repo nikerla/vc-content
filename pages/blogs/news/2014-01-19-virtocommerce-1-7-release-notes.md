@@ -1,9 +1,9 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2014-01-19 01:14
 excerpt: It has been a very busy time for us at the end of the year. We released both 1.6 and now 1.7 versions and acquired new customers who’s sites we can soon showcase!
-permalink: blogs/news/virtocommerce-1-7-release-notes
+permalink: blog/virtocommerce-1-7-release-notes
 tags: [azure, ecommerce, responsive, webpi]
 title: "Virto Commerce 1.7–Released!"
 ---

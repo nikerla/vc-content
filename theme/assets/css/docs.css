@@ -18,9 +18,14 @@ body
 	padding: 0;
 }
 
+h1
+{
+	font-size: 36px;
+}
+
 h2
 {
-	font-size: 32px;
+	font-size: 30px;
 }
 
 h3
@@ -28,6 +33,7 @@ h3
 	font-size: 24px;
 }
 
+h1,
 h2,
 h3
 {
@@ -91,8 +97,7 @@ img
 {
 	display: block;
 	margin: 20px 0;
-	max-width: 100%;
-	width: 640px;
+	max-width: 640px;
 }
 
 code
@@ -108,6 +113,26 @@ code
 p
 {
 	margin: 20px 0;
+}
+
+table
+{
+	border-collapse: collapse;
+}
+
+table th,
+table td
+{
+	border: 1px solid #ddd;
+	font-size: 14px;
+	padding: 7px 10px;
+	text-align: left;
+	vertical-align: top;
+}
+
+table th
+{
+	background: #f0f0f0;
 }
 
 .note
@@ -150,7 +175,12 @@ p
 .nav
 {
 	background: #f0f0f0;
+	bottom: 0;
+	left: 0;
 	min-width: 300px;
+	overflow: auto;
+	position: fixed;
+	top: 0;
 	width: 300px;
 }
 
@@ -191,6 +221,7 @@ p
 	background: #fff;
 	border-left: 5px solid rgba(0,0,0,.15);
 	flex-grow: 1;
+	margin: 0 0 0 300px;
 	padding: 0 20px;
 }
 

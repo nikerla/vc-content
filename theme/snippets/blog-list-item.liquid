@@ -8,7 +8,7 @@
     <div class="post-inner">
         <div class="post-media{% if article.image_url == nil %} no-image{% endif %}" style="background-image: url('{{ article.image_url }}');">
             {% if article.category %}
-                <div class="category-name">{{ article.category }}</div>
+                <div class="category-name">{{ "blogs.categories." | append: article.category | t }}</div>
             {% endif %}
             <h3><a href="{{ article.url | absolute_url }}" itemprop="headline">{{ article.title }}</a></h3>
         </div>
