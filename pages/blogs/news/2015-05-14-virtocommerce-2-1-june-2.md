@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Release
 date: 2015-05-14 21:58
 excerpt: To better communicate our plans we continue with a approach of making our next sprint plans public.
-permalink: blogs/news/virtocommerce-2-1-june-2
+permalink: blog/virtocommerce-2-1-june-2
 tags: [aspstore, ecommerce, marketing, marketplace, open source, promotions, search indexing, seo, zapper, zendesk]
 title: "Virto Commerce 2.1 - June 2"
 ---

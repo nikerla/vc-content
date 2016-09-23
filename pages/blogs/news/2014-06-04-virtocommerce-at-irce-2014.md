@@ -4,7 +4,7 @@ category: VirtoCommerce News
 date: 2014-06-04 08:37
 excerpt: We are very excited about being at IRCE 2014 next week. It is our first IRCE conference since the launch of Virto Commerce and we'll be showcasing our product and our customers.
 main-image: assets/images/blog/irce-2014.jpg
-permalink: blogs/news/virtocommerce-at-irce-2014
+permalink: blog/virtocommerce-at-irce-2014
 tags: [announcements]
 title: "Virto Commerce at IRCE 2014"
 ---

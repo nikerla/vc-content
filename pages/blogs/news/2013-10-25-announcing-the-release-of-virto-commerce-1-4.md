@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Release
 date: 2013-10-25 13:56
 excerpt: Today we release version 1.4.591 of Virto Commerce. This is a minor release and a result of sprint 18.
-permalink: blogs/news/announcing-the-release-of-virtocommerce-1-4
+permalink: blog/announcing-the-release-of-virtocommerce-1-4
 title: "Announcing the release of Virto Commerce 1.4"
 ---
 Today we release version 1.4.591 of Virto Commerce. This is a minor release and a result of sprint 18. It includes the following fixes and new features:

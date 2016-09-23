@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: VirtoCommerce News
 date: 2015-10-21 05:22
 excerpt: The amount of data accumulated for analysis is increasing daily. In the past, companies used internal data sources for analysis and decision-making.
-permalink: blogs/news/reporting-in-virtocommerce
+permalink: blog/reporting-in-virtocommerce
 tags: [Announcements]
 title: "Reporting in VirtoCommerce"
 ---

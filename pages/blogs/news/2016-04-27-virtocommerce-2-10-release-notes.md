@@ -4,7 +4,7 @@ category: Release
 date: '2016-04-27 06:43'
 excerpt: The new powerful platform extension point allows you to extend existing member types from the external module without changing the platform code.
 main-image: assets/images/blog/release-2-10-debacle.JPG
-permalink: blogs/news/virtocommerce-2-10-release-notes
+permalink: blog/virtocommerce-2-10-release-notes
 tags: [ 2.0, Announcements, Ecommerce, Enterprise Ecommerce, Features, Open Source, Release Notes, SEO ]
 title: 'VirtoCommerce 2.10 Release Notes'
 ---

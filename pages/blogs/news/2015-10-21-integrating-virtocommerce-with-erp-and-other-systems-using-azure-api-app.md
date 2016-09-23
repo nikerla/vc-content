@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Technical
 date: 2015-10-21 04:07
 excerpt: We are happy to announce the initial version of VirtoCommerce Azure API App for deployment into the Azure App Service.
-permalink: blogs/news/integrating-virtocommerce-with-erp-and-other-systems-using-azure-api-app
+permalink: blog/integrating-virtocommerce-with-erp-and-other-systems-using-azure-api-app
 tags: [Announcements]
 title: "Integrating VirtoCommerce with ERP and other systems using Azure API App"
 ---

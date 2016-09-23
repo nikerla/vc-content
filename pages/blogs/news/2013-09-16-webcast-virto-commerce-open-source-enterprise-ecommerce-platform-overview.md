@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: VirtoCommerce News
 date: 2013-09-16 05:16
 excerpt: As an eCommerce market is growing, more merchants are considering an eCommerce strategy as the crucial one for their business.
-permalink: blogs/news/webcast-virto-commerce-open-source-enterprise-ecommerce-platform-overview
+permalink: blog/webcast-virto-commerce-open-source-enterprise-ecommerce-platform-overview
 tags: [asp.net, azure, e-commerce, ecommerce, sql]
 title: "Webcast: Virto Commerce Open Source Enterprise eCommerce Platform Overview"
 ---

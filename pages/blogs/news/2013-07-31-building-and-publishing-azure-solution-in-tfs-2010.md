@@ -3,7 +3,7 @@ author: VirtoCommerce
 category: Technical
 date: 2013-07-31 22:37
 excerpt: In our solution we have several worker roles and web roles as part of the solution.
-permalink: blogs/news/building-and-publishing-azure-solution-in-tfs-2010
+permalink: blog/building-and-publishing-azure-solution-in-tfs-2010
 tags: [azure programming, programming, azure, build, cloud, tfs]
 title: "Building and publishing azure solution in TFS 2010"
 ---
