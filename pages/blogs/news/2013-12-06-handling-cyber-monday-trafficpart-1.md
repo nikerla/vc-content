@@ -1,10 +1,10 @@
 ﻿---
 author: VirtoCommerce
-category: VirtoCommerce News
+category: virtocommerce-news
 date: 2013-12-06 21:49
 excerpt: You developed and launched an e-commerce site and now wondering, can my site handle the traffic?
 permalink: blog/handling-cyber-monday-traffic-part-1
-tags: [Architecture, Performance, Scalability]
+tags: [architecture, performance, scalability]
 title: "Handling Cyber Monday Traffic–Part 1"
 ---
 # Introduction

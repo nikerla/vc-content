@@ -1,12 +1,12 @@
 ---
 author: VirtoCommerce
-category: VirtoCommerce News
+category: virtocommerce-news
 date: '2016-08-08'
 excerpt: VirtoCommerce.com site has FINALLY migrated to VirtoCommerce Platform. Now it's fully managed from VirtoCommerce Manager.
 is-trending: true
 layout: 'blog-layout'
 permalink: blog/new-virtocommerce
-tags: [ Announcements ]
+tags: [announcements]
 title: 'New VirtoCommerce.com!'
 ---
 VirtoCommerce.com site has FINALLY migrated to VirtoCommerce Platform. Now it's fully managed from VirtoCommerce Manager including appearance and content:

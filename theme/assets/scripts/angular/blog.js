@@ -1,4 +1,10 @@
-var storefrontApp = angular.module('storefrontApp', []);
+var storefrontApp = angular.module('storefrontApp', ['pascalprecht.translate']);
+
+storefrontApp.config(['$translateProvider', function ($translateProvider) {
+    $translateProvider.useSanitizeValueStrategy('sanitizeParameters');
+    $translateProvider.useUrlLoader(BASE_URL + 'themes/localization.json');
+    $translateProvider.preferredLanguage('en');
+}]);
 
 storefrontApp.service('blogService', ['$http', function ($http) {
     return {
@@ -22,12 +28,12 @@ storefrontApp.controller('blogController', ['$scope', '$window', 'blogService', 
         };
         blogService.getArticles($window.blogName, blogSearchCriteria).then(function (response) {
             _.each(response.data, function (article) {
-               article.imageUrl = $window.baseUrl + (article.imageUrl || 'themes/assets/blue-abstract-background.jpg');
-               article.authorImageUrl = $window.baseUrl + 'themes/assets/logo-mini.png';
-               $scope.articles.push(article);
+                article.imageUrl = BASE_URL + (article.imageUrl || 'themes/assets/blue-abstract-background.jpg');
+                article.authorImageUrl = BASE_URL + 'themes/assets/logo-mini.png';
+                $scope.articles.push(article);
             });
             if (!response.data.length || response.data.length < $window.pageSize) {
-               $scope.isLastPage = true;
+                $scope.isLastPage = true;
             }
             $scope.pageNumber++;
             $scope.isLoading = false; 

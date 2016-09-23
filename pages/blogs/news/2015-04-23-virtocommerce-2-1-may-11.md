@@ -1,10 +1,10 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2015-04-23 21:55
 excerpt: Here is our plan for the next Development Sprint scheduled to be completed on May 11.
 permalink: blog/virtocommerce-2-0-may-11
-tags: [aspstore, ecommerce, mailchimp, marketing, marketplace, open source, promotions, search indexing, seo, zapper, zendesk]
+tags: [aspstore, ecommerce, mailchimp, marketing, marketplace, open-source, promotions, search-indexing, seo, zapper, zendesk]
 title: "Virto Commerce 2.0 - May 11"
 ---
 Here is our plan for the next Development Sprint scheduled to be completed on May 11. The sprint is about 3 weeks at the end of which we’ll have some new functionality available. Below is description of those new features. You can also let us know what you want to see in platform by posting it here: [http://help.virtocommerce.com/support/discussions/forums/264127](http://help.virtocommerce.com/support/discussions/forums/264127)

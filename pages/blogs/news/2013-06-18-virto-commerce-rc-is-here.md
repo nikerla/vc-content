@@ -1,10 +1,10 @@
 ---
 author: VirtoCommerce
-category: VirtoCommerce News
+category: virtocommerce-news
 date: 2013-06-18 20:18
 excerpt: We are proud to announce, that we have just released new version of our platform. 
 permalink: blog/virtocommerce-1-0
-tags: [.net, asp.net, ecommerce, platfrom]
+tags: [.net, aspnet, ecommerce, platfrom]
 title: "Virto Commerce 1.0"
 ---
 Hi everyone,

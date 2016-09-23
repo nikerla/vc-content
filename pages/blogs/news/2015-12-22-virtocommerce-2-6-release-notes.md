@@ -1,11 +1,11 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2015-12-22 04:37
 excerpt: We are excited to announce the 2.6 release of Virto Commerce. The primary focus of this release was the new Storefront application rewritten from scratch.
 main-image: assets/images/blog/release-2-6-acorn.jpg
 permalink: blog/virtocommerce-2-6-release-notes
-tags: [2.0, Announcements, ecommerce, features, release notes]
+tags: [20, announcements, ecommerce, features, release-notes]
 title: "VirtoCommerce 2.6 Release Notes"
 ---
 We are excited to announce the 2.6 release of Virto Commerce. The primary focus of this release was the new Storefront application rewritten from scratch. Commerce Manager got some cool features as well: asset management and more functional lists to name some. The most significant features are outlined below.

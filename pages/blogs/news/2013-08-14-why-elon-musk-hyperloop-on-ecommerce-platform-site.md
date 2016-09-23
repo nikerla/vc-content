@@ -1,6 +1,6 @@
 ---
 author: VirtoCommerce
-category: VirtoCommerce News
+category: virtocommerce-news
 date: 2013-08-14 22:05
 excerpt: I've been repeatedly asked, why did we have the image of Hyperloop on our site. Well, the reason is simple.
 permalink: blog/why-elon-musk-hyperloop-on-an-ecommerce-platform-site

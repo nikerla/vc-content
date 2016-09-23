@@ -1,6 +1,6 @@
 ---
 author: VirtoCommerce
-category: VirtoCommerce News
+category: virtocommerce-news
 date: 2013-03-24
 excerpt: We are excited to announce that the first alpha version of Virto Commerce is now available
 permalink: blog/virtocommerce-demo-is-available

@@ -1,10 +1,10 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2015-06-10 22:07
 excerpt: For the 2.1 release we focused on making the experience of creating a new store easier and quicker.
 permalink: blog/virtocommerce-2-1-release-notes
-tags: [2.0, Announcements, asp.net, azure, CMS, dashboards, ecommerce, ecommerce permissions, enterprise ecommerce, features, microsoft cloud, open source, platform]
+tags: [20, announcements, aspnet, azure, cms, dashboards, ecommerce, ecommerce-permissions, enterprise-ecommerce, features, microsoft-cloud, open-source, platform]
 title: "Virto Commerce 2.1 Release Notes"
 ---
 For the 2.1 release we focused on making the experience of creating a new store easier and quicker. There is also much more documentation now, including complete a <a href="https://virtocommerce.com/platform/styleguide/" target="_blank">platform style guide</a>.

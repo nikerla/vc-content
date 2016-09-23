@@ -1,6 +1,6 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2014-04-24 00:40
 excerpt: This release focus was on performance and technology updates as well as some smaller enhancements. 
 permalink: blog/virtocommerce-1-9-release-notes

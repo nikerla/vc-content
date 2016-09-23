@@ -6,7 +6,7 @@
         {% for tag in tags %}
             <li class="list-item">
                 {% assign tag_url = '/blog/tag/' | append: tag  %}
-                <a class="list-link" href="{{ tag_url | absolute_url }}">{{ tag }}</a>
+                <a class="list-link" href="{{ tag_url | absolute_url }}">{{ "blogs.tags." | append: tag | t }}</a>
             </li>
         {% endfor %}
     </ul>
