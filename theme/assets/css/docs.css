@@ -6,9 +6,10 @@ body
 
 body
 {
-	background: #eef5f7;
+	background: #fff;
     color: #333;
-    font-family: "Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-family: "PT Sans",sans-serif;
+    font-size: 14px;
     line-height: 1.4;
 }
 
@@ -18,26 +19,60 @@ body
 	padding: 0;
 }
 
-h1
-{
-	font-size: 36px;
-}
-
-h2
-{
-	font-size: 30px;
-}
-
-h3
-{
-	font-size: 24px;
-}
-
 h1,
 h2,
 h3
 {
+	font-weight: normal;
 	margin: 20px 0 10px;
+}
+
+h1
+{
+	border-bottom: 1px solid #ddd;
+	font-size: 36px;
+	margin: 0 0 20px;
+	padding: 0 0 10px 10px;
+}
+
+h2
+{
+	font-size: 24px;
+}
+
+h3
+{
+	font-size: 18px;
+}
+
+h2,
+h3
+{
+	margin: 30px 0 10px;
+}
+
+h2:first-child,
+h3:first-child
+{
+	margin: 0;
+}
+
+p + p
+{
+	margin: 20px 0 0;
+}
+
+em
+{
+	color: #999;
+	font-size: 14px;
+}
+
+p em,
+li em,
+ol em
+{
+	color: inherit;
 }
 
 a
@@ -47,7 +82,7 @@ a
 
 a:hover
 {
-	color: #52a2ca;
+	color: #ea5564;
 }
 
 ul,
@@ -60,8 +95,6 @@ ol
 ul li,
 ol li
 {
-	color: #666;
-	font-size: 14px;
 	padding: 0 0 0 15px;
 	position: relative;
 }
@@ -69,7 +102,6 @@ ol li
 ul li::before
 {
 	background: #666;
-	border-radius: 50%;
 	content: ' ';
 	height: 5px;
 	left: 0;
@@ -85,7 +117,7 @@ ul ul
 
 ol
 {
-	list-style: inside decimal;
+	list-style: outside decimal;
 }
 
 ol li
@@ -93,11 +125,42 @@ ol li
 	padding: 0;
 }
 
+.cnt ul,
+.cnt p,
+.cnt h2,
+.cnt h3
+{
+	padding-left: 10px;
+}
+
+.cnt ol
+{
+	margin: 10px 0 20px 25px;
+	padding: 0 0 0 10px;
+}
+
+.links li
+{
+	margin: 5px 0;
+	padding: 0;
+}
+
+.links li::before
+{
+	display: none;
+}
+
+.links li i
+{
+	margin: 0 5px 0 0;
+	padding: 0;
+}
+
 img
 {
 	display: block;
 	margin: 20px 0;
-	max-width: 640px;
+	max-width: 100%;
 }
 
 code
@@ -106,13 +169,10 @@ code
 	border: 1px solid #e2e2e2;
 	display: block;
 	margin: 20px 0;
+	overflow-wrap: break-word;
 	padding: 20px 10px;
 	text-align: left;
-}
-
-p
-{
-	margin: 20px 0;
+	white-space: pre-wrap;
 }
 
 table
@@ -133,6 +193,115 @@ table td
 table th
 {
 	background: #f0f0f0;
+}
+
+.jspContainer
+{
+	overflow: hidden;
+	position: relative;
+}
+
+.jspPane
+{
+	position: absolute;
+}
+
+.jspVerticalBar
+{
+	border-left: 1px solid #414141;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 10px;
+	height: 100%;
+	background: red;
+}
+
+.jspHorizontalBar
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 16px;
+	background: red;
+}
+
+.jspVerticalBar *,
+.jspHorizontalBar *
+{
+	margin: 0;
+	padding: 0;
+}
+
+.jspCap
+{
+	display: none;
+}
+
+.jspHorizontalBar .jspCap
+{
+	float: left;
+}
+
+.jspTrack
+{
+	background: #353535;
+	position: relative;
+}
+
+.jspDrag
+{
+	background: #555;
+	position: relative;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}
+
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag
+{
+	float: left;
+	height: 100%;
+}
+
+.jspArrow
+{
+	background: #50506d;
+	text-indent: -20000px;
+	display: block;
+	cursor: pointer;
+}
+
+.jspArrow.jspDisabled
+{
+	cursor: default;
+	background: #80808d;
+}
+
+.jspVerticalBar .jspArrow
+{
+	height: 16px;
+}
+
+.jspHorizontalBar .jspArrow
+{
+	width: 16px;
+	float: left;
+	height: 100%;
+}
+
+.jspVerticalBar .jspArrow:focus
+{
+	outline: none;
+}
+
+.jspCorner
+{
+	background: #eeeef4;
+	float: left;
+	height: 100%;
 }
 
 .note
@@ -174,24 +343,53 @@ table th
 
 .nav
 {
-	background: #f0f0f0;
+	background: #434343;
 	bottom: 0;
 	left: 0;
 	min-width: 300px;
-	overflow: auto;
 	position: fixed;
 	top: 0;
 	width: 300px;
 }
 
+.scroll-pane
+{
+	height: calc(100% - 142px);
+	position: relative;
+}
+	
+	.nav .vc-logo,
+	.nav .vc-logo a
+	{
+		color: #fff;
+		font-size: 16px;
+		padding: 20px 15px;
+		text-decoration: none;
+
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+
+		-webkit-align-items: center;
+				align-items: center;
+	}
+
+	.nav .vc-logo img
+	{
+		margin: 0 10px 0 0;
+		width: 80px;
+	}
+
 	.nav .menu
 	{
-		padding: 20px 15px;
+		margin: 0;
+		padding: 10px 0;
 	}
 
 	.nav .menu-item
 	{
-		margin: 4px 0 10px;
 		padding: 0;
 	}
 
@@ -202,18 +400,43 @@ table th
 
 	.nav .menu-link
 	{
-		font-size: 12px;
+		color: #bbb;
+		display: block;
+		font-size: 13px;
+		padding: 8px 15px;
+		text-decoration: none;
+	}
+
+	.nav .menu-link:hover
+	{
+		background: rgba(0,0,0,.1);
+		color: #fff;
+	}
+
+	.nav .menu-item.active > .menu-link
+	{
+		background: #ea5564;
+		color: #fff;
 	}
 
 	.menu.__sub
 	{
-		margin: 0;
-		padding: 0 15px;
+		padding: 0;
 	}
 
-	.menu.__sub .menu-item
+	.menu.__sub .menu-link
 	{
-		margin: 0;
+		padding-left: 30px;
+	}
+
+	.menu.__sub .menu.__sub .menu-link
+	{
+		padding-left: 45px;
+	}
+
+	.menu.__sub .menu.__sub .menu.__sub .menu-link
+	{
+		padding-left: 60px;
 	}
 
 .cnt
@@ -221,8 +444,9 @@ table th
 	background: #fff;
 	border-left: 5px solid rgba(0,0,0,.15);
 	flex-grow: 1;
+	max-width: 70%;
 	margin: 0 0 0 300px;
-	padding: 0 20px;
+	padding: 20px 40px;
 }
 
 .home

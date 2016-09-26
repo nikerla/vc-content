@@ -17,7 +17,7 @@
     {% else %}
         <title>Virto Commerce - Enterprise ASP.NET open-source ecommerce cloud platform</title>
     {% endif %}
-    {{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
+    {{ '//fonts.googleapis.com/css?family=PT+Sans:400,700' | stylesheet_tag }}
     {{ 'docs.css' | asset_url | stylesheet_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
@@ -79,18 +79,24 @@
 </noscript>
 </head>
 <body ng-controller="mainController">
-    <div class="home">
-        <div class="home-t">
-            Welcome to Virto Commerce Documentation Site!
+    <div id="layout">
+        <div class="nav">
+            <div class="vc-logo">
+                <img src="{{ 'virtocommerce.png' | asset_url }}" alt="">
+                Virtocommerce Documentation
+            </div>
+            <ul class="menu">
+                <li class="menu-item">
+                    <a href="docs/vc2devguide" class="menu-link">Virtocommerce Devguide</a>
+                </li>
+                <li class="menu-item">
+                    <a href="docs/vc2userguide" class="menu-link">Virtocommerce Userguide</a>
+                </li>
+            </ul>
         </div>
-        <ul class="menu">
-            <li class="menu-item">
-                <a href="#" class="menu-link">User guide</a>
-            </li>
-            <li class="menu-item">
-                <a href="#" class="menu-link">Developer guide</a>
-            </li>
-        </ul>
+        <div class="cnt">
+            {{ content_for_layout }}
+        </div>
     </div>
     <script type="text/javascript">
         var ShareIt = {
