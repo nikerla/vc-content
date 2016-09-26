@@ -1,9 +1,9 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2014-02-06 16:35
 excerpt: Another a month of hard development we have yet another exciting release here at Virto Commerce. 
-permalink: blogs/news/virtocommerce-1-8-release-notes
+permalink: blog/virtocommerce-1-8-release-notes
 tags: [assets, azure cloud, ecommerce, html5, localization, release, reporting, seo]
 title: "Virto Commerce 1.8 Release"
 ---

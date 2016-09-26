@@ -1,10 +1,10 @@
 ﻿---
 author: VirtoCommerce
-category: VirtoCommerce News
+category: virtocommerce-news
 date: 2013-09-16 05:16
 excerpt: As an eCommerce market is growing, more merchants are considering an eCommerce strategy as the crucial one for their business.
-permalink: blogs/news/webcast-virto-commerce-open-source-enterprise-ecommerce-platform-overview
-tags: [asp.net, azure, e-commerce, ecommerce, sql]
+permalink: blog/webcast-virto-commerce-open-source-enterprise-ecommerce-platform-overview
+tags: [aspnet, azure, e-commerce, ecommerce, sql]
 title: "Webcast: Virto Commerce Open Source Enterprise eCommerce Platform Overview"
 ---
 As an eCommerce market is growing, more merchants are considering an eCommerce strategy as the crucial one for their business. While small merchants have plenty of great options to choose from such as Shopify or Magento Community, bigger merchants are still looking for a comprehensive eCommerce framework. Small merchants prefer 80% out-of-the-box, while large ones need a product that allows rapid customization while maintaining great performance.

@@ -48,7 +48,7 @@ tags :
                         </ul>
                 </li>
                 <li class="list-item">
-                    <img alt="Merchandising" src="../assets/images/features/crosssell.png">
+                    <img alt="Merchandising" src="https://virtocommerce.com/admin/assets/site/features/catalog-associations.gif">
                     <p class="title">Merchandising</p>
                     <p>Our tools are designed for innovative companies where merchants collaborate closely with brand marketers. We provide tools to optimize your 
                     offering and drive conversions. With Cross-sells, up-sells, product recommendations and even custom relations you will be able to execute any merchandising plan.

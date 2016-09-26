@@ -1,7 +1,7 @@
 <div class="post" ng-class="{ 'post-single': !article.isSticked, 'post-double': article.isSticked }" ng-repeat="article in articles">
     <div class="post-inner">
         <div class="post-media" ng-class="{ 'no-image': !article.imageUrl }" ng-style="{ 'background-image': 'url(' + article.imageUrl + ')' }">
-            <div class="category-name" ng-if="article.category" ng-bind="article.category"></div>
+            <div class="category-name" ng-if="article.category" ng-bind="'blogs.categories.' + article.category | translate"></div>
             <h3><a ng-href="{% raw %}{{ article.url }}{% endraw %}" ng-bind="article.title"></a></h3>
         </div>
         <div class="post-descr" ng-if="article.excerpt" ng-bind="article.excerpt"></div>

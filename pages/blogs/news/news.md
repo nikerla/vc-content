@@ -1,8 +1,8 @@
 ---
 layout: blog-layout
 categories:
-  - Technical
-  - Release
-  - VirtoCommerce News
+  - technical
+  - release
+  - virtocommerce-news
 title: 'Virto Commerce News'
 ---

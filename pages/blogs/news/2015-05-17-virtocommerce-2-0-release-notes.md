@@ -1,10 +1,10 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2015-05-17 22:26
 excerpt: This release focus was on performance and technology updates as well as some smaller enhancements.
-permalink: blogs/news/virtocommerce-2-0-release-notes
-tags: [Announcements, asp.net, dashboards, ecommerce, ecommerce permissions, enterprise ecommerce, platform, release notes, zapier, zendesk]
+permalink: blog/virtocommerce-2-0-release-notes
+tags: [announcements, aspnet, dashboards, ecommerce, ecommerce-permissions, enterprise-ecommerce, platform, release-notes, zapier, zendesk]
 title: "Virto Commerce 2.0 Release Notes"
 ---
 This release focus was on performance and technology updates as well as some smaller enhancements.

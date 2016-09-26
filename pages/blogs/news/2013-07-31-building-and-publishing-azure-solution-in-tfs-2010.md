@@ -1,10 +1,10 @@
 ﻿---
 author: VirtoCommerce
-category: Technical
+category: technical
 date: 2013-07-31 22:37
 excerpt: In our solution we have several worker roles and web roles as part of the solution.
-permalink: blogs/news/building-and-publishing-azure-solution-in-tfs-2010
-tags: [azure programming, programming, azure, build, cloud, tfs]
+permalink: blog/building-and-publishing-azure-solution-in-tfs-2010
+tags: [azure-programming, programming, azure, build, cloud, tfs]
 title: "Building and publishing azure solution in TFS 2010"
 ---
 The process of creating [continuous integration](http://en.wikipedia.org/wiki/Continuous_integration) process in azure is well described here [http://www.windowsazure.com/en-us/develop/net/common-tasks/continuous-delivery/](http://www.windowsazure.com/en-us/develop/net/common-tasks/continuous-delivery/).
