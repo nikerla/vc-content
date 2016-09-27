@@ -1,6 +1,6 @@
 ---
 category: Release
-date: '2016-09-20'
+date: '2016-09-27'
 main-image: assets/images/blog/dandelion-flowers-4_00450132.png
 published: true
 excerpt: We are happy to announce  the new VirtoCommerce 'Dandelion' release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
