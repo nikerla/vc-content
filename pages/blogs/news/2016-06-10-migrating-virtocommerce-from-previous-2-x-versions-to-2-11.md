@@ -1,10 +1,11 @@
 ---
 author: VirtoCommerce
-category: Technical
+category: technical
 date: '2016-06-10'
 is-trending: true
-permalink: blogs/news/migrating-virtocommerce-from-previous-2-x-versions-to-2-11
-tags: [ Announcements ]
+is-sticked: false
+permalink: blog/migrating-virtocommerce-from-previous-2-x-versions-to-2-11
+tags: [announcements]
 title: 'Migrating VirtoCommerce from previous 2.x versions to 2.11'
 excerpt: This article is about migration process from previous 2.x versions of VirtoCommerce platform to 2.11 version on local machine and Microsoft Azure Cloud
 ---

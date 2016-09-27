@@ -1,9 +1,9 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2013-08-02 21:38
 excerpt: Today we released the v1.1 update of the Virto Commerce. This is a big refresh of Virto Commerce and it includes some great new features and enhancements.
-permalink: blogs/news/announcing-the-release-of-virtocommerce-1-1
+permalink: blog/announcing-the-release-of-virtocommerce-1-1
 tags: [announcements]
 title: "Announcing the release of Virto Commerce 1.1"
 ---

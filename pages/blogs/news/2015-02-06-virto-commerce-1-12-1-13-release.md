@@ -1,10 +1,10 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2015-02-06 12:31
 excerpt: Since we haven’t posted updates for 1.12 release and 1.13 was just launched, this post will contain info on both of them. 
-permalink: blogs/news/virtocommerce-1-12-1-13-release-notes
-tags: [Announcements, Architecture]
+permalink: blog/virtocommerce-1-12-1-13-release-notes
+tags: [announcements, architecture]
 title: "Virto Commerce 1.12 & 1.13 Release"
 ---
 Since we haven’t posted updates for 1.12 release and 1.13 was just launched, this post will contain info on both of them.

@@ -1,9 +1,9 @@
 ---
 author: VirtoCommerce
-category: VirtoCommerce News
+category: virtocommerce-news
 date: 2013-08-14 22:05
 excerpt: I've been repeatedly asked, why did we have the image of Hyperloop on our site. Well, the reason is simple.
-permalink: blogs/news/why-elon-musk-hyperloop-on-an-ecommerce-platform-site
+permalink: blog/why-elon-musk-hyperloop-on-an-ecommerce-platform-site
 title: "Why Elon Musk Hyperloop on an eCommerce platform site?"
 ---
 ![Why Elon Musk Hyperloop on an eCommerce platform site?](assets/images/blog/hyperloop.jpg)

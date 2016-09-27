@@ -1,9 +1,9 @@
 ﻿---
 author: VirtoCommerce
-category: Release
+category: release
 date: 2013-11-13 17:28
 excerpt: This release main feature is a CMS Integrated Accelerator. We also improved many other bugs and annoyances reported by our customers. 
-permalink: blogs/news/virtocommerce-1-5-with-cms-accelerator
+permalink: blog/virtocommerce-1-5-with-cms-accelerator
 title: "Virto Commerce 1.5 with CMS Accelerator"
 ---
 This release main feature is a CMS Integrated Accelerator. We also improved many other bugs and annoyances reported by our customers.
