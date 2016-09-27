@@ -5,7 +5,7 @@ main-image: assets/images/blog/meta-form.png
 published: true
 excerpt: We are happy to announce  the new VirtoCommerce 'September 2016' release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
 tags: [announcements]
-title: '"Dandelion" release notes'
+title: '"September 2016" release notes'
 permalink: blog/dandelion-release-notes
 ---
 We are happy to announce  the new VirtoCommerce "September 2016" release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
