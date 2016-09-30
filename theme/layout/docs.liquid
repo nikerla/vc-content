@@ -19,6 +19,7 @@
     {% endif %}
     {{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
     {{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/vs.min.css' | stylesheet_tag }}
     {{ 'docs.css' | asset_url | stylesheet_tag }}
     {{ 'jquery-1.6.1.min.js' | asset_url | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
@@ -28,6 +29,10 @@
     {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js' | script_tag }}
     {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular-route.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.1.2/ui-bootstrap-tpls.min.js' | script_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js' | script_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/cs.min.js' | script_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/javascript.min.js' | script_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/xml.min.js' | script_tag }}
     {{ 'app.js' | asset_url | script_tag }}
     {{ 'services.js' | asset_url | script_tag }}
     {{ 'common.js' | asset_url | script_tag }}
@@ -77,6 +82,9 @@
     {% if settings.freshsales_enable %}
         {% include 'freshsales' %}
     {% endif %}
+    <script>
+        hljs.initHighlightingOnLoad();
+    </script>
 <noscript>
     <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
 </noscript>
@@ -90,6 +98,9 @@
                     Virtocommerce Documentation
                 </a>
             </div>
+            <form action="" class="search" method="post">
+                <input name="q" placeholder="Search docs" type="search" />
+            </form>
             {% assign page_url_parts = page.handle | split: '/' %}
             {% for page_url_part in page_url_parts %}
                 {% if page_url_part == 'vc2devguide' %}
