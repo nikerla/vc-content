@@ -14,20 +14,12 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Summer/Fall 2016</p>
-				<p class="roadmap-descr">Focus on platform functionality including support for incremental updates. Additional <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations.</p>
+				<p class="roadmap-title">Fall 2016</p>
+				<p class="roadmap-descr">Main focus will be on performance and stability. Additional <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
 							<ul class="list">
-								<li>
-									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-cart">Javascript Shopping Cart Module</a></span>
-									<span class="descr">Integrate e-commerce functionality into any CMS/html site.</span>
-								</li>
-								<li>
-									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
-									<span class="descr">Extension for open source Umbraco CMS product.</span>
-								</li>
 								<li>
 									<span class="title"><a href="/features/wordpress-woocommerce-migration">WordPress WooCommerce migration</a></span>
 									<span class="descr">Learn how to migrate your WooCommerce store to Virto Commerce.</span>
@@ -47,7 +39,7 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/572">Recurring billing/subscription module</a></span>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/572" target="_blank">Recurring billing/subscription module</a></span>
 									<span class="descr">Add support for recurring billing and subscription management.</span>
 								</li>							
 								<li>
@@ -70,11 +62,15 @@ tags :
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
 				<p class="roadmap-title">Some recent features</p>
-				<p class="roadmap-descr">These are just some features implemented in the past, more details available <a href="https://github.com/VirtoCommerce/vc-community/releases" targe="_blanl">here</a>.</p>
+				<p class="roadmap-descr">These are just some features implemented in the past, more details available <a href="https://virtocommerce.com/blog/category/release">here</a>.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart" target="_blank">Javascript Shopping Cart Module</a></span>
+									<span class="descr">Integrate e-commerce functionality into any CMS/html site.</span>
+								</li>
 								<li>
 									<span class="title"><a href="/apps/extensions/google-ecommerce-analytics-module">Google Commerce Analytics</a></span>
 									<span class="descr">Out of the box integration with Google Analytics Commerce API, track cart abandonments, product views and total sales by products all in real time.</span>
@@ -105,6 +101,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
+									<span class="descr">Extension for open source Umbraco CMS product.</span>
+								</li>
 								<li>
 									<span class="title">Redesigned frontend</span>
 									<span class="descr">Implements AngularJS, full page caching for ultimate performance, product comparison, dependency injection, SDK client libraries.</span>
