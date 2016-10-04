@@ -4,5 +4,5 @@ categories:
   - technical
   - release
   - virtocommerce-news
-title: 'Virto Commerce News'
+title: 'Virto Commerce Blog'
 ---
