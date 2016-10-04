@@ -14,7 +14,7 @@
         {% assign description = page_description %}
     {% endif %}
     
-    <meta name="description" content="{{ description }}" />
+    <meta name="description" content="{% if description %}{{ description }}{% else %}{{ page_title }}{% endif %}" />
 
     <!-- Facebook  Open Graph Meta Tags BEGIN -->
     <meta property="og:locale" content="en_US" />
@@ -30,10 +30,10 @@
     <meta content="{{ page_image_full_url }}" property="og:image" />
 
     <meta content="{{ page_url }}" property="og:url" />
-    <meta content="{{ description }}" property="og:description" />
+    <meta content="{% if description %}{{ description }}{% else %}{{ blog.title }}{% endif %}" property="og:description" />
     <meta content="{{ page_title }}" property="og:title" />
 
-    <meta content="Virtocommerce Blog" property="og:site_name" />
+    <meta content="{{ blog.title }}" property="og:site_name" />
     
     {% if article %}
         {% for tag in article.tags %}
@@ -46,12 +46,12 @@
     {% endif %}
 
     <meta name="twitter:card" content="summary" />
-    <meta content="{{ page_description }}" name="twitter:description" />
+    <meta content="{% if description %}{{ description }}{% else %}{{ page_title }}{% endif %}" name="twitter:description" />
     <meta content="{{ page_title }}" name="twitter:title"/>
     {% comment %}<meta content="{{ page_image_url | absolute_url }}" name="twitter:image"/>{% endcomment %}
     <!-- Facebook Open Graph Meta Tags END: -->
 
-    <title>{% if article %}{{ article.title }} - {% endif %}Virtocommerce blog</title>
+    <title>{% if article %}{{ article.title }} - {% endif %}{{ blog.title }}</title>
 
     {{ '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js' | script_tag }}
     {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js' | script_tag }}
