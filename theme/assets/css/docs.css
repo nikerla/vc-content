@@ -133,6 +133,11 @@ ol li
 	padding-left: 10px;
 }
 
+.cnt table
+{
+	margin: 20px 0 20px 10px;
+}
+
 .cnt ol
 {
 	margin: 10px 0 20px 25px;
@@ -385,7 +390,7 @@ table th
 	.nav .menu
 	{
 		margin: 0;
-		padding: 10px 0;
+		padding: 20px 0;
 	}
 
 	.nav .menu-item
