@@ -178,7 +178,7 @@
             "aspnet": "ASP.NET",
             "microsoft-cloud": "Microsoft Cloud",
             "blog": "Blog",
-            "virtocommerce": "VirtoCommerce",
+            "virtocommerce": "Virto Commerce",
             "cms": "CMS",
             "dashboards": "Dashboards",
             "ecommerce-permissions": "E-commerce Permissions",
@@ -223,7 +223,7 @@
             "demo": "Demo"
         },
         "categories": {
-            "virtocommerce-news": "VirtoCommerce News",
+            "virtocommerce-news": "Virto Commerce News",
             "technical": "Technical",
             "release": "Release"
         }
