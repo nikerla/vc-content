@@ -1,14 +1,14 @@
 ---
 category: Release
 date: '2016-09-27'
-main-image: assets/images/blog/meta-form.png
+main-image: assets/images/blog/dandelion-flowers-4_00450132.png
 published: true
-excerpt: We are happy to announce  the new VirtoCommerce 'September 2016' release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
+excerpt: We are happy to announce  the new VirtoCommerce 'Dandelion' release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
 tags: [announcements]
-title: '"September 2016" release notes'
+title: 'Dandelion release notes'
 permalink: blog/dandelion-release-notes
 ---
-We are happy to announce  the new VirtoCommerce "September 2016" release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
+We are happy to announce  the new VirtoCommerce 'Dandelion' release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
 ### Platform
 * AbstractTypeFactory now almost all domain types will be constructed via this static class, due to this it is possible to override any of domain types such as CustomerOrder or Cart by you own types.
 ![abstract-type-factory.png](assets/images/blog/abstract-type-factory.png)
@@ -49,14 +49,3 @@ We've switched the C# clients generation tool to Autorest. This simplified code 
 ### Add support for ASP.NET bundles to Storefront
 ![storefront-bundles.png](assets/images/blog/storefront-bundles.png)
 [How to enable ASP.NET Bundles in storefront](http://docs.virtocommerce.com/display/vc2devguide/Bundles)
-
-### Updated search modules
-The following updates were made to search modules:
-
-* Support for Elastic Search 2.x
-* Migrated to Aggregations from depreciated Facets feature
-* New NEST based Elastic Search provider
-* Fixed ranges filter
-* Added extensibility for indexing and search functions
-* Implemened category indexor and search
-* New Search API module that contains all the domain search logic
