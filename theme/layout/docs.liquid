@@ -3,160 +3,56 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="author" content="Virto Commerce" />
-    <meta name="description" content="{{ page_description | escape }}" />
-    <meta name="keywords" content="Virto Commerce, Enterprise eCommerce, ASP.NET eCommerce, Azure eCommerce, Cloud eCommerce, MVC eCommerce, .net shopping cart" />
-    <meta itemprop="name" content="Virto Commerce" />
-    <meta itemprop="description" content="Multi Channel Ecommerce Platform | Enterprise Shopping Cart Software | VirtoCommerce" />
-    <meta itemprop="image" content="{{ 'virtocommerce.png' | asset_url }}" />
-    <meta name="google-site-verification" content="{{ application_settings.GoogleSiteVerificationKey }}" />
-    <link type="image/x-icon" rel="shortcut icon" href="{{ 'favicon.ico' | asset_url }}" />
-    <link rel="publisher" href="//plus.google.com/+Virtocommerce" />
-    {% if page_title != '' %}
-        <title>{{ page_title }}</title>
-    {% else %}
-        <title>Virto Commerce - Enterprise ASP.NET open-source ecommerce cloud platform</title>
-    {% endif %}
+    <title>{{ page_title }}</title>
     {{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
     {{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/vs.min.css' | stylesheet_tag }}
+    {{ 'reset.css' | asset_url | stylesheet_tag }}
+    {{ 'main.css' | asset_url | stylesheet_tag }}
+    {{ 'responsive.css' | asset_url | stylesheet_tag }}
     {{ 'docs.css' | asset_url | stylesheet_tag }}
-    {{ 'jquery-1.6.1.min.js' | asset_url | script_tag }}
-    {{ '//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js' | script_tag }}
-    {{ '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js' | script_tag }}
-    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js' | script_tag }}
-    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular-route.min.js' | script_tag }}
-    {{ '//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.1.2/ui-bootstrap-tpls.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/cs.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/javascript.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/xml.min.js' | script_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js' | script_tag }}
+    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js' | script_tag }}
     {{ 'app.js' | asset_url | script_tag }}
-    {{ 'services.js' | asset_url | script_tag }}
-    {{ 'common.js' | asset_url | script_tag }}
-    {{ 'mousewheel.js' | asset_url | script_tag }}
-    {{ 'jscrollpane.js' | asset_url | script_tag }}
-    {{ 'main.js' | asset_url | script_tag }}
-    {{ 'product.js' | asset_url | script_tag }}
-    {{ 'feedback.js' | asset_url | script_tag }}
-    {{ 'hider.js' | asset_url | script_tag }}
-    {{ 'base64.js' | asset_url | script_tag }}
-    <script type="text/javascript">
-        var appInsights=window.appInsights||function(config){
-            function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i) }) }}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
-                }({
-                    instrumentationKey: "{{ application_settings.MicrosoftApplicationInsightsKey }}"
-                });
-        window.appInsights=appInsights;
-        appInsights.trackPageView();
-    </script> 
-    <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments) },i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ application_settings.GoogleAnalyticsKey }}', 'auto');
-        ga('send', 'pageview');
-    </script> 
-     {{ content_for_header }}
-    <link rel="canonical" href="{{ canonical_url }}" />
+    {{ 'docs.js' | asset_url | script_tag }}
+
+    {{ content_for_header }}
+
     <base href="{{ '/' | absolute_url }}" />
-    <script>
-        (function() {
-            var _fbq = window._fbq || (window._fbq = []);
-            if (!_fbq.loaded) {
-                var fbds = document.createElement('script');
-                fbds.async = true;
-                fbds.src = '//connect.facebook.net/en_US/fbds.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(fbds, s);
-                _fbq.loaded = true;
-            }
-            _fbq.push(['addPixelId', '{{ application_settings.FacebookTrackerId }}']);
-        })();
-        window._fbq = window._fbq || [];
-        window._fbq.push(['track', 'PixelInitialized', {}]);
-    </script>
-    {% if settings.freshsales_enable %}
-        {% include 'freshsales' %}
-    {% endif %}
-    <script>
-        hljs.initHighlightingOnLoad();
-    </script>
-<noscript>
-    <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
-</noscript>
 </head>
-<body ng-controller="mainController">
-    <div id="layout">
-        <div class="nav">
-            <div class="vc-logo">
-                <a href="docs">
-                    <img src="{{ 'virtocommerce.png' | asset_url }}" alt="">
-                    Virtocommerce Documentation
-                </a>
+<body>
+    <div class="layout">
+        <div class="layout-canvas">
+            <div class="swipe">
+                {% include 'main-menu-mobile' %}
             </div>
-            <form action="{{ '/content/search' | absolute_url }}" class="search" method="post">
-                <input id="SearchIn" name="SearchIn" type="hidden" value="/docs" />
-                <input id="Layout" name="Layout" type="hidden" value="docs" />
-                <input id="Keyword" name="Keyword" placeholder="Search docs" type="search" />
-            </form>
-            {% assign page_url_parts = page.handle | split: '/' %}
-            {% for page_url_part in page_url_parts %}
-                {% if page_url_part == 'vc2devguide' %}
-                    {% include 'docs-dev-guide-pages' %}
-                    {% break %}
-                {% endif %}
-                {% if page_url_part == 'vc2userguide' %}
-                    {% include 'docs-user-guide-pages' %}
-                    {% break %}
-                {% endif %}
-            {% endfor %}
-        </div>
-        <div class="cnt">
-            {{ content_for_layout }}
+            <div class="header-wrap">
+                <header class="responsive" role="banner">
+                    <a class="logo" href="{{ '/' | absolute_url }}" title="Virto Commerce"></a>
+                    <a class="mobile-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </a>
+                    {% assign menu = linklists.main-menu %}
+                    {% include 'main-menu' %}
+                    <div class="head-search">
+                        {% include 'search-bar' %}
+                    </div>
+                </header>
+            </div>
+            <article class="main" role="main">
+                {{ content_for_layout }}
+            </article>
+            {% include 'footer' %}
         </div>
     </div>
-    <script type="text/javascript">
-        var ShareIt = {
-            facebook: function (url) {
-                window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url), '_blank');
-            },
-            google: function (url) {
-                window.open('https://plus.google.com/share?url=' + encodeURIComponent(url), '_blank');
-            },
-            twitter: function (url) {
-                window.open('https://twitter.com/home?status=' + encodeURIComponent(url), '_blank');
-            },
-            linkedIn: function (url) {
-                window.open('https://www.linkedin.com/cws/share?url=' + encodeURIComponent(url), '_blank');
-            }
-        }
-
-        $('.menu .menu-item').each(function() {
-            var self = $(this).find('a').attr('href');
-
-            if(self == location.pathname.substr(1)) {
-                $(this).addClass('active');
-                $('.scroll-pane').animate({scrollTop: $(this).offset().top})
-            }
-        });
-
-        $('.scroll-pane').jScrollPane({
-            autoReinitialise: true
-        });
-    </script>
-    <script src="//apis.google.com/js/platform.js" async defer></script>
     <script>
-        $(function () {
-            var items = $('.menu.__business-features li a');
-            for (var i = 0; i < items.length; i++) {
-                $(items[i]).parent().removeClass('__selected');
-                if ($(items[i]).attr('href') === window.location.pathname.replace('/', '')) {
-                    $(items[i]).parent().addClass('__selected');
-                }
-            }
-        });
+        hljs.initHighlightingOnLoad();
     </script>
 </body>
 </html>

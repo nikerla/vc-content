@@ -82,15 +82,6 @@ var VC = {
 }
 
 $(function () {
-    var currentPageUrl = window.location.href;
-    $.each($('.menu-item'), function (index, value) {
-        $(this).removeClass('active');
-        var menuItemUrl = $(this).find('.menu-link').attr('href');
-        if (currentPageUrl.indexOf(menuItemUrl) >= 0) {
-            $(this).addClass('active');
-        }
-    });
-
     $('[type="submit"]').on('click', function (e) {
         e.preventDefault();
         var $form = $(this).parents('form');
