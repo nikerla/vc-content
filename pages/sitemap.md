@@ -41,18 +41,10 @@ tags :
 				</ul>
 			</li>
 			<li>
-				<a href="/support/documentation" target="_blank">Support</a>
-				<ul class="list">
-					<li>
-						<a href="/support/documentation" target="_blank">Documentation</a>
-					</li>
-					<li>
-						<a href="/support/Community" target="_blank">Community</a>
-					</li>
-					<li>
-						<a href="/support/blog" target="_blank">Blog</a>
-					</li>
-				</ul>
+				<a href="/docs" target="_blank">Documentation</a>
+			</li>
+			<li>
+				<a href="/blog" target="_blank">Blog</a>
 			</li>
 			<li>
 				<a href="/partners/list-of-partners" target="_blank">Partners</a>

@@ -117,9 +117,8 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://virtocommerce.com/blogs/news</loc>
+        <loc>https://virtocommerce.com/blog</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
-    </url>    
-    
+    </url>
 </urlset>
