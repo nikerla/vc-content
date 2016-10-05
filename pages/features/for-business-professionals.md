@@ -100,7 +100,7 @@ tags :
                     <img alt="order management" src="../assets/images/features/cms.png"/> 
                     <p class="title">Content Management (CMS)</p>
                     <p>Virto Commerce comes with a simple yet extremely powerful CMS that gives both developers and marketers complete access customizing the store look and feel. Developers can easily create and publish new themes while marketers can 
-                    create landing pages, blog posts, marketing banners and more. Virto Commerce is also integrated with many industry leading CMS to provide even more flexibility.</p>
+                    create landing pages, blog posts, marketing banners and more. Virto Commerce is also integrated with many industry leading CMS including <a href="/features/wordpress-ecommerce">WordPress</a>, <a href="/features/orchard-cms-ecommerce">Orchard CMS</a>, <a href="/features/umbraco-cms-ecommerce">Umbraco</a> and any html site to provide even more flexibility.</p>
                     <ul class="features-list">
                         <li>Professional themes</li> 
                         <li>Edit HTML and CSS</li>

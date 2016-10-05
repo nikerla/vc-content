@@ -4,6 +4,7 @@ Disallow: /our-offers/agile-b2b-ecommerce
 Disallow: /static/b2b.htm
 Disallow: /Blog/
 Disallow: /Blogs/
+Disallow: /Docs/
 Sitemap: https://virtocommerce.com/sitemap.xml
 
 User-agent: Googlebot
@@ -12,6 +13,7 @@ Disallow: /our-offers/agile-b2b-ecommerce
 Disallow: /static/b2b.htm
 Disallow: /Blog/
 Disallow: /Blogs/
+Disallow: /Docs/
 Sitemap: https://virtocommerce.com/sitemap.xml
 
 User-Agent: Bingbot
@@ -20,6 +22,7 @@ Disallow: /our-offers/agile-b2b-ecommerce
 Disallow: /static/b2b.htm
 Disallow: /Blog/
 Disallow: /Blogs/
+Disallow: /Docs/
 Sitemap: https://virtocommerce.com/sitemap.xml
 
 User-agent: Yandex
@@ -28,5 +31,6 @@ Disallow: /our-offers/agile-b2b-ecommerce
 Disallow: /static/b2b.htm
 Disallow: /Blog/
 Disallow: /Blogs/
+Disallow: /Docs/
 Sitemap: https://virtocommerce.com/sitemap.xml
 Host: virtocommerce.com

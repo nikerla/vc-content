@@ -5,7 +5,7 @@ main-image: assets/images/blog/dandelion-flowers-4_00450132.png
 published: true
 excerpt: We are happy to announce  the new VirtoCommerce 'Dandelion' release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
 tags: [announcements]
-title: '"Dandelion" release notes'
+title: 'Dandelion release notes'
 permalink: blog/dandelion-release-notes
 ---
 We are happy to announce  the new VirtoCommerce 'Dandelion' release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.

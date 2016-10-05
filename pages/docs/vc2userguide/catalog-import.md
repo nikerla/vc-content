@@ -1,9 +1,11 @@
 ---
-title: Catalog import
-layout: docs-user
+title: Virto Commerce 2 Documentation - User Guide - Catalog import
+layout: docs
 date: 2015-08-13T17:24:00.507Z
 permalink: docs/vc2userguide/catalog-import
 ---
+[Docs](docs) / [Virto Commerce 2 Documentation](docs/vc2userguide) / [Merchandise Management](docs/vc2userguide/merchandise-management) / Catalog import
+***
 # Catalog import
 
 ## Introduction
