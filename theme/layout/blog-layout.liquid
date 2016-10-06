@@ -21,7 +21,7 @@
     {% else %}
         {% assign page_url = blog.url | full_url %}
         {% assign title = blog.title %}
-        {% assign description = page_description %}
+        {% assign description = blog.title %}
         {% if search_category %}
             {% assign title = search_category | append: ' - ' | append: blog.title %}
             {% assign description = 'Posts about ' | append: search_category | append: ' - ' | append: blog.title %}
@@ -31,14 +31,13 @@
             {% assign description = 'Posts about ' | append: search_tag | append: ' - ' | append: blog.title %}
         {% endif %}
     {% endif %}
-    
+
     <meta name="description" content="{{ description }}" />
 
     <!-- Facebook  Open Graph Meta Tags BEGIN -->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="{% if article %}article{% else %}website{% endif %}" />
-    
-    <meta content="{{ title }}" property="og:title" />
+
     {% assign full_base_url = '/' | full_url %}
     {% if page_image_url %}
         {% assign page_image_full_url = full_base_url | append: page_image_url %}
@@ -52,7 +51,7 @@
     <meta content="{{ title }}" property="og:title" />
 
     <meta content="{{ blog.title }}" property="og:site_name" />
-    
+
     {% if article %}
         {% for tag in article.tags %}
             <meta content="{{ tag }}" property="article:tag" />
