@@ -5,4 +5,5 @@ categories:
   - release
   - virtocommerce-news
 title: 'Virto Commerce Blog'
+permalink: blog
 ---
