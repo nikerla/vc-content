@@ -15,7 +15,7 @@ tags :
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
 				<p class="roadmap-title">Fall 2016</p>
-				<p class="roadmap-descr">Main focus will be on performance and stability. Additional <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations.</p>
+				<p class="roadmap-descr">Main focus will be on performance and stability. Additional <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations. You can also request and vote on features using our <a href="https://virtocommerce.uservoice.com" rel="nofollow" target="_blank">Feedback forum</a>.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
