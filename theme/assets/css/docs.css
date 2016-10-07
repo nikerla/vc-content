@@ -1,9 +1,3 @@
-html,
-body
-{
-	height: 100%;
-}
-
 body
 {
 	background: #fff;
@@ -11,12 +5,6 @@ body
     font-family: "PT Sans",sans-serif;
     font-size: 14px;
     line-height: 1.4;
-}
-
-*
-{
-	margin: 0;
-	padding: 0;
 }
 
 h1,
@@ -85,21 +73,26 @@ a:hover
 	color: #ea5564;
 }
 
-ul,
-ol
+.docs {
+	display: flex;
+	min-height: 100vh;
+}
+
+.docs ul,
+.docs ol
 {
 	list-style: none;
 	margin: 10px 0 20px;
 }
 
-ul li,
-ol li
+.docs ul li,
+.docs ol li
 {
 	padding: 0 0 0 15px;
 	position: relative;
 }
 
-ul li::before
+.docs ul li::before
 {
 	background: #666;
 	content: ' ';
@@ -110,17 +103,17 @@ ul li::before
 	width: 5px;
 }
 
-ul ul
+.docs ul ul
 {
 	margin: 0;
 }
 
-ol
+.docs ol
 {
 	list-style: outside decimal;
 }
 
-ol li
+.docs ol li
 {
 	padding: 0;
 }
@@ -369,12 +362,17 @@ table th
 .nav
 {
 	background: #434343;
-	bottom: 0;
-	left: 0;
+	height: calc(100vh - 84px);
+	margin: 0;
 	min-width: 300px;
+	overflow: auto;
 	position: fixed;
-	top: 0;
+	top: 84px;
 	width: 300px;
+}
+.nav.not-fixed {
+	height: auto;
+	position: absolute;
 }
 
 .scroll-pane
@@ -411,6 +409,7 @@ table th
 	{
 		margin: 0;
 		padding: 20px 0;
+		text-align: left;
 	}
 
 	.nav .menu-item
@@ -427,9 +426,28 @@ table th
 	{
 		color: #bbb;
 		display: block;
+		font-family: "PT Sans", sans-serif;
 		font-size: 13px;
+		font-weight: normal;
 		padding: 8px 15px;
 		text-decoration: none;
+		text-transform: none;
+	}
+
+	.nav .menu-link.expandable {
+		padding-left: 30px;
+		position: relative;
+	}
+
+	.nav .menu-ico {
+		font-size: 16px;
+		left: 15px;
+		position: absolute;
+		top: 8px;
+	}
+
+	.nav .menu-link::after {
+		display: none;
 	}
 
 	.nav .menu-link:hover
@@ -451,17 +469,34 @@ table th
 
 	.menu.__sub .menu-link
 	{
-		padding-left: 30px;
+		padding-left: 45px;
+	}
+	.menu.__sub .menu-link .menu-ico {
+		left: 30px;
 	}
 
 	.menu.__sub .menu.__sub .menu-link
 	{
-		padding-left: 45px;
+		padding-left: 60px;
+	}
+	.menu.__sub .menu.__sub .menu-link .menu-ico {
+		left: 45px;
 	}
 
 	.menu.__sub .menu.__sub .menu.__sub .menu-link
 	{
-		padding-left: 60px;
+		padding-left: 75px;
+	}
+	.menu.__sub .menu.__sub .menu.__sub .menu-link .menu-ico {
+		left: 60px;
+	}
+
+	.menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu-link
+	{
+		padding-left: 90px;
+	}
+	.menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu-link .menu-ico {
+		left: 75px;
 	}
 
 .cnt
@@ -470,9 +505,9 @@ table th
 	border-left: 5px solid rgba(0,0,0,.15);
 	flex-grow: 1;
 	line-height: 24px;
-	max-width: 50%;
-	margin: 0 0 0 300px;
+	margin: 0 0 -30px 300px;
 	padding: 20px 40px;
+	width: calc(100% - 340px);
 }
 
 .home

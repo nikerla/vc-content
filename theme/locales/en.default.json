@@ -230,6 +230,8 @@
     },
     "docs": {
         "menu": {
+            "developer-guide": "Developer guide",
+            "user-guide": "User guide",
             "introduction": "Introduction",
             "system-requirements": "System requirements",
             "getting-started": "Getting started",
@@ -304,7 +306,7 @@
             "database-migrations": "Database migrations",
             "api-reference": "API reference",
             "introduction-to-virtocommerce": "Introduction to Virto Commerce",
-            "mobile-started-app": "Mobile starter app",
+            "mobile-starter-app": "Mobile starter app",
             "what-is-commerce-manager": "What is Commerce Manager",
             "minimum-requirements": "Minimum requirements",
             "dashboard": "Dashboard",

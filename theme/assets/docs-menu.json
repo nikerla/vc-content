@@ -1,0 +1,450 @@
+[
+    {
+        "title": "docs.menu.developer-guide",
+        "url": "docs/vc2devguide",
+        "submenu": [
+            {
+                "title": "docs.menu.introduction",
+                "url": "docs/vc2devguide/introduction"
+            },
+            {
+                "title": "docs.menu.system-requirements",
+                "url": "docs/vc2devguide/system-requirements"
+            },
+            {
+                "title": "docs.menu.getting-started",
+                "url": "docs/vc2devguide/getting-started"
+            },
+            {
+                "title": "docs.menu.development-scenarios",
+                "url": "docs/vc2devguide/development-scenarios",
+                "submenu": [
+                    {
+                        "title": "docs.menu.release-management-process",
+                        "url": "docs/vc2devguide/release-management-process"
+                    },
+                    {
+                        "title": "docs.menu.deployment-environments",
+                        "url": "docs/vc2devguide/deployment-environments"
+                    },
+                    {
+                        "title": "docs.menu.developing-a-custom-solution",
+                        "url": "docs/vc2devguide/developing-a-custom-solution"
+                    },
+                    {
+                        "title": "docs.menu.how-to-generate-module-api-c-sharp-client",
+                        "url": "docs/vc2devguide/how-to-generate-module-api-c-sharp-client"
+                    },
+                    {
+                        "title": "docs.menu.how-to-generate-module-api-c-sharp-client-using-autorest",
+                        "url": "docs/vc2devguide/how-to-generate-module-api-c-sharp-client-using-autorest"
+                    },
+                    {
+                        "title": "docs.menu.working-with-platform-api",
+                        "url": "docs/vc2devguide/working-with-platform-api"
+                    },
+                    {
+                        "title": "docs.menu.mobile-starter-kit-getting-started",
+                        "url": "docs/vc2devguide/mobile-starter-kit-getting-started"
+                    },
+                    {
+                        "title": "docs.menu.configuring-error-logging-and-notifications",
+                        "url": "docs/vc2devguide/configuring-error-logging-and-notifications"
+                    },
+                    {
+                        "title": "docs.menu.process-of-custom-module-contributing",
+                        "url": "docs/vc2devguide/process-of-custom-module-contributing"
+                    },
+                    {
+                        "title": "docs.menu.creating-module-packages",
+                        "url": "docs/vc2devguide/creating-module-packages"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.deployment",
+                "url": "docs/vc2devguide/deployment",
+                "submenu": [
+                    {
+                        "title": "docs.menu.deploy-elasticsearch-to-dedicated-server",
+                        "url": "docs/vc2devguide/deploy-elasticsearch-to-dedicated-server"
+                    },
+                    {
+                        "title": "docs.menu.platform-settings",
+                        "url": "docs/vc2devguide/platform-settings"
+                    },
+                    {
+                        "title": "docs.menu.recommended-production-configuration-for-microsoft-azure",
+                        "url": "docs/vc2devguide/recommended-production-configuration-for-microsoft-azure"
+                    },
+                    {
+                        "title": "docs.menu.performance-diagnostics-and-monitoring",
+                        "url": "docs/vc2devguide/performance-diagnostics-and-monitoring"
+                    },
+                    {
+                        "title": "docs.menu.platform-deployment",
+                        "url": "docs/vc2devguide/platform-deployment",
+                        "submenu": [
+                            {
+                                "title": "docs.menu.deploy-from-github-to-microsoft-cloud-azure",
+                                "url": "docs/vc2devguide/deploy-from-github-to-microsoft-cloud-azure"
+                            },
+                            {
+                                "title": "docs.menu.deploy-web-applications-to-dedicated-server",
+                                "url": "docs/vc2devguide/deploy-web-applications-to-dedicated-server"
+                            },
+                            {
+                                "title": "docs.menu.source-code-getting-started",
+                                "url": "docs/vc2devguide/source-code-getting-started"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "docs.menu.storefront-deployment",
+                        "url": "docs/vc2devguide/storefront-deployment",
+                        "submenu": [
+                            {
+                                "title": "docs.menu.storefront-source-code-getting-started",
+                                "url": "docs/vc2devguide/storefront-source-code-getting-started"
+                            },
+                            {
+                                "title": "docs.menu.storefront-microsoft-azure-getting-started",
+                                "url": "docs/vc2devguide/storefront-microsoft-azure-getting-started"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.working-with-platform-manager",
+                "url": "docs/vc2devguide/working-with-platform-manager",
+                "submenu": [
+                    {
+                        "title": "docs.menu.basic-functions",
+                        "url": "docs/vc2devguide/basic-functions",
+                        "submenu": [
+                            {
+                                "title": "docs.menu.background-jobs",
+                                "url": "docs/vc2devguide/background-jobs"
+                            },
+                            {
+                                "title": "docs.menu.blades-and-navigation",
+                                "url": "docs/vc2devguide/blades-and-navigation"
+                            },
+                            {
+                                "title": "docs.menu.blade-toolbar",
+                                "url": "docs/vc2devguide/blade-toolbar"
+                            },
+                            {
+                                "title": "docs.menu.caching",
+                                "url": "docs/vc2devguide/caching"
+                            },
+                            {
+                                "title": "docs.menu.platform-export-and-import",
+                                "url": "docs/vc2devguide/platform-export-and-import"
+                            },
+                            {
+                                "title": "docs.menu.push-notifications",
+                                "url": "docs/vc2devguide/push-notifications"
+                            },
+                            {
+                                "title": "docs.menu.storage-of-files",
+                                "url": "docs/vc2devguide/storage-of-files"
+                            },
+                            {
+                                "title": "docs.menu.metaform",
+                                "url": "docs/vc2devguide/metaform"
+                            },
+                            {
+                                "title": "docs.menu.widgets",
+                                "url": "docs/vc2devguide/widgets"
+                            },
+                            {
+                                "title": "docs.menu.working-with-platform-security",
+                                "url": "docs/vc2devguide/working-with-platform-security"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "docs.menu.extending-functionality",
+                        "url": "docs/vc2devguide/extending-functionality",
+                        "submenu": [
+                            {
+                                "title": "docs.menu.creating-new-module",
+                                "url": "docs/vc2devguide/creating-new-module"
+                            },
+                            {
+                                "title": "docs.menu.managing-module-database",
+                                "url": "docs/vc2devguide/managing-module-database"
+                            },
+                            {
+                                "title": "docs.menu.managing-module-settings",
+                                "url": "docs/vc2devguide/managing-module-settings"
+                            },
+                            {
+                                "title": "docs.menu.using-dynamic-properties",
+                                "url": "docs/vc2devguide/using-dynamic-properties"
+                            },
+                            {
+                                "title": "docs.menu.composing-dynamic-conditions",
+                                "url": "docs/vc2devguide/composing-dynamic-conditions"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "docs.menu.style-guide",
+                        "url": "docs/vc2devguide/style-guide"
+                    },
+                    {
+                        "title": "docs.menu.design-guidelines-and-naming-conventions",
+                        "url": "docs/vc2devguide/design-guidelines-and-naming-conventions"
+                    },
+                    {
+                        "title": "docs.menu.localization-implementation",
+                        "url": "docs/vc2devguide/localization-implementation"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.working-with-storefront",
+                "url": "docs/vc2devguide/working-with-storefront",
+                "submenu": [
+                    {
+                        "title": "docs.menu.theme-development",
+                        "url": "docs/vc2devguide/theme-development",
+                        "submenu": [
+                            {
+                                "title": "docs.menu.liquid-reference",
+                                "url": "docs/vc2devguide/liquid-reference",
+                                "submenu": [
+                                    {
+                                        "title": "docs.menu.tags",
+                                        "url": "docs/vc2devguide/tags"
+                                    },
+                                    {
+                                        "title": "docs.menu.objects",
+                                        "url": "docs/vc2devguide/objects",
+                                        "submenu": [
+                                            {
+                                                "title": "docs.menu.cart",
+                                                "url": "docs/vc2devguide/cart"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "title": "docs.menu.filters",
+                                        "url": "docs/vc2devguide/filters"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": "docs.menu.pages-and-blogs",
+                        "url": "docs/vc2devguide/pages-and-blogs"
+                    },
+                    {
+                        "title": "docs.menu.storefront-seo-routing",
+                        "url": "docs/vc2devguide/storefront-seo-routing"
+                    },
+                    {
+                        "title": "docs.menu.orchard-cms-integration",
+                        "url": "docs/vc2devguide/orchard-cms-integration"
+                    },
+                    {
+                        "title": "docs.menu.enabling-login-within-external-providers",
+                        "url": "docs/vc2devguide/enabling-login-within-external-providers"
+                    },
+                    {
+                        "title": "docs.menu.how-to-localize-catalog-product-names-in-storefront",
+                        "url": "docs/vc2devguide/how-to-localize-catalog-product-names-in-storefront"
+                    },
+                    {
+                        "title": "docs.menu.bundles",
+                        "url": "docs/vc2devguide/bundles"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.extending-commerce",
+                "url": "docs/vc2devguide/extending-commerce",
+                "submenu": [
+                    {
+                        "title": "docs.menu.creating-catalog-custom-import-export-extensions",
+                        "url": "docs/vc2devguide/creating-catalog-custom-import-export-extensions"
+                    },
+                    {
+                        "title": "docs.menu.creating-new-payment-method",
+                        "url": "docs/vc2devguide/creating-new-payment-method"
+                    },
+                    {
+                        "title": "docs.menu.creating-new-shipping-method",
+                        "url": "docs/vc2devguide/creating-new-shipping-method"
+                    },
+                    {
+                        "title": "docs.menu.creating-new-tax-provider",
+                        "url": "docs/vc2devguide/creating-new-tax-provider"
+                    },
+                    {
+                        "title": "docs.menu.extending-members-domain-types",
+                        "url": "docs/vc2devguide/extending-members-domain-types"
+                    },
+                    {
+                        "title": "docs.menu.extending-using-events",
+                        "url": "docs/vc2devguide/extending-using-events"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.reporting",
+                "url": "docs/vc2devguide/reporting",
+                "submenu": [
+                    {
+                        "title": "docs.menu.microsoft-power-bi",
+                        "url": "docs/vc2devguide/microsoft-power-bi"
+                    },
+                    {
+                        "title": "docs.menu.tableau",
+                        "url": "docs/vc2devguide/tableau"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "docs.menu.user-guide",
+        "url": "docs/vc2userguide",
+        "submenu": [
+            {
+                "title": "docs.menu.introduction-to-virtocommerce",
+                "url": "docs/vc2userguide/introduction-to-virtocommerce",
+                "submenu": [
+                    {
+                        "title": "docs.menu.mobile-starter-app",
+                        "url": "docs/vc2userguide/mobile-starter-app"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.what-is-commerce-manager",
+                "url": "docs/vc2userguide/what-is-commerce-manager",
+                "submenu": [
+                    {
+                        "title": "docs.menu.minimum-requirements",
+                        "url": "docs/vc2userguide/minimum-requirements"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.getting-started",
+                "url": "docs/vc2userguide/getting-started"
+            },
+            {
+                "title": "docs.menu.user-management-roles-and-role-assignment",
+                "url": "docs/vc2userguide/user-management-roles-and-role-assignment"
+            },
+            {
+                "title": "docs.menu.configuration",
+                "url": "docs/vc2userguide/configuration",
+                "submenu": [
+                    {
+                        "title": "docs.menu.managing-dynamic-properties",
+                        "url": "docs/vc2userguide/managing-dynamic-properties"
+                    },
+                    {
+                        "title": "docs.menu.modules-management",
+                        "url": "docs/vc2userguide/modules-management"
+                    },
+                    {
+                        "title": "docs.menu.store",
+                        "url": "docs/vc2userguide/store"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.marketing",
+                "url": "docs/vc2userguide/marketing",
+                "submenu": [
+                    {
+                        "title": "docs.menu.dynamic-content",
+                        "url": "docs/vc2userguide/dynamic-content",
+                        "submenu": [
+                            {
+                                "title": "docs.menu.registering-content-placeholders",
+                                "url": "docs/vc2userguide/registering-content-placeholders"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "docs.menu.how-to-add-an-advertising-spot-via-marketing",
+                        "url": "docs/vc2userguide/how-to-add-an-advertising-spot-via-marketing",
+                        "submenu": [
+                            {
+                                "title": "docs.menu.create-a-content-item",
+                                "url": "docs/vc2userguide/create-a-content-item"
+                            },
+                            {
+                                "title": "docs.menu.create-a-content-placeholder",
+                                "url": "docs/vc2userguide/create-a-content-placeholder"
+                            },
+                            {
+                                "title": "docs.menu.create-a-content-publishing",
+                                "url": "docs/vc2userguide/create-a-content-publishing"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "docs.menu.promotions",
+                        "url": "docs/vc2userguide/promotions"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.merchandise-management",
+                "url": "docs/vc2userguide/merchandise-management",
+                "submenu": [
+                    {
+                        "title": "docs.menu.products-catalog",
+                        "url": "docs/vc2userguide/products-catalog"
+                    },
+                    {
+                        "title": "docs.menu.catalog-export",
+                        "url": "docs/vc2userguide/catalog-export"
+                    },
+                    {
+                        "title": "docs.menu.catalog-import",
+                        "url": "docs/vc2userguide/catalog-import"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.price-lists",
+                "url": "docs/vc2userguide/price-lists"
+            },
+            {
+                "title": "docs.menu.order-management",
+                "url": "docs/vc2userguide/order-management",
+                "submenu": [
+                    {
+                        "title": "docs.menu.working-with-shipments",
+                        "url": "docs/vc2userguide/working-with-shipments"
+                    },
+                    {
+                        "title": "docs.menu.working-with-taxes",
+                        "url": "docs/vc2userguide/working-with-taxes"
+                    }
+                ]
+            },
+            {
+                "title": "docs.menu.fulfillment",
+                "url": "docs/vc2userguide/fulfillment",
+                "submenu": [
+                    {
+                        "title": "docs.menu.fulfillment-centers",
+                        "url": "docs/vc2userguide/fulfillment-centers"
+                    }
+                ]
+            }
+        ]
+    }
+]
