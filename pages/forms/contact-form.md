@@ -97,6 +97,10 @@ tags :
 							<span class="title">How do I remove "powered by link" while using Community Edition?</span>
 							<span class="descr">You will need to get our production deployment community license. Please fill the form on this page and make sure to complete information about your company and website domain you want to use for community license.</span>
 						</li>
+						<li>
+							<span class="title">Want to prvide feedback?</span>
+							<span class="descr">Use our <a href="https://virtocommerce.uservoice.com" rel="nofollow" target="_blank">User Voice Feedback</a> site to submit ideas or comment on existing ones.</span>
+						</li>
 					</ul>
 				</div>
 			</div>
