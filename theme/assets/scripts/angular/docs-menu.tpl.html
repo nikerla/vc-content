@@ -1,9 +1,6 @@
 <ul class="menu" ng-class="{ '__sub': $ctrl.isSubmenu }">
     <li class="menu-item" ng-class="{ 'active': $ctrl.url === menuItem.url }" ng-repeat="menuItem in $ctrl.items">
-        <a class="menu-link" title="{{ menuItem.title | translate }}" ng-href="{{ menuItem.url }}" ng-class="{ 'expandable': menuItem.submenu }">
-            <i aria-hidden="true" class="menu-ico fa" ng-class="{ 'fa-angle-right': menuItem.submenu && !menuItem.expanded, 'fa-angle-down': menuItem.submenu && menuItem.expanded }"></i>
-            {{ menuItem.title | translate }}
-        </a>
-        <vc-docs-menu items="menuItem.submenu" is-submenu="menuItem.submenu && menuItem.submenu.length" url="$ctrl.url" parent="menuItem" ng-if="menuItem.submenu" ng-show="menuItem.expanded" />
+        <a class="menu-link" title="{{ menuItem.title }}" ng-href="{{ menuItem.url }}" ng-bind="menuItem.title"></a>
+        <vc-docs-menu items="menuItem.submenu" url="$ctrl.url" is-submenu="menuItem.submenu && menuItem.submenu.length" ng-if="menuItem.submenu && menuItem.submenu.length" ng-show="menuItem.submenu.expanded" />
     </li>
 </ul>

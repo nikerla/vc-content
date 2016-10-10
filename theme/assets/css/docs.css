@@ -75,7 +75,17 @@ a:hover
 
 .docs {
 	display: flex;
-	min-height: 100vh;
+	min-height: 1000px;
+}
+
+.docs .docs-column {
+	margin: 0 0 -30px;
+	min-width: 300px;
+	width: 300px;
+}
+
+.docs .docs-column.docs-content {
+	flex-grow: 1;
 }
 
 .docs ul,
@@ -363,7 +373,7 @@ table th
 {
 	background: #434343;
 	height: calc(100vh - 84px);
-	margin: 0;
+	margin: 0 0 -30px;
 	min-width: 300px;
 	overflow: auto;
 	position: fixed;
@@ -371,8 +381,9 @@ table th
 	width: 300px;
 }
 .nav.not-fixed {
-	height: auto;
+	bottom: 0;
 	position: absolute;
+	top: auto;
 }
 
 .scroll-pane
@@ -505,9 +516,7 @@ table th
 	border-left: 5px solid rgba(0,0,0,.15);
 	flex-grow: 1;
 	line-height: 24px;
-	margin: 0 0 -30px 300px;
 	padding: 20px 40px;
-	width: calc(100% - 340px);
 }
 
 .home

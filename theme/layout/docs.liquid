@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ page_title }}</title>
+    <title>Virto Commerce Documentation - {{ page_title }}</title>
     {{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
     {{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/vs.min.css' | stylesheet_tag }}
@@ -17,8 +17,6 @@
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/xml.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js' | script_tag }}
     {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js' | script_tag }}
-    {{ '//cdnjs.cloudflare.com/ajax/libs/angular-translate/2.12.1/angular-translate.min.js' | script_tag }}
-    {{ '//cdnjs.cloudflare.com/ajax/libs/angular-translate/2.12.1/angular-translate-loader-url/angular-translate-loader-url.min.js' | script_tag }}
     {{ 'app.js' | asset_url | script_tag }}
     {{ 'docs.js' | asset_url | script_tag }}
 
@@ -32,8 +30,8 @@
             <div class="swipe">
                 {% include 'main-menu-mobile' %}
             </div>
-            <div class="header-wrap" id="header">
-                <header class="responsive" role="banner">
+            <div class="header-wrap">
+                <header class="responsive" id="header" role="banner">
                     <a class="logo" href="{{ '/' | absolute_url }}" title="Virto Commerce"></a>
                     <a class="mobile-btn">
                         <span></span>
@@ -49,16 +47,20 @@
             </div>
             <article class="main" role="main">
                 <div class="docs responsive">
-                    <div class="nav" id="menu" ng-init="getMenuItems()">
-                        <form class="search" action="{{ '/content/search' | absolute_url }}" method="post">
-                            <input name="SearchIn" id="SearchIn" type="hidden" value="docs">
-                            <input name="Layout" id="Layout" type="hidden" value="docs">
-                            <input name="Keyword" id="Keyword" type="search" placeholder="Search docs">
-                        </form>
-                        <vc-docs-menu items="menuItems" url="'{{ page.url }}'" />
+                    <div class="docs-column">
+                        <div class="nav" id="menu">
+                            <form class="search" action="{{ '/content/search' | absolute_url }}" method="post">
+                                <input name="SearchIn" id="SearchIn" type="hidden" value="docs">
+                                <input name="Layout" id="Layout" type="hidden" value="docs">
+                                <input name="Keyword" id="Keyword" type="search" placeholder="Search docs">
+                            </form>
+                            <vc-docs-menu items="menuItems" url="'{{ page.url }}'" />
+                        </div>
                     </div>
-                    <div class="cnt" id="content">
-                        {{ content_for_layout }}
+                    <div class="docs-column docs-content">
+                        <div class="cnt" id="content">
+                            {{ content_for_layout }}
+                        </div>
                     </div>
                 </div>
             </article>
@@ -72,17 +74,23 @@
 
         var footerBlock = document.getElementById('footer');
         var menuBlock = document.getElementById('menu');
-        var headerBlock = document.getElementById('header');
+        stickMenu();
+
         document.addEventListener('scroll', function () {
+            stickMenu();
+        });
+
+        document.addEventListener('resize', function () {
+            stickMenu();
+        });
+
+        function stickMenu() {
             if (isElementInViewport(footerBlock)) {
                 menuBlock.classList.add('not-fixed');
-                menuBlock.style.top = window.scrollY + 'px';
-                menuBlock.style.maxHeight = (window.innerHeight - headerBlock.innerHeight) + 'px';
             } else {
                 menuBlock.classList.remove('not-fixed');
-                menuBlock.style.top = '84px';
             }
-        });
+        }
 
         function isElementInViewport(el) {
             var rect = el.getBoundingClientRect();
@@ -91,6 +99,19 @@
                 rect.left < (window.innerWidth || document.documentElement.clientWidth) &&
                 rect.top < (window.innerHeight || document.documentElement.clientHeight);
         }
+
+        window.pageUrl = '{{ page.url }}';
+        window.menuItems = [];
+        {% for page in pages %}
+            {% assign page_url_parts = page.url | split: '/' %}
+            {% if page_url_parts[0] == 'docs' %}
+                window.menuItems.push({
+                    url: '{{ page.url }}',
+                    title: '{{ page.title }}',
+                    sorting: {{ page.sorting }}
+                });
+            {% endif %}
+        {% endfor %}
     </script>
 </body>
 </html>
