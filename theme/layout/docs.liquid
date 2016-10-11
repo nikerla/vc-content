@@ -54,12 +54,14 @@
                                 <input name="Layout" id="Layout" type="hidden" value="docs">
                                 <input name="Keyword" id="Keyword" type="search" placeholder="Search docs">
                             </form>
-                            <vc-docs-menu items="menuItems" url="'{{ page.url }}'" />
+                            <vc-docs-menu items="menuItems" url="'{{ page.url }}'"></vc-docs-menu>
                         </div>
                     </div>
                     <div class="docs-column docs-content">
                         <div class="cnt" id="content">
+                            <vc-docs-page-path page="page"></vc-docs-page-path>
                             {{ content_for_layout }}
+                            <vc-docs-page-topics page="page"></vc-docs-page-topics>
                         </div>
                     </div>
                 </div>
@@ -101,14 +103,14 @@
         }
 
         window.pageUrl = '{{ page.url }}';
-        window.menuItems = [];
+        window.pages = [];
         {% for page in pages %}
             {% assign page_url_parts = page.url | split: '/' %}
             {% if page_url_parts[0] == 'docs' %}
-                window.menuItems.push({
+                window.pages.push({
                     url: '{{ page.url }}',
                     title: '{{ page.title }}',
-                    sorting: {{ page.sorting }}
+                    priority: {{ page.priority }}
                 });
             {% endif %}
         {% endfor %}

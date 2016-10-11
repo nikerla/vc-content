@@ -1,6 +1,6 @@
 <ul class="menu" ng-class="{ '__sub': $ctrl.isSubmenu }">
     <li class="menu-item" ng-class="{ 'active': $ctrl.url === menuItem.url }" ng-repeat="menuItem in $ctrl.items">
         <a class="menu-link" title="{{ menuItem.title }}" ng-href="{{ menuItem.url }}" ng-bind="menuItem.title"></a>
-        <vc-docs-menu items="menuItem.submenu" url="$ctrl.url" is-submenu="menuItem.submenu && menuItem.submenu.length" ng-if="menuItem.submenu && menuItem.submenu.length" ng-show="menuItem.submenu.expanded" />
+        <vc-docs-menu items="menuItem.children" url="$ctrl.url" is-submenu="menuItem.children && menuItem.children.length" ng-if="menuItem.children && menuItem.children.length" ng-show="menuItem.children.expanded" />
     </li>
 </ul>

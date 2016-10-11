@@ -1,5 +1,6 @@
 <p>
-    <span ng-repeat="section in $ctrl.sections" ng-if="section.title != $ctrl.currentItemTitle">
-        <a title="{{ section.title }}" ng-href="{{ section.url }}"  ng-bind="section.title"></a> /
+    <span ng-repeat="parent in $ctrl.page.parents" ng-if="$ctrl.page.parents && $ctrl.page.parents.length">
+        <a title="{{ parent.title }}" ng-href="{{ parent.url }}" ng-bind="parent.title"></a> /
     </span>
+    <span ng-bind="$ctrl.page.title"></span>
 </p>

@@ -1,11 +1,9 @@
 ---
-title: Virto Commerce 2 Documentation - User Guide - Dashboard
+title: Dashboard
 layout: docs
 date: 2015-09-19T00:03:50.657Z
 sorting: 4
 ---
-[Docs](docs) / [Virto Commerce 2 Documentation](docs/vc2userguide) / Dashboard
-***
 # Dashboard
 
 ## Home page
