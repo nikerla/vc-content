@@ -1,6 +1,6 @@
-<p>
+<p class="breadcrumbs">
     <span ng-repeat="parent in $ctrl.page.parents" ng-if="$ctrl.page.parents && $ctrl.page.parents.length">
-        <a title="{{ parent.title }}" ng-href="{{ parent.url }}" ng-bind="parent.title"></a> /
+        <a title="{{ parent.title }}" ng-href="{{ parent.url }}" ng-bind="parent.title"></a> <i class="fa fa-angle-double-right" aria-hidden="true"></i>
     </span>
     <span ng-bind="$ctrl.page.title"></span>
 </p>

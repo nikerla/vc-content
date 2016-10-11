@@ -513,10 +513,48 @@ table th
 .cnt
 {
 	background: #fff;
-	border-left: 5px solid rgba(0,0,0,.15);
 	flex-grow: 1;
 	line-height: 24px;
 	padding: 20px 40px;
+}
+
+.cnt .contributors {
+	height: 40px;
+	padding: 0 0 15px;
+	position: relative;
+}
+
+.cnt .contributors .author-bio {
+	float: left;
+}
+
+.cnt .contributors .author-content {
+	display: inline-block;
+	margin-left: 6px;
+}
+
+.cnt .contributors .edit-on-github {
+	float: right;
+	font-weight: 600;
+	text-align: right;
+}
+
+.cnt .contributors .author-bio .author-img {
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 36px;
+	margin-top: 10px;
+	width: 36px;
+}
+
+.cnt .breadcrumbs {
+	clear: both;
+	margin-top: 20px;
+}
+
+.cnt .breadcrumbs span {
+	white-space: nowrap;
 }
 
 .home

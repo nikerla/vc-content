@@ -22,11 +22,11 @@ storefrontApp.controller('docsController', ['$scope', '$window', function ($scop
     function expandPageInMenu(pageUrl, pages) {
         var page = getCurrentPage(pageUrl, pages);
         if (page.children && page.children.length) {
-            page.children.expanded = true;
+            page.expanded = true;
         }
         if (page.parents && page.parents.length) {
             _.each(page.parents, function (parentPage) {
-                parentPage.children.expanded = true;
+                parentPage.expanded = true;
             });
         }
         return pages;
@@ -92,5 +92,10 @@ storefrontApp.component('vcDocsPageTopics', {
     templateUrl: 'themes/assets/docs-page-topics.tpl.html',
     bindings: {
         page: '='
+    },
+    controller: function () {
+        if (this.page.children && this.page.children.length) {
+            this.page.children = _.sortBy(this.page.children, function (page) { return page.priority });
+        }
     }
 });

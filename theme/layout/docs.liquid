@@ -59,7 +59,26 @@
                     </div>
                     <div class="docs-column docs-content">
                         <div class="cnt" id="content">
+                            <div class="contributors">
+                                <div class="author-bio">
+                                    <a href="https://github.com/virtocommerce" target="_blank">
+                                        <span class="author-img" style="background-image: url('{{ 'logo-mini.png' | asset_url }}');"></span>
+                                    </a>
+                                    <div class="author-content">
+                                        <div>
+                                            By <a href="https://github.com/virtocommerce" target="_blank">Virto Commerce</a>
+                                        </div>
+                                        <div>
+                                            Updated: {{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="edit-on-github">
+                                    <a href="https://github.com/VirtoCommerce/vc-content/blob/master/pages/{{ page.url }}.md"><i class="fa fa-github" aria-hidden="true"></i> Edit on GitHub</a>
+                                </div>
+                            </div>
                             <vc-docs-page-path page="page"></vc-docs-page-path>
+                            <hr />
                             {{ content_for_layout }}
                             <vc-docs-page-topics page="page"></vc-docs-page-topics>
                         </div>
