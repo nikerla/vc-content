@@ -70,6 +70,14 @@
         window._fbq = window._fbq || [];
         window._fbq.push(['track', 'PixelInitialized', {}]);
     </script>
+    <script type='application/ld+json'>
+        {
+            "@context": "http://www.schema.org",
+            "@type": "WebSite",
+            "name": "{{ page_title }}",
+            "url": "{{ page.url | full_url }}"
+        }
+    </script>
     <noscript>
         <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
     </noscript>
@@ -108,9 +116,9 @@
                         </div>
                     </div>
                     <div class="docs-column docs-content">
-                        <div class="cnt" id="content">
+                        <div class="cnt" id="content" itemscope itemtype="http://schema.org/Article">
                             <vc-docs-breadcrumbs page="page"></vc-docs-breadcrumbs>
-                            <h1>{{ page.title }}</h1>
+                            <h1 itemprop="headline">{{ page.title }}</h1>
                             <div class="contributors">
                                 <div class="author-bio">
                                     <a href="https://github.com/virtocommerce" target="_blank">
@@ -118,10 +126,10 @@
                                     </a>
                                     <div class="author-content">
                                         <div>
-                                            By <a href="https://github.com/virtocommerce" target="_blank">Virto Commerce</a>
+                                            By <a href="https://github.com/virtocommerce" target="_blank" itemprop="author">Virto Commerce</a>
                                         </div>
                                         <div>
-                                            Updated: {{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}
+                                            Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
                                         </div>
                                     </div>
                                 </div>
@@ -129,7 +137,7 @@
                                     <a href="https://github.com/VirtoCommerce/vc-content/blob/master/pages/{{ page.url }}.md"><i class="fa fa-github" aria-hidden="true"></i> Edit on GitHub</a>
                                 </div>
                             </div>
-                            <div ng-non-bindable>
+                            <div itemprop="articleBody" ng-non-bindable>
                                 {{ content_for_layout }}
                             </div>
                             <vc-docs-page-topics page="page"></vc-docs-page-topics>
