@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Virto Commerce Documentation - {{ page_title }}</title>
+
     {{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
     {{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/default.min.css' | stylesheet_tag }}
@@ -24,6 +24,22 @@
     {{ 'main.js' | asset_url | script_tag }}
 
     {{ content_for_header }}
+
+    {% if page_title != 'Virto Commerce Documentation' %}
+        {% assign page_title = 'Virto Commerce Documentation - ' | append: page_title %}
+    {% endif %}
+    <title>{{ page_title }}</title>
+    <meta name="description" content="{{ page_description }}" />
+    <meta name="og:type" property="og:type" content="article" />
+    <meta name="og:url" property="og:url" content="{{ page.url | full_url }}" />
+    <meta name="og:image" property="og:image" content="{{ 'logox2.jpg' | asset_url }}" />
+    <meta name="og:title" property="og:title" content="{{ page_title }}" />
+    <meta name="og:description" property="og:title" content="{{ page_description }}" />
+    <meta name="twitter:card" property="twitter:card" content="summary" />
+    <meta name="twitter:url" property="twitter:url" content="{{ page.url | full_url }}" />
+    <meta name="twitter:image" property="twitter:image" content="{{ 'logox2.jpg' | asset_url }}" />
+    <meta name="twitter:title" property="twitter:title" content="{{ page_title }}}" />
+    <meta name="twitter:description" property="twitter:description" content="{{ page_description }}" />
 
     <base href="{{ '/' | absolute_url }}" />
 </head>
