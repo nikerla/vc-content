@@ -28,6 +28,9 @@
     {% if page_title != 'Virto Commerce Documentation' %}
         {% assign page_title = 'Virto Commerce Documentation - ' | append: page_title %}
     {% endif %}
+    {% if page_description == empty %}
+        {% assign page_description = page_title %}
+    {% endif %}
     <title>{{ page_title }}</title>
     <meta name="description" content="{{ page_description }}" />
     <meta name="og:type" property="og:type" content="article" />
@@ -42,6 +45,34 @@
     <meta name="twitter:description" property="twitter:description" content="{{ page_description }}" />
 
     <base href="{{ '/' | absolute_url }}" />
+
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments) },i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ application_settings.GoogleAnalyticsKey }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script>
+        (function() {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+            _fbq.push(['addPixelId', '{{ application_settings.FacebookTrackerId }}']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+    <noscript>
+        <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
+    </noscript>
 </head>
 <body ng-controller="docsController">
     <div class="layout">
@@ -155,5 +186,6 @@
             {% endif %}
         {% endfor %}
     </script>
+    <script src="//apis.google.com/js/platform.js" async defer></script>
 </body>
 </html>
