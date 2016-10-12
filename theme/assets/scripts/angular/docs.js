@@ -50,10 +50,11 @@ storefrontApp.controller('docsController', ['$scope', '$window', function ($scop
 
     function getChildPages(page, allPages) {
         var pageUrlParts = getPageUrlParts(page);
-        return _.filter(allPages, function (p) {
+        var childPages = _.filter(allPages, function (p) {
             var pUrlParts = getPageUrlParts(p)
             return (pUrlParts.length === pageUrlParts.length + 1) && (p.url.indexOf(page.url + '/') >= 0);
         });
+        return _.sortBy(childPages, function (p) { return p.priority });
     }
 
     function getParentPagesUrls(page) {
@@ -81,8 +82,8 @@ storefrontApp.component('vcDocsMenu', {
     }
 });
 
-storefrontApp.component('vcDocsPagePath', {
-    templateUrl: 'themes/assets/docs-page-path.tpl.html',
+storefrontApp.component('vcDocsBreadcrumbs', {
+    templateUrl: 'themes/assets/docs-breadcrumbs.tpl.html',
     bindings: {
         page: '='
     }

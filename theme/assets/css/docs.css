@@ -39,11 +39,11 @@ h3
 	margin: 30px 0 10px;
 }
 
-h2:first-child,
+/*h2:first-child,
 h3:first-child
 {
 	margin: 0;
-}
+}*/
 
 p + p
 {
@@ -440,7 +440,7 @@ table th
 		font-family: "PT Sans", sans-serif;
 		font-size: 13px;
 		font-weight: normal;
-		padding: 8px 15px;
+		padding: 8px 40px;
 		text-decoration: none;
 		text-transform: none;
 	}
@@ -454,6 +454,7 @@ table th
 		font-size: 16px;
 		left: 15px;
 		position: absolute;
+		margin-right: 5px;
 		top: 8px;
 	}
 
@@ -480,7 +481,7 @@ table th
 
 	.menu.__sub .menu-link
 	{
-		padding-left: 45px;
+		padding-left: 55px;
 	}
 	.menu.__sub .menu-link .menu-ico {
 		left: 30px;
@@ -488,7 +489,7 @@ table th
 
 	.menu.__sub .menu.__sub .menu-link
 	{
-		padding-left: 60px;
+		padding-left: 70px;
 	}
 	.menu.__sub .menu.__sub .menu-link .menu-ico {
 		left: 45px;
@@ -496,7 +497,7 @@ table th
 
 	.menu.__sub .menu.__sub .menu.__sub .menu-link
 	{
-		padding-left: 75px;
+		padding-left: 85px;
 	}
 	.menu.__sub .menu.__sub .menu.__sub .menu-link .menu-ico {
 		left: 60px;
@@ -504,7 +505,7 @@ table th
 
 	.menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu-link
 	{
-		padding-left: 90px;
+		padding-left: 100px;
 	}
 	.menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu-link .menu-ico {
 		left: 75px;
@@ -515,12 +516,14 @@ table th
 	background: #fff;
 	flex-grow: 1;
 	line-height: 24px;
-	padding: 20px 40px;
+	padding: 0 40px 20px;
 }
 
 .cnt .contributors {
+	border-bottom: 1px solid #ddd;
 	height: 40px;
-	padding: 0 0 15px;
+	margin-top: -10px;
+	padding: 0 0 25px 10px;
 	position: relative;
 }
 
@@ -549,8 +552,11 @@ table th
 }
 
 .cnt .breadcrumbs {
+	border-bottom: 1px solid #ddd;
 	clear: both;
-	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 0 0 10px;
 }
 
 .cnt .breadcrumbs span {

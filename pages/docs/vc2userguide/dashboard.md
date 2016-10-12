@@ -2,10 +2,8 @@
 title: Dashboard
 layout: docs
 date: 2015-09-19T00:03:50.657Z
-sorting: 4
+priority: 4
 ---
-# Dashboard
-
 ## Home page
 
 Home page is the Commerce Manager area where a user starts his work after authentication. It contains main menu, current user information and dashboard.

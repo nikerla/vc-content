@@ -6,11 +6,13 @@
     <title>Virto Commerce Documentation - {{ page_title }}</title>
     {{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
     {{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
-    {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/vs.min.css' | stylesheet_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/default.min.css' | stylesheet_tag }}
     {{ 'reset.css' | asset_url | stylesheet_tag }}
     {{ 'main.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
     {{ 'docs.css' | asset_url | stylesheet_tag }}
+    {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
+    {{ '//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/cs.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/languages/javascript.min.js' | script_tag }}
@@ -19,6 +21,7 @@
     {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js' | script_tag }}
     {{ 'app.js' | asset_url | script_tag }}
     {{ 'docs.js' | asset_url | script_tag }}
+    {{ 'main.js' | asset_url | script_tag }}
 
     {{ content_for_header }}
 
@@ -59,6 +62,8 @@
                     </div>
                     <div class="docs-column docs-content">
                         <div class="cnt" id="content">
+                            <vc-docs-breadcrumbs page="page"></vc-docs-breadcrumbs>
+                            <h1>{{ page.title }}</h1>
                             <div class="contributors">
                                 <div class="author-bio">
                                     <a href="https://github.com/virtocommerce" target="_blank">
@@ -77,9 +82,9 @@
                                     <a href="https://github.com/VirtoCommerce/vc-content/blob/master/pages/{{ page.url }}.md"><i class="fa fa-github" aria-hidden="true"></i> Edit on GitHub</a>
                                 </div>
                             </div>
-                            <vc-docs-page-path page="page"></vc-docs-page-path>
-                            <hr />
-                            {{ content_for_layout }}
+                            <div ng-non-bindable>
+                                {{ content_for_layout }}
+                            </div>
                             <vc-docs-page-topics page="page"></vc-docs-page-topics>
                         </div>
                     </div>
