@@ -11,13 +11,13 @@ Catalog data can be created manually, but when catalogs consist of large amounts
 ## Importing Catalog data
 
 Choose the catalog data you want to import and click the import button in the catalog content blade's toolbar.
-![](assets/images/docs/base64314b993742e2e44b.png)
+![](../../../assets/images/docs/base64314b993742e2e44b.png)
 
 Next, choose CSV import format
-![](assets/images/docs/base6492b2a7c4abc03078.png)
+![](../../../assets/images/docs/base6492b2a7c4abc03078.png)
 
 In following blade you should select csv delimiter and upload the CSV file with the data to be imported.
-![](assets/images/docs/base64b0f0d5848f13a3fa.png)
+![](../../../assets/images/docs/base64b0f0d5848f13a3fa.png)
 
 ## Column mapping
 
@@ -25,9 +25,9 @@ In next step user needs to map columns of the uploaded CSV file to corresponding
 
 All CSV columns that are not mapped to catalog object column will be automatically converted to product property when importing. If you don't want to map some CSV columns to product properties just remove them from the list. Or remove all by clicking "Clear all" if you don't need any.
 
-![](assets/images/docs/base64716a5adfef2ed98f.png)
+![](../../../assets/images/docs/base64716a5adfef2ed98f.png)
 
 ## Import progress
 
 Next, click start import and wait untill import process will be completed.
-![](assets/images/docs/base64a4f035f7ce9c3ad1.png)
+![](../../../assets/images/docs/base64a4f035f7ce9c3ad1.png)

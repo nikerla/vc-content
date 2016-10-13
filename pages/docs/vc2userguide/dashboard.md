@@ -8,7 +8,7 @@ priority: 4
 
 Home page is the Commerce Manager area where a user starts his work after authentication. It contains main menu, current user information and dashboard.
 
-![](assets/images/docs/image2015-6-19_11-49-44.png)
+![](../../assets/images/docs/image2015-6-19_11-49-44.png)
 
 ## Main menu
 
