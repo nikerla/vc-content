@@ -67,7 +67,7 @@ tags :
 							<textarea rows="10" cols="30" name="Message" class="form-text" required="required"></textarea>
 						</div>
 						<div class="control-group">
-							<button type="submit" class="button fill">Submit Request</button>
+							<input type="submit" class="button fill">Submit Request</input>
 						</div>
 					</form>
 				</div>
