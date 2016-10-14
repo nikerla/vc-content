@@ -70,7 +70,8 @@ storefrontApp.controller('docsController', ['$scope', '$window', function ($scop
 
     function getPageUrlParts(page) {
         var urlParts = page.url.split('/');
-        return _.without(urlParts, urlParts[urlParts.length - 1]);
+        urlParts.pop();
+        return urlParts;
     }
 }]);
 
