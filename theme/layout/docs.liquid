@@ -109,9 +109,9 @@
                     <div class="docs-column">
                         <div class="nav" id="menu">
                             <form class="search" action="{{ '/content/search' | absolute_url }}" method="post">
-                                <input name="SearchIn" id="SearchIn" type="hidden" value="docs">
+                                <input name="SearchIn" id="SearchIn" type="hidden" value="/docs">
                                 <input name="Layout" id="Layout" type="hidden" value="docs">
-                                <input name="Keyword" id="Keyword" type="search" placeholder="Search docs">
+                                <input name="Keyword" id="Keyword" type="search" placeholder="Search docs" value="{{ search.terms }}">
                             </form>
                             <vc-docs-menu items="menuItems" url="'{{ page.url }}'"></vc-docs-menu>
                         </div>
@@ -120,28 +120,32 @@
                         <div class="cnt" id="content" itemscope itemtype="http://schema.org/Article">
                             <vc-docs-breadcrumbs page="page"></vc-docs-breadcrumbs>
                             <h1 itemprop="headline">{{ page.title }}</h1>
-                            <div class="contributors">
-                                <div class="author-bio">
-                                    <a href="https://github.com/virtocommerce" target="_blank">
-                                        <span class="author-img" style="background-image: url('{{ 'logo-mini.png' | asset_url }}');"></span>
-                                    </a>
-                                    <div class="author-content">
-                                        <div>
-                                            By <a href="https://github.com/virtocommerce" target="_blank" itemprop="author">Virto Commerce</a>
-                                        </div>
-                                        <div>
-                                            Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
+                            {% if template != 'search' %}
+                                <div class="contributors">
+                                    <div class="author-bio">
+                                        <a href="https://github.com/virtocommerce" target="_blank">
+                                            <span class="author-img" style="background-image: url('{{ 'logo-mini.png' | asset_url }}');"></span>
+                                        </a>
+                                        <div class="author-content">
+                                            <div>
+                                                By <a href="https://github.com/virtocommerce" target="_blank" itemprop="author">Virto Commerce</a>
+                                            </div>
+                                            <div>
+                                                Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
+                                            </div>
                                         </div>
                                     </div>
+                                    <div class="edit-on-github">
+                                        <a href="https://github.com/VirtoCommerce/vc-content/blob/master/pages/{{ page.url }}.md"><i class="fa fa-github" aria-hidden="true"></i> Edit on GitHub</a>
+                                    </div>
                                 </div>
-                                <div class="edit-on-github">
-                                    <a href="https://github.com/VirtoCommerce/vc-content/blob/master/pages/{{ page.url }}.md"><i class="fa fa-github" aria-hidden="true"></i> Edit on GitHub</a>
-                                </div>
-                            </div>
+                            {% endif %}
                             <div itemprop="articleBody" ng-non-bindable>
                                 {{ content_for_layout }}
                             </div>
-                            <vc-docs-page-topics page="page"></vc-docs-page-topics>
+                            {% if template != 'search' %}
+                                <vc-docs-page-topics page="page"></vc-docs-page-topics>
+                            {% endif %}
                         </div>
                     </div>
                 </div>
@@ -183,17 +187,14 @@
         }
 
         window.pageUrl = '{{ page.url }}';
-        window.pages = [];
-        {% for page in pages %}
-            {% assign page_url_parts = page.url | split: '/' %}
-            {% if page_url_parts[0] == 'docs' %}
-                window.pages.push({
-                    url: '{{ page.url }}',
-                    title: '{{ page.title }}',
-                    priority: {{ page.priority }}
-                });
-            {% endif %}
-        {% endfor %}
+        window.pages = [
+            {% for page in pages %}
+                {% assign page_url_parts = page.url | split: '/' %}
+                {% if page_url_parts[0] == 'docs' %}
+                    { url: '{{ page.url }}', title: '{{ page.title }}', priority: {{ page.priority }} },
+                {% endif %}
+            {% endfor %}
+        ];
     </script>
     <script src="//apis.google.com/js/platform.js" async defer></script>
 </body>

@@ -1,8 +1,9 @@
 var storefrontApp = angular.module('storefrontApp', []);
 
 storefrontApp.controller('docsController', ['$scope', '$window', function ($scope, $window) {
-    $scope.menuItems = getDocsMenu($window.pages, $window.pageUrl);
-    $scope.page = getCurrentPage($window.pageUrl, $window.pages);
+    var pageUrl = $window.pageUrl || 'docs';
+    $scope.menuItems = getDocsMenu($window.pages, pageUrl);
+    $scope.page = getCurrentPage(pageUrl, $window.pages);
 
     function getDocsMenu(pages, pageUrl) {
         _.each(pages, function (page) {
@@ -79,7 +80,12 @@ storefrontApp.component('vcDocsMenu', {
         items: '=',
         url: '=',
         isSubmenu: '='
-    }
+    },
+    controller: ['$location', function ($location) {
+        this.navigate = function (url) {
+            $location.path(url);
+        }
+    }]
 });
 
 storefrontApp.component('vcDocsBreadcrumbs', {
