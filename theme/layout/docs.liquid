@@ -120,7 +120,7 @@
                         <div class="cnt" id="content" itemscope itemtype="http://schema.org/Article">
                             <vc-docs-breadcrumbs page="page"></vc-docs-breadcrumbs>
                             <h1 itemprop="headline">{{ page.title }}</h1>
-                            {% if template != 'content.search' %}
+                            {% if template != 'search' %}
                                 <div class="contributors">
                                     <div class="author-bio">
                                         <a href="https://github.com/virtocommerce" target="_blank">
@@ -143,7 +143,7 @@
                             <div itemprop="articleBody" ng-non-bindable>
                                 {{ content_for_layout }}
                             </div>
-                            {% if template != 'content.search' %}
+                            {% if template != 'search' %}
                                 <vc-docs-page-topics page="page"></vc-docs-page-topics>
                             {% endif %}
                         </div>
