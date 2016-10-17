@@ -113,7 +113,7 @@
                                 <input name="Layout" id="Layout" type="hidden" value="docs">
                                 <input name="Keyword" id="Keyword" type="search" placeholder="Search docs" value="{{ search.terms }}">
                             </form>
-                            <vc-docs-menu id="docs-menu" items="menuItems" url="'{{ page.url }}'"></vc-docs-menu>
+                            <vc-docs-menu id="docs-menu" items="menuItems" pages="pages" tree="menuItems" url="'{{ page.url }}'"></vc-docs-menu>
                         </div>
                     </div>
                     <div class="docs-column docs-content">

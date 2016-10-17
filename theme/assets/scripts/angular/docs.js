@@ -6,6 +6,7 @@ storefrontApp.config(['$locationProvider', function ($locationProvider) {
 
 storefrontApp.controller('docsController', ['$scope', '$window', function ($scope, $window) {
     var pageUrl = $window.pageUrl || 'docs';
+    $scope.pages = $window.pages;
     $scope.menuItems = getDocsMenu($window.pages, pageUrl);
     $scope.page = getCurrentPage(pageUrl, $window.pages);
 
@@ -14,7 +15,6 @@ storefrontApp.controller('docsController', ['$scope', '$window', function ($scop
             page.parents = getParentPages(page, pages);
             page.children = getChildPages(page, pages);
         });
-        pages = expandPageInMenu(pageUrl, pages);
         var pageUrlParts = pageUrl.split('/');
         pages = _.find(pages, function (page) { return page.url === pageUrlParts[0] }).children;
         if (pageUrlParts.length >= 2) {
@@ -22,19 +22,6 @@ storefrontApp.controller('docsController', ['$scope', '$window', function ($scop
             pages = _.find(pages, function (page) { return page.url === docTypeUrl }).children;
         }
         return _.sortBy(pages, function (page) { return page.priority });
-    }
-
-    function expandPageInMenu(pageUrl, pages) {
-        var page = getCurrentPage(pageUrl, pages);
-        if (page.children && page.children.length) {
-            page.expanded = true;
-        }
-        if (page.parents && page.parents.length) {
-            _.each(page.parents, function (parentPage) {
-                parentPage.expanded = true;
-            });
-        }
-        return pages;
     }
 
     function getCurrentPage(pageUrl, pages) {
@@ -84,19 +71,44 @@ storefrontApp.component('vcDocsMenu', {
     bindings: {
         items: '=',
         url: '=',
-        isSubmenu: '='
+        isSubmenu: '=',
+        tree: '=',
+        pages: '='
     },
-    controller: ['$location', '$http', '$compile', function ($location, $http, $compile) {
-        this.navigate = function (url) {
+    controller: function ($scope, $location, $http, $compile, $window) {
+        expandPageInMenu(this.url, this.pages);
+        this.navigateUrl = function (url, tree) {
+            this.url = url;
             $location.path(url);
             $http.get(url).then(function (response) {
-                var newDoc = new DOMParser().parseFromString(response.data);
-                var menu = newDoc.getElementById('docs-menu');
-                var breadcrumbs = newDoc.getElementById('breadcrumbs');
-                var topics = newDoc.getElementById('topics');
+                $scope.page = _.find(this.pages, function (p) { return p.url === url });
+                $scope.menuItems = tree;
+                $scope.url = url;
+                var parser = new DOMParser();
+                var newDoc = parser.parseFromString(response.data, 'text/html');
+                var breadcrumbs = $compile(newDoc.getElementById('breadcrumbs'))($scope);
+                angular.element(window.document.getElementById('breadcrumbs')).html(breadcrumbs);
+                var topics = $compile(newDoc.getElementById('topics'))($scope);
+                angular.element(window.document.getElementById('topics')).html(topics);
+                expandPageInMenu(url, this.pages);
+                window.document.getElementById('page-content').innerHTML = newDoc.getElementById('page-content').innerHTML;
             });
         }
-    }]
+
+        function expandPageInMenu(pageUrl, pages) {
+            _.each(pages, function (p) { p.expanded = false });
+            var page = _.find(pages, function (p) { return p.url === pageUrl });
+            if (page.children && page.children.length) {
+                page.expanded = true;
+            }
+            if (page.parents && page.parents.length) {
+                _.each(page.parents, function (parentPage) {
+                    parentPage.expanded = true;
+                });
+            }
+            return pages;
+        }
+    }
 });
 
 storefrontApp.component('vcDocsBreadcrumbs', {
