@@ -8,7 +8,6 @@ tags :
 - license
 - commerce
 ---
-<article role="main" class="main">
 	<div class="for-business __responsive">
 		<h1 class="head-title">Virto Commerce Enterprise Subscription Agreement</h1>
 <p>This Enterprise Edition Subscription Agreement (this "<strong>Agreement</strong>") is agreed to between Virto Software Ltd. ("<strong>VIRTO</strong>"), and the Licensee (as defined in the Order Form) by executing this Agreement or by otherwise indicating assent to these terms or this Agreement. If Licensee does not agree with all of these terms and conditions, Licensee shall not install, copy or otherwise use the Software. The parties hereby agree as follows:</p>
@@ -165,4 +164,3 @@ tags :
 <p>VIRTO will provide Support Services and any Updates to Licensee during the periods identified in the Order Form and the default and termination shall be governed by Article 6 of the Agreement. &nbsp;Licensee's obligation of payment of moneys due under these Support Terms shall survive termination of these Support Terms or the Agreement. &nbsp;Licensee acknowledges and agrees that VIRTO shall have the right to terminate the provision of Support Services upon nonpayment of any fees due to VIRTO.</p>
 <h6><span style="font-size: 13px; line-height: 1.6em;">Last Updated: April 10, 2017</span></h6>
 </div>
-</article>

@@ -82,7 +82,7 @@ var VC = {
 }
 
 $(function () {
-    $('[type="submit"]').on('click', function (e) {
+    /*$('[type="submit"]').on('click', function (e) {
         e.preventDefault();
         var $form = $(this).parents('form');
         var form = $(this).parents('form')[0];
@@ -133,7 +133,7 @@ $(function () {
                 }
             });
         }
-    });
+    });*/
 
     $('body').delegate('[data-swipe="opened"]', 'click', function (e) {
         var li = $(this).parent('[data-id="swipeli"]');

@@ -7,8 +7,6 @@ tags :
 - search
 - commerce
 ---
-<article role="main" class="main" id="search">
-	<div class="responsive">
-		<div id="google-search"></div>
-	</div>
-</article>
+<div class="responsive">
+	<div id="google-search"></div>
+</div>

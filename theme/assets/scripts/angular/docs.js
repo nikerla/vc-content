@@ -1,5 +1,9 @@
 var storefrontApp = angular.module('storefrontApp', []);
 
+storefrontApp.config(['$locationProvider', function ($locationProvider) {
+    $locationProvider.html5Mode(true);
+}]);
+
 storefrontApp.controller('docsController', ['$scope', '$window', function ($scope, $window) {
     var pageUrl = $window.pageUrl || 'docs';
     $scope.menuItems = getDocsMenu($window.pages, pageUrl);
@@ -82,9 +86,15 @@ storefrontApp.component('vcDocsMenu', {
         url: '=',
         isSubmenu: '='
     },
-    controller: ['$location', function ($location) {
+    controller: ['$location', '$http', '$compile', function ($location, $http, $compile) {
         this.navigate = function (url) {
             $location.path(url);
+            $http.get(url).then(function (response) {
+                var newDoc = new DOMParser().parseFromString(response.data);
+                var menu = newDoc.getElementById('docs-menu');
+                var breadcrumbs = newDoc.getElementById('breadcrumbs');
+                var topics = newDoc.getElementById('topics');
+            });
         }
     }]
 });

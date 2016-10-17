@@ -1,6 +1,6 @@
 <ul class="menu" ng-class="{ '__sub': $ctrl.isSubmenu }">
     <li class="menu-item" ng-class="{ 'active': $ctrl.url === menuItem.url }" ng-repeat="menuItem in $ctrl.items">
-        <a class="menu-link" title="{{ menuItem.title }}" ng-href="{{ menuItem.url }}">
+        <a class="menu-link" href="" title="{{ menuItem.title }}" ng-click="$ctrl.navigate(menuItem.url)">
             <i aria-hidden="true" class="menu-ico fa" ng-class="{ 'fa-folder': menuItem.children && menuItem.children.length, 'fa-folder-open': menuItem.expanded, 'fa-file-text-o': !menuItem.children.length }"></i>
             {{ menuItem.title }}
         </a>

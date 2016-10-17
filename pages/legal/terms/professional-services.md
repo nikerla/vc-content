@@ -4,7 +4,6 @@ description: Professional services terms and conditions
 date: 2014-01-30
 permalink: legal/terms/professional-services
 ---
-<article role="main" class="main">
 	<div class="for-business __responsive">
 		<h1 class="head-title">Virto Solutions Professional Services Terms and Conditions</h1>
 
@@ -159,4 +158,3 @@ permalink: legal/terms/professional-services
 <p><strong>11.12.&nbsp;</strong><u>Construction.</u> The Agreement shall be deemed to have been drafted by the Parties and, in the event of a dispute, neither Party hereto shall be entitled to claim that any provision should be construed against the other Party by reason of the fact that it was drafted or revised by such other Party.</p>
 
 <p>Effective as of November 25, 2015. Copyright © 2015 Virto Solutions Ltd. All rights reserved.</p>
-</article>
