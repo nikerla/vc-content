@@ -41,7 +41,7 @@ storefrontApp.controller('docsController', ['$scope', '$window', function ($scop
 
     function getChildPages(url, pages) {
         var children = _.filter(pages, function (p) {
-            return (p.url.split('/').length === url.split('/').length + 1) && (p.url.indexOf(url + '/') >= 0);
+            return (p.url.split('/').length === url.split('/').length + 1) && (p.url.toLowerCase().indexOf(url.toLowerCase() + '/') >= 0);
         });
         return _.sortBy(children, function (p) { return p.priority });
     }
