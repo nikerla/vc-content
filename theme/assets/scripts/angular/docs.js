@@ -79,7 +79,8 @@ storefrontApp.component('vcDocsMenu', {
         pages: '='
     },
     controller: function ($scope, $location, $http, $compile, $window) {
-        expandPageInMenu(this.url, this.pages);
+        var pageUrl = this.url || 'docs';
+        expandPageInMenu(pageUrl, this.pages);
         this.navigateUrl = function (url, tree) {
             this.url = url;
             $location.path(url);
