@@ -372,12 +372,12 @@ table th
 .nav
 {
 	background: #434343;
-	height: calc(100vh - 84px);
+	bottom: 0;
 	margin: 0 0 -30px;
 	min-width: 300px;
 	overflow: auto;
-	position: fixed;
-	top: 84px;
+	position: absolute;
+	top: 0;
 	width: 300px;
 }
 .nav.not-fixed {

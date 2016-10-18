@@ -159,36 +159,6 @@
         hljs.initHighlightingOnLoad();
         var BASE_URL = '{{ "/" | full_url }}';
         window.pageUrl = '{{ page.url }}';
-
-        var footerBlock = document.getElementById('footer');
-        var menuBlock = document.getElementById('menu');
-        stickMenu();
-
-        document.addEventListener('scroll', function () {
-            stickMenu();
-        });
-
-        document.addEventListener('resize', function () {
-            stickMenu();
-        });
-
-        function stickMenu() {
-            if (isElementInViewport(footerBlock)) {
-                menuBlock.classList.add('not-fixed');
-            } else {
-                menuBlock.classList.remove('not-fixed');
-            }
-        }
-
-        function isElementInViewport(el) {
-            var rect = el.getBoundingClientRect();
-            return rect.bottom > 0 &&
-                rect.right > 0 &&
-                rect.left < (window.innerWidth || document.documentElement.clientWidth) &&
-                rect.top < (window.innerHeight || document.documentElement.clientHeight);
-        }
-
-        window.pageUrl = '{{ page.url }}';
         window.pages = [
             {% for page in pages %}
                 {% assign page_url_parts = page.url | split: '/' %}
