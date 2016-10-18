@@ -16,7 +16,7 @@ tags :
 			<div class="block">
 				<form action="{{ '/contact' | absolute_url }}" method="post">
 					<input type="hidden" name="Contact[Subject]" value="Become a partner" />
-					<input type="hidden" name="Contact[RedirectUrl]" value="{{ '/thank-you-partner' | absolute_url }}" />
+					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-partner' />
 					<div class="column">
 						<div class="control-group">
 							<label for="FullName">Full name</label>

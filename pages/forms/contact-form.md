@@ -19,7 +19,7 @@ tags :
 			<div class="block">
 				<form action="{{ '/contact' | absolute_url }}" method="post">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Us" />
-					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="{{ '~/thank-you' }}" />
+					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
 					<div class="control-group">
 						<label for="FullName">Full name (required)</label>
 						<input id="Contact[FullName]" type="text" name="Contact[FullName]" class="form-input" required="required" />
