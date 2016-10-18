@@ -10,62 +10,44 @@ storefrontApp.config(['$locationProvider', function ($locationProvider) {
 storefrontApp.controller('docsController', ['$scope', '$window', function ($scope, $window) {
     var pageUrl = $window.pageUrl || 'docs';
     $scope.pages = $window.pages;
-    $scope.menuItems = getDocsMenu($window.pages, pageUrl);
+    $scope.menuItems = getDocsMenu($window.pages);
     $scope.page = getCurrentPage(pageUrl, $window.pages);
 
-    function getDocsMenu(pages, pageUrl) {
-        _.each(pages, function (page) {
-            page.parents = getParentPages(page, pages);
-            page.children = getChildPages(page, pages);
+    function getDocsMenu(pages) {
+        var menu = [];
+        _.each(_.sortBy(pages, function (page) { return page.url.split('/').length }), function (page) {
+            page.parents = getParentPages(page.url, pages);
+            page.children = getChildPages(page.url, pages);
+            if (page.parents.length === 1) {
+                menu.push(page);
+            }
         });
-        var pageUrlParts = pageUrl.split('/');
-        pages = _.find(pages, function (page) { return page.url === pageUrlParts[0] }).children;
-        if (pageUrlParts.length >= 2) {
-            var docTypeUrl = pageUrlParts[0] + '/' + pageUrlParts[1];
-            pages = _.find(pages, function (page) { return page.url === docTypeUrl }).children;
+        return menu;
+    }
+
+    function getParentPages(url, pages) {
+        var parents = [];
+        var urlParts = url.split('/');
+        var urlPathLength = urlParts.length;
+        for (var i = 0; i < urlPathLength; i++) {
+            urlParts.pop();
+            var parent = _.find(pages, function (page) { return page.url.toLowerCase() === urlParts.join('/').toLowerCase(); });
+            if (parent) {
+                parents.push(parent);
+            }
         }
-        return _.sortBy(pages, function (page) { return page.priority });
+        return parents.reverse();
+    }
+
+    function getChildPages(url, pages) {
+        var children = _.filter(pages, function (p) {
+            return (p.url.split('/').length === url.split('/').length + 1) && (p.url.indexOf(url + '/') >= 0);
+        });
+        return _.sortBy(children, function (p) { return p.priority });
     }
 
     function getCurrentPage(pageUrl, pages) {
-        return _.find(pages, function (p) { return p.url === pageUrl });
-    }
-
-    function getParentPages(page, allPages) {
-        var parentPages = [];
-        var parentPagesUrls = getParentPagesUrls(page);
-        _.each(parentPagesUrls, function (pageUrl) {
-            var parentPage = _.find(allPages, function (page) { return page.url === pageUrl });
-            if (parentPage) {
-                parentPages.push(parentPage);
-            }
-        });
-        return parentPages;
-    }
-
-    function getChildPages(page, allPages) {
-        var pageUrlParts = getPageUrlParts(page);
-        var childPages = _.filter(allPages, function (p) {
-            var pUrlParts = getPageUrlParts(p)
-            return (pUrlParts.length === pageUrlParts.length + 1) && (p.url.indexOf(page.url + '/') >= 0);
-        });
-        return _.sortBy(childPages, function (p) { return p.priority });
-    }
-
-    function getParentPagesUrls(page) {
-        var urls = [];
-        var urlParts = getPageUrlParts(page);
-        for (var i = 0; i < urlParts.length; i++) {
-            var subarray = urlParts.slice(0, i + 1);
-            urls.push(subarray.join('/'));
-        }
-        return urls;
-    }
-
-    function getPageUrlParts(page) {
-        var urlParts = page.url.split('/');
-        urlParts.pop();
-        return urlParts;
+        return _.find(pages, function (p) { return p.url.toLowerCase() === pageUrl.toLowerCase() });
     }
 }]);
 

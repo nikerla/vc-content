@@ -511,6 +511,14 @@ table th
 		left: 75px;
 	}
 
+	.menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu-link
+	{
+		padding-left: 115px;
+	}
+	.menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu-link .menu-ico {
+		left: 90px;
+	}
+
 .cnt
 {
 	background: #fff;
