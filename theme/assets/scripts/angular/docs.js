@@ -36,7 +36,7 @@ storefrontApp.controller('docsController', ['$scope', '$window', function ($scop
                 parents.push(parent);
             }
         }
-        return parents;
+        return parents.reverse();
     }
 
     function getChildPages(url, pages) {
