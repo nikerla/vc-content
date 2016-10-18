@@ -19,26 +19,34 @@ tags :
 			<div class="block">
 				<form action="{{ '/contact' | absolute_url }}" method="post">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Us" />
-					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
-					<div class="control-group">
-						<label for="FullName">Full name (required)</label>
-						<input id="Contact[FullName]" type="text" name="Contact[FullName]" class="form-input" required="required" />
+					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="{{ '~/thank-you' }}" />
+					<div class="column">
+						<div class="control-group">
+							<label for="FullName">First name</label>
+							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" />
+						</div>
+						<div class="control-group">
+							<label for="Email">Email (required)</label>
+							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" />
+						</div>
+						<div class="control-group">
+							<label for="CompanyName">Company name</label>
+							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" />
+						</div>						
 					</div>
-					<div class="control-group">
-						<label for="Email">Email (required)</label>
-						<input id="Contact[Email]" type="text" name="Contact[Email]" class="form-input" required="required" />
-					</div>
-					<div class="control-group">
-						<label for="Phone">Phone</label>
-						<input id="Contact[Phone]" type="text" name="Contact[Phone]" class="form-input" />
-					</div>
-					<div class="control-group">
-						<label for="Title">Title</label>
-						<input id="Contact[Title]" type="text" name="Contact[Title]" class="form-input" />
-					</div>
-					<div class="control-group">
-						<label for="CompanyName">Company name</label>
-						<input id="Contact[CompanyName]" type="text" name="Contact[CompanyName]" class="form-input" />
+					<div class="column">
+						<div class="control-group">
+							<label for="LastName">Last name</label>
+							<input id="Contact[LastName]" tabindex="2" type="text" name="Contact[LastName]" class="form-input" required="required" />
+						</div>		
+						<div class="control-group">
+							<label for="Phone">Phone</label>
+							<input id="Contact[Phone]" type="text" tabindex="4" name="Contact[Phone]" class="form-input" />
+						</div>
+						<div class="control-group">
+							<label for="JobTitle">Job Title</label>
+							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" />
+						</div>														
 					</div>
 					<div class="control-group">
 						<label for="SoftwareType">Which Virto product are you considering?</label>
