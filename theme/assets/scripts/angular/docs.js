@@ -1,7 +1,10 @@
 var storefrontApp = angular.module('storefrontApp', []);
 
 storefrontApp.config(['$locationProvider', function ($locationProvider) {
-    $locationProvider.html5Mode(true);
+    $locationProvider.html5Mode({
+        enabled: true,
+        rewriteLinks: false
+    });
 }]);
 
 storefrontApp.controller('docsController', ['$scope', '$window', function ($scope, $window) {
