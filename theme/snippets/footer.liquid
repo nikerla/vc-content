@@ -1,4 +1,4 @@
-﻿<div class="footer-wrap">
+﻿<div class="footer-wrap" id="footer">
     <footer class="responsive" role="contentinfo">
         <div class="column">
             <div class="links">
@@ -28,7 +28,7 @@
                 <p class="title">{{ 'general.dev_resources' | t }}</p>
                 <ul class="menu">
                     <li class="menu-item document">
-                        <a class="link-white" href="http://docs.virtocommerce.com" rel="nofollow" target="_blank">{{ 'general.documentation' | t }}</a>
+                        <a class="link-white" href="{{ '/docs' | absolute_url }}" rel="nofollow" target="_blank">{{ 'general.documentation' | t }}</a>
                     </li>
                     <li class="menu-item downloads">
                         <a class="link-white" href="{{ '/try-now-download' | absolute_url }}">{{ 'general.downloads' | t }}</a>
@@ -96,7 +96,7 @@
         </div>
     </footer>
 </div>
-<div class="footer-copy">
+<div class="footer-copy" id="footer-copy">
     <div class="responsive">
         <p>{{ 'general.copyright' | t }}</p>
         <ul class="menu __inline">

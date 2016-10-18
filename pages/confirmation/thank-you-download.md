@@ -7,11 +7,9 @@ tags :
 - thank-you
 - commerce
 ---
-<article class="main" role="main">
-	<div class="features">
-		<div class="responsive">
-			<h1 class="head-title">Thank you for downloading</h1>
-		</div>
+<div class="features">
+	<div class="responsive">
+		<h1 class="head-title">Thank you for downloading</h1>
 	</div>
-	{% include 'technologies' %}
-</article>
+</div>
+{% include 'technologies' %}

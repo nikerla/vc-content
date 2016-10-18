@@ -8,53 +8,51 @@ tags :
 - demo
 - commerce
 ---
-<article role="main" class="main">
-    <div class="responsive">
-        <h1 class="title">Explore Online Demo</h1>
-        <div class="columns three">
-            <div class="column">
-                <div class="block">
-                    <div class="img-300">
-                        <a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="../assets/images/demo/admin-dashboard.jpg" class="border"></a>
-                    </div>
-                    <h3>Commerce Manager</h3>
-                    <p class="text">Manage multiple stores.</p>
-                    <a class="button fill" target="_blank"  href="http://demo.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
+<div class="responsive">
+    <h1 class="title">Explore Online Demo</h1>
+    <div class="columns three">
+        <div class="column">
+            <div class="block">
+                <div class="img-300">
+                    <a href="http://demo.virtocommerce.com/admin" target="_blank" rel="nofollow"><img alt="Virto Commerce manager" src="../assets/images/demo/admin-dashboard.jpg" class="border"></a>
                 </div>
+                <h3>Commerce Manager</h3>
+                <p class="text">Manage multiple stores.</p>
+                <a class="button fill" target="_blank"  href="http://demo.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
             </div>
-            <div class="column">
-                <div class="block">
-                    <div class="img-300">
-                        <a target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="../assets/images/demo/frontend-electronics.jpg" class="border"></a>
-                    </div>
-                    <h3>Electronics store</h3>
-                    <p class="text">Simple electronics template that supports responsive design and various mobile devices.</p>
-                    <a class="button fill" target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow">Open electronics store</a>
+        </div>
+        <div class="column">
+            <div class="block">
+                <div class="img-300">
+                    <a target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="../assets/images/demo/frontend-electronics.jpg" class="border"></a>
                 </div>
+                <h3>Electronics store</h3>
+                <p class="text">Simple electronics template that supports responsive design and various mobile devices.</p>
+                <a class="button fill" target="_blank" href="http://demo.virtocommerce.com/electronics" rel="nofollow">Open electronics store</a>
             </div>
-            <div class="column">
-                <div class="block">
-                    <div class="img-300">
-                        <a target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="../assets/images/demo/frontend-clothing.jpg" class="border"></a>
-                    </div>
-                    <h3>Clothing store</h3>
-                    <p class="text">More advanced clothing store that includes blogs, social integrations, mailchimp and much more.</p>
-                    <a class="button fill" target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow">Open clothing store</a>
+        </div>
+        <div class="column">
+            <div class="block">
+                <div class="img-300">
+                    <a target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow"><img alt="Virto Commerce frontend accelerator" src="../assets/images/demo/frontend-clothing.jpg" class="border"></a>
                 </div>
+                <h3>Clothing store</h3>
+                <p class="text">More advanced clothing store that includes blogs, social integrations, mailchimp and much more.</p>
+                <a class="button fill" target="_blank" href="http://demo.virtocommerce.com/clothing" rel="nofollow">Open clothing store</a>
             </div>
-            <div class="column">
-                <div class="block">
-                    <div class="img-300">
-                        <img alt="Virto Commerce frontend accelerator" src="../assets/images/demo/mobile.png" class="border">
-                    </div>
-                    <h3>Mobile App (iOS & Android)</h3>
-                    <p class="text">To launch, download Install <a href="http://view.ionic.io" target="_blank">Ionic View</a> on your phone and sign up / log in to Ionic, then Tap PREVIEW APP and enter app id <b>9eb6619b</b></p>
+        </div>
+        <div class="column">
+            <div class="block">
+                <div class="img-300">
+                    <img alt="Virto Commerce frontend accelerator" src="../assets/images/demo/mobile.png" class="border">
                 </div>
+                <h3>Mobile App (iOS & Android)</h3>
+                <p class="text">To launch, download Install <a href="http://view.ionic.io" target="_blank">Ionic View</a> on your phone and sign up / log in to Ionic, then Tap PREVIEW APP and enter app id <b>9eb6619b</b></p>
             </div>
         </div>
     </div>
-    {% include 'technologies' %}
-    <div class="about-vc __responsive">
-        <a class="link learn-link" href="/b2b-ecommerce">Learn more about Virto Commerce as a Ecommerce Platform for B2B</a>
-    </div> 
-</article>
+</div>
+{% include 'technologies' %}
+<div class="about-vc __responsive">
+    <a class="link learn-link" href="/b2b-ecommerce">Learn more about Virto Commerce as a Ecommerce Platform for B2B</a>
+</div>

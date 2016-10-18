@@ -14,12 +14,10 @@
                     {% endfor %}
                 {% endpaginate %}
             </ul>
-            {% comment %}
-            <a class="rss" href="#">
+            <a class="rss" href="{{ 'blog/rss' | absolute_url }}">
                 <span class="rss-ico"><i class="fa fa-rss"></i></span>
                 <div class="rss-text">Get the latest in Virtocommerce News</div>
             </a>
-            {% endcomment %}
         </div>
     </div>
 </div>

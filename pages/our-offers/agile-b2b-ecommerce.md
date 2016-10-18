@@ -21,7 +21,6 @@ tags :
 		</div>
 	</div>
 </div>
-<article role="main" class="main">
 	<!-- Proposal -->
 	<div class="proposal __responsive">
 		<h2 class="head-title">What can you expect with Community Edition</h2>
@@ -132,4 +131,3 @@ tags :
 	</div>
 	{% include 'learn-more' %}
 	{% include 'technologies' %}
-</article>

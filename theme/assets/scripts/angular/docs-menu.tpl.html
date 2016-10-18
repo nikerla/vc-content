@@ -1,0 +1,9 @@
+<ul class="menu" ng-class="{ '__sub': $ctrl.isSubmenu }">
+    <li class="menu-item" ng-class="{ 'active': $ctrl.url === menuItem.url }" ng-repeat="menuItem in $ctrl.items">
+        <a class="menu-link" href="" title="{{ menuItem.title }}" ng-click="$ctrl.navigateUrl(menuItem.url, $ctrl.tree)">
+            <i aria-hidden="true" class="menu-ico fa" ng-class="{ 'fa-folder': menuItem.children && menuItem.children.length, 'fa-folder-open': menuItem.expanded, 'fa-file-text-o': !menuItem.children.length }"></i>
+            {{ menuItem.title }}
+        </a>
+        <vc-docs-menu items="menuItem.children" tree="$ctrl.tree" pages="$ctrl.pages" url="$ctrl.url" is-submenu="menuItem.children && menuItem.children.length" ng-if="menuItem.children && menuItem.children.length" ng-show="menuItem.expanded" />
+    </li>
+</ul>

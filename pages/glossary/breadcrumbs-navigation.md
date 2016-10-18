@@ -16,34 +16,31 @@ tags :
 - glossary
 - breadcrumbs-navigation
 ---
-
-<article role="main" class="main">
-	<div class="business-features clearfix __responsive">
-		{% include 'glossary-left-menu' %}
-		<div class="business-cnt">
-			<div class="head __cart">
-				<h1 class="title">Breadcrumbs Navigation-Definition</h1>
-			</div>
-            <p class="text">Breadcrumbs or breadcrumb trails are a graphical control element (or widget) used as a navigational aid in user interfaces. It allows users to keep track of their locations within programs, documents or websites. While many types of websites use breadcrumb navigation, it is becoming increasingly popular for ecommerce websites to display categories of products in this way. This text based website navigation breaks the site into links of categories and subcategories allowing major categories of information to be linked in sequential order. Breadcrumbs usually appear horizontally across the top of a Web page, often below title bars or headers. They provide links back to each previous page the user navigated through to get to the current page. In hierarchical site structure links are provided back to the parent pages of the current one. Breadcrumbs provide a trail for the user to follow back to the starting or entry point.</p>
-            <h2 class="sub-title">Breadcrumbs Navigation-Location versus Attribute</h2>
-            <p class="text">There are two types of Web breadcrumbs:</p>
-            <ol>
-                <li>
-                    <p class="text">
-                    	Attribute: attribute breadcrumbs give information that categorizes the current page.
-                    </p>
-                </li>
-                <li>
-                    <p class="text">
-                    	Location: location breadcrumbs are static and show where the page is located in the website hierarchy.
-                    </p>
-                </li>
-            </ol>
-            <div class="buttons columns">
-				<div class="column">
-					<a class="button fill" href="/try-now">Try It Now</a>
-				</div>
-			</div>
-		</div>
-	</div>
-</article>
+<div class="business-features clearfix __responsive">
+    {% include 'glossary-left-menu' %}
+    <div class="business-cnt">
+        <div class="head __cart">
+            <h1 class="title">Breadcrumbs Navigation-Definition</h1>
+        </div>
+        <p class="text">Breadcrumbs or breadcrumb trails are a graphical control element (or widget) used as a navigational aid in user interfaces. It allows users to keep track of their locations within programs, documents or websites. While many types of websites use breadcrumb navigation, it is becoming increasingly popular for ecommerce websites to display categories of products in this way. This text based website navigation breaks the site into links of categories and subcategories allowing major categories of information to be linked in sequential order. Breadcrumbs usually appear horizontally across the top of a Web page, often below title bars or headers. They provide links back to each previous page the user navigated through to get to the current page. In hierarchical site structure links are provided back to the parent pages of the current one. Breadcrumbs provide a trail for the user to follow back to the starting or entry point.</p>
+        <h2 class="sub-title">Breadcrumbs Navigation-Location versus Attribute</h2>
+        <p class="text">There are two types of Web breadcrumbs:</p>
+        <ol>
+            <li>
+                <p class="text">
+                    Attribute: attribute breadcrumbs give information that categorizes the current page.
+                </p>
+            </li>
+            <li>
+                <p class="text">
+                    Location: location breadcrumbs are static and show where the page is located in the website hierarchy.
+                </p>
+            </li>
+        </ol>
+        <div class="buttons columns">
+            <div class="column">
+                <a class="button fill" href="/try-now">Try It Now</a>
+            </div>
+        </div>
+    </div>
+</div>

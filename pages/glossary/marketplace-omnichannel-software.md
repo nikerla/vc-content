@@ -16,22 +16,19 @@ tags :
 - glossary
 - marketplace-omnichannel-software
 ---
-
-<article role="main" class="main">
-	<div class="business-features clearfix __responsive">
-		{% include 'glossary-left-menu' %}
-		<div class="business-cnt">
-			<div class="head __cart">
-				<h1 class="title">Marketplace software-Definition</h1>
-			</div>
-            <p class="text">Marketplace software offerings are designed to meet the ecommerce platform needs of both the marketplace operator engaged in multi-vendor ecommerce as well as the vendor pursuing an online omni-channel business model. Marketplace software tend to be fully open-source in order to support customization with no limitations. A complete eCommerce marketplace software package will offer fully integrated functionality which spans the entire spectrum of the transaction from the browse through delivery, including but not limited to inventory management, financial reporting and analytics.</p>
-            <h2 class="sub-title">Omni-channel</h2>
-            <p class="text">An omni-channel business model refers to a vendor who seeks to interact with potential customers through multiple ecommerce platforms availing themselves of multiple marketplace operators.</p>
-            <div class="buttons columns">
-				<div class="column">
-					<a class="button fill" href="/try-now">Try It Now</a>
-				</div>
+<div class="business-features clearfix __responsive">
+	{% include 'glossary-left-menu' %}
+	<div class="business-cnt">
+		<div class="head __cart">
+			<h1 class="title">Marketplace software-Definition</h1>
+		</div>
+		<p class="text">Marketplace software offerings are designed to meet the ecommerce platform needs of both the marketplace operator engaged in multi-vendor ecommerce as well as the vendor pursuing an online omni-channel business model. Marketplace software tend to be fully open-source in order to support customization with no limitations. A complete eCommerce marketplace software package will offer fully integrated functionality which spans the entire spectrum of the transaction from the browse through delivery, including but not limited to inventory management, financial reporting and analytics.</p>
+		<h2 class="sub-title">Omni-channel</h2>
+		<p class="text">An omni-channel business model refers to a vendor who seeks to interact with potential customers through multiple ecommerce platforms availing themselves of multiple marketplace operators.</p>
+		<div class="buttons columns">
+			<div class="column">
+				<a class="button fill" href="/try-now">Try It Now</a>
 			</div>
 		</div>
 	</div>
-</article>
+</div>

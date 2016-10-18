@@ -7,9 +7,7 @@ tags :
 - features
 - commerce
 ---
-<article class="main" role="main">
-    <div class="responsive">
-        <h2 class="head-title">Our Services</h2>
-        {% include 'pricing-paas' %}
-    </div>
-</article>
+<div class="responsive">
+    <h2 class="head-title">Our Services</h2>
+    {% include 'pricing-paas' %}
+</div>

@@ -1,9 +1,3 @@
-html,
-body
-{
-	height: 100%;
-}
-
 body
 {
 	background: #fff;
@@ -11,12 +5,6 @@ body
     font-family: "PT Sans",sans-serif;
     font-size: 14px;
     line-height: 1.4;
-}
-
-*
-{
-	margin: 0;
-	padding: 0;
 }
 
 h1,
@@ -51,11 +39,11 @@ h3
 	margin: 30px 0 10px;
 }
 
-h2:first-child,
+/*h2:first-child,
 h3:first-child
 {
 	margin: 0;
-}
+}*/
 
 p + p
 {
@@ -85,21 +73,36 @@ a:hover
 	color: #ea5564;
 }
 
-ul,
-ol
+.docs {
+	display: flex;
+	min-height: 1000px;
+}
+
+.docs .docs-column {
+	margin: 0 0 -30px;
+	min-width: 300px;
+	width: 300px;
+}
+
+.docs .docs-column.docs-content {
+	flex-grow: 1;
+}
+
+.docs ul,
+.docs ol
 {
 	list-style: none;
 	margin: 10px 0 20px;
 }
 
-ul li,
-ol li
+.docs ul li,
+.docs ol li
 {
 	padding: 0 0 0 15px;
 	position: relative;
 }
 
-ul li::before
+.docs ul li::before
 {
 	background: #666;
 	content: ' ';
@@ -110,17 +113,17 @@ ul li::before
 	width: 5px;
 }
 
-ul ul
+.docs ul ul
 {
 	margin: 0;
 }
 
-ol
+.docs ol
 {
 	list-style: outside decimal;
 }
 
-ol li
+.docs ol li
 {
 	padding: 0;
 }
@@ -370,11 +373,17 @@ table th
 {
 	background: #434343;
 	bottom: 0;
-	left: 0;
+	margin: 0 0 -30px;
 	min-width: 300px;
-	position: fixed;
+	overflow: auto;
+	position: absolute;
 	top: 0;
 	width: 300px;
+}
+.nav.not-fixed {
+	bottom: 0;
+	position: absolute;
+	top: auto;
 }
 
 .scroll-pane
@@ -411,6 +420,7 @@ table th
 	{
 		margin: 0;
 		padding: 20px 0;
+		text-align: left;
 	}
 
 	.nav .menu-item
@@ -427,9 +437,29 @@ table th
 	{
 		color: #bbb;
 		display: block;
+		font-family: "PT Sans", sans-serif;
 		font-size: 13px;
-		padding: 8px 15px;
+		font-weight: normal;
+		padding: 8px 40px;
 		text-decoration: none;
+		text-transform: none;
+	}
+
+	.nav .menu-link.expandable {
+		padding-left: 30px;
+		position: relative;
+	}
+
+	.nav .menu-ico {
+		font-size: 16px;
+		left: 15px;
+		position: absolute;
+		margin-right: 5px;
+		top: 8px;
+	}
+
+	.nav .menu-link::after {
+		display: none;
 	}
 
 	.nav .menu-link:hover
@@ -451,28 +481,86 @@ table th
 
 	.menu.__sub .menu-link
 	{
-		padding-left: 30px;
+		padding-left: 55px;
+	}
+	.menu.__sub .menu-link .menu-ico {
+		left: 30px;
 	}
 
 	.menu.__sub .menu.__sub .menu-link
 	{
-		padding-left: 45px;
+		padding-left: 70px;
+	}
+	.menu.__sub .menu.__sub .menu-link .menu-ico {
+		left: 45px;
 	}
 
 	.menu.__sub .menu.__sub .menu.__sub .menu-link
 	{
-		padding-left: 60px;
+		padding-left: 85px;
+	}
+	.menu.__sub .menu.__sub .menu.__sub .menu-link .menu-ico {
+		left: 60px;
+	}
+
+	.menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu-link
+	{
+		padding-left: 100px;
+	}
+	.menu.__sub .menu.__sub .menu.__sub .menu.__sub .menu-link .menu-ico {
+		left: 75px;
 	}
 
 .cnt
 {
 	background: #fff;
-	border-left: 5px solid rgba(0,0,0,.15);
 	flex-grow: 1;
 	line-height: 24px;
-	max-width: 50%;
-	margin: 0 0 0 300px;
-	padding: 20px 40px;
+	padding: 0 40px 20px;
+}
+
+.cnt .contributors {
+	border-bottom: 1px solid #ddd;
+	margin-top: -10px;
+	overflow: hidden;
+	padding: 0 0 25px 10px;
+	position: relative;
+}
+
+.cnt .contributors .author-bio {
+	float: left;
+}
+
+.cnt .contributors .author-content {
+	display: inline-block;
+	margin-left: 6px;
+}
+
+.cnt .contributors .edit-on-github {
+	float: right;
+	font-weight: 600;
+	text-align: right;
+}
+
+.cnt .contributors .author-bio .author-img {
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+	height: 36px;
+	margin-top: 10px;
+	width: 36px;
+}
+
+.cnt .breadcrumbs {
+	border-bottom: 1px solid #ddd;
+	clear: both;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 0 0 10px;
+}
+
+.cnt .breadcrumbs span {
+	white-space: nowrap;
 }
 
 .home
@@ -573,14 +661,73 @@ form.search input {
 	width: 100%;
 }
 
-@media (max-width: 767px) {
-	#layout
+@media (min-width: 768px) and (max-width: 1019px) {
+	h1
 	{
-		flex-direction: column;
+		font-size: 28px;
 	}
 
-	.nav
+	h2
 	{
-		min-width: 100%;
+		font-size: 20px;
+	}
+
+	.docs .docs-column:not(.docs-content)
+	{
+		display: none;
+	}
+
+	.docs .docs-column.docs-content
+	{
+		padding: 30px 0 0;
+	}
+}
+
+@media (max-width: 767px) {
+	h1
+	{
+		font-size: 26px;
+	}
+
+	h2
+	{
+		font-size: 18px;
+	}
+
+	h3
+	{
+		font-size: 16px;
+	}
+
+	.docs .docs-column:not(.docs-content)
+	{
+		display: none;
+	}
+
+	.docs .docs-column.docs-content
+	{
+		padding: 30px 0 0;
+	}
+}
+
+@media (max-width: 480px) {
+	h1
+	{
+		font-size: 24px;
+	}
+
+	h2
+	{
+		font-size: 16px;
+	}
+
+	h3
+	{
+		font-size: 14px;
+	}
+
+	.cnt .contributors .edit-on-github
+	{
+		float: left;
 	}
 }
