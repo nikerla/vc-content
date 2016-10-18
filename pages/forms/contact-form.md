@@ -23,29 +23,29 @@ tags :
 					<div class="column">
 						<div class="control-group">
 							<label for="FullName">First name</label>
-							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" />
+							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
 						</div>
 						<div class="control-group">
 							<label for="Email">Email (required)</label>
-							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" />
+							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 						</div>
 						<div class="control-group">
 							<label for="CompanyName">Company name</label>
-							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" />
+							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="company"/>
 						</div>						
 					</div>
 					<div class="column">
 						<div class="control-group">
 							<label for="LastName">Last name</label>
-							<input id="Contact[LastName]" tabindex="2" type="text" name="Contact[LastName]" class="form-input" required="required" />
+							<input id="Contact[LastName]" tabindex="2" type="text" name="Contact[LastName]" class="form-input" required="required" autocomplete="family-name"/>
 						</div>		
 						<div class="control-group">
 							<label for="Phone">Phone</label>
-							<input id="Contact[Phone]" type="text" tabindex="4" name="Contact[Phone]" class="form-input" />
+							<input id="Contact[Phone]" type="text" tabindex="4" name="Contact[Phone]" class="form-input" autocomplete="tel"/>
 						</div>
 						<div class="control-group">
 							<label for="JobTitle">Job Title</label>
-							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" />
+							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" autocomplete="title" />
 						</div>														
 					</div>
 					<div class="control-group">
