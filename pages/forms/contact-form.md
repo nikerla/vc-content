@@ -50,14 +50,14 @@ tags :
 					</div>
 					<div class="control-group">
 						<label for="SoftwareType">Which Virto product are you considering?</label>
-						<label><input id="Contact[SoftwareType][CloudHosting]" name="Contact[SoftwareType]" type="radio" value="Cloud Hosting" /> Cloud Hosting (we manage and deploy)</label>
-						<label><input id="Contact[SoftwareType][SelfHosted]" name="Contact[SoftwareType]" type="radio" value="Self Hosted" /> Self Hosted</label>
-						<label><input id="Contact[SoftwareType][Community]" name="Contact[SoftwareType]" type="radio" value="Community" /> Community</label>
-						<label><input id="Contact[SoftwareType][NotSure]" name="Contact[SoftwareType]" type="radio" value="Not Sure" /> I'm not sure yet</label>
+						<label><input id="Contact[SoftwareType][CloudHosting]" tabindex="7" name="Contact[SoftwareType]" type="radio" value="Cloud Hosting" /> Cloud Hosting (we manage and deploy)</label>
+						<label><input id="Contact[SoftwareType][SelfHosted]" tabindex="8" name="Contact[SoftwareType]" type="radio" value="Self Hosted" /> Self Hosted</label>
+						<label><input id="Contact[SoftwareType][Community]" tabindex="9" name="Contact[SoftwareType]" type="radio" value="Community" /> Community</label>
+						<label><input id="Contact[SoftwareType][NotSure]" tabindex="10" name="Contact[SoftwareType]" type="radio" value="Not Sure" /> I'm not sure yet</label>
 					</div>
 					<div class="control-group">
 						<label for="Revenue">Revenue (Gross Merchandise Volume) per year (USD)</label>
-						<select id="Contact[Revenue]" name="Contact[Revenue]" type="text" class="form-input">
+						<select id="Contact[Revenue]" name="Contact[Revenue]" type="text" class="form-input" tabindex="11">
 							<option value="1m" selected>Up to 1 Million</option>
 							<option value="5m">1 - 5 Million</option>
 							<option value="10m">5 - 10 Million</option>
