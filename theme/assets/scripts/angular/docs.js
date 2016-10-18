@@ -28,7 +28,8 @@ storefrontApp.controller('docsController', ['$scope', '$window', function ($scop
     function getParentPages(url, pages) {
         var parents = [];
         var urlParts = url.split('/');
-        for (var i = 0; i < urlParts.length; i++) {
+        var urlPathLength = urlParts.length;
+        for (var i = 0; i < urlPathLength; i++) {
             urlParts.pop();
             var parent = _.find(pages, function (page) { return page.url.toLowerCase() === urlParts.join('/').toLowerCase(); });
             if (parent) {
