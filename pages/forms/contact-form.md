@@ -31,7 +31,7 @@ tags :
 						</div>
 						<div class="control-group">
 							<label for="CompanyName">Company name</label>
-							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="company"/>
+							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="organization"/>
 						</div>						
 					</div>
 					<div class="column">
@@ -41,23 +41,23 @@ tags :
 						</div>		
 						<div class="control-group">
 							<label for="Phone">Phone</label>
-							<input id="Contact[Phone]" type="text" tabindex="4" name="Contact[Phone]" class="form-input" autocomplete="tel"/>
+							<input id="Contact[Phone]" type="tel" tabindex="4" name="Contact[Phone]" class="form-input" autocomplete="mobile"/>
 						</div>
 						<div class="control-group">
 							<label for="JobTitle">Job Title</label>
-							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" autocomplete="title" />
+							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" autocomplete="organization-title" />
 						</div>														
 					</div>
 					<div class="control-group">
 						<label for="SoftwareType">Which Virto product are you considering?</label>
 						<label><input id="Contact[SoftwareType][CloudHosting]" tabindex="7" name="Contact[SoftwareType]" type="radio" value="Cloud Hosting" /> Cloud Hosting (we manage and deploy)</label>
-						<label><input id="Contact[SoftwareType][SelfHosted]" tabindex="8" name="Contact[SoftwareType]" type="radio" value="Self Hosted" /> Self Hosted</label>
-						<label><input id="Contact[SoftwareType][Community]" tabindex="9" name="Contact[SoftwareType]" type="radio" value="Community" /> Community</label>
-						<label><input id="Contact[SoftwareType][NotSure]" tabindex="10" name="Contact[SoftwareType]" type="radio" value="Not Sure" /> I'm not sure yet</label>
+						<label><input id="Contact[SoftwareType][SelfHosted]" name="Contact[SoftwareType]" type="radio" value="Self Hosted" /> Self Hosted</label>
+						<label><input id="Contact[SoftwareType][Community]" name="Contact[SoftwareType]" type="radio" value="Community" /> Community</label>
+						<label><input id="Contact[SoftwareType][NotSure]" name="Contact[SoftwareType]" type="radio" value="Not Sure" /> I'm not sure yet</label>
 					</div>
 					<div class="control-group">
 						<label for="Revenue">Revenue (Gross Merchandise Volume) per year (USD)</label>
-						<select id="Contact[Revenue]" name="Contact[Revenue]" type="text" class="form-input" tabindex="11">
+						<select id="Contact[Revenue]" name="Contact[Revenue]" type="text" class="form-input" tabindex="8">
 							<option value="1m" selected>Up to 1 Million</option>
 							<option value="5m">1 - 5 Million</option>
 							<option value="10m">5 - 10 Million</option>
@@ -67,14 +67,14 @@ tags :
 					</div>
 					<div class="control-group">
 						<label for="web">Which website are you are considering</label>
-						<input id="Contact[Website]" type="text" name="Contact[Website]" class="form-input" />
+						<input id="Contact[Website]" type="text" name="Contact[Website]" class="form-input" tabindex="9"/>
 					</div>
 					<div class="control-group">
 						<label for="Message">Tell us about your site, company and traffic (required)</label>
-						<textarea id="Contact[Message]" rows="10" cols="30" name="Contact[Message]" class="form-text" required="required"></textarea>
+						<textarea id="Contact[Message]" rows="10" cols="30" name="Contact[Message]" class="form-text" required="required" tabindex="10"></textarea>
 					</div>
 					<div class="control-group">
-						<button type="submit" class="button fill">Submit Request</button>
+						<button type="submit" class="button fill" tabindex="11">Submit Request</button>
 					</div>
 				</form>
 			</div>
