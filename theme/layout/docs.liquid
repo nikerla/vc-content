@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="storefrontApp">
+<html ng-controller="docsController" ng-app="storefrontApp">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -26,11 +26,12 @@
     {{ content_for_header }}
 
     {% if page_title != 'Virto Commerce Documentation' %}
-        {% assign page_title = 'Virto Commerce Documentation - ' | append: page_title %}
+        {% assign page_title = page_title | append: ' - Virto Commerce Documentation' %}
     {% endif %}
     {% if page_description == empty %}
         {% assign page_description = page_title %}
     {% endif %}
+    <p ng-bind="page.title"></p>
     <title>{{ page_title }}</title>
     <meta name="description" content="{{ page_description }}" />
     <meta name="og:type" property="og:type" content="article" />
@@ -84,7 +85,7 @@
         <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
     </noscript>
 </head>
-<body ng-controller="docsController">
+<body>
     <div class="layout">
         <div class="layout-canvas">
             <div class="swipe">
