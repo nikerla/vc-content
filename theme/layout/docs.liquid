@@ -78,6 +78,11 @@
             "@context": "http://www.schema.org",
             "@type": "Article",
             "name": "{{ page_title }}",
+            "author: "Virto Commerce",
+            "datePublished": "{{ page.published_at }}",
+            "headLine": "{{ page_description }}",
+            "image": "{{ 'logox2.jpg' | asset_url }}",
+            "publisher": "Virto Commerce",
             "url": "{{ page.url | full_url }}"
         }
     </script>
@@ -123,6 +128,7 @@
                             <vc-docs-breadcrumbs id="breadcrumbs" page="page"></vc-docs-breadcrumbs>
                             <div id="page-content">
                                 <h1 itemprop="headline">{{ page.title }}</h1>
+                                <span itemprop="name" style="display: none;">{{ page.title }}</span>
                                 {% if template != 'search' %}
                                     <div class="contributors">
                                         <div class="author-bio">
@@ -132,6 +138,8 @@
                                             <div class="author-content">
                                                 <div>
                                                     By <a href="https://github.com/virtocommerce" target="_blank" itemprop="author">Virto Commerce</a>
+                                                    <span itemprop="publisher" style="display: none;"></span>
+                                                    <img src="{{ 'logox2.jpg' | asset_url }}" itemprop="image" style="display: none;" />
                                                 </div>
                                                 <div>
                                                     Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
