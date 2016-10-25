@@ -72,6 +72,13 @@ permalink: jobs
 				<a class="button" href="/jobs/apply?jid=PartnerCoordinator" rel="nofollow">Apply Now</a>
 			</div>
 		</li>
+		<li class="list-item">
+			<div class="list-info">
+				<h3>Software Developer</h3>
+				<p class="country">United States</p>
+				<a class="button" href="/jobs/apply?jid=SoftwareDeveloper" rel="nofollow">Apply Now</a>
+			</div>
+		</li>
 	</ul>
 </div>
 {% include 'technologies' %}
