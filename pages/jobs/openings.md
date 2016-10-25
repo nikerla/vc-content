@@ -20,7 +20,7 @@ permalink: jobs
 						<li>Work according to SEO specifications to make sure content is efficient</li>
 					</ul>
 				</p>
-				<a class="button" href="/apply?jid=ContentWriter" rel="nofollow">Apply Now</a>
+				<a class="button" href="/jobs/apply?jid=ContentWriter" rel="nofollow">Apply Now</a>
 			</div>
 		</li>
 		<li class="list-item">
@@ -28,7 +28,7 @@ permalink: jobs
 				Software Marketing Internship
 				<p class="country">United States</p>
 				<p class="text">We are looking for a digital marketing intern, who is goal-oriented. You will be workign with our matketing team to form a strategy and implementation of SEO, SEM, social media, email and content marketing.</p>
-				<a class="button" href="/apply?jid=SoftwareMarketingIntern" rel="nofollow">Apply Now</a>
+				<a class="button" href="/jobs/apply?jid=SoftwareMarketingIntern" rel="nofollow">Apply Now</a>
 			</div>
 		</li>
 	
@@ -58,7 +58,7 @@ permalink: jobs
 <li>Responsibility for planning and budgetary control of all digital marketing</li>
 				</ul>
 				</p>
-				<a class="button" href="/apply?jid=SoftwareMarketing" rel="nofollow">Apply Now</a>
+				<a class="button" href="/jobs/apply?jid=SoftwareMarketing" rel="nofollow">Apply Now</a>
 			</div>
 		</li>
 		<li class="list-item">
@@ -79,7 +79,7 @@ permalink: jobs
 	<li>Provide feedback from partners and customers (be specific with feedback)</li>
 	</ul>
 </p>
-				<a class="button" href="/apply?jid=PartnerCoordinator" rel="nofollow">Apply Now</a>
+				<a class="button" href="/jobs/apply?jid=PartnerCoordinator" rel="nofollow">Apply Now</a>
 			</div>
 		</li>
 	</ul>
