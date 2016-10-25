@@ -12,7 +12,7 @@ permalink: contact-partner
 			<div class="block">
 				<form action="{{ '/contact' | absolute_url }}" method="post">
 					<input type="hidden" name="Contact[Subject]" value="Contact Partner" />
-					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-partner' />
+					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-contact-partner' />
 					<input type="hidden" name="Contact[PartnerId]" value="" />
 					<div class="control-group">
 						<label for="FullName">Full name:</label>
