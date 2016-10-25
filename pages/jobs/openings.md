@@ -2,7 +2,7 @@
 title: Virto commerce - Current Job Openings
 description: Virto commerce - View out current job openings
 date: 2014-01-30
-permalink: jobes/openings
+permalink: jobs
 ---
 <div class="partner __responsive">
 	<h1 class="head-title">Job Openings</h1>
@@ -14,11 +14,13 @@ permalink: jobes/openings
 				<p class="country">United States</p>
 				<p class="lang">Languages Spoken: English</p>
 				<p class="text">
-	* Work closely with developers to determine interesting topics to cover
-	* Write articles, blog posts, documentation
-	* Create email campaigns
-	* Work according to SEO specifications to make sure content is efficient
-</p>
+					<ul class="list">
+						<li>Work closely with developers to determine interesting topics to cover</li>
+						<li>Write articles, blog posts, documentation</li>
+						<li>Create email campaigns</li>
+						<li>Work according to SEO specifications to make sure content is efficient</li>
+					</ul>
+				</p>
 				<a class="button" href="/apply?jid=ContentWriter" rel="nofollow">Apply Now</a>
 			</div>
 		</li>
