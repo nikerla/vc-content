@@ -27,7 +27,7 @@ permalink: jobs/apply
 						<input id="Contact[Phone]" type="text" name="Contact[Phone]" class="form-input" required="required" />
 					</div>					
 					<div class="control-group">
-						<label for="Authorization">What’s your employment eligibility??</label>
+						<label for="Authorization">What’s your employment eligibility?</label>
 						<select id="Contact[Authorization]" type="text" name="Contact[Authorization]" class="form-input" required="required">
 							<option value="" selected>No answer</option>
 							<option value="I am a U.S. citizen or permanent resident">I am a U.S. citizen or permanent resident</option>
@@ -77,7 +77,7 @@ permalink: jobs/apply
 						<input id="Contact[StartDate]" type="text" name="Contact[StartDate]" class="form-input" required="required" />
 					</div>									
 					<div class="control-group">
-						<button type="submit" class="button fill">Submit request</button>
+						<button type="submit" class="button fill">Apply now</button>
 					</div>
 				</form>
 			</div>
