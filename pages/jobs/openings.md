@@ -10,7 +10,7 @@ permalink: jobs
 	<ul class="list">
 		<li class="list-item">
 			<div class="list-info">
-				<p class="title">Marketing Content Writer</p>
+				<h3>Marketing Content Writer</h3>
 				<p class="country">United States</p>
 				<p class="text">
 					<ul class="list">
@@ -25,7 +25,7 @@ permalink: jobs
 		</li>
 		<li class="list-item">
 			<div class="list-info">
-				<p class="title">Software Marketing Internship</p>
+				<h3>Software Marketing Internship</h3>
 				<p class="country">United States</p>
 				<p class="text">We are looking for a digital marketing intern, who is goal-oriented. You will be workign with our matketing team to form a strategy and implementation of SEO, SEM, social media, email and content marketing.</p>
 				<a class="button" href="/jobs/apply?jid=SoftwareMarketingIntern" rel="nofollow">Apply Now</a>
@@ -33,7 +33,7 @@ permalink: jobs
 		</li>	
 		<li class="list-item">
 			<div class="list-info">
-				<p class="title">Software Marketing Manager</p>
+				<h3>Software Marketing Manager</h3>
 				<p class="country">United States</p>
 				<p class="text">We are looking for a lead digital marketing manager, who is experienced and goal-oriented. You will be required to build an efficient data-driven lead generation and nurturing pipeline for our products. Your challenge will be to encourage and involve internal team, build relationship and marketing activities with partners. You will be responsible for forming strategy and implementation of SEO, SEM, social media, email and content marketing. You must be ready to work with leaders in e-commerce industries such as digital agencies, integrators and service providers. Tasks will include:
 				<ul class="list">
@@ -53,7 +53,7 @@ permalink: jobs
 		</li>
 		<li class="list-item">
 			<div class="list-info">
-				<p class="title">Partner Coordinator</p>
+				<h3>Partner Coordinator</h3>
 				<p class="country">United States</p>
 				<p class="text">
 				<ul class="list">
