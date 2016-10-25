@@ -1,5 +1,6 @@
 ---
 title: Bundles
+description: This article describes a process of creating JS and CSS bundles for Virto Commerce
 layout: docs
 date: 2016-05-16T10:49:50.627Z
 priority: 7
