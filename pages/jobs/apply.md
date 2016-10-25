@@ -45,7 +45,7 @@ permalink: jobs/apply
 						</select>
 					</div>
 					<div class="control-group">
-						<label for="CoverLetter">Cover Letter</label>
+						<label for="CoverLetter">Cover Letter:</label>
 						<textarea id="Contact[CoverLetter]" rows="10" cols="30" name="Contact[CoverLetter]" class="form-text" required="required"></textarea>
 					</div>
 					<div class="control-group">
@@ -69,7 +69,7 @@ permalink: jobs/apply
 						<textarea id="Contact[Experience]" rows="10" cols="30" name="Contact[Experience]" class="form-text" required="required"></textarea>
 					</div>						
 					<div class="control-group">
-						<label for="LinkedIn">LinkedIn Profile</label>
+						<label for="LinkedIn">LinkedIn Profile URL:</label>
 						<input id="Contact[LinkedIn]" type="text" name="Contact[LinkedIn]" class="form-input" required="required" />
 					</div>						
 					<div class="control-group">
