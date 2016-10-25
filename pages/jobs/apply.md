@@ -50,7 +50,7 @@ permalink: jobs/apply
 					</div>
 					<div class="control-group">
 						<label for="College">Name of college or university:</label>
-						<input id="Contact[CollegePhone]" type="text" name="Contact[College]" class="form-input" required="required" />
+						<input id="Contact[College]" type="text" name="Contact[College]" class="form-input" required="required" />
 					</div>						
 					<div class="control-group">
 						<label for="Degree">Degree:</label>
