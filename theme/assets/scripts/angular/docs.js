@@ -78,6 +78,7 @@ storefrontApp.component('vcDocsMenu', {
                 angular.element(window.document.getElementById('topics')).html(topics);
                 expandPageInMenu(url, this.pages);
                 window.document.getElementById('page-content').innerHTML = newDoc.getElementById('page-content').innerHTML;
+                window.document.getElementsByTagName('title')[0].innerText = $scope.page.title + ' - Virto Commerce Documentation';
             });
         }
 

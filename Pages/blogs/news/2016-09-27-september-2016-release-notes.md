@@ -18,7 +18,7 @@ We are happy to announce the new VirtoCommerce 'September 2016' release. The mai
 [Read more about VC metaform](http://docs.virtocommerce.com/display/vc2devguide/Metaform)
 
 ### Customer Order
-* Customer Order are now freely extendable both in backend and IU. New properties can be added to Order and any order operation without any modification to existing Orders module source code. Just create new module, derive new class from existing (e.g., CustomerOder) or add new entities (deriving from OrderOperation). Check our new [sample "OrderModule2"](https://github.com/VirtoCommerce/vc-samples/tree/master/OrderModule2) for such customization details.
+* Customer Order is now freely extendable both in backend and IU. New properties can be added to Order and any order operation without any modification to existing Orders module source code. Just create new module, derive new class from existing (e.g., CustomerOder) or add new entities (deriving from OrderOperation). Check our new [sample "OrderModule2"](https://github.com/VirtoCommerce/vc-samples/tree/master/OrderModule2) for such customization details.
 * All Order management UI properties in Manager are registered and loaded dynamically. The properties collection is accessible and manageable from any module!
 * Totals calculation updated
 * Advanced Order filtering in UI

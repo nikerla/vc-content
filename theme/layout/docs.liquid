@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="storefrontApp">
+<html ng-controller="docsController" ng-app="storefrontApp">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -26,7 +26,7 @@
     {{ content_for_header }}
 
     {% if page_title != 'Virto Commerce Documentation' %}
-        {% assign page_title = 'Virto Commerce Documentation - ' | append: page_title %}
+        {% assign page_title = page_title | append: ' - Virto Commerce Documentation' %}
     {% endif %}
     {% if page_description == empty %}
         {% assign page_description = page_title %}
@@ -37,13 +37,14 @@
     <meta name="og:url" property="og:url" content="{{ page.url | full_url }}" />
     <meta name="og:image" property="og:image" content="{{ 'logox2.jpg' | asset_url }}" />
     <meta name="og:title" property="og:title" content="{{ page_title }}" />
-    <meta name="og:description" property="og:title" content="{{ page_description }}" />
+    <meta name="og:description" property="og:description" content="{{ page_description }}" />
     <meta name="twitter:card" property="twitter:card" content="summary" />
     <meta name="twitter:url" property="twitter:url" content="{{ page.url | full_url }}" />
     <meta name="twitter:image" property="twitter:image" content="{{ 'logox2.jpg' | asset_url }}" />
     <meta name="twitter:title" property="twitter:title" content="{{ page_title }}}" />
     <meta name="twitter:description" property="twitter:description" content="{{ page_description }}" />
     <link type="image/x-icon" rel="shortcut icon" href="{{ 'favicon.ico' | asset_url }}" />
+    <link href="{{ page.url | full_url }}" rel="canonical" />
 
     <base href="{{ '/' | absolute_url }}" />
 
@@ -76,6 +77,11 @@
             "@context": "http://www.schema.org",
             "@type": "Article",
             "name": "{{ page_title }}",
+            "author: "Virto Commerce",
+            "datePublished": "{{ page.published_at }}",
+            "headLine": "{{ page_description }}",
+            "image": "{{ 'logox2.jpg' | asset_url }}",
+            "publisher": "Virto Commerce",
             "url": "{{ page.url | full_url }}"
         }
     </script>
@@ -83,7 +89,7 @@
         <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
     </noscript>
 </head>
-<body ng-controller="docsController">
+<body>
     <div class="layout">
         <div class="layout-canvas">
             <div class="swipe">
@@ -121,6 +127,7 @@
                             <vc-docs-breadcrumbs id="breadcrumbs" page="page"></vc-docs-breadcrumbs>
                             <div id="page-content">
                                 <h1 itemprop="headline">{{ page.title }}</h1>
+                                <span itemprop="name" style="display: none;">{{ page.title }}</span>
                                 {% if template != 'search' %}
                                     <div class="contributors">
                                         <div class="author-bio">
@@ -130,6 +137,8 @@
                                             <div class="author-content">
                                                 <div>
                                                     By <a href="https://github.com/virtocommerce" target="_blank" itemprop="author">Virto Commerce</a>
+                                                    <span itemprop="publisher" style="display: none;"></span>
+                                                    <img src="{{ 'logox2.jpg' | asset_url }}" itemprop="image" style="display: none;" />
                                                 </div>
                                                 <div>
                                                     Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>

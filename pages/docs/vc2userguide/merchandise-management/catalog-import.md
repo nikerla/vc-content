@@ -1,5 +1,6 @@
 ---
 title: Catalog import
+description: The article about Virto Commerce catalog import
 layout: docs
 date: 2015-08-13T17:24:00.507Z
 priority: 3
