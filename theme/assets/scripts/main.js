@@ -174,7 +174,11 @@ $(function () {
         VC.changeJoined();
     });
 
-    if ($('[name="PartnerId"]').length > 0) {
-        $('[name="PartnerId"]').val(VC.getParameterByName("pid"));
+    if ($('[name="Contact[PartnerId]"]').length > 0) {
+        $('[name="Contact[PartnerId]"]').val(VC.getParameterByName("pid"));
     }
+
+    if ($('[name="Contact[JobId]"]').length > 0) {
+        $('[name="Contact[JobId]"]').val(VC.getParameterByName("jid"));
+    }    
 });
