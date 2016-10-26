@@ -1,0 +1,17 @@
+{% assign page_url_parts = page.url | split: '/' %}
+{% assign accepted_child_level = page_url_parts.size | plus: 1 %}
+{% assign trailed_page_url = page.url | append: '/' %}
+{% assign page_children = docs_pages | where: 'url', 'contains', trailed_page_url | sort: 'priority' %}
+{% if page_children.size > 0 %}
+    <h2>Topics</h2>
+    <ul>
+        {% for page_child in page_children %}
+            {% assign page_child_url_parts = page_child.url | split: '/' %}
+            {% if page_child_url_parts.size == accepted_child_level %}
+                <li>
+                    <a title="{{ page_child.title }}" href="{{ page_child.url | absolute_url }}" ng-click="navigateUrl('{{ page_child.url | absolute_url }}', $event)">{{ page_child.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+{% endif %}
