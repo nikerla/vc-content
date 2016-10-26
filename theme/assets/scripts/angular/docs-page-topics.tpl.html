@@ -1,8 +1,0 @@
-<div ng-if="$ctrl.page.children && $ctrl.page.children.length">
-    <h2>Topics</h2>
-    <ul>
-        <li ng-repeat="child in $ctrl.page.children">
-            <a title="{{ child.title }}" ng-href="{{ child.url }}" ng-bind="child.title"></a>
-        </li>
-    </ul>
-</div>

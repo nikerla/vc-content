@@ -1,4 +1,4 @@
-<ul class="menu" ng-if="!menuItems">
+<ul class="menu">
     {% for p1 in docs_pages %}
         {% assign p1_url_parts = p1.url | split: '/' %}
         {% assign p1_trailed_url = p1.url | append: '/' %}

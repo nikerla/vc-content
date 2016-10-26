@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-controller="docsController" ng-app="storefrontApp">
+<html ng-class="{ 'loading': loading }" ng-controller="docsController" ng-app="storefrontApp">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -120,15 +120,14 @@
                                 <input name="Keyword" id="Keyword" type="search" placeholder="Search docs" required="required" value="{{ search.terms }}">
                             </form>
 
-                            {% assign docs_pages = pages | where: 'url', 'contains', 'docs/' %}
+                            {% assign docs_pages = pages | where: 'url', 'contains', 'docs' %}
                             {% include 'docs-menu', docs_pages: docs_pages %}
-                            <vc-docs-menu id="docs-menu" items="menuItems" pages="pages" tree="menuItems" url="'{{ page.url }}'" ng-if="menuItems"></vc-docs-menu>
 
                         </div>
                     </div>
                     <div class="docs-column docs-content">
 
-                        <div class="docs-overlay">
+                        <div class="docs-overlay" ng-class="{ 'visible': loading }">
                             <div class="sk-fading-circle">
                                 <div class="sk-circle1 sk-circle"></div>
                                 <div class="sk-circle2 sk-circle"></div>
@@ -146,7 +145,9 @@
                         </div>
 
                         <div class="cnt" id="content" itemscope itemtype="http://schema.org/Article">
-                            <vc-docs-breadcrumbs id="breadcrumbs" page="page"></vc-docs-breadcrumbs>
+                            <div id="breadcrumbs">
+                                {% include 'docs-breadcrumbs', docs_pages: docs_pages %}
+                            </div>
                             <div id="page-content">
                                 <h1 itemprop="headline">{{ page.title }}</h1>
                                 <span itemprop="name" style="display: none;">{{ page.title }}</span>
@@ -177,7 +178,9 @@
                                 </div>
                             </div>
                             {% if template != 'search' %}
-                                <vc-docs-page-topics id="topics" page="page"></vc-docs-page-topics>
+                                <div id="topics">
+                                    {% include 'docs-topics', docs_pages: docs_pages %}
+                                </div>
                             {% endif %}
                         </div>
                     </div>
@@ -188,16 +191,6 @@
     </div>
     <script>
         hljs.initHighlightingOnLoad();
-        var BASE_URL = '{{ "/" | full_url }}';
-        window.pageUrl = '{{ page.url }}';
-        window.pages = [
-            {% for page in pages %}
-                {% assign page_url_parts = page.url | split: '/' %}
-                {% if page_url_parts[0] == 'docs' %}
-                    { url: '{{ page.url }}', title: '{{ page.title }}', priority: {{ page.priority }} },
-                {% endif %}
-            {% endfor %}
-        ];
     </script>
     <script src="//apis.google.com/js/platform.js" async defer></script>
 </body>
