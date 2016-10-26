@@ -160,11 +160,12 @@
                                             <div class="author-content">
                                                 <div>
                                                     By <a href="https://github.com/virtocommerce" target="_blank" itemprop="author">Virto Commerce</a>
-                                                    <span itemprop="publisher" style="display: none;"></span>
+                                                    <span itemprop="publisher" style="display: none;">Virto Commerce</span>
                                                     <img src="{{ 'logox2.jpg' | asset_url }}" itemprop="image" style="display: none;" />
                                                 </div>
                                                 <div>
                                                     Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
+                                                    <span itemprop="dateModified" style="display: none;">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
                                                 </div>
                                             </div>
                                         </div>
