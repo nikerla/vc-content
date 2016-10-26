@@ -66,6 +66,10 @@ storefrontApp.component('vcDocsMenu', {
         this.navigateUrl = function (url, tree) {
             this.url = url;
             $location.path(url);
+            var htmlBlock = window.document.getElementsByTagName('html')[0];
+            htmlBlock.classList.add('loading');
+            var spinnerBlock = window.document.getElementsByClassName('docs-overlay')[0];
+            spinnerBlock.classList.add('visible');
             $http.get(url).then(function (response) {
                 $scope.page = _.find(this.pages, function (p) { return p.url === url });
                 $scope.menuItems = tree;
@@ -79,6 +83,8 @@ storefrontApp.component('vcDocsMenu', {
                 expandPageInMenu(url, this.pages);
                 window.document.getElementById('page-content').innerHTML = newDoc.getElementById('page-content').innerHTML;
                 window.document.getElementsByTagName('title')[0].innerText = $scope.page.title + ' - Virto Commerce Documentation';
+                spinnerBlock.classList.remove('visible');
+                htmlBlock.classList.remove('loading');
             });
         }
 
