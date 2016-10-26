@@ -119,7 +119,11 @@
                                 <input name="Layout" id="Layout" type="hidden" value="docs">
                                 <input name="Keyword" id="Keyword" type="search" placeholder="Search docs" required="required" value="{{ search.terms }}">
                             </form>
-                            <vc-docs-menu id="docs-menu" items="menuItems" pages="pages" tree="menuItems" url="'{{ page.url }}'"></vc-docs-menu>
+
+                            {% assign docs_pages = pages | where: 'url', 'contains', 'docs/' %}
+                            {% include 'docs-menu', docs_pages: docs_pages %}
+                            <vc-docs-menu id="docs-menu" items="menuItems" pages="pages" tree="menuItems" url="'{{ page.url }}'" ng-if="menuItems"></vc-docs-menu>
+
                         </div>
                     </div>
                     <div class="docs-column docs-content">

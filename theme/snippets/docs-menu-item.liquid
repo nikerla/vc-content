@@ -1,0 +1,8 @@
+<a class="menu-link" href="{{ menu_item.url | absolute_url }}">
+    {% if children.size > 0 %}
+        <i aria-hidden="true" class="menu-ico fa {% if menu_item.url == page.url or active_children.size > 0 %}fa-folder-open{% else %}fa-folder{% endif %}"></i>
+    {% else %}
+        <i aria-hidden="true" class="menu-ico fa fa-file-text-o"></i>
+    {% endif %}
+    {{ menu_item.title }}
+</a>
