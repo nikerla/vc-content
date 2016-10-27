@@ -77,19 +77,26 @@
             "@context": "http://www.schema.org",
             "@type": "Article",
             "name": "{{ page_title }}",
-            "author": "Virto Commerce",
+            "author": {
+                "name": "Virto Commerce"
+            },
             "datePublished": "{{ page.published_at }}",
             "dateModified": "{{ page.published_at }}",
             "headLine": "{{ page_description }}",
-            "image": "{{ 'logox2.jpg' | asset_url }}",
-            "image.height": "112",
-            "image.width": "300",
-            "publisher": "Virto Commerce",
-            "publisher.logo": "{{ 'logox2.jpg' | asset_url }}",
-            "publisher.logo.height": "112",
-            "publisher.logo.width": "300",
-            "url": "{{ page.url | full_url }}",
-            "mainEntityOfThePage": "{{ page.title }}"
+            "image": {
+                "url": "{{ 'logox2.jpg' | asset_url }}",
+                "height": 112,
+                "width": 300
+            },
+            "publisher": {
+                "name": "Virto Commerce",
+                "logo": {
+                    "url": "{{ 'logox2.jpg' | asset_url }}",
+                    "height": 112,
+                    "width": 300
+                }
+            },
+            "mainEntityOfPage": "{{ page.url | full_url }}"
         }
     </script>
     <noscript>
