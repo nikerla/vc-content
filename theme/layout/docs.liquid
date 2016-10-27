@@ -150,7 +150,7 @@
                             </div>
                             <div id="page-content">
                                 <h1 itemprop="headline">{{ page.title }}</h1>
-                                <span itemprop="name" style="display: none;">{{ page.title }}</span>
+                                <span itemprop="mainEntityOfThePage" style="display: none;">{{ page.title }}</span>
                                 {% if template != 'search' %}
                                     <div class="contributors">
                                         <div class="author-bio">
@@ -158,8 +158,8 @@
                                                 <span class="author-img" style="background-image: url('{{ 'logo-mini.png' | asset_url }}');"></span>
                                             </a>
                                             <div class="author-content">
-                                                <div>
-                                                    By <a href="https://github.com/virtocommerce" target="_blank" itemprop="author">Virto Commerce</a>
+                                                <div itemprop="author">
+                                                    By <a href="https://github.com/virtocommerce" target="_blank"><span itemprop="name">Virto Commerce</span></a>
                                                     <span itemprop="publisher" style="display: none;">Virto Commerce</span>
                                                     <img src="{{ 'logox2.jpg' | asset_url }}" itemprop="image" style="display: none;" />
                                                 </div>
