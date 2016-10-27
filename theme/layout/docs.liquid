@@ -164,6 +164,13 @@
                         </div>
 
                         <div class="cnt" id="content" itemscope itemtype="http://schema.org/Article">
+                            <img src="{{ 'logox2.jpg' | asset_url }}" style="display: none;" itemprop="image" />
+                            <span style="display: none;" itemprop="dateModified">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
+                            <a href="{{ page.url | full_url }}" style="display: none;" itemprop="mainEntityOfPage">{{ page.title }}</a>
+                            <div itemprop="publisher" style="display: none;">
+                                <span itemprop="name">Virto Commerce</span>
+                                <img itemprop="logo" src="{{ 'logo.jpg' | asset_url }}" />
+                            </div>
                             <div id="breadcrumbs">
                                 {% include 'docs-breadcrumbs', docs_tree: docs_tree %}
                             </div>
