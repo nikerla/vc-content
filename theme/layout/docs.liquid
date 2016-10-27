@@ -120,8 +120,9 @@
                                 <input name="Keyword" id="Keyword" type="search" placeholder="Search docs" required="required" value="{{ search.terms }}">
                             </form>
 
-                            {% assign docs_pages = pages | where: 'url', 'contains', 'docs' %}
-                            {% include 'docs-menu', docs_pages: docs_pages %}
+                            {% assign docs_pages = pages | where: 'url', 'contains', 'docs' | sort: 'url' %}
+                            {% assign docs_tree = docs_pages | tree: 'url', 'title', '/', 'priority' %}
+                            {% include 'docs-menu', docs_tree: docs_tree %}
 
                         </div>
                     </div>
@@ -146,7 +147,7 @@
 
                         <div class="cnt" id="content" itemscope itemtype="http://schema.org/Article">
                             <div id="breadcrumbs">
-                                {% include 'docs-breadcrumbs', docs_pages: docs_pages %}
+                                {% include 'docs-breadcrumbs', docs_tree: docs_tree %}
                             </div>
                             <div id="page-content">
                                 <h1 itemprop="headline">{{ page.title }}</h1>
@@ -180,7 +181,7 @@
                             </div>
                             {% if template != 'search' %}
                                 <div id="topics">
-                                    {% include 'docs-topics', docs_pages: docs_pages %}
+                                    {% include 'docs-topics', docs_tree: docs_tree %}
                                 </div>
                             {% endif %}
                         </div>
