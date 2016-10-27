@@ -7,7 +7,7 @@
                 {% assign parent_url = parent_url | append: '/' | append: page_url_part %}
                 {% assign trimmed_parent_url = parent_url | remove_first: '/' %}
                 {% assign parent_page = docs_pages | where: 'url', '==', trimmed_parent_url | first %}
-                <a href="{{ parent_page.url | absolute_url }}" ng-click="navigateUrl('{{ parent_page.url | absolute_url }}', $event)">{{ parent_page.title }}</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+                <a href="{{ parent_page.url }}" ng-click="navigateUrl('{{ parent_page.url }}', $event)">{{ parent_page.title }}</a> <i class="fa fa-angle-double-right" aria-hidden="true"></i>
             {% endif %}
         {% endfor %}
         {{ page.title }}

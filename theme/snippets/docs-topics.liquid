@@ -9,7 +9,7 @@
             {% assign page_child_url_parts = page_child.url | split: '/' %}
             {% if page_child_url_parts.size == accepted_child_level %}
                 <li>
-                    <a title="{{ page_child.title }}" href="{{ page_child.url | absolute_url }}" ng-click="navigateUrl('{{ page_child.url | absolute_url }}', $event)">{{ page_child.title }}</a>
+                    <a title="{{ page_child.title }}" href="{{ page_child.url }}" ng-click="navigateUrl('{{ page_child.url }}', $event)">{{ page_child.title }}</a>
                 </li>
             {% endif %}
         {% endfor %}
