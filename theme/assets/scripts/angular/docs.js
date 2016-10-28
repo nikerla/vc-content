@@ -1,4 +1,4 @@
-var storefrontApp = angular.module('storefrontApp', []);
+var storefrontApp = angular.module('storefrontApp', ['hljs']);
 
 storefrontApp.config(['$locationProvider', function ($locationProvider) {
     $locationProvider.html5Mode({
@@ -17,7 +17,9 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
         $http.get(url).then(function (response) {
             var parser = new DOMParser();
             var newDoc = parser.parseFromString(response.data, 'text/html');
-            window.document.getElementById('page-content').innerHTML = newDoc.getElementById('page-content').innerHTML;
+            var content = $compile(newDoc.getElementById('page-content'))($scope);
+            angular.element(window.document.getElementById('page-content')).html(content);
+            //window.document.getElementById('page-content').innerHTML = newDoc.getElementById('page-content').innerHTML;
             var menu = $compile(newDoc.getElementById('menu'))($scope);
             angular.element(window.document.getElementById('menu')).html(menu);
             var breadcrumbs = $compile(newDoc.getElementById('breadcrumbs'))($scope);
@@ -25,7 +27,7 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
             var topics = $compile(newDoc.getElementById('topics'))($scope);
             angular.element(window.document.getElementById('topics')).html(topics);
             window.document.getElementsByTagName('title')[0].innerText = newDoc.getElementsByTagName('title')[0].innerText;
-            hljs.initHighlightingOnLoad();
+            var preElements = newDoc.getElementsByTagName('pre');
             $scope.loading = false;
         });
     }
