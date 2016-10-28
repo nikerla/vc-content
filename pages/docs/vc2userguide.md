@@ -1,6 +1,6 @@
 ---
 title: User Guide
-description: The User Guide for Virto Commerce
+description: The User Guide for Virto Commerce 2
 layout: docs
 date: 2015-09-19T03:02:04.137Z
 ---
