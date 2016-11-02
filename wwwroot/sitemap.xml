@@ -15,4 +15,7 @@
     <sitemap>
         <loc>https://virtocommerce.com/blog_sitemap.xml</loc>
     </sitemap>
+    <sitemap>
+        <loc>https://virtocommerce.com/docs_sitemap.xml</loc>
+    </sitemap>
 </sitemapindex>
