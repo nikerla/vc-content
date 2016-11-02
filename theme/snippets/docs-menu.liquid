@@ -1,5 +1,5 @@
 {% assign top_level_items = docs_tree | where: 'level', '==', '2' %}
-<ul class="menu">
+<ul class="menu items-tree">
     {% for item_1 in top_level_items %}
         <li class="menu-item{% if item_1.id == page.url %} active{% endif %}">
             {% assign item_1_children_with_current_url = item_1.children | where: 'id', '==', page.url %}

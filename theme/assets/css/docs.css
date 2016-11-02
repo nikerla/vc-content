@@ -417,24 +417,26 @@ table th
 		width: 80px;
 	}
 
-	.nav .menu
+	.items-tree
 	{
 		margin: 0;
 		padding: 20px 0;
 		text-align: left;
 	}
 
-	.nav .menu-item
+	.items-tree .menu-item
 	{
 		padding: 0;
+		position: relative;
+		text-align: left;
 	}
 
-	.nav .menu-item::before
+	.items-tree .menu-item::before
 	{
 		display: none;
 	}
 
-	.nav .menu-link
+	.items-tree .menu-link
 	{
 		color: #bbb;
 		display: block;
@@ -446,12 +448,12 @@ table th
 		text-transform: none;
 	}
 
-	.nav .menu-link.expandable {
+	.items-tree .menu-link.expandable {
 		padding-left: 30px;
 		position: relative;
 	}
 
-	.nav .menu-ico {
+	.items-tree .menu-ico {
 		font-size: 16px;
 		left: 15px;
 		position: absolute;
@@ -459,17 +461,17 @@ table th
 		top: 8px;
 	}
 
-	.nav .menu-link::after {
+	.items-tree .menu-link::after {
 		display: none;
 	}
 
-	.nav .menu-link:hover
+	.items-tree .menu-link:hover
 	{
 		background: rgba(0,0,0,.1);
 		color: #fff;
 	}
 
-	.nav .menu-item.active > .menu-link
+	.items-tree .menu-item.active > .menu-link
 	{
 		background: #ea5564;
 		color: #fff;

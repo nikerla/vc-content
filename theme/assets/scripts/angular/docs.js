@@ -21,13 +21,17 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
             _.each(codeBlocks, function (codeBlock) {
                 hljs.highlightBlock(codeBlock);
             });
-            var content = $compile(newDoc.getElementById('page-content'))($scope);
+            var content = $compile(newDoc.getElementById('page-content').childNodes)($scope);
             angular.element(window.document.getElementById('page-content')).html(content);
             var menu = $compile(newDoc.getElementById('menu'))($scope);
-            angular.element(window.document.getElementById('menu')).html(menu);
-            var breadcrumbs = $compile(newDoc.getElementById('breadcrumbs'))($scope);
+            angular.element(window.document.getElementById('menu').childNodes).html(menu);
+            var bodyElement = window.document.getElementsByTagName('body')[0];
+            angular.element(bodyElement).removeClass('__opened');
+            var menuMobile = $compile(newDoc.getElementById('menu-mobile').childNodes)($scope);
+            angular.element(window.document.getElementById('menu-mobile')).html(menuMobile);
+            var breadcrumbs = $compile(newDoc.getElementById('breadcrumbs').childNodes)($scope);
             angular.element(window.document.getElementById('breadcrumbs')).html(breadcrumbs);
-            var topics = $compile(newDoc.getElementById('topics'))($scope);
+            var topics = $compile(newDoc.getElementById('topics').childNodes)($scope);
             angular.element(window.document.getElementById('topics')).html(topics);
             window.document.getElementsByTagName('title')[0].innerText = newDoc.getElementsByTagName('title')[0].innerText;
             $scope.loading = false;
