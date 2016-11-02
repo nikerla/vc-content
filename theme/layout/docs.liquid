@@ -170,7 +170,7 @@
                             <a href="{{ page.url | full_url }}" style="display: none;" itemprop="mainEntityOfPage">{{ page.title }}</a>
                             <div itemscope itemtype="http://schema.org/Organization" itemprop="Publisher" style="display: none;">
                                 <span itemprop="name">Virto Commerce</span>
-                                <img itemtype="http://schema.org/ImageObject" itemprop="logo" src="{{ 'logo.jpg' | asset_url }}" />
+                                <img itemprop="logo" src="{{ 'logo.jpg' | asset_url }}" />
                             </div>
                             <div id="breadcrumbs">
                                 {% include 'docs-breadcrumbs', docs_tree: docs_tree %}
