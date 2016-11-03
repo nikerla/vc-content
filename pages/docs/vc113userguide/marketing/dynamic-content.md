@@ -42,6 +42,7 @@ A Content type is a template used to define a Dynamic Content Type. It describes
 The following Dynamic Content Types are shipped with Virto Commerce out-of-the-box. Each requires one or more parameter values to specify things such as, what image file should display or what the target web page should display when clicked.
 
 |Content type|Description|Parameters|
+|------------|-----------|----------|
 |CategoryWithImage|Displays a linked image to category within a catalog.|**CategoryId** - id of the category<br />**ImageUrl** - link to the image<br />**ExternalImageUrl** - link to the external image<br />**Message** - message|
 |CategoryUrl|Displays a link to category title text.|**Categoryid** - id of the category<br />**Title** - user friendly title of the category|
 |Flash|Displays an animated Flash file that cycles through three images. This Flash animation shows each of three images in succession, each having a clickable link that shows the shopper a different promotion. You will need to specify the URLs for each link within the Flash file.|**FlashFilePath** - path to the Flash animation file<br />**Link1Url**, **Link2Url**, **Link3Url** - enter the complete URL to the target page (item, promotion etc)|
