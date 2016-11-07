@@ -3,7 +3,7 @@ category: virtocommerce-news
 date: '2016-11-07'
 is-trending: true
 layout: blog-layout
-main-image: 'https://cloud.githubusercontent.com/assets/5801549/20005795/daea75fc-a29c-11e6-8c68-236bda8e9698.png'
+main-image: assets/images/blog/reindex.png
 permalink: blog/search-index-improvements
 tags:
   - announcements
