@@ -1,5 +1,5 @@
 ﻿{% assign url_parts = page.url | split: '/' %}
-{% if url_parts contains 'docs' %}
+{% if url_parts contains 'docs' or search.search_in == '/docs' %}
     <form class="search" action="{{ '/content/search' | absolute_url }}" method="post">
         <input name="SearchIn" id="SearchIn" type="hidden" value="/docs">
         <input name="Layout" id="Layout" type="hidden" value="docs">
