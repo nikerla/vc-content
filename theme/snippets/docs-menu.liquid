@@ -1,4 +1,4 @@
-{% assign top_level_items = docs_tree | where: 'level', '==', '2' %}
+{% assign top_level_items = docs_tree | where: 'level', '==', '2' | sort: 'priority' %}
 <ul class="menu items-tree">
     {% for item_1 in top_level_items %}
         <li class="menu-item{% if item_1.id == page.url %} active{% endif %}">
