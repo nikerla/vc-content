@@ -24,7 +24,7 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
             var content = $compile(newDoc.getElementById('page-content').childNodes)($scope);
             angular.element(window.document.getElementById('page-content')).html(content);
             var menu = $compile(newDoc.getElementById('menu'))($scope);
-            angular.element(window.document.getElementById('menu').childNodes).html(menu);
+            angular.element(window.document.getElementById('menu')).html(menu);
             var bodyElement = window.document.getElementsByTagName('body')[0];
             angular.element(bodyElement).removeClass('__opened');
             var menuMobile = $compile(newDoc.getElementById('menu-mobile').childNodes)($scope);
