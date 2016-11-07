@@ -31,7 +31,7 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
             angular.element(window.document.getElementById('menu-mobile')).html(menuMobile);
             var breadcrumbs = $compile(newDoc.getElementById('breadcrumbs').childNodes)($scope);
             angular.element(window.document.getElementById('breadcrumbs')).html(breadcrumbs);
-            var topics = $compile(newDoc.getElementById('topics').childNodes)($scope);
+            var topics = $compile(newDoc.getElementById('topics'))($scope);
             angular.element(window.document.getElementById('topics')).html(topics);
             window.document.getElementsByTagName('title')[0].innerText = newDoc.getElementsByTagName('title')[0].innerText;
             $scope.loading = false;
