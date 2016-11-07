@@ -1,6 +1,6 @@
 ---
-title: リンクカテゴリーの作成
-description: リンクカテゴリーの作成
+title: サブカテゴリーの作成
+description: サブカテゴリーの作成
 layout: docs
 date: 2016-06-03T10:21:23.333Z
 priority: 3

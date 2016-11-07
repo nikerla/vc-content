@@ -1,6 +1,6 @@
 ---
-title: カテゴリーとアイテムの参照
-description: カテゴリーとアイテムの参照
+title: カタログの作成・編集・削除
+description: カタログの作成・編集・削除
 layout: docs
 date: 2016-06-03T10:21:23.333Z
 priority: 2

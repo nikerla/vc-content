@@ -1,6 +1,6 @@
 ---
-title: コンテンツ配信の編集
-description: コンテンツ配信の編集
+title: コンテンツ配信グループのフィルター 
+description: コンテンツ配信グループのフィルター 
 layout: docs
 date: 2016-06-03T10:21:23.333Z
 priority: 4
