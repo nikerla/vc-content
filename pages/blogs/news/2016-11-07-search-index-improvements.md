@@ -1,7 +1,19 @@
+---
+category: virtocommerce-news
+date: '2016-11-07'
+is-trending: true
+layout: blog-layout
+main-image: assets/images/blog/reindex.png
+permalink: blog/search-index-improvements
+tags:
+  - announcements
+title: 'Search index improvements'
+
+---
 # Search index improvements
 Most of the data has to be indexed before showing up on your Storefront website. The background processes are constantly indexing the items to keep the site up to date. Despite this, there used to be a frequent question like "Why my newly created product not showing up in the Storefront?". 
 
-In order to improve the search index diagnostics and management, the new search index API and UI were created.
+In order to improve the search index diagnostics and management, the new search index API and UI were created in "Search API module" v1.1.0.
 
 ## Catalog category or product index management
 Now you can check index status for each individual product (or category) right in the details blade:
