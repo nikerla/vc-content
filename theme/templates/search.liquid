@@ -45,14 +45,12 @@
     <hr />
     {% if search.results_count > 0 %}
         {% for finded_item in search.results %}
-            {% if finded_item.type == 'page' %}
-                <h3><a href="{{ finded_item.url | absolute_url }}">{{ finded_item.title }}</a></h3>
-                <hr />
-            {% elseif finded_item.type == 'post' %}
-                <h3><a href="{{ finded_item.url | absolute_url }}">{{ finded_item.title }}</a></h3>
+            <h3><a href="{{ finded_item.url | absolute_url }}">{{ finded_item.title }}</a></h3>
+            <p><a href="{{ finded_item.url | absolute_url }}">{{ finded_item.url | absolute_url }}</a></p>
+            {% if finded_item.type == 'post' %}
                 <p><a href="{{ finded_item.url | absolute_url }}">{{ finded_item.excerpt }}</a></p>
-                <hr />
             {% endif %}
+            <hr />
         {% endfor %}
     {% endif %}
 {% endif %}
