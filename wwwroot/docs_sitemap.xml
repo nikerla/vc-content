@@ -341,12 +341,12 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://virtocommerce.com/docs/old-versions/vc111userguide-jp/user-management-roles-and-role-assignment</loc>
+        <loc>https://virtocommerce.com/docs/old-versions/vc111userguide-jp/users-management-roles-and-role-assignment</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://virtocommerce.com/docs/old-versions/vc111userguide-jp/user-management-roles-and-role-assignment/available-permissions</loc>
+        <loc>https://virtocommerce.com/docs/old-versions/vc111userguide-jp/users-management-roles-and-role-assignment/available-permissions</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -701,7 +701,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://virtocommerce.com/docs/old-versions/vc113userguide/marketing/content-publishing/filtering-content-publishing</loc>
+        <loc>https://virtocommerce.com/docs/old-versions/vc113userguide/marketing/content-publishing/filtering-content-publishing-groups</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -891,7 +891,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://virtocommerce.com/docs/old-versions/vc113userguide/price-lists/searching-for-a-price</loc>
+        <loc>https://virtocommerce.com/docs/old-versions/vc113userguide/price-lists/searching-for-a-price-list</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
@@ -1241,7 +1241,7 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://virtocommerce.com/docs/vc2devguide/working-with-platform-manager/design-guidelines-and-namig-conventions</loc>
+        <loc>https://virtocommerce.com/docs/vc2devguide/working-with-platform-manager/design-guidelines-and-naming-conventions</loc>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
