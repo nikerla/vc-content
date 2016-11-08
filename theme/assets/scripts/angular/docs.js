@@ -7,11 +7,12 @@ storefrontApp.config(['$locationProvider', function ($locationProvider) {
     });
 }]);
 
-storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$compile', function ($scope, $http, $location, $compile) {
+storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$compile', '$window', function ($scope, $http, $location, $compile, $window) {
     $scope.loading = false;
     $scope.navigateUrl = function (url, event) {
         event.preventDefault();
         event.stopPropagation();
+        angular.element($window).scrollTop(0);
         $scope.loading = true;
         $location.path(url);
         $http.get(url).then(function (response) {
