@@ -1,6 +1,6 @@
-<a class="menu-link" href="{{ menu_item.id }}" ng-click="navigateUrl('{{ menu_item.id }}', $event)">
+<a class="menu-link" href="{{ menu_item.path }}" ng-click="navigateUrl('{{ menu_item.path }}', $event)">
     {% if menu_item.children.size > 0 %}
-        <i aria-hidden="true" class="menu-ico fa {% if menu_item.id == page.url or active_children.size > 0 %}fa-folder-open{% else %}fa-folder{% endif %}"></i>
+        <i aria-hidden="true" class="menu-ico fa {% if menu_item.path == page.url or active_children.size > 0 %}fa-folder-open{% else %}fa-folder{% endif %}"></i>
     {% else %}
         <i aria-hidden="true" class="menu-ico fa fa-file-text-o"></i>
     {% endif %}
