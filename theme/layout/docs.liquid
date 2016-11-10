@@ -187,6 +187,9 @@
                                 {% endif %}
                                 <div itemprop="articleBody" ng-non-bindable>
                                     {{ content_for_layout }}
+                                    {% if template != 'search' %}
+                                        {% include 'disqus' %}
+                                    {% endif %}                                    
                                 </div>
                             </div>
                             {% if template != 'search' %}
