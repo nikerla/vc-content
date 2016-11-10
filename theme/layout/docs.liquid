@@ -193,9 +193,12 @@
                                 <div id="topics">
                                     {% include 'docs-topics', docs_tree: docs_tree %}
                                 </div>
-                                {% include 'disqus' %}
                             {% endif %}
                         </div>
+
+                        {% if template != 'search' %}
+                            {% include 'disqus' %}
+                        {% endif %}                        
                     </div>
                 </div>
             </article>
