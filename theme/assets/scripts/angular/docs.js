@@ -15,7 +15,7 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
         angular.element($window).scrollTop(0);
         $scope.loading = true;
         $location.path(url);
-        $http.get(url).then(function (response) {
+        $http.get(url, { cache: true }).then(function (response) {
             var parser = new DOMParser();
             var newDoc = parser.parseFromString(response.data, 'text/html');
             var codeBlocks = newDoc.getElementsByTagName('code');
