@@ -215,6 +215,7 @@
     {{ 'docs.js' | asset_url | script_tag }}
     {{ 'main.js' | asset_url | script_tag }}
     <script>
+        window.abdoluteUrl = '{{ page.url | full_url }}';
         hljs.initHighlightingOnLoad();
     </script>
     <script src="//apis.google.com/js/platform.js" async defer></script>

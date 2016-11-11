@@ -2,8 +2,8 @@
 <script>
 
 var disqus_config = function () {
-    this.page.url = "{{canonical_url}}";
-    this.page.identifier = "{{canonical_url}}";
+    this.page.url = "{{ page.url | full_url }}";
+    this.page.identifier = "{{ page.url | full_url }}";
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
