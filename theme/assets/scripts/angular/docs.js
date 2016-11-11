@@ -36,7 +36,7 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
             angular.element(window.document.getElementById('topics')).html(topics);
             window.document.getElementsByTagName('title')[0].innerText = newDoc.getElementsByTagName('title')[0].innerText;
             $scope.loading = false;
-
+            $scope.disqus = DISQUS;
             DISQUS.reset({
                 reload: true,
                 config: function () {
