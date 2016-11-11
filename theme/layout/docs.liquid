@@ -186,12 +186,13 @@
                                     </div>
                                 {% endif %}
                                 <div itemprop="articleBody" ng-non-bindable>
-                                    {{ content_for_layout }}
+                                    {{ content_for_layout }}                               
                                 </div>
                             </div>
                             {% if template != 'search' %}
                                 <div id="topics">
                                     {% include 'docs-topics', docs_tree: docs_tree %}
+                                    {% include 'disqus' %}                                    
                                 </div>
                             {% endif %}
                         </div>
