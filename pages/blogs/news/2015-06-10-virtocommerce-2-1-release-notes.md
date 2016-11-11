@@ -23,7 +23,7 @@ Here is the list of new features and improvements in 2.1:
 * **Content Publishing** - added support for quickly adding dynamic content placeholders in frontend site themes
 * **Frontend** - improvements to payment &amp; shipping options display, added price filters, custom error pages and much more
 * <a href="https://virtocommerce.com/platform/styleguide/" target="_blank">Platform Style Guide</a>
-* <a href="http://docs.virtocommerce.com/display/vc2devguide/Creating+new+shipping+method" target="_blank">Creating Shipping Gateways</a>
+* [Creating Shipping Gateways](docs/vc2devguide/extending-commerce/creating-new-shipping-method)
 
 # Catalog  Export &amp; Import functionality
 
@@ -109,4 +109,4 @@ Custom 404 page with original url, HTTP response 404.
 
 We put a lot of effort into documentation. It is still under development but there are many new and improved documents already.
 
-Also some additional video tutorials have been added to make it easier to learn more about Virto Commerce - [YouTube Virto Commerce Channel](https://www.youtube.com/channel/UC4Mu_zoDThg2jvexT0py12w).
+Also some additional video tutorials have been added to make it easier to learn more about Virto Commerce - <a href="https://www.youtube.com/channel/UC4Mu_zoDThg2jvexT0py12w" rel="nofollow">YouTube Virto Commerce Channel</a>.

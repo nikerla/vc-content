@@ -23,15 +23,15 @@ Here is the list of new features:
 
 We have isolated a clean platform constructed to the full compliance of SOLID and DDD architectural principals. Designed for use in Azure or IIS based environments. I is based on the following technologies:
 
-* <a href="http://asp.net/" target="_blank">ASP.NET</a> MVC (as web framework)
-* <a href="http://asp.net/" target="_blank">ASP.NET</a> Web API (REST-full API services)
+* <a href="http://asp.net/" target="_blank" rel="nofollow">ASP.NET</a> MVC (as web framework)
+* <a href="http://asp.net/" target="_blank" rel="nofollow">ASP.NET</a> Web API (REST-full API services)
 * AngularJS (for UI)
 * Entity Framework, Entity Framework Migrations (persistent layer)
 
 The base platform can be used for new module development or as a starting point for creating your own custom solution or product. Platform contains such functionality as:
 
 * users and roles management
-* security based on <a href="http://asp.net/" target="_blank">ASP.NET</a> Identity
+* security based on <a href="http://asp.net/" target="_blank" rel="nofollow">ASP.NET</a> Identity
 * module based extensibility, versioned  system, each module may expose new API, UI views, security permissions, settings and database changes
 * notifications system
 * background process execution and scheduling (based on Hangfire library)

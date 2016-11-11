@@ -10,7 +10,7 @@ This release main feature is a CMS Integrated Accelerator. We also improved many
 
 It includes the following new features and fixes:
 
-* **Release of Virto Commerce CMS Accelerator** (Kooboo) – download it from [https://github.com/VirtoCommerce/vc-kooboo](https://github.com/VirtoCommerce/vc-kooboo)
+* **Release of Virto Commerce CMS Accelerator** (Kooboo) – download it from <a href="https://github.com/VirtoCommerce/vc-kooboo" rel="nofollow">https://github.com/VirtoCommerce/vc-kooboo</a>
 * New Announcement Section in Commerce Manager
 * SDK Project Configurator Updates
 * SDK Installation - fixes to how install handles various scenarios
@@ -33,7 +33,7 @@ Some highlights include:
 * Product and Category Templates are implemented using Kooboo views and determined (which template to use, based on user context, product viewed or category browsed) by Virto Commerce engine 
 * All virto commerce business logic remained intact, so you can easily migrate your application from MVC site to Kooboo and back if needed
 
-We also added the source code of that product into Github at [https://github.com/VirtoCommerce/vc-kooboo](https://github.com/VirtoCommerce/vc-kooboo).
+We also added the source code of that product into Github at <a hre="https://github.com/VirtoCommerce/vc-kooboo" rel="nofollow">https://github.com/VirtoCommerce/vc-kooboo</a>.
 
 Here are some more specific features that you might find interesting after digging dipper into implementation:
 

@@ -48,7 +48,7 @@ To edit SEO keywords Commerce manager, the SEO tab was added to Item, Category a
 
 # Reporting
 
-We are introducing new reporting module in Virto Commerce manager. Module works directly with Sql server reporting service (SSRS) reports files (RDL format – [http://technet.microsoft.com/en-us/library/ms155062.aspx](http://technet.microsoft.com/en-us/library/ms155062.aspx)). That means reports can be created with SSRS Reports Builder and uploaded directly to VC manager. However it is not using SSRS for generating reports data. Reports datasets are prepared by VC services. 
+We are introducing new reporting module in Virto Commerce manager. Module works directly with Sql server reporting service (SSRS) reports files (RDL format – <a href="http://technet.microsoft.com/en-us/library/ms155062.aspx" rel="nofollow">http://technet.microsoft.com/en-us/library/ms155062.aspx</a>). That means reports can be created with SSRS Reports Builder and uploaded directly to VC manager. However it is not using SSRS for generating reports data. Reports datasets are prepared by VC services. 
 
 Used Microsoft Report Viewer component allows not only to print, bet export report data to PDF, Excel or Word files.
 
@@ -58,7 +58,7 @@ Report preview and its parameters input form
 
 # Preparing reports
 
-Reports can be created with Microsoft SQL Server 2008 R2 Report Builder 3.0: [http://www.microsoft.com/en-us/download/details.aspx?id=6116](http://www.microsoft.com/en-us/download/details.aspx?id=6116)
+Reports can be created with Microsoft SQL Server 2008 R2 Report Builder 3.0: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=6116" rel="nofollow">http://www.microsoft.com/en-us/download/details.aspx?id=6116</a>
 
 All main features of RDL is supported, like page layout, report and datasets parameters, values expression.
 

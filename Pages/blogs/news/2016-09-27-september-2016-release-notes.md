@@ -18,7 +18,7 @@ We are happy to announce the new VirtoCommerce 'September 2016' release. The mai
 [Read more about VC metaform](http://docs.virtocommerce.com/display/vc2devguide/Metaform)
 
 ### Customer Order
-* Customer Order is now freely extendable both in backend and IU. New properties can be added to Order and any order operation without any modification to existing Orders module source code. Just create new module, derive new class from existing (e.g., CustomerOder) or add new entities (deriving from OrderOperation). Check our new [sample "OrderModule2"](https://github.com/VirtoCommerce/vc-samples/tree/master/OrderModule2) for such customization details.
+* Customer Order is now freely extendable both in backend and IU. New properties can be added to Order and any order operation without any modification to existing Orders module source code. Just create new module, derive new class from existing (e.g., CustomerOder) or add new entities (deriving from OrderOperation). Check our new <a href="https://github.com/VirtoCommerce/vc-samples/tree/master/OrderModule2" rel="nofollow">sample "OrderModule2"</a> for such customization details.
 * All Order management UI properties in Manager are registered and loaded dynamically. The properties collection is accessible and manageable from any module!
 * Totals calculation updated
 * Advanced Order filtering in UI
@@ -32,7 +32,7 @@ Storefront or Mobile application are only ones of your possible sales channels. 
 
 You have designed an awesome blog with Wordpress or other platform, and now you can start making money by adding easy-to-use VirtoCommerce JavaScriptShoppingCart. It works by offering a small piece of code, which can be implemented on your site to turn any element into a Buy button.
 
-[JavaScript shopping cart Github project](https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart)
+<a href="https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart" rel="nofollow">JavaScript shopping cart Github project</a>
 
 ### Client generation with Autorest
 We've switched the C# clients generation tool to Autorest. This simplified code management a lot:
@@ -44,11 +44,11 @@ We've switched the C# clients generation tool to Autorest. This simplified code 
 
 ![generated API client classes](assets/images/blog/apiClients.PNG)
 
-[How to generate API by using Microsoft Autorest](http://docs.virtocommerce.com/display/vc2devguide/How+to+generate+module+API+C%23+client+using+AutoRest)
+[How to generate API by using Microsoft Autorest](docs/vc2devguide/development-scenarios/how-to-generate-module-api-c-sharp-client-using-autorest)
 
 ### Add support for ASP.NET bundles to Storefront
 ![storefront-bundles.png](assets/images/blog/storefront-bundles.png)
-[How to enable ASP.NET Bundles in storefront](http://docs.virtocommerce.com/display/vc2devguide/Bundles)
+[How to enable ASP.NET Bundles in storefront](docs/vc2devguide/working-with-storefront/bundles)
 
 ### Updated search modules
 The following updates were made to search modules:

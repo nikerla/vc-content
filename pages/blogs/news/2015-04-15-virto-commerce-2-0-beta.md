@@ -70,7 +70,7 @@ Use pages to create simple about us, contact and terms pages. You can also embed
 
 # Development
 
-[Setup source code](http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started) - describes how to get the latest source code and setup your development environment
+[Setup source code](docs/vc2devguide/deployment/platform-deployment/source-code-getting-started) - describes how to get the latest source code and setup your development environment
 
 # Installation and Deployment
 
@@ -78,6 +78,6 @@ We created several guides that should help you both setup Virto Commerce on Micr
 
 ![](assets/images/blog/image2015-4-6-174141.png)
 
-* [Install on Microsoft Azure Cloud](http://docs.virtocommerce.com/display/vc2devguide/Deploy+from+GitHub+to+Microsoft+Cloud+Azure) – checkout the installation guide on how to setup full version of Virto Commerce on free azure environment
-* [Install on private server](http://docs.virtocommerce.com/display/vc2devguide/Deploy+web+applications+to+dedicated+server) – use this guide to setup Virto Commerce on your own server
-* [Setup source code](http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started) - describes how to get the latest source code and setup your development environment
+* [Install on Microsoft Azure Cloud](docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure) – checkout the installation guide on how to setup full version of Virto Commerce on free azure environment
+* [Install on private server](docs/vc2devguide/deployment/platform-deployment/deploy-web-applications-to-dedicated-server) – use this guide to setup Virto Commerce on your own server
+* [Setup source code](docs/vc2devguide/deployment/platform-deployment/source-code-getting-started) - describes how to get the latest source code and setup your development environment

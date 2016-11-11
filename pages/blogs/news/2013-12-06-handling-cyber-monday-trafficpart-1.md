@@ -17,7 +17,7 @@ So how do you prepare? This post goes through the common scenarios from the soft
 
 # Preparation
 
-If you don’t want to look like engineers of [http://healthcare.gov](http://healthcare.gov/) or [http://walmart.com](http://walmart.com/) on Cyber week, here are some helpful steps you want to do to get your e-commerce site prepared for a big load (I know, I know, they had to deal with a lot of bureaucracy). I’m not claiming to build walmart site here, it takes much more effort and planning to make sure you can support such site, mostly due to heavy integration with backend/outdated systems. Anyway, back to preparation.
+If you don’t want to look like engineers of <a href="http://healthcare.gov" rel="nofollow">http://healthcare.gov</a> or <a href="http://walmart.com" rel="nofollow">http://walmart.com</a> on Cyber week, here are some helpful steps you want to do to get your e-commerce site prepared for a big load (I know, I know, they had to deal with a lot of bureaucracy). I’m not claiming to build walmart site here, it takes much more effort and planning to make sure you can support such site, mostly due to heavy integration with backend/outdated systems. Anyway, back to preparation.
 
 # Load Testing
 

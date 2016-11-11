@@ -81,7 +81,7 @@ As part of the latest sprint we added social features for the product as site, w
 
 ![](assets/images/blog/tmpe693.png)
 
-For more information on how this is done, please consult our developer documentation [here](http://docs.virtocommerce.com/display/vc1devguide/Social+buttons).
+For more information on how this is done, please consult our developer documentation [here](docs/old-versions/vc113devguide/architecture/web-applications/social-buttons).
 
 ## Google Analytics
 
@@ -89,4 +89,4 @@ Support for quickly adding google analytics.
 
 ![](assets/images/blog/tmp9ebb.png)
 
-For more developer documentation regarding this feature go [here](http://docs.virtocommerce.com/display/vc1devguide/Google+Analytics).
+For more developer documentation regarding this feature go [here](docs/old-versions/vc113devguide/architecture/web-applications/google-analytics).

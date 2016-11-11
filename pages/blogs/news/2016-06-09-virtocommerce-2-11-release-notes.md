@@ -21,14 +21,14 @@ Many changes were made to modules management UI:
 
 The main modules data source is the (online) module registry. All module versions will be stored there since the 2.11 release. Now you can install or update a VC module instantly after its release and add it to the registry.
 
-Check for more info on [Modules management](http://docs.virtocommerce.com/x/4wDr) tutorial.
+Check for more info on [Modules management](docs/vc2devguide/working-with-platform-manager/localization-implementation) tutorial.
 
 # Source code repository restructure
 
-The repository structure has changed dramatically. The [vc-platform](https://github.com/VirtoCommerce/vc-platform) repository on GitHub was split into multiple repositories having clear and concrete purposes:
+The repository structure has changed dramatically. The <a href="https://github.com/VirtoCommerce/vc-platform" rel="nofollow">vc-platform</a> repository on GitHub was split into multiple repositories having clear and concrete purposes:
 
 * Only a clean VirtoCommerce Platform was left in the vc-platform repository.
-* Storefront website now resides on its own [vc-storefront](https://github.com/VirtoCommerce/vc-storefront) repository.
+* Storefront website now resides on its own <a href="https://github.com/VirtoCommerce/vc-storefront" rel="nofollow">vc-storefront</a> repository.
 * Every logical module was isolated from the Platform (and other modules) to its own repository (vc-module-catalog, vc-module-store, vc-module-cart to name a few).
 
 ![](assets/images/blog/vc-repository-split.png "vc-community repository structure change")
@@ -43,21 +43,21 @@ The version numbers of VC parts should diverge over time.
 
 Some new articles appeared on our documentation site covering the long awaited topics for developers:
 
-* [Developing a custom solution](http://docs.virtocommerce.com/x/BwAEAQ)
-* [Working with platform API](http://docs.virtocommerce.com/x/JQAqAQ)
-* [How to generate module API C# client](http://docs.virtocommerce.com/x/BwAqAQ)
-* [Process of custom module contributing](http://docs.virtocommerce.com/x/XQAqAQ)
-* [Creating module packages](http://docs.virtocommerce.com/x/3gDr)
-* [Storefront Source Code Getting Started](http://docs.virtocommerce.com/x/TQAqAQ)
-* [How to localize catalog product names in storefront](http://docs.virtocommerce.com/x/CQAnAQ)
+* [Developing a custom solution](docs/vc2devguide/development-scenarios/developing-a-custom-solution)
+* [Working with platform API](docs/vc2devguide/development-scenarios/working-with-platform-api)
+* [How to generate module API C# client](docs/vc2devguide/development-scenarios/how-to-generate-module-api-c-sharp-client)
+* [Process of custom module contributing](docs/vc2devguide/development-scenarios/process-of-custom-module-contributing)
+* [Creating module packages](docs/vc2devguide/development-scenarios/creating-module-packages)
+* [Storefront Source Code Getting Started](docs/vc2devguide/deployment/storefront-deployment/storefront-source-code-getting-started)
+* [How to localize catalog product names in storefront](docs/vc2devguide/working-with-storefront/how-to-localize-catalog-product-names-in-storefront)
 
 Articles reviewed and updated:
 
-* [Modules management](http://docs.virtocommerce.com/x/4wDr) tutorial
-* [Deploy from GitHub to Microsoft Cloud Azure](http://docs.virtocommerce.com/x/K4Dd)
-* [Source Code Getting Started](http://docs.virtocommerce.com/x/W4Dd)
-* [Creating new module](http://docs.virtocommerce.com/x/aQDL)
-* [Extending Members domain types](http://docs.virtocommerce.com/x/FQAgAQ)
+* [Modules management](docs/vc2userguide/configuration/modules-management) tutorial
+* [Deploy from GitHub to Microsoft Cloud Azure](docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure)
+* [Source Code Getting Started](docs/vc2devguide/deployment/platform-deployment/source-code-getting-started)
+* [Creating new module](docs/vc2devguide/working-with-platform-manager/extending-functionality/creating-new-module)
+* [Extending Members domain types](docs/vc2devguide/extending-commerce/extending-members-domain-types)
 
 ## Migration to ver. 2.11
 

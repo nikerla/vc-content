@@ -7,7 +7,7 @@ permalink: blog/announcing-the-release-of-virtocommerce-1-2
 tags: [announcements]
 title: "Announcing the release of Virto Commerce 1.2"
 ---
-Today we released the v1.2 update of the Virto Commerce. This is a big update of Virto Commerce and it includes some great new features and enhancements. It is also our first Open Source release which can be accessed using codeplex project at [http://virtocommerce.codeplex.com](http://virtocommerce.codeplex.com)!
+Today we released the v1.2 update of the Virto Commerce. This is a big update of Virto Commerce and it includes some great new features and enhancements. It is also our first Open Source release which can be accessed using codeplex project at <a href="http://virtocommerce.codeplex.com" rel="nofollow">http://virtocommerce.codeplex.com</a>!
 
 These new capabilities include:
 

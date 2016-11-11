@@ -22,7 +22,7 @@ Here is the list of new features:
 * **Dynamic Content Razor Templates** – dynamic content like banners can now use Razor templates
 * **Login status indicator** – special language based index fields are created for each multi language property
 * **Order Statistics** – added job that recalculates statistics for the order dashboard
-* [StackOverflow](http://stackoverflow.com/tags/virtocommerce) – we added new public community on StackOverflow, go ask your questions!
+* <a href="http://stackoverflow.com/tags/virtocommerce" rel="nofollow">StackOverflow</a> – we added new public community on StackOverflow, go ask your questions!
 
 # What’s next?
 

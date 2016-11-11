@@ -8,7 +8,7 @@ title: "The moment after big race started"
 ---
 A week ago we had finally released our SDK: [https://virtocommerce.com/download-sdk](https://virtocommerce.com/download-sdk)
 
-You can explore the product from its documentation as well: [http://docs.virtocommerce.com/display/vc1userguide/Home](http://docs.virtocommerce.com/display/vc1userguide/Home)
+You can explore the product from its documentation as well: [http://virtocommerce.com/docs/old-versions/vc113userguide](docs/old-versions/vc113userguide)
 
 If you are E-Commerce domain specialist, I believe, that you will be surprised how many features of mature products we are providing right now. And if you are web developer, you will be amazed by VirtoCommerce system’s architecture.
 

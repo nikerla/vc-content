@@ -11,4 +11,4 @@ Evolution of e-commerce platforms was always tightly connected to CMS. Recently 
 
 But the world is changing, it is striving for simplicity, a so called NO-CMS approach. With Omnichannel - marketplaces, social networks, mobile platforms become preferred places to purchase online. So what is the best strategy for integration of e-commerce platform with CMS? CMS is important as a lot of businesses around them but it is not essential for e-commerce sites.
 
-Checkout [a first hand experience of "Development Seed"](http://www.developmentseed.org/blog/2012/07/27/build-cms-free-websites/) and how they decided to switch from Drupal to no-cms approach for all there new projects. Our product is structured around enabling this approach.
+Checkout <a href="http://www.developmentseed.org/blog/2012/07/27/build-cms-free-websites/" rel="nofollow">a first hand experience of "Development Seed"</a> and how they decided to switch from Drupal to no-cms approach for all there new projects. Our product is structured around enabling this approach.

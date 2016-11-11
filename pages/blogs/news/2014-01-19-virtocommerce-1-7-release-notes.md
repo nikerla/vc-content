@@ -36,7 +36,7 @@ For example new dynamic content templates are used to showcase various products 
 
 # Web Platform Installer
 
-It is now possible to setup Virto Commerce using Microsoft Web Platform Installer ([http://www.microsoft.com/web/gallery/vccommunity.aspx](http://www.microsoft.com/web/gallery/vccommunity.aspx)) or directly from within azure management site as shown in the screenshot below:
+It is now possible to setup Virto Commerce using Microsoft Web Platform Installer (<a href="http://www.microsoft.com/web/gallery/vccommunity.aspx" rel="nofollow">http://www.microsoft.com/web/gallery/vccommunity.aspx</a>) or directly from within azure management site as shown in the screenshot below:
 
 ![](assets/images/blog/tmp20f3.png)
 
@@ -55,7 +55,7 @@ An ability for customer service representative (CSR) to place orders on behalf o
 
 Placing an Order on behalf of the customer:
 
-* Update VirtoCommerce database to the latest version. Update instructions available: [http://docs.virtocommerce.com/display/vc1devguide/Database+migrations](http://docs.virtocommerce.com/display/vc1devguide/Database+migrations)
+* Update VirtoCommerce database to the latest version. Update instructions available: [http://virtocommerce.com/docs/old-versions/vc113devguide/database-migrations](docs/old-versions/vc113devguide/database-migrations)
 * Create a new role (or update an existing one) adding a “Login on behalf of a contact” permission from “Customer Service” permissions group in Commerce Manager.
 * Make sure to assign the role to a CSR.
 * Log in to Commerce Manager using CSR account and open Customer Service section. Search for the necessary customer and open his profile details.

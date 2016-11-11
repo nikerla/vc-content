@@ -64,7 +64,7 @@ Here are a few standard cart validation warnings:
 
 # Advanced error handling in Storefront &amp; Manager
 
-Now all server Storefront and Manager errors are handled and logged by [NLog](https://www.google.com/url?q=https://github.com/nlog/NLog/wiki/Configuration-file%23rules&amp;sa=D&amp;ust=1454407345039000&amp;usg=AFQjCNH8FvlAk15w7r0gMO96WLJr05iHsQ) rules.
+Now all server Storefront and Manager errors are handled and logged by <a href="https://www.google.com/url?q=https://github.com/nlog/NLog/wiki/Configuration-file%23rules&amp;sa=D&amp;ust=1454407345039000&amp;usg=AFQjCNH8FvlAk15w7r0gMO96WLJr05iHsQ" rel="nofollow">NLog</a> rules.
 
 Also, any Storefront Ajax request error won’t be skipped unnoticed thanks to special popup:
 

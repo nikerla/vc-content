@@ -56,7 +56,7 @@ A new PayPal payment gateway is available for express checkout. This allows for 
 
 ![](assets/images/blog/clip_image010d.jpg)
 
-PayPal payment gateway can be configured in commerce manager as all other payments. For more information about PayPal configuration check this link [https://github.com/paypal/sdk-core-dotnet/wiki/SDK-Configuration-Parameters](https://github.com/paypal/sdk-core-dotnet/wiki/SDK-Configuration-Parameters).
+PayPal payment gateway can be configured in commerce manager as all other payments. For more information about PayPal configuration check this link <a href="https://github.com/paypal/sdk-core-dotnet/wiki/SDK-Configuration-Parameters" rel="nofollow">https://github.com/paypal/sdk-core-dotnet/wiki/SDK-Configuration-Parameters</a>.
 
 ![](assets/images/blog/clip_image012d.jpg)
 

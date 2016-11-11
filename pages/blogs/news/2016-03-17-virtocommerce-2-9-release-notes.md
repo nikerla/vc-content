@@ -16,7 +16,7 @@ Ability to sign in via external login providers (Google, Facebook, etc.) on Stor
 
 ![](assets/images/blog/capture.png)
 
-Documentation for developers <a href="http://docs.virtocommerce.com/x/CAAdAQ" target="_blank">is here</a>.
+Documentation for developers [is here](docs/vc2devguide).
 
 # Storefront lazy API data loading and render time pagination in Liquid templates
 
@@ -60,8 +60,8 @@ Manage assets for each store independently. A dedicated folder for each store no
 
 # Other improvements
 
-* New "Memory" <a href="http://hangfire.io/">Hangfire</a> job storage type added. It’ll be used by default instead of database based storage;
-* Permalinks in blogs and pages made more compatible with <a href="https://jekyllrb.com/"><span style="font-weight:400;">Jekyll permalinks</span></a>.
+* New "Memory" <a href="http://hangfire.io/" rel="nofollow">Hangfire</a> job storage type added. It’ll be used by default instead of database based storage;
+* Permalinks in blogs and pages made more compatible with <a href="https://jekyllrb.com/" rel="nofollow"><span style="font-weight:400;">Jekyll permalinks</span></a>.
 
 # Platform API changes
 

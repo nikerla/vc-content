@@ -50,7 +50,7 @@ Scope bounded ACL allows you to limit the access to the actions of a particular 
 
 It is not enough to check the ‘global’ permission, in the process of checking the permissions it is necessary to consider the context. Unlike a classic Object ACL (which serves as context only objects) in Scope bounded ACL, the context may be any condition which can be defined in code and may be used in further permissions checks.
 
-To use this feature you need to define roles with permissions bounded (limited) by special unique scopes and assign that role to a user. You can read more about scope bounded ACL here: [working with platform security](http://docs.virtocommerce.com/display/vc2devguide/Working+with+platform+security).
+To use this feature you need to define roles with permissions bounded (limited) by special unique scopes and assign that role to a user. You can read more about scope bounded ACL here: [working with platform security](docs/vc2devguide/working-with-platform-manager/basic-functions/working-with-platform-security).
 
 **Key features**
 
@@ -76,11 +76,11 @@ Now each store can have an individual tax provider assigned and providers can ha
 
 **Avalara tax configuration for a selected store.**
 
-New tax providers can be implemented. Read our documentation on how to create new tax provider module [here](http://docs.virtocommerce.com/x/iID-/).
+New tax providers can be implemented. Read our documentation on how to create new tax provider module [here](docs/vc2devguide/extending-commerce/creating-new-tax-provider).
 
 ## Authorize.Net payment gateway
 
-Now [Authorize.Net](http://www.authorize.net/) payment gateway is supported. Configure it in a user friendly UI and let your customers pay by credit card using a leading provider of payment gateway services.
+Now <a href="http://www.authorize.net/" rel="nofollow">Authorize.Net</a> payment gateway is supported. Configure it in a user friendly UI and let your customers pay by credit card using a leading provider of payment gateway services.
 
 ![](assets/images/blog/image13.png)
 

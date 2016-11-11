@@ -10,7 +10,7 @@ title: 'VirtoCommerce 2.10 Release Notes'
 ---
 # Integration modules moved to separate repository
 
-All integration modules were moved to the new [vc-modules repository](https://github.com/VirtoCommerce/vc-modules). Now the vc-community repository contains only the platform and eCommerce modules.
+All integration modules were moved to the new <a href="https://github.com/VirtoCommerce/vc-modules" rel="nofollow">vc-modules repository</a>. Now the vc-community repository contains only the platform and eCommerce modules.
 
 # New members extension point. (API, Entity framework and UI extension from custom module)
 
@@ -23,7 +23,7 @@ The new powerful platform extension point allows you to extend existing member t
 
 The article below describes in detail how to work with the members extension point.
 
-[http://docs.virtocommerce.com/display/vc2devguide/Extending+Members+domain+types](http://docs.virtocommerce.com/display/vc2devguide/Extending+Members+domain+types)
+[http://virtocommerce.com/docs/vc2devguide/extending-commerce/extending-members-domain-types](docs/vc2devguide/extending-commerce/extending-members-domain-types)
 
 How to register new member types in your custom module
 
@@ -87,7 +87,7 @@ SEOs list now has an informer describing the problem. Click "Resolve conflicts" 
 
 ![](assets/images/blog/untitled_24.png)
 
-In this article you can read more about SEO url routing on storefront works [http://docs.virtocommerce.com/display/vc2devguide/Storefront+SEO+routing](http://docs.virtocommerce.com/display/vc2devguide/Storefront+SEO+routing).
+In this article you can read more about SEO url routing on storefront works [http://virtocommerce.com/docs/vc2devguide/working-with-storefront/storefront-seo-routing](docs/vc2devguide/working-with-storefront/storefront-seo-routing).
 
 # CMS UI and API redesign
 
@@ -132,7 +132,7 @@ The right-to-left (RTL) writing system is now supported in Manager:
 
 Even if you haven't translated the localization scripts to RTL language yet, the Manager UI switching to RTL can be done right away:
 
-* Add a single translation file dedicated to RTL. More details on localization is [available here](http://docs.virtocommerce.com/x/UYAKAQ).
+* Add a single translation file dedicated to RTL. More details on localization is [available here](docs/vc2devguide/working-with-platform-manager/localization-implementation).
 * Set Commerce Manager language in Configuration -> USER PROFILE to RTL language.
 * Refresh the browser page.
 

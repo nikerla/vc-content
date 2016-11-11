@@ -12,13 +12,13 @@ The main focus of this release was Storefront API redesign and Mobile Starter ki
 
 # Mobile Starter kit
 
-Check out our new Mobile Starter kit for developing e-commerce apps using VirtoCommerce API. It is developed using [Ionic Framework](http://ionicframework.com/), [AngularJS](https://angularjs.org/) and [Cordova](https://cordova.apache.org/):
+Check out our new Mobile Starter kit for developing e-commerce apps using VirtoCommerce API. It is developed using <a href="http://ionicframework.com/" rel="nofollow">Ionic Framework</a>, <a href="https://angularjs.org/" rel="nofollow">AngularJS</a> and <a href="https://cordova.apache.org/" rel="nofollow">Cordova</a>:
 
 ![](assets/images/blog/untitled_5.png)
 
 The VirtoCommerce Mobile Starter kit is currently available to partners and customers only. Contact us for more info on how to get the kit: [https://virtocommerce.com/contact-us](https://virtocommerce.com/contact-us).
 
-A preconfigured Mobile Starter kit app is already publicly available. Check for instructions at [Mobile Starter app](http://docs.virtocommerce.com/display/vc2userguide/Mobile+Starter+app) page.
+A preconfigured Mobile Starter kit app is already publicly available. Check for instructions at [Mobile Starter app](docs/vc2userguide/introduction-to-virtocommerce/mobile-starter-app) page.
 
 # Storefront API
 

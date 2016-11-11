@@ -17,7 +17,7 @@ Below are just some of the updates we made during last sprint, for more details 
 * **Platform Export/Import** - allows migration of modules data between different Virto Commerce platform instances, provides import/export engine for custom modules
 * **Dynamic properties** - platform allows to add new properties to entities at runtime
 * **Avalara AvaTax integration module improvements** - avalara tax module is now officially certified and will become available on avalara.com official site
-* **ShipStation integration module** - allows for order synchronization with [ShipStation](http://www.shipstation.com/) to manage all your shipping needs
+* **ShipStation integration module** - allows for order synchronization with <a href="http://www.shipstation.com/" rel="nofollow">ShipStation</a> to manage all your shipping needs
 * **Shopify integration module** - easily import existing Products, Collections and Themes from Shopify to the Virto Commerce platform
 * **Performance** - we greatly improved frontend site performance and included custom load tests as part of the solution
 
@@ -30,9 +30,9 @@ Below are just some of the updates we made during last sprint, for more details 
 
 # Documentation
 
-* Updated ("custom content" feature removed): [http://docs.virtocommerce.com/display/vc2devguide/Blade+toolbar](http://docs.virtocommerce.com/display/vc2devguide/Blade+toolbar)
-* Developer guide: Using dynamic properties [http://docs.virtocommerce.com/display/vc2devguide/Using+dynamic+properties](http://docs.virtocommerce.com/display/vc2devguide/Using+dynamic+properties)
-* User guide: Managing dynamic properties [http://docs.virtocommerce.com/display/vc2userguide/Managing+dynamic+properties](http://docs.virtocommerce.com/display/vc2userguide/Managing+dynamic+properties)
+* Updated ("custom content" feature removed): [http://virtocommerce.com/docs/vc2devguide/working-with-platform-manager/basic-functions/blade-toolbar](docs/vc2devguide/working-with-platform-manager/basic-functions/blade-toolbar)
+* Developer guide: Using dynamic properties [http://virtocommerce.com/docs/vc2devguide/working-with-platform-manager/extending-functionality/using-dynamic-properties](docs/vc2devguide/working-with-platform-manager/extending-functionality/using-dynamic-properties)
+* User guide: Managing dynamic properties [http://virtocommerce.com/docs/vc2userguide/configuration/managing-dynamic-properties](docs/vc2userguide/configuration/managing-dynamic-properties)
 
 # Platform Export/Import
 
@@ -104,11 +104,11 @@ What’s been added and improved in the module:
 * Partial returns of order initiates tax recalculation, so “Return invoice” of items returned generated in Avalara.
 * Order cancellation initiates tax document void in Avalara.
 * Logs added and improved.
-* Tax configuration and setup documentation added - [link](http://docs.virtocommerce.com/x/8gHr).
+* Tax configuration and setup documentation added - [link](docs/vc2devguide/extending-commerce/creating-new-tax-provider).
 
 # ShipStation integration module
 
-It allows for order synchronization with [ShipStation](http://www.shipstation.com/). That way new orders with shipments made in VirtoCommerce will become available in ShipStation admin and changes of shipment status will be synced with Virto Commerce platform store. For more details read in our <a href="http://docs.virtocommerce.com/x/DwLr" target="_blank">documentation</a>.
+It allows for order synchronization with <a href="http://www.shipstation.com/" rel="nofollow">ShipStation</a>. That way new orders with shipments made in VirtoCommerce will become available in ShipStation admin and changes of shipment status will be synced with Virto Commerce platform store. For more details read in our [documentation](docs/vc2devguide/extending-commerce/creating-new-shipping-method)</a>.
 
 # Shopify integration module
 

@@ -21,5 +21,5 @@ Included in our documentation we have written overviews for two leading BI syst
 
 Below are the links to the documentation:
 
-* <a href="http://docs.virtocommerce.com/x/MIAKAQ" target="_blank">Microsoft Power BI</a>
-* <a href="http://docs.virtocommerce.com/x/HoAKAQ" target="_blank">Tableau</a>
+* [Microsoft Power BI](docs/vc2devguide/reporting/microsoft-power-bi)
+* [Tableau](docs/vc2devguide/reporting/tableau)

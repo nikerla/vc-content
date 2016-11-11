@@ -11,8 +11,8 @@ excerpt: This article is about migration process from previous 2.x versions of V
 ---
 # On local file system
 
-* Make new platform installation http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started and leave old database connection string.
-* Make new storefront installation http://docs.virtocommerce.com/display/vc2devguide/Storefront+Source+Code+Getting+Started
+* Make new platform installation [http://virtocommerce.com/docs/vc2devguide/deployment/platform-deployment/source-code-getting-started](docs/vc2devguide/deployment/platform-deployment/source-code-getting-started)http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started and leave old database connection string.
+* Make new storefront installation [http://virtocommerce.com/docs/vc2devguide/deployment/storefront-deployment/storefront-source-code-getting-started](docs/vc2devguide/deployment/storefront-deployment/storefront-source-code-getting-started)
 * (Optional) If you have some changes in CMS content you need to copy it to 2.11 platform */App_Data/cms-content* folder:
  
 > COPY FROM
@@ -27,9 +27,9 @@ excerpt: This article is about migration process from previous 2.x versions of V
 
 # On Microsoft Azure cloud
 
-* Make new platform deployment to azure to new or already exist resource group  http://docs.virtocommerce.com/display/vc2devguide/Deploy+from+GitHub+to+Microsoft+Cloud+Azure without sample data (in sample data installation setup wizard step click None)
+* Make new platform deployment to azure to new or already exist resource group [http://virtocommerce.com/docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure](docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure) without sample data (in sample data installation setup wizard step click None)
 * For newly deployed platform version 2.11 set database connection string, just copy the database connection string from a previous VC 2.x application  settings
 
 ![](assets/images/blog/azure-application-settings.png)
 
-* Make new storefront deployment  to new or already exist resource group http://docs.virtocommerce.com/display/vc2devguide/Storefront+Microsoft+Azure+Getting+Started
+* Make new storefront deployment  to new or already exist resource group [http://virtocommerce.com/docs/vc2devguide/deployment/storefront-deployment/storefront-microsoft-azure-getting-started](docs/vc2devguide/deployment/storefront-deployment/storefront-microsoft-azure-getting-started)

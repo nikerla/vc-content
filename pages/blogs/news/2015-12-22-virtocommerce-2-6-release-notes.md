@@ -16,14 +16,14 @@ The Storefront application was redesigned and rewritten from scratch. Main point
 
 * Partial payments using multiple payment methods
 * Multi-store support
-* More convenient checkout page (with responsive design, written completely in <a href="https://angularjs.org/">AngularJS</a>)
+* More convenient checkout page (with responsive design, written completely in <a href="https://angularjs.org/" rel="nofollow">AngularJS</a>)
 * Full page caching
-* Liquid templating language and full <a href="https://themes.shopify.com/">Shopify themes</a> support
+* Liquid templating language and full <a href="https://themes.shopify.com/" rel="nofollow">Shopify themes</a> support
 * Razor View Engine support
 
 # Commerce Manager localization
 
-Commerce Platform and all the Commerce modules were fully localized. All the translation resources are public and available in a dedicated git repository. Check the <a href="http://docs.virtocommerce.com/x/UYAKAQ">localization guide</a> for more information on managing the translations and localizing Commerce Manager to new languages. In case of your own module, study the <a href="http://docs.virtocommerce.com/x/YoAKAQ">guide on localization implementation</a>.
+Commerce Platform and all the Commerce modules were fully localized. All the translation resources are public and available in a dedicated git repository. Check the [localization guide](docs/vc2devguide/working-with-platform-manager/localization-implementation) for more information on managing the translations and localizing Commerce Manager to new languages. In case of your own module, study the [guide on localization implementation](docs/vc2devguide/working-with-platform-manager/localization-implementation).
 
 ![](assets/images/blog/2-6_localize.png)
 
@@ -33,7 +33,7 @@ User can change his UI language from user profile (Configuration -&gt; USER PROF
 
 # More functional lists
 
-The lists in Commerce Manager now are much more functional as we’ve adapted <a href="http://ui-grid.info/">ui-grid</a> component for them. The aboriginal static html tables were replaced with a highly customizable lists. Some of the new cool features are:
+The lists in Commerce Manager now are much more functional as we’ve adapted <a href="http://ui-grid.info/" rel="nofollow">ui-grid</a> component for them. The aboriginal static html tables were replaced with a highly customizable lists. Some of the new cool features are:
 
 * column visibility toggling
 * column reordering and resizing
@@ -42,7 +42,7 @@ The lists in Commerce Manager now are much more functional as we’ve adapted <a
 * sorting (even by multiple columns)
 * pagination (on client or server side)
 
-Furthermore, all your customizations are automatically and seamlessly saved in the browser (using <a href="https://en.wikipedia.org/wiki/Web_storage">Web Storage</a>).
+Furthermore, all your customizations are automatically and seamlessly saved in the browser (using <a href="https://en.wikipedia.org/wiki/Web_storage" rel="nofollow">Web Storage</a>).
 
 ![](assets/images/blog/2-6_1uigrid.png)
 
@@ -78,8 +78,8 @@ We have made it easy for you to accept the most popular payment methods in the N
 
 # Integrate using Azure Logic Apps
 
-Create new integrations with VirtoCommerce Azure API App in Microsoft Azure. Check our recent <a href="integrating-virtocommerce-with-erp-and-other-systems-using-azure-api-app">article for more details</a>.
+Create new integrations with VirtoCommerce Azure API App in Microsoft Azure. Check our recent article for more details.
 
 # Integration with Amazon Marketplace
 
-Facilitate and automate the stages of your business process for selling on Amazon.com using our new Amazon Merchant module. Our module relies on <a href="http://www.amazon.com/gp/help/customer/display.html?nodeId=201269090">Amazon Marketplace Web Service</a> and it’s currently available to Professional Selling Plan possessors only.
+Facilitate and automate the stages of your business process for selling on Amazon.com using our new Amazon Merchant module. Our module relies on <a href="http://www.amazon.com/gp/help/customer/display.html?nodeId=201269090" rel="nofollow">Amazon Marketplace Web Service</a> and it’s currently available to Professional Selling Plan possessors only.
