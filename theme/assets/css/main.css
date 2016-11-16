@@ -6618,7 +6618,7 @@ textarea
 
     .control-group .form-text
     {
-        border-width: 1px 0 0;
+        border-width: 1px;
         padding-top: 7px;
         resize: none;
     }
