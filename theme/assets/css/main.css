@@ -3821,8 +3821,6 @@ textarea.__error
     text-overflow: '';
     padding: 10px 40px 10px 10px;
     width: 100%;
-    -webkit-appearance: none;
-    -moz-appearance: none;
 }
 
     .control-group select::-ms-expand
