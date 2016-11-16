@@ -4553,7 +4553,7 @@ textarea:disabled
     .roadmap form,
     .partner form
     {
-        background: #fff;
+        background: #6c6f71;
         padding: 20px 0 20px 20px;
         word-spacing: -6px;
     }
@@ -4566,7 +4566,7 @@ form.fixed
 .roadmap form label,
 .partner form label
 {
-    color:black;
+    color: #fff;
 }
 
 .roadmap .column .control-group,
