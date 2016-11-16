@@ -6612,6 +6612,7 @@ textarea
 
     .control-group .form-input
     {
+        border: 1px solid #ccc;
         height: 42px;
     }
 
