@@ -4553,7 +4553,6 @@ textarea:disabled
     .roadmap form,
     .partner form
     {
-        background: #6c6f71;
         padding: 20px 0 20px 20px;
         word-spacing: -6px;
     }
@@ -4561,12 +4560,6 @@ textarea:disabled
 form.fixed
 {
     word-spacing: 0;
-}
-
-.roadmap form label,
-.partner form label
-{
-    color: #fff;
 }
 
 .roadmap .column .control-group,
@@ -6606,8 +6599,6 @@ textarea
     .control-group .form-input,
     .control-group .form-text
     {
-        border-color: #939597;
-        border-style: solid;
         color: #787878;
         font-size: 18px;
         height: 120px;
@@ -6617,15 +6608,10 @@ textarea
         border-radius: 5px;
         -webkit-box-sizing: border-box;
         box-sizing: border-box;
-        -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .35) inset;
-        box-shadow: 0 1px 2px rgba(0, 0, 0, .35) inset;
     }
 
     .control-group .form-input
     {
-        border-color: #939597;
-        border-style: solid;
-        border-width: 1px 0;
         height: 42px;
     }
 
