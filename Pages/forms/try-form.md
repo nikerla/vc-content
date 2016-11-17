@@ -2,7 +2,11 @@
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Try Now!
 date: 2016-11-14
-permalink: try-now-test
+permalink: try-now
+aliases: 
+- try
+- download
+- evaluation-kit
 ---
 <div class="roadmap __responsive">
 	<h1 class="head-title">Try Virto Commerce</h1>
@@ -12,7 +16,7 @@ permalink: try-now-test
 			<div class="block">
 				<form action="{{ '/contact' | absolute_url }}" method="post">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Try Virto Commerce" />
-					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
+					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/try-now-confirmation" />
 					<div class="column">
 						<div class="control-group">
 							<label for="FullName">First name</label>
@@ -48,7 +52,7 @@ permalink: try-now-test
 						</select>					
 					</div>
 					<div class="control-group">
-						<button type="submit" class="btn __medium __round __yellow __ucase" style="width:100%" tabindex="3">Try Now</button>
+						<button type="submit" class="btn __medium __round __yellow __ucase" style="width:100%" tabindex="3">Start your journey now!</button>
 					</div>
 				</form>
 			</div>
@@ -66,9 +70,10 @@ permalink: try-now-test
 						<ul class="list">
 							<li>View our online demo (both admin and storefront)</li>
 							<li>Explore B2B features (multi site, multi vendor, price lists etc)</li>
-							<li>Exlore CMS capabilities (blogs, themes, pages, menues etc)</li>
-							<li>Exolore highly responsive & modern management tools</li>
-							<li>Create products, categories, place orders</li>
+							<li>Advanced CMS capabilities (blogs, themes, pages, menues etc)</li>
+							<li>Test drive highly responsive & modern management tools</li>
+							<li>Create products, categories, place orders etc</li>
+							<li>Launch complete B2B or B2C solution using Virto Commerce platform</li>
 						</ul>						
 					</li>
 				</ul>
