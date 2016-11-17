@@ -42,8 +42,8 @@ aliases:
 						<input id="Contact[Email]" tabindex="1" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 					</div>					
 					<div class="control-group">
-						<label for="SoftwareType">What describes you best?</label>
-						<select id="Contact[SoftwareType]" name="Contact[SoftwareType]" type="text" class="form-input" tabindex="2">
+						<label for="Message">What describes you best?</label>
+						<select id="Contact[Message]" name="Contact[Message]" type="text" class="form-input" tabindex="2">
 							<option value="" selected>--</option>
 							<option value="I am developer trying Virto Commerce">I am developer trying Virto Commerce</option>
 							<option value="I am non-technical user trying Virto Commerce">I am non-technical user trying Virto Commerce</option>
