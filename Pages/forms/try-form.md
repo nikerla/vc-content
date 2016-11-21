@@ -24,7 +24,7 @@ aliases:
 						</div>
 						<div class="control-group">
 							<label for="CompanyName">Company name</label>
-							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="organization"/>
+							<input id="Contact[CompanyName]" tabindex="3" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="organization"/>
 						</div>						
 					</div>
 					<div class="column">
@@ -39,11 +39,11 @@ aliases:
 					</div>					
 					<div class="control-group">
 						<label for="Email">Your email</label>
-						<input id="Contact[Email]" tabindex="1" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
+						<input id="Contact[Email]" tabindex="5" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 					</div>					
 					<div class="control-group">
 						<label for="Message">What describes you best?</label>
-						<select id="Contact[Message]" name="Contact[Message]" type="text" class="form-input" tabindex="2">
+						<select id="Contact[Message]" name="Contact[Message]" type="text" class="form-input" tabindex="6">
 							<option value="" selected>--</option>
 							<option value="I am developer trying Virto Commerce">I am developer trying Virto Commerce</option>
 							<option value="I am non-technical user trying Virto Commerce">I am non-technical user trying Virto Commerce</option>
@@ -52,7 +52,7 @@ aliases:
 						</select>					
 					</div>
 					<div class="control-group">
-						<button type="submit" class="btn __medium __round __yellow __ucase" style="width:100%" tabindex="3">Start your journey now!</button>
+						<button type="submit" class="btn __medium __round __yellow __ucase" style="width:100%" tabindex="7">Start your journey now!</button>
 					</div>
 				</form>
 			</div>
