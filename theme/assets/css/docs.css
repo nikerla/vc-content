@@ -900,3 +900,8 @@ html.loading {
   0%, 39%, 100% { opacity: 0; }
   40% { opacity: 1; } 
 }
+
+.crosslink {
+  border-bottom: 1px dotted #333;
+  color: #333;
+}

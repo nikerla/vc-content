@@ -7,7 +7,7 @@ priority: 3
 ---
 ## Introduction
 
-Catalog data can be created manually, but when catalogs consist of large amounts of data (specially when importing data from the third-party application), manual data creation is an inappropriate and irrational option. The same when user needs to edit data in bulk. That is why Virto Commerce allows store administrators to import catalog data via special import manager tool from CSV (comma-separated value) files.
+<a class="crosslink" href="https://virtocommerce.com/product-information-management" target="_blank">Catalog data</a> can be created manually, but when catalogs consist of large amounts of data (specially when importing data from the third-party application), manual data creation is an inappropriate and irrational option. The same when user needs to edit data in bulk. That is why Virto Commerce allows store administrators to import catalog data via special import manager tool from CSV (comma-separated value) files.
 
 ## Importing Catalog data
 
