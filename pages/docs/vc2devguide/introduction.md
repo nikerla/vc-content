@@ -7,7 +7,7 @@ priority: 1
 ---
 ## Overview
 
-Virto Commerce 2 is a major release and has been in development for over a year. It consists of [Virto Commerce Platform](docs/vc2devguide/working-with-platform-manager) and Virto Commerce Modules.
+<a class="crosslink" href="https://virtocommerce.com/b2b-ecommerce" target="_blank">Virto Commerce 2</a> is a major release and has been in development for over a year. It consists of [Virto Commerce Platform](docs/vc2devguide/working-with-platform-manager) and Virto Commerce Modules.
 
 ![Virto Commerce 2 Platform Manager](../../assets/images/docs/image02.png "Virto Commerce 2 Platform Manager")
 

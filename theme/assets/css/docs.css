@@ -905,3 +905,6 @@ html.loading {
   border-bottom: 1px dotted #333;
   color: #333;
 }
+.crosslink:hover {
+  color: #333 !important;
+}
