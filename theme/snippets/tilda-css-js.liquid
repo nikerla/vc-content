@@ -1,0 +1,13 @@
+{% assign isAppsStore = false %}
+
+{% if template contains 'collection' %}
+    {% assign isAppsStore = true %}
+{% endif %}
+
+{% if template contains 'product' %}
+    {% assign isAppsStore = true %}
+{% endif %}
+
+{% if template contains 'vendor' %}
+    {% assign isAppsStore = true %}
+{% endif %}
