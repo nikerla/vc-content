@@ -9,7 +9,8 @@ tags :
 ---
 <div class="features">
 	<div class="responsive">
-		<h1 class="head-title">Thank you</h1>
+		<h1 class="head-title">Thank you for requesting a demo</h1>
+		<p class="text">You should receive a confirmation in a few minutes and a reply from us within a day. Feel free to call us at +1 (800) 980-5288 and we will be more than happy to answer your questions or call you back.</p>
 	</div>
 </div>
 {% include 'technologies' %}
