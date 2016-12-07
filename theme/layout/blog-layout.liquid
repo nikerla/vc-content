@@ -119,8 +119,8 @@
                     "height": 800,
                     "width": 800
                 },
-                "datePublished": "{{ article.created_at | date: "%Y-%m-%dT%T" }}",
-                "dateModified": "{{ article.created_at | date: "%Y-%m-%dT%T" }}",
+                "datePublished": "{{ article.created_at | date: "%Y-%m-%d %T" }}",
+                "dateModified": "{{ article.created_at | date: "%Y-%m-%d %T" }}",
                 "author": {
                     "@type": "Person",
                     "name": "{{ article.author }}"
