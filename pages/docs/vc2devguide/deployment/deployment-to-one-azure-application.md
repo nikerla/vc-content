@@ -7,7 +7,7 @@ priority: 1
 ---
 
 ## Step-by-step guide
-* First make storefront  azure deployment  as it described in  [Deploy from GitHub to Microsoft Cloud Azure](docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure) only skip **Content Storage Connection string** step
+* First make storefront  azure deployment  as it described in  [Storefront Microsoft Azure Getting Started](docs/vc2devguide/deployment/storefront-deployment/storefront-microsoft-azure-getting-started) only skip **Content Storage Connection string** step
 * Clone  <a href="https://github.com/VirtoCommerce/vc-platform" target="_blank">Virto Commerce platform from GitHub</a>  to local disk - '**C:\vc-platform**'.
 * Execute '**C:\vc-platform\deploy.cmd**' script and wait until it finished as result should appear folder - '**C:/vc-platform/artifacts/wwwroot**'.
 * Add  '**C:\vc-platform\artifacts\wwwroot\platform**' to zip archive 
