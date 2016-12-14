@@ -14,19 +14,23 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Fall 2016</p>
+				<p class="roadmap-title">Q1 2017</p>
 				<p class="roadmap-descr">Main focus will be on performance and stability. Additional <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations. You can also request and vote on features using our <a href="https://virtocommerce.uservoice.com" rel="nofollow" target="_blank">Feedback forum</a>.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title"><a href="/features/wordpress-woocommerce-migration">WordPress WooCommerce migration</a></span>
-									<span class="descr">Learn how to migrate your WooCommerce store to Virto Commerce.</span>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/572" target="_blank">Recurring billing/subscription module</a></span>
+									<span class="descr">Add support for recurring billing and subscription management.</span>
+								</li>								
+								<li>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/617" rel="nofollow">Migration to .NET Core Framework</a></span>
+									<span class="descr">Migrate core storefront and platform to the latest .NET Core Framework.</span>
 								</li>
 								<li> 
-									<span class="title"><a href="/features/nopcommerce-migration">NopCommerce migration</a></span>
-									<span class="descr">Learn how to migrate your NopCommerce store to Virto Commerce.</span>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/565" rel="nofollow">Webhooks Implementation</a></span>
+									<span class="descr">Create Web Hooks API to allow for easier integration with external systems.</span>
 								</li>
 								<li>
 									<span class="title">Multi Channel</span>
@@ -39,9 +43,9 @@ tags :
 						<div class="block">
 							<ul class="list">
 								<li>
-									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/572" target="_blank">Recurring billing/subscription module</a></span>
-									<span class="descr">Add support for recurring billing and subscription management.</span>
-								</li>							
+									<span class="title">Bulk Order Support</span>
+									<span class="descr">Allow B2B ordering of items in bulk using simple form.</span>
+								</li>					
 								<li>
 									<span class="title">PunchOut Support</span>
 									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP, Unimarket, Oracle, PeopleSoft Punchout, Oracle Punchout, TBlox, Perfect Commerce, etc.</span>
