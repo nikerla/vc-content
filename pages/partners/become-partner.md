@@ -8,7 +8,7 @@ tags :
 - partner
 - commerce
 ---
-<div class="partner __responsive">
+<div class="roadmap __responsive">
 	<h1 class="head-title">Partner Program</h1>
 	<p class="text">We will be glad to have you among our partners. Please fill out the form below. We will be in contact with you shortly.</p>
 	<div class="columns">
@@ -64,6 +64,11 @@ tags :
 						<p class="text">Consulting or developing companies with eCommerce practice background and expertise reviewed by us. Please note that we only accept limited number of serious partners.</p>
 					</li>
 					<li>
+						<span class="title">How to I qualify to become a partner</span>
+						<span class="descr">In order to become a partner you must demonstrate knowledge of Virto Commerce by either implementing solution using Virto Commerce,
+						publishing an extension module, writing an Virto Commerce related article or completing a training course.</span>
+					</li>					
+					<li>
 						<p class="title">What's in it for you?</p>
 						<ul class="list">
 							<li>Access to latest eCommerce Platfrom features</li>
@@ -76,11 +81,6 @@ tags :
 							<li>Joint press releases</li>
 							<li>Success story postings</li>
 						</ul>
-					</li>
-					<li>
-						<span class="title">How to I qualify to become a partner</span>
-						<span class="descr">In order to become a partner you must demonstrate knowledge of Virto Commerce by either implementing solution using Virto Commerce,
-						publishing an extension module, writing an Virto Commerce related article or completing a training course.</span>
 					</li>
 				</ul>
 			</div>
