@@ -23,7 +23,7 @@ priority: 1
 * Go to the storefront app service settings and add new virtual application '**/admin**' with path '**site\wwwroot\platform**'
 ![add admin application](../../../../assets/images/docs/deploy-to-single-app-5.png "add admin application")
 * Add new connection string '**CmsContentConnectionString**' with value '**provider=LocalStorage;rootPath=~/../App_Data/cms-content**' to use shared CMS folder between manager and storefront
-* Add new sql connection string '**VirtoCommerce**'  and value '**Server=tcp:virtocommerce-db.database.windows.net,1433;Initial Catalog=virtocommerce;Persist Security Info=False;User ID=virto;Password={{your password}};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;**' 
+* Add new sql connection string '**VirtoCommerce**'  with value copied from azure SQL server details created in previous step. '**Server=tcp:virtocommerce-db.database.windows.net,1433;Initial Catalog=virtocommerce;Persist Security Info=False;User ID=virto;Password=\{your-password\};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;**'. 
 * Change exist setting '**VirtoCommerceBaseUrl**' to value with your VC admin url '**http://your-storefront-application-url.azurewebsites.net/admin**'
 ![change app settings](../../../../assets/images/docs/deploy-to-single-app-6.png "change app settings")
 
