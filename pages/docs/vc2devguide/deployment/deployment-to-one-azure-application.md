@@ -7,7 +7,7 @@ priority: 1
 ---
 
 ## Step-by-step guide
-1. First create storefront azure deployment as it is described in [Deploy from GitHub to Microsoft Cloud Azure](docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure) with one exception, there is no need to change default value for '**Virto Commerce Manager Url**'. For example default value '**http://localhost/admin**' as in screenshot. We will cahange this setting later. ![Deploy storefront](../../../../assets/images/docs/deploy-to-single-app-1.png "Deploy storefront")
+1. First create storefront azure deployment as it is described in [Deploy from GitHub to Microsoft Cloud Azure](/docs/vc2devguide/deployment/storefront-deployment/storefront-microsoft-azure-getting-started) with one exception, there is no need to change default value for '**Virto Commerce Manager Url**'. For example default value '**http://localhost/admin**' as in screenshot. We will cahange this setting later. ![Deploy storefront](../../../../assets/images/docs/deploy-to-single-app-1.png "Deploy storefront")
 2. Download the latest precompiled release <a href="https://github.com/VirtoCommerce/vc-platform/releases" target="_blank">Virto Commerce platform from GitHub</a> to local disk - '**C:\tmp\VirtoCommerce.Platform.2.12.4.zip**'.
 3. Open *Kudu* management console from previously deployed storefront azure app service <a href="#" target="_blank">https://\{\{your-storefront-application-url\}\}.scm.azurewebsites.net/DebugConsole</a>  
 4. Navigate to the '**D:\home\site\wwwroot**'
