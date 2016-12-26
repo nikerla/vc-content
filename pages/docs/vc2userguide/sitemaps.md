@@ -65,7 +65,7 @@ Each sitemap contains a list of sitemap items of different types:
 
 ## Use cases
 
-* Get a zip-package of sitemaps by clicking "Download sitemaps" button on "Sitemaps" blade and place the contents of it to the root of store website manually.
+* Get a zip-package of sitemaps by clicking "Download sitemaps" button on "Sitemaps" blade and place the contents of it to the store theme asset folder manually.
 * Configure the storefront routes to generate a sitemap files on-the-fly (recommended for small stores, where the number of catalog items/vendors is less than 500).
 * Schedule and configure a recurring job to generate the sitemap files (recommended for big stores since catalog/vendor search is a long-term process and sitemaps generation may require tens of minutes).
 
