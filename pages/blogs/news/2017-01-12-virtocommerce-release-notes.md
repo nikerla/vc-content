@@ -11,7 +11,7 @@ tags: [virtocommerce, announcements, ecommerce, enterprise-ecommerce, features, 
 
 Current release contains a new storefront feature - bulk orders.
 
-Bulk order can be enabled or disabled via theme settings (settings_data.json) - parameter **bulk_order_enabled**. If it has a value **true** storefront main menu items **Bulk order** will appear.
+Bulk order can be enabled or disabled via theme settings (settings_data.json) - parameter **bulk_order_enabled**. If it has a value **true** storefront main menu item **Bulk order** will appear.
 
 ![](assets/images/blog/bulk_order_1.png)
 
