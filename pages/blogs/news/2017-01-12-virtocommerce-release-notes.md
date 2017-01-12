@@ -41,6 +41,9 @@ Make recurring orders easily! If there are only ordinary goods in the customer's
 
 ![Making a recurring order in checkout](assets/images/blog/checkout-recurring1.PNG)
 
+More information and source code is available at <a href="https://github.com/VirtoCommerce/vc-module-subscription" target="_blank">Subscription module home page</a>.
+
+
 ## Personal cabinet
 
 Personal cabinet is a special section at storefront website, dedicated to registered customers. They can browse their orders history, manage personal data, etc. The great news is that the personal cabinet has been rewritten from scratch. Besides a new look and brightened User-eXperience, there goes stunning performance (with partial AngularJS script based page updates):
