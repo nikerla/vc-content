@@ -43,7 +43,7 @@ Make recurring orders easily! If there are only ordinary goods in the customer's
 
 <img alt="Making a recurring order in checkout" src="../../assets/images/blog/checkout-recurring1.PNG" />
 
-More information and source code is available at <a href="https://github.com/VirtoCommerce/vc-module-subscription" target="_blank">Subscription module home page</a>.
+More information and source code is available at <a href="https://github.com/VirtoCommerce/vc-module-subscription" rel="nofollow" target="_blank">Subscription module home page</a>.
 
 ## Personal cabinet
 
