@@ -23,17 +23,17 @@ We're happy to announce the release of Subscriptions module! Easily define payme
 
 Catalog product details and reordering schedule management in Commerce manager:
 
-<img alt="Order recurring schedule in product details view" src="../../assets/images/blog/product-order-schedule.png" />
+<img alt="Order recurring schedule in product details view" src="../../assets/images/blog/product-order-schedule.PNG" />
 
 After customer orders this product, a new subscription is also created. Most parameters of the future order can be changed in subscription management UI:
 
-<img alt="Subscriptions list and details view" src="../../assets/images/blog/subscription-list-details.png" />
+<img alt="Subscriptions list and details view" src="../../assets/images/blog/subscription-list-details.PNG" />
 
 ### Subscriptions in storefront
 
 Product with reordering schedule showcased in storefront:
 
-<img alt="Subscription product in storefront" src="../../assets/images/blog/storefront-product-with-subscription.png" />
+<img alt="Subscription product in storefront" src="../../assets/images/blog/storefront-product-with-subscription.PNG" />
 
 Customer adds such products to cart together with ordinary goods and creates order as usual. The defined schedule makes sure to generate new orders after each period ends.
 
