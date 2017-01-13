@@ -61,6 +61,7 @@ Current release contains a new storefront feature - bulk orders.
 
 Bulk order can be enabled or disabled in theme settings (settings_data.json) - parameter **bulk_order_enabled**. If it has a value **true**, a storefront main menu item **Bulk order** would appear.
 
+<img src="../../assets/images/blog/bulk_order_1.png" />
 ![bulk orders 1](assets/images/blog/bulk_order_1.png)
 
 There are two ways to create a bulk order:
