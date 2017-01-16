@@ -5,6 +5,7 @@ date: 2016-12-26 10:00
 excerpt: We are pleased to announce a new Virto Commerce module for managing sitemap XML files!
 main-image: assets/images/blog/sitemaps-blog-image.png
 permalink: blog/sitemaps-module-release
+title: Sitemaps module release
 tags: [virtocommerce, announcements, ecommerce, enterprise-ecommerce, features, open-source, sitemaps]
 ---
 We are pleased to announce a new Virto Commerce module for managing sitemap XML files!
