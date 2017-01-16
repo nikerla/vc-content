@@ -1,7 +1,7 @@
 ---
 category: release
 date: '2017-01-12'
-permalink: blog/sitemaps-module-release
+permalink: blog/release-notes-2017-01-12
 tags:
   - virtocommerce
   - announcements
