@@ -3,7 +3,6 @@ author: VirtoCommerce
 category: release
 date: 2015-08-19 15:31
 excerpt: In this release we finally implemented long awaited features we always wanted to complete but never had quite enough time to do.
-main-image: assets/images/blog/release-2-4-moss.jpg
 permalink: blog/virtocommerce-2-4-release-notes
 tags: [announcements, azure, ecommerce, enterprise-ecommerce, features, open-source, platform]
 title: "VirtoCommerce 2.4 Release Notes"

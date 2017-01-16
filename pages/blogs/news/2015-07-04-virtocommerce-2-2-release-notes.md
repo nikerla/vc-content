@@ -3,7 +3,6 @@ author: virtoCommerce
 category: release
 date: 2015-07-04 09:00
 excerpt: The 2.2 release is here and it brings many innovative features. The sprint was only 3 weeks but our development team accomplished a lot.
-main-image: assets/images/blog/release-2-2-sunrise.jpg
 permalink: blog/virtocommerce-2-2-release-notes
 tags: [announcements, architecture, aspnet, azure, enterprise-ecommerce, features, microsoft-cloud, open-source, platform]
 title: "VirtoCommerce 2.2 Release Notes"

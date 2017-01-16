@@ -3,7 +3,6 @@ category: virtocommerce-news
 date: '2016-11-07'
 is-trending: true
 layout: blog-layout
-main-image: assets/images/blog/reindex.png
 permalink: blog/search-index-improvements
 tags:
   - announcements

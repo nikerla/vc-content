@@ -3,7 +3,6 @@ author: VirtoCommerce
 category: release
 date: 2015-10-09 07:30
 excerpt: We are pleased to announce the 2.5 release of Virto Commerce. The primary focus of this release was to update B2B ecommerce features and extended security. 
-main-image: assets/images/blog/release-2-5-ladybird.jpg
 permalink: blog/virtocommerce-2-5-release-notes
 tags: [announcements, azure, ecommerce, enterprise-ecommerce, features, open-source, platform]
 title: "VirtoCommerce 2.5 Release Notes"

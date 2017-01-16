@@ -1,7 +1,6 @@
 ---
 category: Release
 date: '2016-09-27'
-main-image: assets/images/blog/meta-form.png
 published: true
 excerpt: We are happy to announce  the new VirtoCommerce 'September 2016' release. The main changes that we implemented were aimed at making VirtoCommerce more extensible and stable.
 tags: [announcements]
