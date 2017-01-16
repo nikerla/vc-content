@@ -17,7 +17,8 @@
             </div>
             <div class="list __items __inline">
                 <ul class="main">
-                   {% for product in collections['featured'].products limit: 5 %}
+                  {% assign featured_products = collections['featured'].products | sort:"createddate:desc" %}
+                   {% for product in featured_products limit: 5 %}
                         {% include 'grid-item' %}
                     {% endfor %}
                 </ul>
@@ -29,7 +30,8 @@
             </div>
             <div class="list __items __inline">
                 <ul class="main">
-                   {% for product in collections['apps'].products limit: 5 %}
+                   {% assign new_extensions = collections['new-extensions'].products | sort:"createddate:desc" %}
+                   {% for product in new_extensions limit: 5 %}
                         {% include 'grid-item' %}
                     {% endfor %}
                 </ul>
