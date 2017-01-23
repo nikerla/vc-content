@@ -7,22 +7,22 @@ priority: 6
 ---
 ## Platform API authentication configuration 
 
-Virto Commerce platform support two authentication types for API calls
+Virto Commerce platform supports 2 types of authentication for API calls:
 
-* Simple - when user id passed in url for  each API request  example: **http://demo.virtocommerce.com/admin/api/catalog/catalogs?api_key=a348fa7508d342f6a32f8bf6c6681a2a%20**
-* HMAC - Hash-based message authentication code (HMAC) is used to to identify a client and ensure the request integrity
+* Simple - when user id passed in url for each API request. Example: **http://demo.virtocommerce.com/admin/api/catalog/catalogs?api_key=a348fa7508d342f6a32f8bf6c6681a2a%20**
+* HMAC - Hash-based message authentication code (HMAC) is used to identify a client and ensure the request integrity.
 
-To allow use platform API you previous should create  user account in manager and generate API key with appropriator type (simple or HMAC) 
+In order to enable using platform API, first of all you should create user account in Commerce Manager and generate API key of appropriate type (simple or HMAC).
 
 ## Create user
 
-You need to create new user through manager. Login to Virto Commerce admin with administrator permissions. Navigate to **Configuration -> Security -> Users**.
+You need to create a new user for impersonating the API requests. Login to Commerce Manager with administrator permissions. Navigate to **Configuration -> Security -> Users**.
 
-Next to unable use platform API need assign to user special role **Use api** with one  permission **security:call_api**. More on permissions read [Working with platform security](docs/vc2devguide/working-with-platform-manager/basic-functions/working-with-platform-security). 
+Create a new account and assign **Use api** role (comprising of single permission **security:call_api**) to it. More details on permissions: [Working with platform security](docs/vc2devguide/working-with-platform-manager/basic-functions/working-with-platform-security). 
 
-![Assigning Use API role](../../../assets/images/docs/image2016-5-31_16-54-3.png "Assigning Use API role")
+![Assigning "Use api" role](../../../assets/images/docs/image2016-5-31_16-54-3.png "Assigning Use API role")
 
-After the permissions has been set click "Create". The new user will be created and user edit blade will open.
+After the permissions has been set, click "Create". The new user will be created and account details blade will open.
 
 ## Generate HMAC API key 
 
@@ -32,21 +32,24 @@ After the permissions has been set click "Create". The new user will be created 
 4. Click **Add** button in the toolbar
 5. Select **Hmac** as Key type
 6. Click **Ok** button in the API key blade
-7. Click **Save** button in the User information blade
+7. Click **Save** button in the User details blade
   ![Generate HMAC API key](../../../assets/images/docs/image2016-5-30_11-0-24.png "Generate HMAC API key")
 
 ## Generate Simple API key 
 
-1. Repeat 1-5 above steps
+1. Repeat 1-5 steps as above
 2. Select **Simple** as Key type
 3. Click **Ok** button in the API key blade
-2. Click **Save** button in the User information blade## Using platform API from managed code
+2. Click **Save** button in the User details blade.
 
-To use API in your managed code need generate client library first. 
+## Using platform API from managed C# code
 
-Next you should install special <a href="https://www.nuget.org/packages/VirtoCommerce.Platform.Data.Security" rel="nofollow">VirtoCommerce.Platform.Client.Security</a> NuGet package which allows to use both (HMAC and SImple) API authentication protocols.
+An API client has to be generated before using API. Refer
+[How to generate module API C# client using AutoRest](docs/vc2devguide/development-scenarios/how-to-generate-module-api-c-sharp-client-using-autorest) for instructions.
 
-## Using API with HMAC authentication
+Next you should install special VirtoCommerce.Platform.Client.Security NuGet package which allows to use both (HMAC and SImple) API authentication protocols.
+
+### Using API with HMAC authentication
 
 ```
 // HMAC credentials
@@ -72,7 +75,7 @@ var catalogClient = new CatalogModuleApi(config);
 var catalogs = catalogClient.CatalogModuleCatalogsGetCatalogs();
 ```
 
-## Using API with Simple authentication
+### Using API with Simple authentication
 
 ```
 // Simple auth key
