@@ -1,10 +1,6 @@
 ﻿---
 aliases:
-  - docs/vc2devguide/development-scenarios/how-to-generate-module-api-c-sharp-client
   - vc2devguide/development-scenarios/how-to-generate-module-api-c-sharp-client
-  - development-scenarios/how-to-generate-module-api-c-sharp-client
-  - how-to-generate-module-api-c-sharp-client
-  - test12
 title: How to generate module API C# client using AutoRest
 description: The article describes how to generate module API C# client using AutoRest
 layout: docs
@@ -17,7 +13,7 @@ This document describes how to setup the environment, build and update an API C#
 
 **The next steps are required only if you're building the API client for the first time.**
 
-* Open the C# project where the API client is needed using Visual Studio;
+* Open the C# project where the API client is needed using Visual Studio.
 * Install AutoRest package using nuget. Note: AutoRest **ver. 0.17.0 or higher** is required, as some critical fixes were applied only on August 18th, 2016. Get a nightly build as described in <a href="https://github.com/Azure/autorest" rel="nofollow">autorest README</a>, if ver. 0.17.0 would be still unreleased on nuget.
 * Restart Visual Studio. (This enables AutoRest environment to be loaded correctly).
 
