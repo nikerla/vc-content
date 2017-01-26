@@ -1,6 +1,6 @@
 ﻿---
 aliases:
-  - vc2devguide/development-scenarios/how-to-generate-module-api-c-sharp-client
+  - docs/vc2devguide/development-scenarios/how-to-generate-module-api-c-sharp-client
 title: How to generate module API C# client using AutoRest
 description: The article describes how to generate module API C# client using AutoRest
 layout: docs
