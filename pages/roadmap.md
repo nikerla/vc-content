@@ -29,8 +29,12 @@ tags :
 									<span class="descr">Create Web Hooks API to allow for easier integration with external systems.</span>
 								</li>
 								<li>
-									<span class="title">Multi Channel</span>
-									<span class="descr">Extensible open source module that provides integration with popular marketplaces. Initial version will include eBay and Amazon.</span>
+									<span class="title">Advanced recommendation engine</span>
+									<span class="descr">Provide product recommendations based on customer behaviour.</span>
+								</li>								
+								<li>
+									<span class="title">Personalized B2B product catalog</span>
+									<span class="descr">Out of the box module that allows creating business rules to customer B2B user experiences based on contract and terms.</span>
 								</li>
 							</ul>
 						</div>
@@ -38,6 +42,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">				
+								<li>
+									<span class="title">Azure Search Support</span>
+									<span class="descr">Provide Microsoft Azure Search provider.</span>
+								</li>							
 								<li>
 									<span class="title">PunchOut Support</span>
 									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP, Unimarket, Oracle, PeopleSoft Punchout, Oracle Punchout, TBlox, Perfect Commerce, etc.</span>
