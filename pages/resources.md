@@ -65,7 +65,8 @@ stories and other virtocommerce related updates.
 									<a href="http://help.virtocommerce.com/support/home" target="_blank" rel="nofollow">Support</a>
 								</span>
 								<span class="descr">There are several support options available from Community to Enterprise level, contact us to get more information. Additionally to our helpdesk portal, we officially support
-									<a href="http://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">virtocommerce on stackoverflow</a>. It is a recommended way to get answers to your technical questions.
+									<a href="http://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">virtocommerce on stackoverflow</a>. It is a recommended way to get answers to your technical questions. You can also talk to our developers in real time:
+									<a href="https://gitter.im/VirtoCommerce/vc-community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://gitter.im/VirtoCommerce/vc-community](https://badges.gitter.im/Join%20Chat.svg"/></a>
 								</span>
 							</li>
 							<li>
