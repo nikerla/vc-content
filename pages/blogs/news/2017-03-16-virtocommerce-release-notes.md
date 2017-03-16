@@ -2,6 +2,7 @@
 category: release
 date: '2017-03-16'
 permalink: blog/release-notes-2017-03-16
+excerpt: We have recently released a new update that includes a number of significant improvements to the platform!
 tags:
   - virtocommerce
   - announcements
