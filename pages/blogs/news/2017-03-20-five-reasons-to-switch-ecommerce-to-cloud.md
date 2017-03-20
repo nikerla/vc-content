@@ -3,6 +3,7 @@ category: virtocommerce-news
 date: '2017-03-20'
 permalink: blog/five-reasons-to-switch-ecommerce-to-cloud
 published: false
+main-image: ../../assets/images/blog/stock-photo-cloud-computing-concept-hand-with-ethernet-cable-connecting-into-cloud-83919073.jpg
 excerpt: Stay ahead of the curve! With lower costs, easy set-up and pretty much unlimited flexibility cloud-based e-commerce solutions are the way of the future! Find out more.
 tags:
   - virtocommerce
@@ -24,7 +25,7 @@ Let’s however look a bit more into details of what’s involved with this revo
 
 ## 1 - Lower cost of set-up and maintenance
 
-<img alt="Lower cost of set-up and maintenance" src="../../assets/images/blog/stock-photo-budget-planning-businessman-working-at-office-desk-and-using-computer-and-objects-coffee-top-view-420383689.jpg" />
+<img alt="Lower cost of set-up and maintenance" src="../../assets/images/blog/shutterstock_420383689.jpg" />
 
 As a business owner, one of your primary concerns is always about how much it’s going cost you. Obviously. So, let’s take a look into it for a moment.
 
@@ -42,7 +43,7 @@ If you are a small business, you may even qualify for free service with certain 
 
 ## 2 - Less hassle for you and your IT staff
 
-<img alt="Less hassle for you and your IT staff" src="../../assets/images/blog/stock-photo-coffee-break-411450706.jpg" />
+<img alt="Less hassle for you and your IT staff" src="../../assets/images/blog/shutterstock_411450706.jpg" />
 
 Our cloud e-commerce solution is known for being very developer-friendly. Everything is configured to make you IT team’s experience working with it as easy and enjoyable as possible.
 
@@ -52,7 +53,7 @@ We will happily assist with helping your developers get familiar with all the ch
 
 ## 3 - Always up-to-date
 
-<img alt="Always up-to-date" src="../../assets/images/blog/stock-photo-cloud-update-273951278.jpg" />
+<img alt="Always up-to-date" src="../../assets/images/blog/shutterstock_273951278.jpg" />
 
 The on-premise solutions tend to work well once you set them up and fully customize them to your needs… And then the provider releases an update. 
 
@@ -64,7 +65,7 @@ Cloud e-commerce providers make sure your previously implemented customizations 
 
 ## 4 - Better organization and tracking
 
-<img alt="Better organization and tracking" src="../../assets/images/blog/stock-photo-business-plan-brainstorming-meeting-team-meeting-project-managers-researching-process-business-team-524574916.jpg" />
+<img alt="Better organization and tracking" src="../../assets/images/blog/shutterstock_524574916.jpg" />
 
 This one is a no-brainer. Having all your data stored in one place with an easy on-line access is going to help your business function in the most efficient way possible by reducing possibility of errors and helping your supply chain run smoothly. 
 
@@ -74,7 +75,7 @@ It means better organization and tracking of orders and stock items across multi
 
 ## 5 - More flexibility
 
-<img alt="More flexibility" src="../../assets/images/blog/stock-photo-hand-aranging-wood-block-stacking-as-step-stair-business-concept-for-growth-success-process-374105650.jpg" />
+<img alt="More flexibility" src="../../assets/images/blog/shutterstock_374105650.jpg" />
 
 Your business is constantly evolving, and it is absolutely essential to have an e-commerce solution that will be able to grow and evolve along with it. Who wants to be stuck in the same place?
 
