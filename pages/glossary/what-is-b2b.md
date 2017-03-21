@@ -1,6 +1,6 @@
 --- 
-title: What does B-to-B Business mean. What is it focused on. What is B2B for companies, ecommerce and software. What are the requirements.
-description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need. 
+title: What is B2B (business 2 business). Defitiniton&Information.
+description:  What does B-to-B Business mean. What is it focused on. What is B2B for companies, ecommerce and software. What are the requirements.
 date: 2017-03-13 
 canonical: https://virtocommerce.com/glossary/what-is-b2b 
 permalink: glossary/what-is-b2b
@@ -19,9 +19,9 @@ tags :
     {% include 'glossary-left-menu' %}    
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">What is B2B (business 2 business). Defitiniton&Information.</h1>
+            <h1 class="title">What is B2B</h1>
         </div>
-        <img alt='What is B2B. What is b2b e commerce' src="assets/images/what-is-b2b-ecommerce.jpg"></img>
+        <img alt='What is B2B. What is B2B e commerce' src="assets/images/what-is-b2b-ecommerce.jpg"></img>
         <h1> What is b2b </h1>
         <p class="text">
           In order to understand what is b2b in reality, imagine the complex network of cross-companies transactions and supply chain that stay behind the range of goods in a supermarket. Every purchase is supported by B2B sales.

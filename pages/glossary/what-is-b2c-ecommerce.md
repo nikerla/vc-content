@@ -1,6 +1,6 @@
 --- 
-title: What does B2C mean. Business to consumer E-commerce. B2C ecommerce platforms and software 
-description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need. 
+title: What is B2C (business 2 consumer). Definition&Information. 
+description: What does B2C mean. Business to consumer E-commerce. B2C ecommerce plat-forms and software 
 date: 2017-03-13 
 canonical: https://virtocommerce.com/glossary/what-is-b2c-ecommerce 
 permalink: glossary/what-is-b2c-ecommerce
@@ -19,9 +19,9 @@ tags :
     {% include 'glossary-left-menu' %}    
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">What is B2C (business 2 consumer). Definition&Information.</h1>
+            <h1 class="title">What is B2C e-commerce</h1>
         </div>
-        <img alt='What is B2C. What is b2c e commerce' src="assets/images/what-is-b2c-ecommerce.jpg"></img>
+        <img alt='What is B2C. What is B2C e commerce' src="assets/images/what-is-b2c-ecommerce.jpg"></img>
         <h1> What is b2c e-commerce </h1>
         <p class="text">
             B2C, the acronym of “business-to-consumer”, is a business model based on transactions between a company, that sells products
