@@ -14,8 +14,8 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Q2 2017</p>
-				<p class="roadmap-descr">Main focus will be on performance and stability. Additional <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations. You can also request and vote on features using our <a href="https://virtocommerce.uservoice.com" rel="nofollow" target="_blank">Feedback forum</a>.</p>
+				<p class="roadmap-title">2017</p>
+				<p class="roadmap-descr">Our roadmap is defined on Virto Commerce GitHub page <a href="https://github.com/VirtoCommerce/vc-platform/milestone/25" rel="nofollow" target="_blank">GitHub page</a>. You can submit your suggestions or discuss specific features there. Below are just some highlights of what has been done and what is planned.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
