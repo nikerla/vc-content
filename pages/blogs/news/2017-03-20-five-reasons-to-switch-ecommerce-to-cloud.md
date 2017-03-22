@@ -23,9 +23,9 @@ That in short is what makes cloud solutions the way of the future, and why many 
 Let’s however look a bit more into details of what’s involved with this revolutionary system.  Here are 5 factors a business owner would need to consider about moving the company’s e-commerce from an on-premise solution to the cloud.
 
 ## 1 - Lower cost of set-up and maintenance
-
+<a href="https://virtocommerce.com">
 <img alt="Lower cost of set-up and maintenance" src="../../assets/images/blog/shutterstock_420383689.jpg" />
-
+</a>
 As a business owner, one of your primary concerns is always about how much it’s going cost you. Obviously. So, let’s take a look into it for a moment.
 
 Cloud e-commerce software is provided as a service (that’s why we use the term software-as-a-service, or SaaS). That means you save right at the start. Migrating your business to a new system is always a big move that usually also means big investments. Not this time however! 
@@ -38,7 +38,7 @@ With the cloud solution it’s the vendor (and not you and your IT department) w
 
 For you as a business owner this means that the initial costs as well as maintenance costs are typically going to be much lower because you simply implement the software and adjust it to meet your requirements – that’s it. Everything is accessible online through a web browser interface. Payment is a pay-as-you-go system or a predictable, yearly subscription/sales percentage model. So, again, little to no investment upfront, making it a safe choice.
 
-If you are a small business, you may even qualify for free service with certain providers. Virtoway for example, lets you get a fully featured enterprise class product completely free with a revenue restriction. That way you can start easy and upgrade your e-commerce platform once your business becomes a success.
+If you are a small business, you may even qualify for free service with certain providers. <a class="crosslink" href="https://virtocommerce.com" target="_blank">Virtoway</a> for example, lets you get a fully featured enterprise class product completely free with a revenue restriction. That way you can start easy and upgrade your e-commerce platform once your business becomes a success.
 
 ## 2 - Less hassle for you and your IT staff
 
