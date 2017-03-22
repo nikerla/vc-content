@@ -6,7 +6,7 @@ permalink: support
 ---
 <div class="try-now download responsive">
     <h1 class="head-title">Support Options</h1>
-    <p class="text">We provide several support options, please choose one below.</p>
+    <p class="text">We provide several support options, please choose one below. If you an enterprise license client, please contact your account manager for support.</p>
     <div class="columns clearfix">
         <div class="column">
             <div class="block">
