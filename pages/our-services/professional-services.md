@@ -18,7 +18,7 @@ permalink: our-services/professional-services
                 </li>
                 <li class="list-item">
                     <img alt="Virto Commerce master and virtual catalogs" src="../assets/images/features/catalog.png">
-                    <p class="title">TECHNICAL CONSULTING</p>
+                    <p class="title">Technical Consulting</p>
                     <p>We can provide expert advice, with or without development assistance, to build the solution you need according to Virto Commerce’s coding standards and best-practices. Our experts can review your code and provide you with recommendations to improve operational stability, security, and possible future upgrade issues.
                     <br>
                     Through our on-site benchmarking and performance tuning service, we can also help your organization pinpoint and fix performance bottlenecks so you can maximize the responsiveness of various aspects within the system.
