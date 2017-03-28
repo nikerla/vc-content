@@ -3,7 +3,7 @@ title: Extending Members domain types
 description: The developer guide to extending Members domain types
 layout: docs
 date: 2016-09-06T13:20:44.570Z
-priority: 5
+priority: 6
 ---
 ## Introduction
 

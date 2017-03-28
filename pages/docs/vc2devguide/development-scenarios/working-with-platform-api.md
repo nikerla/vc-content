@@ -59,20 +59,17 @@ var apiAppId = "your API id";
 // that is the Secret key generated while creating HMAC key for the user.
 var apiSecretKey = "your API secret key";
 
-// Create HMAC headers handler which will add to each request special auth headers
-var hmacHandler = new HmacRestRequestHandler(apiAppId, apiSecretKey);
+// Create handler which will add HMAC authorization to each request
+var requestHandler = new VirtoCommerceApiRequestHandler(new HmacCredentials(apiAppId, apiSecretKey), new WorkContext())
 
 // Create rest client
-var apiClient = new ApiClient("platform API url", new VirtoCommerce.Client.Client.Configuration(), hmacHandler.PrepareRequest);
-
-// Create configuration variable to be used by all api modules
-var config = new VirtoCommerce.Client.Client.Configuration(apiClient);
-
-//create catalog client to call catalog api methods
-var catalogClient = new CatalogModuleApi(config);
+var catalogClient = new CatalogModuleApiClient("platform API url", requestHandler, new System.Net.Http.HttpClientHandler
+            {
+                AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Deflate
+            });
 
 //get all catalogs
-var catalogs = catalogClient.CatalogModuleCatalogsGetCatalogs();
+var catalogs = catalogClient.CatalogModuleCatalogs.GetCatalogs();
 ```
 
 ### Using API with Simple authentication
@@ -82,20 +79,17 @@ var catalogs = catalogClient.CatalogModuleCatalogsGetCatalogs();
 // that is the authentication key generated for user
 var apiKey = "your API key";
 
-// Create simple headers handler which will add to each request query string ?api_key parameter
-var simpleHandler = new SimpleKeyRestRequestHandler(apiKey);
+// Create simple headers handler which will add query string ?api_key parameter to each request
+var requestHandler = new SimpleKeyRestRequestHandler(apiKey);
 
-// Create rest client 
-var apiClient = new ApiClient("platform API url", new VirtoCommerce.Client.Client.Configuration(), simpleHandler.PrepareRequest);
-
-// Create configuration variable to be used by all api modules
-var config = new VirtoCommerce.Client.Client.Configuration(apiClient);
-
-//create catalog client to call catalog api methods
-var catalogClient = new CatalogModuleApi(config);
+// Create rest client
+var catalogClient = new CatalogModuleApiClient("platform API url", requestHandler, new System.Net.Http.HttpClientHandler
+            {
+                AutomaticDecompression = DecompressionMethods.GZip | DecompressionMethods.Deflate
+            });
 
 //get all catalogs
-var catalogs = catalogClient.CatalogModuleCatalogsGetCatalogs();
+var catalogs = catalogClient.CatalogModuleCatalogs.GetCatalogs();
 ```
 
 

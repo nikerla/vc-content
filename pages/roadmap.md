@@ -14,16 +14,12 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">Q1 2017</p>
-				<p class="roadmap-descr">Main focus will be on performance and stability. Additional <a href="/b2b-ecommerce">B2B</a> functionality, improvements to frontend, more sample stores and integrations. You can also request and vote on features using our <a href="https://virtocommerce.uservoice.com" rel="nofollow" target="_blank">Feedback forum</a>.</p>
+				<p class="roadmap-title">2017</p>
+				<p class="roadmap-descr">Our roadmap is defined on Virto Commerce GitHub page <a href="https://github.com/VirtoCommerce/vc-platform/milestone/25" rel="nofollow" target="_blank">GitHub page</a>. You can submit your suggestions or discuss specific features there. Below are just some highlights of what has been done and what is planned.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
-							<ul class="list">
-								<li>
-									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/572" target="_blank">Recurring billing/subscription module</a></span>
-									<span class="descr">Add support for recurring billing and subscription management.</span>
-								</li>								
+							<ul class="list">						
 								<li>
 									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/617" rel="nofollow">Migration to .NET Core Framework</a></span>
 									<span class="descr">Migrate core storefront and platform to the latest .NET Core Framework.</span>
@@ -33,19 +29,23 @@ tags :
 									<span class="descr">Create Web Hooks API to allow for easier integration with external systems.</span>
 								</li>
 								<li>
-									<span class="title">Multi Channel</span>
-									<span class="descr">Extensible open source module that provides integration with popular marketplaces. Initial version will include eBay and Amazon.</span>
+									<span class="title">Advanced recommendation engine</span>
+									<span class="descr">Provide product recommendations based on customer behaviour.</span>
+								</li>								
+								<li>
+									<span class="title">Personalized B2B product catalog</span>
+									<span class="descr">Out of the box module that allows creating business rules to customer B2B user experiences based on contract and terms.</span>
 								</li>
 							</ul>
 						</div>
 					</div>
 					<div class="column">
 						<div class="block">
-							<ul class="list">
+							<ul class="list">				
 								<li>
-									<span class="title">Bulk Order Support</span>
-									<span class="descr">Allow B2B ordering of items in bulk using simple form.</span>
-								</li>					
+									<span class="title">Azure Search Support</span>
+									<span class="descr">Provide Microsoft Azure Search provider.</span>
+								</li>							
 								<li>
 									<span class="title">PunchOut Support</span>
 									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP, Unimarket, Oracle, PeopleSoft Punchout, Oracle Punchout, TBlox, Perfect Commerce, etc.</span>
@@ -71,6 +71,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/572" target="_blank">Recurring billing/subscription module</a></span>
+									<span class="descr">Add support for recurring billing and subscription management.</span>
+								</li>								
 								<li>
 									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart" target="_blank">Javascript Shopping Cart Module</a></span>
 									<span class="descr">Integrate e-commerce functionality into any CMS/html site.</span>
@@ -105,6 +109,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title">Bulk Order Support</span>
+									<span class="descr">Allow B2B ordering of items in bulk using simple form.</span>
+								</li>							
 								<li>
 									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
 									<span class="descr">Extension for open source Umbraco CMS product.</span>
