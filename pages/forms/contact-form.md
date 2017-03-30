@@ -5,9 +5,9 @@ date: 2015-06-09
 permalink: contact-us
 aliases: 
 - pricing
-- support
 - understandingsupport
 - startups
+- request-license
 tags : 
 - commerce
 ---
