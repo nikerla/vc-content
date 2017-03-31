@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
     <meta name="viewport" content="width=device-width" />
     <meta name="apple-touch-fullscreen" content="yes" />
-    
+
     {% assign blog.title = 'Virto Commerce Blog' %}
 
     {% if blog_search.category %}
@@ -88,6 +88,7 @@
     {{ 'main.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
 
+    {% include 'google-tag-manager-head' %}
     {{ content_for_header }}
 
     <base href="{{ '/' | absolute_url }}" />
@@ -144,6 +145,7 @@
     </script>
 </head>
 <body>
+    {% include 'google-tag-manager-body' %}
     {% assign menu = linklists.main-menu %}
     <div id="layout">
         <div class="layout-canvas">
