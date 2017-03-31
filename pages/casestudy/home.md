@@ -15,7 +15,7 @@ permalink: case-studies
                     </div>
                     <div class="list-t">HR</div>
                     <div class="list-text">Objective: Platform</div>
-                    <div class="list-descr">Create a simply system for clients to directly search for available and compatible resources, thereby facilitating the trading process between clients and consultants.</div>
+                    <div class="list-descr">Create a simple system for clients to directly search for available and compatible resources, thereby facilitating the trading process between clients and consultants.</div>
                     <div class="list-btn">
                         <a class="button fill" href="../assets/files/niteco-cifereca-case-study.pdf" target="_blank">Read case study</a>
                     </div>
