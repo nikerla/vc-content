@@ -227,7 +227,7 @@ permalink: customers
             <li class="list-item">
                 <a class="list-link" href="https://www.graphicproducts.com" target="_blank" rel="nofollow">
                     <figure class="list-img">
-                        <img src="/images/casestudies/graphic-products.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/graphic-products.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
                         <div class="name">graphicproducts.com</div>
