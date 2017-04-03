@@ -127,13 +127,16 @@
                         <span></span>
                     </a>
 
-                    {% include 'main-menu' %}
+                    
                     {% if isAppsStore == false %}
+                        {% include 'main-menu-static' %}
                     {% comment %}
                     <div class="head-phone">
                         <div class="head-phone_num">+1 (800) 980-5288</div>
                     </div>
                     {% endcomment %}
+                    {% else %}
+                        {% include 'main-menu' %}
                     {% endif %}
                     {% if isAppsStore == true %}
                     <div class="head-search">

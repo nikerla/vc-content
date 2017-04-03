@@ -50,9 +50,11 @@ tags :
 					</div>
 					<div class="control-group">
 						<label for="SoftwareType">Which Virto product are you considering?</label>
-						<label><input id="Contact[SoftwareType][CloudHosting]" tabindex="7" name="Contact[SoftwareType]" type="radio" value="Cloud Hosting" /> Cloud Hosting (we manage and deploy)</label>
-						<label><input id="Contact[SoftwareType][SelfHosted]" name="Contact[SoftwareType]" type="radio" value="Self Hosted" /> Self Hosted</label>
-						<label><input id="Contact[SoftwareType][Community]" name="Contact[SoftwareType]" type="radio" value="Community" /> Community</label>
+						<label><input id="Contact[SoftwareType][Enterprise]" tabindex="7" name="Contact[SoftwareType]" type="radio" value="Enterprise Edition" /> Enterprise Edition</label>
+						<label><input id="Contact[SoftwareType][Cloud]" name="Contact[SoftwareType]" type="radio" value="Cloud Edition" /> Cloud Edition</label>
+						<label><input id="Contact[SoftwareType][Community]" name="Contact[SoftwareType]" type="radio" value="Community" /> Community Edition</label>
+						<label><input id="Contact[SoftwareType][Training]" name="Contact[SoftwareType]" type="radio" value="Training" /> Training Services</label>
+						<label><input id="Contact[SoftwareType][Consulting]" name="Contact[SoftwareType]" type="radio" value="Consulting" /> Consulting Services</label>
 						<label><input id="Contact[SoftwareType][NotSure]" name="Contact[SoftwareType]" type="radio" value="Not Sure" /> I'm not sure yet</label>
 					</div>
 					<div class="control-group">
@@ -94,8 +96,8 @@ tags :
 						its as simple as that! Or if you prefer, you can also email us at <a href="mailto:sales@virtocommerce.com">sales@virtocommerce.com</a> and we'll be right on it.</span>
 					</li>
 					<li>
-						<span class="title">What is Cloud Hosting Services?</span>
-						<span class="descr">Cloud hosting is a unique service we offer that allow our customers to focus on developing business features while our experienced engineers handle code and architecture validation, product code merges  in your source repository, deployments to production and much more.</span>
+						<span class="title">What is Cloud Edition?</span>
+						<span class="descr">Cloud edition is a unique service we offer that allow our customers to focus on developing business features while our experienced engineers handle code and architecture validation, product code merges in your source repository, deployments to production and much more.</span>
 					</li>
 					<li>
 						<span class="title">Can I use Community Edition?</span>

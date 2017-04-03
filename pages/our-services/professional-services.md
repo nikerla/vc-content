@@ -11,13 +11,13 @@ permalink: our-services/professional-services
         <div class="advantages">
             <ul class="list">
                 <li class="list-item">
-                    <img alt="Architecture" src="../assets/images/features/architecture-circle.png" style="border: 0px">
+                    <img alt="Analyst" src="../assets/images/consulting/analyst.png">
                     <p class="title">Business Analyst Consulting</p>
                     <p>Defining overall information architecture, data structures, and taxonomies can be complex and time-consuming. Our business analysts are seasoned experts who can help you identify gaps and risks in your project strategy while providing methodology and support during discovery workshops.
                     </p>
                 </li>
                 <li class="list-item">
-                    <img alt="Virto Commerce master and virtual catalogs" src="../assets/images/features/catalog.png">
+                    <img alt="Code" src="../assets/images/consulting/code.png">
                     <p class="title">Technical Consulting</p>
                     <p>We can provide expert advice, with or without development assistance, to build the solution you need according to Virto Commerce’s coding standards and best-practices. Our experts can review your code and provide you with recommendations to improve operational stability, security, and possible future upgrade issues.
                     <br>
@@ -25,7 +25,7 @@ permalink: our-services/professional-services
                     </p>
                 </li>
                 <li class="list-item">
-                    <img alt="Merchandising" src="https://virtocommerce.com/admin/assets/site/features/catalog-associations.gif">
+                    <img alt="Catalog" src="../assets/images/features/catalog.png">
                     <p class="title">Audit</p>
                     <p>
 We regularly perform functional and technical audits to ensure that our platform is being optimely utilized.
@@ -40,7 +40,7 @@ Once our audits are completed, we provide our customers with a detailed guide on
     </div>
     <!-- Prices -->
     <div class="try-it">
-        <span class="try-it-text">Want to learn more about Virto Commerce?</span> <a class="button fill" href="/contact-us">Request more info & pricing</a>
+        <span class="try-it-text">Want to learn more about our services?</span> <a class="button fill" href="/contact-us">Request more info</a>
     </div>
     {% include 'technologies' %}
 </article>
