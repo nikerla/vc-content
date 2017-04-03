@@ -1,16 +1,16 @@
 ---
 category: virtocommerce-news
 date: '2017-03-20'
-permalink: blog/five-reasons-to-switch-ecommerce-to-cloud
+is-sticked: true
 main-image: ../../assets/images/blog/shutterstock_83919073.jpg
-excerpt: Stay ahead of the curve! With lower costs, easy set-up and pretty much unlimited flexibility cloud-based e-commerce solutions are the way of the future! Find out more.
+permalink: blog/five-reasons-to-switch-ecommerce-to-cloud
 tags:
   - virtocommerce
   - ecommerce
   - enterprise-ecommerce
   - features
   - open-source
-title: 5 reasons to switch your e-commerce to the cloud
+title: '5 reasons to switch your e-commerce to the cloud'
 
 ---
 ### 5 reasons to switch your e-commerce to the cloud

@@ -10,7 +10,7 @@
         {% endif %}
         {% include 'blog-list-item', article: sticked_article, style: "double" %}
 
-        {% assign articles = blog.articles %}
+        {% assign articles = blog.articles | where: 'IsSticked', '!=', 'true' %}
         {% if blog_search.category != nil %}
             {% assign articles = articles | where: 'Category', '==', blog_search.category %}
         {% elseif blog_search.tag != nil %}
