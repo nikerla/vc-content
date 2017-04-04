@@ -1125,6 +1125,19 @@
         width: 100%;
     }
 
+    /* Training */
+    .training-inner
+    {
+        margin: 0;
+    }
+
+    .training-body .col
+    {
+        margin: 0 0 25px;
+        padding: 0;
+        width: 100%;
+    }
+
     /* Footer */
     .footer-wrap
     {
@@ -1258,6 +1271,12 @@
         {
             margin: 0;
         }
+
+    /* Customers */
+    .customers .list-item
+    {
+        width: 50%;
+    }
 }
 
 @media (max-width: 767px)
@@ -2325,6 +2344,21 @@
         width: 210px;
     }
 
+    /* Training */
+    .training-reviews .reviews-inner
+    {
+        max-width: 80%;
+        
+        -webkit-flex-direction: column;
+                flex-direction: column;
+    }
+
+    /* Customers */
+    .customers .list-item
+    {
+        width: 50%;
+    }
+
     /* Footer */
     .footer-wrap
     {
@@ -2553,6 +2587,18 @@
     .blog .post-descr p
     {
         font-size: 14px;
+    }
+
+    /* Customers */
+    .customers .list
+    {
+        max-width: 400px;
+        margin: auto;
+    }
+
+    .customers .list-item
+    {
+        width: 100%;
     }
 }
 
