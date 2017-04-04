@@ -1,8 +1,17 @@
 <div class="trending __responsive">
     <div class="trending-t">Trending articles</div>
     <div class="trending-list">
-        {% for article in trending_articles limit: 3 %}
+        {% if settings.blog_trending_article_url_1 %}
+            {% assign article = blog.articles | where: 'Url', '==', settings.blog_trending_article_url_1 | first %}
             {% include 'blog-list-item', article: article, style: "single" %}
-        {% endfor %}
+        {% endif %}
+        {% if settings.blog_trending_article_url_2 %}
+            {% assign article = blog.articles | where: 'Url', '==', settings.blog_trending_article_url_2 | first %}
+            {% include 'blog-list-item', article: article, style: "single" %}
+        {% endif %}
+        {% if settings.blog_trending_article_url_3 %}
+            {% assign article = blog.articles | where: 'Url', '==', settings.blog_trending_article_url_3 | first %}
+            {% include 'blog-list-item', article: article, style: "single" %}
+        {% endif %}
     </div>
 </div>

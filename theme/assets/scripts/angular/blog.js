@@ -19,12 +19,12 @@ storefrontApp.controller('blogController', ['$scope', '$window', 'blogService', 
     $scope.articles = [];
     
     $scope.getArticles = function (pageNumber) {
-        $scope.isLoading = true;
         var blogSearchCriteria = {
             category: $window.currentBlogCategory,
             tag: $window.currentBlogTag,
             pageNumber: pageNumber,
             pageSize: $window.pageSize,
+            excludedArticleHandles: $window.excludedArticleHandles
         };
         blogService.getArticles($window.blogName, blogSearchCriteria).then(function (response) {
             _.each(response.data, function (article) {
