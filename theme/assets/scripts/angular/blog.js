@@ -26,6 +26,7 @@ storefrontApp.controller('blogController', ['$scope', '$window', 'blogService', 
             pageSize: $window.pageSize,
             excludedArticleHandles: $window.excludedArticleHandles
         };
+        $scope.isLoading = true;
         blogService.getArticles($window.blogName, blogSearchCriteria).then(function (response) {
             _.each(response.data, function (article) {
                 article.imageUrl = BASE_URL + (article.imageUrl || 'themes/assets/blue-abstract-background.jpg');
@@ -36,7 +37,7 @@ storefrontApp.controller('blogController', ['$scope', '$window', 'blogService', 
                 $scope.isLastPage = true;
             }
             $scope.pageNumber++;
-            $scope.isLoading = false; 
+            $scope.isLoading = false;
         });
     }
 }]);
