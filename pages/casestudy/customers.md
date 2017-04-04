@@ -1,6 +1,6 @@
 ---
-title: Case Studies - Virto commerce
-description: Case Studies - Virto commerce
+title: Customers - Virto commerce
+description: Customers - Virto commerce
 date: 2014-01-30
 permalink: customers
 ---
