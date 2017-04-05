@@ -45,6 +45,9 @@ tags :
                             <li>Multiple store catalogs</li>
                             <li>Physical products</li>
                             <li>Digital products</li>
+                            <li>Personalized B2B catalogs</li>
+                            <li>Extrenal linked catalogs</li>
+                            <li>No-database catalogs</li>
                         </ul>
                 </li>
                 <li class="list-item">
@@ -58,6 +61,7 @@ tags :
                         <li>Up-sell products</li>
                         <li>Replacement and accessories</li>
                         <li>Recently viewed products</li>
+                        <li>Machine learning based recommendations</li>
                     </ul>
                 </li>
                 <li class="list-item">
@@ -94,6 +98,7 @@ tags :
                         <li>Split payments</li>
                         <li>Punchout support</li>
                         <li>Quotes & Purchase Orders</li>
+                        <li>Subscription management</li>
                     </ul>
                 </li>
                 <li class="list-item">
@@ -186,6 +191,7 @@ tags :
                             <li>Accessories</li>
                             <li>Featured products</li>
                             <li>Recently viewed products</li>
+                            <li>Machine learning based recommendations</li>
                         </ul>
                     </div>
                 </div>
@@ -214,6 +220,7 @@ tags :
                             <li>Split order shipments</li>
                             <li>Purchase orders</li>
                             <li>Punchout</li>
+                            <li>Subscriptions</li>
                             <li>Refunds</li>
                             <li>Returns</li>
                             <li>Exchanges</li>
@@ -264,7 +271,11 @@ tags :
                             <li>Profile attributes</li>
                             <li>Address book</li>
                             <li>Payment methods</li>
+                            <li>Subscriptions</li>
                             <li>Passwords</li>
+                            <li>Orders</li>                            
+                            <li>Invoice PDF</li>      
+                            <li>Quotes</li>                            
                             <li>Segmentation</li>
                             <li>Login on behalf</li>
                             <li>Customer self-management</li>
