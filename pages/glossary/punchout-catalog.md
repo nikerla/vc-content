@@ -33,10 +33,9 @@ tags :
 		<p class="text">A seller's itemized listing of products for sale.</p>
 		<h2 class="sub-title">Why is it valuable?</h2>
 		<p class="text">A PunchOut Website eliminates the Buying organization's need to import supplier catalogs directly into their procurement system thereby saving time and expense.</p>
-		<div class="buttons columns">
-			<div class="column">
-				<a class="button fill" href="/try-now">Try It Now</a>
-			</div>
+		<div class="buttons">
+			<a class="button fill" href="/try-now">Try It Now</a>
+			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
 	</div>
 </div>

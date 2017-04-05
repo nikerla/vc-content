@@ -27,10 +27,9 @@ tags :
 		<p class="text">Refers to a processes or methodology introduced to convert an abandoned cart into a consummated sale. A number of methodologies such as co-browsing to first party cookie management have been developed to assist companies in effectuating abandoned cart recovery thereby improving their cart abandonment rate.</p>
 		<h2 class="sub-title">Abandoned Shopping Cart Email?</h2>
 		<p class="text">Abandoned shopping cart services help the e-commerce company identify browsing customers thereby affording them the ability to follow up with these shoppers via an abandoned shopping cart email designed to bring the shopper back to the site and win their business.</p>
-		<div class="buttons columns">
-			<div class="column">
-				<a class="button fill" href="/try-now">Try It Now</a>
-			</div>
+		<div class="buttons">
+			<a class="button fill" href="/try-now">Try It Now</a>
+			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
 	</div>
 </div>

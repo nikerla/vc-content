@@ -50,10 +50,10 @@
     "main_page": {
         "about": {
             "link_text": "Learn more about Virto Commerce",
-            "description": "Virto Commerce was founded by a team that previously developed Mediachase eCommerce Framework, successfully used by thousands of merchants around the world. Since 2011 our team of architects and engineers has been developing Virto Commerce to be a new generation of .NET ecommerce platforms, and in June 2013 Virto Commerce v1.0 has been released. We are company with a mission to make e-Commerce development simple and exciting. Our main focus is professional developers and organizations looking for a framework that will help them deliver \"more than expected\" to their customers in less time. Our goal is to deliver software product that we can be proud of. We are a global company with offices and local experience in USA, European and Asian markets."
+            "description": "Virto Commerce was founded by a team that previously developed Mediachase eCommerce Framework, successfully used by thousands of merchants around the world. Since 2011 our team of architects and engineers has been developing Virto Commerce to be a new generation of enterprise .NET ecommerce platforms, and in June 2013 Virto Commerce v1.0 has been released. We are company with a mission to make e-Commerce development simple and exciting. Our main focus is professional developers and organizations looking for a framework that will help them deliver \"more than expected\" to their customers in less time. Our goal is to deliver software product that we can be proud of. We are a global company with offices and local experience in USA, European and Asian markets."
         },
         "presentation": {
-            "title": ".NET Ecommerce Platform<span></span>for B2B & B2C solutions",
+            "title": "Enterprise .NET Ecommerce<br />Platformfor B2B & B2C<br />solutions",
             "subtitle": "Enterprise ecommerce .NET developers deserve<span></span>Get started for free"
         },
         "customers": {
@@ -79,7 +79,7 @@
             }
         },
         "developers": {
-            "title": "Designed for Developers",
+            "title": "Microsoft eCommerce Designed for Developers",
             "subtitle": {
                 "app_store": "AppStore",
                 "modular": "Modular Architecture",

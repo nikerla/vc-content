@@ -31,10 +31,9 @@ tags :
 		<p class="text">An  ecommerce website that permits a buyer to purchase from a supplier's website from within the Buyer's own procurement application. The PunchOut Website has the ability to communicate directly with a buying organization's procurement system through  cXML. cXML allows programs to modify and validate documents without prior knowledge of their form. The Buying organization exit's or "punches out" of their company's system and links to the supplier's web-based catalog to select and add items to their shopping cart. Pertinent information about the transaction is delivered to the appropriate channels during the connection.</p>
 		<h2 class="sub-title">What is Guided Local Search?</h2>
 		<p class="text">A partial or meta-heuristic optimization search method algorithm applied to change the behaviour of a local search algorithm resulting in refined search results.</p>
-		<div class="buttons columns">
-			<div class="column">
-				<a class="button fill" href="/try-now">Try It Now</a>
-			</div>
+		<div class="buttons">
+			<a class="button fill" href="/try-now">Try It Now</a>
+			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
 	</div>
 </div>

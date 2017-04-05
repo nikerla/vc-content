@@ -25,10 +25,9 @@ tags :
 		<p class="text">AngularJS is an open source javascript framework (maintained by google) that can be used to develop dynamic (*CRUD based) and highly scalable front-end web applications. Unlike HTML which is used to create static pages, AngularJS can be used to create dynamic pages. In angularjs, the intention of the application is expressed or declared in the HTML. While it is based upon MVC patterns it does abstract out many of the common tasks. Angularjs requires less code as developers do not need to write their own MVC pipeline. Data models are also easier to write and because directives are separate from the application code, other developers can write them and integrate them with minimal issues. Filters also permit the developer to modify data without changing controllers. Its modular architecture allows you to separate tasks and or functionality during the development process imposing a structure that is good for organization and facilitates the creation of responsive (fast) websites. As its modularity allows the developer to break everything out, this makes the created software easy to test and maintain.  Angularjs can be combined with other scripts, such as HTML and JQuery, in constituting a dynamic user interface as well as serve as a basis for an effective backend.</p>
 		<h2 class="sub-title">Ionic ecommerce</h2>
 		<p class="text">Ionic-Ecommerce is a project using the Ionic Framework and AngularJS to make a mobile frontend to an ecommerce store. It can be deployed as a mobile site for an ecommerce store, or built into native iOS and Android apps which will access the products, account, login, logout, cart, and checkout functions of the ecommerce site.</p>
-		<div class="buttons columns">
-			<div class="column">
-				<a class="button fill" href="/try-now">Try It Now</a>
-			</div>
+		<div class="buttons">
+			<a class="button fill" href="/try-now">Try It Now</a>
+			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
 	</div>
 </div>

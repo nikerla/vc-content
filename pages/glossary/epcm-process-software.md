@@ -98,10 +98,9 @@ tags :
         <p class="text">An e-procurement system manages an e-commerce web site's offers/bids and can be used interchangeably with procurement software. It is designed to optimize purchasing processes and increase transparency with regard to the spending and approval processes.</p>
         <h2 class="sub-title">E-procurement services</h2>
         <p class="text">Some companies outsource their e-procurement needs to third party procurement service providers (PSPs) that will design and manage internet based procurement programs on their behalf for a fee. Time and resources are required for a company to maintain domain expertise across every facet of spending. Assistance from a PSP increases the likelihood that company buying decisions remain strategic.</p>
-        <div class="buttons columns">
-            <div class="column">
-                <a class="button fill" href="/try-now">Try It Now</a>
-            </div>
-        </div>
+		<div class="buttons">
+			<a class="button fill" href="/try-now">Try It Now</a>
+			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+		</div>
     </div>
 </div>

@@ -25,10 +25,9 @@ tags :
 		<p class="text">A series of software technology tools which embody agile principles comprising an online retail or e-commerce website. Agile principles are derived from the agile manifesto which outlines 4 important values in software development. It says, "we value: Individuals and interactions over processes and tools. Working software over comprehensive documentation. Customer collaboration over contract negotiation and Responding to change over following a plan. That is, while there is value in the items on the right, we value the items on the left more."</p>
 		<h2 class="sub-title">Why are Agile Software Development Tools valuable</h2>
 		<p class="text">Agile software development tools facilitate and enhance developer's ability to plan, track and manage the development of the agile cycle. Agile project management software empowers an organization's product development process by enabling effective planning, providing real-time visibility, incorporating early feedback from customers and facilitating easy collaboration among development teams. Today's marketplace offers a number of powerful open source agile project management tools.</p>
-		<div class="buttons columns">
-			<div class="column">
-				<a class="button fill" href="/try-now">Try It Now</a>
-			</div>
+		<div class="buttons">
+			<a class="button fill" href="/try-now">Try It Now</a>
+			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
 	</div>
 </div>
