@@ -10,7 +10,7 @@ tags :
 <div class="documentation __responsive">
 	<h1 class="head-title">Documentation</h1>
 	<p class="sub-title">Documentation and Developer Resources</p>
-	<p class="text">Our documentation includes developer guides, user guides, deployment andinstallation guides, tutorials, API documentation. Please use links below to access ourdocumentation sites.</p>
+	<p class="text">Our documentation includes developer guides, user guides, deployment and installation guides, tutorials, API documentation. Please use links below to access our documentation sites.</p>
 	<div class="columns">
 		<div class="column">
 			<div class="block">

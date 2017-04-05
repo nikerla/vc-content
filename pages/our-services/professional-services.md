@@ -28,7 +28,7 @@ permalink: our-services/professional-services
                     <img alt="Catalog" src="../assets/images/features/catalog.png">
                     <p class="title">Audit</p>
                     <p>
-We regularly perform functional and technical audits to ensure that our platform is being optimely utilized.
+We regularly perform functional and technical audits to ensure that our platform is being optimally utilized.
 <br>
 During functional audits, we analyze the product catalog structure to see if it complies with your company’s business standards and to see if the best structures and rules have been defined in Virto Commerce.<br>
 During technical audits, we check the underlying code to ensure that it complies with our standards and best practices. Our experts can also check server installation to ensure that your catalog is optimized for performance, security, and easy maintenance.<br>

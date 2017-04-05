@@ -46,7 +46,7 @@ tags :
                             <li>Physical products</li>
                             <li>Digital products</li>
                             <li>Personalized B2B catalogs</li>
-                            <li>Extrenal linked catalogs</li>
+                            <li>External linked catalogs</li>
                             <li>No-database catalogs</li>
                         </ul>
                 </li>
@@ -80,7 +80,7 @@ tags :
                     <img alt="Virto Commerce promotions" src="../assets/images/features/pricing.png"/>
                     <p class="title">Promotions & Marketing</p>
                     <p>Our promotion engine lets you create free shipping campaigns, discounts on selected products, coupons for future purchases, and much more! And because it's a simple and easy tool to utilize, you 
-                    won't be needing any developer assistance. That's a promotions in itself! Promotions can be combined with the marketing system to deliver truely engaging campaigns.</p>
+                    won't be needing any developer assistance. That's a promotions in itself! Promotions can be combined with the marketing system to deliver truly engaging campaigns.</p>
                     <ul class="features-list">
                         <li>Product & Cart promotions</li>
                         <li>Shipping promotions</li>
@@ -240,7 +240,7 @@ tags :
                             <li>Punchout</li>
                             <li>Wishlists</li>
                             <li>Gift registry</li>
-                            <li>Tax calculatons</li>
+                            <li>Tax calculations</li>
                             <li>Shipping methods</li>
                             <li>Payment methods</li>
                             <li>Tokenized billing</li>
