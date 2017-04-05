@@ -23,27 +23,27 @@ tags :
             <h1 class="title">What is B2C ecommerce?</h1>
         </div>
         <img alt="What is B2C ecommerce?" src="assets/images/what-is-b2c-ecommerce.jpg"></img>
-        <h1>What is b2c e-commerce </h1>
+        <h1>What is b2c ecommerce </h1>
         <p class="text">
             B2C, the acronym for “business-to-consumer”, is a business model based on transactions between a company, that sells products
-            or services, and individual customers who are the end-users of these products. B2C e-commerce definition suggests
+            or services, and individual customers who are the end-users of these products. B2C ecommerce definition suggests
             the commerce transaction through a company website featured with online catalog.
         </p>
         <p class="text">
-            Most Internet users are familiar with the B2C e-commerce model. Consumers appreciate the convenience of online shopping where they now can purchase
+            Most Internet users are familiar with the B2C ecommerce model. Consumers appreciate the convenience of online shopping where they now can purchase
             clothes, electronics, media subscriptions and services via Internet. In the past couple of years,
             the total online revenue in Europe has been worth about 500 billion euros. And according to reports, the further growth
-            of industry is predicted; e-commerce market's full potential has not yet been reached.
+            of industry is predicted; ecommerce market's full potential has not yet been reached.
         </p>
         <p class="text">
-            The established players are not always the competition. As on any emerging market, B2C e-commerce participants have
+            The established players are not always the competition. As on any emerging market, B2C ecommerce participants have
             huge potential in niche and local fragmentation. The winning formulas vary for international multi-channel distributors,
             theme-based online stores, specific deal aggregators, or national closed retailing. But the key challenges are still quite similar for all B2C
             online stores.
         </p>
         <h2>B2C commerce challenges</h2>
         <p class="text">
-            There is much more competition and higher demands from the customers in B2C e-commerce then in the business-to-business model. Taking a closer look
+            There is much more competition and higher demands from the customers in B2C ecommerce then in the business-to-business model. Taking a closer look
             at the B2C store success recipe, we can highlight the following factors.
         </p>
         <ul>
@@ -88,39 +88,39 @@ tags :
         </p>
         <h2>B2C commerce solutions</h2>
         <p class="text">
-            There are many factors to consider when choosing a B2C e-commerce platform. The following review contains some great solutions for the specific needs of a B2C store.
+            There are many factors to consider when choosing a B2C ecommerce platform. The following review contains some great solutions for the specific needs of a B2C store.
         </p>
-        <ol>
+        <ol class="text">
             <li>
-                <p class="text">
-                    Shopify is one of the most popular e-commerce platforms to build a feature-rich online store upon without any special
+                <p>
+                    Shopify is one of the most popular ecommerce platforms to build a feature-rich online store upon without any special
                     web development knowledge. The solution is easy to use and comes with a huge set of store templates. Among the cons
                     is the high price, and lack of migration options, upon canceling your Shopify account your store will be deleted.
                 </p>
             </li>
             <li>
-                <p class="text">
+                <p>
                     Volusion offers a marketing emphasis with a user-friendly search engine and powerful inventory, as well as promotion
                     and shipping tools. The weak points are customer support and unstable hosting servers.
                 </p>
             </li>
             <li>
-                <p class="text">
+                <p>
                     Magento is a free, open-source platform that allows you to create a self-hosted store with scalable architecture
                     and powerful SEO. But coding skills are required to customize the platform to your needs. And you would have
                     to host Magento solution on your own server. Not the best choice for a small company or for a newbie.
                 </p>
             </li>
             <li>
-                <p class="text">
+                <p>
                     Bigcommerce allows you to easily create a store with a built-in mobile friendly website. The solution has cost-effective
                     plans for small online stores. As a matter of fact the set of features provided is mainly good for a small store.
                     The extensive enterprise-class customization would be a challenge.
                 </p>
             </li>
             <li>
-                <p class="text">
-                    Virto Commerce is an open-source e-commerce product available for both on-premise and cloud-based hosting. The
+                <p>
+                    Virto Commerce is an open-source ecommerce product available for both on-premise and cloud-based hosting. The
                     platforms capabilities include the architecture designed for scalability, and a powerful set of marketing
                     features for a precise customization of your store. The solution with its essential mobile friendly support is great for small startups, as well as for enterprise-level B2C and B2B websites, which demand full and flexible customization.
                     Based on the recommendations above, feel free to discover what each platform offers and how it fits your

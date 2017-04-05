@@ -31,7 +31,19 @@ tags :
 			<h2 class="sub-title">B2B Security and Organization Management</h2>
 			<p class="text">In order to support multiple business processes e-Commerce platforms need to allow for the creation of secure organizational structures. Support of isolated entities allows B2B e-Commerce solutions to extend to business processes outside a given organization by combining partners, suppliers and vendors. Products and services can now be provided more efficiently through vendor/dealer and franchise networks.</p>
 			<img alt="Best B2B ecommerce platform" src="https://virtocommerce.com/admin/assets/site/features/b2b/organizations.png">
-			<a class="button fill" href="/try-now">Try It Now</a>
+			<p class="text">
+				<a href="/our-offers/enterprise-edition">Virto Commerce</a> is the best B2B ecommerce platform with a broad variety of B2B-specific features including B2B-business critical:
+			</p>
+			<ul class="text">
+				<li>Flexible catalog taxonomy with virtual and master catalogs</li>
+				<li>Scope based security for catalog management</li>
+				<li>Negotiated quotes and contract-based pricing</li>
+			</ul>
+			<p class="text">Trial VirtoCommerce now and discover the fantastic B2B benefits our system provides.</p>
+			<div class="buttons">
+				<a class="button fill" href="/try-now">Try It Now</a>
+				<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+			</div>
 		</div>
 	</div>
 </article>
