@@ -1,0 +1,11 @@
+{% assign list_handle = menu.title %}
+<div class="{{style}}">
+    <div class="dropdown-t">{{ menu.title | escape }}</div>
+    <ul class="menu">
+    {% for leaf_link in linklists[list_handle].links %}
+        <li class="dropdown-item">
+            <a href="{{ leaf_link.url }}" class="dropdown-link">{{ leaf_link.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+</div>

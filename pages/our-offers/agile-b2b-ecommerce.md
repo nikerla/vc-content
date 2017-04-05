@@ -29,7 +29,7 @@ tags :
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Fast start</p>
 				<ul class="list">
-				    <li>First version faster then requerments</li>
+				    <li>First version faster then requirements</li>
 				    <li>First customer feedback</li>
 				    <li>Ready cloud based dev staging environment</li>
 				    <li>Read the manual or launch first version (?)</li>
@@ -39,7 +39,7 @@ tags :
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Community Support</p>
 				<ul class="list">
-				    <li>First version faster then requerments</li>
+				    <li>First version faster then requirements</li>
 				    <li>First customer feedback</li>
 				    <li>Ready cloud based dev staging environment</li>
 				    <li>Read the manual or launch first version (?)</li>
@@ -49,7 +49,7 @@ tags :
 				<div class="proposal-ico"></div>
 				<p class="proposal-title">Join our Community!</p>
 				<ul class="list">
-				    <li>First version faster then requerments</li>
+				    <li>First version faster then requirements</li>
 				    <li>First customer feedback</li>
 				    <li>Ready cloud based dev staging environment</li>
 				    <li>Read the manual or launch first version (?)</li>

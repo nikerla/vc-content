@@ -56,22 +56,7 @@
     {{ content_for_header }}
     <base href="{{ '/' | absolute_url }}" />
     <link rel="canonical" href="{{ canonical_url }}" />
-    <script>
-        (function() {
-            var _fbq = window._fbq || (window._fbq = []);
-            if (!_fbq.loaded) {
-                var fbds = document.createElement('script');
-                fbds.async = true;
-                fbds.src = '//connect.facebook.net/en_US/fbds.js';
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(fbds, s);
-                _fbq.loaded = true;
-            }
-            _fbq.push(['addPixelId', '{{ application_settings.FacebookTrackerId }}']);
-        })();
-        window._fbq = window._fbq || [];
-        window._fbq.push(['track', 'PixelInitialized', {}]);
-    </script>
+    
     {% if settings.freshsales_enable %}
         {% include 'freshsales' %}
     {% endif %}    
@@ -122,13 +107,16 @@
                         <span></span>
                     </a>
 
-                    {% include 'main-menu' %}
+                    
                     {% if isAppsStore == false %}
+                        {% include 'main-menu-static' %}
                     {% comment %}
                     <div class="head-phone">
                         <div class="head-phone_num">+1 (800) 980-5288</div>
                     </div>
                     {% endcomment %}
+                    {% else %}
+                        {% include 'main-menu' %}
                     {% endif %}
                     {% if isAppsStore == true %}
                     <div class="head-search">

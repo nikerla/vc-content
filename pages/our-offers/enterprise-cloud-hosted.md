@@ -38,7 +38,7 @@ permalink: our-offers/enterprise-cloud-hosted
 							</li>
 							<li>
 								<span class="title">Source control</span>
-								<span class="descr">Source contrrol is included and all the customizations are saved and are available for review.</span>
+								<span class="descr">Source control is included and all the customizations are saved and are available for review.</span>
 							</li>
 							<li>
 								<span class="title">
