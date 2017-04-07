@@ -1172,7 +1172,6 @@ textarea.__error
 .head-menu
 {
     float: right;
-    margin: 15px 0 0;
 }
 
     .head-menu .menu
@@ -1188,7 +1187,7 @@ textarea.__error
             border-width: 1px 1px 0;
             line-height: 1;
             text-align: center;
-            vertical-align: text-top;
+            vertical-align: middle;
             width: 115px;
         }
 
@@ -1217,9 +1216,19 @@ textarea.__error
 {
     color: #000;
     display: inline-block;
-    height: 43px;
+    height: 84px;
     padding: 0 20px 0 0;
     position: relative;
+}
+
+.head-menu .menu-item .try
+{
+    height: 44px;
+}
+
+.head-menu .menu-item .try::after
+{
+    height: 43px;
 }
 
 .head-menu .menu-item.dropdown a:before
@@ -1263,7 +1272,7 @@ textarea.__error
 {
     content: '';
     display: inline-block;
-    height: 44px;
+    height: 84px;
     vertical-align: middle;
 }
 
