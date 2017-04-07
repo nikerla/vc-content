@@ -163,6 +163,7 @@
     },
     "blogs": {
         "tags": {
+            "critical-fix": "Critical fix",
             "announcements": "Announcements",
             "20": "2.0",
             "ecommerce": "E-commerce",
