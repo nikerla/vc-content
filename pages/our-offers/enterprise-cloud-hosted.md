@@ -8,7 +8,7 @@ permalink: our-offers/enterprise-cloud-hosted
 	<img alt="" src="../assets/images/bg-enterprise.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
-			<h1 class="slider-title">VirtoCommerce cloud ecommerce platform solutions</h1>
+			<h1 class="slider-title">VirtoCommerce cloud<br />ecommerce platform solutions</h1>
 			<h2 class="slider-descr">
 				All the freedom of open source software <br /> 
 				All the  features, scalability, and security of a Microsoft Cloud
