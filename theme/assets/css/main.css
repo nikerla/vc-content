@@ -1198,6 +1198,16 @@ textarea.__error
     border-color: #ebebeb;
 }
 
+.no-touch .head-menu .menu-item:hover > a
+{
+    color: #fcb040;
+}
+.no-touch .head-menu .menu-item:hover .dropdown-menu
+{
+    opacity: 1;
+    visibility: visible;
+}
+
 .head-menu .menu.__inline .menu-item.try
 {
     width: auto;
