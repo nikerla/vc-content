@@ -228,7 +228,8 @@
         "categories": {
             "virtocommerce-news": "Virto Commerce News",
             "technical": "Technical",
-            "release": "Release"
+            "release": "Release",
+            "important": "Important"
         }
     },
     "docs": {
