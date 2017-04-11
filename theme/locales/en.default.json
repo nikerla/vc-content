@@ -227,7 +227,9 @@
             "sdk": "SDK",
             "alpha": "Alpha",
             "commerce": "Commerce",
-            "demo": "Demo"
+            "demo": "Demo",
+            "b2b": "B2B",
+            "b2c": "B2C"
         },
         "categories": {
             "virtocommerce-news": "Virto Commerce News",
