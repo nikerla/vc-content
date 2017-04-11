@@ -5,13 +5,12 @@ is-sticked: true
 main-image: ../../assets/images/blog/shutterstock_83919073.jpg
 permalink: blog/five-reasons-to-switch-ecommerce-to-cloud
 tags:
-  - virtocommerce
-  - ecommerce
-  - enterprise-ecommerce
-  - features
-  - open-source
+  - cloud-ecommerce
+  - cloud-ecommerce-platform
+  - cloud-ecommerce-solution
+  - cloud-vs-on-premise
 title: '5 reasons to switch your e-commerce to the cloud'
-
+description: 'An ultimate Virto Commerce list of reasons to switch your ecommerce platforms from on premise to cloud. Switch ecommerce platform to the cloud and discover fantastic cloud-based systems’ benefits.'
 ---
 ### 5 reasons to switch your e-commerce to the cloud
 

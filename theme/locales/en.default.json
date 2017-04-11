@@ -163,6 +163,10 @@
     },
     "blogs": {
         "tags": {
+            "cloud-ecommerce": "Cloud ecommerce",
+            "cloud-ecommerce-platform": "Cloud ecommerce platform",
+            "cloud-ecommerce-solution": "Cloud ecommerce solution",
+            "cloud-vs-on-premise": "Cloud vs On premise",
             "critical-fix": "Critical fix",
             "announcements": "Announcements",
             "20": "2.0",
