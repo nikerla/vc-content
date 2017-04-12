@@ -1933,6 +1933,10 @@ textarea.__error
             flex-direction: column;
 }
 
+.blog .posts .post-inner.disqus {
+    padding: 20px;
+}
+
 .blog .posts .post-single,
 .blog .trending .post-single
 {
