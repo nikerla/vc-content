@@ -70,7 +70,7 @@ Plus, you may want to offer proprietary kits or bundles or different tiers of pr
 
 As have been mentioned before, Amazon-like experience works perfectly for B2C. Everyone is getting the same range of products and the same price for every item, then pays for the order with a credit card and is pretty much set at that point.
 
-B2B however needs to be able to reflect customer relationships not only in product assortment, but also in partnership terms and pricing, as well as support additional ordering and payment options, credit checks, house account status, etc.
+B2B however needs to be able to reflect customer relationships not only in product assortment, but also in partnership terms and pricing, as well as support additional ordering and payment options, credit checks, credit account status, etc.
 
 Working with customers who order high volumes of product, naturally a B2B vendor negotiates different pricing with different buyers based on a number of factors, like purchase volumes, custom orders, customer loyalty programs, etc. So, unlike B2C e-commerce software, where you simply set a price that applies to everyone, your B2B e-commerce solution needs to be able to work with negotiated quotes (pre-determined options you might want to offer) and contract based price adjustments - specific terms agreed upon with your customer.
 
