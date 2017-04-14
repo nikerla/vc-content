@@ -68,7 +68,7 @@ tags :
 	</ul>
 </div>
 <div class="try-it">
-	<span class="try-it-text">Ready to Order?</span>
+	<span class="try-it-text">Ready to try?</span>
 	<a class="button fill" href="/try-now" id="href_1" style="margin-right: 40px;">Request Demo & Trial</a>
 	<a class="button fill" href="/contact-us">Contact Us</a>
 </div>
