@@ -40,6 +40,13 @@
     display: block;
 }
 
+.google-like {
+    position: fixed;
+    right: 0;
+    top: 20px;
+    z-index: 9999;
+}
+
 /* Buttons */
 .btn
 {
@@ -1255,17 +1262,18 @@ textarea.__error
 
 .head-menu .menu-item.try a
 {
+    color: #fff;
     padding: 0;
 }
 
 .no-touch .menu-item.try a:hover
 {
-    color: #fff;
+    color: #fcb040;
 }
 
 .no-touch .menu-item.try a:active
 {
-    color: #000;
+    color: #fff;
 }
 
 .head-menu .menu-item a:after
