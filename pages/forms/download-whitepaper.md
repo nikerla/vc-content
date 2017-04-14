@@ -80,6 +80,9 @@ permalink: download-whitepaper
 				<p class="text">
                     Every ecommerce company is looking for ways to grow sales, improve go-to-market speed and accelerate performance. In this whitepaper we'll provide 5 insights and key benefits of the switch to cloud ecommerce solution.
                 </p>
+				<p style="margin-top: 100px; text-align: center;">
+					<img src="../assets/images/whitepaper-download.png" />
+				</p>
 			</div>
 		</div>
 	</div> 
