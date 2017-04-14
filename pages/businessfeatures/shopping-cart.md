@@ -35,6 +35,7 @@ tags :
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>
+				<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 			</div>
 		</div>
 	</div>
