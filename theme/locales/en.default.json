@@ -79,7 +79,7 @@
             }
         },
         "developers": {
-            "title": "Microsoft eCommerce Designed for Developers",
+            "title": "Microsoft eCommerce Platform Designed for Developers",
             "subtitle": {
                 "app_store": "AppStore",
                 "modular": "Modular Architecture",
@@ -89,7 +89,7 @@
                 "app_store_title": "AppStore",
                 "app_store_description": "Publish your solutions, modules and services to Virto Commerce AppStore. Connect with potential customers and buyers.",
                 "modular_title": "Modular<br />architecture",
-                "modular_description": "Enhance or replace existing modules without modifying any of the core functionality.",
+                "modular_description": "Enhance or replace existing modules without modifying any of the core functionality. Benefit from enterprise e-commerce platform architecture.",
                 "open_source_title": "Open source",
                 "open_source_description": "Download complete source code of Virto Commerce. Explore our development and feature branches to see whats coming next. Submit bug fixes and enhancements to be included in the next release."
             }
@@ -111,7 +111,7 @@
             "automation": {
                 "alt": "Virto Commerce e-commerce framework",
                 "title": "Launch your solutions faster with automation tools",
-                "description": "Using combination of azure and automation cmdlets, setup automated deployments for your solutions. From development to staging to production."
+                "description": "Using combination of azure and automation cmdlets, setup automated deployments for your solutions. From development to staging to production just like an enterprise ecommerce solution."
             }
         }
     },

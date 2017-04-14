@@ -21,7 +21,7 @@ tags :
 	{% include 'features-left-menu' %}
 	<div class="business-cnt">
 		<div class="head __cart">
-			<h1 class="title">Shopping cart and checkout</h1>
+			<h1 class="title">Best ASP.NET Shopping cart Software</h1>
 		</div>
 		<h2 class="sub-title">Open source shopping cart software</h2>
 		<p class="text">Virto Commerce is now available for startup companies. It solves the growth problem many startups experience when migration from free/hosted shopping cart software to more sophisticated ecommerce platform is needed. Using Free Virto Commerce Community Edition deployed on Microsoft Azure Cloud becomes a natural choice for any startup.</p>
@@ -30,7 +30,8 @@ tags :
 		<h2 class="sub-title">Checkout/integration</h2>
 		<p class="text">Checkout is one of the most important places for integration and extensibility for advanced e-commerce solutions. The Checkout is often a weak point in shopping carts, especially cloud based. Our open modular architecture allows businesses to more easily model processes using extensions and workflows from Virto Commerce or 3rd party developers.</p>
 		<h2 class="sub-title">B2B Shopping Cart</h2>
-		<p class="text">In addition to standard functionality that is integral to any Shopping Cart we offer features such as wishlist, connecting payment gateway and checkout customization. The Virto Commerce platform includes extended capabilities that allow for the implementation of complex B2B Enterprise scenarios as well as non-typical Startup models.</p>
+		<p class="text">In addition to standard functionality that is integral to any Shopping Cart we offer features such as wishlist, connecting payment gateway and checkout customization. The Virto Commerce platform includes extended capabilities that allow for the implementation of complex B2B Enterprise scenarios as well as non-typical 		Startup models.</p>
+		<img alt="Best ASP.NET Shopping cat Software" src="../assets/images/checkout.png" />
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>
