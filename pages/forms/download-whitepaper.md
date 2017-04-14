@@ -69,7 +69,7 @@ permalink: download-whitepaper
 						<textarea id="Contact[Message]" rows="10" cols="30" name="Contact[Message]" class="form-text" required="required" tabindex="10"></textarea>
 					</div>
 					<div class="control-group">
-						<button type="submit" class="button fill" tabindex="11">Submit Request</button>
+						<button type="submit" class="button fill" tabindex="11">Download Whitepaper</button>
 					</div>
 				</form>
 			</div>

@@ -32,7 +32,7 @@ tags :
 		<h2 class="sub-title">B2B Shopping Cart</h2>
 		<p class="text">In addition to standard functionality that is integral to any Shopping Cart we offer features such as wishlist, connecting payment gateway and checkout customization. The Virto Commerce platform includes extended capabilities that allow for the implementation of complex B2B Enterprise scenarios as well as non-typical 		Startup models.</p>
 		<img alt="Best ASP.NET Shopping cat Software" src="../assets/images/checkout.png" />
-		<div class="buttons columns">
+		<div class="buttons columns" style="word-spacing: normal;">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>

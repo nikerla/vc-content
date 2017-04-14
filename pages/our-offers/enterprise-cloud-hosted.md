@@ -13,7 +13,7 @@ permalink: our-offers/enterprise-cloud-hosted
 				All the freedom of open source software <br /> 
 				All the  features, scalability, and security of a Microsoft Cloud
 			</h2>
-			<a class="button fill" href="/contact-us">Try Cloud Edition</a>
+			<a class="button fill" href="/contact-us" style="margin-right: 40px;">Try Cloud Edition</a>
 			<a class="button fill" href="/download-whitepaper">5 Cloud Edition Benefits Whitepaper</a>
 		</div>
 	</div>
