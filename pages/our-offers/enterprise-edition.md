@@ -18,7 +18,8 @@ tags :
 				Enterprise e-Commerce Platform <br /> 
 				that can evolve over time
 			</h2>
-			<a class="button fill" href="/contact-us">Order Now</a>
+			<a class="button fill" href="/try-now" id="href_1" style="margin-right: 40px;">Request Demo & Trial</a>
+			<a class="button fill" href="/contact-us">Contact Us</a>
 		</div>
 	</div>
 </div>
@@ -67,7 +68,9 @@ tags :
 	</ul>
 </div>
 <div class="try-it">
-	<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
+	<span class="try-it-text">Ready to Order?</span>
+	<a class="button fill" href="/try-now" id="href_1" style="margin-right: 40px;">Request Demo & Trial</a>
+	<a class="button fill" href="/contact-us">Contact Us</a>
 </div>
 {% include 'learn-more' %}
 {% include 'technologies' %}

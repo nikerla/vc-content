@@ -18,7 +18,7 @@ tags :
 				Use Community Edition to start<br>
 				your Online Business
 			</h2>
-			<a class="button fill" href="/try-now">Get Now</a>
+			<a class="button fill" href="/try-now">Download Community Edition</a>
 		</div>
 	</div>
 </div>
