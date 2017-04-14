@@ -13,7 +13,8 @@ permalink: our-offers/enterprise-cloud-hosted
 				All the freedom of open source software <br /> 
 				All the  features, scalability, and security of a Microsoft Cloud
 			</h2>
-			<a class="button fill" href="/contact-us">Sign Up Now</a>
+			<a class="button fill" href="/contact-us">Try Cloud Edition</a>
+			<a class="button fill" href="/download-whitepaper">5 Cloud Edition Benefits Whitepaper</a>
 		</div>
 	</div>
 </div>
@@ -82,6 +83,6 @@ permalink: our-offers/enterprise-cloud-hosted
 	{% include 'pricing-paas' %}
 </div>
 <div class="try-it">
-	<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Order now</a>
+	<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Try Cloud Edition</a>
 </div>
 {% include 'technologies' %}
