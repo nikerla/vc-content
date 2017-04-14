@@ -84,5 +84,6 @@ permalink: our-offers/enterprise-cloud-hosted
 </div>
 <div class="try-it">
 	<span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Try Cloud Edition</a>
+	<a class="button fill" href="/download-whitepaper">5 Cloud Edition Benefits Whitepaper</a>
 </div>
 {% include 'technologies' %}
