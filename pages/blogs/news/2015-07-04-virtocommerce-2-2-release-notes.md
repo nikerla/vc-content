@@ -24,7 +24,7 @@ The 2.2 release is here and it brings many innovative features. The sprint was o
 * **Store SEO** - added SEO management to store UI
 * **Documentation** - added article about background jobs, new <a href="https://www.youtube.com/watch?v=2TORKsoj5Bw" target="_blank" rel="nofollow">youtube video</a> on how to create Zap with VCF in Zapier, more documentation updates can be seen <a href="http://virtocommerce.com/docs" target="_blank">here</a>
 
-# What’s next?
+## What’s next?
 
 We have many more features planned for the next few sprints including:
 
@@ -36,25 +36,25 @@ We have many more features planned for the next few sprints including:
 * **ShipStation Integration** - provide module that allows to use popular service to ship items ordered through Virto Commerce
 * **<a href="https://virtocommerce.com/features/orchard-cms-ecommerce" target="_blank">Orchard CMS Ecommerce Module</a>** - integration with orchard CMS to allow displaying products, categories, shopping cart and checkout pages inside orchard
 
-# Dashboard
+## Dashboard
 
 The dashboard now is dedicated to customer service representatives (CSRs) as orders and sales statistics are provided by default.
 
 ![](assets/images/blog/pasted_image_0.png)
 
-# Settings management
+## Settings management
 
 All settings in one place: a dedicated blade for convenient settings management added. The settings are grouped to hierarchical tree for easier navigation. Navigate the tree, use breadcrumbs to go up or search to find particular setting or group.
 
 ![](assets/images/blog/pasted_image_1.png)
 
-# Delete confirmations in catalogs
+## Delete confirmations in catalogs
 
 A more detailed and attention-requiring delete confirmation dialogs are displayed while deleting a catalog, categories or items. The “Confirm” action gets activated only after a correct text was typed.
 
 ![](assets/images/blog/pasted_image_2.png)
 
-# Tax calculation
+## Tax calculation
 
 Avalara AvaTax module has been added and provides realtime integration uisng Avalara API.
 
@@ -64,7 +64,7 @@ It’s time consuming to keep tax rates up to date manually.  After installi
 
 All taxes applied to items and shipping are stored in Virto Commerce and Avalara user cabinet.
 
-# Storefront checkout improvements
+## Storefront checkout improvements
 
 * Merging anonymous cart with cart of registered customer on checkout with popup dialog
 

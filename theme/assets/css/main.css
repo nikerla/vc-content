@@ -2331,6 +2331,7 @@ textarea.__error
     padding: 30px;
 }
 
+.blog .post-media h1,
 .blog .post-media h3
 {
     bottom: 0;
@@ -2351,6 +2352,7 @@ textarea.__error
     display: flex;
 }
 
+.blog .post h1,
 .blog .post h3,
 .blog .post a
 {
@@ -2374,6 +2376,7 @@ textarea.__error
             flex-grow: 1;
 }
 
+.blog .post-detail .post-media h1,
 .blog .post-detail .post-media h3
 {
     position: relative;

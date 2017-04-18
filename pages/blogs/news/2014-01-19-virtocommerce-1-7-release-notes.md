@@ -22,11 +22,11 @@ Here is the list of new features:
 * Import improvements / Background process indicators added
 * More dynamic content types and properties
 
-# What’s next?
+## What’s next?
 
 We have several major new features coming in the next release, including new Reporting Module and advanced SEO support. Both of the features can be seen in the appropriate branch on github if you want an early preview. We also will be improving our responsive template.
 
-# Responsive template
+## Responsive template
 
 We have redesigned our frontend template site to support responsive design. We also added a lot of advanced functionality used in modern e-commerce sites. The site itself has been optimized to work on mobile, tablet and large monitors with adaptive layouts.
 
@@ -34,19 +34,19 @@ We have redesigned our frontend template site to support responsive design. We a
 
 For example new dynamic content templates are used to showcase various products from STAFF PICKS to NEW PRODUCTS on homepage, all done dynamically based on catalog data. Reviews are now shown in the category page and breadcrumbs are displayed when viewing the product.
 
-# Web Platform Installer
+## Web Platform Installer
 
 It is now possible to setup Virto Commerce using Microsoft Web Platform Installer (<a href="http://www.microsoft.com/web/gallery/vccommunity.aspx" rel="nofollow">http://www.microsoft.com/web/gallery/vccommunity.aspx</a>) or directly from within azure management site as shown in the screenshot below:
 
 ![](assets/images/blog/tmp20f3.png)
 
-# Order properties
+## Order properties
 
 A possibility to store supplementary information within an order (e.g. store referrer Id) was added. This information is called “Order property” and it can be added using VirtoCommerce API. The already created order properties are displayed in the Order view inside Commerce Manager: 
 
 ![](assets/images/blog/clip_image001_.png)
 
-# Place an Order on behalf of the customer
+## Place an Order on behalf of the customer
 
 An ability for customer service representative (CSR) to place orders on behalf of the customer was added in version 1.7. Main features include: 
 
@@ -72,7 +72,7 @@ Placing an Order on behalf of the customer:
 
 ![](assets/images/blog/clip_image006a.jpg)
 
-# Import improvement
+## Import improvement
 
 Import now runs in background and uses the common Commerce Manager status bar to provide import status to the user. That means there is no need to wait until the import finishes to proceed to another task. You can do other work while the import is in progress. Still you can see if the import is in progress, completed
 
@@ -82,6 +82,6 @@ or if any errors happened during import.
 
 ![](assets/images/blog/clip_image004.gif)
 
-# Dynamic content improvement
+## Dynamic content improvement
 
 Dynamic content presentation code has been refactored to be consistent with other modules code and to fix some issues related to dynamic content properties setup. Also new properties has been added to particular dynamic content types.

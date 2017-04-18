@@ -32,14 +32,14 @@ Provide the required data during setup. More on deployment process read the Read
 
 After the deployment process has successfully completed the VirtoCommerce.API App should appear in the list of API Apps of your Azure subscription. It can be used like any other API App by adding it to your Logic App.
 
-# API provided by the App
+## API provided by the App
 
 * Catalog management API
 * Product management API
 * Orders management API
 * ... more available upon request
 
-# Using the API App
+## Using the API App
 
 The deployed API App can be used as part of an Azure Logic App.
 
@@ -70,6 +70,6 @@ Click OK to save changes. Depending on the trigger the application will execute
 
 That way composing the Logic app VirtoCommerce platform can be integrated with other systems.
 
-# What’s next
+## What’s next
 
 It’s only the beginning. More VirtoCommerce Api functionality will be exposed through API App upon request once there is more interest regarding our VirtoCommerce integration using Azure API App.

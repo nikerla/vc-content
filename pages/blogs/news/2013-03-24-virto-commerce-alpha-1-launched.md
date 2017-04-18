@@ -7,7 +7,7 @@ permalink: blog/virtocommerce-demo-is-available
 tags: [ announcements, alpha, commerce, demo, ecommerce, sdk ]
 title: 'Virto Commerce demo is available!'
 ---
-# Try alpha 1 version of Virto Commerce!
+## Try alpha 1 version of Virto Commerce!
 
 We are excited to announce that the first alpha version of Virto Commerce is now available: [http://demo.virtocommerce.com](http://demo.virtocommerce.com).
 
@@ -21,7 +21,7 @@ Some highlights about he demo:
 * intuitive promotion expression builder
 * many more features ... and we will be adding even more before the beta release
 
-# What's next?
+## What's next?
 
 In the near future we will
 

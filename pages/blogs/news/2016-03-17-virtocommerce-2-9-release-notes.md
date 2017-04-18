@@ -9,7 +9,7 @@ title: 'VirtoCommerce 2.9 Release Notes'
  ---
 The main focus of this release was Social Login and lazy API data loading in Storefront.
 
-# Social Login
+## Social Login
 
 Ability to sign in via external login providers (Google, Facebook, etc.) on Storefront:
 
@@ -17,7 +17,7 @@ Ability to sign in via external login providers (Google, Facebook, etc.) on Stor
 
 Documentation for developers [is here](docs/vc2devguide).
 
-# Storefront lazy API data loading and render time pagination in Liquid templates
+## Storefront lazy API data loading and render time pagination in Liquid templates
 
 Next Liquid context properties will be accessed by using lazy loading and support render-time pagination: Collections, Products, Collection, Collection.Products, Collection.Tags, Customer.QuoteRequests, Customer.Orders, Customer.Addresses.
 
@@ -35,7 +35,7 @@ Usage in Liquid:
 
 ![](assets/images/blog/untitled_18.png)
 
-# Unique SEO keywords within one tenant (Store)
+## Unique SEO keywords within one tenant (Store)
 
 Now Categories and Products can have unique SEO information defined for each store. This feature allows to maintain URL uniqueness when multiple products with the same SEO are exposed within one store.
 
@@ -45,24 +45,24 @@ Another useful scenario is to use different SEO for a single product sold in dif
 
 Product SEO management for "Electronics" store
 
-# Store settings
+## Store settings
 
 Individual settings for each store added. That is in addition to Dynamic properties that we had already:
 
 ![](assets/images/blog/d2fce9a0-8204-c190-6cb1-57161789fdf1.png)
 
-# Individual asset container for each store
+## Individual asset container for each store
 
 Manage assets for each store independently. A dedicated folder for each store now exists in the assets management system. Access and manage assets directly from store:
 
 ![](assets/images/blog/untitled_19.png)
 
-# Other improvements
+## Other improvements
 
 * New "Memory" <a href="http://hangfire.io/" rel="nofollow">Hangfire</a> job storage type added. It’ll be used by default instead of database based storage;
 * Permalinks in blogs and pages made more compatible with <a href="https://jekyllrb.com/" rel="nofollow"><span style="font-weight:400;">Jekyll permalinks</span></a>.
 
-# Platform API changes
+## Platform API changes
 
 **New methods**
 

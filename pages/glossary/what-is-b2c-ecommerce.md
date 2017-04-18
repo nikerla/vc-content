@@ -23,7 +23,6 @@ tags :
             <h1 class="title">What is B2C ecommerce?</h1>
         </div>
         <img alt="What is B2C ecommerce?" src="assets/images/what-is-b2c-ecommerce.jpg"></img>
-        <h1>What is b2c ecommerce </h1>
         <p class="text">
             B2C, the acronym for “business-to-consumer”, is a business model based on transactions between a company, that sells products
             or services, and individual customers who are the end-users of these products. B2C ecommerce definition suggests

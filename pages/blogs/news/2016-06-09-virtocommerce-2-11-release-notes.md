@@ -12,7 +12,7 @@ The main focus of this release was the development process change and related so
 
 ![](assets/images/blog/without-source-code-development-process-data-flow-1.png "Developing a custom solution. Data Flow Diagram")
 
-# Modules management
+## Modules management
 
 Many changes were made to modules management UI:
 
@@ -22,7 +22,7 @@ The main modules data source is the (online) module registry. All module version
 
 Check for more info on [Modules management](docs/vc2devguide/working-with-platform-manager/localization-implementation) tutorial.
 
-# Source code repository restructure
+## Source code repository restructure
 
 The repository structure has changed dramatically. The <a href="https://github.com/VirtoCommerce/vc-platform" rel="nofollow">vc-platform</a> repository on GitHub was split into multiple repositories having clear and concrete purposes:
 
@@ -32,13 +32,13 @@ The repository structure has changed dramatically. The <a href="https://github.c
 
 ![](assets/images/blog/vc-repository-split.png "vc-community repository structure change")
 
-# Future releases and versioning
+## Future releases and versioning
 
 2.11 is the last version to release VC Platform, Storefront and Commerce modules all at once and while keeping the identical version number. We'll be delivering "feature based" releases more often so deployers will receive changes and features more quickly.
 
 The version numbers of VC parts should diverge over time.
 
-# Documentation updates
+## Documentation updates
 
 Some new articles appeared on our documentation site covering the long awaited topics for developers:
 
@@ -58,6 +58,6 @@ Articles reviewed and updated:
 * [Creating new module](docs/vc2devguide/working-with-platform-manager/extending-functionality/creating-new-module)
 * [Extending Members domain types](docs/vc2devguide/extending-commerce/extending-members-domain-types)
 
-## Migration to ver. 2.11
+### Migration to ver. 2.11
 
 Migrate your own modules to 2.11 as described in - coming soon:)

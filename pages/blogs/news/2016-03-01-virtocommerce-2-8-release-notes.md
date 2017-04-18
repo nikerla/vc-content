@@ -9,7 +9,7 @@ title: "VirtoCommerce 2.8 Release Notes"
 ---
 The main focus of this release was Storefront API redesign and Mobile Starter kit.
 
-# Mobile Starter kit
+## Mobile Starter kit
 
 Check out our new Mobile Starter kit for developing e-commerce apps using VirtoCommerce API. It is developed using <a href="http://ionicframework.com/" rel="nofollow">Ionic Framework</a>, <a href="https://angularjs.org/" rel="nofollow">AngularJS</a> and <a href="https://cordova.apache.org/" rel="nofollow">Cordova</a>:
 
@@ -19,7 +19,7 @@ The VirtoCommerce Mobile Starter kit is currently available to partners and cust
 
 A preconfigured Mobile Starter kit app is already publicly available. Check for instructions at [Mobile Starter app](docs/vc2userguide/introduction-to-virtocommerce/mobile-starter-app) page.
 
-# Storefront API
+## Storefront API
 
 A new storefront API layer was defined. Create new point of sale applications in any environment or technology and exchange the data in Json format:
 
@@ -27,7 +27,7 @@ A new storefront API layer was defined. Create new point of sale applications in
 
 Currently web Storefront and Mobile Starter kit utilize this common API. The existing Storefront controllers were significantly refactored in favor of the new API.
 
-# Login on behalf
+## Login on behalf
 
 A VirtoCommerce Manager user (operator) possessing a **store:loginOnBehalf** permission can sign in to Storefront on behalf of a customer and do everything the customer can.
 
@@ -49,19 +49,19 @@ Information about the operator is stored in the authentication cookie and saved 
 
 Order created by operator on behalf of Customer
 
-# Stores trusted relationships
+## Stores trusted relationships
 
 Previously all stores were sharing security accounts and each registered user could login to any store. In version 2.8 we changed this behaviour - **stores trusted relationships** were added. This enables more flexible control and access management for stores.
 
 By default a store is not sharing security accounts, meaning that all accounts that were registered in it can login to that store only. But you can change this behavior by adding trusted relationship links to other stores. That means that all accounts registered in this store can also login to other store(s).
 
-## Example
+### Example
 
 We have two stores: **Electronics** and **Clothing**. We want users of **Electronics** store to be able to login to **Clothing **(but not vice versa). We do it by adding **Clothing **to linked stores list of **Electronics **store:
 
 ![](assets/images/blog/untitled_11.png)
 
-## CMS menu link lists associations
+### CMS menu link lists associations
 
 Now you can extend your site menu links by adding association to existing product or category:
 
@@ -77,21 +77,21 @@ Showing menu items with category image:
 
 Menus decorated with images from associated categories
 
-## Product cloning
+### Product cloning
 
 Now you can make copy of a product record with all related objects (variations, properties, descriptions, etc.)
 
 ![](assets/images/blog/untitled_15.png)
 
-## Open Storefront store from manager
+### Open Storefront store from manager
 
 Operator can now navigate quickly to the store in Storefront from the currently viewed store in Manager:
 
 ![](assets/images/blog/untitled_16.png)
 
-## Platform API changes
+### Platform API changes
 
-### **New methods**
+#### **New methods**
 
 POST <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/VirtoCommerce_platform/Assets_UploadAssetToLocalFileSystem"> **/api/platform/assets/localstorage**</a> This method is used to upload files on local disk storage in a special uploads folder
 
@@ -99,7 +99,7 @@ GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Store_module/St
 
 GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Store_module/StoreModule_GetUserAllowedStores"> **/api/stores/allowed/{userId}**</a> Returns list of stores which user can login to
 
-### **Changed methods**
+#### **Changed methods**
 
 GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_GetContactById"> **/api/contacts/{id}**</a> - added new property Contact.SecurityAccounts. Returns all security account’s logins associated with this member.
 

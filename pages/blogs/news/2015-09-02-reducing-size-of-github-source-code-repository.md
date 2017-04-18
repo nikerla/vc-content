@@ -7,15 +7,15 @@ permalink: blog/reducing-size-of-github-source-code-repository
 tags: [announcements, open-source, codeproject, github]
 title: "Reducing size of Github source code repository"
 ---
-# Introduction
+## Introduction
 
 Quick tip on how to reduce size of a bloated Github repository.
 
-# Background
+## Background
 
 We have been developing Virto Commerce on Github for the past two years. There have been quite a few feature branches and many files have been added/removed during the development. All these files still sit in the Git history which is downloaded every time when the repository is cloned. At its peak, the repository reached a size of over 200mb, while useful/active code was only a few MBs in size. At that point the size started to impact efficiency of developers working on the platform. We researched several options on how to reduce size. The main concern was keeping a history of still active files while also allowing our existing customers to be able to see and merge changes to their older versions.
 
-# Solution
+## Solution
 
 We ended up using the tool from <a href="https://rtyley.github.io/bfg-repo-cleaner/" rel="nofollow" target="_blank">https://rtyley.github.io/bfg-repo-cleaner/</a>.  It allows for the quick removal of large files from the Git history while preserving the latest HEAD files. That means we didn't have to worry about deleting something that was still used. We wanted to delete as many binary files and DLLs as possible. Most of all libraries were moved to nuget packages and only the ones that didn't have the latest nuget repositories remain. One of the requirements was to keep files and history related to 1.x version which at the moment was in the 1.x branch. We had to remove it to reduce the size of the repository since it contains a lot of files that are no longer used in the current 2.x. To solve the issue we decided to move the whole branch to a new repository, that way a complete history for 1.x could be preserved (including large files). To move the repository we used the following command:
 
@@ -71,6 +71,6 @@ error: failed to push some refs to 'https://github.com/VirtoCommerce/vc-communit
 
 So it failed to rewrite some hidden references and the size of the repository on GitHub is 94 MB, but if you make a common clone, it shrinks to 14 MB.
 
-# Conclusion
+## Conclusion
 
 The process was fairly straightforward using tools provided by the Git community. One more tool I'd like to mention is Git Extensions - <a href="http://gitextensions.github.io/" rel="nofollow" target="_blank">http://gitextensions.github.io/</a>. It includes a large file plugin which will display all the large files in the repository by simply opening it. This is a very useful feature to figure out why your repository is bloated.

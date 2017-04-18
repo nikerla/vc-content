@@ -24,7 +24,6 @@ tags :
             <h1 class="title">What is B2B ecommerce? B2B ecommerce examples</h1>
         </div>
         <img alt="What is B2B ecommerce? B2B ecommerce examples" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
-        <h1> What is b2b </h1>
         <p class="text">
           In order to understand what B2B is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.
         </p>

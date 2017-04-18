@@ -17,7 +17,7 @@ tags :
 		</div>
 	</div>
 	<div class="training-body">
-		<h2 class="head-title">Virto Commerce Workshop</h2>
+		<h1 class="head-title">Virto Commerce Workshop</h1>
 		<div class="responsive">
 			<div class="training-inner">
 				<div class="col">

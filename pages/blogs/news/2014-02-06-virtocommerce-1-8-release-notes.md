@@ -17,7 +17,7 @@ Here is the list of new features:
 * **Localization export** – export to CSV and
 * Other improvements – from bug fixes to deployment script improvements
 
-# What’s next?
+## What’s next?
 
 We currently working on the following features:
 
@@ -32,7 +32,7 @@ We currently working on the following features:
 
 Let us know at [http://help.virtocommerce.com/support/discussions/forums/264127](http://help.virtocommerce.com/support/discussions/forums/264127) if you’d like certain feature to be included in our roadmap.
 
-# SEO implementation
+## SEO implementation
 
 The SEO in frontend allows to control how the URL for store, category and item looks like for selected language and also what page title, Meta description, Meta keywords should be used.
 
@@ -46,7 +46,7 @@ To edit SEO keywords Commerce manager, the SEO tab was added to Item, Category a
 
 ![](assets/images/blog/clip_image002a.gif)
 
-# Reporting
+## Reporting
 
 We are introducing new reporting module in Virto Commerce manager. Module works directly with Sql server reporting service (SSRS) reports files (RDL format – <a href="http://technet.microsoft.com/en-us/library/ms155062.aspx" rel="nofollow">http://technet.microsoft.com/en-us/library/ms155062.aspx</a>). That means reports can be created with SSRS Reports Builder and uploaded directly to VC manager. However it is not using SSRS for generating reports data. Reports datasets are prepared by VC services. 
 
@@ -56,7 +56,7 @@ Used Microsoft Report Viewer component allows not only to print, bet export repo
 
 Report preview and its parameters input form
 
-# Preparing reports
+## Preparing reports
 
 Reports can be created with Microsoft SQL Server 2008 R2 Report Builder 3.0: <a href="http://www.microsoft.com/en-us/download/details.aspx?id=6116" rel="nofollow">http://www.microsoft.com/en-us/download/details.aspx?id=6116</a>
 
