@@ -2,6 +2,7 @@
 category: virtocommerce-news
 date: '2017-04-11'
 permalink: blog/difference-between-b2b-and-b2c-ecommerce-solution
+main-image: ../../assets/images/blog/b2b-b2c-difference.png
 excerpt: What are the main differences between b2b and b2c ecommerce solutions. Discover B2B ecommerce platforms specifics in Virto Commerce ecommerce blog.
 tags:
   - b2b
