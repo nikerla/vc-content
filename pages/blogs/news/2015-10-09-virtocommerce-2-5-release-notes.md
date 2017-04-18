@@ -11,7 +11,7 @@ We are pleased to announce the 2.5 release of Virto Commerce. The primary focus 
 
 Below are just some of the updates we made during last sprint, for more details you may refer to our github repository, there was more than **800 individual commits** since our last release with a lot of small fixes. The most significant features are outlined below.
 
-# Request for Quote (RFQ)
+## Request for Quote (RFQ)
 
 A new "Quote" module was created. Now customers in a VirtoCommerce store can use the Request for Quote (RFQ) feature for unique variations of goods and services that are offered in the catalog instead of checking out. A buyer can add items and easily create an RFQ as if they were using a regular shopping cart.
 
@@ -29,7 +29,7 @@ Once sellers have responded to the RFQs, the buyer opens the RFQ and evaluates t
 
 A record of the RFQ is maintained in the RFQ request list for a predetermined period of time, so that you can copy a RFQ that you repeatedly use. Responses are retained for the same time period to facilitate a seller's response to similar requests from the same buyer.
 
-# Enable RFQ for store
+## Enable RFQ for store
 
 To enable quotes functionality in your store, switch it on in Commerce manager ⇨ Stores ⇨ &lt;&lt;select store&gt;&gt; ⇨ Settings ⇨ EnableQuotes.
 
@@ -43,7 +43,7 @@ After successful negotiation the customer can click “Confirm and checkout”:
 
 A store manager’s confirmed proposal complete with custom prices and additional discount is available for the customer in the Storefront. *
 
-# Security scope bounded ACL
+## Security scope bounded ACL
 
 Scope bounded ACL allows you to limit the access to the actions of a particular object. For example, to restrict a user working with orders from a particular store, or concrete categories or catalogs.
 
@@ -59,7 +59,7 @@ To use this feature you need to define roles with permissions bounded (limited) 
 
 ![](assets/images/blog/image12.png)
 
-# Individual tax provider for each store
+## Individual tax provider for each store
 
 A new "Tax providers" widget added to store edit blade.
 
@@ -77,7 +77,7 @@ Now each store can have an individual tax provider assigned and providers can ha
 
 New tax providers can be implemented. Read our documentation on how to create new tax provider module [here](docs/vc2devguide/extending-commerce/creating-new-tax-provider).
 
-## Authorize.Net payment gateway
+### Authorize.Net payment gateway
 
 Now <a href="http://www.authorize.net/" rel="nofollow">Authorize.Net</a> payment gateway is supported. Configure it in a user friendly UI and let your customers pay by credit card using a leading provider of payment gateway services.
 

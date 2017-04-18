@@ -20,20 +20,20 @@ Below are just some of the updates we made during last sprint, for more details 
 * **Shopify integration module** - easily import existing Products, Collections and Themes from Shopify to the Virto Commerce platform
 * **Performance** - we greatly improved frontend site performance and included custom load tests as part of the solution
 
-# Catalog
+## Catalog
 
 * Images support added to category
 * Default language, additional language and currency management have been redesigned. In catalog and store details
 * TaxType property added to category, item and store shipping method UI
 * A quick link for TaxTypes dictionary management added everywhere it's used. Setting dictionary values management redesigned to support "quick link" to it.
 
-# Documentation
+## Documentation
 
 * Updated ("custom content" feature removed): [http://virtocommerce.com/docs/vc2devguide/working-with-platform-manager/basic-functions/blade-toolbar](docs/vc2devguide/working-with-platform-manager/basic-functions/blade-toolbar)
 * Developer guide: Using dynamic properties [http://virtocommerce.com/docs/vc2devguide/working-with-platform-manager/extending-functionality/using-dynamic-properties](docs/vc2devguide/working-with-platform-manager/extending-functionality/using-dynamic-properties)
 * User guide: Managing dynamic properties [http://virtocommerce.com/docs/vc2userguide/configuration/managing-dynamic-properties](docs/vc2userguide/configuration/managing-dynamic-properties)
 
-# Platform Export/Import
+## Platform Export/Import
 
 This functionality allows migration of modules data between different Virto Commerce platform instances.
 
@@ -50,7 +50,7 @@ Platform export/import functionality frequently can be used for the following ca
 
 ![](assets/images/blog/vcscreenshotv2-3-4.png)
 
-# Dynamic properties
+## Dynamic properties
 
 Now the platform allows to add new properties to entities at runtime.
 
@@ -80,7 +80,7 @@ After the property is added to the entity type it will be available for entering
 
 ![](assets/images/blog/vcscreenshotv2-3-6.png)
 
-# Avalara AvaTax integration module improved
+## Avalara AvaTax integration module improved
 
 ![](assets/images/blog/logo-tagline-extend-FF6600-@2x.png)
 
@@ -105,11 +105,11 @@ What’s been added and improved in the module:
 * Logs added and improved.
 * Tax configuration and setup documentation added - [link](docs/vc2devguide/extending-commerce/creating-new-tax-provider).
 
-# ShipStation integration module
+## ShipStation integration module
 
 It allows for order synchronization with <a href="http://www.shipstation.com/" rel="nofollow">ShipStation</a>. That way new orders with shipments made in VirtoCommerce will become available in ShipStation admin and changes of shipment status will be synced with Virto Commerce platform store. For more details read in our [documentation](docs/vc2devguide/extending-commerce/creating-new-shipping-method)</a>.
 
-# Shopify integration module
+## Shopify integration module
 
 ![](assets/images/blog/2010_6_23_Shopify-Green_256x256.jpg)
 

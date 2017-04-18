@@ -21,7 +21,7 @@ Here are some features we introduced during last sprint:
 * **Navigation Menus** - create unlimited number of menues
 * **Pages** - allows customer to create common pages like about us, terms and so on
 
-# What’s next?
+## What’s next?
 
 We have many more features planned including:
 
@@ -30,7 +30,7 @@ We have many more features planned including:
 * **Recurring Orders** - support for subsciption based products
 * **Amazon and Ebay Integration** - developed by our partner module will allow synchronizing products with popular marketplaces
 
-# Promotions &amp; Discounts
+## Promotions &amp; Discounts
 
 We improved and simplified how promotions are handled in 2.0. Instead of defining two types as we had in 1.13 (catalog and cart), we combined them together.
 
@@ -38,41 +38,41 @@ We also created a brand new web based expression builder which can also be easil
 
 ![](assets/images/blog/1429081222_full.png)
 
-# Price Lists
+## Price Lists
 
 Price lists allow adding multiple prices for products.
 
 ![](assets/images/blog/1429081797_full.png)
 
-# API Security
+## API Security
 
 Generate App Id and App Secret that can then be used to connect to the APIs under user identity. You can then further specify permissions for that user which will be applied to the application connecting under that account.
 
 ![](assets/images/blog/1429081520_full.png)
 
-# Themes
+## Themes
 
 Download and install themes per store and then customize templates, stylesheets and assets using Commerce Manager.
 
 ![](assets/images/blog/1429084380_full.png)
 
-# Navigation Menus
+## Navigation Menus
 
 Define multiple navigation menus for top navigation, footers, side menus and many others.
 
 ![](assets/images/blog/1429084476_full.png)
 
-# Pages
+## Pages
 
 Use pages to create simple about us, contact and terms pages. You can also embed page content inside other templates.
 
 ![](assets/images/blog/1429084558_full.png)
 
-# Development
+## Development
 
 [Setup source code](docs/vc2devguide/deployment/platform-deployment/source-code-getting-started) - describes how to get the latest source code and setup your development environment
 
-# Installation and Deployment
+## Installation and Deployment
 
 We created several guides that should help you both setup Virto Commerce on Microsoft Azure Cloud and on your own development machine. The setup takes only 10 minutes on Azure.
 

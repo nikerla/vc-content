@@ -7,7 +7,7 @@ permalink: blog/handling-cyber-monday-traffic-part-1
 tags: [architecture, performance, scalability]
 title: "Handling Cyber Monday Traffic–Part 1"
 ---
-# Introduction
+## Introduction
 
 You developed and launched an e-commerce site and now wondering, can my site handle the traffic? What happens if it doesn’t, do I have a backup plan? What if that new marketing campaign generates 10x more traffic than we predicted? What if it generates 10x less traffic? Do I still need all those servers or can I simply turn then off.
 
@@ -15,11 +15,11 @@ All these questions arise in various times when running e-commerce sites. It is 
 
 So how do you prepare? This post goes through the common scenarios from the software architect prospective.
 
-# Preparation
+## Preparation
 
 If you don’t want to look like engineers of <a href="http://healthcare.gov" rel="nofollow">http://healthcare.gov</a> or <a href="http://walmart.com" rel="nofollow">http://walmart.com</a> on Cyber week, here are some helpful steps you want to do to get your e-commerce site prepared for a big load (I know, I know, they had to deal with a lot of bureaucracy). I’m not claiming to build walmart site here, it takes much more effort and planning to make sure you can support such site, mostly due to heavy integration with backend/outdated systems. Anyway, back to preparation.
 
-# Load Testing
+## Load Testing
 
 Load Testing is a process of generating traffic by means of automatic tools like VS.NET Web Load tests or many varieties of java based tools. This has to be done even when you are using existing platform or product, since certain code has been customized, you might find a lot of bottlenecks and issues during first couple of tests.
 
@@ -35,7 +35,7 @@ The main parameters you should watch out for are Requests/Sec (in screenshot it 
 
 **User Load** is a concurrent number of users/threads requesting pages. These are not your typical internet users. Internet users have certain delay between each request, the automated users in this test push one request after another without any wait. That wait is referred to as think time and can be configured. Typically user is considered active if he/she requests a page within 5 minutes (Google Analytics). The common value for think time" is between 10 and 120 seconds if you want to emulate real traffic. I prefer to put no think time to get a pure performance numbers.
 
-# Handling more load
+## Handling more load
 
 This particular test environment that we ran our test against is 1 small instance web server, 1 azure standard SQL instance and 1 small instance search server (in azure small instance is 1 Core, 1.75 GB memory VM). Most of our load is on web server, so lets see how we can scale them.
 
@@ -47,7 +47,7 @@ Now lets start the tests again and see what happens. As you might notice from th
 
 ![](assets/images/blog/tmp4fcc.png)
 
-# Automatic Scalability
+## Automatic Scalability
 
 There are also advanced settings related to scaling instances based on various loads (CPU load and Queue load) or simply on schedule which is great when you know the hours you have the most demand.
 
@@ -57,17 +57,17 @@ Scaling by Queue however is a unique feature available in azure and allows you t
 
 ![](assets/images/blog/tmpce34.png)
 
-# Schedule Scalability
+## Schedule Scalability
 
 This allows to scale the system to certain levels during periods of time. If your traffic is very consistent and you know when heavy load comes, you can pre scale your infrastructure so no user is experiencing delays while system auto scales.
 
 ![](assets/images/blog/tmpf043.png)
 
-# Availability
+## Availability
 
 Adding another server also improves our availability, now if instance 0 or 1 goes down, our website still stays up. You should always at a minimum have 2 servers running a site. Both in on-premise (using load balancer) and in azure deployed solutions.
 
-# What’s Next
+## What’s Next
 
 In the upcoming parts I’ll cover the following concerns:
 

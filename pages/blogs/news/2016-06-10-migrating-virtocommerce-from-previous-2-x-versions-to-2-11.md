@@ -9,7 +9,7 @@ tags: [announcements]
 title: 'Migrating VirtoCommerce from previous 2.x versions to 2.11'
 excerpt: This article is about migration process from previous 2.x versions of VirtoCommerce platform to 2.11 version on local machine and Microsoft Azure Cloud
 ---
-# On local file system
+## On local file system
 
 * Make new platform installation [http://virtocommerce.com/docs/vc2devguide/deployment/platform-deployment/source-code-getting-started](docs/vc2devguide/deployment/platform-deployment/source-code-getting-started)http://docs.virtocommerce.com/display/vc2devguide/Source+Code+Getting+Started and leave old database connection string.
 * Make new storefront installation [http://virtocommerce.com/docs/vc2devguide/deployment/storefront-deployment/storefront-source-code-getting-started](docs/vc2devguide/deployment/storefront-deployment/storefront-source-code-getting-started)
@@ -25,7 +25,7 @@ excerpt: This article is about migration process from previous 2.x versions of V
 > 
 > {platform 2.11 path}\VirtoCommerce.Platform.Web\App_Data\cms-content.
 
-# On Microsoft Azure cloud
+## On Microsoft Azure cloud
 
 * Make new platform deployment to azure to new or already exist resource group [http://virtocommerce.com/docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure](docs/vc2devguide/deployment/platform-deployment/deploy-from-github-to-microsoft-cloud-azure) without sample data (in sample data installation setup wizard step click None)
 * For newly deployed platform version 2.11 set database connection string, just copy the database connection string from a previous VC 2.x application  settings

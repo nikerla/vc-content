@@ -19,7 +19,7 @@ Here is the list of new features:
 * **More Cart Promotion conditions** – can now create promotions that target exact row total, subtotal, item code and many more
 * **Other improvements** – from bug fixes to deployment script improvements
 
-# What’s next?
+## What’s next?
 
 We currently working on the following features:
 
@@ -38,7 +38,7 @@ We currently working on the following features:
 
 Let us know at [http://help.virtocommerce.com/support/discussions/forums/264127](http://help.virtocommerce.com/support/discussions/forums/264127) if you’d like certain feature to be included in our roadmap.
 
-# Promotion reservation
+## Promotion reservation
 
 Promotion reservation has been implemented. This feature allows promotions to be configured with Allow limit (total allowed usages), Limit per customer and exclusivity policy. When promotion is applied in shopping cart, the record with status reserved is added to PromotionUsage table. The reservations are automatically removed by system job after configured expirationtimeout.
 
@@ -48,7 +48,7 @@ Promotion reservation has been implemented. This feature allows promotions to be
 
 ![](assets/images/blog/clip_image006d.jpg)
 
-# PayPal express checkout
+## PayPal express checkout
 
 A new PayPal payment gateway is available for express checkout. This allows for quick checkout without filling addresses or shipping method. PayPal can also be selected as regular payment method in normal checkout flow, by selecting address and shipping method. This information then is sent to PayPal.
 
