@@ -44,7 +44,7 @@ Based on this difference, the priorities when choosing the right e-commerce solu
 Setting its priorities on building strong partner relations, B2B sector has another specific factor that is not really present in B2C e-commerce these days – having actual sales people, who work directly with the customer.
 
 Now, here it’s fairly safe to assume that whichever sector of commerce we look at, these days most people prefer to order online rather than through a sales person. That’s why in B2C e-commerce direct sales professionals are pretty much extinct. No wonder sales people see e-commerce as a threat.
-
+<img src='../../assets/images/blog/b2b-b2c-difference.png'>
 The truth is, however, that in B2B sector, given its specifics, sales representatives are still essential for building and maintaining partner relations. In this set-up on-line purchasing options are extremely useful for getting routine orders out of the way. For complex transactions or bigger orders however B2B buyers would still want to talk to a sales person. So, now your field sales can focus on their main goal – relationships, rather than be order-takers; and if they still get compensated for their customer base, they no longer feel threatened by the new technology, and it’s still net-positive for the sales person and the company.
 
 In order to make routine orders fast and easy for your clients, while not taking away from your sales reps, your e-commerce solution needs to accommodate both – convenient on-line ordering system and a way to track and bind the orders to specific sales people within the company. Plus, it needs to be able to accommodate more complicated interactions, when there is a sales person involved.
