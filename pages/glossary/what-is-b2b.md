@@ -88,7 +88,7 @@ tags :
           Many <a href="https://virtocommerce.com/b2b-ecommerce">B2B ecommerce solutions and platforms</a> share similar practices, while providing slightly different sets of features and functions. Before you invest it's always useful to research and examine the specific criteria that are vital to your business.
         </p>
         <p class="text">
-          Virto Commerce solution is built to support complex B2B scenarios. The possibilities that this platform offers meet the full specter of business requirements to succeed in a competitive market. 
+          Virto Commerce B2B commerce solution is built to support complex scenarios. The possibilities that this platform offers meet the full specter of business requirements to succeed in a competitive market. 
         </p>
         <div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
