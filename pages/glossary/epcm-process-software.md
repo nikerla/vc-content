@@ -1,5 +1,5 @@
 ---
-title: ios ecommerce - Definition| Glossary Virto Commerce.
+title: epcm process software - Definition| Glossary Virto Commerce.
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
 canonical: https://virtocommerce.com/glossary/epcm-process-software
