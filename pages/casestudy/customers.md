@@ -42,7 +42,7 @@ permalink: customers
 
 <div class="customers">
     <div class="responsive">
-        <h2 class="head-title">Customers</h2>
+        <h1 class="head-title">Customers</h1>
         <ul class="list">
             <li class="list-item">
                 <div class="list-link">
