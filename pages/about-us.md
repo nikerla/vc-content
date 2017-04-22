@@ -11,7 +11,7 @@ tags :
 ---
 <div class="about">
     <div class="our-story __responsive">
-        <h3>Our Story</h3>
+        <h1>Our Story</h1>
         <p>Virto Commerce was founded in 2011 by industry experts with decades of ecommerce experience. Today, we are Microsoft Gold Partner and provide ecommerce technology, services and expertise for hundreds of merchants and solution companies. Leveraging our open source ecommerce platform, hosted solution and full-service offering, our clients strategically use ecommerce to build stronger customer relationships and rapidly increase global online sales.</p>
     </div>
     <div class="our-team">
