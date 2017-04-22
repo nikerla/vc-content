@@ -6,7 +6,7 @@ permalink: case-studies
 ---
 <div class="study">
     <div class="responsive">
-        <h2 class="head-title">Case studies</h2>
+        <h1 class="head-title">Case studies</h1>
         <ul class="list __studies">
             <li class="list-item">
                 <div class="list-inner">
