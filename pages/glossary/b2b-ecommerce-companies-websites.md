@@ -38,14 +38,9 @@ tags :
         <p class="text">
             While compiling this list, we focused on several features, which every B2B e-commerce company should have.
         </p>
-        <ul>
-            <li>Complex pricing options. B2B e commerce companies often offer different prices for different business partners.</li>
-        </ul>
-        <ol>
-            <li>Flexible checkout process and delivery. The checkout process should always match your company’s regulations for payment and shipping.</li>
-        </ol>
-        <ol>
-            <li>Navigation and search. User experience is critical in evaluating the quality of an e-commerce website. Every buyer has to be able to easily find what he needs and be done with placing the order as quickly as possible. It is also crucial for every B2B e-commerce company to have a relevant and high-quality site search.</li>
+        <p>1. Complex pricing options. B2B e commerce companies often offer different prices for different business partners.</p>
+        <p>2. Flexible checkout process and delivery. The checkout process should always match your company’s regulations for payment and shipping.</p>
+        <p>Navigation and search. User experience is critical in evaluating the quality of an e-commerce website. Every buyer has to be able to easily find what he needs and be done with placing the order as quickly as possible. It is also crucial for every B2B e-commerce company to have a relevant and high-quality site search.</p>
         </ol>
         <ol>
             <li>Customer registration. B2B sites usually require mandatory registration to provide their customers with the custom products, special prices, and deals.</li>
