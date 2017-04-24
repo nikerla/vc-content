@@ -38,9 +38,9 @@ tags :
         <p class="text">
             While compiling this list, we focused on several features, which every B2B e-commerce company should have.
         </p>
-        
+        <ul>
             <li>Complex pricing options. B2B e commerce companies often offer different prices for different business partners.</li>
-        
+        </ul>
         <ol>
             <li>Flexible checkout process and delivery. The checkout process should always match your company’s regulations for payment and shipping.</li>
         </ol>
