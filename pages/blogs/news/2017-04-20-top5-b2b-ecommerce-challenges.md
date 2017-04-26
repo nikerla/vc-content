@@ -2,7 +2,7 @@
 category: virtocommerce-news
 date: '2017-04-20'
 permalink: blog/top5-b2b-ecommerce-challenges
-main-image: ../../assets/images/blog/DevOps-MAIN.jpg
+main-image: ../../assets/images/blog/b2becommerce.jpg
 excerpt: Learn more about Virto Commerce team's B2B eCommerce experience. We have shared our vision on top 5 B2B eCommerce challenges and their solutions.
 tags:
   - B2B
@@ -15,7 +15,7 @@ title: Top 5 B2B eCommerce challenges and solutions
 ---
 ### Top 5 B2B eCommerce challenges and solutions
 
-<img src='../../assets/images/blog/DevOps-MAIN.jpg'>
+<img src='../../assets/images/blog/b2becommerce.jpg'>
 
 In order to better understand the most common challenges B2B vendors face and to look at how to solve them, we first need to answer one key question - why do e-commerce to begin with? What’s its main goal?
 
