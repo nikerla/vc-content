@@ -4,13 +4,13 @@ description: What are the main B2B E-commerce trends in 2017? Learn more in our 
 date: 2017-04-27 
 canonical: https://virtocommerce.com/glossary/b2b-ecommerce-trends
 permalink: glossary/b2b-ecommerce-trends
-ogimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
+ogimage: https://virtocommerce.com/assets/images/b2becommerce.jpg
 ogtitle: B2B E-commerce trends
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/b2becommerce.jpg
 twittersite: Virtocommerce
 tags : 
 - b2b ecommerce
@@ -23,7 +23,7 @@ tags :
         <div class="head __cart">
             <h1 class="title">B2B E-commerce trends</h1>
         </div>
-        <img alt="B2B E-commerce trends" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
+        <img alt="B2B E-commerce trends" src="assets/images/b2becommerce.jpg"></img>
         <p class="text">
           2016 has been a great year for B2B e-commerce, with the USA and China being the leaders in the industry and having sales reach over 1.2 billion dollars. Forrester suggests that the sales volume in B2B e-commerce will increase up to 1 trillion dollars within the next five years. With such a flourishing B2B e-commerce industry, countries like the USA and China are setting high standards and bringing certain major trends into play. The digital marketplace is a highly competitive environment, where each business has to either adopt the latest trends fast or simply let other companies take over the position of leadership. In this article, we would like to highlight the most prominent B2B e-commerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
         <h2>
