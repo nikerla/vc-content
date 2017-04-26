@@ -229,7 +229,9 @@
             "commerce": "Commerce",
             "demo": "Demo",
             "b2b": "B2B",
-            "b2c": "B2C"
+            "b2c": "B2C",
+            "devops":"DevOps",
+            "technical-leadership":"Technical Leadership"
         },
         "categories": {
             "virtocommerce-news": "Virto Commerce News",
