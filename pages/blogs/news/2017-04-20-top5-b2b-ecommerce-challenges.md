@@ -3,7 +3,7 @@ category: virtocommerce-news
 date: '2017-04-20'
 permalink: blog/top5-b2b-ecommerce-challenges
 main-image: ../../assets/images/blog/DevOps-MAIN.jpg
-excerpt: Learn more about Virto Commerce team's B2B eCommerce experience. Top 5 B2B eCommerce challenges and their solutions.
+excerpt: Learn more about Virto Commerce team's B2B eCommerce experience. We have shared our vision on top 5 B2B eCommerce challenges and their solutions.
 tags:
   - B2B
   - ecommerce
