@@ -234,6 +234,8 @@
             "technical-leadership":"Technical Leadership",
             "sitemaps":"Sitemaps",
             "bulk-order":"Bilk Order",
+            "ai":"AI",
+            "product-recommendations":"Product Recommendations",
         },
         "categories": {
             "virtocommerce-news": "Virto Commerce News",
