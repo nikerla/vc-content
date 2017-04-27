@@ -12,7 +12,7 @@ twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
 twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
-tags : 
+tags:
 - d2c ecommerce
 - business to consumer ecommerce
 ---
@@ -22,7 +22,7 @@ tags :
         <div class="head __cart">
             <h1 class="title">What is B2C ecommerce?</h1>
         </div>
-        <img alt="What is B2C ecommerce?" src="assets/images/what-is-b2c-ecommerce.jpg"></img>
+        <img alt="What is B2C ecommerce?" src="assets/images/what-is-b2c-ecommerce.jpg"/>
         <p class="text">B2C, the acronym for “business-to-consumer”, is a business model based on transactions between a company, that sells products or services, and individual customers who are the end-users of these products. B2C ecommerce definition suggests the commerce transaction through a company website featured with online catalog.
         </p>
         <p class="text">Most Internet users are familiar with the B2C ecommerce model. Consumers appreciate the convenience of online shopping where they now can purchase
@@ -116,7 +116,7 @@ tags :
         </ol>
         <div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
-			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+			<a class="button fill" href="/contact-us">Request Information &amp; Personal Demo</a>
 		</div>
     </div>
 </div>
