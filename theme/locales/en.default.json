@@ -231,7 +231,9 @@
             "b2b": "B2B",
             "b2c": "B2C",
             "devops":"DevOps",
-            "technical-leadership":"Technical Leadership"
+            "technical-leadership":"Technical Leadership",
+            "sitemaps":"Sitemaps",
+            "bulk-order":"Bilk Order",
         },
         "categories": {
             "virtocommerce-news": "Virto Commerce News",
