@@ -23,13 +23,9 @@ tags :
             <h1 class="title">What is B2C ecommerce?</h1>
         </div>
         <img alt="What is B2C ecommerce?" src="assets/images/what-is-b2c-ecommerce.jpg"></img>
-        <p class="text">
-            B2C, the acronym for “business-to-consumer”, is a business model based on transactions between a company, that sells products
-            or services, and individual customers who are the end-users of these products. B2C ecommerce definition suggests
-            the commerce transaction through a company website featured with online catalog.
+        <p class="text">B2C, the acronym for “business-to-consumer”, is a business model based on transactions between a company, that sells products or services, and individual customers who are the end-users of these products. B2C ecommerce definition suggests the commerce transaction through a company website featured with online catalog.
         </p>
-        <p class="text">
-            Most Internet users are familiar with the B2C ecommerce model. Consumers appreciate the convenience of online shopping where they now can purchase
+        <p class="text">Most Internet users are familiar with the B2C ecommerce model. Consumers appreciate the convenience of online shopping where they now can purchase
             clothes, electronics, media subscriptions and services via Internet. In the past couple of years,
             the total online revenue in Europe has been worth about 500 billion euros. And according to reports, the further growth
             of industry is predicted; ecommerce market's full potential has not yet been reached.
@@ -42,18 +38,13 @@ tags :
         </p>
         <h2>B2C commerce challenges</h2>
         <p class="text">
-            There is much more competition and higher demands from the customers in B2C ecommerce then in the business-to-business model. Taking a closer look
-            at the B2C store success recipe, we can highlight the following factors.
+            There is much more competition and higher demands from the customers in B2C ecommerce then in the business-to-business model. Taking a closer look at the B2C store success recipe, we can highlight the following factors.
         </p>
         <ul>
             <li>Consumer traffic</li>
         </ul>
         <p class="text">
-            If Google, Bing, or Yahoo! do not know your name, you do not exist. Search engine marketing and optimization are the lifeblood
-            of any online business. The usual consumer behavior's is to transition to a link from the first or second
-            page of search results. A B2C website must be optimized to attract traffic; its very structure, architecture, and
-            content management system must work for you since its creation. That is why the choice of a website platform is
-            vital for the success.
+            If Google, Bing, or Yahoo! do not know your name, you do not exist. Search engine marketing and optimization are the lifeblood of any online business. The usual consumer behavior's is to transition to a link from the first or second page of search results. A B2C website must be optimized to attract traffic; its very structure, architecture, and content management system must work for you since its creation. That is why the choice of a website platform is vital for the success.
         </p>
         <ul>
             <li> Payment processing </li>
@@ -66,14 +57,10 @@ tags :
             <li> Client support</li>
         </ul>
         <p class="text">
-            Sales are always about the people. The cost of acquiring a new consumer is almost ten times higher than of maintaining an existing loyal
-            customer, who typically spends 60% more than a new client. An optimized customer experience encourages visitors to become
-            loyal customers. So the biggest emphasis must be placed on improved retention.
+            Sales are always about the people. The cost of acquiring a new consumer is almost ten times higher than of maintaining an existing loyal customer, who typically spends 60% more than a new client. An optimized customer experience encourages visitors to become loyal customers. So the biggest emphasis must be placed on improved retention.
         </p>
         <p class="text">
-            There are many strategies that help make clients feel appreciated. The online shopping needs to be easy for them, it needs to motivate clients to become your partners,
-            your brand's advocates. These tactics can be supported with powerful, easy to use tools thet help deliver engaging
-            promotions, campaigns and loyalty programs.
+            There are many strategies that help make clients feel appreciated. The online shopping needs to be easy for them, it needs to motivate clients to become your partners, your brand's advocates. These tactics can be supported with powerful, easy to use tools thet help deliver engaging promotions, campaigns and loyalty programs.
         </p>
         <ul>
             <li>Product findability</li>
