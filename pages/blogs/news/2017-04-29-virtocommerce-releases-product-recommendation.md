@@ -39,7 +39,7 @@ The only downside of this new technology was that this kind of engine used to re
 However, now the product recommendation feature can be offered as a service, and we have created a new module in our platform for it. 
 Virto Commerce platform is known for always being on top of the latest trends and for adapting the most useful e-commerce features to the needs of the B2B sector. So, we have been looking into adding the product recommendation AI into our B2B focused product for a while. Mid-March we have started to actively work on implementing it and by the end of the month we have finished developing the first version of the module. 
 
-The pre-release version is now [available for download on GitHub](https://github.com/VirtoCommerce/vc-module-product-recommendations}. It currently requires manual installation and you are more than welcome to try it out and tell us what you think! Virto Commerce platform takes pride for being an open-source, so we are always happy to share our latest modules.
+The pre-release version is now [available for download on GitHub](https://github.com/VirtoCommerce/vc-module-product-recommendations). It currently requires manual installation and you are more than welcome to try it out and tell us what you think! Virto Commerce platform takes pride for being an open-source, so we are always happy to share our latest modules.
 
 Our product recommendation feature is going to work in two modes:
 
