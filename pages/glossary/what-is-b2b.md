@@ -5,7 +5,7 @@ date: 2017-03-13
 canonical: https://virtocommerce.com/glossary/what-is-b2b 
 permalink: glossary/what-is-b2b
 ogimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
-ogtitle: What is B2B (business 2 business). Defitiniton&Information | Glossary Virto Commerce.
+ogtitle: What is B2B (business 2 business). Definition&Information | Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
