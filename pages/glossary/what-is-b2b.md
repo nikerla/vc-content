@@ -1,11 +1,11 @@
 --- 
-title: What is B2B ecommerce? B2B ecommerce examples
-description: What is B2B ecommerce? What does this ecommerce type mean? B2B ecommerce examples
+title: What is B2B e commerce? B2B ecommerce examples
+description: What is B2B e commerce? What does this ecommerce type mean? B2B ecommerce examples
 date: 2017-03-13 
 canonical: https://virtocommerce.com/glossary/what-is-b2b 
 permalink: glossary/what-is-b2b
 ogimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
-ogtitle: What is B2B (business 2 business). Definition&Information | Glossary Virto Commerce.
+ogtitle: What is B2B e-commerce (business 2 business). Definition&Information | Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
@@ -14,18 +14,18 @@ twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - b2b ecommerce
-- what is b2b ecommerce
+- what is b2b e-commerce
 - b2b ecommerce examples
 ---
 <div class="business-features clearfix __responsive">
     {% include 'glossary-left-menu' %}    
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">What is B2B ecommerce? B2B ecommerce examples</h1>
+            <h1 class="title">What is B2B e commerce? B2B ecommerce examples</h1>
         </div>
-        <img alt="What is B2B ecommerce? B2B ecommerce examples" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
+        <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
         <p class="text">
-          In order to understand what B2B is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.
+          In order to understand what B2B e-commerce is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.
         </p>
         <p class="text">
            B2B (business 2 business) is focused on sales of products, services, or information to other businesses, and stands in contrast to B2C (business to consumer) and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization and benefits from technological innovations.
@@ -34,7 +34,7 @@ tags :
         <p class="text">
             A B2B company is essentially a business relationship manufacturer and a wholesaler, or a wholesaler and a retailer. A supply chain usually involves more than two companies. Such goods as plastic, grain, or chemicals don't always have a practical use for consumers, but are important for wholesale distribution, which is the base of the business-2-business model. Products and resources may be provided from a number of suppliers; and careful planning is vital to performing-efficient transactions, considering complex integration schemes.
         </p>
-        <h2>What is B2B ecommerce?</h2>
+        <h2>What is B2B e-commerce?</h2>
         <p class="text">
            The Internet allows companies to increase their prospect pool. Loud online presence grants access to many more potential consumers and partners than traditional advertising models. According to statistics, over 90% of product researches on B2B level start with search engines. So, the Internet becomes an essential trade channel.
         </p>
