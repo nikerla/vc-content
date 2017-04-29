@@ -1,5 +1,5 @@
 ---
-title: VirtoCommerce cloud ecommerce platform solutions
+title: VirtoCommerce cloud ecommerce platform
 description: VirtoCommerce offers an enterprise cloud hosted ecommerce platform designed to expand sales with simple and exciting ecommerce solutions.
 date: 2015-05-31
 permalink: our-offers/enterprise-cloud-hosted
@@ -8,10 +8,10 @@ permalink: our-offers/enterprise-cloud-hosted
 	<img alt="" src="../assets/images/bg-enterprise.jpg" class="slider-bg">
 	<div class="responsive">
 		<div class="slider-info">
-			<h1 class="slider-title">VirtoCommerce cloud<br />ecommerce platform solutions</h1>
+			<h1 class="slider-title">VirtoCommerce cloud<br />ecommerce platform </h1>
 			<h2 class="slider-descr">
 				All the freedom of open source software <br /> 
-				All the  features, scalability, and security of a Microsoft Cloud
+				All the  features, scalability and security of Microsoft Cloud
 			</h2>
 			<a class="button fill" href="/contact-us" style="margin-right: 40px;">Try Cloud Edition</a>
 			<a class="button fill" href="/download-whitepaper">5 Cloud Edition Benefits Whitepaper</a>
@@ -33,7 +33,7 @@ permalink: our-offers/enterprise-cloud-hosted
 						<ul class="list">
 							<li>
 								<span class="title">Software as a Service</span>
-								<span class="descr">With our cloud ecommerce solutions we take care of everything, including uptime, maintenance, security and updates so you
+								<span class="descr">With our cloud ecommerce platform we take care of everything, including uptime, maintenance, security and updates so you
 			can focus on business features.</span>
 							</li>
 							<li>
