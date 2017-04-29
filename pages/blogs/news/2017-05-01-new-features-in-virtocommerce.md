@@ -2,7 +2,7 @@
 category: virtocommerce-news
 date: '2017-05-01'
 permalink: blog/new-features-in-virtocommerce
-main-image: ../../assets/images/blog/ai.jpg
+main-image: ../../assets/images/blog/update.jpg
 excerpt: What’s in the works – New features coming up in the Virto Commerce platform.
 tags:
   - technical leadership
@@ -13,7 +13,7 @@ tags:
 title: What’s in the works – New features coming up in the Virto Commerce platform
 ---
 ### What’s in the works – New features coming up in the Virto Commerce platform 
-<img src='../../assets/images/blog/ai.jpg'>
+<img src='../../assets/images/blog/update.jpg'>
 
 What’s more exciting for a software developer than to talk about all the cool stuff that’s in the works? That’s right – nothing! So, let’s talk about what we have in store for you. There are four major feature updates recently added or coming up soon. 
 
