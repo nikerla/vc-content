@@ -14,6 +14,8 @@ twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 tags : 
 - b2b ecommerce
+- b2b e-commerce
+- b2b e commerce
 - what is b2b e-commerce
 - b2b ecommerce examples
 ---
@@ -45,11 +47,11 @@ tags :
            B2B ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.
         </p>
         <p class="text">
-            In B2B ecommerce examples the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of software.
+            In B2B e commerce examples the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of software.
         </p>
         <h2>What is B2B software?</h2>
         <p class="text">
-            A B2B ecommerce solution must meet the following requirements:
+            A B2B e-commerce solution must meet the following requirements:
         </p>
         <ol>
             <li>Scalability</li>
