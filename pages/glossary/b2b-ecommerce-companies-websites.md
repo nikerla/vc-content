@@ -1,6 +1,6 @@
 --- 
-title: B2B e commerce companies and websites
-description: Top B2B e commerce companies and websites
+title: Top B2B e commerce sites and companies
+description: Top B2B e commerce sites and companies
 date: 2017-04-22 
 canonical: https://virtocommerce.com/glossary/b2b-ecommerce-companies-websites
 permalink: glossary/b2b-ecommerce-companies-websites
@@ -22,19 +22,19 @@ tags :
     {% include 'glossary-left-menu' %}    
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">B2B e commerce companies and websites</h1>
+            <h1 class="title">Top B2B e commerce sites and companies</h1>
         </div>
         <img alt="B2B e commerce companies and websites" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
         <p class="text">
           With the advancement of internet, information technologies, digital systems, and standards of their interaction, the new way of doing business has evolved. E-business is a unique form of doing business that is executed by implementing information technologies in the process of production, trading, and distribution of goods and services. It is becoming more and more popular for companies to go online in all of the areas of business, including B2B commerce. When we mention B2B, the first thing that comes to mind is e-commerce systems– software and websites, which become tools for purchasing products and goods for businesses via the Internet. 
         </p>
         <p class="text">
-           Nowadays, B2B e commerce websites keep gaining popularity. Using business-to-business e-commerce sites is becoming more favorable for B2B e commerce companies that do not want to deal with expensive and complicated EDI (Electronic Data Interchange) data exchange systems. The most important thing for them is to connect with small suppliers. When using business to business e-commerce websites, small businesses have a chance to compete with the larger companies. B2B platforms are valued for their usability and include various solutions for the suppliers, as well as for the customers. 
+           Nowadays, B2B e-commerce sites keep gaining popularity. Using business-to-business e-commerce sites is becoming more favorable for B2B e commerce companies that do not want to deal with expensive and complicated EDI (Electronic Data Interchange) data exchange systems. The most important thing for them is to connect with small suppliers. When using business to business e-commerce websites, small businesses have a chance to compete with the larger companies. B2B platforms are valued for their usability and include various solutions for the suppliers, as well as for the customers. 
         </p>
         <p class="text">
             There has been a drastic shift in the e-commerce from B2C (business to consumer) to B2B. B2B e-commerce sites are more complex and contain way more features than B2C. In this article, we would like to present you the top B2B e commerce sites.
         </p>
-        <h2>What is the focus of top B2B e commerce websites?</h2>
+        <h2>What is the focus of top B2B e commerce sites?</h2>
         <p class="text">
             While compiling this list, we focused on several features, which every B2B e-commerce company should have.
         </p>
