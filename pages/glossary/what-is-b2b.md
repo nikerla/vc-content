@@ -47,7 +47,7 @@ tags :
            B2B ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.
         </p>
         <p class="text">
-            In B2B e commerce examples the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of software.
+            In B2B e commerce examples the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of business to business ecommerce software.
         </p>
         <h2>What is B2B software?</h2>
         <p class="text">
@@ -87,7 +87,7 @@ tags :
            Information management and promoting product usability are the key components of B2B marketing campaigns. An ecommerce software should provide a promotion service engine with powerful and easy to use tools to optimize your offers and drive conversions, as well as intuitive controls that can be used without in-depth training. Clear ticketing system, simple event and campaign creation, optimized content management and rapid order management are the groundwork for an online store. Stats tracking and reporting allow you to have an insight into the running of your B2B businesses online and to drive specific campaigns. You can’t control what you can’t measure. The monitoring of business metrics must be detailed and easily accessible.
         </p>
         <p class="text">
-          Many <a href="https://virtocommerce.com/b2b-ecommerce">B2B ecommerce solutions and platforms</a> share similar practices, while providing slightly different sets of features and functions. Before you invest it's always useful to research and examine the specific criteria that are vital to your business.
+          Many <a href="https://virtocommerce.com/b2b-ecommerce">B2B ecommerce solutions and platforms</a> share similar practices, while providing slightly different sets of features and functions. Before you invest it's always useful to research and examine the specific criteria that are vital to your business to business e-commerce model.
         </p>
         <p class="text">
           Virto Commerce B2B commerce solution is built to support complex scenarios. The possibilities that this platform offers meet the full specter of business requirements to succeed in a competitive market. 
