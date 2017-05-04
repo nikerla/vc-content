@@ -1,6 +1,6 @@
 ---
-title: Download Whitepaper
-description: Virto commerce - Download Whitepaper
+title: Download 'Top 5 B2B challenges and solutions' whitepaper
+description: On this page you can download 'Top 5 B2B challenges and solutions' whitepaper
 date: 2017-05-04
 permalink: download-b2b-whitepaper
 ---
