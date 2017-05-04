@@ -94,6 +94,7 @@ tags :
         </p>
         <div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
+            <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
     </div>
