@@ -3201,7 +3201,10 @@ textarea.__error
         z-index: 50;
         -webkit-box-sizing: border-box;
         box-sizing: border-box;
-        a:hover { color: #fff; };
+    }
+
+    .your-costumers .planet-info a:hover {
+        color: #fff;
     }
 
     .your-costumers .planet-content
