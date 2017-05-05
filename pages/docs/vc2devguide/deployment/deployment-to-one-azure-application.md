@@ -21,19 +21,19 @@ priority: 1
 
 5. Open the Kudu debug console for the storefront Azure app service `https://{{your-storefront-application-name}}.scm.azurewebsites.net/DebugConsole` and navigate to the '**D:\home\site\wwwroot**'
 
-6. Drag and drop your local '**C:\tmp\VirtoCommerce.Platform.2.12.4.zip**' file to the right side of the '**D:\home\site\wwwroot**' folder ![drag and drop platform zip](../../../assets/images/docs/deploy-to-single-app-2.png "drag and drop platform zip")
+6. Drag and drop your local '**C:\tmp\VirtoCommerce.Platform.2.12.4.zip**' file to the right side of the '**D:\home\site\wwwroot**' folder ![drag and drop platform zip](../../../assets/images/docs/deploy-to-single-app-upload.png "drag and drop platform zip")
 
 7. Rename the '**VirtoCommerce.Platform.Web**' folder to the '**platform**' with the following command:
 ```
 mv VirtoCommerce.Platform.Web platform
 ```
-![rename folder](../../../assets/images/docs/deploy-to-single-app-3.png "rename folder")
+![rename folder](../../../assets/images/docs/deploy-to-single-app-rename.png "rename folder")
 
 8. Open the storefront app service and click **Application settings**
 
 9. Add custom connection string '**CmsContentConnectionString**' with value `provider=LocalStorage;rootPath=~/../App_Data/cms-content` to use shared CMS folder between manager and storefront
 
-10. Add custom connection string '**AssetsConnectionString**' with value `provider=LocalStorage;rootPath=~/App_Data/assets;publicUrl=http://\{\{your-storefront-application-url\}\}.azurewebsites.net/admin/assets`
+10. Add custom connection string '**AssetsConnectionString**' with value `provider=LocalStorage;rootPath=~/App_Data/assets;publicUrl=http://{{your-storefront-application-url}}.azurewebsites.net/admin/assets`
 
 11. Add SQL connection string '**VirtoCommerce**' with previously copied value. Change the server name, database name, user name and password with your values and make sure the **MultipleActiveResultSets** parameter is set to **True**:
 
