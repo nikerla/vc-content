@@ -75,12 +75,12 @@ permalink: customers
                 </a>
             </li>         
             <li class="list-item">
-                <a class="list-link" href="http://BudgetBlinds.com" target="_blank" rel="nofollow">
+                <a class="list-link" href="https://www.madeblinds.com" target="_blank" rel="nofollow">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/budgetblinds.jpg" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/madeblinds.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">BudgetBlinds.com</div>
+                        <div class="name">MadeBlinds.com</div>
                     </div>
                 </a>
             </li>        
