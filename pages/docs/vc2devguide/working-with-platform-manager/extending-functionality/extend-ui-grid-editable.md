@@ -14,52 +14,11 @@ Download / fork source code for described modules from GitHub [vc-samples repos
 
 ## Overview
 
-**External.PriceModule** extend **PricingModule** with new filed and visualize it in product prices Grid.
+**External.PriceModule** extend **PricingModule** with new field *BasePrice* and visualize it in product prices Grid.
 
 This example contains functionality which extends database model, for more information visit [Managing Module Database](https://virtocommerce.com/docs/vc2devguide/working-with-platform-manager/extending-functionality/managing-module-database) page.
 
 UI Grid extends with javascript code extension. New column name should be represented in ***.json** resource file.
-
-## Extend database model and migration process
-
-External.PriceModule module extends **Price** object with new field:
-
-```C#
-public class Price2 : Price
-{
-    public decimal? BasePrice { get; set; }
-}
-```
-
-After adding initial migration new migration class should be something like this:
-
-```C#
-public override void Up()
-{
-    CreateTable(
-        "dbo.Price2",
-        c => new
-        {
-            Id = c.String(nullable: false, maxLength: 128),
-            BasePrice = c.Decimal(precision: 18, scale: 2),
-        })
-        .PrimaryKey(t => t.Id)
-        .ForeignKey("dbo.Price", t => t.Id)
-        .Index(t => t.Id);
-
-    //Convert  all exist Price records to Price2
-    Sql("INSERT INTO dbo.Price2 (Id) SELECT Id FROM dbo.Price");
-}
-
-public override void Down()
-{
-    DropForeignKey("dbo.Price2", "Id", "dbo.Price");
-    DropIndex("dbo.Price2", new[] { "Id" });
-    DropTable("dbo.Price2");
-}
-```
-
-Sql script with insert statement should be added by hand to fill the **Price2** table with *IDs* from the **Price** table to ensure correct cast between to types.
 
 ## UI Grid with price list
 
@@ -119,11 +78,6 @@ Create folder *Localizations* and add new *en.VirtoCommerce.ExternalPrice.json* 
 
 Compile your solution, restart IIS and open Manager in browser to check how your new module looks like.
 
-If **External.PriceModule** folder is not located under Manager's **~/Modules** virtual directory, you should create a directory symbolic link to **External.PriceModule.Web** folder:
-
-run Command Prompt as an administrator; navigate to the physical location folder of Manager's ~/Modules virtual directory; run command: mklink /d managedModule **path_to_External.PriceModule.Web_folder**.
-
 ![](https://raw.githubusercontent.com/VirtoCommerce/vc-content/dev/pages/assets/images/docs/External.Price2-Grid-Extend.png)
 
 Price list grid extends with new column and value in this column can be modified.
-
