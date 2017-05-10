@@ -1,5 +1,5 @@
 ---
-title: Introduction to Virto Commerce
+title: Introduction to Virto Commerce - Virto Commerce 1.13 User Guide
 description: Introduction to Virto Commerce
 layout: docs
 date: 2015-03-18T20:11:12.560Z

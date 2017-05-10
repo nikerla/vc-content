@@ -1,5 +1,5 @@
 ---
-title: What is Commerce Manager
+title: What is Commerce Manager - Virto Commerce 1.13 User Guide
 description: What is Commerce Manager
 layout: docs
 date: 2015-03-18T20:11:12.560Z

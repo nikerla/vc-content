@@ -23,7 +23,7 @@ The simple solution is to add `/m:1` argument to the "MSBuild Arguments" for the
 `/t:Publish  /p:TargetProfile=Cloud /Property:PublishDir="//testserver/Deployment/BuildTemp/" /m:1`
 </span>
 
-# Explanation of why it works
+## Explanation of why it works
 
 In our solution we have several worker roles and web roles as part of the solution. With Azure SDK 2.0 and <a href="http://en.wikipedia.org/wiki/Team_Foundation_Server" rel="nofollow">TFS</a>. Build all files including ServiceDefinition.csdef are copied to the single output directory. By default TFS Build includes `/m` flag which uses multiple threads (= number of cores) to build a solution. They can result in projects built in slightly different order and overwriting of the ServiceDefinition file, setting it to use a single thread resolve this issue.
 

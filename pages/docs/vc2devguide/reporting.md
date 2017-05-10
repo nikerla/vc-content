@@ -1,5 +1,5 @@
 ﻿---
-title: Reporting
+title: Reporting - Virto Commerce 2 Developer Guide
 description: The article abour reporting in Virto Commerce
 layout: docs
 date: 2015-10-21T13:18:54.453Z

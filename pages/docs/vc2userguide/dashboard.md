@@ -1,5 +1,5 @@
 ---
-title: Dashboard
+title: Dashboard - Virto Commerce 2 User Guide
 dashboard: The article describes Virto Commerce dashboard
 layout: docs
 date: 2015-09-19T00:03:50.657Z

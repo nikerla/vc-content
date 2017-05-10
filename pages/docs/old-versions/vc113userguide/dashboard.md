@@ -1,5 +1,5 @@
 ---
-title: Dashboard
+title: Dashboard - Virto Commerce 1.13 User Guide
 description: Dashboard
 layout: docs
 date: 2015-03-18T20:11:12.560Z

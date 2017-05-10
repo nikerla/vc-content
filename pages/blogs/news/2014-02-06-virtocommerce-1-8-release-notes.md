@@ -67,7 +67,7 @@ However there are few things, that VC treats differently than SSRS:
 * Data source definition. VC uses data source name to resolve its connection string to database by looking to its own settings. If such exists, then VC will use own defined database. If not then connection defined in report will be used. So it is similar to SSRS shared connection feature which is not supported by VC. 
 * Report parameters. Before generating report, VC like SSRS will ask to fill defined parameters with appropriate values. VC has own realization of UI which is very similar to SSRS. Still not all feature are implemented yet, like multi value selection and providing available values from datasets. 
 
-# Manage reports 
+## Manage reports 
 
 Report files can be uploaded to VC by using asset manager. There is a button Manage in reports view which shows asset manager. You can upload reports files, rename or delete them. Also it is very useful feature to create folder and upload files to specified one. This will allow to place reports in hierarchical structure. There is a tree control in reports view which allows to filter reports list by selecting needed branch.
 
@@ -77,7 +77,7 @@ Asset manager works seamlessly with both storage types: Azure blob storage and O
 
 ![](assets/images/blog/clip_image008c.jpg)
 
-# SEO data import
+## SEO data import
 
 SEO import option has been added to the catalog import job types. So SEO values can be imported during catalog structure import to the system.
 
@@ -85,17 +85,17 @@ SEO import option has been added to the catalog import job types. So SEO values 
 
 Frontend localization has become an easier task. The “export” button has been added. Just select the source and the target languages, click “export” button and save the exported data to the CSV file. Open it in any text editor, translate all the text in batch and use import functionality to import the translation back to the system. No need to go through all the values in the Commerce Manager Localization tab.
 
-# Localization settings fix
+## Localization settings fix
 
 The issue with not showing localization list for the general (two characters) locales has been fixed.
 
-# Login improvements
+## Login improvements
 
 The login view has been refactored to add per field validation. Also “hint” button has been added to the password textbox to prevent misspelling errors entering the password.
 
 ![](assets/images/blog/clip_image008.gif)
 
-# Forgot Password
+## Forgot Password
 
 A forgot password function is now available in front end. It uses new email template that can be configured in CM.
 
@@ -117,7 +117,7 @@ The expiration of token is 24h. After opening the link new password can be set:
 
 ![](assets/images/blog/clip_image0081a.jpg)
 
-# Color Filtering
+## Color Filtering
 
 Colors can now be filtered using color selection boxes.
 
