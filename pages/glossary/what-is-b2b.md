@@ -1,6 +1,6 @@
 --- 
-title: What is B2B e commerce? B2B ecommerce examples
-description: What is B2B e commerce? What does this ecommerce type mean? B2B ecommerce examples
+title: What is B2B e commerce. B2B ecommerce examples
+description: What is B2B e commerce. What does this business to business ecommerce type mean. B2B ecommerce examples
 date: 2017-03-13 
 canonical: https://virtocommerce.com/glossary/what-is-b2b 
 permalink: glossary/what-is-b2b
@@ -32,7 +32,7 @@ tags :
         <p class="text">
            B2B (business 2 business) is focused on sales of products, services, or information to other businesses, and stands in contrast to B2C (business to consumer) and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization and benefits from technological innovations.
         </p>
-        <h2>What is a B2B company?</h2>
+        <h2>What is B2B commerce company?</h2>
         <p class="text">
             A B2B company is essentially a business relationship manufacturer and a wholesaler, or a wholesaler and a retailer. A supply chain usually involves more than two companies. Such goods as plastic, grain, or chemicals don't always have a practical use for consumers, but are important for wholesale distribution, which is the base of the business-2-business model. Products and resources may be provided from a number of suppliers; and careful planning is vital to performing-efficient transactions, considering complex integration schemes.
         </p>
@@ -49,6 +49,7 @@ tags :
         <p class="text">
             In B2B e commerce examples the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of business to business ecommerce software.
         </p>
+        <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
         <h2>What is B2B software?</h2>
         <p class="text">
             A B2B e-commerce solution must meet the following requirements:
