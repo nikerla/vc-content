@@ -4,7 +4,7 @@
             <div class="category-name" ng-if="article.category" ng-bind="'blogs.categories.' + article.category | translate"></div>
             <h3><a ng-href="{% raw %}{{ article.url }}{% endraw %}" ng-bind="article.title"></a></h3>
         </div>
-        <div class="post-descr" ng-if="article.excerpt">{% raw %}{{ article.excerpt }}{% endraw %}</div><a href="{% raw %}{{ article.url }}{% endraw %}">Read more</a>
+        <div class="post-descr">{% raw %}{{ article.excerpt }}{% endraw %} <a href="{% raw %}{{ article.url }}{% endraw %}">Read more...</a></div>
         <div class="post-other">
             <div class="post-logo"><img ng-src="{% raw %}{{ article.authorImageUrl }}{% endraw %}" /></div>
             <div class="post-author">

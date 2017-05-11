@@ -12,9 +12,7 @@
             {% endif %}
             <h3><a href="{{ article.url | absolute_url }}" itemprop="headline">{{ article.title }}</a></h3>
         </div>
-        {% if article.excerpt %}
-            <div class="post-descr" itemprop="description">{{ article.excerpt }} <a href="{{ article.url | absolute_url }}">Read more...</a></div>
-        {% endif %}
+        <div class="post-descr" itemprop="description">{{ article.excerpt }} <a href="{{ article.url | absolute_url }}">Read more...</a></div>
         <div class="post-other">
             <div class="post-logo"><img src="{{ 'logo-mini.png' | asset_url }}" /></div>
             <div class="post-author">
