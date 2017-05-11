@@ -34,7 +34,7 @@ tags :
 			<p class="text">In order to support multiple business processes e-Commerce platforms need to allow for the creation of secure organizational structures. Support of isolated entities allows B2B e-Commerce solutions to extend to business processes outside a given organization by combining partners, suppliers and vendors. Products and services can now be provided more efficiently through vendor/dealer and franchise networks.</p>
 			<img alt="Best B2B ecommerce platform" src="https://virtocommerce.com/admin/assets/site/features/b2b/organizations.png">
 			<p class="text">
-				<a href="/our-offers/enterprise-edition">Virto Commerce</a> is the best B2B ecommerce platform with a broad variety of B2B-specific features including B2B-business critical:
+				<a href="/our-offers/enterprise-edition">Virto Commerce</a> is the best <a href="/glossary/what-is-b2b">B2B ecommerce</a> platform with a broad variety of B2B-specific features including B2B-business critical:
 			</p>
 			<ul class="text">
 				<li>Flexible catalog taxonomy with virtual and master catalogs</li>
@@ -42,7 +42,7 @@ tags :
 				<li>Negotiated quotes and contract-based pricing</li>
 			</ul>
             <p class="text">Take a look at the flexible pricing engine with on-fly personalization capability for distributors, resellers and wholesalers. Prices can also be personalized using audiences, ad campaigns, purchase history, geo-location, contracts and other B2B-related scenarios.</p>
-        <img alt="Best B2B ecommerce platform" src="/assets/images/features/pricing.png">
+        <img alt="Best B2B ecommerce solution" src="/assets/images/features/pricing.png">
 			<p class="text">Trial VirtoCommerce now and discover the fantastic benefits that our B2B e-commerce software provides.</p>
 			<div class="buttons">
 				<a class="button fill" href="/try-now">Try It Now</a>
