@@ -26,8 +26,10 @@ tags :
 			</div>
 			<h2 class="sub-title">B2B Ecommerce Solutions</h2>
 			<p class="text">E-commerce solutions are revolutionizing B2B transactional protocols and processes. The customer fulfillment process of every class of commerce from merchandising to financial services is being optimized by well designed B2B ecommerce platform.This transformation is crucial to the efficacy of transactions involving complex integration scenarios.</p>
+            <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" width="450" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 			<h2 class="sub-title">B2B Checkout and Order Management</h2>
 			<p class="text">Unlike the standardized B2C Checkout which is singularly focused upon conversion, the B2B Checkout is complex, often comprised of a confluence of tasks and conditions. Decisions typically require the integration of multiple people and systems often involving lines of credit, permissions, price lists, contracts, etc. This process can vary greatly from company to company and depends upon the needs specific to the business. Consequently, the B2B ecommerce solutions must be sufficiently flexible such that it enables the company to customize the platform to meet its unique needs. In so doing, the engine must simultaneously integrate people and systems. as well as be equipped with a document based order management module. The Virto Commerce B2B ecommerce software has the order/checkout engine that satisfies all of these specification requirements. This elegant combination of flexibility and integration constitutes the ideal order/checkout engine rendering an order process which is both complete and transparent.</p>
+			<img alt="B2B ecommerce software" src="/assets/images/checkout.png">
 			<h2 class="sub-title">B2B Security and Organization Management</h2>
 			<p class="text">In order to support multiple business processes e-Commerce platforms need to allow for the creation of secure organizational structures. Support of isolated entities allows B2B e-Commerce solutions to extend to business processes outside a given organization by combining partners, suppliers and vendors. Products and services can now be provided more efficiently through vendor/dealer and franchise networks.</p>
 			<img alt="Best B2B ecommerce platform" src="https://virtocommerce.com/admin/assets/site/features/b2b/organizations.png">
@@ -39,6 +41,8 @@ tags :
 				<li>Scope based security for catalog management</li>
 				<li>Negotiated quotes and contract-based pricing</li>
 			</ul>
+            <p class="text">Take a look at the flexible pricing engine with on-fly personalization capability for distributors, resellers and wholesalers. Prices can also be personalized using audiences, ad campaigns, purchase history, geo-location, contracts and other B2B-related scenarios.</p>
+        <img alt="Best B2B ecommerce platform" src="/assets/images/features/pricing.png">
 			<p class="text">Trial VirtoCommerce now and discover the fantastic benefits that our B2B e-commerce software provides.</p>
 			<div class="buttons">
 				<a class="button fill" href="/try-now">Try It Now</a>
