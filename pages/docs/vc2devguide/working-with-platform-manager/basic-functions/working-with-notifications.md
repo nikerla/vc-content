@@ -1,9 +1,11 @@
-﻿---
-title: Working with notifcations
-description: The developer guide to Virto Commerce notification system
-layout: docs
-date: 2017-05-11T14:55:18.343Z
-priority: 11
+---
+author: VirtoCommerce
+category: virtocommerce-docs
+date: 2017-05-11
+excerpt: The developer guide to Virto Commerce notification system
+permalink: docs/vc2devguide/working-with-platform-manager/basic-functions/working-with-notifications
+tags: [ docs, commerce, demo, ecommerce, sdk, notifications ]
+title: 'Working with notifications'
 ---
 ## Introduction
 
@@ -23,7 +25,7 @@ Let’s start with a class model diagram.
 
 ## Class Model explanation
 
-![](../../../assets/images/docs/working-with-notifications-cd.png)
+![](../../../../assets/images/docs/working-with-notifications-cd.png)
 
 Here, main abstract class ***Notification*** is a base class for all types of notifications. In the system each notification is represented by its own type (SmsNotification, EmailNotification) which simplifies using it from the code.
 
@@ -99,13 +101,13 @@ Different markup languages (Razor, Liquid etc) can be used for view templates. I
 There is also built in support for a separate template per language and instance of the object. For example you can define different template for the same order confirmation notification per shop and language.
 
 
-![](../../../assets/images/docs/working-with-notifications-fig-1.png)
+![](../../../../assets/images/docs/working-with-notifications-fig-1.png)
 Figure 1 - Screen notification template edit
 
 When editing a template, one can preview how the content will look and when it is delivered. For that you will need to set values for notification properties used in the template:
 
 
-![](../../../assets/images/docs/working-with-notifications-fig-2.png)
+![](../../../../assets/images/docs/working-with-notifications-fig-2.png)
 Figure 2 - Notification preview
 
 ## Missing features
