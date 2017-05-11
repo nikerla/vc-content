@@ -15,6 +15,7 @@
         {% if article.excerpt %}
             <div class="post-descr" itemprop="description">{{ article.excerpt }}</div>
         {% endif %}
+        <a href="{{ article.url | absolute_url }}"></a>
         <div class="post-other">
             <div class="post-logo"><img src="{{ 'logo-mini.png' | asset_url }}" /></div>
             <div class="post-author">
