@@ -1998,6 +1998,7 @@ textarea.__error
     color: #ea5564;
     font-size: 20px;
     margin: 0 0 15px;
+    position: static;
 }
 
 .blog .categories .categories-sub
@@ -2252,14 +2253,14 @@ textarea.__error
             sflex-wrap: wrap;
 }
 
-.blog .post-meta .socials .list-item
+.blog .socials .list-item
 {
     height: 40px;
     margin: 0 2px;
     width: 40px;
 }
 
-.blog .post-meta .socials .list-link
+.blog .socials .list-link
 {
     height: inherit;
 
@@ -2270,28 +2271,28 @@ textarea.__error
     display: flex;
 }
 
-.blog .post-meta .socials .list-ico
+.blog .socials .list-ico
 {
     font-size: 17px;
     margin: auto;
 }
 
-.blog .post-meta .socials .fb .list-link
+.blog .socials .fb .list-link
 {
     background: #3c589e;
 }
 
-.blog .post-meta .socials .plus .list-link
+.blog .socials .plus .list-link
 {
     background: #dc4c41;
 }
 
-.blog .post-meta .socials .tw .list-link
+.blog .socials .tw .list-link
 {
     background: #33bdfd;
 }
 
-.blog .post-meta .socials .in .list-link
+.blog .socials .in .list-link
 {
     background: #0077b5;
 }
