@@ -21,7 +21,7 @@ tags :
     {% include 'glossary-left-menu' %}    
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">B2B E-commerce trends</h1>
+            <h1 class="title">B2B Ecommerce trends</h1>
         </div>
         <img alt="B2B E-commerce trends" src="assets/images/b2becommerce.jpg"></img>
         <p class="text">
