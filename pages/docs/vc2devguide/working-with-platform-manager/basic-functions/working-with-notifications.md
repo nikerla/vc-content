@@ -6,6 +6,7 @@ excerpt: The developer guide to Virto Commerce notification system
 permalink: docs/vc2devguide/working-with-platform-manager/basic-functions/working-with-notifications
 tags: [ docs, commerce, demo, ecommerce, sdk, notifications ]
 title: 'Working with notifications'
+layout: docs
 ---
 ## Introduction
 
