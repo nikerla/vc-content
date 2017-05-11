@@ -51,6 +51,7 @@ tags:
         <p class="text">
             Save time on risk assessment and data defense, so that you can focus on your business! When hosting your business in the cloud, you don’t need to worry about maintaining and monitoring your servers. Security and protection of your network, physical facilities, applications, including data encryption and customers’ personal data safety can be excluded from the list of your concerns. E-commerce cloud vendors take all the risks. The cloud hosting providers complete a third-party certification, and proper security is a priority for them. Besides, constant accessibility of your website and regular data backup ensure that your e-commerce store will be available without any data loss in case of an emergency.
         </p>
+        <img alt="Cloud ecommerce solutions" src="assets/images/ecommerce-cloud.png"></img>
         <h2>Cost-effective performance</h2>
         <p class="text">
             Cloud fits e-commerce solutions perfectly, because you can pay for resources only when you need them.
@@ -93,9 +94,11 @@ tags:
         <p class="text">
             An optimal choice for an e-commerce business however would be a solution that combines a platform with a ready-to-use set of software tools. In other words, PaaS and SaaS built specifically for e-commerce. Our cloud e-commerce software - Virto Commerce, is considered one of the best e-commerce platforms with its own SaaS support. This cloud ecommerce can meet any of your sales and promotional needs and help grow your business into a powerful online store with impressive features.
         </p>
+        <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+            <a class="button fill" href="/download-whitepaper">Download Cloud eCommerce Whitepaper</a>
 		</div>
     </div>
 </div>
