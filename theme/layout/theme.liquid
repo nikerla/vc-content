@@ -29,24 +29,6 @@
     {{ 'flags.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
     {{ 'magnific-popup.css' | asset_url | stylesheet_tag }}
-    {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
-    {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
-    {{ '//ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js' | script_tag }}
-    {{ '//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js' | script_tag }}
-    {{ '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js' | script_tag }}
-    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js' | script_tag }}
-    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular-route.min.js' | script_tag }}
-    {{ '//cdnjs.cloudflare.com/ajax/libs/ngStorage/0.3.11/ngStorage.min.js' | script_tag }}
-    {{ '//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.1.2/ui-bootstrap-tpls.min.js' | script_tag }}
-    {{ 'app.js' | asset_url | script_tag }}
-    {{ 'services.js' | asset_url | script_tag }}
-    {{ 'common.js' | asset_url | script_tag }}
-    {{ 'main.js' | asset_url | script_tag }}
-    {{ 'product.js' | asset_url | script_tag }}
-    {{ 'feedback.js' | asset_url | script_tag }}
-    {{ 'hider.js' | asset_url | script_tag }}
-    {{ 'base64.js' | asset_url | script_tag }}
-    {{ 'jquery.magnific-popup.js' | asset_url | script_tag }}
     <script type="text/javascript">
         var appInsights=window.appInsights||function(config){
             function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i) }) }}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
@@ -154,5 +136,23 @@
             }
         });
     </script>
+    {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
+    {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
+    {{ '//ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js' | script_tag }}
+    {{ '//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js' | script_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js' | script_tag }}
+    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js' | script_tag }}
+    {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular-route.min.js' | script_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/ngStorage/0.3.11/ngStorage.min.js' | script_tag }}
+    {{ '//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.1.2/ui-bootstrap-tpls.min.js' | script_tag }}
+    {{ 'app.js' | asset_url | script_tag }}
+    {{ 'services.js' | asset_url | script_tag }}
+    {{ 'common.js' | asset_url | script_tag }}
+    {{ 'main.js' | asset_url | script_tag }}
+    {{ 'product.js' | asset_url | script_tag }}
+    {{ 'feedback.js' | asset_url | script_tag }}
+    {{ 'hider.js' | asset_url | script_tag }}
+    {{ 'base64.js' | asset_url | script_tag }}
+    {{ 'jquery.magnific-popup.js' | asset_url | script_tag }}
 </body>
 </html>
