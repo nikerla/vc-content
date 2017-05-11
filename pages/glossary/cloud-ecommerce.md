@@ -1,5 +1,5 @@
 ---
-title: Cloud ecommerce
+title: Cloud ecommerce solutions
 description: Cloud ecommerce solutions - IaaS, PaaS and SaaS models. The difference between various cloud-based application types.
 date: 2017-04-07
 canonical: https://virtocommerce.com/glossary/cloud-ecommerce
@@ -20,7 +20,7 @@ tags:
     {% include 'glossary-left-menu' %}
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">Cloud ecommerce</h1>
+            <h1 class="title">Cloud ecommerce solutions</h1>
         </div>
         <p class="text">
             The term "cloud e-commerce" refers to the process of outsourcing of a remote network of servers hosted on the Internet to use application services, store and process data. Essentially, it is a cloud-based e-commerce versus software installed on a local server.
@@ -39,10 +39,10 @@ tags:
             The cloud offers an elastic solution, that allows for substantiall variations in workload and meets the needs for seasonal or even hourly promotional spikes in traffic, including unpredictable outbreaks.
         </p>
         <p class="text">
-            This way your cloud ecommerce store resources can be scaled up and down to support your actual needs.
+            This way your cloud ecommerce solution resources can be scaled up and down to support your actual needs.
         </p>
         <p class="text">
-            The other side of scalability is business growth. Increase in your store’s popularity, integration of new services and further store evolution force the infrastructure to grow accordingly. A flexible platform at the heart of your e-commerce solution, as well as scalable environment responds quickly to business challenges and opportunities.
+            The other side of scalability is business growth. Increase in your store’s popularity, integration of new services and further store evolution force the infrastructure to grow accordingly. A flexible platform at the heart of your cloud e-commerce solution, as well as scalable environment responds quickly to business challenges and opportunities.
         </p>
         <p class="text">
             Cloud allows you to avoid physical superstructure. You don&#39;t have to purchase additional equipment and hire new maintenance staff. With cloud, your business gets all the required resources and services on-demand.
