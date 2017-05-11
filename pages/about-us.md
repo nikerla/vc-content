@@ -86,42 +86,42 @@ tags :
         <div class="our-offices __responsive">
         <h3>Our Offices</h3>
         <ul class="list">
-            <li class="list-item" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <li class="list-item" itemscope itemtype="http://schema.org/Organization">
                 <div class="list-map">
                     <div class="marker" data-lat="34.257451" data-lng="-118.590180"></div>
                 </div>
                 <div class="list-location">Los Angeles, USA</div>
                 <div class="list-descr">
-                    <p>20945 Devonshire St Suite 102<br />Los Angeles, California 91311</p>
+                    <p itemprop="address">20945 Devonshire St Suite 102<br />Los Angeles, California 91311</p>
                     <p>
-                        Phone: +1 (800) 980-5288 <br>
-                        Phone 2: +1 (323) 570-5588 <br>
-                        Email: <a href="mailto:sales@virtocommerce.com?subject=Virto Commerce Los Angeles">Send Email</a>
+                        <span itemprop="telephone">Phone: +1 (800) 980-5288</span><br>
+                        <span itemprop="telephone">Phone 2: +1 (323) 570-5588</span><br>
+                        Email: <a href="mailto:sales@virtocommerce.com?subject=Virto Commerce Los Angeles" itemprop="email">sales@virtocommerce.com</a>
                     </p>
                 </div>
             </li>
-            <li class="list-item" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <li class="list-item" itemscope itemtype="http://schema.org/Organization">
                 <div class="list-map">
                     <div class="marker" data-lat="54.721994" data-lng="25.236373"></div>
                 </div>
                 <div class="list-location">Vilnius, Lithuania</div>
                 <div class="list-descr">
-                    <p>Laisvės pr. 79E<br>Vilnius, Lithuania 06122</p>
+                    <p itemprop="address">Laisvės pr. 79E<br>Vilnius, Lithuania 06122</p>
                     <p>
-                        Email: <a href="mailto:sales@virtocommerce.com?subject=Virto Commerce Lithuania">Send Email</a>
+                        Email: <a href="mailto:sales@virtocommerce.com?subject=Virto Commerce Lithuania" itemprop="email">sales@virtocommerce.com</a>
                     </p>
                 </div>
             </li>
-            <li class="list-item" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <li class="list-item" itemscope itemtype="http://schema.org/PostalAddress">
                 <div class="list-map">
                     <div class="marker" data-lat="54.731876" data-lng="20.524388"></div>
                 </div>
                 <div class="list-location">Kaliningrad, Russia</div>
                 <div class="list-descr">
-                    <p>Verhneozernya 25/7<br>Kaliningrad, Russia 236000</p>
+                    <p itemprop="address">Verhneozernya 25/7<br>Kaliningrad, Russia 236000</p>
                     <p>
-                        Phone: +7 (921) 710 36 67<br>
-                        Email: <a href="mailto:sales@virtocommerce.com?subject=Virto Commerce Kaliningrad">Send Email</a>
+                        <span itemprop="telephone">Phone: +7 (921) 710 36 67</span><br>
+                        Email: <a href="mailto:sales@virtocommerce.com?subject=Virto Commerce Kaliningrad" itemprop="email">sales@virtocommerce.com</a>
                     </p>
                 </div>
             </li>
