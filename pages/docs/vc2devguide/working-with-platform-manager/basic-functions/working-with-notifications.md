@@ -28,17 +28,17 @@ Let’s start with a class model diagram.
 
 ![](../../../../assets/images/docs/working-with-notifications-cd.png)
 
-Here, main abstract class ***Notification*** is a base class for all types of notifications. In the system each notification is represented by its own type (SmsNotification, EmailNotification) which simplifies using it from the code.
+Here, main abstract class **Notification** is a base class for all types of notifications. In the system each notification is represented by its own type (SmsNotification, EmailNotification) which simplifies using it from the code.
 
-Notification properties marked with ***NotificationParameterAttribute*** attribute can be used in the render template and will be replaced in runtime with real object values.
+Notification properties marked with **NotificationParameterAttribute** attribute can be used in the render template and will be replaced in runtime with real object values.
 
-The main class for working with notifications is ***INotificationManager***. It is used to register new notification types, get the notification list and creating a notification instance. It is also used for immediate or delayed notification sending. One more task that ***INotificationManager*** solves is access to delivery journal and provides a method to abort notification sending.
+The main class for working with notifications is **INotificationManager**. It is used to register new notification types, get the notification list and creating a notification instance. It is also used for immediate or delayed notification sending. One more task that **INotificationManager** solves is access to delivery journal and provides a method to abort notification sending.
 
-***INotificationTemplateService*** is used for working with notification templates. It implements standard CRUD and Search operations.
+**INotificationTemplateService** is used for working with notification templates. It implements standard CRUD and Search operations.
 
-***INotificationTemplateResolver*** - responsible for rendering subject and body of notification, it is based on the template and notification object instance.
+**INotificationTemplateResolver** - responsible for rendering subject and body of notification, it is based on the template and notification object instance.
 
-***INotificationSendingGateway*** - responsible for actual sending of the message and validation.
+**INotificationSendingGateway** - responsible for actual sending of the message and validation.
 
 ## How to send notification using code
 
@@ -59,9 +59,9 @@ public class SampleEmailNotification : EmailNotification
 }
 ```
 
-***NotificationParameter*** here defines the parameter name that can be used in the notification template.
+**NotificationParameter** here defines the parameter name that can be used in the notification template.
 
-Registering notification fabric in ***NotificationManager***:
+Registering notification fabric in **NotificationManager**:
 
 ```C#
 notificationManager.RegisterNotificationType(() => new SampleEmailNotification (container.Resolve<IEmailNotificationSendingGateway>())
@@ -86,7 +86,7 @@ notification.IsActive = true;
 _notificationManager.SendNotification(notification);
 ```
 
-Method ***SheduleSendNotification*** in ***NotificationManager*** allows delayed sending of notification. For that you will need to set the time when the message should be sent like this:
+Method **SheduleSendNotification** in **NotificationManager** allows delayed sending of notification. For that you will need to set the time when the message should be sent like this:
 
 ```C#
 notification.StartSendingDate = DateTime.UtcNow().AddDay(1);
@@ -95,7 +95,7 @@ _notificationManager.ScheduleSendNotification(notification);
 
 ## Notification templates
 
-Each notification has it’s own template (***NotificationTemplate***) which is responsible for notification contents and consists of a view template with placeholders.
+Each notification has it’s own template (**NotificationTemplate**) which is responsible for notification contents and consists of a view template with placeholders.
 
 Different markup languages (Razor, Liquid etc) can be used for view templates. In this implementation we chose to use [liquid](http://liquidmarkup.org) template syntax and templates created with it are processed using a [dotliquid](http://dotliquidmarkup.org) library (a .net library for a popular ruby view engine).
 
