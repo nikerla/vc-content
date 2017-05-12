@@ -25,6 +25,7 @@ tags:
         <p class="text">
             Choosing an ecommerce platform can be overwhelming taking in the account a number of options that have appeared in the recent years. Just like purchasing any product, whether it is a house, a car or a cell-phone, each particular business has to do its research and correctly determine what it is looking for, remembering to consider all the tradeoffs among the available choices. In the past couple years, e-commerce platforms have been gaining popularity among small businesses thanks to their ease of use, usability and availability of a large developer community. Web-developers may provide personal and professional services to the platform client, and you will be most likely to receive good support in the long run from a digital commerce platform.
         </p>
+        <img alt="Ecommerce platforms" src="assets/images/ecommerce-platforms.jpg"></img>
         <h2>Best platform for ecommerce website</h2>
         <p class="text">
             There are hundreds of options available on the market of e-commerce platforms with no single “best e-commerce platform” as they all vary in functionality, features, usability and offer many different choices of building a website, accounting for your personal needs, resources and preferences. Some of the universal features that any online store platform has to have are:
