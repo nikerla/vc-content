@@ -42,7 +42,7 @@ tags:
         <p class="text">
             While picking the right platform for you, consider asking yourself the following questions:  
         </p>
-        <p class="text">**1. Stock size.** What is the size of your inventory? Try to find the platform where you will be able to create flexible product catalogs with the ability to list thousands of product items without loosing website performance.</p>
+        <p class="text"><strong>1. Stock size.</strong> What is the size of your inventory? Try to find the platform where you will be able to create flexible product catalogs with the ability to list thousands of product items without loosing website performance.</p>
 		<p class="text">2. **Physical or digital.** Do you provide online services or physical products? It will make you think about shipping costs and the ways your product will be delivered to your customer. There are ecommerce platforms that are specifically tied to physical or digital goods’ sales.</p>
 		<p class="text">3. **Payment methods.** Not all online store platforms choose third-party payment methods, and you need to consider this as well. PayPal is usually a good option that is easy to use in making arrangements with the best ecommerce platforms. Stripe is also the “must-have” for the platform in 2017.</p>
 		<p class="text">4. **Self-hosted or hosted by the platform.** The option of self-hosting a website is more preferable to you in case you want to control the source code of your online store and modify it on a regular basis. Platform-hosted solutions save your time taking care of server management and system administration.</p>
@@ -72,7 +72,9 @@ tags:
 		<p class="text">The process of making a website is straightforward and intuitive, offering some tutorials for you along the process. The support is smooth and reliable, but without any interesting features that other companies don’t have. 3dcart also offers a big variety of responsive templates and a great set of tools for marketing and inventory.</p>
 		<h2>Conclusion</h2>
 		<p class="text">There is no single “best platform for ecommerce website” and the choice of one will always be upon you. None of the platforms offer a “one size fits all” solution, and it’s up to you to consider different options depending on your solution. To choose the ecommerce engine define the solution features and configuration that you need in advance. Test the platforms with the necessary features using trial versions, compare support and documentation during the trial period – this will give you a better understanding of the customer service.</p>
-        <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+        <div style="text-align: center;">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+			</div>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
