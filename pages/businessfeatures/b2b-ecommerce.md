@@ -49,18 +49,18 @@ tags :
 			<div class="our-offices __responsive" style="margin-top: 50px;">
 				<ul class="list">
 					<li class="list-item">
-						<div class="list-name">Kevin Cory</div>
-						<div class="list-office">VP-Technology and Strategic Planning, GC Incentives</div>
+						<div class="list-name" style="text-align: center;">Kevin Cory</div>
+						<div class="list-office" style="margin: 20px 0; text-align: center;">VP-Technology and Strategic Planning, GC Incentives</div>
 						<div class="list-descr">"The new B2B platform takes advantage of a lot of the latest thoughts on high performance, high quality software development. By adopting this solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally. It’s the flagship for our reengineering of our technology practices."</div>
 					</li>
 					<li class="list-item">
-						<div class="list-name">Sergey Sinyugin</div>
-						<div class="list-office">CEO Kupinatao</div>
+						<div class="list-name" style="text-align: center;">Sergey Sinyugin</div>
+						<div class="list-office" style="margin: 20px 0; text-align: center;">CEO Kupinatao</div>
 						<div class="list-descr">"Using Virto Commerce platform capabilities we have created very powerful system of gathering, publication and managing customer reviews. This system helps Kupinatao customers make the right choice out of millions of positions and drives our sales."</div>
 					</li>
 					<li class="list-item">
-						<div class="list-name">Olga Lomko</div>
-						<div class="list-office">Marketing Director Kitmall.ru</div>
+						<div class="list-name" style="text-align: center;">Olga Lomko</div>
+						<div class="list-office" style="margin: 20px 0; text-align: center;">Marketing Director Kitmall.ru</div>
 						<div class="list-descr">"Virto Commerce lets us reduce the number of people involved in management of B2B product promotions from six to one. We don’t depend on IT guys anymore, and everybody benefits from this."</div>
 					</li>
 				</ul>
