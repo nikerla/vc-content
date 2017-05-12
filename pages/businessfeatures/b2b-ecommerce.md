@@ -46,7 +46,7 @@ tags :
             <p class="text">Take a look at the flexible pricing engine with on-fly personalization capability for distributors, resellers and wholesalers. Prices can also be personalized using audiences, ad campaigns, purchase history, geo-location, contracts and other B2B-related scenarios.</p>
         	<img alt="Best B2B ecommerce solution" src="/assets/images/features/pricing.png">
 			<p class="text">Trial VirtoCommerce now and discover the fantastic benefits that our B2B e-commerce software provides.</p>
-			<div class="our-offices __responsive">
+			<div class="our-offices __responsive" style="margin-top: 50px;">
 				<ul class="list">
 					<li class="list-item">
 						<div class="list-name">Kevin Cory</div>
