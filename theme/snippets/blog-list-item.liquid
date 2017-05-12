@@ -13,6 +13,16 @@
             <h3><a href="{{ article.url | absolute_url }}" itemprop="headline">{{ article.title }}</a></h3>
         </div>
         <div class="post-descr" itemprop="description">{{ article.excerpt }} <a href="{{ article.url | absolute_url }}">Read more...</a></div>
+        {% if article.tags.size > 0 %}
+            <div class="post-tags">
+                {% for tag in article.tags limit:3 %}
+                    <li class="list-item">
+                        {% assign tag_url = '/blog/tag/' | append: tag  %}
+                        <a class="list-link" href="{{ tag_url | absolute_url }}">{{ "blogs.tags." | append: tag | t }}</a>
+                    </li>
+                {% endfor %}
+            </div>
+        {% endif %}
         <div class="post-other">
             <div class="post-logo"><img src="{{ 'logo-mini.png' | asset_url }}" /></div>
             <div class="post-author">
