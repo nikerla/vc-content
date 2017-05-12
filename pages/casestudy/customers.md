@@ -47,6 +47,16 @@ permalink: customers
             <li class="list-item">
                 <div class="list-link">
                     <figure class="list-img">
+                        <img src="/assets/images/casestudies/volvocars-logo.png" alt="" class="list-pic">
+                    </figure>
+                    <div class="list-name">
+                        <div class="name">Volvo Cars</div>
+                    </div>
+                </diva>
+            </li>  
+            <li class="list-item">
+                <div class="list-link">
+                    <figure class="list-img">
                         <img src="/assets/images/casestudies/ingram-micro.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
