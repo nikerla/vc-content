@@ -26,10 +26,12 @@ tags :
 			</div>
 			<h2 class="sub-title">B2B Ecommerce Solutions</h2>
 			<p class="text">E-commerce solutions are revolutionizing B2B transactional protocols and processes. The customer fulfillment process of every class of commerce from merchandising to financial services is being optimized by well designed B2B ecommerce platform.This transformation is crucial to the efficacy of transactions involving complex integration scenarios.</p>
-            <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" width="450" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+			<div style="text-align: center;">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+			</div>
 			<h2 class="sub-title">B2B Checkout and Order Management</h2>
 			<p class="text">Unlike the standardized B2C Checkout which is singularly focused upon conversion, the B2B Checkout is complex, often comprised of a confluence of tasks and conditions. Decisions typically require the integration of multiple people and systems often involving lines of credit, permissions, price lists, contracts, etc. This process can vary greatly from company to company and depends upon the needs specific to the business. Consequently, the B2B ecommerce solutions must be sufficiently flexible such that it enables the company to customize the platform to meet its unique needs. In so doing, the engine must simultaneously integrate people and systems. as well as be equipped with a document based order management module. The Virto Commerce B2B ecommerce software has the order/checkout engine that satisfies all of these specification requirements. This elegant combination of flexibility and integration constitutes the ideal order/checkout engine rendering an order process which is both complete and transparent.</p>
-			<img alt="B2B ecommerce software" src="/assets/images/checkout.png">
+			<img alt="B2B ecommerce software" src="/assets/images/checkout.png" style="width: 50%;" />
 			<h2 class="sub-title">B2B Security and Organization Management</h2>
 			<p class="text">In order to support multiple business processes e-Commerce platforms need to allow for the creation of secure organizational structures. Support of isolated entities allows B2B e-Commerce solutions to extend to business processes outside a given organization by combining partners, suppliers and vendors. Products and services can now be provided more efficiently through vendor/dealer and franchise networks.</p>
 			<img alt="Best B2B ecommerce platform" src="https://virtocommerce.com/admin/assets/site/features/b2b/organizations.png">
@@ -42,8 +44,27 @@ tags :
 				<li>Negotiated quotes and contract-based pricing</li>
 			</ul>
             <p class="text">Take a look at the flexible pricing engine with on-fly personalization capability for distributors, resellers and wholesalers. Prices can also be personalized using audiences, ad campaigns, purchase history, geo-location, contracts and other B2B-related scenarios.</p>
-        <img alt="Best B2B ecommerce solution" src="/assets/images/features/pricing.png">
+        	<img alt="Best B2B ecommerce solution" src="/assets/images/features/pricing.png">
 			<p class="text">Trial VirtoCommerce now and discover the fantastic benefits that our B2B e-commerce software provides.</p>
+			<div class="reviews">
+				<ul class="list">
+					<li class="list-item">
+						<div class="list-name">Kevin Cory</div>
+						<div class="list-office">VP-Technology and Strategic Planning, GC Incentives</div>
+						<div class="list-descr">"The new B2B platform takes advantage of a lot of the latest thoughts on high performance, high quality software development. By adopting this solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally. It’s the flagship for our reengineering of our technology practices."</div>
+					</li>
+					<li class="list-item">
+						<div class="list-name">Sergey Sinyugin</div>
+						<div class="list-office">CEO Kupinatao</div>
+						<div class="list-descr">"Using Virto Commerce platform capabilities we have created very powerful system of gathering, publication and managing customer reviews. This system helps Kupinatao customers make the right choice out of millions of positions and drives our sales."</div>
+					</li>
+					<li class="list-item">
+						<div class="list-name">Olga Lomko</div>
+						<div class="list-office">Marketing Director Kitmall.ru</div>
+						<div class="list-descr">"Virto Commerce lets us reduce the number of people involved in management of B2B product promotions from six to one. We don’t depend on IT guys anymore, and everybody benefits from this."</div>
+					</li>
+				</ul>
+			</div>
 			<div class="buttons">
 				<a class="button fill" href="/try-now">Try It Now</a>
                 <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>

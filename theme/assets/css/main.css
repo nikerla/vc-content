@@ -5601,14 +5601,16 @@ form.fixed
     }
 
 .management-team .list,
-.our-offices .list
+.our-offices .list,
+.reviews .list
 {
     margin: 0 -15px;
     word-spacing: -6px;
 }
 
 .management-team .list-item,
-.our-offices .list-item
+.our-offices .list-item,
+.reviews .list
 {
     display: inline-block;
     padding: 0 15px;
@@ -5657,6 +5659,7 @@ form.fixed
     }
 
 .management-team .list-name,
+.reviews .list-name,
 .our-offices .list-location
 {
     color: #363636;
@@ -5664,13 +5667,15 @@ form.fixed
     margin: 0 0 5px;
 }
 
-.management-team .list-office
+.management-team .list-office,
+.reviews .list-office
 {
     color: #787878;
     font-size: 15px;
 }
 
 .management-team .list-descr,
+.reviews .list-descr,
 .our-offices .list-descr
 {
     font-size: 15px;
