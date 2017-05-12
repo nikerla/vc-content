@@ -22,7 +22,7 @@ tags :
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
 					<div class="column">
 						<div class="control-group">
-							<label for="FullName">First name</label>
+							<label for="FullName">First name (required)</label>
 							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
 						</div>
 						<div class="control-group">
@@ -36,7 +36,7 @@ tags :
 					</div>
 					<div class="column">
 						<div class="control-group">
-							<label for="LastName">Last name</label>
+							<label for="LastName">Last name (required)</label>
 							<input id="Contact[LastName]" tabindex="2" type="text" name="Contact[LastName]" class="form-input" required="required" autocomplete="family-name"/>
 						</div>		
 						<div class="control-group">
@@ -44,7 +44,7 @@ tags :
 							<input id="Contact[Phone]" type="tel" tabindex="4" name="Contact[Phone]" class="form-input" autocomplete="mobile"/>
 						</div>
 						<div class="control-group">
-							<label for="JobTitle">Job Title</label>
+							<label for="JobTitle">Job Title (required)</label>
 							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" autocomplete="organization-title" />
 						</div>														
 					</div>

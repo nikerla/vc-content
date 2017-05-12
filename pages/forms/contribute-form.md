@@ -52,7 +52,7 @@ tags :
 						<input id="Contact[CompanyName]" type="text" name="Contact[CompanyName]" class="form-input" />
 					</div>
 					<div class="control-group">
-						<label for="Signature">Electronic Signature (type "I AGREE" to accept terms)</label>
+						<label for="Signature">Electronic Signature (type "I AGREE" to accept terms) (required)</label>
 						<input id="Contact[Signature]" type="text" name="Contact[Signature]" class="form-input" required="required" />
 					</div>
 					<div class="control-group">
