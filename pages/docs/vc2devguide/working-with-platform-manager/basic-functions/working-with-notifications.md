@@ -115,5 +115,3 @@ Figure 2 - Notification preview
 
 Currently the template engine doesn’t support attachments
 
-## Summary
-In this article we tried to share our experience developing a push notification system for ecommerce which we created for the Virto Commerce .NET open source ecommerce platform. We hope this article will be helpful in your own projects or will inspire another, more elegant solution.
