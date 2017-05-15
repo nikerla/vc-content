@@ -16,7 +16,7 @@ tags:
 - e-commerce platforms
 - top ecommerce platforms
 ---
-<div class="business-features clearfix __responsive">
+<!--<div class="business-features clearfix __responsive">
     {% include 'glossary-left-menu' %}
     <div class="business-cnt">
         <div class="head __cart">
@@ -81,4 +81,4 @@ tags:
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
     </div>
-</div>
+</div>-->
