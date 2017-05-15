@@ -25,7 +25,7 @@ tags:
         <p class="text">
             There are many different ecommerce hosting services, server types and plans to host your online store. So many offers of various hosting types are pretty confusing. This article helps you understand what kind of ecommerce web hosting is best suited for your business needs.
         </p>
-        <img alt="Ecommerce hosting" src="assets/images/ecommerce-hosting.jpg"></img>
+        <img alt="Ecommerce hosting" src="assets/images/ecommerce-hosting.jpg" />
         <h2>Managed hosting and website builders</h2>
         <p class="text">
             Actually, this type of ecommerce hosting service is a perfect solution for the startup phase. Free website builders such as WordPress allow you to create a basic website managed, supported and protected by the hosting provider. A website builder provides you with a very simple interface and a few options to slightly change its design. But as your business grows, your website becomes more complex. You sell more products, get more traffic, and eventually require more features… Finally, you have to start looking for another home for your shop, that will offer something more, starting with a shopping cart for your customers.
