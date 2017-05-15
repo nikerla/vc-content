@@ -1,6 +1,6 @@
 ---
 title: The best ecommerce platforms for websites. Top e-commerce platforms list
-description: The best ecommerce platforms for websites. Top e-commerce platforms list. How to choose the best ecommerce platform? 
+description: The best ecommerce platforms for websites. Top e-commerce platforms list. How to choose the best ecommerce platform?
 date: 2017-05-12
 canonical: https://virtocommerce.com/glossary/ecommerce-platforms
 permalink: glossary/ecommerce-platforms
@@ -8,7 +8,7 @@ ogtitle: Best ecommerce platforms
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Best ecommerce platforms
-twitterdescription: The best ecommerce platforms for websites. Top e-commerce platforms list. How to choose the best ecommerce platform? 
+twitterdescription: The best ecommerce platforms for websites. Top e-commerce platforms list. How to choose the best ecommerce platform?
 twittersite: Virtocommerce
 tags:
 - best ecommerce platforms
@@ -16,6 +16,17 @@ tags:
 - e-commerce platforms
 - top ecommerce platforms
 ---
+<div class="business-features clearfix __responsive">
+    {% include 'glossary-left-menu' %}
+    <div class="business-cnt">
+        <div class="head __cart">
+            <h1 class="title">The best ecommerce platforms for websites. Top e-commerce platforms list</h1>
+        </div>
+        <p class="text">
+            Choosing an ecommerce platform can be overwhelming taking in the account a number of options that have appeared in the recent years. Just like purchasing any product, whether it is a house, a car or a cell-phone, each particular business has to do its research and correctly determine what it is looking for, remembering to consider all the tradeoffs among the available choices. In the past couple years, e-commerce platforms have been gaining popularity among small businesses thanks to their ease of use, usability and availability of a large developer community. Web-developers may provide personal and professional services to the platform client, and you will be most likely to receive good support in the long run from a digital commerce platform.
+        </p>
+    </div>
+</div>
 <!--<div class="business-features clearfix __responsive">
     {% include 'glossary-left-menu' %}
     <div class="business-cnt">
