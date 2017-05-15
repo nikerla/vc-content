@@ -8,7 +8,7 @@ ogtitle: Ecommerce website hosting
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Ecommerce website hosting
-twitterdescription: Types of ecommerce hosting. Ecommerce hosting: managed, dedicated, collocated, cloud and VPS. 
+twitterdescription: Types of ecommerce hosting. Ecommerce hosting managed, dedicated, collocated, cloud and VPS. 
 twittersite: Virtocommerce
 tags:
 - ecommerce hosting
