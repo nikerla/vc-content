@@ -51,7 +51,9 @@ tags:
 		<p class="text">•	And, of course, your e-commerce platform should be robust and provide a high level of security. That means reliable hosting, support for SSL certificates, personal data protection, PCI compliance among other options to keep both your website and your customers’ data secure and protect sensitive information.</p>
 		<p class="text">A quality shopping cart is also vital for your store. Multi-language support, automatically calculated currency and tax rates, integrated payment gateways, and convenient design of the shopping cart itself are very important to manage a professional online store.</p>
 		<p class="text">Doing business online shouldn't be complicated. Making the right choice when it comes to your e-commerce hosting and platform lets you run your store easily.</p>
-        <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
+		<div style="text-align: center;">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" frameborder="0" allowfullscreen></iframe>
+			</div>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
