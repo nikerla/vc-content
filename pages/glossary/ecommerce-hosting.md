@@ -1,6 +1,6 @@
 ---
 title: Ecommerce website hosting
-description: Types of ecommerce hosting. Ecommerce hosting: managed, dedicated, collocated, cloud and VPS. 
+description: Types of ecommerce hosting. Ecommerce hosting - managed, dedicated, collocated, cloud and VPS. 
 date: 2017-05-12
 canonical: https://virtocommerce.com/glossary/ecommerce-hosting
 permalink: glossary/ecommerce-hosting
