@@ -30,10 +30,16 @@ tags :
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
 			</div>
 			<h2 class="sub-title">B2B Checkout and Order Management</h2>
-			<div style="display: block;">
-				<p class="text" style="float: left; margin-right: 20px; width: 50%;">Unlike the standardized B2C Checkout which is singularly focused upon conversion, the B2B Checkout is complex, often comprised of a confluence of tasks and conditions. Decisions typically require the integration of multiple people and systems often involving lines of credit, permissions, price lists, contracts, etc. This process can vary greatly from company to company and depends upon the needs specific to the business. Consequently, the B2B ecommerce solutions must be sufficiently flexible such that it enables the company to customize the platform to meet its unique needs. In so doing, the engine must simultaneously integrate people and systems. as well as be equipped with a document based order management module. The Virto Commerce B2B ecommerce software has the order/checkout engine that satisfies all of these specification requirements. This elegant combination of flexibility and integration constitutes the ideal order/checkout engine rendering an order process which is both complete and transparent.</p>
-				<img alt="B2B ecommerce software" src="/assets/images/checkout.png" style="float: left; width: 50%"; />
-			</div>
+			<table>
+				<tr>
+					<td>
+						<p class="text">Unlike the standardized B2C Checkout which is singularly focused upon conversion, the B2B Checkout is complex, often comprised of a confluence of tasks and conditions. Decisions typically require the integration of multiple people and systems often involving lines of credit, permissions, price lists, contracts, etc. This process can vary greatly from company to company and depends upon the needs specific to the business. Consequently, the B2B ecommerce solutions must be sufficiently flexible such that it enables the company to customize the platform to meet its unique needs. In so doing, the engine must simultaneously integrate people and systems. as well as be equipped with a document based order management module. The Virto Commerce B2B ecommerce software has the order/checkout engine that satisfies all of these specification requirements. This elegant combination of flexibility and integration constitutes the ideal order/checkout engine rendering an order process which is both complete and transparent.</p>
+					</td>
+					<td>
+						<img alt="B2B ecommerce software" src="/assets/images/checkout.png" />
+					</td>
+				</tr>
+			</table>
 			<h2 class="sub-title">B2B Security and Organization Management</h2>
 			<p class="text">In order to support multiple business processes e-Commerce platforms need to allow for the creation of secure organizational structures. Support of isolated entities allows B2B e-Commerce solutions to extend to business processes outside a given organization by combining partners, suppliers and vendors. Products and services can now be provided more efficiently through vendor/dealer and franchise networks.</p>
 			<img alt="Best B2B ecommerce platform" src="https://virtocommerce.com/admin/assets/site/features/b2b/organizations.png" align="right" style="width: 50%"; />
