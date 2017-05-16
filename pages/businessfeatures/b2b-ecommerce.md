@@ -71,7 +71,7 @@ tags :
 				</div>
 			</div>
 			<h2 class="sub-title">Learn more from our B2B customers about the platform</h2>
-			<div class="our-offices __responsive" style="margin-top: 50px;">
+			<div class="our-offices __responsive" style="margin-top: 20px;">
 				<ul class="list">
 					<li class="list-item">
 						<div class="list-name" style="text-align: center;">Kevin Cory</div>
