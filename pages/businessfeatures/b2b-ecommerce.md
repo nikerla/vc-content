@@ -70,6 +70,7 @@ tags :
 					</div>
 				</div>
 			</div>
+			<h2 class="sub-title">Learn more from our B2B customers about the platform</h2>
 			<div class="our-offices __responsive" style="margin-top: 50px;">
 				<ul class="list">
 					<li class="list-item">
