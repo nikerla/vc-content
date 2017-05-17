@@ -70,7 +70,9 @@ tags :
 					</div>
 				</div>
 			</div>
-			<h2 class="sub-title">Learn more from our B2B customers about the platform</h2>
+			<div style="text-align: center;">
+				<h2 class="sub-title">Our B2B customers about the platform</h2>
+			</div>
 			<div class="our-offices __responsive" style="margin-top: 20px;">
 				<ul class="list">
 					<li class="list-item">
