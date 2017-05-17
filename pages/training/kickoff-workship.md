@@ -40,11 +40,20 @@ permalink: our-services/training/kickoff-workship
 						<li>A modern web browser</li>
 					</ul>
 				</div>
-                <h3>Overview</h3>
-                <p style="word-spacing: normal;">This workshop is the fastest and most effective way to become familiar with our team and product. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments, best practices and real case of launching large enterprise solutions. You will learn about all advanced technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Kickoff Workshop" course.</p>
-                <div style="text-align: center;">
-                    <a href="/contact-us" class="button fill" style="width: 200px;">Register</a>
-                </div>
+				<div style="word-spacing: normal;">
+					<h3>Overview</h3>
+					<p>This workshop is the fastest and most effective way to become familiar with our team and product. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments, best practices and real case of launching large enterprise solutions. You will learn about all advanced technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Kickoff Workshop" course.</p>
+					<div style="text-align: center;">
+						<a href="/contact-us" class="button fill" style="width: 200px;">Register</a>
+					</div>
+					<h3>See our other trainings</h3>
+					<p>
+						<a href="/our-services/training/developer-fundamentals">Developer Fundamentals</a><br />
+						<a href="/our-services/training/advanced-development">Advanced Development</a><br />
+						<a href="/our-services/training/basic-administrator">Basic Administrator</a><br />
+						<a href="/our-services/training/advanced-administrator">Advanced Administrator</a>
+					</p>
+				</div>
 			</div>
 		</div>
 	</div>

@@ -44,11 +44,20 @@ permalink: our-services/training/developer-fundamentals
                         <li>At least 20% free disk space</li>
 					</ul>
 				</div>
-                <h3>Overview</h3>
-                <p style="word-spacing: normal;">This workshop is the most effective way to start development of your ecommerce solution with our platform. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments and best practices. You will learn about all the basic technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Developer Fundamentals Workshop" course.</p>
-                <div style="text-align: center;">
-                    <a href="/contact-us" class="button fill" style="width: 200px;">Register</a>
-                </div>
+				<div style="word-spacing: normal;">
+					<h3>Overview</h3>
+					<p>This workshop is the most effective way to start development of your ecommerce solution with our platform. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments and best practices. You will learn about all the basic technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Developer Fundamentals Workshop" course.</p>
+					<div style="text-align: center;">
+						<a href="/contact-us" class="button fill" style="width: 200px;">Register</a>
+					</div>
+					<h3>See our other trainings</h3>
+					<p>
+						<a href="/our-services/training/kickoff-workship">Kickoff Workshop</a><br />
+                        <a href="/our-services/training/advanced-development">Advanced Development</a><br />
+                        <a href="/our-services/training/basic-administrator">Basic Administrator</a><br />
+                        <a href="/our-services/training/advanced-administrator">Advanced Administrator</a>
+					</p>
+				</div>
 			</div>
 		</div>
 	</div>
