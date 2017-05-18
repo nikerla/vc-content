@@ -20,7 +20,7 @@ tags:
     {% include 'glossary-left-menu' %}
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">Cloud ecommerce solutions</h1>
+            <h1 class="title">Cloud ecommerce solutions. Ecommerce cloud benefits</h1>
         </div>
         <p class="text">
             The term "cloud e-commerce" refers to the process of outsourcing of a remote network of servers hosted on the Internet to use application services, store and process data. Essentially, it is a cloud-based e-commerce versus software installed on a local server.
@@ -61,7 +61,7 @@ tags:
         </p>
         <h2>Easy accessibility from any place</h2>
         <p class="text">
-            If your business operates in multiple countries, a cloud-based solution offers clear advantages considering the speed required to roll out and manage an e-commerce application. With cloud-based e-commerce you have a remote network of servers that responds dynamically to your demands to deliver content fast no matter where your customer is.
+            If your business operates in multiple countries, a cloud-based solution offers clear advantages considering the speed required to roll out and manage an e-commerce application. With ecommerce cloud you have a remote network of servers that responds dynamically to your demands to deliver content fast no matter where your customer is.
         </p>
         <h2>How to pick a service for your commerce?</h2>
         <p class="text">
