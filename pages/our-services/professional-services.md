@@ -1,29 +1,13 @@
 ---
-title: Ecommerce consulting, trainings and workshops - Virto Commerce
-description: Ecommerce consulting, trainings and workshops
+title: Consulting - Virto Commerce
+description: Consulting
 date: 2016-03-21
 permalink: our-services/professional-services
 ---
 <article role="main" class="main">
     <div class="for-business __responsive">
-        <h1 class="head-title" style="line-height: normal;">Ecommerce consulting, trainings and workshops from Virto Commerce</h1>
+        <h1 class="head-title" style="line-height: normal;">Ecommerce consulting</h1>
         <p class="text">Our professional services team is committed to helping you improve your business by keeping your Virto Commerce installation on-time, on-track, and perfectly tailored to your organization's unique requirements.</p>
-        <div class="advantages">
-            <ul class="list">
-                <li class="list-item">
-                    <img alt="Ecommerce consulting, trainings and workshops from Virto Commerce" src="../assets/images/training/564043186.jpg" />
-                    <p class="title">Ecommerce trainings and workshops</p>
-                    <p>Our workshops include kickoff ecommerce workshop, 2 Virto Commerce developer trainings (basic and advanced) and 2 Virto Commerce administrator trainings (basic and advanced).</p>
-                    <p>
-                        <a href="/our-services/training/kickoff-workship">Kickoff Workshop</a><br />
-                        <a href="/our-services/training/developer-fundamentals">Developer Fundamentals</a><br />
-                        <a href="/our-services/training/advanced-development">Advanced Development</a><br />
-                        <a href="/our-services/training/basic-administrator">Basic Administrator</a><br />
-                        <a href="/our-services/training/advanced-administrator">Advanced Administrator</a>
-                    </p>
-                </li>
-            </ul>
-        </div>
         <div class="advantages">
             <ul class="list">
                 <li class="list-item">
