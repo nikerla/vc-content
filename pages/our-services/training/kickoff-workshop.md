@@ -48,9 +48,9 @@ permalink: our-services/training/kickoff-workship
 					</div>
 					<h3>See our other trainings</h3>
 					<p>
-						<a href="/our-services/training/developer-fundamentals">Developer Fundamentals</a><br />
-						<a href="/our-services/training/advanced-development">Advanced Development</a><br />
-						<a href="/our-services/training/basic-administrator">Basic Administrator</a><br />
+						<a href="/our-services/training/developer-fundamentals">Developer Fundamentals</a> | 
+						<a href="/our-services/training/advanced-development">Advanced Development</a> | 
+						<a href="/our-services/training/basic-administrator">Basic Administrator</a> | 
 						<a href="/our-services/training/advanced-administrator">Advanced Administrator</a>
 					</p>
 				</div>
