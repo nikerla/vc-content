@@ -1,6 +1,6 @@
 ---
-title: Ecommerce trainings and workshops from Virto Commerce
-description: Ecommerce trainings and workshops from Virto Commerce
+title: Ecommerce trainings and workshops
+description: Ecommerce trainings and workshops
 date: 2014-01-30
 permalink: our-services/training
 tags : 
@@ -10,7 +10,7 @@ tags :
 ---
 <article role="main" class="main">
     <div class="for-business __responsive">
-        <h1 class="head-title" style="line-height: normal;">Ecommerce trainings and workshops from Virto Commerce</h1>
+        <h1 class="head-title" style="line-height: normal;">Ecommerce trainings and workshops</h1>
         <p class="text">Our workshops include kickoff ecommerce workshop, 2 Virto Commerce developer trainings (basic and advanced) and 2 Virto Commerce administrator trainings (basic and advanced).</p>
         <div class="advantages">
             <ul class="list">
