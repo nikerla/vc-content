@@ -64,7 +64,7 @@ tags :
            The history of ThomasNet dates back to over a century ago, and still, nowadays, it connects manufacturing and industrial buyers and sellers. It is the leading online platform for B2B vendor search and product sourcing and is visited by more than 1.9 million customers each month. ThomasNet attracts a lot of engineers, facility managers and purchasing agents from around the world. The platform is entirely free. It makes it simple to find a supplier thanks to its semantic product search technology with informative company profiles. This marketplace promotes more than 650,000 distributors, manufacturers and service companies within 67,000 industrial categories. The only downside of ThomasNet is that unlike Alibaba it does not allow a buyer to publish a general “Request for Quote.”
         </p>
          <h3>Trade Key</h3>
-         <img alt="B2B e commerce companies and websites" src="assets/images/TradeKey.png"></img>
+         <img alt="B2B e commerce companies and websites" src="assets/images/TradeKey1.png"></img>
          <p class="text">
           Trade Key is Australia’s answer to the rest of the world. Having 158,000 members, it is the most popular B2B marketplace in Australia! Despite not being a large marketplace, it can easily provide any product within 38 selected categories. The design of the website is very simple and a bit old-fashioned, but it reveals a huge variety of products right in front of your eyes. The strengths of this site are the absence of a Sign-Up fee, as well as the presence of relevant trade shows and brochures. 
         </p>
@@ -83,12 +83,12 @@ tags :
           Being owned by Staples, Quill.com is the largest office supplier, which is purposefully created for B2B e-commerce. The company’s website is prominent for its user-friendly interface, a wide variety of educational and office supplies, offering many great customer-benefit coupons, special deals, and rewards. Businesses of all sizes value the site for the variety of its general office supplies, electronics, furniture, cleaning supplies and break room products. The benefits of using Quill.com include a balanced marketing package that includes logo design, SEO, and social coupon services. Quill’s customer service is quite decent, offering to e-mail, call or chat with an advisor in case you need any help. The great thing you can do when shopping on this website is subscribe to their newsletter to receive exclusive e-mail coupons and deals, offering a huge variety of bulk-buy discounts for businesses of all sizes.
         </p>
          <h3>Ferguson</h3>
-         <img alt="B2B e commerce companies and websites" src="assets/images/Ferguson.png"></img>
+         <img alt="B2B e commerce companies and websites" src="assets/images/Ferguson1.png"></img>
          <p class="text">
           Ferguson is one of the few websites that employ all of the best practices highlighted earlier in the article. This company definitely knows how to do their research when it comes to attracting customers to its brand. The difference between Ferguson and other B2B e commerce websites is noticeable right from the home page. The company has applied all the best practices of modern web-design to their website - it looks professional and is focused on its great and unique products. They are currently presenting the biggest share of marketing in their niche, and their popularity seems to be growing from month to month. Ferguson can be credited for using bright and fresh images and detailed descriptions. The merchandising team has put a lot of effort into making sure you can find the right product that perfectly fits your needs. 
         </p>
         <h3>Medline.com</h3>
-        <img alt="B2B e commerce companies and websites" src="assets/images/Medline.png"></img>
+        <img alt="B2B e commerce companies and websites" src="assets/images/Medline1.png"></img>
          <p class="text">
         Medline is currently the largest privately owned manufacturer of healthcare supplies in the USA. They distribute more than 350,000 products in all the areas of medicine, which also makes them the biggest distributor of medical supplies in the world. As you enter the website, it offers you to choose from 9 areas of interest, which then affects the type of information provided to you and your overall experience. Such personalization is a great bonus that helps you find products that are most relevant to your needs.
         </p>
