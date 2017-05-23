@@ -69,6 +69,7 @@ tags :
           Trade Key is Australia’s answer to the rest of the world. Having 158,000 members, it is the most popular B2B marketplace in Australia! Despite not being a large marketplace, it can easily provide any product within 38 selected categories. The design of the website is very simple and a bit old-fashioned, but it reveals a huge variety of products right in front of your eyes. The strengths of this site are the absence of a Sign-Up fee, as well as the presence of relevant trade shows and brochures. 
         </p>
         <h3>MSC Industrial Supply Co.</h3>
+        <img alt="B2B e commerce companies and websites" src="assets/MSC.png"></img>
          <p class="text">
           This industrial supply website is dedicated to quick ordering and reordering of industrial services and products. It is currently the largest digital marketer and distributor of “MRO” (Maintenance, Repair, and Operations) supplies. It should be noted that MSC is one of the largest sales forces, distributing over 500,000 industrial products from over 2,000 suppliers to over 500,000 customers. The company should be credited for the tremendous amount of effort they have spent on customer experience and on optimizing their website. The search function is great - it allows you to find items by their serial numbers and implements visual catalogs.
         </p>
