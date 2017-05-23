@@ -49,6 +49,7 @@ tags :
            TUsing our personal experience and the E-consultancy blog reviews, we have compiled a list of vendors, who provide inspiration and have truly been revolutionary and innovative. 
         </p>
         <h3>Alibaba</h3>
+        <img alt="B2B e commerce companies and websites" src="assets/images/TradeKey.png"></img>
          <p class="text">
            The e-commerce company based in China and launched in 1999. It is currently the world’s largest global e-commerce platform for small businesses. More than 18 million buyers and sellers from around 240 countries and regions use this platform. It showcases a great variety of products in more than 40 industry categories ranging from raw materials to finished goods. Alibaba Group does not sell products and services directly. Instead, it offers a platform that connects B2B sellers and buyers from around the world. The huge benefit of Alibaba is that it is free to join, as it makes most of its profits via commissions and advertising. Being a seller, you can display up to 50 products/services with no fee, and with the Gold membership, you get a mini- website to display the unlimited amount of goods or services. As a buyer, the only thing that you need to do is “Request a Quote” and let sellers come to you. We consider Alibaba to be the go-to English-language platform for cross-border trade and for expanding to overseas markets. 
         </p>
