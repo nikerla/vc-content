@@ -94,7 +94,7 @@ tags :
         Medline is currently the largest privately owned manufacturer of healthcare supplies in the USA. They distribute more than 350,000 products in all the areas of medicine, which also makes them the biggest distributor of medical supplies in the world. As you enter the website, it offers you to choose from 9 areas of interest, which then affects the type of information provided to you and your overall experience. Such personalization is a great bonus that helps you find products that are most relevant to your needs.
         </p>
         <h3>Thermo Fisher Scientific</h3>
-        <img alt="B2B e commerce companies and websites" src="assets/images/Thermo Fisher Scientific.png"></img>
+        <img alt="B2B e commerce companies and websites" src="assets/images/TFS.png"></img>
          <p class="text">
         Thermo Fisher Scientific is an American company that has evolved in 2006 as a result of merging the Thermo Electron with the Fisher Scientific. It provides laboratory and medical equipment used in scientific research all over the world. The company makes proper use of promotions and deals, offering seasonal discounts and special coupons to “Restock Your Lab.” The company is highly valued among biotechnological and pharmaceutical laboratories and corporations, colleges, universities, schools, research facilities, and hospitals. The company has expanded to more than 150 countries, having approximately over 350,000 customers and offering around 600,000 products and services. Its website is comprehensive and  is a good example of a B2B e-commerce site. 
         </p>
