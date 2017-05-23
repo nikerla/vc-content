@@ -1,4 +1,4 @@
-var storefrontApp = angular.module('storefrontApp', ['hljs']);
+var storefrontApp = angular.module('storefrontApp', ['hljs', 'angularMoment']);
 
 storefrontApp.config(['$locationProvider', function ($locationProvider) {
     $locationProvider.html5Mode({
@@ -7,8 +7,9 @@ storefrontApp.config(['$locationProvider', function ($locationProvider) {
     });
 }]);
 
-storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$compile', '$window', function ($scope, $http, $location, $compile, $window) {
+storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$compile', '$window', 'moment', function ($scope, $http, $location, $compile, $window, moment) {
     $scope.loading = false;
+	$scope.moment = moment;
     $scope.navigateUrl = function (url, event) {
         event.preventDefault();
         event.stopPropagation();
@@ -46,4 +47,14 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
             });
         });
     }
-}]);
+	
+	$scope.timeSpan = function(input) {
+		var m = moment(input);
+		var valid = m.isValid();
+		
+		if (valid)
+			return m.fromNow();
+		else
+			return input;
+	}
+}])
