@@ -4,9 +4,9 @@ category: virtocommerce-news
 date: '2017-05-25'
 permalink: blog/b2b-online-aftermath
 main-image: ../../assets/images/blog/B2B Online Aftermath.jpg
-excerpt: B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field.
+excerpt: B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
 tags:
-  
+
 - technical leadership
 - ecommerce
 - enterprise-ecommerce
@@ -16,7 +16,7 @@ tags:
 title: B2B Online Aftermath
 ---
 
-### B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field.
+### B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
 <img src='../../assets/images/blog/B2B Online Aftermath.jpg'>
 
 Our CEO Alexandre Siniouguine has returned from the [B2B Online 2017](http://b2bmarketing2016.wbresearch.com) in Chicago! We have been planning to participate in this conference for quite a while – it’s a great opportunity for us as a company to learn and share our experience with the fellow professionals in the field, network and make useful connections as well as to dip into the community’s knowledge of the latest industry trends.
@@ -37,16 +37,23 @@ The event offered multiple ways of participating from interactive roundtable dis
 One of our main takeaways from the conference was the concept of *content scoring*. The content scoring is quickly becoming a prominent trend in B2B. This new methodology allows tracking certain publications or campaigns and evaluating how well they perform in generating leads and opportunities. Unlike page views, shares or unique visitors, content scoring indicates the exact value of the content an organization shares based on how “successful leads” (closed deals) had interacted with it. It enables marketers to make educated decisions on which content assets to focus on.
 Here are some screenshots that showcase how it is managed.
 
-[SCREENSHOTS]
+<img src='../../assets/images/blog/Screen1.jpg'>
+<img src='../../assets/images/blog/Screen2.jpg'>
+<img src='../../assets/images/blog/Screen3.jpg'>
+<img src='../../assets/images/blog/Screen4.jpg'>
 
 When it comes to the speakers at the conference, there were several we would like to point out specifically, as they have made the most impact on us. 
 
 First and foremost, we need to name **Justin King**’s presentation on *“3 mistakes ecommerce distributors make and how to fix them”*. He has encouraged distribution professionals to treat their eCommerce efforts the same as they would their physical branch and to build a strong and well-structured strategy for it.
 
 •	Competitive Assessment
+
 •	Financial model
+
 •	Return on assets
+
 •	Staffing plan
+
 •	Marketing and communications roadmap
 
 These were the aspects he suggested to use for planning.
@@ -55,6 +62,7 @@ Among his other suggestions were designing a customer experience for adoption an
 -	Product data
 -	Search box
 -	Type ahead search
+
 And also, to turn the focus to internal marketing first, which he believes would strengthen marketing efforts as a whole - 
 *"No one knows more about your products or your customers. Use that knowledge to win."*
 
@@ -65,6 +73,7 @@ She recommends personalizing multiple aspects of an email rather than just the h
 -	Opener 
 -	Offers
 -	Graphics.
+
 In addition, she talked about the best use of timed and triggered emails and provided some curious examples of how her recommended strategies are implemented within her company.
 
 **Michael Hauk** presented an interesting take on going digital in the B2B sector. He brought up the trendy topic of a number of B2C eCommerce features being essential for B2B-focused solutions as well, as B2B customers expect everything they are used to in their B2C lives. He has a very numbers-based approach, recommending focusing on measuring the data for making strategic choices and investing in digital content and experiences where they drive value.
