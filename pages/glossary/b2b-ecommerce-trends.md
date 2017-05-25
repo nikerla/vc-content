@@ -1,6 +1,6 @@
 --- 
-title: B2B E-commerce trends
-description: What are the main B2B E-commerce trends in 2017? Learn more in our article.
+title: B2B ecommerce trends
+description: What are the main B2B Ecommerce trends in 2017? Learn more in our article.
 date: 2017-04-27 
 canonical: https://virtocommerce.com/glossary/b2b-ecommerce-trends
 permalink: glossary/b2b-ecommerce-trends
@@ -25,9 +25,9 @@ tags :
         </div>
         <img alt="B2B E-commerce trends" src="assets/images/b2becommerce.jpg"></img>
         <p class="text">
-          2016 has been a great year for B2B e-commerce, with the USA and China being the leaders in the industry and having sales reach over 1.2 billion dollars. Forrester suggests that the sales volume in B2B e-commerce will increase up to 1 trillion dollars within the next five years. With such a flourishing B2B e-commerce industry, countries like the USA and China are setting high standards and bringing certain major trends into play. The digital marketplace is a highly competitive environment, where each business has to either adopt the latest trends fast or simply let other companies take over the position of leadership. In this article, we would like to highlight the most prominent B2B e-commerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
+          2016 has been a great year for B2B e-commerce, with the USA and China being the leaders in the industry and having sales reach over 1.2 billion dollars. Forrester suggests that the sales volume in B2B e-commerce will increase up to 1 trillion dollars within the next five years. With such a flourishing B2B e-commerce industry, countries like the USA and China are setting high standards and bringing certain major trends into play. The digital marketplace is a highly competitive environment, where each business has to either adopt the latest trends fast or simply let other companies take over the position of leadership. In this article, we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
         <h2>
-        The B2B E-Commerce Trends of 2016
+        The B2B ECommerce Trends of 2016
         </h2>
         </p>
         <p class="text">
@@ -61,7 +61,7 @@ tags :
             <strong>Focus on global markets.</strong> The most important thing for an owner of a B2B e-commerce platform is to concentrate beyond his local area, beyond the existing customer base. In return for the risks that may appear, the business can gain millions of potential customers from the ever-growing Asian markets. This bold move may entail selling the products in local currencies, accepting local methods of payment, and provide an entirely different customer experience that is oriented towards a different culture, with different laws and government regulations. 
         </p>
         <p class="text">
-          These were the trends that were mostly discussed in the mediaweb. Adopt these B2B e-commerce trends to always stand on top of your game!  
+          These were the trends that were mostly discussed in the mediaweb. Adopt these B2B ecommerce trends to always stand on top of your game!  
         </p>
         <div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
