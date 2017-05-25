@@ -17,13 +17,13 @@ tags :
                 <li class="list-item">
                     <a href="our-services/training/kickoff-workship"><img alt="Kickoff Workshop" src="../assets/images/training/210341884.jpg" /></a>
                     <p class="title"><a href="our-services/training/kickoff-workship">Kickoff Workshop</a></p>
-                    <p>This workshop is the fastest and most effective way to become familiar with our team and product. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments, best practices and real case of launching large enterprise solutions. You will learn about all advanced technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Kickoff Workshop" course.</p>
+                    <p>This ecommerce training is the fastest and most effective way to become familiar with our team and product. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments, best practices and real case of launching large enterprise solutions. You will learn about all advanced technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Kickoff Workshop" course.</p>
                     <a href="our-services/training/kickoff-workship" class="button fill" style="width: 200px;">Register</a>
                 </li>
                 <li class="list-item">
                     <a href="our-services/training/developer-fundamentals"><img alt="Developer Fundamentals" src="../assets/images/training/293185739.jpg" /></a>
                     <p class="title"><a href="our-services/training/developer-fundamentals">Developer Fundamentals</a></p>
-                    <p>This workshop is the most effective way to start development of your ecommerce solution with our platform. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments and best practices. You will learn about all the basic technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Developer Fundamentals Workshop" course.</p>
+                    <p>This e commerce course is the most effective way to start development of your ecommerce solution with our platform. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments and best practices. You will learn about all the basic technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Developer Fundamentals Workshop" course.</p>
                     <a href="our-services/training/developer-fundamentals" class="button fill" style="width: 200px;">Register</a>
                 </li>
                 <li class="list-item">
