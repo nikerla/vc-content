@@ -37,10 +37,13 @@ The event offered multiple ways of participating from interactive roundtable dis
 One of our main takeaways from the conference was the concept of *content scoring*. The content scoring is quickly becoming a prominent trend in B2B. This new methodology allows tracking certain publications or campaigns and evaluating how well they perform in generating leads and opportunities. Unlike page views, shares or unique visitors, content scoring indicates the exact value of the content an organization shares based on how “successful leads” (closed deals) had interacted with it. It enables marketers to make educated decisions on which content assets to focus on.
 Here are some screenshots that showcase how it is managed.
 
-<img src='../../assets/images/blog/Screen1.jpg'>
-<img src='../../assets/images/blog/Screen2.jpg'>
-<img src='../../assets/images/blog/Screen3.jpg'>
-<img src='../../assets/images/blog/Screen4.jpg'>
+<img src='../../assets/images/blog/rsz_screen1.jpg'>
+
+<img src='../../assets/images/blog/rsz_screen2.jpg'>
+
+<img src='../../assets/images/blog/rsz_screen3.jpg'>
+
+<img src='../../assets/images/blog/rsz_screen4.jpg'>
 
 When it comes to the speakers at the conference, there were several we would like to point out specifically, as they have made the most impact on us. 
 
