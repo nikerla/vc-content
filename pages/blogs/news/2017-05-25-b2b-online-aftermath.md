@@ -38,11 +38,11 @@ One of our main takeaways from the conference was the concept of *content scorin
 Here are some screenshots that showcase how it is managed.
 
 <img src='../../assets/images/blog/rsz_screen1.jpg'>
-
+<>
 <img src='../../assets/images/blog/rsz_screen2.jpg'>
-
+<>
 <img src='../../assets/images/blog/rsz_screen3.jpg'>
-
+<>
 <img src='../../assets/images/blog/rsz_screen4.jpg'>
 
 When it comes to the speakers at the conference, there were several we would like to point out specifically, as they have made the most impact on us. 
