@@ -7,10 +7,10 @@ priority: 3
 ---
 ## Introduction
 
-Virto Commerce Platform Style Guide will help you develop consistent modules for the platform. You can use existing styles described in our online [Style Guide](http://virtocommerce.com/styleguide/index.html)[ ]()or you can add additional styles using the rules described below.
+Virto Commerce Platform Style Guide will help you develop consistent modules for the platform. You can use existing styles described in our online [Style Guide](https://virtocommerce.com/styleguide/index.html)[ ]()or you can add additional styles using the rules described below.
 
-* [Style Guide](http://virtocommerce.com/styleguide/index.html) - guidance on css and html to be used when creating UI for the platform
-* [Blade Constructor](http://virtocommerce.com/styleguide/blade-constructor.html) - use to create your custom blades
+* [Style Guide](https://virtocommerce.com/styleguide/index.html) - guidance on css and html to be used when creating UI for the platform
+* [Blade Constructor](https://virtocommerce.com/styleguide/blade-constructor.html) - use to create your custom blades
 
 ## Rules
 
