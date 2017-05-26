@@ -53,7 +53,7 @@ In order to make routine orders fast and easy for your clients, while not taking
 
 As we have previously determined, the sale types and customer relations systems are among the key points when defining the main differences between B2B and B2C sectors of commerce. While in B2C you’re selling the same few items to a huge pool of customers, in B2B you’re selling products to the same 1 customer by pallet-load. That requires different logistics and a different way of organizing shipping processes.
 
-*Quick example; you’re a sales manager; you ordered the list of products from the distributor. You already know the delivery date, so you can start selling even before delivery - process backorders. Upon entering your estimated/required delivery date the products can now be published in the catalog automatically with specific delivery terms.*
+> Quick example; you’re a sales manager; you ordered the list of products from the distributor. You already know the delivery date, so you can start selling even before delivery - process backorders. Upon entering your estimated/required delivery date the products can now be published in the catalog automatically with specific delivery terms.
 
 Thus your e-commerce solution needs to be able to handle that difference. It’s essential for B2B e-commerce to have a well-structured system, where returns, concerns, etc. could come through a measurable channel, and metrics and analytics can be applied. Shipping and tracking would need to accommodate higher volumes within fewer order entries as well.
 

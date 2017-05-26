@@ -1,77 +1,51 @@
 ---
-title: Training Workshop - Enterprise .NET open-source ecommerce cloud platform
-description: Training Workshop - Enterprise .NET open-source ecommerce cloud platform
+title: Ecommerce training courses and classes
+description: Ecommerce training courses and classes
 date: 2014-01-30
 permalink: our-services/training
 tags : 
 - research
 - commerce
+- training
 ---
-
-<div class="training">
-	<div class="training-head responsive">
-		<a class="training-link" href="#">Training</a>
-		<div class="training-actions">
-			<!--<a href="#" class="button fill mini">Browse Catalog</a>-->
-			<a href="/contact-us" class="button fill mini">Register</a>
-		</div>
-	</div>
-	<div class="training-body">
-		<h1 class="head-title">Virto Commerce Workshop</h1>
-		<div class="responsive">
-			<div class="training-inner">
-				<div class="col">
-					<figure>
-						<img src="/assets/images/training/oleg.jpg" alt="Oleg Zhuk" height="700">
-					</figure>
-					<h3>Overview</h3>
-					<p>					
-					This workshop is the fastest and most effective way to become familiar with our team and product. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments, best practices and real case of launching large enterprise solutions. You will learn about all advanced technology used in our product.
-					Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Workshop" course.
-					</p>
-				</div>
-				<div class="col">
-					<h3>Course Details</h3>
-					<p><b>Objectives</b></p>
-					<p>The workshop covers real-world scenarios and instructors work with the participants on ways to work with platform team, developing and managing e-commerce projects, archtecture etc. This includes an Virto Commerce overview, creation of enterprise level solutions, business goals and recommended architecture for designing a system to scale. the workshop can be customized to fit specific audience.</p>
-					<p><b>Audience</b></p>
-					<p>This workshop is designed to cover broad ranges of roles, including solutions architects, developers, project managers and project owners. </p>
-					<p><b>Duration</b></p>
-					<p>1 to 3 Day(s) | Class is scheduled from 9 a.m. to 5 p.m. </p>
-					<p><b>Prerequisites</b></p>
-					<ul class="list">
-						<li>No prior knowledge of the Virto Commerce is required</li>
-						<li>General knowledge of what e-commerce platform is</li>
-					</ul>
-					<p><b>Requirements</b></p>
-					<ul class="list">
-						<li>Laptop with connectivity to Wi-Fi</li>
-						<li>Windows 7 or later</li>
-						<li>A modern web browser</li>
-						<li>Visual Studio 2015 or later installed</li>
-						<li>SQL Server 2008 Developer Edition or later installed</li>
-						<li>At least 20% free disk space</li>
-					</ul>
-					<!--
-					<div class="actions">
-						<a class="button" href="#">Download Outline</a>
-					</div>
-					-->
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--
-	<div class="training-reviews">
-		<div class="reviews-inner">
-			<figure class="reviews-img">
-				<img class="reviews-pic" src="assets/images/tr-photo.png" alt="">
-			</figure>
-			<div class="reviews-info">
-				<p>Some quote goes here. </p>
-				<p class="author">Autho | Company</p>
-			</div>
-		</div>
-	</div>
-	-->
-</div>
+<article role="main" class="main">
+    <div class="for-business __responsive">
+        <h1 class="head-title" style="line-height: normal;">Ecommerce training courses and classes</h1>
+        <p class="text">Our ecommerce training courses and classes include kickoff ecommerce workshop, 2 Virto Commerce developer trainings (basic and advanced) and 2 Virto Commerce administrator trainings (basic and advanced).</p>
+        <div class="advantages">
+            <ul class="list">
+                <li class="list-item">
+                    <a href="our-services/training/kickoff-workship"><img alt="Kickoff Workshop" src="../assets/images/training/210341884.jpg" /></a>
+                    <p class="title"><a href="our-services/training/kickoff-workship">Kickoff Workshop</a></p>
+                    <p>This ecommerce training is the fastest and most effective way to become familiar with our team and product. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments, best practices and real case of launching large enterprise solutions. You will learn about all advanced technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Kickoff Workshop" course.</p>
+                    <a href="our-services/training/kickoff-workship" class="button fill" style="width: 200px;">Register</a>
+                </li>
+                <li class="list-item">
+                    <a href="our-services/training/developer-fundamentals"><img alt="Developer Fundamentals" src="../assets/images/training/293185739.jpg" /></a>
+                    <p class="title"><a href="our-services/training/developer-fundamentals">Developer Fundamentals</a></p>
+                    <p>This e commerce course is the most effective way to start development of your ecommerce solution with our platform. It is an instructor-led training course, incorporating real-world examples of enterprise e-commerce deployments and best practices. You will learn about all the basic technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Developer Fundamentals Workshop" course.</p>
+                    <a href="our-services/training/developer-fundamentals" class="button fill" style="width: 200px;">Register</a>
+                </li>
+                <li class="list-item">
+                    <a href="our-services/training/advanced-development"><img alt="Advanced Development" src="../assets/images/training/90267736.jpg" /></a>
+                    <p class="title"><a href="our-services/training/advanced-development">Advanced Development</a></p>
+                    <p>This workshop is the most effective way to start development of your complex ecommerce solution using our platform and its broad range of additional modules and APIs. It is an instructor-led training course, incorporating real-world examples of enterprise B2B e-commerce deployments and best practices. You will learn about all the basic technology used in our product. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Advanced Development Workshop" course.</p>
+                    <a href="our-services/training/advanced-development" class="button fill" style="width: 200px;">Register</a>
+                </li>
+                <li class="list-item">
+                    <a href="our-services/training/basic-administrator"><img alt="Basic Administrator" src="../assets/images/training/81473389.jpg" /></a>
+                    <p class="title"><a href="our-services/training/basic-administrator">Basic Administrator</a></p>
+                    <p>This workshop is the most effective way to start managing your  ecommerce solution using our Virto Commerce Manager with its broad range of additional tools. It is an instructor-led training course, incorporating practical examples and best practices. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Basic Administrator Workshop" course.</p>
+                    <a href="our-services/training/basic-administrator" class="button fill" style="width: 200px;">Register</a>
+                </li>
+                <li class="list-item">
+                    <a href="our-services/training/advanced-administrator"><img alt="Advanced Administrator" src="../assets/images/training/172982525.jpg" /></a>
+                    <p class="title"><a href="our-services/training/advanced-administrator">Advanced Administrator</a></p>
+                    <p>This workshop is the most effective way to improve your content management skills for your growing ecommerce solution. It's absolutely a must-have training for those who broadens the business to another verticals or countries. It is an instructor-led training course, incorporating practical examples and best practices. Upon finishing this course, you will receive a Certificate of Completion for the "Virto Commerce Advanced Administrator Workshop" course.</p>
+                    <a href="our-services/training/advanced-administrator" class="button fill" style="width: 200px;">Register</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    {% include 'technologies' %}
+</article>

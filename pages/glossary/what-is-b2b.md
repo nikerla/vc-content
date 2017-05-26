@@ -1,11 +1,11 @@
 --- 
-title: What is B2B e commerce? B2B ecommerce examples
-description: What is B2B e commerce? What does this ecommerce type mean? B2B ecommerce examples
+title: What is business to business e commerce. B2B ecommerce 
+description: What is business to business e commerce. What does this business to business e-commerce type mean. B2B ecommerce examples
 date: 2017-03-13 
 canonical: https://virtocommerce.com/glossary/what-is-b2b 
 permalink: glossary/what-is-b2b
 ogimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
-ogtitle: What is B2B e-commerce (business 2 business). Definition&Information | Glossary Virto Commerce.
+ogtitle: What is B2B e-commerce (business to business e commerce). Definition&Information | Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
@@ -23,32 +23,33 @@ tags :
     {% include 'glossary-left-menu' %}    
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">What is B2B e commerce? B2B ecommerce examples</h1>
+            <h1 class="title">What is business to business e commerce? B2B ecommerce examples</h1>
         </div>
         <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
         <p class="text">
-          In order to understand what B2B e-commerce is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.
+          In order to understand what business to business e commerce is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.
         </p>
         <p class="text">
-           B2B (business 2 business) is focused on sales of products, services, or information to other businesses, and stands in contrast to B2C (business to consumer) and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization and benefits from technological innovations.
+           B2B (business to business) is focused on sales of products, services, or information to other businesses, and stands in contrast to B2C (business to consumer) and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization and benefits from technological innovations.
         </p>
-        <h2>What is a B2B company?</h2>
+        <h2>What is B2B commerce company?</h2>
         <p class="text">
             A B2B company is essentially a business relationship manufacturer and a wholesaler, or a wholesaler and a retailer. A supply chain usually involves more than two companies. Such goods as plastic, grain, or chemicals don't always have a practical use for consumers, but are important for wholesale distribution, which is the base of the business-2-business model. Products and resources may be provided from a number of suppliers; and careful planning is vital to performing-efficient transactions, considering complex integration schemes.
         </p>
-        <h2>What is B2B e-commerce?</h2>
+        <h2>What is business to business e-commerce?</h2>
         <p class="text">
-           The Internet allows companies to increase their prospect pool. Loud online presence grants access to many more potential consumers and partners than traditional advertising models. According to statistics, over 90% of product researches on B2B level start with search engines. So, the Internet becomes an essential trade channel.
+           The Internet allows companies to increase their prospect pool. Loud online presence grants access to many more potential consumers and partners than traditional advertising models. According to statistics, over 90% of product researches on B2B level start with search engines. So, the Internet becomes an essential trade channel for B2B ecommerce examples.
         </p>
          <p class="text">
            A company would make great digital marketing efforts to evolve into a strong brand. There are many articles and training courses dedicated to online promotion and SEO, but all efforts would be in vain, if a prospective partner leaves the page in a few minutes, because the website itself is “inconvenient”. If a visitor is confused from the first minute of being on the website, all other benefits - a company offers may fade from the view.
         </p>
          <p class="text">
-           B2B ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.
+           Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.
         </p>
         <p class="text">
             In B2B e commerce examples the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of business to business ecommerce software.
         </p>
+        <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
         <h2>What is B2B software?</h2>
         <p class="text">
             A B2B e-commerce solution must meet the following requirements:
@@ -90,10 +91,11 @@ tags :
           Many <a href="https://virtocommerce.com/b2b-ecommerce">B2B ecommerce solutions and platforms</a> share similar practices, while providing slightly different sets of features and functions. Before you invest it's always useful to research and examine the specific criteria that are vital to your business to business e-commerce model.
         </p>
         <p class="text">
-          Virto Commerce B2B commerce solution is built to support complex scenarios. The possibilities that this platform offers meet the full specter of business requirements to succeed in a competitive market. 
+          Virto Commerce B2B commerce solution is built to support complex scenarios. The possibilities that this platform offers meet the full specter of business requirements to succeed in a competitive market.  
         </p>
         <div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
+            <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
     </div>

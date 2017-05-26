@@ -22,7 +22,7 @@ The 2.2 release is here and it brings many innovative features. The sprint was o
 * **Zapier Authentication API** - Zapier integration module API now works only if valid API key provided
 * **Property Management redesigned** - multi-language dictionary property management redesigned in catalogs. Setting a value in catalog default language results in assigning corresponding values in all other languages. Added support for individual catalog item (product or variation) properties management.
 * **Store SEO** - added SEO management to store UI
-* **Documentation** - added article about background jobs, new <a href="https://www.youtube.com/watch?v=2TORKsoj5Bw" target="_blank" rel="nofollow">youtube video</a> on how to create Zap with VCF in Zapier, more documentation updates can be seen <a href="http://virtocommerce.com/docs" target="_blank">here</a>
+* **Documentation** - added article about background jobs, new <a href="https://www.youtube.com/watch?v=2TORKsoj5Bw" target="_blank" rel="nofollow">youtube video</a> on how to create Zap with VCF in Zapier, more documentation updates can be seen <a href="https://virtocommerce.com/docs" target="_blank">here</a>
 
 ## What’s next?
 

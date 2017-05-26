@@ -19,7 +19,7 @@ aliases:
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you-trial" />
 					<div class="column">
 						<div class="control-group">
-							<label for="FullName">First name</label>
+							<label for="FullName">First name (required)</label>
 							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
 						</div>
 						<div class="control-group">
@@ -29,7 +29,7 @@ aliases:
 					</div>
 					<div class="column">
 						<div class="control-group">
-							<label for="LastName">Last name</label>
+							<label for="LastName">Last name (required)</label>
 							<input id="Contact[LastName]" tabindex="2" type="text" name="Contact[LastName]" class="form-input" required="required" autocomplete="family-name"/>
 						</div>		
 						<div class="control-group">
@@ -38,7 +38,7 @@ aliases:
 						</div>
 					</div>					
 					<div class="control-group">
-						<label for="Email">Your email</label>
+						<label for="Email">Your email (required)</label>
 						<input id="Contact[Email]" tabindex="5" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 					</div>					
 					<div class="control-group">

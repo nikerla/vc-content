@@ -1,5 +1,5 @@
 ---
-title: Dynamic content
+title: Dynamic content - Virto Commerce 1.13 User Guide
 description: Dynamic content
 layout: docs
 date: 2015-03-18T20:11:12.560Z

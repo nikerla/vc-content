@@ -26,7 +26,7 @@ Here is the list of some of new features (you can see more detailed list <a href
 * **Run as Azure Website** – PowerShell now deploys site as an Azure Website instead of Service by default
 * **Azure Web Jobs** – now can run as part of the Azure Website, eliminating Azure Scheduler Worker Role
 
-# What’s next?
+## What’s next?
 
 We currently working on the following features:
 

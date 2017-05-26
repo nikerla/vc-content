@@ -1,5 +1,5 @@
 ---
-title: Reporting
+title: Reporting - Virto Commerce 1.13 User Guide
 description: Reporting
 layout: docs
 date: 2015-03-18T20:11:12.560Z

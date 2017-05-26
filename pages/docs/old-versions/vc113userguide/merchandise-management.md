@@ -1,5 +1,5 @@
 ---
-title: Merchandise management
+title: Merchandise management - Virto Commerce 1.13 User Guide
 description: Merchandise management
 layout: docs
 date: 2015-03-18T20:11:12.560Z

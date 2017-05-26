@@ -15,7 +15,7 @@ permalink: demo
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you-demo" />
 					<div class="column">
 						<div class="control-group">
-							<label for="FullName">First name</label>
+							<label for="FullName">First name (required)</label>
 							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
 						</div>
 						<div class="control-group">
@@ -29,7 +29,7 @@ permalink: demo
 					</div>
 					<div class="column">
 						<div class="control-group">
-							<label for="LastName">Last name</label>
+							<label for="LastName">Last name (required)</label>
 							<input id="Contact[LastName]" tabindex="2" type="text" name="Contact[LastName]" class="form-input" required="required" autocomplete="family-name"/>
 						</div>		
 						<div class="control-group">
@@ -37,14 +37,14 @@ permalink: demo
 							<input id="Contact[Phone]" type="tel" tabindex="4" name="Contact[Phone]" class="form-input" autocomplete="mobile"/>
 						</div>
 						<div class="control-group">
-							<label for="JobTitle">Job Title</label>
+							<label for="JobTitle">Job Title (required)</label>
 							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" autocomplete="organization-title" />
 						</div>														
 					</div>
 					<div class="control-group">
 						<label for="Revenue">Revenue (Gross Merchandise Volume) per year (USD)</label>
 						<select id="Contact[Revenue]" name="Contact[Revenue]" type="text" class="form-input" tabindex="8">
-						<option value="" selected>Select expected revenue</option>
+							<option value="" selected>Select expected revenue</option>
 							<option value="1m">Up to 1 Million</option>
 							<option value="5m">1 - 5 Million</option>
 							<option value="10m">5 - 10 Million</option>

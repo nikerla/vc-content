@@ -1,12 +1,12 @@
 ---
-title: Cunsulting - Virto commerce
-description: Cunsulting - Virto commerce
+title: Consulting - Virto Commerce
+description: Consulting
 date: 2016-03-21
 permalink: our-services/professional-services
 ---
 <article role="main" class="main">
     <div class="for-business __responsive">
-        <h1 class="head-title">Consulting</h1>
+        <h1 class="head-title" style="line-height: normal;">Ecommerce consulting</h1>
         <p class="text">Our professional services team is committed to helping you improve your business by keeping your Virto Commerce installation on-time, on-track, and perfectly tailored to your organization's unique requirements.</p>
         <div class="advantages">
             <ul class="list">
@@ -18,7 +18,7 @@ permalink: our-services/professional-services
                 </li>
                 <li class="list-item">
                     <img alt="Code" src="../assets/images/consulting/code.png">
-                    <p class="title">Technical Consulting</p>
+                    <p class="title">Technical eCommerce Consulting</p>
                     <p>We can provide expert advice, with or without development assistance, to build the solution you need according to Virto Commerce’s coding standards and best-practices. Our experts can review your code and provide you with recommendations to improve operational stability, security, and possible future upgrade issues.
                     <br>
                     Through our on-site benchmarking and performance tuning service, we can also help your organization pinpoint and fix performance bottlenecks so you can maximize the responsiveness of various aspects within the system.
@@ -26,7 +26,7 @@ permalink: our-services/professional-services
                 </li>
                 <li class="list-item">
                     <img alt="Catalog" src="../assets/images/features/catalog.png">
-                    <p class="title">Audit</p>
+                    <p class="title">eCommerce Audit</p>
                     <p>
 We regularly perform functional and technical audits to ensure that our platform is being optimally utilized.
 <br>

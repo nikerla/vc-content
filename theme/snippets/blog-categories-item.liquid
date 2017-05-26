@@ -1,7 +1,7 @@
 <div class="post post-single">
     <div class="post-inner">
         <div class="post-media categories">
-            <div class="categories-t">Blog</div>
+            <h1 class="categories-t">Virto Commerce Enterprise eCommerce Blog</h1>
             <ul class="menu">
                 {% paginate categories by 5 %}
                     {% for category in categories %}
@@ -14,10 +14,26 @@
                     {% endfor %}
                 {% endpaginate %}
             </ul>
-            <a class="rss" href="{{ 'blog/rss' | absolute_url }}">
-                <span class="rss-ico"><i class="fa fa-rss"></i></span>
-                <div class="rss-text">Get the latest in Virtocommerce News</div>
-            </a>
+            {% assign current_url = 'https://virtocommerce.com/blog' %}
+            {% assign title = 'Virto Commerce Enterprise eCommerce Blog' %}
+            {% if article %}
+                {% assign current_url = article.url | full_url %}
+                {% assign title = article.title %}
+            {% endif %}
+            <ul class="socials list" style="margin-top: 20px;">
+                <li class="list-item fb">
+                    <a class="list-link" href="https://www.facebook.com/sharer/sharer.php?u={{ current_url }}" target="_blank"><i class="list-ico fa fa-facebook"></i></a>
+                </li>
+                <li class="list-item plus">
+                    <a class="list-link" href="https://plus.google.com/share?url={{ current_url }}" target="_blank"><i class="list-ico fa fa-google-plus"></i></a>
+                </li>
+                <li class="list-item tw">
+                    <a class="list-link" href="https://twitter.com/intent/tweet?text={{ current_url }}" target="_blank"><i class="list-ico fa fa-twitter"></i></a>
+                </li>
+                <li class="list-item in">
+                    <a class="list-link" href="https://www.linkedin.com/shareArticle?mini=true&url={{ current_url }}&title={{ title }}&summary={{ article.excerpt }}&source=" target="_blank"><i class="list-ico fa fa-linkedin"></i></a>
+                </li>
+            </ul>
         </div>
     </div>
 </div>

@@ -11,4 +11,17 @@
             {% endif %}
         {% endfor %}
     </ul>
+	
+	<h2>Recent changes</h2>
+    <ul>
+		{% assign docs_pages = pages | where: 'url', 'contains', 'docs' | sort: 'publishedAt:desc' %}
+        
+		{% for docs_page in docs_pages limit:15 %}
+			<li>
+				<a class="menu-link" href="{{ docs_page.url }}" ng-click="navigateUrl('{{ docs_page.url }}', $event)">{{ docs_page.title }}</a>
+				<span style="font-size:12px;">changed <span ng-bind="timeSpan('{{ docs_page.published_at | date: '%Y-%m-%d' }}')"></span></span>
+			</li>			
+        {% endfor %}
+    </ul>
+	
 {% endif %}

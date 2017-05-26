@@ -1,5 +1,5 @@
 ---
-title: Promotions
+title: Promotions - Virto Commerce 1.13 User Guide
 description: Promotions
 layout: docs
 date: 2015-03-18T20:11:12.560Z

@@ -22,7 +22,7 @@ tags :
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
 					<div class="column">
 						<div class="control-group">
-							<label for="FullName">First name</label>
+							<label for="FullName">First name (required)</label>
 							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
 						</div>
 						<div class="control-group">
@@ -36,7 +36,7 @@ tags :
 					</div>
 					<div class="column">
 						<div class="control-group">
-							<label for="LastName">Last name</label>
+							<label for="LastName">Last name (required)</label>
 							<input id="Contact[LastName]" tabindex="2" type="text" name="Contact[LastName]" class="form-input" required="required" autocomplete="family-name"/>
 						</div>		
 						<div class="control-group">
@@ -44,7 +44,7 @@ tags :
 							<input id="Contact[Phone]" type="tel" tabindex="4" name="Contact[Phone]" class="form-input" autocomplete="mobile"/>
 						</div>
 						<div class="control-group">
-							<label for="JobTitle">Job Title</label>
+							<label for="JobTitle">Job Title (required)</label>
 							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" autocomplete="organization-title" />
 						</div>														
 					</div>
@@ -88,12 +88,12 @@ tags :
 				<ul class="list">
 					<li>
 						<span class="title">Is the source code provided?</span>
-						<span class="descr">Yes, complete source code of Virto Commerce can be accessed from our <a href="https://virtocommerce.com/try-now-download">repository</a>.</span>
+						<span class="descr">Yes, complete source code of Virto Commerce can be accessed from our repository.</span>
 					</li>
 					<li>
 						<span class="title">How do I request for a demo?</span>
 						<span class="descr">We'd love to demo our awesome platform for you! Please fill out the form on this page and include a note that you'd love to have a demo, 
-						its as simple as that! Or if you prefer, you can also email us at <a href="mailto:sales@virtocommerce.com">sales@virtocommerce.com</a> and we'll be right on it.</span>
+						its as simple as that! Or if you prefer, you can also email us at sales@virtocommerce.com and we'll be right on it.</span>
 					</li>
 					<li>
 						<span class="title">What is Cloud Edition?</span>
@@ -107,10 +107,6 @@ tags :
 						<span class="title">How do I remove "powered by link" while using Community Edition?</span>
 						<span class="descr">You will need to get our production deployment community license. Please fill the form on this page and make sure to complete information about your company and website domain you want to use for community license.</span>
 					</li>
-                    	<li>
-							<span class="title">Want to provide feedback?</span>
-							<span class="descr">Use our <a href="https://virtocommerce.uservoice.com" rel="nofollow" target="_blank">User Voice Feedback</a> site to submit ideas or comment on existing ones.</span>
-						</li>
 				</ul>
 			</div>
 		</div>

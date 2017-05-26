@@ -1,5 +1,5 @@
 ---
-title: System requirements
+title: System requirements - Virto Commerce 1.13 User Guide
 description: System requirements
 layout: docs
 date: 2015-03-18T20:11:12.560Z
