@@ -17,4 +17,4 @@ Virto Commerce provide multiple sitemap files, each sitemap file must have no mo
 
 <img src="assets/images/docs/sitemaps-3.png" />
 
-You can find more information and the sitemaps module user guide in the corresponding [Virto Commerce documentation article](http://virtocommerce.com/docs/vc2userguide/sitemaps).
+You can find more information and the sitemaps module user guide in the corresponding [Virto Commerce documentation article](https://virtocommerce.com/docs/vc2userguide/sitemaps).
