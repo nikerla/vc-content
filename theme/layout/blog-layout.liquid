@@ -70,8 +70,7 @@
 
     <title>{{ title }}</title>
 
-    {% assign url_parts = request_url | split: '?' %}
-    <link rel="canonical" href="{{ url_parts | first }}" />
+    <link rel="canonical" href="https://virtocommerce.com/blog" />
 
     {{ '//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js' | script_tag }}
     {{ '//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js' | script_tag }}
