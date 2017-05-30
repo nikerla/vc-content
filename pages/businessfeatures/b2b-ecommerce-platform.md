@@ -1,21 +1,12 @@
 ---
-title: B2B eCommerce Platform | Software by Virto Commerce
-description: Grow your business with B2B Ecommerce Platform by Virto Software. The Truly Scalable Enterprise Solution based on Cloud. Mobile Friendly, Easily Integrated, Agile Devoted.
-date: 2014-01-30
-canonical: https://virtocommerce.com/b2b-ecommerce
-permalink: b2b-ecommerce
-ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
-ogtitle: Best .NET B2B ecommerce platform - Free Community Edition
-ogsitename: Virtocommerce
-twittercard: summary
-twittertitle: Virto Commerce
-twitterdescription: Virto Commerce is a powerful enterprise .NET ecommerce platform for creating flexible B2B solutions. Try it free with Free Community License
-twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
-twittersite: Virtocommerce
-tags : 
-- b2b-ecommerce
-- b2b
-- commerce
+date: '2014-01-30'
+permalink: b2b-ecommerce-platform
+tags:
+  - b2b-ecommerce
+  - b2b
+  - commerce
+title: 'B2B eCommerce Platform | Software by Virto Commerce'
+
 ---
 <article role="main" class="main">
 	<div class="business-features clearfix __responsive">
@@ -23,6 +14,22 @@ tags :
 		<div class="business-cnt">
 			<div class="head __promo">
 				<h1 class="title">B2B Ecommerce Platform</h1>
+			</div>
+			<div class="blog b2b-e-commerce">
+				<ul class="socials list" style="margin-top: 20px;">
+					<li class="list-item fb">
+						<a class="list-link" href="https://www.facebook.com/sharer/sharer.php?u={{ '/b2b-ecommerce-platform' | absolute_url }}" target="_blank"><i class="list-ico fa fa-facebook"></i></a>
+					</li>
+					<li class="list-item plus">
+						<a class="list-link" href="https://plus.google.com/share?url={{ '/b2b-ecommerce-platform' | absolute_url }}" target="_blank"><i class="list-ico fa fa-google-plus"></i></a>
+					</li>
+					<li class="list-item tw">
+						<a class="list-link" href="https://twitter.com/intent/tweet?text={{ '/b2b-ecommerce-platform' | absolute_url }}" target="_blank"><i class="list-ico fa fa-twitter"></i></a>
+					</li>
+					<li class="list-item in">
+						<a class="list-link" href="https://www.linkedin.com/shareArticle?mini=true&url={{ '/b2b-ecommerce-platform' | absolute_url }}" target="_blank"><i class="list-ico fa fa-linkedin"></i></a>
+					</li>
+				</ul>
 			</div>
 			<h2 class="sub-title">B2B Ecommerce Solutions</h2>
 			<p class="text">E-commerce solutions are revolutionizing B2B transactional protocols and processes. The customer fulfillment process of every class of commerce from merchandising to financial services is being optimized by well designed B2B ecommerce platform. This transformation is crucial to the efficiency of transactions involving complex integration scenarios.</p>

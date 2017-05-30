@@ -2303,6 +2303,19 @@ textarea.__error
     background: #0077b5;
 }
 
+.blog.b2b-e-commerce {
+    background: #fff;
+    margin-bottom: 10px;
+    margin-top: -40px;
+    padding: 0;
+}
+.blog.b2b-e-commerce .list-link {
+    color: #fff;
+}
+.blog.b2b-e-commerce .list-link:hover {
+    color: #fff;
+}
+
 .blog .tags.list
 {
     -webkit-flex-wrap: wrap;

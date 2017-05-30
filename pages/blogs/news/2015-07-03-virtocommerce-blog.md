@@ -11,4 +11,4 @@ Virto Commerce is the most innovative .NET open source product developed on top 
 
 Virto Commerce Platform can be used for new module development or as a starting point for building your own application.
 
-Explore this blog for announcements, updates and tips on creating amazing <a href="https://virtocommerce.com/b2b-ecommerce" target="_blank">B2B</a> and B2C solutions.
+Explore this blog for announcements, updates and tips on creating amazing <a href="https://virtocommerce.com/b2b-ecommerce-platform" target="_blank">B2B</a> and B2C solutions.

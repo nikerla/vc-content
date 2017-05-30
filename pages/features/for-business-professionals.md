@@ -1,4 +1,4 @@
----
+﻿---
 title: Agile ecommerce platform for b2c and b2b - Virto Commerce
 description: Agile ecommerce platform for b2c and b2b
 date: 2014-01-30
@@ -37,7 +37,7 @@ tags :
                 <li class="list-item">
                     <img alt="Virto Commerce master and virtual catalogs" src="../assets/images/features/catalog.png">
                     <p class="title">Catalog & Product Information Management (PIM)</p>
-                    <p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and <a href="/b2b-ecommerce">B2B</a> product lists.
+                    <p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and <a href="/b2b-ecommerce-platform">B2B</a> product lists.
                     Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 
                     3rd party PIM or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.
                     </p>

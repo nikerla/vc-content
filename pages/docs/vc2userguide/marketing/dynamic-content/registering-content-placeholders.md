@@ -7,7 +7,7 @@ priority: 1
 ---
 ## Introduction
 
-Content Placeholders must be registered in <a class="crosslink" href="https://virtocommerce.com/b2b-ecommerce" target="_blank">Virto Commerce</a> platform manager and in Storefront theme template before Dynamic Content can be delivered within them. By default, the Content Placeholders provided with VirtoCommerce are already registered. However, if you add new or rename existing Content Places, you will need to register them following the steps below. Remember, you only need to register a Content Place once. Once registered, the Content Place becomes available for assignment to multiple pieces of Dynamic Content.
+Content Placeholders must be registered in <a class="crosslink" href="https://virtocommerce.com/b2b-ecommerce-platform" target="_blank">Virto Commerce</a> platform manager and in Storefront theme template before Dynamic Content can be delivered within them. By default, the Content Placeholders provided with VirtoCommerce are already registered. However, if you add new or rename existing Content Places, you will need to register them following the steps below. Remember, you only need to register a Content Place once. Once registered, the Content Place becomes available for assignment to multiple pieces of Dynamic Content.
 
 > Your user account must have the Manage Content Places granted permission to perform these tasks in VirtoCommerce administration application.
 

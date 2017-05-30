@@ -1,4 +1,4 @@
----
+﻿---
 title: Enterprise .NET open-source ecommerce cloud platform. Try now online demo
 description: Enterprise .NET open-source ecommerce cloud platform. Try now online demo
 date: 2014-01-30
@@ -54,5 +54,5 @@ tags :
 </div>
 {% include 'technologies' %}
 <div class="about-vc __responsive">
-    <a class="link learn-link" href="/b2b-ecommerce">Learn more about Virto Commerce as a Ecommerce Platform for B2B</a>
+    <a class="link learn-link" href="/b2b-ecommerce-platform">Learn more about Virto Commerce as a Ecommerce Platform for B2B</a>
 </div>
