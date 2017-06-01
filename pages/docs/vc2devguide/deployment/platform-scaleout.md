@@ -2,9 +2,9 @@
 author: VirtoCommerce
 category: virtocommerce-docs
 date: 2017-05-26
-excerpt: The developer guide to Virto Commerce memory cache
-tags: [ docs, commerce, demo, ecommerce, sdk, cache, memorycache, redis ]
-title: 'Implementing MemoryCache synchronization in loosely-coupled applications'
+excerpt: The developer guide to Scale-out Virto Commerce platform in Azure App services
+tags: [ docs, commerce, demo, ecommerce, sdk, cache, memorycache, redis, scaleout ]
+title: 'How Scale-out platform in Azure App Services'
 layout: docs
 ---
 ## Introduction
