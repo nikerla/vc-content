@@ -4,13 +4,13 @@ description: What are the opportunities of using shopping cart software? Learn m
 date: 2017-06-01 
 canonical: https://virtocommerce.com/glossary/online-shopping-cart-software
 permalink: glossary/online-shopping-cart-software
-ogimage: https://virtocommerce.com/assets/images/online-shopping-cart-software.jpg
+ogimage: ../../assets/images/online-shopping-cart-software.jpg
 ogtitle: Online shopping cart software
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: https://virtocommerce.com/assets/images/online-shopping-cart-software.jpg
+twitterimage: ../../assets/images/online-shopping-cart-software.jpg
 twittersite: Virtocommerce
 tags : 
 - shopping cart
