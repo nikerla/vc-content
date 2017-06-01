@@ -4,13 +4,13 @@ description: What are the opportunities of using shopping cart software? Learn m
 date: 2017-06-01 
 canonical: https://virtocommerce.com/glossary/online-shopping-cart-software
 permalink: glossary/online-shopping-cart-software
-ogimage: https://virtocommerce.com/assets/images/b2becommerce.jpg
+ogimage: https://virtocommerce.com/assets/images/online-shopping-cart-software.jpg
 ogtitle: Online shopping cart software
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: https://virtocommerce.com/assets/images/b2becommerce.jpg
+twitterimage: https://virtocommerce.com/assets/images/online-shopping-cart-software.jpg
 twittersite: Virtocommerce
 tags : 
 - shopping cart
@@ -24,7 +24,7 @@ tags :
         <div class="head __cart">
             <h1 class="title">Online shopping cart software</h1>
         </div>
-        <img alt="B2B E-commerce trends" src="assets/images/b2becommerce.jpg"></img>
+        <img alt="Online shopping cart software" src="assets/images/online-shopping-cart-software.jpg"></img>
         <p class="text">
           With the development of Internet and Information Technologies, it has become common and important for businesses to gain online presence, especially if they aspire to cover bigger and newer markets. They are now faced with the challenge of providing customers with easy instant access to the products and services, while taking into account all of their preferences and desires. Today’s shopping software will be able to help any business build a customizable website and host an online store. 
         <h2>
