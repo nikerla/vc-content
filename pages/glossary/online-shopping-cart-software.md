@@ -60,18 +60,6 @@ tags :
         <p class="text">
 By choosing the proper website shopping cart platform, not only you place your product on the market, but you also get all the necessary tools that you need to have to be successful in commerce in the digital age. While selecting a shopping cart solution that is best suited for you, remember to follow your criteria, check for the reviews, see how secure the site is and enhance your experience by using free trials. Now that you know the main features that every website shopping cart must have, take a chance and create your product’s website! 
         </p>
-        <p class="text">
-            <strong>Video Marketing.</strong> Video content marketing strategy is gaining more and more prominence in the increasingly crowded B2B marketplace. It has become a standard for increasing audience of the websites and has played a great role in attracting and retaining customers. 
-        </p>
-        <p class="text">
-          <strong>Switching to open-source.</strong> As all of the B2B e-commerce companies have to adapt to an ever-changing battlefield, making them open-source will most likely give them the out-of-the-box functionality and make them easier to configure and update. We can see this clearly with the example of Virto Commerce, which has recently become one of the prominent open-source platforms, serving various customers, ranging from wholesalers and distributors of complex products to those who sell only maintenance products. 
-        </p>
-        <p class="text">
-            <strong>Focus on global markets.</strong> The most important thing for an owner of a B2B <a href="/glossary/ecommerce-platforms">e-commerce platform</a> is to concentrate beyond his local area, beyond the existing customer base. In return for the risks that may appear, the business can gain millions of potential customers from the ever-growing Asian markets. This bold move may entail selling the products in local currencies, accepting local methods of payment, and provide an entirely different customer experience that is oriented towards a different culture, with different laws and government regulations. 
-        </p>
-        <p class="text">
-          These were the trends that were mostly discussed in the mediaweb. Adopt these B2B ecommerce trends to always stand on top of your game!  
-        </p>
         <div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
             <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
