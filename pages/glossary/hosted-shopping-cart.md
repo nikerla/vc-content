@@ -101,7 +101,6 @@ tags:
         <p class="text">
             The enterprise-level e-commerce solution that is fully open-source. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting edge technology advancements. If you are to manage high volumes of items, this is the platform that can provide product catalogs with the maximum ability for marketing and promotion. This platform is a well-built solution that eliminates the problem of creating a store’s website in no time. It's modern technology will allow you to set up a website in less than an hour, bringing such incredible features to you as technical documentation, tech support and so on. Great .NET architecture will allow you to customize your website with no sweat.  
         </p>
-        <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
