@@ -69,55 +69,55 @@ tags:
         </p>
         <h2>Shopify</h2>
         </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/shopify.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/shopify.jpg"></img>
         <p class="text">
             If you are striving for a perfect balance between the convenience of setting up and having the control over your website, then, Shopify is the best platform on the market. It is highly valued in the community for providing as much control as possible before opening your server. If you are a small business owner, the first thing you will notice about Shopify is their great support base, which offers you a great variety of tools to alter your store. Another great thing is the presence of their AppStore, where you can find useful plugins for creating and customizing your website. Despite all of its great features, Shopify lacks the content-marketing feature, which has become a big deal on the market. It is only with content marketing you can double your conversion rate thanks to customers becoming more educated about your products and therefore, more willing to buy it. You should definitely sign up for their free trial and see whether this hosted cart solution is the right fit for you.
         </p>
         <h2>Opencart</h2>
         </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/open-cart.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/open-cart.jpg"></img>
         <p class="text">
             Among other shopping carts OpenCart has been very prominent for gaining immense popularity on the market. Its clients value Opencart for the top-notch security protocols that do not allow any of your data to get lost, while keeping track about any activity on the website. Another great benefit is the availability of content marketing as well as SEO-optimization for any article that you post for the product. For the price that you pay, you will also get an official forum that allows you to avoid any obstacles in creating your website as well as receive a quick support response. The platform is flexible and very easy to use. It can be adapted to any web-hosting and provides a perfect and inexpensive solution for all your e-commerce needs. 
         </p>
         <h2>PinnacleCart</h2>
         </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/pinnacle-cart.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/pinnacle-cart.jpg"></img>
         <p class="text">
             If you want to set up a store’s website right out of the box and don't want to bother with a huge amount of options available, then, PinnacleCart is the best choice for you. New and bright templates, various marketing tools, great SEO make PinnacleCart best for an online-only shop. It can also be credited for providing a 14-day free trial, giving small businesses a chance to set up a store and test transactions. Thanks to it, you can select from 30 different payment gateways, as the platform does not charge any setup fee.  Compared to Shopify, they are a much cheaper option, as they do not have any hidden fees. However, smaller packages provide the lesser amount of bandwidth and disc storage, which can damage your website’s capacity.  
         </p>
         <h2>UltraCart</h2>
         </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/ultra-cart.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/ultra-cart.jpg"></img>
         <p class="text">
             UltraCart is the best option in case you want your website to be loaded with features, while at the same time not bursting your budget. It comes with a great number of tools that will help you make more sales; it is built on enterprise-level hardware, and it always takes care of any updates, security concerns or technical aspects. Just like any other platform, it supports all the leading credit card processing gateways and works with many payment methods. Great customer support and technical documentation especially make this shopping cart platform stand out among others.   
         </p>
          <h2>Magento</h2>
          </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/magento.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/magento.jpg"></img>
         <p class="text">
             Magento is a huge independent company that continues to be an enterprise-level player in the field of hosted shopping carts. Customers value it for being elastic and for providing excellent support to large corporations and small businesses alike. Thanks to its open-source features, Magento is very scalable. It can be sometimes daunting to use, as it requires some basic programming knowledge. However, while being hard to manage, it is the top platform when it comes to security and customer support.  
         </p>
          <h2>StoreFront</h2>
          </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/store-front.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/store-front.jpg"></img>
         <p class="text">
             StoreFront is a hosted shopping cart platform that specializes in customized solutions and tailors them to small businesses and large corporations alike. They are valued for the ability to integrate with many third-party software packages, merchant gateways, while at the same time offering customized store designs and brilliant customer support.  
         </p>
          <h2>ShopIntegrator</h2>
          </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/shop-integrator.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/shop-integrator.jpg"></img>
         <p class="text">
             A pretty basic shopping cart software that provides regular features like template selection, easy connection with the payment processor, secure hosting, mobile e-commerce and so on. While it offers a Multi-Store Management, it lacks any inventory, SEO or Promotions management, marketing tools and loyalty programs. It is what you get starting at $9.95 per month.  
         </p>
         <h2>Yahoo! Merchant Solutions</h2>
         </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/yahoo-merchant-solutions.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/yahoo-merchant-solutions.jpg"></img>
         <p class="text">
             Robust hosted shopping cart. It is well known for its unique features like cross selling, gift certificate creation, discounts and deals creation, wish-lists and more. When designing your website, you can rely on the selected templates or have it designed specifically for your needs. Remember also to consult a web-designer, as Yahoo’s terminology can be tough to understand for the Average Joe.   
         </p>
         <h2>Virto Commerce</h2>
         </div>
-        <p class="fig"><img alt="hosted shopping cart" src="assets/images/virto-commerce.jpg"></img>
+        </p><img alt="hosted shopping cart" src="assets/images/virto-commerce.jpg"></img>
         <p class="text">
             The enterprise-level e-commerce solution that is fully open-source. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting edge technology advancements. If you are to manage high volumes of items, this is the platform that can provide product catalogs with the maximum ability for marketing and promotion. This platform is a well-built solution that eliminates the problem of creating a store’s website in no time. It's modern technology will allow you to set up a website in less than an hour, bringing such incredible features to you as technical documentation, tech support and so on. Great .NET architecture will allow you to customize your website with no sweat.  
         </p>
