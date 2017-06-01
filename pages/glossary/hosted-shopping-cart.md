@@ -69,7 +69,8 @@ tags:
         </p>
         <h2>Shopify</h2>
         </div>
-        </p><img alt="hosted shopping cart" src="assets/images/shopify.jpg"></img>
+        text-align: center
+        <p class="fig"><img alt="hosted shopping cart" src="assets/images/shopify.jpg"></img>
         <p class="text">
             If you are striving for a perfect balance between the convenience of setting up and having the control over your website, then, Shopify is the best platform on the market. It is highly valued in the community for providing as much control as possible before opening your server. If you are a small business owner, the first thing you will notice about Shopify is their great support base, which offers you a great variety of tools to alter your store. Another great thing is the presence of their AppStore, where you can find useful plugins for creating and customizing your website. Despite all of its great features, Shopify lacks the content-marketing feature, which has become a big deal on the market. It is only with content marketing you can double your conversion rate thanks to customers becoming more educated about your products and therefore, more willing to buy it. You should definitely sign up for their free trial and see whether this hosted cart solution is the right fit for you.
         </p>
