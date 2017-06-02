@@ -21,8 +21,8 @@ tags:
 <div class="business-features clearfix __responsive">
     {% include 'glossary-left-menu' %}
     <div class="business-cnt">        <div class="head __cart">
-1            <h1 class="title">Hosted Shopping Cart</h1>
-        </div>
+        <h1 class="title">Hosted Shopping Cart</h1>
+    </div>
         <img alt="Hosted Shopping Cart" src="assets/images/hosted-shopping-cart.jpg" />
         <div class="text">
             <p>Hosted shopping carts provide an all-in-one solution for your business and allow it to be transferred to the digital rails quickly. With the advancements of Internet and information technologies, it has become much harder to choose from multiple options that have appeared in recent years. And with the nowadays hosting technologies, you can easily get overwhelmed by the range of various solutions that different shopping carts provide.</p>
