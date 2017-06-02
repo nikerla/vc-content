@@ -33,26 +33,6 @@ permalink: jobs
 		</li>	
 		<li class="list-item">
 			<div class="list-info">
-				<h3>Software Marketing Manager</h3>
-				<p class="country">Location: Los Angeles, CA</p>
-				<p class="text">We are looking for a lead digital marketing manager, who is experienced and goal-oriented. You will be required to build an efficient data-driven lead generation and nurturing pipeline for our products. Your challenge will be to encourage and involve internal team, build relationship and marketing activities with partners. You will be responsible for forming strategy and implementation of SEO, SEM, social media, email and content marketing. You must be ready to work with leaders in e-commerce industries such as digital agencies, integrators and service providers. Tasks will include:
-				<ul class="list">
-					<li>Lead Generation Marketing within B2B (IT, Software)</li>
-					<li>Devising strategies to drive online traffic</li>
-					<li>Tracking conversion rates and trends using acquired data to improve the website</li>
-					<li>Developing and managing digital marketing campaigns</li>
-					<li>Drive website traffic by implementing techniques including paid search, SEO, PPC, CPA etc</li>
-					<li>Overseeing the social media strategy for the company</li>
-					<li>Managing online brand and product campaigns to raise GGS brand awareness</li>
-					<li>Improving the usability, design, content and conversion rate</li>
-					<li>Responsibility for planning and budgetary control of all digital marketing</li>
-				</ul>
-				</p>
-				<a class="button" href="/jobs/apply?jid=SoftwareMarketing" rel="nofollow">Apply Now</a>
-			</div>
-		</li>
-		<li class="list-item">
-			<div class="list-info">
 				<h3>Partner Coordinator</h3>
 				<p class="country">Location: Los Angeles, CA</p>
 				<p class="text">
@@ -72,13 +52,7 @@ permalink: jobs
 				<a class="button" href="/jobs/apply?jid=PartnerCoordinator" rel="nofollow">Apply Now</a>
 			</div>
 		</li>
-		<li class="list-item">
-			<div class="list-info">
-				<h3>Software Developer</h3>
-				<p class="country">United States</p>
-				<a class="button" href="/jobs/apply?jid=SoftwareDeveloper" rel="nofollow">Apply Now</a>
-			</div>
-		</li>
+		
 	</ul>
 </div>
 {% include 'technologies' %}

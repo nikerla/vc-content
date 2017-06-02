@@ -3,7 +3,7 @@
 category: virtocommerce-news
 date: '2017-05-25'
 permalink: blog/b2b-online-aftermath
-main-image: ../../assets/images/blog/B2B Online Aftermath.jpg
+main-image: ../../assets/images/blog/b2b-online-aftermath.jpg
 excerpt: B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
 tags:
 
@@ -17,7 +17,7 @@ title: B2B Online Aftermath
 ---
 
 ### B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
-<img src='../../assets/images/blog/B2B Online Aftermath.jpg'>
+<img src='../../assets/images/blog/b2b-online-aftermath.jpg'>
 
 Our CEO Alexandre Siniouguine has returned from the [B2B Online 2017](http://b2bmarketing2016.wbresearch.com) in Chicago! We have been planning to participate in this conference for quite a while – it’s a great opportunity for us as a company to learn and share our experience with the fellow professionals in the field, network and make useful connections as well as to dip into the community’s knowledge of the latest industry trends.
 
@@ -37,10 +37,10 @@ The event offered multiple ways of participating from interactive roundtable dis
 One of our main takeaways from the conference was the concept of *content scoring*. The content scoring is quickly becoming a prominent trend in B2B. This new methodology allows tracking certain publications or campaigns and evaluating how well they perform in generating leads and opportunities. Unlike page views, shares or unique visitors, content scoring indicates the exact value of the content an organization shares based on how “successful leads” (closed deals) had interacted with it. It enables marketers to make educated decisions on which content assets to focus on.
 Here are some screenshots that showcase how it is managed.
 
-<img src='../../assets/images/blog/rsz_screen1.jpg'><br />
-<img src='../../assets/images/blog/rsz_screen2.jpg'><br />
-<img src='../../assets/images/blog/rsz_screen3.jpg'><br />
-<img src='../../assets/images/blog/rsz_screen4.jpg'>
+<img src='../../assets/images/blog/rsz-screen1.jpg'><br />
+<img src='../../assets/images/blog/rsz-screen2.jpg'><br />
+<img src='../../assets/images/blog/rsz-screen3.jpg'><br />
+<img src='../../assets/images/blog/rsz-screen4.jpg'>
 
 When it comes to the speakers at the conference, there were several we would like to point out specifically, as they have made the most impact on us. 
 
