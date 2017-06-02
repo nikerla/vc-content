@@ -9,9 +9,9 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 
 ---
 <article role="main" class="main">
-	<div class="business-features clearfix __responsive">
+	<div class="business-features clearfix __responsive" itemscope itemtype="http://schema.org/WebPage">
 		{% include 'features-left-menu' %}
-		<div class="business-cnt">
+		<div class="business-cnt" itemprop="mainContentOfPage">
 			<div class="head __promo">
 				<h1 class="title">B2B Ecommerce Platform</h1>
 			</div>
@@ -43,7 +43,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 						<p class="text">Unlike the standardized B2C checkout which is singularly focused upon conversion, the <a href="/glossary/b2b-ecommerce-companies-websites">B2B site's</a> checkout is complex, often comprised of a confluence of tasks and conditions. Decisions typically require the integration of multiple people and systems often involving lines of credit, permissions, price lists, contracts, etc. This process can vary greatly from company to company and depends upon the needs specific to the business. Consequently, the B2B ecommerce solutions must be sufficiently flexible such that it enables the company to customize the platform to meet its unique needs. In so doing, the engine must simultaneously integrate people and systems. as well as be equipped with a document based order management module. The Virto Commerce B2B ecommerce software has the <a href="/shopping-cart">order/checkout engine</a> that satisfies all of these specification requirements. This elegant combination of flexibility and integration constitutes the ideal order/checkout engine rendering an order process which is both complete and transparent.</p>
 					</div>
 					<div style="dispaly: table-cell;">
-						<img alt="B2B ecommerce software" src="/assets/images/checkout.png" />
+						<img alt="B2B ecommerce software" src="/assets/images/checkout.png" itemprop="primaryImageOfPage" />
 					</div>
 				</div>
 			</div>
@@ -103,6 +103,45 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 				<a class="button fill" href="/try-now">Try It Now</a>
                 <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
 				<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+			</div>
+		</div>
+		<div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">
+			<div style="margin-top: 40px; text-align: center;">
+				<h2 class="sub-title">Latest posts from our Enterprise B2B eCommerce Blog</h2>
+			</div>
+			<div class="trending __responsive">
+				<div class="trending-list">
+					<div class="post post-single">
+						<div class="post-inner">
+							<div class="post-media" style="background-image: url('../../assets/images/blog/b2becommerce.jpg');">
+								<h3><a href="{{ '/blog/top5-b2b-ecommerce-challenges' | absolute_url }}">Top 5 B2B eCommerce challenges and solutions</a></h3>
+							</div>
+							<div class="post-descr">
+								Learn more about Virto Commerce team's B2B eCommerce experience. We have shared our vision on top 5 B2B eCommerce challenges and their solutions.<br /><a href="{{ '/blog/top5-b2b-ecommerce-challenges' | absolute_url }}">Read more...</a>
+							</div>
+						</div>
+					</div>
+					<div class="post post-single">
+						<div class="post-inner">
+							<div class="post-media" style="background-image: url('../../assets/images/blog/b2b-b2c-difference.png');">
+								<h3><a href="{{ '/blog/difference-between-b2b-and-b2c-ecommerce-solution' | absolute_url }}">Difference between B2B and B2C ecommerce solution</a></h3>
+							</div>
+							<div class="post-descr">
+								What are the main differences between b2b and b2c ecommerce solutions. Discover B2B ecommerce platforms specifics in Virto Commerce ecommerce blog.<br /><a href="{{ '/blog/difference-between-b2b-and-b2c-ecommerce-solution' | absolute_url }}">Read more...</a>
+							</div>
+						</div>
+					</div>
+					<div class="post post-single">
+						<div class="post-inner">
+							<div class="post-media" style="background-image: url('../../assets/images/blog/B2B Online Aftermath.jpg');">
+								<h3><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">B2B Online Aftermath</a></h3>
+							</div>
+							<div class="post-descr">
+								B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to share our impressions from this experience.<br /><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">Read more...</a>
+							</div>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
