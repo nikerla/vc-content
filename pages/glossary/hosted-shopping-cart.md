@@ -20,8 +20,7 @@ tags:
 ---
 <div class="business-features clearfix __responsive">
     {% include 'glossary-left-menu' %}
-    <div class="business-cnt">
-        <div class="head __cart">
+    <div class="business-cnt">        <div class="head __cart">
             <h1 class="title">Hosted Shopping Cart</h1>
         </div>
         <img alt="Hosted Shopping Cart" src="assets/images/hosted-shopping-cart.jpg" />
