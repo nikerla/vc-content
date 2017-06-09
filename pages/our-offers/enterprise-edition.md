@@ -19,7 +19,7 @@ tags :
 				that can evolve over time
 			</h2>
 			<a class="button fill" href="/try-now" id="href_1" style="margin-right: 40px;">Request Demo & Trial</a>
-			<a class="button fill" href="/contact-us">Contact Us</a>
+			<a class="button fill" href="/migration-whitepaper">Download Migration Whitepaper</a>
 		</div>
 	</div>
 </div>
