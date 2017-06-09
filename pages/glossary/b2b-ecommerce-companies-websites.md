@@ -1,4 +1,4 @@
---- 
+---
 title: Top B2B e commerce sites and companies
 description: Top B2B e commerce sites and companies
 date: 2017-04-22 
@@ -18,13 +18,31 @@ tags :
 - top b2b e commerce sites
 - b2b e-commerce sites
 ---
-<div class="business-features clearfix __responsive">
-    {% include 'glossary-left-menu' %}    
-    <div class="business-cnt">
+<div class="business-features clearfix __responsive" itemscope itemtype="http://schema.org/WebPage">
+    {% include 'glossary-left-menu' %}
+    <div class="business-cnt" itemprop="mainContentOfPage">
         <div class="head __cart">
             <h1 class="title">Top B2B e commerce sites and companies</h1>
         </div>
-        <img alt="B2B e commerce companies and websites" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
+        <div class="blog b2b-e-commerce">
+          <ul class="socials list" style="margin-top: 20px;">
+            <li class="list-item fb">
+              <a class="list-link" href="https://www.facebook.com/sharer/sharer.php?u={{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}" target="_blank"><i class="list-ico fa fa-facebook"></i></a>
+            </li>
+            <li class="list-item plus">
+              <a class="list-link" href="https://plus.google.com/share?url={{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}" target="_blank"><i class="list-ico fa fa-google-plus"></i></a>
+            </li>
+            <li class="list-item tw">
+              <a class="list-link" href="https://twitter.com/intent/tweet?text={{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}" target="_blank"><i class="list-ico fa fa-twitter"></i></a>
+            </li>
+            <li class="list-item in">
+              <a class="list-link" href="https://www.linkedin.com/shareArticle?mini=true&url={{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}" target="_blank"><i class="list-ico fa fa-linkedin"></i></a>
+            </li>
+          </ul>
+			  </div>
+        <div style="text-align: center;">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+			  </div>
         <p class="text">
           With the advancement of internet, information technologies, digital systems, and standards of their interaction, the new way of doing business has evolved. E-business is a unique form of doing business that is executed by implementing information technologies in the process of production, trading, and distribution of goods and services. It is becoming more and more popular for companies to go online in all of the areas of business, including B2B commerce. When we mention B2B, the first thing that comes to mind is e-commerce systems– software and websites, which become tools for purchasing products and goods for businesses via the Internet. 
         </p>
@@ -35,6 +53,7 @@ tags :
             There has been a drastic shift in the e-commerce from B2C (business to consumer) to B2B. B2B e-commerce sites are more complex and contain way more features than B2C. In this article, we would like to present you the top B2B e commerce sites.
         </p>
         <h2>What is the focus of top B2B e commerce sites?</h2>
+        <img alt="B2B e commerce companies and websites" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
         <p class="text">
             While compiling this list, we focused on several features, which every B2B e-commerce company should have.
         </p>
@@ -56,7 +75,7 @@ tags :
         <h3>Made-in-China.com</h3>
         <img alt="Made-in-China B2B e commerce company" src="assets/images/madeinChina.png"></img>
          <p class="text">
-           This portal is one of the world’s leading B2B platforms. It was founded and is now operated by Focus Technology. The website is a great way of connecting Chinese suppliers with buyers from around the world. It provides accessible web-based solutions to small and medium enterprises. Thanks to the website, Focus Tech gets in touch with business owners and provides a lot of information about Chinese products and documentation about the current Chinese suppliers on the market. The platform serves as a connection bridge between Chinese manufacturers and International Buyers. The marketplace is available in Europe and the U.S. and allows buyers to connect with high-quality Chinese suppliers in minutes. One prominent feature of the website is its Reports feature. It provides valuable information about the vendor, including business license, manufacturing capabilities, and quality control systems. All manufacturers can add products, as well as search for buyers, importers or requests-to-buy on the offer board. For everything you want to buy from Mainland China, from Chemicals to Industrial Equipment, Made-in-China.com is the perfect solution for any of your needs! 
+           This portal is the important member of top 10 b2b portals. It was founded and is now operated by Focus Technology. The website is a great way of connecting Chinese suppliers with buyers from around the world. It provides accessible web-based solutions to small and medium enterprises. Thanks to the website, Focus Tech gets in touch with business owners and provides a lot of information about Chinese products and documentation about the current Chinese suppliers on the market. The platform serves as a connection bridge between Chinese manufacturers and International Buyers. The marketplace is available in Europe and the U.S. and allows buyers to connect with high-quality Chinese suppliers in minutes. One prominent feature of the website is its Reports feature. It provides valuable information about the vendor, including business license, manufacturing capabilities, and quality control systems. All manufacturers can add products, as well as search for buyers, importers or requests-to-buy on the offer board. For everything you want to buy from Mainland China, from Chemicals to Industrial Equipment, Made-in-China.com is the perfect solution for any of your needs! 
         </p>
          <h3>ThomasNet</h3>
          <img alt="ThomasNet B2B e-commerce site" src="assets/images/ThomasNet.png"></img>

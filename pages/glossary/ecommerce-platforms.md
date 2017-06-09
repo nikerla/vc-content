@@ -26,7 +26,7 @@ tags:
             Choosing an ecommerce platform can be overwhelming taking in the account a number of options that have appeared in the recent years. Just like purchasing any product, whether it is a house, a car or a cell-phone, each particular business has to do its research and correctly determine what it is looking for, remembering to consider all the tradeoffs among the available choices. In the past couple years, e-commerce platforms have been gaining popularity among small businesses thanks to their ease of use, usability and availability of a large developer community. Web-developers may provide personal and professional services to the platform client, and you will be most likely to receive good support in the long run from a digital commerce platform.
         </p>
 		<img alt="Ecommerce platforms" src="assets/images/ecommerce-platforms.jpg" />
-        <h2>Best platform for ecommerce website</h2>
+        <h2>Best ecommerce platform</h2>
         <p class="text">
             There are hundreds of options available on the market of e-commerce platforms with no single “best e-commerce platform” as they all vary in functionality, features, usability and offer many different choices of building a website, accounting for your personal needs, resources and preferences. Some of the universal features that any online store platform has to have are:
         </p>
@@ -39,9 +39,9 @@ tags:
 		<p class="text">
             And these useful features do not stop there. Some of the top ecommerce platforms will provide you with certain eccentricities like unique design features, additional security options, marketing tools and so on. With all of that in mind the best way to go is to choose a platform that offers the maximum output for your business and provides you with the most convenience at the lowest cost. 
         </p>
-        <h2>Questions to ask youself while choosing the platform</h2>
+        <h2>Questions to ask youself while choosing the online store platform</h2>
         <p class="text">
-            While picking the right platform for you, consider asking yourself the following questions:  
+            What is the best ecommerce platform? While picking the right platform for you, consider asking yourself the following questions:
         </p>
         <p class="text">1. Stock size. What is the size of your inventory? Try to find the platform where you will be able to create flexible product catalogs with the ability to list thousands of product items without loosing website performance.</p>
 		<p class="text">2. Physical or digital. Do you provide online services or physical products? It will make you think about shipping costs and the ways your product will be delivered to your customer. There are ecommerce platforms that are specifically tied to physical or digital goods’ sales.</p>
@@ -71,14 +71,15 @@ tags:
 		<p class="text">The features are plentiful in this platform, and you can find that all of them are built-in, offering you things like blog, newsletter, e-mail and CRM. Also, if you are an advanced web developer, you may find some great options for you to get in there and customize your website.</p>
 		<p class="text">While having useful apps and add-ons, 3dcart still lacks the variety of them unlike its competitors Shopify or BigCommerce.</p>
 		<p class="text">The process of making a website is straightforward and intuitive, offering some tutorials for you along the process. The support is smooth and reliable, but without any interesting features that other companies don’t have. 3dcart also offers a big variety of responsive templates and a great set of tools for marketing and inventory.</p>
-		<h2>Conclusion</h2>
+		<h2>Digital commerce platform for your business - Conslusions</h2>
 		<p class="text">There is no single “best platform for ecommerce website” and the choice of one will always be upon you. None of the platforms offer a “one size fits all” solution, and it’s up to you to consider different options depending on your solution. To choose the ecommerce engine define the solution features and configuration that you need in advance. Test the platforms with the necessary features using trial versions, compare support and documentation during the trial period – this will give you a better understanding of the customer service.</p>
         <div style="text-align: center;">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
-			</div>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+		</div>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+			<a class="button fill" href="/migration-whitepaper">Download Migration Whitepaper</a>
 		</div>
     </div>
 </div>
