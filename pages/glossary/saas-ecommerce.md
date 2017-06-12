@@ -4,13 +4,13 @@ description: What are the opportunities of using SAAS Platforms? Learn more in o
 date: 2017-06-07 
 canonical: https://virtocommerce.com/glossary/saas-ecommerce
 permalink: glossary/saas-ecommerce
-ogimage: ../../assets/images/saas-ecommerce.jpg
+ogimage: ../../assets/images/saas-ecommerce.png
 ogtitle: SAAS E-commerce
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: ../../assets/images/saas-ecommerce.jpg
+twitterimage: ../../assets/images/saas-ecommerce.png
 twittersite: Virtocommerce
 tags : 
 - ecommerce
@@ -24,7 +24,7 @@ tags :
         <div class="head __cart">
             <h1 class="title">SAAS E-commerce</h1>
         </div>
-        <img alt="SAAS E-commerce" src="assets/images/saas-ecommerce.jpg" />
+        <img alt="SAAS E-commerce" src="assets/images/saas-ecommerce.png" />
         <p class="text">
         <h2>What is SAAS Platform?</h2>
         <p class="text">
