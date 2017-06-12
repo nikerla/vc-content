@@ -1,5 +1,4 @@
  ---
-
 category: virtocommerce-news
 date: '2017-06-12'
 permalink: blog/websites-migration
