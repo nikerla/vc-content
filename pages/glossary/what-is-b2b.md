@@ -59,7 +59,7 @@ tags :
             <p>A B2B e-commerce solution must meet the following requirements:</p>
             <div style="display: table;">
                 <div style="display: table-row;">
-                    <div style="display: table-cell; padding-right: 20px; width: 15%;">
+                    <div style="display: table-cell; padding-right: 20px; width: 12.5%;">
                         <img alt="Scalability" src="assets/images/scalability.png" />
                     </div>
                     <div style="display: table-cell; vertical-align: top;">
@@ -68,7 +68,7 @@ tags :
                     </div>
                 </div>
                 <div style="display: table-row;">
-                    <div style="display: table-cell; padding-right: 20px; width: 15%;">
+                    <div style="display: table-cell; padding-right: 20px; width: 12.5%;">
                         <img alt="Flexibility" src="assets/images/flexibility.png" />
                     </div>
                     <div style="display: table-cell; vertical-align: top;">
@@ -78,7 +78,7 @@ tags :
                     </div>
                 </div>
                 <div style="display: table-row;">
-                    <div style="display: table-cell; padding-right: 20px; width: 15%;">
+                    <div style="display: table-cell; padding-right: 20px; width: 12.5%;">
                         <img alt="Reliability" src="assets/images/reliability.png" />
                     </div>
                     <div style="display: table-cell; vertical-align: top;">
@@ -89,7 +89,7 @@ tags :
                     </div>
                 </div>
                 <div style="display: table-row;">
-                    <div style="display: table-cell; padding-right: 20px; width: 15%;">
+                    <div style="display: table-cell; padding-right: 20px; width: 12.5%;">
                         <img alt="Usability and transparency" src="assets/images/usability.png" />
                     </div>
                     <div style="display: table-cell; vertical-align: top;">

@@ -70,6 +70,60 @@ tags:
             <p>Among the most popular SaaS solutions are Salesforce, NetSuite, Slack and others.</p>
             <p>An optimal choice for an e-commerce business however would be a solution that combines a platform with a ready-to-use set of software tools. In other words, PaaS and SaaS built specifically for e-commerce. Our cloud e-commerce software - Virto Commerce, is considered one of the best e-commerce platforms with its own SaaS support. This cloud ecommerce can meet any of your sales and promotional needs and help grow your business into a powerful online store with impressive features.</p>
         </div>
+		<div class="roadmap">
+			<ul class="list">
+				<li class="list-item">
+					<div class="columns">
+						<div class="column">
+							<div class="block">
+								<ul class="list">
+									<li>
+										<span class="title">Software as a Service</span>
+										<span class="descr">With our cloud ecommerce platform we take care of everything, including uptime, maintenance, security and updates so you
+					can focus on business features.</span>
+									</li>
+									<li>
+										<span class="title">Source control</span>
+										<span class="descr">Source control is included and all the customizations are saved and are available for review.</span>
+									</li>
+									<li>
+										<span class="title">
+											Backups
+										</span>
+										<span class="descr">We backup your site files, database in multiple locations and you can restore to any point of time
+						in the last 30 days to make sure you don't have to worry about data loss.</span>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="column">
+							<div class="block">
+								<ul class="list">
+									<li>
+										<span class="title">
+											Stability and Security
+										</span>
+										<span class="descr">Virto Commerce experts work with your development team to make sure your e-commerce store code is secure,
+					optimized and fast. We have rocket scientists so you don't have to.
+									</li>
+									<li>
+										<span class="title">Staging & Deployment</span>
+										<span class="descr">Developer staging and production deployment is done using automation scripts. You will be able to preview
+										any changes in the live staging environment deployed in the cloud.</span>
+									</li>
+									<li>
+										<span class="title">
+											24/7 IT Support
+										</span>
+										<span class="descr">In case of emergency we handle the call at 2am, not you.</span>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
         <div style="text-align: center;">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
         </div>
