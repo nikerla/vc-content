@@ -1,4 +1,4 @@
-{
+﻿{
     "general": {
         "case_studies": "Case studies",
         "glossary": "Glossary",
@@ -230,12 +230,13 @@
             "demo": "Demo",
             "b2b": "B2B",
             "b2c": "B2C",
-            "devops":"DevOps",
-            "technical-leadership":"Technical Leadership",
-            "sitemaps":"Sitemaps",
-            "bulk-order":"Bulk Order",
-            "ai":"AI",
-            "product-recommendations":"Product Recommendations",
+            "devops": "DevOps",
+            "technical-leadership": "Technical Leadership",
+            "sitemaps": "Sitemaps",
+            "bulk-order": "Bulk Order",
+            "ai": "AI",
+            "product-recommendations": "Product Recommendations",
+            "websites-migration": "Websites Migration"
         },
         "categories": {
             "virtocommerce-news": "Virto Commerce News",
