@@ -1,20 +1,17 @@
- ---
+---
 category: virtocommerce-news
 date: '2017-06-12'
-permalink: blog/websites-migration
+permalink: blog/ecommerce-websites-migration
 main-image: ../../assets/images/blog/b2b-online-aftermath.jpg
 excerpt: Migration of an entire system to a new ecommerce platform is a complicated process that needs to be executed with surgical precision in order to avoid disaster. Learn more about common pains of eCommerce Websites Migtation and ways to avoid them in this article.
 tags:
-
 - websites migration
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce
-
 title: Common Pains of eCommerce Websites Migration and how to avoid them
 ---
 
-Migration of an entire system to a new ecommerce platform is a complicated process that needs to be executed with surgical precision in order to avoid disaster. Learn more about common pains of eCommerce Websites Migtation and ways to avoid them in this article.
 <img src='../../assets/images/blog/b2b-online-aftermath.jpg'>
 
 There comes a point in every ecommerce company’s development path when it’s time to grow their website beyond its maximum capabilities, and subsequently comes the dreaded migration time. 
