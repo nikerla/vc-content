@@ -70,6 +70,38 @@ tags:
             <p>Among the most popular SaaS solutions are Salesforce, NetSuite, Slack and others.</p>
             <p>An optimal choice for an e-commerce business however would be a solution that combines a platform with a ready-to-use set of software tools. In other words, PaaS and SaaS built specifically for e-commerce. Our cloud e-commerce software - Virto Commerce, is considered one of the best e-commerce platforms with its own SaaS support. This cloud ecommerce can meet any of your sales and promotional needs and help grow your business into a powerful online store with impressive features.</p>
         </div>
+        <div class="text" style="display: table;">
+            <div style="display: table-row;">
+                <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
+                    <strong>Software as a Service</strong>
+                    <p>With out cloud ecommerce platform we take care of everything, including uptime, maintenance, security and updates so you canfocus on business features.</p>
+                </div>
+                <div style="display: table-cell; vertical-align: top;">
+                    <strong>Stability and Security</strong>
+                    <p>Virto Commerce experts worh with your development team to make sure your e-commerce store code is secure, optimized and fast. We have rocket scientists so you don't have to.</p>
+                </div>
+            </div>
+            <div style="display: table-row;">
+                <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
+                    <strong>Cource Control</strong>
+                    <p>Source control is included and all the customizations are saved and are available for review.</p>
+                </div>
+                <div style="display: table-cell; vertical-align: top;">
+                    <strong>Staging & Deployment</strong>
+                    <p>Developer staging and production deployment is done using automation scripts. You will be able to preview any changes in the live staging environment deployed in the cloud.</p>
+                </div>
+            </div>
+            <div style="display: table-row;">
+                <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
+                    <strong>Backups</strong>
+                    <p>We backup your site files, database in multiple locations and you can restore to any point of time in the last 30 days to make sure you don't have to worry about data loss.</p>
+                </div>
+                <div style="display: table-cell; vertical-align: top;">
+                    <strong>24/7 IT Support</strong>
+                    <p>In case of emergency we handle the call at 2am, not you.</p>
+                </div>
+            </div>
+        </div>
         <div style="text-align: center;">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
         </div>

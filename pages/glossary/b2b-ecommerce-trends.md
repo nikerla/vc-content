@@ -64,18 +64,40 @@ tags :
          <p class="text">
            Despite the fact that 2017 has just recently started, we can already point out some of the most prominent B2B eCommerce trends on the market. Following them is crucial in a rapidly-developing market, so let’s look into some of them. 
         </p>
-        <p class="text">
-           <strong>Omni-channel customer care.</strong> Following the trend of great customer experience that was present in 2016, omnichannel customer care has appeared. The customer service that was present only via e-mails is now totally unacceptable. B2B customers require even more attention than B2C ones and to provide that, websites need to have online customer service chats, the availability of web calls and focus on individual customer experience. This includes optimizing navigation for  customer’s needs, adding search filters and other helpful perks. Smartly personalized B2B buying experience will be the way to go for the vendors. 
-        </p>
-        <p class="text">
-            <strong>Video Marketing.</strong> Video content marketing strategy is gaining more and more prominence in the increasingly crowded B2B marketplace. It has become a standard for increasing audience of the websites and has played a great role in attracting and retaining customers. 
-        </p>
-        <p class="text">
-          <strong>Switching to open-source.</strong> As all of the B2B e-commerce companies have to adapt to an ever-changing battlefield, making them open-source will most likely give them the out-of-the-box functionality and make them easier to configure and update. We can see this clearly with the example of Virto Commerce, which has recently become one of the prominent open-source platforms, serving various customers, ranging from wholesalers and distributors of complex products to those who sell only maintenance products. 
-        </p>
-        <p class="text">
-            <strong>Focus on global markets.</strong> The most important thing for an owner of a B2B <a href="/glossary/ecommerce-platforms">e-commerce platform</a> is to concentrate beyond his local area, beyond the existing customer base. In return for the risks that may appear, the business can gain millions of potential customers from the ever-growing Asian markets. This bold move may entail selling the products in local currencies, accepting local methods of payment, and provide an entirely different customer experience that is oriented towards a different culture, with different laws and government regulations. 
-        </p>
+        <div class="text" style="display: table;">
+            <div style="display: table-row;">
+                <div style="display: table-cell; padding-right: 20px; width: 50%;">
+                    <img alt="Omni-channel customer care" src="assets/images/omni-channel.jpg" />
+                </div>
+                <div style="display: table-cell; vertical-align: top;">
+                    <strong>Omni-channel customer care.</strong> Following the trend of great customer experience that was present in 2016, omnichannel customer care has appeared. The customer service that was present only via e-mails is now totally unacceptable. B2B customers require even more attention than B2C ones and to provide that, websites need to have online customer service chats, the availability of web calls and focus on individual customer experience. This includes optimizing navigation for customer’s needs, adding search filters and other helpful perks. Smartly personalized B2B buying experience will be the way to go for the vendors.
+                </div>
+            </div>
+            <div style="display: table-row;">
+                <div style="display: table-cell; padding-right: 20px; width: 50%;">
+                    <strong>Video Marketing.</strong> Video content marketing strategy is gaining more and more prominence in the increasingly crowded B2B marketplace. It has become a standard for increasing audience of the websites and has played a great role in attracting and retaining customers.
+                </div>
+                <div style="display: table-cell; vertical-align: top;">
+                    <img alt="Video Marketing" src="assets/images/video-marketing.jpg" />
+                </div>
+            </div>
+            <div style="display: table-row;">
+                <div style="display: table-cell; padding-right: 20px; width: 50%;">
+                    <img alt="Switching to open-source" src="assets/images/open-source.jpg" />
+                </div>
+                <div style="display: table-cell; vertical-align: top;">
+                    <strong>Switching to open-source.</strong> As all of the B2B e-commerce companies have to adapt to an ever-changing battlefield, making them open-source will most likely give them the out-of-the-box functionality and make them easier to configure and update. We can see this clearly with the example of Virto Commerce, which has recently become one of the prominent open-source platforms, serving various customers, ranging from wholesalers and distributors of complex products to those who sell only maintenance products.
+                </div>
+            </div>
+            <div style="display: table-row;">
+                <div style="display: table-cell; padding-right: 20px; width: 50%;">
+                    <strong>Focus on global markets.</strong> The most important thing for an owner of a B2B <a href="{{ '/glossary/ecommerce-platforms' | absolute_url }}">e-commerce platform</a> is to concentrate beyond his local area, beyond the existing customer base. In return for the risks that may appear, the business can gain millions of potential customers from the ever-growing Asian markets. This bold move may entail selling the products in local currencies, accepting local methods of payment, and provide an entirely different customer experience that is oriented towards a different culture, with different laws and government regulations.
+                </div>
+                <div style="display: table-cell; vertical-align: top;">
+                    <img alt="Focus on global markets" src="assets/images/global-markets.jpg" />
+                </div>
+            </div>
+        </div>
         <p class="text">
           These were the trends that were mostly discussed in the mediaweb. Adopt these B2B ecommerce trends to always stand on top of your game!  
         </p>
