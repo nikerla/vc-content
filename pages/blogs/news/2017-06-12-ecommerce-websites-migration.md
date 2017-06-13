@@ -33,4 +33,4 @@ This is why it’s absolutove, with careful analysis, planning and risk manageme
 ely essential to carefully plan a step-by- step approach, schedule the migration to be executed in stages, and identify prioritization. 
 Although, general unpredictability of both the market and the migration process make it a scary m
 
-[This Whitepaper] will provide you with a solid strategy that will ensure you get all of the benefits from the migration you were hoping for, without undertaking too much work all at once.
+[This Whitepaper] (https://virtocommerce-public-staging.azurewebsites.net/migration-whitepaper) will provide you with a solid strategy that will ensure you get all of the benefits from the migration you were hoping for, without undertaking too much work all at once.
