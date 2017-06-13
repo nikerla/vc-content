@@ -15,10 +15,10 @@ title: Common Pains of eCommerce Websites Migration and how to avoid them
 <img src='../../assets/images/blog/b2b-online-aftermath.jpg'>
 
 There comes a point in every ecommerce company’s development path when it’s time to grow their website beyond its maximum capabilities, and subsequently comes the dreaded migration time. 
-
 Migration of an entire system to a new ecommerce platform is a complicated process that needs to be executed with surgical precision in order to avoid disaster. But when done right, it’s well worth the effort! So, your best bet at achieving a smooth migration and minimizing the risk of running into critical issues is having a solid plan!  
 
 There are two types of potential issues you need to keep in mind when starting to plan your ecommerce website migration. Obvious issues like data migration you’ll anticipate and be prepared for, but overcoming hidden problems like accumulated SEO &amp; referral traffic will inevitably come up unexpectedly during the process. The goal of any successful migration strategy is to mitigate the unexpected issues and build them into your plan.
+
 It’s important to remember why you decided to migrate your website/store/catalog to a new platform in the first place. Most commonly the reasons are: 
 
 1. Your business has outgrown its current platform and expanding it further or even just managing your day-to- day business processes under current circumstances has become a frustrating experience. 
