@@ -79,12 +79,12 @@ tags :
 				</div>
 			</div>
 		</div>
+		<div style="text-align: center;">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+		</div>
 		<div class="buttons columns" style="word-spacing: normal;">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		</div>
-	</div>
-	<div style="text-align: center;">
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
 	</div>
 </div>
