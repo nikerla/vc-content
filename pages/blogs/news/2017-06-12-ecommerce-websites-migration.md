@@ -31,6 +31,7 @@ Typically, if you are a big business with a huge system that needs to be mig
 
 This is why it’s absolutove, with careful analysis, planning and risk management it can be smooth and straightforward.
 ely essential to carefully plan a step-by- step approach, schedule the migration to be executed in stages, and identify prioritization. 
-Although, general unpredictability of both the market and the migration process make it a scary m
 
-[This Whitepaper] (https://virtocommerce-public-staging.azurewebsites.net/migration-whitepaper) will provide you with a solid strategy that will ensure you get all of the benefits from the migration you were hoping for, without undertaking too much work all at once.
+Although, general unpredictability of both the market and the migration process make it a scary move, with careful analysis, planning and risk management it can be smooth and straightforward.
+
+[This Whitepaper](/migration-whitepaper) will provide you with a solid strategy that will ensure you get all of the benefits from the migration you were hoping for, without undertaking too much work all at once.
