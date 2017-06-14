@@ -102,7 +102,7 @@ tags:
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; width: 50%;">
-                    <img alt="Ecommerce Platforms - Volusion" src="assets/images/volusion.jpg" />
+                    <img alt="Ecommerce Platforms - Volusion" src="assets/images/volusion1.jpg" />
                 </div>
 		<p class="text">Volusion is a simple website creation tool. It is another popular platform just like Shopify and BigCommerce that offers some notable features that are highly appreciated by designers and developers. If you are more dedicated to the operational side of an ecommerce store than to its marketing-led features, you may consider choosing Volusion over BigCommerce. Like Shopify and BigCommerce, Volusion offers a perfect balance between providing everything you need to set up, operate and expand your business and leaving some space for your personal customization. Also, just like BigCommerce, Volusion offers a vast knowledgebase, where you can get help setting up an online store of your own. Volusion even takes it a step further by featuring account specialists – personnel, who will assist you directly in building your website.</p>
 		<p class="text">Another area where Volusion excels is customer support. The team puts a tremendous amount of effort in making sure their clients have the best experience.</p>
