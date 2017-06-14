@@ -1,6 +1,6 @@
 ---
-title: Enterprise .NET open-source ecommerce cloud platform. Terms
-description: Enterprise .NET open-source ecommerce cloud platform. Terms
+title: Ecommerce whitepapers from Virto Commerce
+description: Ecommerce whitepapers from Virto Commerce
 date: 2017-06-14
 permalink: whitepapers
 ---
