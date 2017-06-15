@@ -19,13 +19,16 @@ tags:
 ---
 <div class="business-features clearfix __responsive">
     {% include 'glossary-left-menu' %}
-    <div class="business-cnt">        <div class="head __cart">
-        <h1 class="title">Magento alternative</h1>
-    </div>
-        <img alt="Magento alternative" src="assets/images/magento-alternative.jpg" />
+    <div class="business-cnt">
+        <div class="head __cart">
+            <h1 class="title">Magento alternative</h1>
+        </div>
+        <div style="text-align: center;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+        </div>
         <div class="text">
             <p>Magento can be easily named among the top most popular ecommerce platforms in the world. It is the moving force of innovation in its market segment, providing for its customers three distinct platforms: Magento Community Edition, Magento Enterprise Edition, and Magento Enterprise Cloud Edition. This platform easily attracts businesses of all sizes and areas, and there are many reasons why it does. While Magento markets itself as a perfect solution for any of your business’ ecommerce goals, which it certainly is, it can be very frustrating to manage for a new user without any coding or web developing experience. The advantages of using Magento include the opportunity to create a fully customizable web store, if your coding knowledge and expertise give you the ability to use its robust open source framework. Moreover, the paid extensions and enterprise solutions that Magento offers are second to none. Also, Magento takes great pride in providing their clients with the best possible customer support on the market, and this has helped it attract more than 600 big enterprise customers. However, if you are a small business owner who is currently in search of a much simpler solution or you do not have an experience in Magento’s coding base and you do not want to hire an IT manager, you might want to check out some of the best options that are currently available in the market of shopping-cart software.</p>
-            <p>If you have decided to switch from using Magento, here is what you should consider while choosing your Magento alternative. </p>
+            <p>If you have decided to switch from using Magento, here is what you should consider while choosing your Magento alternative.</p>
             <ol>
                <li><strong> Open Source or Closed Source.</strong> Open source software like Linux or Mozilla Web Browser and closed source or so-called proprietary software, like Microsoft Windows or Adobe products, have been around for a long time. Open source platforms offer the high level of customizability while at the same time being almost entirely free. However, there are certain things that they lack that closed source platforms have. For example, security and customer support. If it is in your blood to have full control over your website, share the extensions and plug-ins of the platform with the community, then open source platforms will be the way to go for you.</p>
                <li><strong> Price Tag.</strong> Proprietary (closed source) platforms come with a price tag that can add up to hundreds of US dollars. At the same time, open source Magento competitors offer basic features for free. However, if you would like to get an enterprise package or develop your website’s functionality with extensions, you may run into some unpleasant fees.</p>
@@ -79,9 +82,9 @@ tags:
                 </div>
             </div>
         </div>
-		<div class="buttons">
-			<a class="button fill" href="/try-now">Try It Now</a>
-			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
-		</div>
+        <div class="buttons">
+            <a class="button fill" href="/try-now">Try It Now</a>
+            <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        </div>
     </div>
 </div>
