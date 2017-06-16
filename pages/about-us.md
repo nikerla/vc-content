@@ -144,13 +144,9 @@ tags :
 </div>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
 <script type="text/javascript">
-(function($) {
-
-function render_map( $el ) {
-
+(function($) { function render_map( $el ) {
     // var
     var $markers = $el.find('.marker');
-
     // vars
     var args = {
         mapTypeControl: false,
@@ -161,10 +157,8 @@ function render_map( $el ) {
         scrollwheel: false
 
     };
-
     // create map
     var map = new google.maps.Map( $el[0], args);
-
     // add a markers reference
     map.markers = [];
 
@@ -175,11 +169,9 @@ function render_map( $el ) {
 
     // center map
     center_map( map );
-
 }
 
 function add_marker( $marker, map ) {
-
     // var
     var latlng = new google.maps.LatLng( $marker.attr('data-lat'), $marker.attr('data-lng') );
 
@@ -204,11 +196,9 @@ function add_marker( $marker, map ) {
             infowindow.open( map, marker );
         });
     }
-
 }
 
 function center_map( map ) {
-
     // vars
     var bounds = new google.maps.LatLngBounds();
 
@@ -240,6 +230,5 @@ $(document).ready(function () {
         render_map( $(this) );
     });
 });
-
 })(jQuery);
 </script>
