@@ -59,6 +59,19 @@ tags :
                 </div>
             </li>
             <li class="list-item">
+                <figure class="list-pic" data-office="Sales">
+                    <img src="assets/images/about/garren-parkins.jpg" alt="Garren Parkins">
+                </figure>
+                <div class="list-name">Garren Parkins</div>
+                <div class="list-office">Director of Sales</div>
+                <div class="list-descr">
+                    <p>
+                        B2B sales focused with experience in new business development, relationship management, digital project management, automated marketing, and digital strategic planning. Leading teams of designers, developers, and marketing professionals executing digital transformation has taught me to successfully grow and manage enterprise level projects with executive stakeholders. 
+                    </p>
+                </div>
+            </li>            
+            <!--
+            <li class="list-item">
                 <figure class="list-pic" data-office="SA">
                     <img src="assets/images/about/igoris-berniukevicius.jpg" alt="Igoris Berniukevicius">
                 </figure>
@@ -81,6 +94,7 @@ tags :
                     <p>Architect for Virto Commerce and leads the team of developers working on Virto Commerce Platform. Before joining Virto Commerce, Eugeny developed and launched several successful ecommerce solutions. He has a degree from Kharkov Polytechnic University.</p>
                 </div>
             </li>
+            -->
         </ul>
     </div>
         <div class="our-offices __responsive">
