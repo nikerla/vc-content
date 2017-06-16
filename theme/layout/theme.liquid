@@ -33,6 +33,7 @@
     {{ 'flags.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
     {{ 'magnific-popup.css' | asset_url | stylesheet_tag }}
+    {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}    
     <script type="text/javascript">
         var appInsights=window.appInsights||function(config){
             function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i) }) }}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
@@ -140,7 +141,6 @@
             }
         });
     </script>
-    {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js' | script_tag }}
