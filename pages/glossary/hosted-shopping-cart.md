@@ -48,7 +48,7 @@ tags:
             </ol>
             <p>Having the must-have features covered, let’s move on to looking at the most widely-used shopping carts out there.</p>
         </div>
-        <h2><a href="https://www.shopify.com">Shopify</a></h2>
+        <h2><a href="https://www.shopify.com" target="_blank">Shopify</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; width: 50%;">
@@ -59,7 +59,7 @@ tags:
                 </div>
             </div>
         </div>
-        <h2>Opencart</h2>
+        <h2><a href="https://www.opencart.com/" target="_blank">Opencart</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
@@ -70,7 +70,7 @@ tags:
                 </div>
             </div>
         </div>
-        <h2>PinnacleCart</h2>
+        <h2><a href="https://www.pinnaclecart.com/" target="_blank">PinnacleCart</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; width: 50%;">
@@ -81,7 +81,7 @@ tags:
                 </div>
             </div>
         </div>
-        <h2>UltraCart</h2>
+        <h2><a href="https://www.ultracart.com/" target="_blank">UltraCart</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
@@ -92,7 +92,7 @@ tags:
                 </div>
             </div>
         </div>
-        <h2>Magento</h2>
+        <h2><a href="https://magento.com/" target="_blank">Magento</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; width: 50%;">
@@ -103,7 +103,7 @@ tags:
                 </div>
             </div>
         </div>
-        <h2>StoreFront</h2>
+        <h2><a href="http://storefront.com/" target="_blank">StoreFront</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
@@ -114,7 +114,7 @@ tags:
                 </div>
             </div>
         </div>
-        <h2>ShopIntegrator</h2>
+        <h2><a href="http://www.shopintegrator.com/" target="_blank">ShopIntegrator</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; width: 50%;">
@@ -125,7 +125,7 @@ tags:
                 </div>
             </div>
         </div>
-        <h2>Yahoo! Merchant Solutions</h2>
+        <h2><a href="https://developer.yahoo.com/stores/" target="_blank">Yahoo! Merchant Solutions</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
@@ -136,7 +136,7 @@ tags:
                 </div>
             </div>
         </div>
-        <h2>Virto Commerce</h2>
+        <h2><a href="https://virtocommerce.com/">Virto Commerce</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; width: 50%;">
