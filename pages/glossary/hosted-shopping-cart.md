@@ -48,7 +48,7 @@ tags:
             </ol>
             <p>Having the must-have features covered, let’s move on to looking at the most widely-used shopping carts out there.</p>
         </div>
-        <h2>Shopify</h2>
+        <h2><a href="https://www.shopify.com">Shopify</a></h2>
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; width: 50%;">
@@ -85,7 +85,7 @@ tags:
         <div style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
-                    <p class="text">UltraCart is the best option in case you want your website to be loaded with features, while at the same time not bursting your budget. It comes with a great number of tools that will help you make more sales; it is built on enterprise-level hardware, and it always takes care of any updates, security concerns or technical aspects. Just like any other platform, it supports all the leading credit card processing gateways and works with many payment methods. Great customer support and technical documentation especially make this shopping cart platform stand out among others.</p>
+                    <p class="text">UltraCart is the best option in case you want your website to be loaded with features, while at the same time not bursting your budget. This shopping cart hosting comes with a great number of tools that will help you make more sales; it is built on enterprise-level hardware, and it always takes care of any updates, security concerns or technical aspects. Just like any other platform, it supports all the leading credit card processing gateways and works with many payment methods. Great customer support and technical documentation especially make this shopping cart platform stand out among others.</p>
                 </div>
                 <div style="display: table-cell;">
                     <img alt="Hosted Shopping Cart - UltraCart" src="assets/images/ultra-cart.jpg" />
@@ -121,7 +121,7 @@ tags:
                     <img alt="Hosted Shopping Cart - ShopIntegrator" src="assets/images/shop-integrator.jpg" />
                 </div>
                 <div style="display: table-cell; padding-left: 20px; vertical-align: top;">
-                    <p class="text">A pretty basic shopping cart software that provides regular features like template selection, easy connection with the payment processor, secure hosting, mobile e-commerce and so on. While it offers a Multi-Store Management, it lacks any inventory, SEO or Promotions management, marketing tools and loyalty programs. It is what you get starting at $9.95 per month.</p>
+                    <p class="text">A pretty basic shopping cart hosting that provides regular features like template selection, easy connection with the payment processor, secure hosting, mobile e-commerce and so on. While it offers a Multi-Store Management, it lacks any inventory, SEO or Promotions management, marketing tools and loyalty programs. It is what you get starting at $9.95 per month.</p>
                 </div>
             </div>
         </div>
