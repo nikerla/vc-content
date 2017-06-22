@@ -1,6 +1,6 @@
 ---
 title: Top B2B e commerce sites and companies
-description: Top B2B e commerce sites and companies
+description: Top B2B e commerce sites and companies. Top10 B2B portals.
 date: 2017-04-22 
 canonical: https://virtocommerce.com/glossary/b2b-ecommerce-companies-websites
 permalink: glossary/b2b-ecommerce-companies-websites
@@ -44,10 +44,10 @@ tags :
 				  <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
 			  </div>
         <p class="text">
-          With the advancement of internet, information technologies, digital systems, and standards of their interaction, the new way of doing business has evolved. E-business is a unique form of doing business that is executed by implementing information technologies in the process of production, trading, and distribution of goods and services. It is becoming more and more popular for companies to go online in all of the areas of business, including B2B commerce. When we mention B2B, the first thing that comes to mind is e-commerce systems– software and websites, which become tools for purchasing products and goods for businesses via the Internet. 
+          With the advancement of internet, information technologies, digital systems, and standards of their interaction, the new way of doing business has evolved. E-business is a unique form of doing business that is executed by implementing information technologies in the process of production, trading, and distribution of goods and services. It is becoming more and more popular for companies to go online in all of the areas of business, including B2B commerce. When we mention B2B, the first thing that comes to mind is e-commerce systems – software and websites, which become tools for purchasing products and goods for businesses via the Internet. 
         </p>
         <p class="text">
-           Nowadays, B2B e-commerce sites keep gaining popularity. Using business-to-business e-commerce sites is becoming more favorable for B2B e commerce companies that do not want to deal with expensive and complicated EDI (Electronic Data Interchange) data exchange systems. The most important thing for them is to connect with small suppliers. When using business to business e-commerce websites, small businesses have a chance to compete with the larger companies. B2B <a href="/glossary/ecommerce-platforms">platforms</a> are valued for their usability and include various solutions for the suppliers, as well as for the customers. 
+           Nowadays, B2B e-commerce sites keep gaining popularity. Using business-to-business e-commerce sites (or b2b portals) is becoming more favorable for B2B e commerce companies that do not want to deal with expensive and complicated EDI (Electronic Data Interchange) data exchange systems. The most important thing for them is to connect with small suppliers. When using business to business e-commerce websites, small businesses have a chance to compete with the larger companies. B2B <a href="/glossary/ecommerce-platforms">platforms</a> are valued for their usability and include various solutions for the suppliers, as well as for the customers. 
         </p>
         <p class="text">
             There has been a drastic shift in the e-commerce from B2C (business to consumer) to B2B. B2B e-commerce sites are more complex and contain way more features than B2C. In this article, we would like to present you the top B2B e commerce sites.
@@ -55,7 +55,7 @@ tags :
         <h2>What is the focus of top B2B e commerce sites?</h2>
         <img alt="B2B e commerce companies and websites" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
         <p class="text">
-            While compiling this list, we focused on several features, which every B2B e-commerce company should have.
+            While compiling this list, we focused on several features, which every B2B e-commerce company and portal should have.
         </p>
         <p class="text">1. Complex pricing options. B2B e commerce companies often offer different prices for different business partners.</p>
         <p class="text">2. Flexible checkout process and delivery. The checkout process should always match your company’s regulations for payment and shipping.</p>
@@ -65,7 +65,7 @@ tags :
       <p class="text">6. Certified e-commerce trust marks that prove the website's reliability when it comes to purchasing goods and services.</p>
         <h2>10 revolutionary B2B e-commerce sites</h2>
         <p class="text">
-           TUsing our personal experience and the E-consultancy blog reviews, we have compiled a list of vendors, who provide inspiration and have truly been revolutionary and innovative. 
+           Using our personal experience and the E-consultancy blog reviews, we have compiled a list of top 10 B2B portals, who provide inspiration and have truly been revolutionary and innovative. 
         </p>
         <h3>Alibaba</h3>
         <img alt="Alibaba B2B ecommerce site" src="assets/images/Alibaba.png"></img>
