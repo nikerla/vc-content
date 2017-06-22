@@ -73,32 +73,32 @@ tags:
         <div class="text" style="display: table;">
             <div style="display: table-row;">
                 <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
-                    <strong>Software as a Service</strong>
-                    <p>With out cloud ecommerce platform we take care of everything, including uptime, maintenance, security and updates so you canfocus on business features.</p>
+                    <strong>All Services - One Solution</strong>
+                    <p>Our cloud ecommerce solutions take care of uptime, maintenance, security and updates which allows you to focus on business.</p>
                 </div>
                 <div style="display: table-cell; vertical-align: top;">
-                    <strong>Stability and Security</strong>
-                    <p>Virto Commerce experts worh with your development team to make sure your e-commerce store code is secure, optimized and fast. We have rocket scientists so you don't have to.</p>
+                    <strong>Stable and Secure</strong>
+                    <p>Our product managers and solution architects communicate with your developers to optimize and speed-up your ecommerce cloud solution.</p>
                 </div>
             </div>
             <div style="display: table-row;">
                 <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
-                    <strong>Cource Control</strong>
-                    <p>Source control is included and all the customizations are saved and are available for review.</p>
+                    <strong>Control Sources</strong>
+                    <p>All the code changes are saved and available for immediate developer review.</p>
                 </div>
                 <div style="display: table-cell; vertical-align: top;">
-                    <strong>Staging & Deployment</strong>
-                    <p>Developer staging and production deployment is done using automation scripts. You will be able to preview any changes in the live staging environment deployed in the cloud.</p>
+                    <strong>Stage & Deploy</strong>
+                    <p>We provide stage and production deploy websites using automation scripts out of cloud.</p>
                 </div>
             </div>
             <div style="display: table-row;">
                 <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
-                    <strong>Backups</strong>
-                    <p>We backup your site files, database in multiple locations and you can restore to any point of time in the last 30 days to make sure you don't have to worry about data loss.</p>
+                    <strong>Backup and Restore</strong>
+                    <p>We provide backup services for your website files and DB. You can execute point-in-time restore for the last 30 days.</p>
                 </div>
                 <div style="display: table-cell; vertical-align: top;">
-                    <strong>24/7 IT Support</strong>
-                    <p>In case of emergency we handle the call at 2am, not you.</p>
+                    <strong>24/7 Support</strong>
+                    <p>We provide support and respond to emergency calls and tickets 24/7.</p>
                 </div>
             </div>
         </div>
