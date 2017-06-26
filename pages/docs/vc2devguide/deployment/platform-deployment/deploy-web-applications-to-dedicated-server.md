@@ -81,6 +81,12 @@ Open properties for **~/App_Data** folder and give permission **Modify** to�
 * Click **Generate**, then **OK**, then **Save**.
 
 ## Setup Storefront application
+Downloading the precomplied storefront files:
+
+Navigate to the <a href="https://github.com/VirtoCommerce/vc-storefront/releases">Releases Section of Virto Commerce storefront in GitHub.</a>
+
+You will find VirtoCommerce.Storefront.2.x.x.zip file. In this file the site has already been built and can be run without additional compilation. It does not includes all the source code.
+Unpack this zip to a local directory 'C:\vc-storefront'. After that you will have the 'C:\vc-storefront\VirtoCommerce.Storefront' directory with storefront precompiled files.
 
 ### Configure web API base URL
 
