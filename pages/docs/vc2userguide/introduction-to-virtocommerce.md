@@ -5,7 +5,7 @@ layout: docs
 date: 2015-09-19T03:02:04.137Z
 priority: 1
 ---
-<a class="crosslink" href="https://virtocommerce.com/b2b-ecommerce-platform" target="_blank">Virto Commerce</a> is a flexible eCommerce framework with customized services and a wide-range feature set. Virto Commerce provides full access to source code in order to design custom features, integrate with any third party system, and maintain internal control. This open approach gives companies the easiest and most cost-effective way to implement their unique custom <a class="crosslink" href="https://virtocommerce.com/b2b-ecommerce" target="_blank">eCommerce solution</a>.
+<a class="crosslink" href="https://virtocommerce.com/b2b-ecommerce-platform" target="_blank">Virto Commerce</a> is a flexible eCommerce framework with customized services and a wide-range feature set. Virto Commerce provides full access to source code in order to design custom features, integrate with any third party system, and maintain internal control. This open approach gives companies the easiest and most cost-effective way to implement their unique custom <a class="crosslink" href="https://virtocommerce.com/b2b-ecommerce-platform" target="_blank">eCommerce solution</a>.
 
 Virto Commerce includes the **Commerce Manager** (server and management website) and **Storefronts** (the website and mobile app where customers do the shopping).
 
