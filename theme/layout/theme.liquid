@@ -43,7 +43,6 @@
     {% if settings.freshsales_enable %}
         {% include 'freshsales' %}
     {% endif %}    
-	        <!-- loadDeferredStyles -->
         <style>
         #layout, footer 
         {
@@ -55,31 +54,25 @@
 </noscript>
 </head>
 <body ng-controller="mainController">
-        <noscript id="deferred-styles">
-    {{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
-    {{ '//fonts.googleapis.com/css?family=Roboto:400,100,300,700' | stylesheet_tag }}
-    {{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
-    {{ 'reset.css' | asset_url | stylesheet_tag }}
-    {{ 'main.css' | asset_url | stylesheet_tag }}
-    {{ 'flags.css' | asset_url | stylesheet_tag }}
-    {{ 'responsive.css' | asset_url | stylesheet_tag }}
-    {{ 'magnific-popup.css' | asset_url | stylesheet_tag }}
-        </noscript>
-        <script>
-          var loadDeferredStyles = function() {
-            var addStylesNode = document.getElementById("deferred-styles");
-            var replacement = document.createElement("div");
-            replacement.innerHTML = addStylesNode.textContent;
-            document.body.appendChild(replacement)
-            addStylesNode.parentElement.removeChild(addStylesNode);
-          };
-          var raf = requestAnimationFrame || mozRequestAnimationFrame ||
-              webkitRequestAnimationFrame || msRequestAnimationFrame;
-          if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
-          else window.addEventListener('load', loadDeferredStyles);
-        </script>
-
-
+    <noscript id="deferred-styles">
+		{{ '//fonts.googleapis.com/css?family=Lato' | stylesheet_tag }}
+		{{ '//fonts.googleapis.com/css?family=Roboto:400,100,300,700' | stylesheet_tag }}
+		{{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
+		{{ 'main-styles.min.css' | asset_url | stylesheet_tag }}
+	</noscript>
+	<script>
+	  var loadDeferredStyles = function() {
+		var addStylesNode = document.getElementById("deferred-styles");
+		var replacement = document.createElement("div");
+		replacement.innerHTML = addStylesNode.textContent;
+		document.body.appendChild(replacement)
+		addStylesNode.parentElement.removeChild(addStylesNode);
+	  };
+	  var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+		  webkitRequestAnimationFrame || msRequestAnimationFrame;
+	  if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+	  else window.addEventListener('load', loadDeferredStyles);
+	</script>
   {% include 'google-tag-manager-body' %}
     <div class="google-like">
         <div class="g-plusone" data-href="https://virtocommerce.com" data-size="tall"></div>
