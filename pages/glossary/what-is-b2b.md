@@ -66,6 +66,7 @@ tags :
                 <li><strong>Buying Phase – Channel Connection.</strong> You need to clearly connect each of the buying phases with your available channels. With the direct effort put into this, you can greatly increase your conversion rate. Consider researching about how clients engage in product reviews, how they ask questions, and how orders, renewals and new purchases are treated.</li>
                 <li><strong>Do not put away a channel conflict.</strong> Clarify the rules with any of the partners you may possibly have. Always ensure that there will be a minimal amount of misunderstanding between your partners by increasing the quality of your products and executing reordering activity with the help of the sales representative quotas. </li>
             </ol>
+            
             <div style="text-align: center;">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
 			</div>
