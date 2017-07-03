@@ -880,7 +880,7 @@ textarea.__error
     z-index: 50;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-	display: block;
+	/*display: block;*/
 }
 
 .layout-canvas
@@ -6482,10 +6482,10 @@ ul.tags-list
 
 /* Footer
 ========================================================================== */
-footer 
+/*footer 
 {
 	display: block;
-}
+}*/
 
 .footer-wrap
 {

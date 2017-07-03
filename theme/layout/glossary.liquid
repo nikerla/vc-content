@@ -103,7 +103,11 @@
                 </header>
             </div>
             <article class="main" role="main">
-                {{ content_for_layout }}
+                <div class="business-features clearfix __responsive">
+	            {% include 'glossary-left-menu' %}
+                    {{ content_for_layout }}
+                    {% include 'disqus' %}                        
+                </div>
             </article>
             {% include 'footer' %}
         </div>
