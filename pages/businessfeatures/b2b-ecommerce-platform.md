@@ -36,7 +36,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 			<div style="text-align: center;">
 				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
 			</div>
-			<h2 class="sub-title">B2B Checkout and Order Management</h2>
+			<h2 class="sub-title">B2B eCommerce Software: Checkout and Order Management</h2>
 			<div style="display: table;">
 				<div style="display: table-row;">
 					<div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
@@ -47,7 +47,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 					</div>
 				</div>
 			</div>
-			<h2 class="sub-title">B2B Security and Organization Management</h2>
+			<h2 class="sub-title">B2B eCommerce Platform: Security and Organization Management</h2>
 			<div style="display: table;">
 				<div style="display: table-row;">
 					<div style="display: table-cell; padding-right: 20px; width: 50%;">

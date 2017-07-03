@@ -39,7 +39,9 @@ tags :
                 </li>
             </ul>
         </div>
-        <img alt="B2B E-commerce trends" src="assets/images/b2becommerce.jpg"></img>
+        <div style="text-align: center;">
+				  <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+			  </div>
         <p class="text">
           2016 has been a great year for B2B e-commerce, with the USA and China being the leaders in the industry and having sales reach over 1.2 billion dollars. Forrester suggests that the sales volume in B2B e-commerce will increase up to 1 trillion dollars within the next five years. With such a flourishing B2B e-commerce industry, countries like the USA and China are setting high standards and bringing certain major trends into play. The digital marketplace is a highly competitive environment, where each business has to either adopt the latest trends fast or simply let other companies take over the position of leadership. In this article, we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
         <h2>
@@ -58,6 +60,7 @@ tags :
          <p class="text">
            <strong>Multichannel.</strong> There are two main sales models in the B2B industry. You may have your well-designed website and sell your product locally, but still not reach maximum profits. Allow your business to reach out to big platforms that connect thousands of manufacturers and are now becoming a vital place for the online presence for B2B sellers. Besides creating a responsive and perfectly-designed website, we highly recommend dedicating some time to Omni channeling your online presence as the marketplaces have become much more attractive to manufacturers, wholesalers, and distributors.
         </p>
+        <img alt="B2B E-commerce trends" src="assets/images/b2becommerce.jpg"></img>
         <h2>
         B2B Ecommerce Trends in 2017
         </h2>
