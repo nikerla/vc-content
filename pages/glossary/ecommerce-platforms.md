@@ -1,4 +1,4 @@
----
+﻿---
 title: The best ecommerce platforms for websites. Top ecommerce platforms list
 description: The best ecommerce platforms for websites. Top ecommerce platforms list. How to choose the best ecommerce platform?
 date: 2017-05-12
@@ -131,6 +131,7 @@ tags:
         <p class="text">What is the best ecommerce platform? There is no single “best platform for ecommerce website” and the choice of the best ecommerce platform will always be upon you. None of the e-commerce platforms offer a “one size fits all” solution, and it’s up to you to consider different options depending on your solution. To choose the best e commerce platform define the solution features and configuration that you need in advance. Test the ecommerce platforms with the necessary features using trial versions, compare support and documentation during the trial period – this will give you a better understanding of the customer service.</p>
         <div style="text-align: center;">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/HeagHgIAWnM?ecver=1" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="buttons">
             <a class="button fill" href="/try-now">Try It Now</a>
