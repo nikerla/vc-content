@@ -99,6 +99,29 @@ Compile your solution, restart IIS and open Manager in browser to check how your
 
 ![Hello World](../../../../assets/images/docs/hello-world.png)
 
+### Creating and installing a module package
+
+1. Open Tools > NuGet Package Manager > Package Manager Console
+2. Run the following command: `Compress-Module`
+
+![Compress Module](../../../../assets/images/docs/compress-module.png)
+
+The output will show the location of the created module package (ManagedModule1_1.0.0.zip).
+
+If `Compress-Module` command is not recognized, restart Visual Studio and repeat the command. Restarting may require to allow Visual Studio load the package generation script which is installed as NuGet package.
+
+3. Open the Virto Commerce Manager where you want to install this module
+4. Navigate to Modules > Advanced
+5. Upload your ManagedModule1_1.0.0.zip:
+
+![Module Upload](../../../../assets/images/docs/modules-advanced.png)
+
+![Module Upload](../../../../assets/images/docs/module-install.png)
+
+6. Click install
+
+7. Restart the Virto Commerce Manager or IIS
+
 ## Pure JavaScript module
 
 In this part of the tutorial we'll create a JavaScript module called **Sample Unmanaged Module** which will add a new item to the main menu and open a new blade when this item is clicked.
