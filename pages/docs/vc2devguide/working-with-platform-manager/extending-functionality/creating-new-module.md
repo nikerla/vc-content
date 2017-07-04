@@ -10,6 +10,8 @@ priority: 1
 This tutorial will show you the steps required when creating a new module and adding it to the Virto Commerce Manager web application. You can also download Virto Commerce template from 
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=VirtoCommerce2xModuleProjectTemplate.VirtoCommerce2xModule), or simply search for "Virto" under online templates.
 
+![](../../../../assets/images/docs/vs-template.png)
+
 Download / fork source code for described modules from GitHub [vc-samples repository](https://github.com/VirtoCommerce/vc-samples).
 
 ## Overview
