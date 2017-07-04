@@ -5637,7 +5637,7 @@ form.fixed
     padding: 0 15px;
     text-align: center;
     vertical-align: top;
-    width: 25%;
+    width: 33%;
     word-spacing: 0;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -5650,10 +5650,10 @@ form.fixed
 
 .management-team .list-pic
 {
-    max-height: 200px;
+    max-height: 300px;
     margin: 0 auto 20px;
     position: relative;
-    max-width: 200px;
+    max-width: 300px;
 }
 
     .management-team .list-pic::after
