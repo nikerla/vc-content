@@ -42,9 +42,11 @@ tags :
     </div>
     <div class="text">
         <p>B2B ecommerce has become vital to the global economy. Following the most recent predictions, by 2020, all B2B ecommerce revenue will be around 6.7 trillion USD by 2020. We can see that this prediction can even be an underestimate, taking into the account the rapid market growth which is viewed in the past years and the amount of $5.7 trillion in revenue in 2014.</p>
-        <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-1.jpg"></img>
+        <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-1.jpg" />
+        <p style="text-align: center;">Source: Statista</p>
         <p>As we can see in the graph below, we can expect further expansion of the B2B businesses on digital markets, as of 2014, only 22% of American business-to-business companies are currently selling their products and services online.</p>
-        <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-2.jpg"></img>
+        <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-2.jpg" />
+        <p style="text-align: center;">Source: Statista</p>
         <p>It is a lot of revenue for almost a quarter of U.S. B2B-businesses. We can understand why the rapid growth is occurring and explain the rush about starting a digital B2B ecommerce business.</p>
         <p>In order to understand what business to business e commerce is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.</p>
         <p>B2B (business to business) is focused on sales of products, services, or information to other businesses, and stands in contrast to B2C (business to consumer) and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization and benefits from technological innovations.</p>
