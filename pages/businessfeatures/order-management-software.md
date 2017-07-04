@@ -28,7 +28,7 @@ tags:
         <p class="text">
              The Virto Commerce ecommerce order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP, accounting and fulfillment systems.
         </p>
-        <img alt="Ecommerce hosting" src="assets/images/ecommerce-hosting.jpg" />
+        <img alt="Order Management Software" src="assets/images/order-management.jpg" />
 		<h2>Features</h2>
 		<h4>Order status management</h4>
 		<p class="text">Track orders and manage different order statuses – ex. confirmed/not confirmed, shipped (full order or partially), delivered, paid/unpaid/split payments, etc. Your order statuses will automatically get updated on different channels. In addition, our Virto Commerce inventory management solution allows you to automatically sync the sales data to the inventory logs, constantly assuring accuracy; and the cloud-based system makes your data secure, yet accessible for you from anywhere.</p>
