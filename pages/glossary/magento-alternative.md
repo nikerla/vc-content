@@ -23,8 +23,8 @@ tags:
         <h1 class="title">Magento alternative</h1>
     </div>
     <div style="text-align: center;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
+        <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+        <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="text">
         <p>Magento can be easily named among the top most popular ecommerce platforms in the world. It is the moving force of innovation in its market segment, providing for its customers three distinct platforms: Magento Community Edition, Magento Enterprise Edition, and Magento Enterprise Cloud Edition. This platform easily attracts businesses of all sizes and areas, and there are many reasons why it does. While Magento markets itself as a perfect solution for any of your business’ ecommerce goals, which it certainly is, it can be very frustrating to manage for a new user without any coding or web developing experience. The advantages of using Magento include the opportunity to create a fully customizable web store, if your coding knowledge and expertise give you the ability to use its robust open source framework. Moreover, the paid extensions and enterprise solutions that Magento offers are second to none. Also, Magento takes great pride in providing their clients with the best possible customer support on the market, and this has helped it attract more than 600 big enterprise customers. However, if you are a small business owner who is currently in search of a much simpler solution or you do not have an experience in Magento’s coding base and you do not want to hire an IT manager, you might want to check out some of the best options that are currently available in the market of shopping-cart software.</p>
