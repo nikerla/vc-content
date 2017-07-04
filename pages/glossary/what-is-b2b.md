@@ -41,18 +41,17 @@ tags :
         </ul>
     </div>
 <div class="col-w">
-    <div class="col __col-70">
-        <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
-    </div>
     <div class="col __col-30">
+        <a href="/download-b2b-whitepaper" >
+            <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;"/>
+        </a>
+    </div>
+    <div class="col __col-70">
         <div class="block" style="margin-left: 25px">
             <h3>Top 5 B2B challenges and solutions</h3>
             <p class="text">
                 B2B ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
             </p>
-            <a href="/download-b2b-whitepaper" >
-                <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;"/>
-            </a>
         </div>
     </div>
 </div>
