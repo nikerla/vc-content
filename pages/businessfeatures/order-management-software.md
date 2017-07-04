@@ -28,7 +28,7 @@ tags:
         <p class="text">
              The Virto Commerce ecommerce order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP, accounting and fulfillment systems.
         </p>
-        <img alt="Ecommerce hosting" src="assets/images/ecommerce-hosting.jpg" />
+        <img alt="Order Management Software" src="assets/images/order-management.jpg" />
 		<h2>Features</h2>
 		<h4>Order status management</h4>
 		<p class="text">Track orders and manage different order statuses – ex. confirmed/not confirmed, shipped (full order or partially), delivered, paid/unpaid/split payments, etc. Your order statuses will automatically get updated on different channels. In addition, our Virto Commerce inventory management solution allows you to automatically sync the sales data to the inventory logs, constantly assuring accuracy; and the cloud-based system makes your data secure, yet accessible for you from anywhere.</p>
@@ -55,9 +55,6 @@ tags:
     <p></p>
     <p class="text">Virto Commerce platform is not your ordinary order management software – it offers an opportunity to arrange and streamline your workflow, helps keep track of your inventory and order status, facilitates accounting and logistics and is fully customizable to your business’ unique needs and requirement.</p>
 		<p class="text"><a href="{{ '/features/for-business-professionals' | absolute_url }}">Module-based architecture</a> makes it an <a href="{{ '/glossary/agile-software-platform' | absolute_url }}">agile platform</a>, easy and safe to modify, add and remove features and integrate into your existing business processes and supporting software.</p>
-    <div style="text-align: center;">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=2" frameborder="0" allowfullscreen></iframe>
-			</div>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
