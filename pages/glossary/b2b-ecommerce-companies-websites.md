@@ -42,7 +42,7 @@ tags :
 			  </div>
         <div style="text-align: center;">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/HeagHgIAWnM?ecver=1" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
 		</div>
         <p class="text">
           With the advancement of internet, information technologies, digital systems, and standards of their interaction, the new way of doing business has evolved. E-business is a unique form of doing business that is executed by implementing information technologies in the process of production, trading, and distribution of goods and services. It is becoming more and more popular for companies to go online in all of the areas of business, including B2B commerce. When we mention B2B, the first thing that comes to mind is e-commerce systems – software and websites, which become tools for purchasing products and goods for businesses via the Internet. 

@@ -41,7 +41,7 @@ tags :
         </div>
         <div style="text-align: center;">
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/HeagHgIAWnM?ecver=1" frameborder="0" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
 		</div>
         <p class="text">
           2016 has been a great year for B2B e-commerce, with the USA and China being the leaders in the industry and having sales reach over 1.2 billion dollars. Forrester suggests that the sales volume in B2B e-commerce will increase up to 1 trillion dollars within the next five years. With such a flourishing B2B e-commerce industry, countries like the USA and China are setting high standards and bringing certain major trends into play. The digital marketplace is a highly competitive environment, where each business has to either adopt the latest trends fast or simply let other companies take over the position of leadership. In this article, we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
