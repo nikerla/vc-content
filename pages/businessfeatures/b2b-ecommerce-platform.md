@@ -31,21 +31,6 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 					</li>
 				</ul>
 			</div>
-            <div class="col-w">
-                <div class="col __col-70">
-                    <div class="block" style="margin-left: 25px">
-                        <h3>Top 5 B2B challenges and solutions</h3>
-                        <p class="text">
-                            B2B ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
-                        </p>
-                    </div>
-                </div>
-                <div class="col __col-30">
-                    <a href="/download-b2b-whitepaper" >
-                        <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;"/>
-                    </a>
-                </div>
-            </div>
 			<h2 class="sub-title">B2B Ecommerce Solutions</h2>
 			<p class="text">E-commerce solutions are revolutionizing B2B transactional protocols and processes. The customer fulfillment process of every class of commerce from merchandising to financial services is being optimized by well designed B2B ecommerce platform. This transformation is crucial to the efficiency of transactions involving complex integration scenarios.</p>
 			<div style="text-align: center;">

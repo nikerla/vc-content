@@ -40,21 +40,6 @@ tags :
             </li>
         </ul>
     </div>
-<div class="col-w">
-    <div class="col __col-30">
-        <a href="/download-b2b-whitepaper" >
-            <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;"/>
-        </a>
-    </div>
-    <div class="col __col-70">
-        <div class="block" style="margin-left: 25px">
-            <h3>Top 5 B2B challenges and solutions</h3>
-            <p class="text">
-                B2B ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
-            </p>
-        </div>
-    </div>
-</div>
     <div class="text">
         <p>B2B ecommerce has become vital to the global economy. Following the most recent predictions, by 2020, all B2B ecommerce revenue will be around 6.7 trillion USD by 2020. We can see that this prediction can even be an underestimate, taking into the account the rapid market growth which is viewed in the past years and the amount of $5.7 trillion in revenue in 2014.</p>
         <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-1.jpg"></img>
