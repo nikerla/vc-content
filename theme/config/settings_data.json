@@ -1,4 +1,4 @@
-{
+﻿{
     "current": "Default",
     "presets": {
         "Default": {
@@ -6,10 +6,10 @@
             "blog_social_visible": "twitter",
             "blog_social_heading": "Latest Tweets",
             "twitterwidget_username": "virtocommerce",
-            "twitterwidget_id": "646234978192195584",
-            "twitterwidget_numtweets": "120",
-            "twitterwidget_link_colour": "#ffffff",
-            "twitterwidget_scheme": "light",
+            "\"twitterwidget_id\"": "646234978192195584",
+            "\"twitterwidget_numtweets\"": "120",
+            "\"twitterwidget_link_colour\"": "#ffffff",
+            "\"twitterwidget_scheme\"": "light",
             "facebook_username": "https://www.facebook.com/virtocommerce",
             "freshsales_enable": true,
             "freshsales_url": "//virtocommerce.freshsales.io",
@@ -17,7 +17,24 @@
             "blog_sticked_article_url": "blog/new-features-in-virtocommerce",
             "blog_trending_article_url_1": "blog/top5-b2b-ecommerce-challenges",
             "blog_trending_article_url_2": "blog/difference-between-b2b-and-b2c-ecommerce-solution",
-            "blog_trending_article_url_3": "blog/development-plans-roadmap"
+            "blog_trending_article_url_3": "blog/development-plans-roadmap",
+            "feautured_products": [
+                {
+                    "sku": "ART-54159384"
+                },
+                {
+                    "sku": "YDM-44995513"
+                },
+                {
+                    "sku": "FHQ-67784017"
+                },
+                {
+                    "sku": "Klarna_Checkout_Euro"
+                },
+                {
+                    "sku": "DiBs"
+                }
+            ]
         }
     }
 }

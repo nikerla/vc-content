@@ -1,4 +1,4 @@
-<div class="apps">
+﻿<div class="apps">
     <div class="info-w">
         <div class="info __responsive">
             <div class="info-ico"></div>
@@ -17,10 +17,17 @@
             </div>
             <div class="list __items __inline">
                 <ul class="main">
+                  {% for feautured_product in settings.featured_products %}
+                    {% assign product = collections['featured'].products | where: "Sku", "==", feautured_product.sku %}
+                    {% include 'grid-item' %}
+                  {% endfor %}
+
+                    {% comment %}
                   {% assign featured_products = collections['featured'].products | sort:"createddate:desc" %}
-                   {% for product in featured_products limit: 5 %}
-                        {% include 'grid-item' %}
-                    {% endfor %}
+                  {% for product in featured_products limit: 5 %}
+                  {% include 'grid-item' %}
+                  {% endfor %}
+                    {% endcomment %}
                 </ul>
             </div>
         </div>
