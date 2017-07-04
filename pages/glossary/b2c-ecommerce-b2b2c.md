@@ -21,7 +21,22 @@ tags :
 	<div class="head __cart">
 		<h1 class="title">B2B2C eCommerce</h1>
 	</div>
+<div class="col-w">
+    <div class="col __col-70">
 	<img alt="B2B2C e commerce" src="assets/images/b2b2c.jpg"></img>
+    </div>
+    <div class="col __col-30">
+        <div class="block" style="margin-left: 25px">
+            <h3>Top 5 B2B challenges and solutions</h3>
+            <p class="text">
+                B2B ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
+            </p>
+            <a href="/download-b2b-whitepaper" >
+                <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;"/>
+            </a>
+        </div>
+    </div>
+</div>
 	<div class="text">
 		<p>Business to Business to Consumer (B2B2C) is the term used to describe the e-commerce model wherein Business "A" and Business "B" engage in a collaborative business development exercise whereby Business "A" pays Business "B" for the ability to offer Business "A's" product or service to Business "B's" consumer customer channel.  This mutually beneficial relationship affords Business "A" the benefit of introducing their products and or service to a new array of potential customers while simultaneously generating a new revenue stream for Business "B" as well as positioning Business "B" to present its customers with new and relevant products and or services.  The consumer customer base also benefits as a consequence of being the recipient of Business "B's" expanded product and or service diversification.</p>
 		<p>For new businesses on the market, the B2B2C e commerce model can serve as a good form of saving money and as a way of quickly becoming a distributor not only in their markets but also to expand their digital influence to other different marketplaces. With such approach B2B2C e-commerce allows two businesses to combine their forces and start promoting mutually beneficial products, solutions, and services. By having this model, you may not be afraid about sacrificing your freedom as it offers complete product and service transaction.</p>

@@ -42,8 +42,23 @@ tags :
         <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
         <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
     </div>
+<div class="col-w">
+    <div class="col __col-70">
     <p class="text">
-        2016 has been a great year for B2B e-commerce, with the USA and China being the leaders in the industry and having sales reach over 1.2 billion dollars. Forrester suggests that the sales volume in B2B e-commerce will increase up to 1 trillion dollars within the next five years. With such a flourishing B2B e-commerce industry, countries like the USA and China are setting high standards and bringing certain major trends into play. The digital marketplace is a highly competitive environment, where each business has to either adopt the latest trends fast or simply let other companies take over the position of leadership. In this article, we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
+        2016 has been a great year for B2B e-commerce, with the USA and China being the leaders in the industry and having sales reach over 1.2 billion dollars. Forrester suggests that the sales volume in B2B e-commerce will increase up to 1 trillion dollars within the next five years. With such a flourishing B2B e-commerce industry, countries like the USA and China are setting high standards and bringing certain major trends into play. The digital marketplace is a highly competitive environment, where each business has to either adopt the latest trends fast or simply let other companies take over the position of leadership. In this article, we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.</p>
+    </div>
+    <div class="col __col-30">
+        <div class="block" style="margin-left: 25px">
+            <h3>Top 5 B2B challenges and solutions</h3>
+            <p class="text">
+                B2B ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
+            </p>
+            <a href="/download-b2b-whitepaper" >
+                <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;"/>
+            </a>
+        </div>
+    </div>
+</div>
     <h2>
     The B2B ECommerce Trends of 2016
     </h2>
