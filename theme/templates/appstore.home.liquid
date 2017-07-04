@@ -17,18 +17,10 @@
             </div>
             <div class="list __items __inline">
                 <ul class="main">
-                  {% for feautured_product in settings.featured_products %}
-                    <li>{{ feautured_product.sku }}</li>
-                    {% assign product = collections['featured'].products | where: "Sku", "==", feautured_product.sku %}
-                    {% include 'grid-item' %}
-                  {% endfor %}
-
-                    {% comment %}
                   {% assign featured_products = collections['featured'].products | sort:"createddate:desc" %}
                   {% for product in featured_products limit: 5 %}
-                  {% include 'grid-item' %}
+                    {% include 'grid-item' %}
                   {% endfor %}
-                    {% endcomment %}
                 </ul>
             </div>
         </div>

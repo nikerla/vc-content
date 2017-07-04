@@ -17,24 +17,7 @@
             "blog_sticked_article_url": "blog/new-features-in-virtocommerce",
             "blog_trending_article_url_1": "blog/top5-b2b-ecommerce-challenges",
             "blog_trending_article_url_2": "blog/difference-between-b2b-and-b2c-ecommerce-solution",
-            "blog_trending_article_url_3": "blog/development-plans-roadmap",
-            "feautured_products": [
-                {
-                    "sku": "ART-54159384"
-                },
-                {
-                    "sku": "YDM-44995513"
-                },
-                {
-                    "sku": "FHQ-67784017"
-                },
-                {
-                    "sku": "Klarna_Checkout_Euro"
-                },
-                {
-                    "sku": "DiBs"
-                }
-            ]
+            "blog_trending_article_url_3": "blog/development-plans-roadmap"
         }
     }
 }
