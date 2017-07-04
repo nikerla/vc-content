@@ -12,6 +12,7 @@ twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
 twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
+layout: glossary
 tags : 
 - b2b e commerce companies
 - b2b e commerce websites
