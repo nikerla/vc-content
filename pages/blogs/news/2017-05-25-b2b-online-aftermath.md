@@ -3,7 +3,7 @@
 category: virtocommerce-news
 date: '2017-05-25'
 permalink: blog/b2b-online-aftermath
-main-image: ../../assets/images/blog/b2b-online-aftermath.jpg
+main-image: ../../assets/images/blog/b2b-online-aftermath1.jpg
 excerpt: B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
 tags:
 
@@ -17,7 +17,7 @@ title: B2B Online Aftermath
 ---
 
 ### B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
-<img src='../../assets/images/blog/b2b-online-aftermath.jpg'>
+<img src='../../assets/images/blog/b2b-online-aftermath1.jpg'>
 
 Our CEO Alexandre Siniouguine has returned from the [B2B Online 2017](http://b2bmarketing2016.wbresearch.com) in Chicago! We have been planning to participate in this conference for quite a while – it’s a great opportunity for us as a company to learn and share our experience with the fellow professionals in the field, network and make useful connections as well as to dip into the community’s knowledge of the latest industry trends.
 

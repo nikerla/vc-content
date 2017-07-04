@@ -79,7 +79,7 @@ permalink: our-offers/enterprise-cloud-hosted
 	</ul>
 </div>
 <div class="responsive">
-	<h2 class="head-title">Pricing</h2>
+	<h2 class="head-title">Cloud eCommerce Platform Pricing</h2>
 	{% include 'pricing-paas' %}
 </div>
 <div class="try-it">

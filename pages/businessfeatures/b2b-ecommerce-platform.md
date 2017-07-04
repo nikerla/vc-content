@@ -1,4 +1,4 @@
----
+﻿---
 date: '2014-01-30'
 permalink: b2b-ecommerce-platform
 tags:
@@ -34,9 +34,10 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 			<h2 class="sub-title">B2B Ecommerce Solutions</h2>
 			<p class="text">E-commerce solutions are revolutionizing B2B transactional protocols and processes. The customer fulfillment process of every class of commerce from merchandising to financial services is being optimized by well designed B2B ecommerce platform. This transformation is crucial to the efficiency of transactions involving complex integration scenarios.</p>
 			<div style="text-align: center;">
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+				<iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
 			</div>
-			<h2 class="sub-title">B2B Checkout and Order Management</h2>
+			<h2 class="sub-title">B2B eCommerce Software: Checkout and Order Management</h2>
 			<div style="display: table;">
 				<div style="display: table-row;">
 					<div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
@@ -47,7 +48,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 					</div>
 				</div>
 			</div>
-			<h2 class="sub-title">B2B Security and Organization Management</h2>
+			<h2 class="sub-title">B2B eCommerce Platform: Security and Organization Management</h2>
 			<div style="display: table;">
 				<div style="display: table-row;">
 					<div style="display: table-cell; padding-right: 20px; width: 50%;">

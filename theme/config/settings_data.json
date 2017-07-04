@@ -1,4 +1,4 @@
-{
+﻿{
     "current": "Default",
     "presets": {
         "Default": {
@@ -6,10 +6,10 @@
             "blog_social_visible": "twitter",
             "blog_social_heading": "Latest Tweets",
             "twitterwidget_username": "virtocommerce",
-            "twitterwidget_id": "646234978192195584",
-            "twitterwidget_numtweets": "120",
-            "twitterwidget_link_colour": "#ffffff",
-            "twitterwidget_scheme": "light",
+            "\"twitterwidget_id\"": "646234978192195584",
+            "\"twitterwidget_numtweets\"": "120",
+            "\"twitterwidget_link_colour\"": "#ffffff",
+            "\"twitterwidget_scheme\"": "light",
             "facebook_username": "https://www.facebook.com/virtocommerce",
             "freshsales_enable": true,
             "freshsales_url": "//virtocommerce.freshsales.io",

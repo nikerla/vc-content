@@ -45,7 +45,8 @@
         },
         "copyright": "Copyright &copy; 2011-2017 Virto Commerce &copy;. All rights reserved",
         "terms": "Terms",
-        "privacy": "Privacy"
+        "privacy": "Privacy",
+		    "shopping_cart": "ASP.NET Shopping Cart"
     },
     "main_page": {
         "about": {
