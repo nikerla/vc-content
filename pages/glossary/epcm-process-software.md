@@ -1,5 +1,5 @@
----
-title: epcm process software - Definition| Glossary Virto Commerce.
+﻿---
+title: E procurement software systems by Virto Commerce
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
 canonical: https://virtocommerce.com/glossary/epcm-process-software
@@ -19,7 +19,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">What is e-procurement?</h1>
+        <h1 class="title">E procurement software systems</h1>
     </div>
     <p class="text">E-procurement, also known as supplier exchange, is the term used to describe the process of obtaining goods and services through the internet.</p>
     <p class="text">E-procurement services for B2C, B2B, and B2G are generally provided as a side service by large ERP (enterprise resource planning) providers or as an e-procurement software by focused vendors.</p>
