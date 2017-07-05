@@ -72,7 +72,7 @@ After clickong OK button you will have the following project:
 * Content
   * css
     * **ManagedModule1.css** Contains a style sheet for the Hello World blade.
-  * `help` This folder contains files required for a help page which is displayed after generating the project from template. You can safely delete this folder.
+  * **help** This folder contains files required for a help page which is displayed after generating the project from template. You can safely delete this folder.
 * Controllers
   * Api
     * **ManagedModule1Controller.cs** Contains a data service for communicating with JavaScript client.
@@ -102,13 +102,13 @@ Compile your solution, restart IIS and open Manager in browser to check how your
 ### Creating and installing a module package
 
 1. Open Tools > NuGet Package Manager > Package Manager Console
-2. Run the following command: `Compress-Module`
+2. Run the following command: **Compress-Module**
 
 ![Compress Module](../../../../assets/images/docs/compress-module.png)
 
 The output will show the location of the created module package (ManagedModule1_1.0.0.zip).
 
-If `Compress-Module` command is not recognized, restart Visual Studio and repeat the command. Restarting may require to allow Visual Studio load the package generation script which is installed as NuGet package.
+If **Compress-Module** command is not recognized, restart Visual Studio and repeat the command. Restarting may require to allow Visual Studio to load the package generation script which is installed as NuGet package.
 
 3. Open the Virto Commerce Manager where you want to install this module
 4. Navigate to Modules > Advanced
