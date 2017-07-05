@@ -4,13 +4,13 @@ description: Build an online store with Virto Commerce ASP.NET shopping cart sof
 date: 2014-01-30
 canonical: https://virtocommerce.com/glossary/punchout-catalog
 permalink: glossary/punchout-catalog
-ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
+ogimage: https://virtocommerce.com/assets/images/punchout-catalog.jpg
 ogtitle: Punchout Catalog Definition, How does it work? Why is it valuable? | Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
+twitterimage: https://virtocommerce.com/assets/images/punchout-catalog.jpg
 twittersite: Virtocommerce
 layout: glossary
 tags : 
@@ -21,6 +21,7 @@ tags :
 	<div class="head __cart">
 		<h1 class="title">Punchout Catalog Definition</h1>
 	</div>
+    <img alt="Hosted Shopping Cart" src="assets/images/punchout-catalog.jpg" />
 	<p class="text">Punchout Catalog (or punch out catalog) is an e-procurement solution that provides access to the supplier’s catalog from the vendor’s website interface. In other words, a customer “punches out” a procurement application to the original site, gets access to the supplier’s catalog, and has the ability to add items to  the shopping cart. </p>
     <p class="text">With this setup the supplier does not receive the order when a customer makes a purchase. Instead, all items from the shopping cart are processed within the buyer’s e-procurement system. The customer  might not even notice that he had entered another site’s catalogue. </p>
     <p class="text">In more technical terms, a punchout catalog is an online vendor catalog that has been enhanced via an open catalog interface to support PunchOut Procurement associated with a PunchOut website. The punchout ecommerce solution enables the direct connection between ERP or an e-procurement system of the buyer and the storefront of the supplier.</p>
