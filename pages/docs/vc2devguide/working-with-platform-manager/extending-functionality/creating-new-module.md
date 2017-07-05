@@ -66,23 +66,23 @@ After clickong OK button you will have the following project:
 
 ![Virto Commerce Module Project](../../../../assets/images/docs/project-structure.png)
 
-* **`module.manifest`** Contains various attributes describing the module and its content.
-* **`module.ignore`** Contains a list of files which should be excluded from the resulting module package. This is useful if your module depends on some other module and you don't want files which are already included in that module to be duplicated in your module.
-* **`Module.cs`** Contains a class which is responsible for the server side library initialization.
+* **module.manifest** Contains various attributes describing the module and its content.
+* **module.ignore** Contains a list of files which should be excluded from the resulting module package. This is useful if your module depends on some other module and you don't want files which are already included in that module to be duplicated in your module.
+* **Module.cs** Contains a class which is responsible for the server side library initialization.
 * Content
   * css
-    * **`ManagedModule1.css`** Contains a style sheet for the Hello World blade.
+    * **ManagedModule1.css** Contains a style sheet for the Hello World blade.
   * `help` This folder contains files required for a help page which is displayed after generating the project from template. You can safely delete this folder.
 * Controllers
   * Api
-    * **`ManagedModule1Controller.cs`** Contains a data service for communicating with JavaScript client.
+    * **ManagedModule1Controller.cs** Contains a data service for communicating with JavaScript client.
 * Scripts
-  * **`ManagedModule1.js`** Contains an AngularJS module definition.
+  * **ManagedModule1.js** Contains an AngularJS module definition.
   * blades
-    * **`helloWorld_blade1.js`** Contains an AngularJS controller for the Hello World blade.
-    * **`helloWorld_blade1.tpl.html`** Contains a markup for the Hello World blade.
+    * **helloWorld_blade1.js** Contains an AngularJS controller for the Hello World blade.
+    * **helloWorld_blade1.tpl.html** Contains a markup for the Hello World blade.
   * resources
-    * **`ManagedModule1Api.js`** Contains definitions for the resources (services) available inside AngularJS module.
+    * **ManagedModule1Api.js** Contains definitions for the resources (services) available inside AngularJS module.
 
 ### Running the module
 
