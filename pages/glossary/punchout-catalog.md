@@ -1,4 +1,4 @@
----
+﻿---
 title: Punchout Catalog Definition, How does it work? Why is it valuable? | Glossary Virto Commerce.
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
@@ -21,24 +21,32 @@ tags :
 	<div class="head __cart">
 		<h1 class="title">Punchout Catalog Definition</h1>
 	</div>
-    <img alt="Hosted Shopping Cart" src="assets/images/punchout-catalog.jpg" />
-	<p class="text">Punchout Catalog (or punch out catalog) is an e-procurement solution that provides access to the supplier’s catalog from the vendor’s website interface. In other words, a customer “punches out” a procurement application to the original site, gets access to the supplier’s catalog, and has the ability to add items to  the shopping cart. </p>
-    <p class="text">With this setup the supplier does not receive the order when a customer makes a purchase. Instead, all items from the shopping cart are processed within the buyer’s e-procurement system. The customer  might not even notice that he had entered another site’s catalogue. </p>
-    <p class="text">In more technical terms, a punchout catalog is an online vendor catalog that has been enhanced via an open catalog interface to support PunchOut Procurement associated with a PunchOut website. The punchout ecommerce solution enables the direct connection between ERP or an e-procurement system of the buyer and the storefront of the supplier.</p>
-    <p class="text">A punchout catalogue is a convenient way for customers to browse suppliers’ catalogues and place orders from within their existing e-procurement system. </p>
-	<h2 class="sub-title">How does it work?</h2>
-	<p class="text">Punchout catalogue <strong>is based upon an Open Catalog Interface</strong>(OCI), one of the standard formats used by SAP Supplier Relationship Management, ORDIGES Purchase-to-Pay, Microsoft Dynamics AX and other ERP/Purchasing Systems, which connects to external punch-out catalogs.</p> 
-    <p class="text">When a customer leaves the buyer’s site, the punchout sends the login request and connects the buyer’s and supplier’s systems. The storefront displays items, prices, description, purchase terms, and other information, so the customers can add the requested items to their shopping cart. Then the cart is brought back to the buyer’s e-procurement system as a requisition and is processed using the company’s standard system workflow steps and financial approvals. The order is sent to the supplier after the purchase has been approved by the buyer.</p>
-	<h3 class="sub-title">What is PunchOut Procurement?</h3>
-	<p class="text">Punchout procurement is a type of interaction between a vendor's web storefront and a buyer's procurement application. It can include business-to-business (B2B), business-to-consumer (B2C) or business-to-government (B2G) communications.</p>
-	<h3 class="sub-title">What is a punchout website?</h3>
-	<p class="text">A punchout site is an ecommerce website that lets a buyer make purchases from a supplier's website  through the Buyer's own procurement application. The PunchOut Website has the ability to communicate directly with the buying organization's procurement system through cXML. cXML allows programs to modify and validate documents without prior knowledge of their form. The Buying organization exits or "punches out" of their company's system and links to the supplier's web-based catalog to select and add items to their shopping cart. Pertinent information about the transaction is delivered to the appropriate channels during the connection.</p>
-	<h3 class="sub-title">What is a Supplier Catalog</h3>
-	<p class="text">Supplier’s catalog is a seller's itemized listing of products for sale. Such catalogs can be connected and maintained as punchout catalogs on a buyer’s website and be available to the larger target audience. A buyer displays the full range of suppliers’ products on their own website with pricing and description taken from the suppliers’ system.</p>
-	<h2 class="sub-title">Why is it valuable?</h2>
-	<p class="text">A Punchout website eliminates the Buying organization's need to import supplier catalogs directly into their procurement system thereby saving time and expense.</p>
-    <p class="text">Punchout Catalogs allow displaying the pricing, items amount and products availability in real-time without the need to track updates in the buyers’ catalogs. </p>
-    <p class="text">The punchout catalog increases order accuracy and speed of processing, and these factors always affect the customers’ loyalty and satisfaction.</p>
+    <div class="col-w">
+        <div class="col __col-30 text" style="padding-right: 20px;">
+            <img alt="Hosted Shopping Cart" src="assets/images/punchout-catalog.jpg" />
+        </div>
+        <div class="col __col-70 text">
+            <p>Punchout Catalog (or punch out catalog) is an e-procurement solution that provides access to the supplier’s catalog from the vendor’s website interface. In other words, a customer “punches out” a procurement application to the original site, gets access to the supplier’s catalog, and has the ability to add items to  the shopping cart.</p>
+            <p>With this setup the supplier does not receive the order when a customer makes a purchase. Instead, all items from the shopping cart are processed within the buyer’s e-procurement system. The customer  might not even notice that he had entered another site’s catalogue.</p>
+        </div>
+    </div>
+    <div class="text">
+        <p>In more technical terms, a punchout catalog is an online vendor catalog that has been enhanced via an open catalog interface to support PunchOut Procurement associated with a PunchOut website. The punchout ecommerce solution enables the direct connection between ERP or an e-procurement system of the buyer and the storefront of the supplier.</p>
+        <p>A punchout catalogue is a convenient way for customers to browse suppliers’ catalogues and place orders from within their existing e-procurement system.</p>
+	    <h2 class="sub-title">How does it work?</h2>
+	    <p>Punchout catalogue <strong>is based upon an Open Catalog Interface</strong>(OCI), one of the standard formats used by SAP Supplier Relationship Management, ORDIGES Purchase-to-Pay, Microsoft Dynamics AX and other ERP/Purchasing Systems, which connects to external punch-out catalogs.</p>
+        <p>When a customer leaves the buyer’s site, the punchout sends the login request and connects the buyer’s and supplier’s systems. The storefront displays items, prices, description, purchase terms, and other information, so the customers can add the requested items to their shopping cart. Then the cart is brought back to the buyer’s e-procurement system as a requisition and is processed using the company’s standard system workflow steps and financial approvals. The order is sent to the supplier after the purchase has been approved by the buyer.</p>
+	    <h3 class="sub-title">What is PunchOut Procurement?</h3>
+	    <p>Punchout procurement is a type of interaction between a vendor's web storefront and a buyer's procurement application. It can include business-to-business (B2B), business-to-consumer (B2C) or business-to-government (B2G) communications.</p>
+	    <h3 class="sub-title">What is a punchout website?</h3>
+	    <p>A punchout site is an ecommerce website that lets a buyer make purchases from a supplier's website  through the Buyer's own procurement application. The PunchOut Website has the ability to communicate directly with the buying organization's procurement system through cXML. cXML allows programs to modify and validate documents without prior knowledge of their form. The Buying organization exits or "punches out" of their company's system and links to the supplier's web-based catalog to select and add items to their shopping cart. Pertinent information about the transaction is delivered to the appropriate channels during the connection.</p>
+	    <h3 class="sub-title">What is a Supplier Catalog</h3>
+	    <p>Supplier’s catalog is a seller's itemized listing of products for sale. Such catalogs can be connected and maintained as punchout catalogs on a buyer’s website and be available to the larger target audience. A buyer displays the full range of suppliers’ products on their own website with pricing and description taken from the suppliers’ system.</p>
+	    <h2 class="sub-title">Why is it valuable?</h2>
+	    <p>A Punchout website eliminates the Buying organization's need to import supplier catalogs directly into their procurement system thereby saving time and expense.</p>
+        <p>Punchout Catalogs allow displaying the pricing, items amount and products availability in real-time without the need to track updates in the buyers’ catalogs.</p>
+        <p>The punchout catalog increases order accuracy and speed of processing, and these factors always affect the customers’ loyalty and satisfaction.</p>
+    </div>
 	<div class="buttons">
 		<a class="button fill" href="/try-now">Try It Now</a>
 		<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
