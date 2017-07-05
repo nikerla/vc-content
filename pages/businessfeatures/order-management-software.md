@@ -29,6 +29,10 @@ tags:
             <div class="col __col-70 text">
                 <p>Virto Commerce provides an industry leading document based order management software that streamlines your order handling and fulfillment processes from sales quote to delivery. It ensures fast and easy purchasing and shipping for your customers helping improve your sales rates and order processing accuracy.</p>
                 <p>The Virto Commerce ecommerce order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP, accounting and fulfillment systems.</p>
+                <div class="buttons">
+			        <a class="button fill" href="/try-now">Try It Now</a>
+			        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+		        </div>
             </div>
         </div>
 		<h2>Features</h2>
