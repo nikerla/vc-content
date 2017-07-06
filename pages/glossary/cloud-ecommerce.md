@@ -48,8 +48,14 @@ tags:
         <p>The other side of scalability is business growth. Increase in your store’s popularity, integration of new services and further store evolution force the infrastructure to grow accordingly. A flexible platform at the heart of your cloud e-commerce solution, as well as scalable environment responds quickly to business challenges and opportunities.</p>
         <p>Cloud allows you to avoid physical superstructure. You don't have to purchase additional equipment and hire new maintenance staff. With cloud, your business gets all the required resources and services on-demand.</p>
         <h2>Reliable pro protection</h2>
-        <p>Save time on risk assessment and data defense, so that you can focus on your business! When hosting your business in the cloud, you don’t need to worry about maintaining and monitoring your servers. Security and protection of your network, physical facilities, applications, including data encryption and customers’ personal data safety can be excluded from the list of your concerns. E-commerce cloud vendors take all the risks. The cloud hosting providers complete a third-party certification, and proper security is a priority for them. Besides, constant accessibility of your website and regular data backup ensure that your e-commerce store will be available without any data loss in case of an emergency.</p>
-        <img alt="Cloud ecommerce solutions" src="assets/images/ecommerce-cloud.png" />
+        <div class="col-w">
+            <div class="col __col-30">
+                <img alt="Cloud ecommerce solutions" src="assets/images/ecommerce-cloud.png" />
+            </div>
+            <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                Save time on risk assessment and data defense, so that you can focus on your business! When hosting your business in the cloud, you don’t need to worry about maintaining and monitoring your servers. Security and protection of your network, physical facilities, applications, including data encryption and customers’ personal data safety can be excluded from the list of your concerns. E-commerce cloud vendors take all the risks. The cloud hosting providers complete a third-party certification, and proper security is a priority for them. Besides, constant accessibility of your website and regular data backup ensure that your e-commerce store will be available without any data loss in case of an emergency.
+            </div>
+        </div>
         <h2>Cost-effective performance</h2>
         <p>Cloud fits e-commerce solutions perfectly, because you can pay for resources only when you need them.</p>
         <p>A cloud solution may save a company over 70% of the costs associated with building static environments scaled for traffic peaks - the hardware that may only be in use a few days a year. With cloud, you only pay for what you use.</p>
@@ -69,36 +75,34 @@ tags:
         <p>Among the most popular SaaS solutions are Salesforce, NetSuite, Slack and others.</p>
         <p>An optimal choice for an e-commerce business however would be a solution that combines a platform with a ready-to-use set of software tools. In other words, PaaS and SaaS built specifically for e-commerce. Our cloud e-commerce software - Virto Commerce, is considered one of the best e-commerce platforms with its own SaaS support. This cloud ecommerce can meet any of your sales and promotional needs and help grow your business into a powerful online store with impressive features.</p>
     </div>
-    <div class="text" style="display: table;">
-        <div style="display: table-row;">
-            <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
-                <strong>All Services - One Solution</strong>
-                <p>Our cloud ecommerce solutions take care of uptime, maintenance, security and updates which allows you to focus on business.</p>
-            </div>
-            <div style="display: table-cell; vertical-align: top;">
-                <strong>Stable and Secure</strong>
-                <p>Our product managers and solution architects communicate with your developers to optimize and speed-up your ecommerce cloud solution.</p>
-            </div>
+    <div class="col-w">
+        <div class="col __col-50 text">
+            <strong>All Services - One Solution</strong>
+            <p>Our cloud ecommerce solutions take care of uptime, maintenance, security and updates which allows you to focus on business.</p>
         </div>
-        <div style="display: table-row;">
-            <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
-                <strong>Control Sources</strong>
-                <p>All the code changes are saved and available for immediate developer review.</p>
-            </div>
-            <div style="display: table-cell; vertical-align: top;">
-                <strong>Stage & Deploy</strong>
-                <p>We provide stage and production deploy websites using automation scripts out of cloud.</p>
-            </div>
+        <div class="col __col-50 text">
+            <strong>Stable and Secure</strong>
+            <p>Our product managers and solution architects communicate with your developers to optimize and speed-up your ecommerce cloud solution.</p>
         </div>
-        <div style="display: table-row;">
-            <div style="display: table-cell; padding-right: 20px; vertical-align: top; width: 50%;">
-                <strong>Backup and Restore</strong>
-                <p>We provide backup services for your website files and DB. You can execute point-in-time restore for the last 30 days.</p>
-            </div>
-            <div style="display: table-cell; vertical-align: top;">
-                <strong>24/7 Support</strong>
-                <p>We provide support and respond to emergency calls and tickets 24/7.</p>
-            </div>
+    </div>
+    <div class="col-w">
+        <div class="col __col-50 text">
+            <strong>Control Sources</strong>
+            <p>All the code changes are saved and available for immediate developer review.</p>
+        </div>
+        <div class="col __col-50 text">
+            <strong>Stage & Deploy</strong>
+            <p>We provide stage and production deploy websites using automation scripts out of cloud.</p>
+        </div>
+    </div>
+    <div class="col-w">
+        <div class="col __col-50 text">
+            <strong>Backup and Restore</strong>
+            <p>We provide backup services for your website files and DB. You can execute point-in-time restore for the last 30 days.</p>
+        </div>
+        <div class="col __col-50 text">
+            <strong>24/7 Support</strong>
+            <p>We provide support and respond to emergency calls and tickets 24/7.</p>
         </div>
     </div>
     <div style="text-align: center;">
@@ -111,6 +115,7 @@ tags:
         <a class="button fill" href="/download-whitepaper">Download Cloud Whitepaper</a>
     </div>
 </div>
+<div>
     <div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">
     <div style="margin-top: 40px; text-align: center;">
         <h2 class="sub-title">Latest articles from our Cloud eCommerce Blog</h2>
