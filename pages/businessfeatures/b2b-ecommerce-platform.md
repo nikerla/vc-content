@@ -157,13 +157,13 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
                             </a>
                         </li>
                         <li class="list-item">
-                            <a class="list-link" href="/apps/extensions/paypal">
+                            <a class="list-link" href="/apps/extensions/mailchimp">
                                 <figure class="image-outer">
-                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/Paypal_code/paypal_2014_logo.png" />
+                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/3f99c499-cd54-4fa7-8ffe-26e9eeae1ca0.png" />
                                 </figure>
-                                <h3 class="list-name">Paypal Express Checkout</h3>
+                                <h3 class="list-name">Mailchimp integration with Virto Commerce</h3>
                                 <span class="list-vendor">By Virto Commerce</span>
-                                <span class="list-descr">Paypal Express Checkout payment integration.</span>
+                                <span class="list-descr">Integration with MailChimp newsletters sending system.</span>
                                 <span class="list-price">Free</span>
                             </a>
                         </li>
