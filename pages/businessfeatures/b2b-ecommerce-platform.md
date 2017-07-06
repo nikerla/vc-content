@@ -6,7 +6,6 @@ tags:
   - b2b
   - commerce
 title: 'B2B eCommerce Platform | Software by Virto Commerce'
-
 ---
 <article role="main" class="main">
 	<div class="business-features clearfix __responsive" itemscope itemtype="http://schema.org/WebPage">
@@ -106,6 +105,72 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 				<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 			</div>
 		</div>
+        <div class="apps">
+            <div style="border-bottom: 1px solid #000; margin-top: 40px; text-align: center;">
+				<h2 class="sub-title">Featured Virto Commerce Platform Integrations</h2>
+			</div>
+            <div class="items __responsive" style="margin-top: 0;">
+                <div class="list __items __inline">
+                    <ul class="main">
+                        <li class="list-item">
+                            <a class="list-link" href="/apps/extensions/google-analytics-enhanced-ecommerce">
+                                <figure class="image-outer">
+                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/ART-54159384/enhanced-ecommerce1.png" />
+                                </figure>
+                                <h3 class="list-name">Google Analytics Enhanced Ecommerce</h3>
+                                <span class="list-vendor">By Virto Commerce</span>
+                                <span class="list-descr">Google Ecommerce Analytics module allows you to use the newly launched feature of Google Analytics – Enhanced Ecommerce.</span>
+                                <span class="list-price">Free</span>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a class="list-link" href="/apps/extensions/sendgrid-email-marketing">
+                                <figure class="image-outer">
+                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/YDM-44995513/Image01.png" />
+                                </figure>
+                                <h3 class="list-name">SendGrid Integration module</h3>
+                                <span class="list-vendor">By Virto Commerce</span>
+                                <span class="list-descr">Provide email marketing campaigns using SendGrid innovative module.</span>
+                                <span class="list-price">Free</span>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a class="list-link" href="/apps/extensions/marketo-marketing-automation">
+                                <figure class="image-outer">
+                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/FHQ-67784017/marketo-1.png" />
+                                </figure>
+                                <h3 class="list-name">Marketo Integration module</h3>
+                                <span class="list-vendor">By Virto Commerce</span>
+                                <span class="list-descr">Attract more buyers, nurture leads, identify opportunities and deliver sales orders with Marketo integration.</span>
+                                <span class="list-price">Free</span>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a class="list-link" href="/apps/extensions/klarna-checkout">
+                                <figure class="image-outer">
+                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/Klarna_Checkout_Euro/blue-black.png" />
+                                </figure>
+                                <h3 class="list-name">Klarna Checkout Europe payment gateway</h3>
+                                <span class="list-vendor">By Virto Commerce</span>
+                                <span class="list-descr">APIs and UI for Klarna Checkout Europe payment gateway.</span>
+                                <span class="list-price">Free</span>
+                            </a>
+                        </li>
+                        <li class="list-item">
+                            <a class="list-link" href="/apps/extensions/paypal">
+                                <figure class="image-outer">
+                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/Paypal_code/paypal_2014_logo.png" />
+                                </figure>
+                                <h3 class="list-name">Paypal Express Checkout</h3>
+                                <span class="list-vendor">By Virto Commerce</span>
+                                <span class="list-descr">Paypal Express Checkout payment integration.</span>
+                                <span class="list-price">Free</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 		<div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">
 			<div style="margin-top: 40px; text-align: center;">
 				<h2 class="sub-title">Latest posts from our Enterprise B2B eCommerce Blog</h2>
