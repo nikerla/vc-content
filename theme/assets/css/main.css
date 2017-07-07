@@ -1,4 +1,4 @@
-blockquote {
+﻿blockquote {
     background-color: #eee;
     border-left: 10px solid #999;
     padding: 10px 10px 10px 20px;
@@ -2513,7 +2513,29 @@ textarea.__error
 
         .apps .list.__items .list-link:hover, .apps .list.__items .list-link:focus {
            box-shadow: 0 5px 30px rgba(0, 0, 0, 0.15)
-        }        
+        }
+
+            .apps .list.__items .list-item-bar {
+                -webkit-align-items: center;
+                align-items: center;
+                background: #fcb040;
+                border-radius: 0 0 3px 3px;
+                color: #fff;
+                display: -webkit-flex;
+                display: -moz-flex;
+                display: -ms-flex;
+                display: -o-flex;
+                display: flex;
+                height: 20px;
+                -webkit-justify-content: center;
+                justify-content: center;
+                left: 50%;
+                padding: 0 10px;
+                position: absolute;
+                top: 0;
+                -webkit-transform: translateX(-50%);
+                transform: translateX(-50%);
+            }
 
         .apps .list.__items .image-outer
         {

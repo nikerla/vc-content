@@ -42,7 +42,6 @@
     {{ content_for_header }}
     <base href="{{ '/' | absolute_url }}" />
     <link rel="canonical" href="{{ canonical_url }}" />
-    
     {% if settings.freshsales_enable %}
         {% include 'freshsales' %}
     {% endif %}    
