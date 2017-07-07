@@ -2526,6 +2526,7 @@ textarea.__error
                 display: -ms-flex;
                 display: -o-flex;
                 display: flex;
+                font-size: 12px;
                 height: 20px;
                 -webkit-justify-content: center;
                 justify-content: center;
