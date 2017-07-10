@@ -1,4 +1,4 @@
----
+﻿---
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 date: 2014-01-30
@@ -23,7 +23,7 @@ tags :
     <div class="management-team __responsive">
         <h3>Management Team</h3>
         <ul class="list">
-            <li class="list-item">
+            <li class="list-item" style="width: 33%;">
                 <figure class="list-pic" data-office="CEO">
                     <img src="assets/images/about/alexander-siniouguine.jpg" alt="Alexander Siniouguine">
                 </figure>
@@ -40,7 +40,7 @@ tags :
                     </p>
                 </div>
             </li>
-            <li class="list-item">
+            <li class="list-item" style="width: 33%;">
                 <figure class="list-pic" data-office="VP">
                     <img src="assets/images/about/eugeny-grigul.jpg" alt="Eugeny Grigul">
                 </figure>
@@ -58,7 +58,7 @@ tags :
                     </p>
                 </div>
             </li>
-            <li class="list-item">
+            <li class="list-item" style="width: 33%;">
                 <figure class="list-pic" data-office="Sales">
                     <img src="assets/images/about/garren-parkins.jpg" alt="Garren Parkins">
                 </figure>
