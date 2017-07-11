@@ -18,7 +18,7 @@ gulp.task('scripts', function () {
 });
 
 var configCss = {
-    src: ['theme/assets/css/reset.css', 'theme/assets/css/main.css', 'theme/assets/css/flags.css', 'theme/assets/css/responsive.css', 'theme/assets/css/magnific-popup.css']
+    src: ['theme/assets/css/reset.css', 'theme/assets/css/main.css', 'theme/assets/css/main_new.css', 'theme/assets/css/flags.css', 'theme/assets/css/responsive.css', 'theme/assets/css/magnific-popup.css']
 }
 
 gulp.task('styles', function () {
