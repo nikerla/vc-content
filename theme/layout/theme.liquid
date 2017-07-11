@@ -51,10 +51,7 @@
 </noscript>
 </head>
 <body ng-controller="mainController">
-  {% include 'google-tag-manager-body' %}
-    <div class="google-like">
-        <div class="g-plusone" data-href="https://virtocommerce.com" data-size="tall"></div>
-    </div>
+    {% include 'google-tag-manager-body' %}
     {% include 'apps-identifier' %}
     {% include 'form-become-a-developer' %}
     {% include 'form-write-a-review' %}
@@ -83,8 +80,6 @@
                         <span></span>
                         <span></span>
                     </a>
-
-                    
                     {% if isAppsStore == false %}
                         {% include 'main-menu-static' %}
                     {% comment %}
