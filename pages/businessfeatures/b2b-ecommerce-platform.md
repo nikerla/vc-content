@@ -130,7 +130,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
                         </li>
                         <li class="list-item">
                             <a class="list-link" href="/apps/extensions/marketo-marketing-automation">
-                                <div class="list-item-bar">In process</div>
+                                <div class="list-item-bar">In progress</div>
                                 <figure class="image-outer">
                                     <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/FHQ-67784017/marketo-1.png" />
                                 </figure>
