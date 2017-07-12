@@ -50,6 +50,17 @@ tags :
                 <p class="text">To launch, download Install <a href="http://view.ionic.io" target="_blank">Ionic View</a> on your phone and sign up / log in to Ionic, then Tap PREVIEW APP and enter app id <b>9eb6619b</b></p>
             </div>
         </div>
+        <div class="column">
+            <div class="block">
+                <div class="img-300">
+                    <img alt="B2B store" src="../assets/images/demo/00000982.png" class="border">
+                </div>
+                <h3>B2B store</h3>
+                <a class="button fill" style="background: #fff; color: #f89406; cursor: default;">Beta version</a>
+                <p class="text">Advanced B2B webstore with bulk order functionality, multi-vendor catalog and other B2B-related features</p>
+                <a class="button fill" target="_blank" href="http://demo.virtocommerce.com/B2B-store" rel="nofollow">Open B2B store</a>
+            </div>
+        </div>
     </div>
 </div>
 {% include 'technologies' %}
