@@ -7425,11 +7425,11 @@ ol.text, ul.text {
         background-size: 36px 34px;
     }
 
-    .footer-wrap .column .dev .menu-item .link-white:before
+    /*.footer-wrap .column .dev .menu-item .link-white:before
     {
         background-image: url(devx2.png);
         background-size: 288px 34px;
-    }
+    }*/
 
     .footer-wrap .column .partner.microsoft a
     {
@@ -7443,11 +7443,11 @@ ol.text, ul.text {
         background-size: 170px 25px;
     }
 
-    .__socials .list-item a
+    /*.__socials .list-item a
     {
         background-image: url(socialsx2.png);
         background-size: 180px 68px;
-    }
+    }*/
 
     .business-cnt .head::after
     {
