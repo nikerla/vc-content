@@ -5647,10 +5647,10 @@ form.fixed
 
 .management-team .list-pic
 {
-    max-height: 200px;
+    max-height: 300px;
     margin: 0 auto 20px;
     position: relative;
-    max-width: 200px;
+    max-width: 300px;
 }
 
     .management-team .list-pic::after
