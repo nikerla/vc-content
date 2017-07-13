@@ -5673,7 +5673,7 @@ form.fixed
     .management-team .list-pic img
     {
         display: block;
-        max-width: 100%;
+        width: 100%;
     }
 
 .management-team .list-name,
