@@ -1,4 +1,4 @@
----
+﻿---
 title: Case Studies - Virto commerce
 description: Case Studies - Virto commerce
 date: 2014-01-30
@@ -37,13 +37,13 @@ permalink: case-studies
             <li class="list-item">
                 <div class="list-inner">
                     <div class="list-img">
-                        <img src="../assets/images/casestudies/staypro-logo.png" alt="staypro.no">
+                        <img src="../assets/images/casestudies/belysnings-design-logo.png" alt="staypro.no">
                     </div>
-                    <div class="list-t">Tools for professionals</div>
-                    <div class="list-text">Objective: B2C & B2B Online Store</div>
-                    <div class="list-descr">Launched a new online store selling tools and measuring instruments for professionals in Norway market.</div>
+                    <div class="list-t">Retail lighting</div>
+                    <div class="list-text">Objective: B2C Online Store</div>
+                    <div class="list-descr">Create shareholder value through confident growth in profits by expanding the existing online stores, both in terms of product range and technical CX functionality.</div>
                     <div class="list-btn">
-                        <a class="button fill">Coming soon ...</a>
+                        <a class="button fill" href="../assets/files/staypro-case-study.pdf">Read case study</a>
                     </div>
                 </div>
             </li>
