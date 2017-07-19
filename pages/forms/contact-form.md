@@ -1,4 +1,4 @@
----
+﻿---
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 date: 2015-06-09
@@ -30,8 +30,8 @@ tags :
 							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 						</div>
 						<div class="control-group">
-							<label for="CompanyName">Company name</label>
-							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="organization"/>
+							<label for="CompanyName">Company name (required)</label>
+							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" required="required" autocomplete="organization"/>
 						</div>						
 					</div>
 					<div class="column">

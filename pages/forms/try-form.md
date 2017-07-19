@@ -1,4 +1,4 @@
----
+﻿---
 title: Download enterprise .NET open-source ecommerce cloud platform
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Try Now!
 date: 2016-11-14
@@ -23,8 +23,8 @@ aliases:
 							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
 						</div>
 						<div class="control-group">
-							<label for="CompanyName">Company name</label>
-							<input id="Contact[CompanyName]" tabindex="3" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="organization"/>
+							<label for="CompanyName">Company name (required)</label>
+							<input id="Contact[CompanyName]" tabindex="3" type="text" name="Contact[CompanyName]" class="form-input" required="required" autocomplete="organization"/>
 						</div>						
 					</div>
 					<div class="column">

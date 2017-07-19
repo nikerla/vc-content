@@ -1,4 +1,4 @@
----
+﻿---
 title: Common pains of eCommerce websites migration and how to avoid them
 description: This Virto Commerce whitepaper provides insight on how to avoid and overcome the typical ecommerce platform migration problems.
 date: 2017-06-09
@@ -22,8 +22,8 @@ permalink: migration-whitepaper
 							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 						</div>
 						<div class="control-group">
-							<label for="CompanyName">Company name</label>
-							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="organization"/>
+							<label for="CompanyName">Company name (required)</label>
+							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" required="required" autocomplete="organization"/>
 						</div>						
 					</div>
 					<div class="column">
