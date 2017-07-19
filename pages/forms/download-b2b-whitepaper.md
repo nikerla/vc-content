@@ -1,4 +1,4 @@
----
+﻿---
 title: Download 'Top 5 B2B challenges and solutions' whitepaper
 description: On this page you can download 'Top 5 B2B challenges and solutions' whitepaper
 date: 2017-05-04
@@ -22,8 +22,8 @@ permalink: download-b2b-whitepaper
 							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 						</div>
 						<div class="control-group">
-							<label for="CompanyName">Company name</label>
-							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="organization"/>
+							<label for="CompanyName">Company name (required)</label>
+							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" required="required" autocomplete="organization"/>
 						</div>						
 					</div>
 					<div class="column">

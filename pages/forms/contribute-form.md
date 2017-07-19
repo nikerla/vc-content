@@ -1,4 +1,4 @@
----
+﻿---
 title: Contribute Agreement - Virto Commerce
 description: Virto commerce - Contribute Agreement
 date: 2015-06-09
@@ -48,8 +48,8 @@ tags :
 						<input id="Contact[Phone]" type="text" name="Contact[Phone]" class="form-input" required="required" />
 					</div>
 					<div class="control-group">
-						<label for="CompanyName">Company Name</label>
-						<input id="Contact[CompanyName]" type="text" name="Contact[CompanyName]" class="form-input" />
+						<label for="CompanyName">Company Name (required)</label>
+						<input id="Contact[CompanyName]" type="text" name="Contact[CompanyName]" required="required" class="form-input" />
 					</div>
 					<div class="control-group">
 						<label for="Signature">Electronic Signature (type "I AGREE" to accept terms) (required)</label>
