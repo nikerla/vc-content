@@ -32,6 +32,10 @@ The company set out to achieve a rapid growth with a solid platform and infrastr
     {
         color: #f89406;
     }
+    a:hover
+    {
+        color: #ea5564;
+    }
     .button
     {
 	    border-width: 2px;
