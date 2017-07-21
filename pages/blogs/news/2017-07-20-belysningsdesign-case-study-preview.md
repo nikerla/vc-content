@@ -38,19 +38,19 @@ The company set out to achieve a rapid growth with a solid platform and infrastr
         {
             height: 42px;
         }
-        .blog.button.fill
+        .blog-buttons.button.fill
         {
             background: #f89406;
             border-color: #f89406;
             color: #fff;
             text-decoration: none;
         }
-        .blog.button.fill:hover
+        .blog-buttons.button.fill:hover
         {
             color: #f89406;
         }
 
 </style>
 <div class="section-actions">
-    <a class="blog button fill" href="../assets/files/sd-case-study.pdf" target="_blank">Read the full case study</a>
+    <a class="blog-buttons button fill" href="../assets/files/sd-case-study.pdf" target="_blank">Read the full case study</a>
 </div>
