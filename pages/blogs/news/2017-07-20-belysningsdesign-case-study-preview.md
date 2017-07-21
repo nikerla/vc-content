@@ -49,5 +49,5 @@ The company set out to achieve a rapid growth with a solid platform and infrastr
         }
 </style>
 <div class="section-actions">
-    <a class="button fill" href="../assets/files/sd-case-study.pdf" target="_blank">Read the full case study</a>
+    <a class="button fill" href="../assets/files/sd-case-study.pdf" style="color: #fff; text-decoration: none;" target="_blank">Read the full case study</a>
 </div>
