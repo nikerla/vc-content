@@ -28,31 +28,29 @@ The company set out to achieve a rapid growth with a solid platform and infrastr
 *“Our vision is to offer the best lighting on the market at an affordable price and to make sure that our customers will have a good user experience”* – says <strong>Christoffer Iveslätt, Marketing Manager at Belysningsdesign</strong>
 
 <style>
-    a
-    {
-        color: #f89406;
-    }
     .button
     {
-	    border-width: 2px;
-	    font-weight: bold;
-	    text-transform: uppercase;
+        border-width: 2px;
+        font-weight: bold;
+        text-transform: uppercase;
     }
         .button::after
         {
-	        height: 42px;
+            height: 42px;
         }
-        .button.fill
+        .blog.button.fill
         {
-	        background: #f89406;
-	        border-color: #f89406;
+            background: #f89406;
+            border-color: #f89406;
+            color: #fff;
+            text-decoration: none;
         }
-        .button.fill:hover
+        .blog.button.fill:hover
         {
             color: #f89406;
         }
 
 </style>
 <div class="section-actions">
-    <a class="button fill" href="../assets/files/sd-case-study.pdf" style="color: #fff; text-decoration: none;" target="_blank">Read the full case study</a>
+    <a class="button fill" href="../assets/files/sd-case-study.pdf" target="_blank">Read the full case study</a>
 </div>
