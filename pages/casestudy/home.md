@@ -43,7 +43,7 @@ permalink: case-studies
                     <div class="list-text">Objective: B2C Online Store</div>
                     <div class="list-descr">Create value through growth in profits by expanding the existing online stores, both in terms of product range and technical CX functionality.</div>
                     <div class="list-btn">
-                        <a class="button fill" href="../assets/files/staypro-case-study.pdf">Read case study</a>
+                        <a class="button fill" href="../assets/files/sd-case-study.pdf">Read case study</a>
                     </div>
                 </div>
             </li>
