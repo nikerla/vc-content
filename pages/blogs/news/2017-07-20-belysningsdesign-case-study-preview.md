@@ -32,10 +32,6 @@ The company set out to achieve a rapid growth with a solid platform and infrastr
     {
         color: #f89406;
     }
-    a:hover
-    {
-        color: #ea5564;
-    }
     .button
     {
 	    border-width: 2px;
@@ -51,6 +47,11 @@ The company set out to achieve a rapid growth with a solid platform and infrastr
 	        background: #f89406;
 	        border-color: #f89406;
         }
+        .button.fill:hover
+        {
+            color: #f89406;
+        }
+
 </style>
 <div class="section-actions">
     <a class="button fill" href="../assets/files/sd-case-study.pdf" style="color: #fff; text-decoration: none;" target="_blank">Read the full case study</a>
