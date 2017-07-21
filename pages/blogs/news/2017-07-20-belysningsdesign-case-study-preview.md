@@ -1,4 +1,4 @@
----
+﻿---
 
 category: virtocommerce-news
 date: '2017-07-20'
@@ -27,4 +27,6 @@ The company set out to achieve a rapid growth with a solid platform and infrastr
 
 *“Our vision is to offer the best lighting on the market at an affordable price and to make sure that our customers will have a good user experience”* – says <strong>Christoffer Iveslätt, Marketing Manager at Belysningsdesign</strong>
 
-<a class="button fill" href="../assets/files/staypro-case-study.pdf" target="_blank">Read the full case study</a>
+<div class="buttons">
+    <a class="button fill" href="../assets/files/staypro-case-study.pdf" target="_blank">Read the full case study</a>
+</div>
