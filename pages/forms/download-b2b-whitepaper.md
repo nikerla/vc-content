@@ -50,21 +50,6 @@ permalink: download-b2b-whitepaper
 						<label><input id="Contact[SoftwareType][NotSure]" name="Contact[SoftwareType]" type="radio" value="Not Sure" /> I'm not sure yet</label>
 					</div>
 					<div class="control-group">
-						<label for="Revenue">Revenue (Gross Merchandise Volume) per year (USD)</label>
-						<select id="Contact[Revenue]" name="Contact[Revenue]" type="text" class="form-input" tabindex="8">
-						<option value="" selected>Select expected revenue</option>
-							<option value="1m">Up to 1 Million</option>
-							<option value="5m">1 - 5 Million</option>
-							<option value="10m">5 - 10 Million</option>
-							<option value="25m">10 - 25 Million</option>
-							<option value="MoreThan25m">More than 25 Million</option>
-						</select>
-					</div>
-					<div class="control-group">
-						<label for="web">Which website are you are considering</label>
-						<input id="Contact[Website]" type="text" name="Contact[Website]" class="form-input" tabindex="9"/>
-					</div>
-					<div class="control-group">
 						<label for="Message">Tell us about your site, company and traffic (required)</label>
 						<textarea id="Contact[Message]" rows="10" cols="30" name="Contact[Message]" class="form-text" required="required" tabindex="10"></textarea>
 					</div>
