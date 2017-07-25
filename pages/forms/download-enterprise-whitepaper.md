@@ -1,8 +1,8 @@
 ﻿---
-title: Common pains of eCommerce websites migration and how to avoid them
-description: This Virto Commerce whitepaper provides insight on how to avoid and overcome the typical ecommerce platform migration problems.
-date: 2017-06-09
-permalink: migration-whitepaper
+title: Top 4 Enterprise Ecommerce Challenges
+description: In general view, enterprise e-commerce is esentially just a bigger version of a normal online store. Technically it is correct. However,running a business at an enterprise level is a whole new adventure. There are multiple factors that come into play once a business grows to this kind of scale. This makes the transition a real challenge! In this whitepaper we'll provide top 4 challenges that enterprise ecommerce websites face and their best solutions.
+date: 2017-05-04
+permalink: download-enterprise-whitepaper
 ---
 <div class="roadmap __responsive">
 	<h1 class="head-title">Download Whitepaper</h1>
@@ -11,7 +11,7 @@ permalink: migration-whitepaper
 			<div class="block">
 				<form action="{{ '/contact' | absolute_url }}" method="post">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Whitepaper Download" />
-					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/assets/files/whitepaper-ecommerce-platform-migration-problems.pdf" />
+					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/assets/files/enterprise-whitepaper.pdf" />
 					<div class="column">
 						<div class="control-group">
 							<label for="FullName">First name (required)</label>
@@ -61,9 +61,9 @@ permalink: migration-whitepaper
 		</div>
 		<div class="column">
 			<div class="block">
-				<h3>Common pains of eCommerce websites migration and how to avoid them</h3>
+				<h3>Top 4 Enterprise Ecommerce Challenges</h3>
 				<p class="text">
-                    This Virto Commerce whitepaper provides insight on how to avoid and overcome the typical ecommerce platform migration problems.
+                    In general view, enterprise e-commerce is esentially just a bigger version of a normal online store. Technically it is correct. However,running a business at an enterprise level is a whole new adventure. There are multiple factors that come into play once a business grows to this kind of scale. This makes the transition a real challenge! In this whitepaper we'll provide top 4 challenges that enterprise ecommerce websites face and their best solutions.
                 </p>
 				<p style="margin-top: 100px; text-align: center;">
 					<img src="../assets/images/whitepaper-download.png" />

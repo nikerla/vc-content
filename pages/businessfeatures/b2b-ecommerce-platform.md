@@ -79,7 +79,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 					<li class="list-item">
 						<div class="list-name" style="text-align: center;">Kevin Cory</div>
 						<div class="list-office" style="margin: 20px 0; text-align: center;">VP-Technology and Strategic Planning, GC Incentives</div>
-						<div class="list-descr">"The new B2B platform takes advantage of a lot of the latest thoughts on high performance, high quality software development. By adopting this solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally. It’s the flagship for our reengineering of our technology practices."</div>
+						<div class="list-descr">"The new B2B platform takes advantage of a lot of the latest thoughts on high performance, high quality software development. By adopting this B2B eommerce solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally. It’s the flagship for our reengineering of our technology practices."</div>
 					</li>
 					<li class="list-item">
 						<div class="list-name" style="text-align: center;">Sergey Sinyugin</div>
@@ -101,7 +101,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 		</div>
         <div class="apps">
             <div style="border-bottom: 1px solid #000; margin-top: 40px; padding-bottom: 50px; text-align: center;">
-				<h2 class="sub-title">Featured Virto Commerce Platform Integrations</h2>
+				<h2 class="sub-title">Best Virto Commerce Platform Integrations</h2>
 			</div>
             <div class="items __responsive" style="margin-top: 0;">
                 <div class="list __items __inline">
@@ -207,7 +207,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 		</div>
         <div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">
 			<div style="margin-top: 40px; text-align: center;">
-				<h2 class="sub-title">Latest articles from our B2B eCommerce Glossary</h2>
+				<h2 class="sub-title">Best articles from our B2B eCommerce Glossary</h2>
 			</div>
 			<div class="trending __responsive">
 				<div class="trending-list">
