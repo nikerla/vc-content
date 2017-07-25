@@ -3,7 +3,7 @@
 category: virtocommerce-news
 date: '2017-07-24'
 permalink: blog/top-4-challenges-in-enterprise
-main-image: ../../assets/images/blog/belysningsdesign-case-study-preview.jpg
+main-image: ../../assets/images/blog/top-4-challenges-in-enterprise.jpg
 excerpt: Only about 2.6% of over 24 million online stores functioning today are actually successfully getting revenue from their sites. This whitepaper describes the most common challenges a business will inevitably face when transitioning to an enterprise-level e-commerce store and provides solutions.
 tags:
 
