@@ -16,7 +16,7 @@ tags:
 title: TOP 4 Challenges in Enterprise-level eCommerce
 ---
 
-<img src='../../assets/images/blog/belysningsdesign-case-study-preview.jpg'>
+<img src='../../assets/images/blog/top-4-challenges-in-enterprise.jpg'>
 
 According to the Retailtouchpoints.com there are over 24 million online stores functioning today. From small local stores to big retail monsters, built on different platforms of varying scale, everyone is eager to follow the e-commerce trend. 
 
