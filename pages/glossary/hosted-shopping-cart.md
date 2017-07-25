@@ -23,6 +23,10 @@ tags:
     <div class="head __cart">
         <h1 class="title">Hosted Shopping Cart</h1>
     </div>
+    <div style="text-align: center;">
+        <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+        <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
+    </div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Hosted Shopping Cart" src="assets/images/hosted-shopping-cart.jpg" />
