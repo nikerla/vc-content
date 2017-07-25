@@ -10,8 +10,8 @@ permalink: our-offers/enterprise-cloud-hosted
 		<div class="slider-info">
 			<h1 class="slider-title">Cloud ecommerce platform<br />from Virto Commerce </h1>
 			<h2 class="slider-descr">
-				All the freedom of open source software <br /> 
-				All the  features, scalability and security of Microsoft Cloud
+				All the freedom of cloud ecommerce platform architecture<br /> 
+				All the features, scalability and security of Microsoft Cloud
 			</h2>
 			<a class="button fill" href="/contact-us" style="margin-right: 40px;">Try Cloud Edition</a>
 			<a class="button fill" href="/download-whitepaper">5 Cloud Edition Benefits Whitepaper</a>
