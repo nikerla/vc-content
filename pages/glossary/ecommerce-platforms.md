@@ -3,7 +3,7 @@ title: The best ecommerce platforms for websites. Top ecommerce platforms list
 description: The best ecommerce platforms for websites. Top ecommerce platforms list. How to choose the best ecommerce platform?
 date: 2017-05-12
 canonical: https://virtocommerce.com/glossary/ecommerce-platforms
-permalink: glossary/ecommerce-platforms
+permalink: glossary/best-ecommerce-platforms
 ogtitle: Best ecommerce platforms
 ogsitename: Virtocommerce
 twittercard: summary
