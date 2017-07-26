@@ -18,7 +18,7 @@ Our Virto Commerce platform is constantly evolving, getting better, faster, and 
 
 Please feel free to [try our software](https://virtocommerce.com/try-now) and send us feedback and suggestions! Meanwhile, here’re the latest updates to the Virto Commerce platform.
 
-**New search indexation engine (Three type of search index engines)**
+<h2>New search indexation engine (Three type of search index engines)</h2>
 
 We have added 3 new search modules, so the platform now supports three search index search engines:
 
@@ -90,12 +90,12 @@ We have recently released a new [help-guide](https://virtocommerce.com/docs/vc2d
 
 **Minor security vulnerability fixes and performance improvements**
 
-•	Improved performance of the following modules: 
+1. Improved performance of the following modules: 
 
 -	Customer
 -	Catalog 
 -	Inventories
 
-•	Eliminated a memory leak in the catalog module, which led to excessive memory consumption
+2. Eliminated a memory leak in the catalog module, which led to excessive memory consumption
 
-•	Fixed minor security vulnerability issues in the assets and cart modules 
+3. Fixed minor security vulnerability issues in the assets and cart modules 
