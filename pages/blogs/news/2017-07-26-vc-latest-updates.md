@@ -48,11 +48,11 @@ Azure search does everything that Elasticsearch can do, and it does it in the cl
 •	Added availability to use special search  phrase syntax. The search phrase can contain keywords, attribute filters, range filters and price range filters.
 <img src='../../assets/images/blog/additional-updates-1.jpg'>
 
-**Catalog completeness module**
+<h2>Catalog completeness module</h2>
 
 This new feature will automatically check, if all the data related to a certain product has been entered into the database and proceed with publishing it in the catalog once the evaluation comes out positive. It will allow a user to implement customizable metrics that show percentage of the information entered in the product card (ex. price, description, photo, etc.) and determine its readiness for publishing. That way a product manager will be able to look at the overall product list and right away see the stage of each product card.
 
-Take a closer look at this module [here](https://virtocommerce.com/apps/extensions/catalog-publishing)
+Take a closer look at this module [here](https://virtocommerce.com/apps/extensions/catalog-publishing).
 
 Here are a few examples of how it works:
 
@@ -67,14 +67,14 @@ Here are a few examples of how it works:
 A reddish background indicates that the module is not filled completely:
 <img src='../../assets/images/blog/vc-latest-updates-4.jpg'>
 
-**Platform internationalization **
+<h2>Platform internationalization</h2>
 
 The platform now supports international settings, so you can control formats for displaying dates, numbers, currencies, and so on. 
 
 This new module makes life a whole lot easier for the international vendors. [Check it out!](https://github.com/VirtoCommerce/vc-platform/releases/tag/v2.13.8)
 <img src='../../assets/images/blog/vc-latest-updates-5.jpg'>
 
-**Catalog property validation and image management improvements**
+<h2>Catalog property validation and image management improvements</h2>
 
 [New property validation settings]( https://github.com/VirtoCommerce/vc-module-catalog/releases/tag/v2.18.0) allow for more flexible and precise control of the user information input
 <img src='../../assets/images/blog/vc-latest-updates-6.jpg'>
@@ -82,13 +82,13 @@ This new module makes life a whole lot easier for the international vendors. [Ch
 We have also revamped the user interface for working with product images and categories. Here is what it looks like now:
 <img src='../../assets/images/blog/vc-latest-updates-7.jpg'>
 
-**Working with Azure scale out**
+<h2>Working with Azure scale out</h2>
 
 Did you know you could run the Virto Commerce platform on multiple instances?
 
 We have recently released a new [help-guide](https://virtocommerce.com/docs/vc2devguide/deployment/platform-scaleout) that explains how to do it and also how to use Redis as a cache synchronization server.
 
-**Minor security vulnerability fixes and performance improvements**
+<h2>Minor security vulnerability fixes and performance improvements</h2>
 
 1. Improved performance of the following modules: 
 
