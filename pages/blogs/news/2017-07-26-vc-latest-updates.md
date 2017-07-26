@@ -12,7 +12,6 @@ tags:
 title: What’s new with the Virto Commerce platform?
 ---
 ### <dfn>Latest Updates</dfn>
-<img src='../../assets/images/blog/vc-latest-updates.jpg'>
 
 Our Virto Commerce platform is constantly evolving, getting better, faster, and more versatile with each update. We’re always on top of the latest marketing, e-commerce and software development trends.
 
