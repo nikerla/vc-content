@@ -7,7 +7,7 @@ layout: docs
 date: 2016-09-09T13:31:00.157Z
 priority: 5
 ---
-This document describes how to setup the environment, build and update an API C# client for Virto Commerce platform module.
+This document describes how to setup the environment, build and update an API C# client for <a href="/b2b-ecommerce-platform">Virto Commerce platform</a> module.
 
 ## Preparing building environment and AutoRest
 
