@@ -17,10 +17,10 @@ tags :
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form action="{{ '/contact' | absolute_url }}" method="post">
-					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Us" />
-					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
-					<div class="column">
+{% form 'contact' %}
+<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Us" />
+<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
+<div class="column">
 						<div class="control-group">
 							<label for="FullName">First name (required)</label>
 							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
@@ -64,8 +64,8 @@ tags :
 					<div class="control-group">
 						<button type="submit" class="button fill" tabindex="11">Submit Request</button>
 					</div>
-				</form>
-			</div>
+{% endform %}
+</div>
 		</div>
 		<div class="column">
 			<div class="block">
