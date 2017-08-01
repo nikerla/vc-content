@@ -74,6 +74,43 @@ tags:
             <img alt="Magento Alternative - Virto Commerce" src="assets/images/virto-commerce.jpg" />
         </div>
     </div>
+        <h2>Wordpress + WooCommerce</h2>
+    <div class="col-w">
+        <div class="col __col-30">
+            <img alt="Magento Alternative - Wordpress + WooCommerce" src="assets/images/wordpress.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+            Wordpress is one of the biggest players in the website building market. When paired with Woocommerce it becomes one of the major Magento alternatives in the field of e-commerce. It differs from Shopify and Bigcommerce in that it is an open-source solution and if you possess enough programming knowledge, you can turn your shop into powerful selling platform that can be hosted anywhere. If you are a fan of installing lots of plugins to improve the work of your website, then this platform is made just for you. The plugins extend your options regarding functionality and allow smoothing of the process of tax reports while also increasing the conversion rates by unique design features. Woocommerce is pretty big: almost 1/3 of online stores are built using this platform. It is valued across users for its clear product presentation, with zoomed pictures, gallery pictures, and photos. 
+        </div>
+    </div>
+        <h2>Squarespace</h2>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+            A multi-tool in e-commerce field and a major alternative to Magento. It is highly recommended for people who know nothing about programming or design but still want to have a great-looking website. It is easy to set up and manage, however, compared to other platforms it lacks some essential features that Shopify or Bigcommerce possess. The thing that staff of Squarespace knows for sure is how to present their product, as their home page is truly a masterpiece. You may even think about the advanced features the service may provide, and it does so for sure. Take into consideration its significant advantages that include: Cover Page Builder, live content editing, inline editing. Great-looking templates will ensure that your clients will receive the top-notch user experience as well as make your product look much more sophisticated. With Squarespace, get into SEO by receiving custom page titles, URLs, description titles, and redirects in addition to blogging capabilities that allow you to host your podcast, just like using Wordpress.  
+        </div>
+        <div class="col __col-30">
+            <img alt="Magento Alternative - Squarespace" src="assets/images/squarespace.jpg" />
+        </div>
+    </div>
+            <h2>Wix</h2>
+    <div class="col-w">
+        <div class="col __col-30">
+            <img alt="Magento Alternative - Wix" src="assets/images/wix.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+            Just like Wordpress, Wix delivers an incredible website builder that can be used for free. In the past years, they have been promoting themselves as an e-commerce platform, thus, becoming another big alternative to Magento in the field. It is especially useful for small businesses and for those who will be creating websites in the following niches: design, photography, restaurant business and music due to the abundance of specific tools that may boost your website. Wix poses itself as the most innovative website builder amongst the existing competitors. Easy to access dashboards and drag & drop solutions allow you to quickly send invoices, accept any orders or let the client place the bookings. The design can be suitably chosen exactly for YOUR needs by selecting from multiple themes and templates. To further it more, the company has recently introduced Artificial Design Intelligence that can have your website created for you based on your preferences. The platform keeps expanding and with years, they will introduce new features that will suit your business.  
+        </div>
+    </div>
+            <h2>3Dcart</h2>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+            This platform besides other Magento alternatives is being widely used, and therefore, should never be looked down. It may serve you as a perfect solution, especially if you are planning to set up a hosted e-commerce shop. The platform is highly customizable, giving you the needed flexibility in the process of setting up your online shop. 3Dcart has been in the field since 1997 and has proven their reliability. Since then, they have been keeping up with the latest cutting-edge technologies and design trends, always updating their templates and themes. Still, if you compare it to other shopping carts like Shopify and Bigcommerce, you will be able to use great reporting tools with exciting built-in features such as gift certificates, live chat plugins and bundling options. The only significant disadvantage that users have noticed while using Magento is it's difficult to use interface and the complexity of adding a new product to a store. 
+        </div>
+        <div class="col __col-30">
+            <img alt="Magento Alternative - 3Dcart" src="assets/images/3dcart.jpg" />
+        </div>
+    </div>
+    
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
