@@ -79,7 +79,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 					<li class="list-item">
 						<div class="list-name" style="text-align: center;">Kevin Cory</div>
 						<div class="list-office" style="margin: 20px 0; text-align: center;">VP-Technology and Strategic Planning, GC Incentives</div>
-						<div class="list-descr">"The new B2B platform takes advantage of a lot of the latest thoughts on high performance, high quality software development. By adopting this B2B eommerce solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally. It’s the flagship for our reengineering of our technology practices."</div>
+						<div class="list-descr">"The new B2B platform takes advantage of a lot of the latest thoughts on high performance, high quality software development. By adopting this B2B ecommerce solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally. It’s the flagship for our reengineering of our technology practices."</div>
 					</li>
 					<li class="list-item">
 						<div class="list-name" style="text-align: center;">Sergey Sinyugin</div>
