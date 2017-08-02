@@ -60,7 +60,7 @@ tags :
     <section data-name="section">
         <div class="section-inner responsive">
             <div class="section-cnt">
-                <img alt="Merchandising" class="section-img" src="https://virtocommerce.com/admin/assets/site/features/catalog-associations.gif" />
+                <img alt="Merchandising" class="section-img" src="assets/images/features/catalog-associations.gif" />
                 <div class="section-text">
                     <div class="section-t">Merchandising</div>
                     <p>Our tools are designed for innovative companies where merchants collaborate closely with brand marketers. We provide tools to optimize your offering and drive conversions. With Cross-sells, up-sells, product recommendations and even custom relations you will be able to execute any merchandising plan.</p>

@@ -138,9 +138,9 @@ a
 	margin: 0;
 }
 
-[data-name="section"]
-{
-	background: #eee;
+[data-name="section"] {
+    background: #eee;
+    text-align: center;
 }
 
 [data-name="section"]:nth-child(2n)
@@ -151,6 +151,7 @@ a
 .for-business [data-name="section"],
 .for-business [data-name="section"]:nth-child(2n) {
     background: #fff;
+    text-align: left;
 }
 
 .for-business [data-name="section"] .section-cnt {
