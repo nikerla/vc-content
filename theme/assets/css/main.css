@@ -2502,7 +2502,7 @@ textarea.__error
         {
             border: 1px solid #E0E0E0;
             display: block;
-            height: 270px;
+            height: 300px;
             position: relative;
             text-align: center;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
@@ -2597,6 +2597,11 @@ textarea.__error
             padding: 0 10px;
             max-height: 68px;
             overflow: hidden;
+        }
+
+        .apps .list.__items .list-descr > p
+        {
+            margin: 0;
         }
 
         .apps .list.__items .list-rating
