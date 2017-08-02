@@ -3672,8 +3672,10 @@ textarea.__error
 
     .capabilities .list li
     {
-        font-size: 16px;
+        font-size: 14px;
         list-style: none;
+        padding: 0;
+        text-indent: 0;
     }
 
     .capabilities li:before
@@ -3689,6 +3691,8 @@ textarea.__error
     .capabilities h3
     {
         font-size: 18px;
+        font-weight: bold;
+        margin: 0 0 15px;
     }
 
 /* Try it */
@@ -4570,7 +4574,6 @@ textarea:disabled
 
 .list li
 {
-    color: #787878;
     font-size: inherit;
     margin: 5px 0;
     padding: 0 0 0 20px;

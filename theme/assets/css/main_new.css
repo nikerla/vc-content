@@ -1,4 +1,4 @@
-body
+﻿body
 {
 	color: #000;
 }
@@ -141,12 +141,30 @@ a
 [data-name="section"]
 {
 	background: #eee;
-	text-align: center;
 }
 
 [data-name="section"]:nth-child(2n)
 {
 	background: #fff;
+}
+
+.for-business [data-name="section"],
+.for-business [data-name="section"]:nth-child(2n) {
+    background: #fff;
+}
+
+.for-business [data-name="section"] .section-cnt {
+    -webkit-align-items: flex-start;
+            align-items: flex-start;
+}
+
+.for-business [data-name="section"] .section-img {
+    margin: 0 25px 0 0;
+    max-width: 500px;
+}
+
+.for-business [data-name="section"] .section-text + .section-img {
+    margin: 0 0 0 25px;
 }
 
 [data-name="section"] .columns
