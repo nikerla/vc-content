@@ -14,7 +14,7 @@ tags :
 <div class="for-business">
     <section data-name="section">
         <div class="section-inner responsive">
-            <h1 class="section-t">Agile Ecommerce Platform</h1>
+            <h1 class="head-title">Agile Ecommerce Platform</h1>
             <p>Virto Commerce is a highly scalable eCommerce product for fast growing and large companies. It provides powerful enterprise-class features right out-of-the-box and gives you the flexibility to create your own unique eCommerce solution while utilizing agile principles.</p>
             <p>Multiple store management, advanced promotion engines, dynamic content, as well as advanced product and price management are just a few of the tools at your fingertips with Virto Commerce. With the ability of full customization, you'll be able to achieve your unique business needs, convert browsers to buyers and increase online revenue!</p>
         </div>
@@ -60,7 +60,7 @@ tags :
     <section data-name="section">
         <div class="section-inner responsive">
             <div class="section-cnt">
-                <img alt="Merchandising" class="section-img" src="assets/images/features/catalog-associations.gif" />
+                <img alt="Merchandising" class="section-img" src="assets/images/features/catalog-associations.jpg" />
                 <div class="section-text">
                     <div class="section-t">Merchandising</div>
                     <p>Our tools are designed for innovative companies where merchants collaborate closely with brand marketers. We provide tools to optimize your offering and drive conversions. With Cross-sells, up-sells, product recommendations and even custom relations you will be able to execute any merchandising plan.</p>

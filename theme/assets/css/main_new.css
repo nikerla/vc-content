@@ -154,6 +154,10 @@ a
     text-align: left;
 }
 
+.for-business [data-name="section"] .section-inner {
+    border-bottom: 1px solid #ccc;
+}
+
 .for-business [data-name="section"] .section-cnt {
     -webkit-align-items: flex-start;
             align-items: flex-start;
