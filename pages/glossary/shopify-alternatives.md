@@ -10,7 +10,7 @@ ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Any ecommerce platform has the great support base, which offers you a wide variety of tools to alter your store. One of the best shopping cart platforms for an e-commerce website is Shopify, but there are some great alternatives that you should check out.
-twitterimage: ../../assets/images/shopify-alternatives.ipg
+twitterimage: ../../assets/images/shopify-alternatives.jpg
 twittersite: Virtocommerce
 layout: glossary
 tags : 
