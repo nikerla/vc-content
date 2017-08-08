@@ -42,15 +42,25 @@ tags :
     <p class="text">
     If you are not satisfied with your Shopify experience or just like to keep your options open, here are some of the best Shopify alternatives that you should check out.
     </p>
-     <p class="text">
-    <h2>BigCommerce</h2>
     <p class="text">
-    BigCommerce is a huge player in the field of e-commerce solutions and is one of the biggest among Shopify alternatives. It is a great solution if you require a complete ecommerce platform for your business’ website. This is a solid platform that allows you to build a unique site without any advanced knowledge or skills in web programming. The big advantage of Bigcommerce is its design templates which are unlimited, regardless of the plan you choose. Big difference from Shopify. Just like Weebly, this platform also provides a good variety of how-tos, some useful tips, and videos that will help you in the process of setting up and running your store. With the advanced content-marketing features, you can also promote the product on the web and drastically increase conversion rates. 
-    </p>
-    <h2>Virto Commerce</h2>
-    <p class="text">
-    Virto Commerce is the only enterprise-level e-commerce solution that is fully open source software. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies. Virto Commerce is excellent in managing large volumes of SKUs.  It provides clear product catalogs and maximizes your opportunities in content marketing, SEO, and product promotion. With this unique solution, you will be able to create your store’s page fast and easy. The Windows Cloud technology will also allow you to avoid any hosting issues, ensuring the security of your site. Its modern technology will allow you to set up a website in less than an hour, providing such great features as technical documentation, tech support, cloud hosting and excellent markup tools. Great .NET architecture and free code architecture will allow you to customize your website with no sweat and for any niche you want!
-    </p>
+    <h2><a href="https://www.bigcommerce.com/" target="_blank" rel="nofollow">BigCommerce</a></h2>
+    <div class="col-w">
+        <div class="col __col-30">
+            <img alt="Shopify Alternatives - BigCommerce" src="assets/images/big-commerce-screen.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+            BigCommerce is a huge player in the field of e-commerce solutions and is one of the biggest among Shopify alternatives. It is a great solution if you require a complete ecommerce platform for your business’ website. This is a solid platform that allows you to build a unique site without any advanced knowledge or skills in web programming. The big advantage of Bigcommerce is its design templates which are unlimited, regardless of the plan you choose. Big difference from Shopify. Just like Weebly, this platform also provides a good variety of how-tos, some useful tips, and videos that will help you in the process of setting up and running your store. With the advanced content-marketing features, you can also promote the product on the web and drastically increase conversion rates. 
+        </div>
+    </div>
+    <h2><a href="https://www.virtocommerce.com/" target="_blank">Virto Commerce</a></h2>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+           Virto Commerce is the only enterprise-level e-commerce solution that is fully open source software. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies. Virto Commerce is excellent in managing large volumes of SKUs.  It provides clear product catalogs and maximizes your opportunities in content marketing, SEO, and product promotion. With this unique solution, you will be able to create your store’s page fast and easy. The Windows Cloud technology will also allow you to avoid any hosting issues, ensuring the security of your site. Its modern technology will allow you to set up a website in less than an hour, providing such great features as technical documentation, tech support, cloud hosting and excellent markup tools. Great .NET architecture and free code architecture will allow you to customize your website with no sweat and for any niche you want!
+        </div>
+        <div class="col __col-30">
+            <img alt="Shopify Alternatives - Opencart" src="assets/images/virto-commerce-screen.jpg" />
+        </div>
+    </div>
     <p class="text">
     Both of these Shopify alternatives can be easily praised for the great simplicity, intuitive design and tremendous efforts put into customer support. Get on the board and start your online store right now!
     </p>
