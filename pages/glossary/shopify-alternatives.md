@@ -23,7 +23,7 @@ tags :
     <div class="head __cart">
         <h1 class="title">Shopify Alternatives</h1>
     </div>
-    <img alt="SAAS E-commerce" src="assets/images/shopify-alternatives.ipg" />
+    <img alt="Shopify Alternatives" src="assets/images/shopify-alternatives.ipg" />
     <p class="text">
     Shopify can be considered one of the best shopping cart platforms for an e-commerce website when it comes to balancing the convenience of setting up a website and having the control over it. The great advantage of this kind of electronic commerce platforms, including Shopify, is that it provides you with as much control as possible without you having to use your own server. If you are a small business owner, the first thing you will notice about Shopify is their great support base, which offers you a wide variety of tools to alter your store. The AppStore  available for Shopify users can be useful in finding interesting plugins to customize your website. 
     </p>  
