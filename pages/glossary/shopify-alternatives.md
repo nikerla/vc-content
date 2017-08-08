@@ -4,7 +4,7 @@ description: Any ecommerce platform has the great support base, which offers you
 date: 2017-08-07 
 canonical: https://virtocommerce.com/glossary/shopify-alternatives
 permalink: glossary/shopify-alternatives
-ogimage: ../../assets/images/shopify-alternatives.ipg
+ogimage: ../../assets/images/shopify-alternatives.jpg
 ogtitle: Shopify Alternatives
 ogsitename: Virtocommerce
 twittercard: summary
