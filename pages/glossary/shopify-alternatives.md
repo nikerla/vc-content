@@ -23,7 +23,7 @@ tags :
     <div class="head __cart">
         <h1 class="title">Shopify Alternatives</h1>
     </div>
-    <img alt="Shopify Alternatives" src="assets/images/shopify-alternatives.ipg" />
+    <img alt="Shopify Alternatives" src="assets/images/shopify-alternatives.jpg" />
     <p class="text">
     Shopify can be considered one of the best shopping cart platforms for an e-commerce website when it comes to balancing the convenience of setting up a website and having the control over it. The great advantage of this kind of electronic commerce platforms, including Shopify, is that it provides you with as much control as possible without you having to use your own server. If you are a small business owner, the first thing you will notice about Shopify is their great support base, which offers you a wide variety of tools to alter your store. The AppStore  available for Shopify users can be useful in finding interesting plugins to customize your website. 
     </p>  
@@ -43,7 +43,7 @@ tags :
     If you are not satisfied with your Shopify experience or just like to keep your options open, here are some of the best Shopify alternatives that you should check out.
     </p>
     <p class="text">
-    <h2><a href="https://www.bigcommerce.com/" target="_blank" rel="nofollow">BigCommerce</a></h2>
+    <h2>BigCommerce</h2>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Shopify Alternatives - BigCommerce" src="assets/images/big-commerce-screen.jpg" />
@@ -52,7 +52,7 @@ tags :
             BigCommerce is a huge player in the field of e-commerce solutions and is one of the biggest among Shopify alternatives. It is a great solution if you require a complete ecommerce platform for your business’ website. This is a solid platform that allows you to build a unique site without any advanced knowledge or skills in web programming. The big advantage of Bigcommerce is its design templates which are unlimited, regardless of the plan you choose. Big difference from Shopify. Just like Weebly, this platform also provides a good variety of how-tos, some useful tips, and videos that will help you in the process of setting up and running your store. With the advanced content-marketing features, you can also promote the product on the web and drastically increase conversion rates. 
         </div>
     </div>
-    <h2><a href="https://www.virtocommerce.com/" target="_blank">Virto Commerce</a></h2>
+    <h2>Virto Commerce</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            Virto Commerce is the only enterprise-level e-commerce solution that is fully open source software. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies. Virto Commerce is excellent in managing large volumes of SKUs.  It provides clear product catalogs and maximizes your opportunities in content marketing, SEO, and product promotion. With this unique solution, you will be able to create your store’s page fast and easy. The Windows Cloud technology will also allow you to avoid any hosting issues, ensuring the security of your site. Its modern technology will allow you to set up a website in less than an hour, providing such great features as technical documentation, tech support, cloud hosting and excellent markup tools. Great .NET architecture and free code architecture will allow you to customize your website with no sweat and for any niche you want!
