@@ -101,7 +101,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 		</div>
         <div class="apps">
             <div style="border-bottom: 1px solid #000; margin-top: 40px; padding-bottom: 50px; text-align: center;">
-				<h2 class="sub-title">Best Virto Commerce Platform Integrations</h2>
+				<h2 class="sub-title">Best B2B eCommerce Platform Integrations</h2>
 			</div>
             <div class="items __responsive" style="margin-top: 0;">
                 <div class="list __items __inline">
