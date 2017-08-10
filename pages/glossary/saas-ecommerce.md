@@ -1,6 +1,6 @@
 --- 
-title: SAAS E-commerce
-description: What are the opportunities of using SAAS Platforms? Learn more in our ecommerce SAAS article.
+title: SAAS Ecommerce - Definition | Glossary Virto Commerce
+description: What are the opportunities of using SAAS eCommerce Platforms? Learn more in our ecommerce SAAS article.
 date: 2017-06-07 
 canonical: https://virtocommerce.com/glossary/saas-ecommerce
 permalink: glossary/saas-ecommerce
@@ -29,11 +29,11 @@ tags :
     Software as a Service or SAAS is a way of delivering services over the Internet. In particular, providing hosted applications. All of the SAAS applications run on a provider’s servers. SAAS platforms allow you to avoid having to install and download sophisticated software, and free you from concerns about security and performance of your website.
     </p>  
     <p class="text">
-    SAAS platforms offer the fastest way of launching your online store while at the same time, saving your website’s design and development budget. SAAS Content Management Systems (SAAS CMS) offer the ideal solution for launching your online business. These applications have long proven themselves to be useful website builders. Small and medium-sized businesses alike are continuing to utilize them and enjoy their large variability and customizability. These days using SAAS solutions is the way to go, so it’s always helpful to expand your knowledge about SAAS e-commerce. Virto Ccommerce has proven itself to be the best SAAS solution on the market, reading further you’ll see why.
+    SAAS ecommerce platforms offer the fastest way of launching your online store while at the same time, saving your website’s design and development budget. SAAS Content Management Systems (SAAS CMS) offer the ideal solution for launching your online business. These applications have long proven themselves to be useful website builders. Small and medium-sized businesses alike are continuing to utilize them and enjoy their large variability and customizability. These days using SAAS solutions is the way to go, so it’s always helpful to expand your knowledge about SAAS e-commerce. Virto Ccommerce has proven itself to be the best SAAS solution on the market, reading further you’ll see why.
     </p>
     <h2>Why is SAAS platform best suited for your business?</h2>
     <p class="text">
-    SAAS has become hugely popular among business owners. At least 40% of online stores are based on SAAS solutions, and 90% of all the stores use at least some form of SAAS service. First of all, by using SAAS, you do not need to buy expensive software. Second of all, there is no coding experience required. All of the website building is based on “drag and drop” operations. You get a whole set of functionalities with the ability to get the perfect site, specifically crafted for your needs. Also, e-commerce SAAS platforms like Intershop, Magento, and 3dcart are very scalable and can be easily adapted to any user’s needs by offering a good amount of different applications, extensions, and plug-ins. Moreover, cloud-based SAAS platform provides an easy way to connect to a single database that will hold any of the relevant website information. Lastly, you will always be able to enjoy working on your site by accessing your platform from any device imaginable without painful additional software installations.</p>
+    SAAS has become hugely popular among business owners. At least 40% of online stores are based on SAAS ecommerce solutions, and 90% of all the stores use at least some form of SAAS service. First of all, by using SAAS, you do not need to buy expensive software. Second of all, there is no coding experience required. All of the website building is based on “drag and drop” operations. You get a whole set of functionalities with the ability to get the perfect site, specifically crafted for your needs. Also, e-commerce SAAS platforms like Intershop, Magento, and 3dcart are very scalable and can be easily adapted to any user’s needs by offering a good amount of different applications, extensions, and plug-ins. Moreover, cloud-based SAAS platform provides an easy way to connect to a single database that will hold any of the relevant website information. Lastly, you will always be able to enjoy working on your site by accessing your platform from any device imaginable without painful additional software installations.</p>
      <p class="text">
     <h2>Virto Commerce eCommerce SAAS Platform</h2>
     <p class="text">
