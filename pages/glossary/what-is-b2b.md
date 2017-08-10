@@ -22,7 +22,7 @@ tags :
 ---
 <div class="business-cnt" itemprop="mainContentOfPage">
     <div class="head __cart">
-        <h1 class="title">What is business to business e commerce? B2B ecommerce examples</h1>
+        <h1 class="title">What is business to business e commerce? B2B e-commerce examples</h1>
     </div>
     <div class="blog b2b-e-commerce">
         <ul class="socials list" style="margin-top: 20px;">
@@ -43,27 +43,27 @@ tags :
     <div class="text">
         <p>B2B ecommerce has become vital to the global economy. Following the most recent predictions, by 2020, all B2B ecommerce revenue will be around 6.7 trillion USD by 2020. We can see that this prediction can even be an underestimate, taking into the account the rapid market growth which is viewed in the past years and the amount of $5.7 trillion in revenue in 2014.</p>
         <figure style="text-align: center;">
-            <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-1.jpg" />
+            <img alt="What is B2B e commerce? B2B e-commerce examples" src="assets/images/what-is-b2b-1.jpg" />
             <figcaption>Source: Statista</figcaption>
         </figure>
         <p>As we can see in the graph below, we can expect further expansion of the B2B businesses on digital markets, as of 2014, only 22% of American business-to-business companies are currently selling their products and services online.</p>
         <figure style="text-align: center;">
-            <img alt="What is B2B e commerce? B2B ecommerce examples" src="assets/images/what-is-b2b-2.jpg" />
+            <img alt="What is B2B e commerce? B2B e-commerce examples" src="assets/images/what-is-b2b-2.jpg" />
             <figcaption>Source: Statista</figcaption>
         </figure>
         <p>It is a lot of revenue for almost a quarter of U.S. B2B-businesses. We can understand why the rapid growth is occurring and explain the rush about starting a digital B2B ecommerce business.</p>
         <p>In order to understand what business to business e commerce is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.</p>
         <p>B2B (business to business) is focused on sales of products, services, or information to other businesses, and stands in contrast to B2C (business to consumer) and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization and benefits from technological innovations.</p>
-        <h2>What is B2B commerce company?</h2>
+        <h2>What is B2B e commerce company?</h2>
         <p>A B2B company is essentially a business relationship manufacturer and a wholesaler, or a wholesaler and a retailer. A supply chain usually involves more than two companies. Such goods as plastic, grain, or chemicals don't always have a practical use for consumers, but are important for wholesale distribution, which is the base of the business-2-business model. Products and resources may be provided from a number of suppliers; and careful planning is vital to performing-efficient transactions, considering complex integration schemes.</p>
         <h2>What is business to business e-commerce?</h2>
-        <p>The Internet allows companies to increase their prospect pool. Loud online presence grants access to many more potential consumers and partners than traditional advertising models. According to statistics, over 90% of product researches on B2B level start with search engines. So, the Internet becomes an essential trade channel for B2B ecommerce examples.</p>
+        <p>The Internet allows companies to increase their prospect pool. Loud online presence grants access to many more potential consumers and partners than traditional advertising models. According to statistics, over 90% of product researches on B2B level start with search engines. So, the Internet becomes an essential trade channel for B2B e-commerce examples.</p>
         <p>A company would make great digital marketing efforts to evolve into a strong brand. There are many articles and training courses dedicated to online promotion and SEO, but all efforts would be in vain, if a prospective partner leaves the page in a few minutes, because the website itself is “inconvenient”. If a visitor is confused from the first minute of being on the website, all other benefits - a company offers may fade from the view.</p>
         <p>Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.</p>
-        <p>In B2B e commerce examples the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of business to business ecommerce software.</p>
+        <p>In B2B e-commerce examples the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of business to business ecommerce software.</p>
         <h2>Why is B2B E-Commerce Software Important?</h2>
         <p>With the advancements in digital technologies and especially the internet, more and more businesses are transferring their services and products into online field. Therefore, the company that is hesitant to invest in the digital expansion is going to be behind any competition. Only with the internet it has become possible to attract a broader range of customers and to sell products way beyond the business hours of one’s company. If you are a manufacturer or distribution business and you’re not putting money into B2B e-commerce platform, this will result in you – losing revenues and potentially becoming a bankrupt failing to get the customer base. With convenient applications, three-quarters of the B2B customers find it very convenient to purchase a product from the website rather from a sales rep. The majority of the nowadays workforce is represented by millennial generation, which tries to take easy approaches in embracing ecommerce business models and expanding their stores into new broad digital markets.</p>
-        <h2>How to Develop an Omni-Channel B2B Strategy</h2>
+        <h2>How to Develop an Omni-Channel business to business e commerce Strategy</h2>
         <ol>
             <li><strong>Consider the configuration of the products.</strong> B2B ecommerce solutions previously could not offer good sales for complex products and services. Now you don’t even have to worry about it as these solutions have expanded their functionality by offering different marketing tools, products filters and configurations. The first thing you are required to do is to make the strategy with the help of which you will categorize your products. If some of your products are more sophisticated than others, consider hiring a sales representative.</li>
             <li><strong>Consider Customer Buying Behaviors.</strong> It is a much better practice to trace customer buying behaviors and their usage of various selling channels. With this crucial information, you can increase your conversion rate as well as optimize your marketing solutions by highlighting prioritized products.</li>
@@ -74,7 +74,7 @@ tags :
             <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
             <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
         </div>
-        <h2>What is B2B software?</h2>
+        <h2>What is B2B e-commerce software?</h2>
         <p>A B2B e-commerce solution must meet the following requirements:</p>
         <div class="col-w">
             <div class="col __col-20">
@@ -82,7 +82,7 @@ tags :
             </div>
             <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
                 <strong>Scalability</strong>
-                <p>As popularity of your website increases and as your business evolves, it can become hard to scale it with minimal effort and to avoid proportional growing of infrastructure management costs. Progressive ideas, new trading partners’ joining, services expansion, integrating your other systems and channels are all good reasons to level up. The optimal ecommerce solution must be equipped with scalable software architecture and a powerful, flexible engine able to conform to ongoing integration. A platform with strong API can be integrated much easier than an outdated solution.</p>
+                <p>As popularity of your website increases and as your business evolves, it can become hard to scale it with minimal effort and to avoid proportional growing of infrastructure management costs. Progressive ideas, new trading partners’ joining, services expansion, integrating your other systems and channels are all good reasons to level up. The optimal business to business e-commerce solution must be equipped with scalable software architecture and a powerful, flexible engine able to conform to ongoing integration. A platform with strong API can be integrated much easier than an outdated solution.</p>
             </div>
         </div>
         <div class="col-w">
@@ -114,7 +114,7 @@ tags :
                 <strong>Usability and transparency</strong>
                 <p>Information management and promoting product usability are the key components of B2B marketing campaigns. An ecommerce software should provide a promotion service engine with powerful and easy to use tools to optimize your offers and drive conversions, as well as intuitive controls that can be used without in-depth training. Clear ticketing system, simple event and campaign creation, optimized content management and rapid order management are the groundwork for an online store. Stats tracking and reporting allow you to have an insight into the running of your B2B businesses online and to drive specific campaigns. You can’t control what you can’t measure. The monitoring of business metrics must be detailed and easily accessible.</p>
                 <p>Many <a href="{{ 'b2b-ecommerce-platform' | absolute_url }}">B2B ecommerce solutions and platforms</a> share similar practices, while providing slightly different sets of features and functions. Before you invest it's always useful to research and examine the specific criteria that are vital to your business to business e-commerce model.</p>
-                <p>Virto Commerce B2B commerce solution is built to support complex scenarios. The possibilities that this platform offers meet the full specter of business requirements to succeed in a competitive market.</p>
+                <p>Virto Commerce business to business e commerce solution is built to support complex scenarios. The possibilities that this platform offers meet the full specter of business requirements to succeed in a competitive market.</p>
             </div>
         </div>
     </div>
