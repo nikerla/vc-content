@@ -1,5 +1,5 @@
 ﻿---
-title: Punchout Catalog Definition, How does it work? What Challenges does it have? | Glossary Virto Commerce.
+title: Punchout Catalog Definition, How does punch out catalog work? | Glossary Virto Commerce.
 description: How does punchout catalog work? The definition of punch out catalog. 
 date: 2014-01-30
 canonical: https://virtocommerce.com/glossary/punchout-catalog
@@ -19,7 +19,7 @@ tags :
 ---
 <div class="business-cnt">
 	<div class="head __cart">
-		<h1 class="title">Punchout Catalog Definition</h1>
+		<h1 class="title">Punchout Catalog Definition. What is a punch out catalog?</h1>
 	</div>
     <div class="col-w">
         <div class="col __col-30 text" style="padding-right: 20px;">
