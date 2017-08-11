@@ -3761,11 +3761,6 @@ textarea.__error
     margin-bottom: 80px;
 }
 
-    .about-vc .about
-    {
-        display: none;
-    }
-
     .about-vc .link
     {
         cursor: pointer;

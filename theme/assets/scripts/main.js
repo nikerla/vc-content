@@ -1,4 +1,4 @@
-//Формируем ссылку с учетом базовой
+﻿//Формируем ссылку с учетом базовой
 $.url = function (url) {
     return $("base").attr("href") + url.substr(1);
 }
@@ -154,10 +154,6 @@ $(function () {
 
     $('.head-phone').off('click').on('click', function () {
         VC.mobilePhone();
-    });
-
-    $('.learn-link').on('click', function () {
-        $(this).next().slideToggle(500);
     });
 
     /* Меняем описание для текущей планеты и красим ее в соотв. цвет */
