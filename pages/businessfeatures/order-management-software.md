@@ -1,5 +1,5 @@
 ﻿---
-title: Cloud-based order management software. Web based order management system
+title: Cloud-based order management software (OMS). Web based order management system
 description: Features of cloud-based order management software by Virto Commerce. This web based order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP systems.
 date: 2017-07-02
 canonical: https://virtocommerce.com/order-management-software
@@ -19,7 +19,7 @@ tags:
     {% include 'features-left-menu' %}
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">Order Management Software</h1>
+            <h1 class="title">Order Management Software (OMS software)</h1>
         </div>
         <h2>Cloud-based Order Management Software</h2>
         <div class="col-w">
