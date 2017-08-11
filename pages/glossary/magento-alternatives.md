@@ -2,8 +2,8 @@
 title: Magento alternative
 description:  Magento can be easily named among the top most popular ecommerce platforms in the world. The advantages of using Magento include the opportunity to create a fully customizable web store, if your coding knowledge and expertise give you the ability to use its robust open source framework. If you have decided to switch from using Magento, here is what you should consider while choosing your Magento alternative. 
 date: 2017-06-15
-canonical: https://virtocommerce.com/glossary/magento-alternative
-permalink: glossary/magento-alternative
+canonical: https://virtocommerce.com/glossary/magento-alternatives
+permalink: glossary/magento-alternatives
 ogimage: ../../assets/images/magento-alternative.jpg
 ogtitle: Magento alternative
 ogsitename: Virtocommerce
