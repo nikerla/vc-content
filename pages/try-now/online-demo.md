@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise .NET open-source ecommerce cloud platform. Try now online demo
 description: Enterprise .NET open-source ecommerce cloud platform. Try now online demo
 date: 2014-01-30
