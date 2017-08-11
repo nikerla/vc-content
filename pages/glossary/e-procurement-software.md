@@ -2,8 +2,8 @@
 title: E procurement software system - Definition, Tools and Solutions
 description: What is e procurement software? E procurement system definition. Online procurement tools and solutions.
 date: 2014-01-30
-canonical: https://virtocommerce.com/glossary/epcm-process-software
-permalink: glossary/epcm-process-software
+canonical: https://virtocommerce.com/glossary/e-procurement-software
+permalink: glossary/e-procurement-software
 ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: E procurement software system - Definition| Glossary Virto Commerce.
 ogsitename: Virtocommerce
