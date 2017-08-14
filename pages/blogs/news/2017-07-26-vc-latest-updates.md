@@ -3,7 +3,7 @@ category: virtocommerce-news
 date: '2017-07-26'
 permalink: blog/vc-latest-updates
 main-image: ../../assets/images/blog/vc-latest-updates.jpg
-excerpt: Migration of an entire system to a new ecommerce platform is a complicated process that needs to be executed with surgical precision in order to avoid disaster. Learn more about common pains of eCommerce Websites Migtation and ways to avoid them in this article.
+excerpt: Our Virto Commerce platform is constantly evolving, getting better, faster, and more versatile with each update. We’re always on top of the latest marketing, e-commerce and software development trends. Here’re the latest updates to the Virto Commerce platform.
 tags:
 - virto commerce
 - ecommerce
