@@ -24,8 +24,8 @@ permalink: our-offers/enterprise-cloud-hosted
 		<li class="list-item">
 			<p class="roadmap-descr">
 			<br/><b>We know Virto Commerce</b>. Having managed and operated several large e-commerce websites ourselves for many years, we can now confidently state that we know all the secrets, tips, and tricks of online trade from our own experience!  We apply this knowledge in the development of the Virto Commerce, which is what makes our cloud e-commerce platform truly shine.</p>  
-			<p>We are a global company dedicated to providing the best custom solutions for our partners and customers with our cloud e-commerce platform. Virto Commerce has module-based PaaS architecture, which gives your developers the freedom to scale and extend Virto Commerce in any way required for your business and to build any custom features you might need as well. </p>
-            <p>Great performance, stability, security and minimum hassle – that’s what Virto Commerce is all about!
+			<p class="roadmap-descr">We are a global company dedicated to providing the best custom solutions for our partners and customers with our cloud e-commerce platform. Virto Commerce has module-based PaaS architecture, which gives your developers the freedom to scale and extend Virto Commerce in any way required for your business and to build any custom features you might need as well. </p>
+            <p class="roadmap-descr">Great performance, stability, security and minimum hassle – that’s what Virto Commerce is all about!
 			</p>
 			<div class="columns">
 				<div class="column">
