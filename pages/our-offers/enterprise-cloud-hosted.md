@@ -23,9 +23,9 @@ permalink: our-offers/enterprise-cloud-hosted
 	<ul class="list">
 		<li class="list-item">
 			<p class="roadmap-descr">
-			<br/><b>We know Virto Commerce</b>. As operators of several large
-			e-commerce sites, we know all the secrets, tips, and tricks to help Virto Commerce shine. We're global company dedicated to making VirtoCommerce cloud ecommerce platform work better for our clients and users.  
-			And with our PaaS architecture, your developers have the freedom to extend Virto Commerce and build any custom features you need as well. 
+			<br/><b>We know Virto Commerce</b>. Having managed and operated several large e-commerce websites ourselves for many years, we can now confidently state that we know all the secrets, tips, and tricks of online trade from our own experience!  We apply this knowledge in the development of the Virto Commerce, which is what makes our cloud e-commerce platform truly shine.</p>  
+			<p>We are a global company dedicated to providing the best custom solutions for our partners and customers with our cloud e-commerce platform. Virto Commerce has module-based PaaS architecture, which gives your developers the freedom to scale and extend Virto Commerce in any way required for your business and to build any custom features you might need as well. </p>
+            <p>Great performance, stability, security and minimum hassle – that’s what Virto Commerce is all about!
 			</p>
 			<div class="columns">
 				<div class="column">
@@ -33,19 +33,17 @@ permalink: our-offers/enterprise-cloud-hosted
 						<ul class="list">
 							<li>
 								<span class="title">Software as a Service</span>
-								<span class="descr">With our cloud ecommerce platform we take care of everything, including uptime, maintenance, security and updates so you
-			can focus on business features.</span>
+								<span class="descr">When you chose to build your online store on our cloud e-commerce platform, you get to let go of all the hassle associated with its maintenance and upkeep. We take away care of everything, including uptime, regular maintenance, security, and updates, so you can focus on business features.</span>
 							</li>
 							<li>
 								<span class="title">Source control</span>
-								<span class="descr">Source control is included and all the customizations are saved and are available for review.</span>
+								<span class="descr">Source control is included and all your customizations will be saved and available for review at any time.</span>
 							</li>
 							<li>
 								<span class="title">
 									Backups
 								</span>
-								<span class="descr">We backup your site files, database in multiple locations and you can restore to any point of time
-				in the last 30 days to make sure you don't have to worry about data loss.</span>
+								<span class="descr">With the Virto Commerce cloud e-commerce platform you never have to worry about data loss. We backup your site files and database in multiple locations, so you can always restore any missing data or roll back to any point in time in the past 30 days.</span>
 							</li>
 						</ul>
 					</div>
@@ -57,19 +55,17 @@ permalink: our-offers/enterprise-cloud-hosted
 								<span class="title">
 									Stability and Security
 								</span>
-								<span class="descr">Virto Commerce experts work with your development team to make sure your e-commerce store code is secure,
-			optimized and fast. We have rocket scientists so you don't have to.
+								<span class="descr">Virto Commerce experts will work with your development team and provide constant support to make sure your e-commerce store code is secure, optimized and fast. We have rocket scientists, so you can rest assured the development of your online store is in good hands.
 							</li>
 							<li>
 								<span class="title">Staging & Deployment</span>
-								<span class="descr">Developer staging and production deployment is done using automation scripts. You will be able to preview
-								any changes in the live staging environment deployed in the cloud.</span>
+								<span class="descr">Developer staging and production deployment of the Virto Commerce cloud e-commerce platform is done using automation scripts. You will be able to preview any changes in the live staging environment deployed in the cloud.</span>
 							</li>
 							<li>
 								<span class="title">
 									24/7 IT Support
 								</span>
-								<span class="descr">In case of emergency we handle the call at 2am, not you.</span>
+								<span class="descr">Our support team is knowledgeable and highly professional, and available at all times. So in the case of any emergency, we will handle that 2 am call for you.</span>
 							</li>
 						</ul>
 					</div>
