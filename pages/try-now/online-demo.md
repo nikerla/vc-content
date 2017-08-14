@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise .NET open-source ecommerce cloud platform. Try now online demo
 description: Enterprise .NET open-source ecommerce cloud platform. Try now online demo
 date: 2014-01-30
@@ -18,7 +18,7 @@ tags :
                 </div>
                 <h3>Commerce Manager</h3>
                 <p class="text">Manage multiple stores.</p>
-                <a class="button fill" target="_blank"  href="http://demo.virtocommerce.com/admin" rel="nofollow">Open Commerce Manager</a>
+                <a class="button fill" target="_blank"  href="http://admin-demo.virtocommerce.com" rel="nofollow">Open Commerce Manager</a>
             </div>
         </div>
         <div class="column">

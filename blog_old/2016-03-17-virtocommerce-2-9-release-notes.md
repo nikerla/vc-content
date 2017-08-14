@@ -66,14 +66,14 @@ Manage assets for each store independently. A dedicated folder for each store no
 
 **New methods**
 
-* GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_GetMemberById">**/api/members/{id}**</a> - Get member by id. Member is a base type for multiple derivative types such as Organization, Contact or other custom type;
-* DELETE <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteMembers">**/api/members**</a> - Delete members by ids;
-* POST <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_CreateMember">**/api/members**</a> - Create new member (of concrete, known member type). (Not finished, will be done in next releases);
-* PUT <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_UpdateMember">**/api/members**</a> - Update any member. (Not finished, will be done in next releases).
+* GET <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_GetMemberById">**/api/members/{id}**</a> - Get member by id. Member is a base type for multiple derivative types such as Organization, Contact or other custom type;
+* DELETE <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteMembers">**/api/members**</a> - Delete members by ids;
+* POST <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_CreateMember">**/api/members**</a> - Create new member (of concrete, known member type). (Not finished, will be done in next releases);
+* PUT <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_UpdateMember">**/api/members**</a> - Update any member. (Not finished, will be done in next releases).
 
 **Obsolete methods**
 
-* GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_GetOrganizationById">**/api/organization/{id}**</a> - use GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_GetMemberById">**/api/members/{id}**</a> instead;
-* GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_GetContactById">**/api/contacts/{id}**</a> - use GET <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_GetMemberById">**/api/members/{id}**</a> instead;
-* DELETE <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteContacts">**/api/contacts**</a> - use DELETE <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteMembers">**/api/members**</a> instead;
-* DELETE <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteOrganizations">**/api/organization**</a> - use DELETE <a href="http://demo.virtocommerce.com/admin/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteMembers">**/api/members**</a> instead.
+* GET <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_GetOrganizationById">**/api/organization/{id}**</a> - use GET <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_GetMemberById">**/api/members/{id}**</a> instead;
+* GET <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_GetContactById">**/api/contacts/{id}**</a> - use GET <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_GetMemberById">**/api/members/{id}**</a> instead;
+* DELETE <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteContacts">**/api/contacts**</a> - use DELETE <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteMembers">**/api/members**</a> instead;
+* DELETE <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteOrganizations">**/api/organization**</a> - use DELETE <a href="http://admin-demo.virtocommerce.com/docs/ui/index#!/Customer_management_module/CustomerModule_DeleteMembers">**/api/members**</a> instead.

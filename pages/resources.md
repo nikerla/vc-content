@@ -77,7 +77,7 @@ stories and other virtocommerce related updates.
 							</li>
 							<li>
 								<span class="title">
-									<a href="http://demo.virtocommerce.com/admin/docs/ui/index">API Reference</a>
+									<a href="http://admin-demo.virtocommerce.com/docs/ui/index">API Reference</a>
 								</span>
 <span class="descr">The REST API provides you with the ability to manage your modules by providing calls for working with resources.</span>
 							</li>
