@@ -20,7 +20,7 @@ tags:
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Magento alternative</h1>
+        <h1 class="title">NopCommerce alternative</h1>
     </div>
     <div style="text-align: center;">
         <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
