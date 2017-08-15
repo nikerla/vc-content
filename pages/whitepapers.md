@@ -27,6 +27,12 @@ permalink: whitepapers
                     <p>This Virto Commerce whitepaper provides insight on how to avoid and overcome the typical ecommerce platform migration problems. </p>
                     <a href="/migration-whitepaper" class="button fill" style="width: 200px;">Download</a>
                 </li>
+                <li class="list-item">
+                    <a href="/download-enterprise-whitepaper"><img alt="Top 4 Enterprise Ecommerce Challenges" src="../assets/images/whitepaper-download.png" style="border: none; width: auto;" /></a>
+                    <p class="title"><a href="/download-enterprise-whitepaper">Top 4 Enterprise Ecommerce Challenges</a></p>
+                    <p>In this whitepaper we'll provide top 4 challenges that enterprise ecommerce websites face and their best solutions.</p>
+                    <a href="/download-enterprise-whitepaper" class="button fill" style="width: 200px;">Download</a>
+                </li>
             </ul>
         </div>
     </div>
