@@ -1,4 +1,4 @@
-﻿---
+---
 title: Case Studies - Virto commerce
 description: Case Studies - Virto commerce
 date: 2014-01-30
@@ -76,13 +76,13 @@ permalink: case-studies
             <li class="list-item">
                 <div class="list-inner">
                     <div class="list-img">
-                        <img src="../assets/images/casestudies/caromba-logo.svg" alt="caromba">
+                        <img src="../assets/images/casestudies/budget-blinds.png" alt="caromba">
                     </div>
-                    <div class="list-t">AUTOMOTIVE</div>
-                    <div class="list-text">Objective: Platform</div>
-                    <div class="list-descr">Created platform that connects auto shops with customers while providing warranty and ensuring quality service.</div>
+                    <div class="list-t">Retail Blinds</div>
+                    <div class="list-text">Objective: B2C/B2B Online Store</div>
+                    <div class="list-descr">Flexible solution with maximum customization for the online window-treatment website.</div>
                     <div class="list-btn">
-                        <a class="button fill">Coming soon ...</a>
+                        <a class="button fill" href="../assets/files/case-study-budget-blinds.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>
