@@ -1,11 +1,11 @@
 --- 
-title: What is an SKU and why is it important for retail?
+title: What is an SKU?
 description: What does SKU mean? Why is it important for retail? Let’s look at what SKUs are mainly used for in this article.
 date: 2017-08-17 
 canonical: https://virtocommerce.com/glossary/what-is-sku
 permalink: glossary/what-is-sku
 ogimage: ../../assets/images/what-is-sku.jpg
-ogtitle: What is an SKU and why is it important for retail?
+ogtitle: What is an SKU?
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">What is an SKU and why is it important for retail?</h1>
+        <h1 class="title">What is an SKU?</h1>
     </div>
     <img alt="What is an SKU and why is it important for retail?" src="assets/images/what-is-sku.jpg" />
     <h2>What is an SKU and why is it important for retail?</h2>
