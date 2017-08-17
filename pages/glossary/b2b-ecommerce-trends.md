@@ -106,12 +106,12 @@ tags :
             <img alt="Fast implementation & integration" src="assets/images/fast-implementation-and-integration.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            <strong>Fast implementation & integration.</strong> Previously it used to take months to implement B2B e-commerce platform but now it takes just a few weeks. This time frame includes state-of-the-art technology that let customers view their past purchases, access real- time inventory levels as well place and track orders.
+            <strong>Fast implementation & integration.</strong> Implementation speeds have increased drastically in the recent years. It no longer takes months to implement a B2B e-commerce platform. These days you can complete the entire process in just a few weeks. The platform itself offers sophisticated technology that allows customers to review their past purchases, monitor inventory levels in real-time, place and track orders, and more.
         </div>
     </div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            <strong>Flexible payment options.</strong> Processing digital payments for business sales can be very complicated. B2B platforms open up a wide variety of payment forms such as purchasing or commercial cards, PayPal, invoicing, e-checks, physical checks, purchase orders. Every B2B seller will have the functionality to accept all of these payment types. In almost all cases, not offering the flexibility to pay with the buyer’s preferred method may result in the loss of a sale. 
+            <strong>Flexible payment options.</strong> Being able to process a variety of digital forms of payment for business sales can be very complicated, but is absolutely critical for e-commerce companies these days. Not offering a buyer the flexibility to pay with their preferred method is likely to result in the loss of a sale. B2B platforms offer a variety of payment options, like PayPal, invoicing, e-checks, purchasing or commercial cards, physical checks, purchase orders, etc.
         </div>
         <div class="col __col-30">
             <img alt="Flexible payment options" src="assets/images/flexible-payment-options-1.jpg" />
