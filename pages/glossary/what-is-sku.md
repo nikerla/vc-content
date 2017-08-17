@@ -60,3 +60,8 @@ tags :
     <p class="text">•	Product variations in SKU need to be straight forward easy to understand</p>
     <p class="text">•	A typical SKU needs to contain information on product grouping (typically in its first part)</p>
     <p class="text">•	The other part should contain details and unique value</p>
+<div class="buttons">
+        <a class="button fill" href="/try-now">Try It Now</a>
+        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+    </div>
+</div>
