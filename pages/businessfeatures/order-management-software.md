@@ -45,7 +45,7 @@ tags:
 		<p class="text">Make recurring orders a breeze. Virto Commerce web order management system allows your customers to make repeated purchases with a few simple clicks using tool like:</p>
         <p class="text">•	Customer order history </p>
         <p class="text">•	Subscription management</p>
-        <p>This takes care of a huge bulk of your retail order management efforts freeing up resources for acquiring new customers and growing your sales.</p>
+        <p class="text">This takes care of a huge bulk of your retail order management efforts freeing up resources for acquiring new customers and growing your sales.</p>
 		<h4>Full customization</h4>
 		<p class="text">Personalize the purchasing process for your customers. In Virto Commerce cloud order management system you can set special Quotes & Purchase Orders for your buyers with a few clicks. Your partners will also be able to make orders from within their own procurement application or hosted e-procurement system with the PunchOut support.</p>
     <h4>Partial order fulfillment</h4>
