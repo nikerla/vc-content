@@ -1,11 +1,11 @@
 --- 
-title: How to get rid of your dead stock
+title: What is a dead stock?
 description: What does dead stock mean? Why is it critical to find  the correct approach to dead inventory management? Learn more about it in this article. 
 date: 2017-08-18 
 canonical: https://virtocommerce.com/glossary/dead-stock
 permalink: glossary/dead-stock
 ogimage: ../../assets/images/dead-stock.jpg
-ogtitle: How to get rid of your dead stock
+ogtitle: What is a dead stock?
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
@@ -21,9 +21,9 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">How to get rid of your dead stock</h1>
+        <h1 class="title">What is a dead stock?</h1>
     </div>
-    <img alt="How to get rid of your dead stock" src="assets/images/dead-stock.jpg" />
+    <img alt="What is a dead stock?" src="assets/images/dead-stock.jpg" />
     <h2>What is dead stock?</h2>
     <p class="text">
     <strong>First of all, what does dead stock mean?  Take a close look at your warehouse. The products might be selling well, but with every change of seasonal collections, with every inventory re-stock there’s an ever growing pile of products that just don’t sell and the additional weight it adds to your business is dragging it down. That is referred to as dead stock (or deadstock). </strong>
