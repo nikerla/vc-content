@@ -74,9 +74,8 @@ tags:
 				</ul>
 			</div>
 			<div class="buttons">
-				<a class="button fill" href="/try-now">Try It Now</a>
-                <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
-				<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+				<a class="button fill" href="/try-now">PROVA DET NU</a>
+				<a class="button fill" href="/contact-us">LADDA NER B2B WHITEPAPERBE OM MER INFORMATION & PERSONLIGT DEMO</a>
 			</div>
 		</div>
         <div class="apps">
