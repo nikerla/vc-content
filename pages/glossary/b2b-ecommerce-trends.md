@@ -101,7 +101,24 @@ tags :
             <img alt="Focus on global markets" src="assets/images/global-markets.jpg" />
         </div>
     </div>
-    <p class="text">These were the trends that were mostly discussed in the mediaweb. Adopt these B2B ecommerce trends to always stand on top of your game!</p>
+     <div class="col-w">
+        <div class="col __col-30">
+            <img alt="Fast implementation & integration" src="assets/images/fast-implementation-and-integration.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+            <strong>Fast implementation & integration.</strong> Implementation speeds have increased drastically in the recent years. It no longer takes months to implement a B2B e-commerce platform. These days you can complete the entire process in just a few weeks. The platform itself offers sophisticated technology that allows customers to review their past purchases, monitor inventory levels in real-time, place and track orders, and more.
+        </div>
+    </div>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+            <strong>Flexible payment options.</strong> Being able to process a variety of digital forms of payment for business sales can be very complicated, but is absolutely critical for e-commerce companies these days. Not offering a buyer the flexibility to pay with their preferred method is likely to result in the loss of a sale. B2B platforms offer a variety of payment options, like PayPal, invoicing, e-checks, purchasing or commercial cards, physical checks, purchase orders, etc.
+        </div>
+        <div class="col __col-30">
+            <img alt="Flexible payment options" src="assets/images/flexible-payment-options-1.jpg" />
+        </div>
+    </div>
+    <p class="text">These were the trends that were mostly discussed in the mediaweb. The B2B market with massive online catalogs, complicated payment methods, and extremely diverse customer needs, there’s a layer of intricacy that’s not found in traditional consumer sales is more complex than the B2C. But if a company can get ahead of emerging trends and implement them into their working process it becomes their competitive advantage.
+So adopt these B2B ecommerce trends to always stand on top of your game!</p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
