@@ -4,13 +4,13 @@ description: What does Backorder mean? Why is it important for retail how to dea
 date: 2017-08-21 
 canonical: https://virtocommerce.com/glossary/what-is-backorder
 permalink: glossary/what-is-backorder
-ogimage: ../../assets/images/what-is-backorder.jpg
+ogimage: ../../assets/images/what-is-backorder-1.jpg
 ogtitle: What is Backorder?
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: ../../assets/images/what-is-backorder.jpg
+twitterimage: ../../assets/images/what-is-backorder-1.jpg
 twittersite: Virtocommerce
 layout: glossary
 tags : 
@@ -23,7 +23,7 @@ tags :
     <div class="head __cart">
         <h1 class="title">What is Backorder?</h1>
     </div>
-    <img alt="What is Backorder?" src="assets/images/what-is-backorder.jpg" />
+    <img alt="What is Backorder?" src="assets/images/what-is-backorder-1.jpg" />
     <p class="text"><strong>First of all, let’s establish a backorder definition – what does back order mean? Assume your business is doing well. Actually, it’s doing fantastic! The sales are so great you start struggling to keep up with the demand. How do you address this? Obviously, you can’t just stop selling – that would drive your customers straight into the arms of a competitor. This is where you introduce back orders!</strong>
         </p>
     <p class="text"><strong>Allowing to backorder means giving your customers an option to still purchase your products even when you don’t have enough in stock. Backorders are really common in retail.</strong>
