@@ -62,6 +62,7 @@ d)	Populate results with product images
 <img src='../../assets/images/blog/nextopia-blog-24.jpg'>
 
 2.	Videos
+
 [Patrolbase](http://www.patrolbase.co.uk/) uses autocomplete to populate results with videos pertaining to the word typed into the search bar.
 
 <strong>Tip:</strong> Populate the results with “How To” or instructional videos of the product being searched.
