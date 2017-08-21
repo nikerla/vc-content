@@ -24,8 +24,10 @@ tags :
         <h1 class="title">What is Backorder?</h1>
     </div>
     <img alt="What is Backorder?" src="assets/images/what-is-backorder.jpg" />
-    <p class="text">First of all, let’s establish a backorder definition – what does back order mean? Assume your business is doing well. Actually, it’s doing fantastic! The sales are so great you start struggling to keep up with the demand. How do you address this? Obviously, you can’t just stop selling – that would drive your customers straight into the arms of a competitor. This is where you introduce back orders!</p>
-    <p class="text">Allowing to backorder means giving your customers an option to still purchase your products even when you don’t have enough in stock. Backorders are really common in retail.</p>
+    <p class="text"><strong>First of all, let’s establish a backorder definition – what does back order mean? Assume your business is doing well. Actually, it’s doing fantastic! The sales are so great you start struggling to keep up with the demand. How do you address this? Obviously, you can’t just stop selling – that would drive your customers straight into the arms of a competitor. This is where you introduce back orders!</strong>
+        </p>
+    <p class="text"><strong>Allowing to backorder means giving your customers an option to still purchase your products even when you don’t have enough in stock. Backorders are really common in retail.</strong>
+        </p>
     <h2>The challenge of back orders and how to address it</h2>
     <p class="text">
     So, you’ve got a backorder meaning you now have a problem (which is a good one to have by the way). To define backorder most precisely just think of having more orders than you have products in stock – this is what it ultimately comes down to. It’s definitely a dream come true for any retail business! However, it can also become a big challenge if you don’t know how to deal with it. </p>  
