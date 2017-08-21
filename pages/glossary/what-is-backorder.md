@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">What is Backorder?</h1>
+        <h1 class="title">What is a backorder? Backorder definition | Virto Commerce Glossary</h1>
     </div>
     <img alt="What is Backorder?" src="assets/images/what-is-backorder-1.jpg" />
     <p class="text"><strong>First of all, let’s establish a backorder definition – what does back order mean? Assume your business is doing well. Actually, it’s doing fantastic! The sales are so great you start struggling to keep up with the demand. How do you address this? Obviously, you can’t just stop selling – that would drive your customers straight into the arms of a competitor. This is where you introduce back orders!</strong>
