@@ -1,11 +1,11 @@
 --- 
-title: What is Backorder?
+title: What is a backorder? Backorder definition | Virto Commerce Glossary
 description: What does Backorder mean? Why is it important for retail how to deal with it? Learn more about it in this article.
 date: 2017-08-21 
 canonical: https://virtocommerce.com/glossary/what-is-backorder
 permalink: glossary/what-is-backorder
 ogimage: ../../assets/images/what-is-backorder-1.jpg
-ogtitle: What is Backorder?
+ogtitle: What is a backorder? Backorder definition | Virto Commerce Glossary
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
