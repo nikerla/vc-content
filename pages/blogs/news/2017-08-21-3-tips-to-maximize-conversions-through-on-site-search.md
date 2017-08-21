@@ -53,28 +53,31 @@ d)	Populate results with product images
 
 <h2>Examples: </h2>
 
-1. Informative Content
+1.	Informative Content
+
 [Kraft Heinz](http://www.kraftcanada.com/) uses an autocomplete function to populate recipes related to the word that is being typed into the search bar. 
 
 <strong>Tip:</strong> Populate the autocomplete results with blog pieces specific to Black Friday and Cyber Monday.
 
 <img src='../../assets/images/blog/nextopia-blog-24.jpg'>
 
-2. Videos
+2.	Videos
 [Patrolbase](http://www.patrolbase.co.uk/) uses autocomplete to populate results with videos pertaining to the word typed into the search bar.
 
 <strong>Tip:</strong> Populate the results with “How To” or instructional videos of the product being searched.
 
 <img src='../../assets/images/blog/nextopia-blog-25.jpg'>
 
-3. Banners, Landing Pages & Category Pages
+3.	Banners, Landing Pages & Category Pages
+
 [JL Hufford](http://www.jlhufford.com/) is using autocomplete to display banners which lead to landing pages specific to the word being typed into the search bar. Looking at the image below, when “Creuset” is typed into the search bar, a banner for the landing page of “Creuset” sale items shows up in the results. Additionally, popular searches and the “Le Creuset” category page also show up. This provides the consumer with an ample amount of information about the product of interest. 
 
 <strong>Tip:</strong> Create banners highlighting the Black Friday & Cyber Monday sales on specific products.
 
 <img src='../../assets/images/blog/nextopia-blog-26.jpg'>
 
-4. Product Images
+4.	Product Images
+
 One of the most effective ways to reduce the rate of abandonment and increase conversions is shortening the cycle to the checkout. In other words, the fewer the clicks it takes for a visitor to complete a purchase, the better. Including product images in the search results is one way to do this.
 
 Including thumbnails of products in the autocomplete allows site visitors to see the product without having to click on it. 
