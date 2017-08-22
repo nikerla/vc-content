@@ -44,7 +44,7 @@ tags :
     <p class="text">Depending on the products you’re selling, you may need to adjust to seasonal changes. During the peak seasons, sales may increase drastically requiring a bigger safety stock. But, once the peak season is over, you would want to start reducing your safety stock levels to lower your carrying costs. </p>
     <h2>Safety Stock levels and Reorder Point</h2>
     <p class="text">
-    So, now you know how to calculate average stock level and how to determine exactly how much safety stock you need. Use that when deciding on your reordering quantity. Calculate safety stock and document it in your [order management software](https://virtocommerce.com/order-management-software)  to help with your reorder point calculations! </p>
+    So, now you know how to calculate average stock level and how to determine exactly how much safety stock you need. Use that when deciding on your reordering quantity. Calculate safety stock and document it in your <a href="{{ 'https://virtocommerce.com/order-management-software' | absolute_url }}">order management software</a> to help with your reorder point calculations! </p>
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
