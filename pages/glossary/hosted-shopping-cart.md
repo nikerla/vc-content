@@ -137,92 +137,92 @@ tags:
             The enterprise-level e-commerce solution that is fully open-source. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting edge technology advancements. If you are to manage high volumes of items, this is the platform that can provide product catalogs with the maximum ability for marketing and promotion. This platform is a well-built solution that eliminates the problem of creating a store’s website in no time. It's modern technology will allow you to set up a website in less than an hour, bringing such incredible features to you as technical documentation, tech support and so on. Great .NET architecture will allow you to customize your website with no sweat.
         </div>
     </div>
-    <div class="pricing-hosted __responsive">
-        <div class="columns clearfix">
-            <div class="column">
-                <div class="one-time">
-                    <div class="pricing-t">
-                        <div class="pricing-name">One-Time Setup</div>
-                        <div class="pricing-text"></div>
-                    </div>
-                    <div class="pricing-cost">$995</div>
-                    <div class="pricing-descr">
-                        <p>This is a one-time fee charged per website.</p>
-                        <p>This deal includes:</p>
-                        <ul>
-                            <li>full code review of your website</li>
-                            <li>website optimization</li>
-                            <li>Git repository setup</li>
-                            <li>help migrating your existing data from previous Virto Commerce-based websites or other ecommerce systems</li>
-                        </ul>
-                        <p>If you are working with one of our <a href="/partners/list-of-partners">solution partners</a>, you get a special discounted setup fee of only $295!</p>
-                    </div>
-                </div>
-                <div class="hosting">
-                    <div class="pricing-t __plus">
-                        <div class="pricing-name">Hosting</div>
-                        <div class="pricing-text"></div>
-                    </div>
-                    <div class="pricing-cost">Call Us</div>
-                    <div class="pricing-descr">
-                        <p>Hosting rates are established based on sales generated through the Virto Commerce Platform.</p>
-                        <p>We offer hosting on Microsoft Cloud that would be included in your monthly service fees; however you can choose to migrate to your own environment at anytime.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="column">
-                <div class="developer">
-                    <div class="pricing-t __plus">
-                        <div class="pricing-name">Developer Support (Optional)</div>
-                        <div class="pricing-text">Rates listed are charged per month, per person</div>
-                    </div>
-                    <ul class="list __types">
-                        <li class="list-item">
-                            <div class="list-price">$795/month</div>
-                            <div class="list-name">Basic level</div>
-                            <div class="list-descr">
-                                <p>Includes:</p>
-                                <ul>
-                                    <li>Full code review</li>
-                                </ul>
-                                <p>We guarantee <strong>1 business day</strong> response time</p>
-                            </div>
-                        </li>
-                        <li class="list-item">
-                            <div class="list-price">$1,495</div>
-                            <div class="list-name">Premium level</div>
-                            <div class="list-descr">
-                                <p>Includes:</p>
-                                <ul>
-                                    <li>Full code review</li>
-                                    <li>Priority Support</li>
-                                    <li>Dedicated Account Manager</li>
-                                </ul>
-                                <p>We guarantee <strong>12 hour</strong> response time</p>
-                            </div>
-                        </li>
-                        <li class="list-item">
-                            <div class="list-price">Call Us</div>
-                            <div class="list-name">Enterprise level</div>
-                            <div class="list-descr">
-                                <p>Includes:</p>
-                                <ul>
-                                    <li>Full code review</li>
-                                    <li>Special Enterprise modules</li>
-                                    <li>Priority Support</li>
-                                    <li>Dedicated Account Manager</li>
-                                    <li>One escalation ticket w/1-hour response time</li>
-                                </ul>
-                                <p>We guarantee <strong>6 hour</strong> response time</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+    </div>
+</div>
+<div class="pricing-hosted __responsive">
+    <div class="columns clearfix">
+        <div class="column">
+            <div class="one-time">
+                <div class="pricing-t">
+                    <div class="pricing-name">One-Time Setup</div>
+                    <div class="pricing-text"></div>
+                </div>
+                <div class="pricing-cost">$995</div>
+                <div class="pricing-descr">
+                    <p>This is a one-time fee charged per website.</p>
+                    <p>This deal includes:</p>
+                    <ul>
+                        <li>full code review of your website</li>
+                        <li>website optimization</li>
+                        <li>Git repository setup</li>
+                        <li>help migrating your existing data from previous Virto Commerce-based websites or other ecommerce systems</li>
+                    </ul>
+                    <p>If you are working with one of our <a href="/partners/list-of-partners">solution partners</a>, you get a special discounted setup fee of only $295!</p>
+                </div>
+            </div>
+            <div class="hosting">
+                <div class="pricing-t __plus">
+                    <div class="pricing-name">Hosting</div>
+                    <div class="pricing-text"></div>
+                </div>
+                <div class="pricing-cost">Call Us</div>
+                <div class="pricing-descr">
+                    <p>Hosting rates are established based on sales generated through the Virto Commerce Platform.</p>
+                    <p>We offer hosting on Microsoft Cloud that would be included in your monthly service fees; however you can choose to migrate to your own environment at anytime.</p>
+                </div>
+            </div>
+        </div>
+        <div class="column">
+            <div class="developer">
+                <div class="pricing-t __plus">
+                    <div class="pricing-name">Developer Support (Optional)</div>
+                    <div class="pricing-text">Rates listed are charged per month, per person</div>
+                </div>
+                <ul class="list __types">
+                    <li class="list-item">
+                        <div class="list-price">$795/month</div>
+                        <div class="list-name">Basic level</div>
+                        <div class="list-descr">
+                            <p>Includes:</p>
+                            <ul>
+                                <li>Full code review</li>
+                            </ul>
+                            <p>We guarantee <strong>1 business day</strong> response time</p>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-price">$1,495</div>
+                        <div class="list-name">Premium level</div>
+                        <div class="list-descr">
+                            <p>Includes:</p>
+                            <ul>
+                                <li>Full code review</li>
+                                <li>Priority Support</li>
+                                <li>Dedicated Account Manager</li>
+                            </ul>
+                            <p>We guarantee <strong>12 hour</strong> response time</p>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-price">Call Us</div>
+                        <div class="list-name">Enterprise level</div>
+                        <div class="list-descr">
+                            <p>Includes:</p>
+                            <ul>
+                                <li>Full code review</li>
+                                <li>Special Enterprise modules</li>
+                                <li>Priority Support</li>
+                                <li>Dedicated Account Manager</li>
+                                <li>One escalation ticket w/1-hour response time</li>
+                            </ul>
+                            <p>We guarantee <strong>6 hour</strong> response time</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
 </div>
