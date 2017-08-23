@@ -23,7 +23,7 @@ tags :
     <div class="head __cart">
         <h1>Inventory management definition - What is inventory management? </h1>
     </div>
-    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management.jpeg" />
+    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management.jpg" />
     <p class="text">This is pretty straight forward. Inventory management (or stock management) is literally the process of managing a business’ inventory and stock. It is a part of supply chain management. To further define inventory management process we can note that it includes aspects like storage of inventories, overseeing the orders for stock inventory, and controlling the number of items in stock.</p>
     <p class="text">As you see, the definition of inventory management is not complicated. The real question is how do you as a retailer unitize inventory management techniques to achieve the best results? Here are a few useful how-to’s to use in your inventory management.</p>
     <h2>How to determine the right amount of product for inventory stock</h2>
@@ -41,7 +41,7 @@ tags :
     <p class="text">•	Picking and handling of your items</p>
     <p class="text">•	Packing</p>
     <p class="text">•	Shipping (lead time)</p>
-    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management-2.jpg"/>
+    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management-2.jpeg"/>
     <p class="text">Also, having a <a href="{{ 'https://virtocommerce.com/glossary/how-to-calculate-safety-stock' | absolute_url }}">safety stock</a>  is always a good idea!
     <h2>What is the best tool for inventory management</h2>
     <p class="text">Many small businesses rely on excel spreadsheets for their inventory management, but once your business starts growing, those become extremely limiting. To save yourself the trouble of dealing with all sorts of stock-related issues, look for a cloud-based inventory management system that tracks inventory movement across all your sales channels in real time. It will significantly reduce your risk of overselling.</p>
