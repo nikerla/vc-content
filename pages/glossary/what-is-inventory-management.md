@@ -23,7 +23,7 @@ tags :
     <div class="head __cart">
         <h1>Inventory management definition - What is inventory management? </h1>
     </div>
-    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management.jpg" />
+    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management.jpeg" />
     <p class="text">This is pretty straight forward. Inventory management (or stock management) is literally the process of managing a business’ inventory and stock. It is a part of supply chain management. To further define inventory management process we can note that it includes aspects like storage of inventories, overseeing the orders for stock inventory, and controlling the number of items in stock.</p>
     <p class="text">As you see, the definition of inventory management is not complicated. The real question is how do you as a retailer unitize inventory management techniques to achieve the best results? Here are a few useful how-to’s to use in your inventory management.</p>
     <h2>How to determine the right amount of product for inventory stock</h2>
@@ -32,7 +32,7 @@ tags :
     <p class="text">Even if you chose to go a slightly different route and use inventory forecasting software or even just Excel formulas you’re still going to need that information from the previous months. </p>
     <h2>How to set the right price for your inventory</h2>
     <p class="text">Purchasing the right amount of inventory stock is only the beginning. It’s always important to keep the carrying costs in mind, which are attached to all the products you buy. The larger the invetory you have, the more you’ll be spending on storage, while increasing your risk of having products going out-of-date. Good news is there is an equation that helps you with this - the Economic Order Quantity (EOQ) formula.</p>
-    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management-1.jpg"/>
+    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management-1.jpeg"/>
     <p class="text">Economic Order Quantity is a formula that helps calculate how many units your business should be adding to its inventory in order to reduce the total costs of inventory management – including factors like order costs, holding costs, and shortage costs.</p>
     <p class="text">There are a number of EOQ calculators you can find online to help you figure it out.</p>
     <h2>How to set the reorder point for new inventory</h2>
