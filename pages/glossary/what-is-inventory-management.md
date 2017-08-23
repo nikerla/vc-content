@@ -32,7 +32,7 @@ tags :
     <p class="text">Even if you chose to go a slightly different route and use inventory forecasting software or even just Excel formulas you’re still going to need that information from the previous months. </p>
     <h2>How to set the right price for your inventory</h2>
     <p class="text">Purchasing the right amount of inventory stock is only the beginning. It’s always important to keep the carrying costs in mind, which are attached to all the products you buy. The larger the invetory you have, the more you’ll be spending on storage, while increasing your risk of having products going out-of-date. Good news is there is an equation that helps you with this - the Economic Order Quantity (EOQ) formula.</p>
-    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management-1.jpg" />
+    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management-1.jpg"/>
     <p class="text">Economic Order Quantity is a formula that helps calculate how many units your business should be adding to its inventory in order to reduce the total costs of inventory management – including factors like order costs, holding costs, and shortage costs.</p>
     <p class="text">There are a number of EOQ calculators you can find online to help you figure it out.</p>
     <h2>How to set the reorder point for new inventory</h2>
@@ -41,7 +41,7 @@ tags :
     <p class="text">•	Picking and handling of your items</p>
     <p class="text">•	Packing</p>
     <p class="text">•	Shipping (lead time)</p>
-    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management-2.jpg" />
+    <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management-2.jpg"/>
     <p class="text">Also, having a <a href="{{ 'https://virtocommerce.com/glossary/how-to-calculate-safety-stock' | absolute_url }}">safety stock</a>  is always a good idea!
     <h2>What is the best tool for inventory management</h2>
     <p class="text">Many small businesses rely on excel spreadsheets for their inventory management, but once your business starts growing, those become extremely limiting. To save yourself the trouble of dealing with all sorts of stock-related issues, look for a cloud-based inventory management system that tracks inventory movement across all your sales channels in real time. It will significantly reduce your risk of overselling.</p>
