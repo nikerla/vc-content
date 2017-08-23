@@ -1,5 +1,5 @@
 --- 
-title: What is a dead stock?
+title: What is a dead stock? Dead stock definition | Virto Commerce Glossary
 description: What does dead stock mean? Why is it critical to find  the correct approach to dead inventory management? Learn more about it in this article. 
 date: 2017-08-18 
 canonical: https://virtocommerce.com/glossary/what-is-a-dead-stock
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">What is a dead stock?</h1>
+        <h1 class="title">What is a dead stock? Dead stock definition | Virto Commerce Glossary</h1>
     </div>
     <img alt="What is a dead stock?" src="assets/images/dead-stock.jpg" />
     <h2>What is dead stock?</h2>
