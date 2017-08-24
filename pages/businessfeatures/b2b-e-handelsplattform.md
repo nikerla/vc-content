@@ -52,7 +52,7 @@ tags:
                 <p>Ladda ner Virto Commerce nu och ta del av de möjligheter som denna B2B e-handelsplattform erbjuder.</p>
             </div>
 			<div style="text-align: center;">
-				<h2 class="sub-title">Our B2B customers about the platform</h2>
+				<h2 class="sub-title">Våra B2B-kunder om b2b e-handelsplattform</h2>
 			</div>
 			<div class="our-offices __responsive" style="margin-top: 20px;">
 				<ul class="list">
@@ -80,7 +80,7 @@ tags:
 		</div>
         <div class="apps">
             <div style="border-bottom: 1px solid #000; margin-top: 40px; padding-bottom: 50px; text-align: center;">
-				<h2 class="sub-title">Best B2B eCommerce Platform Integrations</h2>
+				<h2 class="sub-title">Bästa b2b e-handelsplattform Integrations</h2>
 			</div>
             <div class="items __responsive" style="margin-top: 0;">
                 <div class="list __items __inline">
