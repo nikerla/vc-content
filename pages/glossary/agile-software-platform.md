@@ -28,6 +28,6 @@ tags :
         <p class="text">Our <a href="/features/for-business-professionals">Virto Commerce platform</a> is an example of a 100% agile platform – it follows the Agile methodology in its development and has a module-based architecture, where the co-dependency between the modules is minimal.</p> 
     <div class="buttons">
         <a class="button fill" href="/try-now">Try Our Platform Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/blog/agile-platform">Learn more about our agile development approach</a>
     </div>
 </div>
