@@ -9,6 +9,7 @@ tags:
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce
+- agile
 title: Today’s e-commerce market calls for Agile Platforms
 ---
 ### <dfn>Today’s e-commerce market calls for Agile Platforms</dfn>
