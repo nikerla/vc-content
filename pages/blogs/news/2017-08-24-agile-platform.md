@@ -60,9 +60,9 @@ From the vendor’s side working closely with our clients on implementing their 
 
 We stick to some core principles that we believe are helpful in meeting today’s standards of e-commerce market and keeping up with its fast pace:
 
-•	Virto Commerce platform is open source ((check out our GitHub repository)[https://github.com/VirtoCommerce/vc-platform])
+•	Virto Commerce platform is open source ( [check out our GitHub repository](https://github.com/VirtoCommerce/vc-platform]) )
 
-•	[The Roadmap] (https://virtocommerce.com/roadmap) is open and always available to all the users and generally to anyone, who’s curious about our plans
+•	[The Roadmap](https://virtocommerce.com/roadmap) is open and always available to all the users and generally to anyone, who’s curious about our plans
 
 •	Our backlog is also open and is being built based on demands of the actual current projects 
 
