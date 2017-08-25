@@ -50,7 +50,7 @@ Each business is unique and requires a personalized approach to setting up its n
 
 <FONT COLOR=grey>Here is one of our latest case studies on successful integration as an example:
 
--	(GiftCertificates.com  - B2B/B2C Platform Case Study)[https://virtocommerce.com/assets/files/gc-case-study.pdf]
+-	[GiftCertificates.com  - B2B/B2C Platform Case Study](https://virtocommerce.com/assets/files/gc-case-study.pdf)
 
 *“The new platform takes advantage of a lot of the latest thoughts on high-performance, high-quality software development. By adopting this solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally. It’s the flagship for our re-engineering of our technology practices.”* - says <strong>Kevin Cory, VP-Technology and Strategic Planning, GC Incentives.</strong></FONT>
 
@@ -62,11 +62,11 @@ We stick to some core principles that we believe are helpful in meeting today’
 
 •	Virto Commerce platform is open source ((check out our GitHub repository)[https://github.com/VirtoCommerce/vc-platform])
 
-•	The Roadmap [https://virtocommerce.com/roadmap] is open and always available to all the users and generally to anyone, who’s curious about our plans
+•	[The Roadmap] (https://virtocommerce.com/roadmap) is open and always available to all the users and generally to anyone, who’s curious about our plans
 
 •	Our backlog is also open and is being built based on demands of the actual current projects 
 
-•	The platform has (modular architecture)[https://virtocommerce.com/features/for-business-professionals] and is evolving and scaling naturally 
+•	The platform has [modular architecture](https://virtocommerce.com/features/for-business-professionals) and is evolving and scaling naturally 
 
 •	Open ticket system 
 
