@@ -1,4 +1,4 @@
-﻿{
+{
     "general": {
         "case_studies": "Case studies",
         "glossary": "Glossary",
@@ -164,6 +164,7 @@
     },
     "blogs": {
         "tags": {
+            "agile": "Agile",
             "cloud-ecommerce": "Cloud ecommerce",
             "cloud-ecommerce-platform": "Cloud ecommerce platform",
             "cloud-ecommerce-solution": "Cloud ecommerce solution",
