@@ -27,7 +27,7 @@ tags :
 <div class="proposal __responsive">
 	<h2 class="head-title">Enterprise Edition Advantages</h2>
 	<ul class="list">
-		<li class="list-item team" style="padding-left:205px; margin-bottom: 50px;">
+		<li class="list-item team">
 			<div class="proposal-ico"></div>
 			<p class="proposal-title">Ensure Successful Implementation</p>
 			<p class="proposal-descr">
@@ -41,7 +41,7 @@ tags :
 				elegant and simple e-commerce solution.
 			</p>
 		</li>
-		<li class="list-item updates" style="padding-left:205px; margin-bottom: 50px;">
+		<li class="list-item updates">
 			<div class="proposal-ico"></div>
 			<p class="proposal-title">Take Advantage of New Opportunities</p>
 			<p class="proposal-descr">
@@ -49,7 +49,7 @@ tags :
 				opportunity window closes. Get a competitive edge by utilizing our extensible open source platform.
 			</p>
 		</li>
-		<li class="list-item dev" style="padding-left:205px; margin-bottom: 50px;">
+		<li class="list-item dev">
 			<div class="proposal-ico"></div>
 			<p class="proposal-title">Influence Us</p>
 			<p class="proposal-descr">
@@ -57,7 +57,7 @@ tags :
 				the product into helping you archive your own goals and reduce your development time and costs.
 			</p>
 		</li>
-		<li class="list-item support" style="padding-left:205px; margin-bottom: 50px;">
+		<li class="list-item support">
 			<div class="proposal-ico"></div>
 			<p class="proposal-title">Professional Support</p>
 			<p class="proposal-descr">
