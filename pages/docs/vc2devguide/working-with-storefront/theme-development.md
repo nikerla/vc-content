@@ -15,11 +15,15 @@ There are several ways how the theme can be developed. You can start of with one
 1. Install [prerequisites](#prerequisites).
 2. Clone repo.
     1. In Visual Studio, go to **Team Explorer** → **Clone** → Enter https://github.com/VirtoCommerce/vc-default-theme.git as URL and **'D:\vc-default-theme'** (for example) as path.
-    2. Or execute command ```git clone https://github.com/VirtoCommerce/vc-default-theme.git "D:\vc-default-theme"``` (where **'D:\vc-default-theme'** is path to folder where you want to clone repo).
+    2. Or execute command
+        ```git clone https://github.com/VirtoCommerce/vc-default-theme.git "D:\vc-default-theme"```
+        (where **'D:\vc-default-theme'** is path to folder where you want to clone repo).
 3. Link you theme repo to store. Execute:<br/>
-```mklink /d "C:\vc-platform-master\VirtoCommerce.Platform.Web\App_Data\cms-content\Themes\Electronics\default" "D:\vc-default-theme"```
-```mklink /d "C:\vc-storefront-master\VirtoCommerce.Storefront\App_Data\cms-content\Themes\Electronics\default" "D:\vc-default-theme"```
-(where **'C:\vc-platform-master\VirtoCommerce.Platform.Web\App_Data\cms-content'** and **'C:\vc-storefront-master\VirtoCommerce.Storefront\App_Data\cms-content'** are paths to **'cms-content'** folders on platform and storefront, **'Electronics'** is your store name and **'D:\vc-default-theme'** is path to your theme repo).
+    ```
+    mklink /d "C:\vc-platform-master\VirtoCommerce.Platform.Web\App_Data\cms-content\Themes\Electronics\default" "D:\vc-default-theme"
+    mklink /d "C:\vc-storefront-master\VirtoCommerce.Storefront\App_Data\cms-content\Themes\Electronics\default" "D:\vc-default-theme"
+    ```
+    (where **'C:\vc-platform-master\VirtoCommerce.Platform.Web\App_Data\cms-content'** and **'C:\vc-storefront-master\VirtoCommerce.Storefront\App_Data\cms-content'** are paths to **'cms-content'** folders on platform and storefront, **'Electronics'** is your store name and **'D:\vc-default-theme'** is path to your theme repo).
 4. Open theme folder in your IDE
     1. In Visual Studio (including 2017) go to  **File** → **Open** → **Website**
     2. In Visual Studio Code, go to **File** → **Open** → **Folder**
@@ -52,12 +56,18 @@ Task Runner Explorer, Node.js and Gulp already included in your Visual Studio in
 You need install:
 1. [Task Runner Explorer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TaskRunnerExplorer) Visual Studio extension
 2. Install Node.js v4.0.0 or above (we recommend [latest LTS version](https://nodejs.org/en/))
-3. ```npm install gulp -g```
+3.
+    ```
+    npm install gulp -g
+    ```
 
 ### Visual Studio Code and other editors
 
 1. Install Node.js v4.0.0 or above (we recommend [latest LTS version](https://nodejs.org/en/))
-2. ```npm install gulp -g```
+2.
+    ```
+    npm install gulp -g
+    ```
 
 ## Bundles Reference
 
