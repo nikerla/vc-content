@@ -40,7 +40,9 @@ manually when you need to bundle & minify theme files.
 ### How to add bundle to layout
 
 ```
+{% raw %}
 {{ 'bundle/scripts.js' | static_asset_url | append_version | script_tag }}
+{% endraw %}
 ```
   * **static_asset_url** means that this file is static content of site;
   * **script_tag** or **stylesheet_tag** will generate
