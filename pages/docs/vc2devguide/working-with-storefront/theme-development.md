@@ -16,9 +16,11 @@ There are several ways how the theme can be developed. You can start of with one
 2. Clone repo.
     1. In Visual Studio, go to **Team Explorer** → **Clone** → Enter https://github.com/VirtoCommerce/vc-default-theme.git as URL and **'D:\vc-default-theme'** (for example) as path.
     2. Or execute command
-        ```git clone https://github.com/VirtoCommerce/vc-default-theme.git "D:\vc-default-theme"```
+        ```
+        git clone https://github.com/VirtoCommerce/vc-default-theme.git "D:\vc-default-theme"
+        ```
         (where **'D:\vc-default-theme'** is path to folder where you want to clone repo).
-3. Link you theme repo to store. Execute:<br/>
+3. Link you theme repo to store. Execute:
     ```
     mklink /d "C:\vc-platform-master\VirtoCommerce.Platform.Web\App_Data\cms-content\Themes\Electronics\default" "D:\vc-default-theme"
     mklink /d "C:\vc-storefront-master\VirtoCommerce.Storefront\App_Data\cms-content\Themes\Electronics\default" "D:\vc-default-theme"
@@ -30,7 +32,9 @@ There are several ways how the theme can be developed. You can start of with one
     3. Select **D:\vc-default-theme** (where **D:\vc-default-theme** is path to folder where you want to clone repo) and open it.
 5. Install Node.js dependencies.
     1. In Visual Studio all dependencies will be installed automatically. Just wait a few minutes.
-    2. In Visual Studio Code and other editors, you need to run ```npm install```to install Node.js dependencies.
+    2. In Visual Studio Code and other editors, you need to run
+    ```npm install```
+    to install Node.js dependencies.
 
 ## Appendix: CMS Content folder structure
 <a href="../../../assets/images/docs/cms-content-structure.png"><img src="../../../assets/images/docs/cms-content-structure-preview.png" alt="CMS Content folder structure" width="768"></a>
