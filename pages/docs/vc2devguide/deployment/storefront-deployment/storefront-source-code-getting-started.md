@@ -59,11 +59,13 @@ Fork your own copy of VirtoCommerce Storefront to your account on GitHub:
 You need to link your real CMS Content folder with storefront and platform (to be able view CMS content with Content module).
 
 Execute the following commands:<br/>
-`mklink /d "C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content" "D:\cms-content"`<br/>
-`mklink /d "C:\vc-storefront\VirtoCommerce.Storefront\App_Data\cms-content" "D:\cms-content"`<br/>
-(where `D:\cms-content` is your cms content folder)
+```
+mklink /d "C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content" "D:\cms-content"
+mklink /d "C:\vc-storefront\VirtoCommerce.Storefront\App_Data\cms-content" "D:\cms-content"
+```
+(where **'D:\cms-content'** is your cms content folder)
 
-You can also link invidual theme folders instead of full `cms-content` folder. To learn more about themes CMS content structure go to [themes documentation](docs/vc2devguide/working-with-storefront/theme-development).
+You can also link invidual theme folders instead of full **'cms-content'** folder. To learn more about themes CMS content structure go to [themes documentation](docs/vc2devguide/working-with-storefront/theme-development).
 
 ## Configuring API client credentials
 

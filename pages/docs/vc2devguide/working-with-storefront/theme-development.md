@@ -33,7 +33,9 @@ There are several ways how the theme can be developed. You can start of with one
 5. Install Node.js dependencies.
     1. In Visual Studio all dependencies will be installed automatically. Just wait a few minutes.
     2. In Visual Studio Code and other editors, you need to run
-    ```npm install```
+    ```
+    npm install
+    ```
     to install Node.js dependencies.
 
 ## Appendix: CMS Content folder structure
