@@ -1,35 +1,37 @@
 ---
-title: Theme Development
-description: Whenever you are building theme for your client or yourself this guide will provide instructions on how to create a theme
+date: '2017-09-01'
 layout: docs
-date: 2016-05-31T12:02:37.970Z
-priority: 1
+title: 'Theme development'
+
 ---
+## Summary
 
 Whenever you are building theme for your client or yourself this guide will provide instructions on how to <a class="crosslink" href="https://virtocommerce.com/website-design" target="_blank">create a theme</a>.
 
 There are several ways how the theme can be developed. You can start of with one of the sample themes provided with a product or download one from our [appstore](apps) or get on from <a href="https://themes.shopify.com/" rel="nofollow">Shopify themes</a> as these themes are fully supported. In this documentation, we will consider a [default theme](https://github.com/VirtoCommerce/vc-default-theme) for VirtoCommerce storefront.
 
+## CMS Content folder structure
+<a href="../../../assets/images/docs/cms-content-structure.png"><img src="../../../assets/images/docs/cms-content-structure-preview.png" alt="CMS Content folder structure" width="768"></a>
+
 ## Getting started
 
-1. Install [prerequisites](#prerequisites).
+1. Install [prerequisites](docs/vc2devguide/working-with-storefront/theme-development#prerequisites).
 2. Clone repo.
-    1. In Visual Studio, go to **Team Explorer** → **Clone** → Enter https://github.com/VirtoCommerce/vc-default-theme.git as URL and **'D:\vc-default-theme'** (for example) as path.
+    1. In Visual Studio, go to **Team Explorer** → **Clone** → Enter https://github.com/VirtoCommerce/vc-default-theme.git as URL and **'C:\vc-default-theme'** (for example) as path.
     2. Or execute command
         ```
-        git clone https://github.com/VirtoCommerce/vc-default-theme.git "D:\vc-default-theme"
+        git clone https://github.com/VirtoCommerce/vc-default-theme.git "C:\vc-default-theme"
         ```
-        (where **'D:\vc-default-theme'** is path to folder where you want to clone repo).
+        (where **'C:\vc-default-theme'** is path to folder where you want to clone repo).
 3. Link you theme repo to store. Execute:
     ```
-    mklink /d "C:\vc-platform-master\VirtoCommerce.Platform.Web\App_Data\cms-content\Themes\Electronics\default" "D:\vc-default-theme"
-    mklink /d "C:\vc-storefront-master\VirtoCommerce.Storefront\App_Data\cms-content\Themes\Electronics\default" "D:\vc-default-theme"
+    mklink /d "C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content\Themes\Electronics\default" "C:\vc-default-theme"
     ```
-    (where **'C:\vc-platform-master\VirtoCommerce.Platform.Web\App_Data\cms-content'** and **'C:\vc-storefront-master\VirtoCommerce.Storefront\App_Data\cms-content'** are paths to **'cms-content'** folders on platform and storefront, **'Electronics'** is your store name and **'D:\vc-default-theme'** is path to your theme repo).
+    (where **C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content** is path to CMS content folder configured at platform & storefront deployment steps, **'Electronics'** is your store name and **'C:\vc-default-theme'** is path to your theme repo).
 4. Open theme folder in your IDE
     1. In Visual Studio (including 2017) go to  **File** → **Open** → **Website**
     2. In Visual Studio Code, go to **File** → **Open** → **Folder**
-    3. Select **D:\vc-default-theme** (where **D:\vc-default-theme** is path to folder where you want to clone repo) and open it.
+    3. Select **C:\vc-default-theme** (where **C:\vc-default-theme** is path to folder where you want to clone repo) and open it.
 5. Install Node.js dependencies.
     1. In Visual Studio all dependencies will be installed automatically. Just wait a few minutes.
     2. In Visual Studio Code and other editors, you need to run
@@ -38,10 +40,7 @@ There are several ways how the theme can be developed. You can start of with one
     ```
     to install Node.js dependencies.
 
-## Appendix: CMS Content folder structure
-<a href="../../../assets/images/docs/cms-content-structure.png"><img src="../../../assets/images/docs/cms-content-structure-preview.png" alt="CMS Content folder structure" width="768"></a>
-
-## Appendix: Prerequisites
+## Prerequisites
 
 ### Storefront
 
@@ -75,10 +74,6 @@ You need install:
     npm install gulp -g
     ```
 
-## Bundles Reference
-
-Bundling is a technique you can use to improve request load time. Bundling improves load time by reducing the number of requests to the server (assets such as CSS and JavaScript will be combined to single file per file format). To learn how to work with bundles go to [Bundles documentation](docs/vc2devguide/working-with-storefront/bundles).
-
-## Liquid Reference
+## Liquid reference
 
 Liquid is the templating engine that powers Virto Commerce templates. Go to [Liquid documentation](docs/vc2devguide/working-with-storefront/theme-development/liquid-reference).
