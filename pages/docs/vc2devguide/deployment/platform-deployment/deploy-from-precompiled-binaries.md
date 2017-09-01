@@ -3,12 +3,12 @@ aliases:
   - docs/vc2devguide/deployment/platform-deployment/deploy-web-applications-to-dedicated-server
 date: '2017-08-31'
 layout: docs
-title: 'Deploy Platform from precompiled binaries to dedicated server'
+title: 'Deploy Platform from precompiled binaries'
 
 ---
 ## Summary
 
-Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Platform to dedicated server.
+Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Platform.
 
 ## Prerequisites
 
@@ -34,10 +34,23 @@ Upload all data from **C:\vc-platform** folder to the web server in IIS applica
 ### Configure connection strings
 
 * Open the **Web.config** file in a text editor.
-* In the **connectionStrings** section change the following connection strings:
+* In the **connectionStrings** section add or change **add** nodes:
   * **VirtoCommerce**: parameters for  SQL server database. Provided user should have permission to create new database.
+    ```
+    <add name="VirtoCommerce" connectionString="Data Source={SQL Server URL};Initial Catalog={Database name};Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
+    ```
   * **SearchConnectionString**: type of search engine and its parameters.
+    ```
+    <add name="SearchConnectionString" connectionString="provider={Provider name};{additional parameters};scope={common name (prefix) of all indexes}" />
+    ```
   * **AssetsConnectionString**: type of asset storage and its parameters.
+    ```
+    <add name="AssetsConnectionString" connectionString="provider={Provider name};rootPath={Path to folder with assets};{additional parameters}" />
+    ```
+  * **CmsContentConnectionString**: type of CMS content storage and its parameters (**provider=LocalStorage;rootPath=~/App_Data/cms-content** connection string will be used by default)..
+    ```
+    <add name="CmsContentConnectionString" connectionString="provider={Provider name};rootPath={URL to CMS content location}" />
+    ```
 
 ### Configure permissions for App_Data folder
 
@@ -49,24 +62,12 @@ Open properties for **C:\inetpub\wwwroot\admin\App_Data** folder and give perm
 
 * Open the **IIS Manager** and create a new website or new application named **admin** inside an existing website.
 * In the **Physical path** field enter the full path to the platform site data folder **C:\inetpub\wwwroot\admin**
+![Website configuration in IIS](../../../../assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
 * Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
-![Select application pool for Virto Commerce 2](../../../../assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce 2")
+![Select application pool for Virto Commerce Platform](../../../../assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce Platform")
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it.
-![Create a virtual folder for Virto Commerce 2 assets](../../../../assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce 2 assets")
+![Create a virtual folder for Virto Commerce Platform assets](../../../../assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
 
-## Configure CMS content
-
-[VirtoCommerce CMS Content module](apps/extensions/virto-cms-module) provide you ability to view & update CMS content from platform UI.
-You can change default path of CMS content:
-* In the **C:\vc-platform\VirtoCommerce.Platform.Web\web.config** file in the **connectionStrings** section add the **add** node named **CmsContentConnectionString**
-* Change its **connectionString** attribute value to needed folder path (**provider=LocalStorage;rootPath=~/App_Data/cms-content** connection string will be used by default).
-  ```
-  <connectionStrings>
-    ...
-    <add name="CmsContentConnectionString" connectionString="provider={provider name};rootPath={URL to CMS content location}" />
-    ...
-  </connectionStrings>
-  ```
 ## First sign in
 
 * Open the Virto Commerce Platform application in the browser.

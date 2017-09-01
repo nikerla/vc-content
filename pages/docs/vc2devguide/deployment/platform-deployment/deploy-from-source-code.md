@@ -3,12 +3,12 @@ aliases:
   - docs/vc2devguide/deployment/platform-deployment/source-code-getting-started
 date: '2017-08-31'
 layout: docs
-title: 'Deploy Platform from source code to developer machine'
+title: 'Deploy Platform from source code'
 
 ---
 ## Summary
 
-Use this guide to deploy and configure Virto Commerce Platform from source code on developer machine and setup development environment.
+Use this guide to deploy and configure Virto Commerce Platform from source code and setup development environment.
 
 ## Prerequisites
 
@@ -70,9 +70,9 @@ Open the **C:\vc-platform\VirtoCommerce.Platform.Web\web.config** file and make 
 ## Configure IIS
 
 Open **IIS Manager** and add new application to **Default Web Site** with alias **admin** and physical path to **C:\vc-platform\VirtoCommerce.Platform.Web**. Select application pool which uses **.NET CLR Version 4.0** and **Integrated pipeline mode**.
-![Create new web application for Virto Commerce Platform](../../../../assets/images/docs/add-admin-application.png "Create new web application for Virto Commerce Platform")
+![Create new web application for Virto Commerce Platform](../../../../assets/images/docs/add-admin-application-source-code.png "Create new web application for Virto Commerce Platform")
 
-Inside the **admin** application add a new virtual directory with alias **assets** and physical path to **VirtoCommerce.Platform.Web\App_Data\Assets**. If there is no Assets directory inside App_Data, create it.
+Inside the **admin** application add a new virtual directory with alias **assets** and physical path to **C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\Assets**. If there is no Assets directory inside App_Data, create it.
 ![Create a virtual directory for Virto Commerce Platform assets](../../../../assets/images/docs/create-platform-assets-virtual-folder-source-code.png "Create a virtual directory for Virto Commerce Platform assets")
 
 Your web site structure should be similar to the one shown below:

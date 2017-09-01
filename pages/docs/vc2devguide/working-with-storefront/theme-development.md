@@ -10,8 +10,8 @@ Whenever you are building theme for your client or yourself this guide will prov
 
 There are several ways how the theme can be developed. You can start of with one of the sample themes provided with a product or download one from our [appstore](apps) or get on from <a href="https://themes.shopify.com/" rel="nofollow">Shopify themes</a> as these themes are fully supported. In this documentation, we will consider a [default theme](https://github.com/VirtoCommerce/vc-default-theme) for VirtoCommerce storefront.
 
-## CMS Content folder structure
-<a href="../../../assets/images/docs/cms-content-structure.png"><img src="../../../assets/images/docs/cms-content-structure-preview.png" alt="CMS Content folder structure" width="768"></a>
+## CMS Content storage structure
+<a href="../../../assets/images/docs/cms-content-structure.png"><img src="../../../assets/images/docs/cms-content-structure-preview.png" alt="CMS Content storage structure" width="768"></a>
 
 ## Getting started
 
@@ -27,7 +27,7 @@ There are several ways how the theme can be developed. You can start of with one
     ```
     mklink /d "C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content\Themes\Electronics\default" "C:\vc-default-theme"
     ```
-    (where **C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content** is path to CMS content folder configured at platform & storefront deployment steps, **'Electronics'** is your store name and **'C:\vc-default-theme'** is path to your theme repo).
+    (where **C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content** is path to CMS content storage configured at platform & storefront deployment steps, **'Electronics'** is your store name and **'C:\vc-default-theme'** is path to your theme repo).
 4. Open theme folder in your IDE
     1. In Visual Studio (including 2017) go to  **File** → **Open** → **Website**
     2. In Visual Studio Code, go to **File** → **Open** → **Folder**

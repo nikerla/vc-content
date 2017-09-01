@@ -3,12 +3,12 @@ aliases:
   - docs/vc2devguide/deployment/storefront-deployment/storefront-source-code-getting-started
 date: '2017-08-31'
 layout: docs
-title: 'Deploy Storefront from source code to developer machine'
+title: 'Deploy Storefront from source code'
 
 ---
 ## Summary
 
-Use this guide to deploy and configure Virto Commerce Storefront from source code on developer machine and setup development environment.
+Use this guide to deploy and configure Virto Commerce Storefront from source code and setup development environment.
 
 ## Prerequisites
 
@@ -21,11 +21,11 @@ Use this guide to deploy and configure Virto Commerce Storefront from source cod
 ## Downloading source code
 
 Fork your own copy of VirtoCommerce Storefront to your account on GitHub:
-1. Open <a href="https://github.com/VirtoCommerce/vc-storefront" rel="nofollow">https://github.com/VirtoCommerce/vc-storefront</a> and click **Fork** in the upper right corner.
+1. Open <a href="https://github.com/VirtoCommerce/vc-storefront" rel="nofollow">VirtoCommerce Storefront in GitHub</a> and click **Fork** in the upper right corner.
 2. If you are a member of an organization on GitHub, select the target for the fork.
 3. Clone the forked repository to local machine:
   ```
-  git clone https://github.com/<<your GitHub user name>>/vc-storefront.git
+  git clone https://github.com/<<your GitHub user name>>/vc-storefront.git C:\vc-storefront
   ```
 4. Switch to the cloned directory:
   ```
@@ -90,9 +90,9 @@ In order to enable Storefront app using VirtoCommerce Platform API, first of all
 </appSettings>
 ```
 
-## Configure CMS content
+## Configure CMS content storage
 
-You can configure CMS content folder path in one of the following ways:
+You can configure CMS content storage path in one of the following ways:
 * Create a link to VirtoCommerce Platform **cms-content** folder:
   ```
   mklink /d C:\vc-storefront\VirtoCommerce.Storefront\App_Data\cms-content C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content

@@ -1,11 +1,11 @@
 ---
 date: '2017-08-31'
-title: 'Deploy Storefront from precompiled binaries to dedicated server'
+title: 'Deploy Storefront from precompiled binaries'
 layout: docs
 ---
 ## Summary
 
-Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Storefront to dedicated server.
+Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Storefront.
 
 ## Prerequisites
 
@@ -39,6 +39,11 @@ Upload all data from **C:\vc-storefront** folder to the web server in IIS appli
 * Open the **Web.config** in a text editor.
 * In the **appSettings** section find the **add** nodes named **vc-public-ApiAppId** and **vc-public-ApiSecretKey** and change its values to values generated in **VirtoCommerce Platform** application.
 
+### Configure CMS content storage
+
+* Open the **Web.config** in a text editor.
+* In the **connectionStrings** section find the **add** node named **ContentConnectionString**. Change its **connectionString** attribute value to the path of folder specified in **CmsContentConnectionString** connection string in your **VirtoCommerce Platform** installation (**~/App_Data/cms-content** by default, i.e. you must use **provider=LocalStorage;rootPath=C:\inetpub\wwwroot\admin\App_Data\cms-content** connection string in this case).
+
 ### Configure permissions for App_Data folder
 
 Open properties for **C:\inetpub\wwwroot\App_Data** folder and give permission **Modify** to **IIS_IUSRS** user group:
@@ -49,21 +54,8 @@ Open properties for **C:\inetpub\wwwroot\App_Data** folder and give permission
 
 * Open the **IIS Manager** and create a new website or new application inside an existing website.
 * In the **Physical path** field enter the full path to the **C:\inetpub\wwwroot** folder:
-![Mapping web application in IIS](../../../../assets/images/docs/image2016-4-29_17-19-43.png "Mapping web application in IIS")
+![Website configuration in IIS](../../../../assets/images/docs/add-storefront-website.png "Website configuration in IIS")
 * Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
 ![Select an application pool](../../../../assets/images/docs/image2016-4-29_17-20-13.png "Select an application pool")
-
-## Configure CMS content
-
-Configure CMS content folder path. Change CMS content connection string:
-* In the **C:\inetpub\wwwroot\web.config** file in the **connectionStrings** section find the **add** node named **ContentConnectionString**
-* Change its **connectionString** attribute value to the path of folder specified in **CmsContentConnectionString** connection string in your VirtoCommerce Platform installation (**~/App_Data/cms-content** by default, i.e. you must use **provider=LocalStorage;rootPath=C:\inetpub\wwwroot\admin\App_Data\cms-content** connection string in this case)
-```
-<connectionStrings>
-  ...
-  <add name="ContentConnectionString" connectionString="provider={provider name};rootPath={URL to CMS content location}" />
-  ...
-</connectionStrings>
-```
 
 Open the VirtoCommerce Storefront application in the browser.
