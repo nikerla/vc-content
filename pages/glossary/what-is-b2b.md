@@ -1,6 +1,6 @@
 ﻿--- 
-title: What is business to business e commerce. B2B ecommerce 
-description: What is business to business e commerce. What does this business to business e-commerce type mean. B2B ecommerce examples
+title: What is business to business e commerce: B2B ecommerce definition | Glossary Virto Commerce.
+description: What is business to business e commerce. What does this business to business e-commerce type mean. B2B ecommerce examples and definition.
 date: 2017-03-13 
 canonical: https://virtocommerce.com/glossary/what-is-b2b 
 permalink: glossary/what-is-b2b
