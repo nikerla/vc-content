@@ -6,8 +6,6 @@ main-image: ../../assets/images/blog/shutterstock_83919073.jpg
 permalink: blog/five-reasons-to-switch-ecommerce-to-cloud
 tags:
   - cloud-ecommerce
-  - cloud-ecommerce-platform
-  - cloud-ecommerce-solution
   - cloud-vs-on-premise
 title: '5 reasons to switch your e-commerce to the cloud'
 description: 'An ultimate Virto Commerce list of reasons to switch your ecommerce platforms from on premise to cloud. Switch ecommerce platform to the cloud and discover fantastic cloud-based systems’ benefits.'
@@ -22,7 +20,7 @@ That in short is what makes cloud solutions the way of the future, and why many 
 Let’s however look a bit more into details of what’s involved with this revolutionary system.  Here are 5 factors a business owner would need to consider about moving the company’s e-commerce from an on-premise solution to the cloud.
 
 ## 1 - Lower cost of set-up and maintenance
-<a href="https://virtocommerce.com">
+<a href="/our-offers/enterprise-cloud-hosted">
 <img alt="Lower cost of set-up and maintenance" src="../../assets/images/blog/shutterstock_420383689.jpg" />
 </a>
 As a business owner, one of your primary concerns is always about how much it’s going cost you. Obviously. So, let’s take a look into it for a moment.
@@ -37,13 +35,13 @@ With the cloud solution it’s the vendor (and not you and your IT department) w
 
 For you as a business owner this means that the initial costs as well as maintenance costs are typically going to be much lower because you simply implement the software and adjust it to meet your requirements – that’s it. Everything is accessible online through a web browser interface. Payment is a pay-as-you-go system or a predictable, yearly subscription/sales percentage model. So, again, little to no investment upfront, making it a safe choice.
 
-If you are a small business, you may even qualify for free service with certain providers. <a class="crosslink" href="https://virtocommerce.com" target="_blank">Virtoway</a> for example, lets you get a fully featured enterprise class product completely free with a revenue restriction. That way you can start easy and upgrade your e-commerce platform once your business becomes a success.
+If you are a small business, you may even qualify for free service with certain providers. <a class="crosslink" href="https://virtocommerce.com" target="_blank">Virto Commerce</a> for example, lets you get a fully featured enterprise class product completely free with a revenue restriction. That way you can start easy and upgrade your e-commerce platform once your business becomes a success.
 
 ## 2 - Less hassle for you and your IT staff
-
+<a href="/glossary/cloud-ecommerce">
 <img alt="Less hassle for you and your IT staff" src="../../assets/images/blog/shutterstock_411450706.jpg" />
-
-Our cloud e-commerce solution is known for being very developer-friendly. Everything is configured to make you IT team’s experience working with it as easy and enjoyable as possible.
+</a>
+Our <a href="/glossary/cloud-ecommerce">cloud e-commerce solution</a> is known for being very developer-friendly. Everything is configured to make you IT team’s experience working with it as easy and enjoyable as possible.
 
 You leave it to the vendor to worry about the hardware and major software maintenance. There is no need for your team to re-invent features, as we have a lot of ready solutions with open source easily accessible code. Whichever obstacle you might face tweaking the system to your company’s needs, chances are we have already gone through it and are happy to share our solutions! 
 
@@ -67,7 +65,7 @@ Cloud e-commerce providers make sure your previously implemented customizations 
 
 This one is a no-brainer. Having all your data stored in one place with an easy on-line access is going to help your business function in the most efficient way possible by reducing possibility of errors and helping your supply chain run smoothly. 
 
-You can have several stores on the same platform with one central control point. Regional dealerships have an easy way to join the main system with an option of their making their own unique customizations.
+You can have several stores on the same <a href="/our-offers/enterprise-cloud-hosted">cloud platform</a> with one central control point. Regional dealerships have an easy way to join the main system with an option of their making their own unique customizations.
 
 It means better organization and tracking of orders and stock items across multiple physical locations, faster status updates and all your required information available to you from anywhere and at any time. 
 
