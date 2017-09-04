@@ -17,4 +17,4 @@ Storefront theme localization is very similar to [VirtoCommerce Platform localiz
 ## Adding new language to store
 1. Open your store in VirtoCommerce Platform ( **More → Browse → Stores → &lt;*your store*&gt;** ).
 2. Check whether your language exists in the "Additional languages" available values list or add it in case it's missing:
-![](../../../assets/images/docs/store-languages.png)
+![](../../../assets/images/docs/store-languages.gif)
