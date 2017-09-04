@@ -23,8 +23,8 @@ permalink: our-offers/enterprise-cloud-hosted
 	<ul class="list">
 		<li class="list-item">
 			<p class="roadmap-descr">
-			<br/><b>We know Virto Commerce</b>. Having managed and operated several large e-commerce websites ourselves for many years, we can now confidently state that we know all the secrets, tips, and tricks of online trade from our own experience!  We apply this knowledge in the development of the Virto Commerce, which is what makes our cloud e-commerce platform truly shine.</p>  
-			<p class="roadmap-descr">We are a global company dedicated to providing the best custom solutions for our partners and customers with our cloud e-commerce platform. Virto Commerce has module-based PaaS architecture, which gives your developers the freedom to scale and extend Virto Commerce in any way required for your business and to build any custom features you might need as well. </p>
+			<br/><b>We know Virto Commerce</b>. Having managed and operated several large e-commerce websites ourselves for many years, we can now confidently state that we know all the secrets, tips, and tricks of online trade from our own experience!  We apply this knowledge in the development of the Virto Commerce, which is what makes our cloud ecommerce platform truly shine.</p>  
+			<p class="roadmap-descr">We are a global company dedicated to providing the best custom solutions for our partners and customers with our cloud ecommerce platform. Virto Commerce has module-based PaaS architecture, which gives your developers the freedom to scale and extend Virto Commerce in any way required for your business and to build any custom features you might need as well. </p>
             <p class="roadmap-descr">Great performance, stability, security and minimum hassle – that’s what Virto Commerce is all about!
 			</p>
 			<div class="columns">
@@ -33,7 +33,7 @@ permalink: our-offers/enterprise-cloud-hosted
 						<ul class="list">
 							<li>
 								<span class="title">Software as a Service</span>
-								<span class="descr">When you chose to build your online store on our cloud e-commerce platform, you get to let go of all the hassle associated with its maintenance and upkeep. We take away care of everything, including uptime, regular maintenance, security, and updates, so you can focus on business features.</span>
+								<span class="descr">When you chose to build your online store on our cloud ecommerce platform, you get to let go of all the hassle associated with its maintenance and upkeep. We take away care of everything, including uptime, regular maintenance, security, and updates, so you can focus on business features.</span>
 							</li>
 							<li>
 								<span class="title">Source control</span>
@@ -43,7 +43,7 @@ permalink: our-offers/enterprise-cloud-hosted
 								<span class="title">
 									Backups
 								</span>
-								<span class="descr">With the Virto Commerce cloud e-commerce platform you never have to worry about data loss. We backup your site files and database in multiple locations, so you can always restore any missing data or roll back to any point in time in the past 30 days.</span>
+								<span class="descr">With the Virto Commerce cloud ecommerce platform you never have to worry about data loss. We backup your site files and database in multiple locations, so you can always restore any missing data or roll back to any point in time in the past 30 days.</span>
 							</li>
 						</ul>
 					</div>
