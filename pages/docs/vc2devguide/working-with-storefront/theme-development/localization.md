@@ -1,7 +1,7 @@
 ---
 aliases:
   - docs/vc2devguide/working-with-storefront/how-to-localize-storefront
-date: '2017-09-01'
+date: '2017-09-04'
 layout: docs
 title: 'How to localize theme'
 
