@@ -59,7 +59,7 @@ tags :
         <div class="block" style="margin-left: 25px">
             <h3>Top 5 B2B challenges and solutions</h3>
             <p class="text">
-                B2B ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
+                <a href="/glossary/what-is-b2b">B2B ecommerce</a> has specific business model and process challenges which require customized solutions or special <a href="/b2b-ecommerce-platform">software platform</a>. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
             </p>
             <a href="/download-b2b-whitepaper" >
                 <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;"/>
@@ -130,7 +130,7 @@ tags :
     <h3>Thermo Fisher Scientific</h3>
     <img alt="Thermo Fisher Scientific B2B ecommerce company" src="assets/images/TFS.png"></img>
       <p class="text">
-    Thermo Fisher Scientific is an American company that has evolved in 2006 as a result of merging the Thermo Electron with the Fisher Scientific. It provides laboratory and medical equipment used in scientific research all over the world. The company makes proper use of promotions and deals, offering seasonal discounts and special coupons to “Restock Your Lab.” The company is highly valued among biotechnological and pharmaceutical laboratories and corporations, colleges, universities, schools, research facilities, and hospitals. The company has expanded to more than 150 countries, having approximately over 350,000 customers and offering around 600,000 products and services. Its website is comprehensive and  is a good example of a B2B e-commerce site. 
+    Thermo Fisher Scientific is an American company that has evolved in 2006 as a result of merging the Thermo Electron with the Fisher Scientific. It provides laboratory and medical equipment used in scientific research all over the world. The company makes proper use of promotions and deals, offering seasonal discounts and special coupons to “Restock Your Lab.” The company is highly valued among biotechnological and pharmaceutical laboratories and corporations, colleges, universities, schools, research facilities, and hospitals. The company has expanded to more than 150 countries, having approximately over 350,000 customers and offering around 600,000 products and services. Its website is comprehensive and  is a good example of a <a href="/glossary/what-is-b2b">B2B e-commerce</a> site. 
     </p>
     <p class="text">
     These were the top 10 revolutionary B2B e-commerce sites that we think hold the biggest value to you and your business.
