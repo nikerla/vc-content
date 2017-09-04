@@ -51,7 +51,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
                     <img alt="Best B2B ecommerce platform" src="http://virtocommerce.com/admin/assets/site/features/b2b/organizations.png" />
                 </div>
                 <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
-                    In order to support multiple business processes e-Commerce platforms need to allow for the creation of secure organizational structures. Support of isolated entities allows B2B e-Commerce solutions to extend to business processes outside a given organization by combining partners, suppliers and vendors. Products and services can now be provided more efficiently through vendor/dealer and franchise networks.
+                    In order to support multiple business processes B2B eCommerce platforms need to allow for the creation of secure organizational structures. Support of isolated entities allows B2B e-Commerce solutions to extend to business processes outside a given organization by combining partners, suppliers and vendors. Products and services can now be provided more efficiently through vendor/dealer and franchise networks.
                     <p>
                         <a href="/our-offers/enterprise-edition">Virto Commerce</a> is the best <a href="/glossary/what-is-b2b">B2B ecommerce</a> platform with a broad variety of B2B-specific features including B2B-business critical:
                         <ul class="text">
