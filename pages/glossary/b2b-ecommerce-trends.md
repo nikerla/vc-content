@@ -84,7 +84,6 @@ tags :
             <img alt="B2B ecommerce trends" src="assets/images/multichannel.jpg" />
         </div>
     </div>
-    </div>
     <h2>B2B Ecommerce Trends in 2017</h2>
     <p class="text">Despite the fact that 2017 has just recently started, we can already point out some of the most prominent B2B eCommerce trends on the market. Following them is crucial in a rapidly-developing market, so let’s look into some of them. </p>
     <div class="col-w">
