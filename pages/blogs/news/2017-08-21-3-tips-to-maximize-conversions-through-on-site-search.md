@@ -3,7 +3,7 @@ category: virtocommerce-news
 date: '2017-08-21'
 permalink: blog/3-tips-to-maximize-conversions-through-on-site-search
 main-image: ../../assets/images/blog/3-tips-to-maximize-conversions-through-on-site-search.jpg
-excerpt: With the eCommerce world becoming increasingly saturated, retailers must make sure that their online stores exceed consumers’ expectations which means to be simple and easy to navigate for shoppers to successfully check out, and return for further purchases. 
+excerpt: This Black Friday and Cyber Monday, enhance your online store’s shopping experience and increase revenue by implementing these three simple tools.  
 tags:
 - virto commerce
 - ecommerce
