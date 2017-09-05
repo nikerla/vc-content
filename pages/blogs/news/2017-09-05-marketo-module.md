@@ -20,6 +20,6 @@ The great thing about this new addition is that it provides integration with [Ma
 
 The new module automatically creates and updates leads for you when contacts are created in Virto Commerce. This way no leads will ever get missed or lost in the everyday hassle. 
 
-You can download the module from our (GitHub Repository)[https://github.com/VirtoCommerce/vc-module-marketo], make sure to follow the installation guide provided.
+You can download the module from our [GitHub Repository](https://github.com/VirtoCommerce/vc-module-marketo), make sure to follow the installation guide provided.
 
 Once installed, simply go to Marketo module settings and configure <strong>*URL, Client Id*</strong> and <strong>*Client Secret*</strong> (you can get those values, using the guide provided with the module). Register new user on Virto Commerce storefront, then check Marketo leads database. New leads should appear there.
