@@ -76,6 +76,8 @@ tags :
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
         <p><strong>The customer experience is essential.</strong> The UX should be the primary focus for the retailers who sell their products at B2B marketplaces. Good UX helps with conversion of by passers on your web-store into loyal customers and promotes your website as one that is convenient to navigate. This B2B e-commerce trend plays a big role in differentiation and profitability, as buyers always demand for high-resolution product images, an exact description of the product, rich content, including many answers on F.A.Q.s, etc. Use your platform not only to sell products but to educate and inform buyers about the industry.</p>
+        </div>
+    </div>
     <div class="col __col-30">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
         <p><strong>Multichannel.</strong> There are two main sales models in the B2B industry. You may have your well-designed website and sell your product locally, but still not reach maximum profits. Allow your business to reach out to big platforms that connect thousands of manufacturers and are now becoming a vital place for the online presence for B2B sellers. Besides creating a responsive and perfectly-designed website, we highly recommend dedicating some time to Omni channeling your online presence as the marketplaces have become much more attractive to manufacturers, wholesalers, and distributors.</p>
