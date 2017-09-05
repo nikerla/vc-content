@@ -56,16 +56,33 @@ tags :
     <h2>The B2B ECommerce Trends of 2016</h2>
     <div class="col-w">
         <div class="col __col-30">
-            <img alt="B2B E-commerce trends" src="assets/images/b2becommerce.jpg" />
+            <img alt="B2B ecommerce trends" src="assets/images/technology-investments.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             <strong>Technology investments are set to grow.</strong> The latest development trends of B2B e-commerce marketplaces have made them a more favorable option for wholesalers, rather than retail stores. B2B companies have become robust and very adaptable to changes.  Let’s take the example of Virto Commerce e-commerce platform. It is very affordable and flexible to use. Investing in integration of platforms like this will allow your business to grow rapidly as well as give you the smoothest experience of expanding your outreach.
         </div>
     </div>
-    <div class="text">
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
         <p><strong>B2B e-commerce has gone mobile.</strong> One of the biggest B2B eCommerce trends of 2016 is the accessibility of marketplaces on mobile platforms. M-commerce is accessible to its customers and is now becoming a fast-growing platform. It is easy to use; the client can access the platform anytime and from anywhere, and place orders on his product quickly. On top of that, it does not take a lot of resources to open a mobile app for a platform.  As recent Frankwatching research suggests, around 52% of B2B customers prefer to buy their products using their smartphones. It represents half of  all clients and is a huge number to deal with. To provide the best experience for your customers, you need to invest in mobile research and marketing heavily. This trend will most likely continue to evolve in 2017 as more and more purchasing decisions will be made through a mobile device.</p>
+            </div>
+        <div class="col __col-30">
+            <img alt="B2B ecommerce trends" src="assets/images/mobile-ecommerce.jpg" />
+        </div>
+    </div>
+    <div class="col-w">
+        <div class="col __col-30">
+            <img alt="B2B ecommerce trends" src="assets/images/customer-service.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
         <p><strong>The customer experience is essential.</strong> The UX should be the primary focus for the retailers who sell their products at B2B marketplaces. Good UX helps with conversion of by passers on your web-store into loyal customers and promotes your website as one that is convenient to navigate. This B2B e-commerce trend plays a big role in differentiation and profitability, as buyers always demand for high-resolution product images, an exact description of the product, rich content, including many answers on F.A.Q.s, etc. Use your platform not only to sell products but to educate and inform buyers about the industry.</p>
+        <div class="col __col-30">
         <p><strong>Multichannel.</strong> There are two main sales models in the B2B industry. You may have your well-designed website and sell your product locally, but still not reach maximum profits. Allow your business to reach out to big platforms that connect thousands of manufacturers and are now becoming a vital place for the online presence for B2B sellers. Besides creating a responsive and perfectly-designed website, we highly recommend dedicating some time to Omni channeling your online presence as the marketplaces have become much more attractive to manufacturers, wholesalers, and distributors.</p>
+            </div>
+        <div class="col __col-30">
+            <img alt="B2B ecommerce trends" src="assets/images/multichannel.jpg" />
+        </div>
+    </div>
     </div>
     <h2>B2B Ecommerce Trends in 2017</h2>
     <p class="text">Despite the fact that 2017 has just recently started, we can already point out some of the most prominent B2B eCommerce trends on the market. Following them is crucial in a rapidly-developing market, so let’s look into some of them. </p>
