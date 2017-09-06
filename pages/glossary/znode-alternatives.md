@@ -45,7 +45,7 @@ tags :
     <h2>Big Cartel</h2>
     <div class="col-w">
         <div class="col __col-30">
-            <img alt="Magento Alternative - Shopify" src="assets/images/bigcartel.jpg" />
+            <img alt="Znode alternatives  - Big Cartel" src="assets/images/bigcartel.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             This Znode alternative is great for creating full-featured web stores that will suit your business needs. The platform is good for small businesses and enterprise level companies alike. It comes with a dashboard that has checklists for you to complete in order to launch your web store. This includes a logo, a theme, various templates to choose from, product listings, design features, pricing, shipping options and other settings. 
@@ -59,13 +59,13 @@ tags :
            This is the best platform for small stores that don’t have many products to put up. Basic plans start at $9 per month and allow you to post up to 10 products. 
            </div>
         <div class="col __col-30">
-            <img alt="Magento Alternative - Volusion" src="assets/images/sendowl.jpg" />
+            <img alt="Znode alternatives  - Send Owl" src="assets/images/sendowl.jpg" />
         </div>
     </div>
         <h2>Ecwid</h2>
     <div class="col-w">
         <div class="col __col-30">
-            <img alt="Magento Alternative - Shopify" src="assets/images/ecwid.jpg" />
+            <img alt="Znode alternatives  - Ecwid" src="assets/images/ecwid.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             This is also an outstanding platform among znode alternatives that will give you a chance to embed a web store into an existing website. This platform provides you with the maximum freedom and can be almost considered a full-on ecommerce store. Adding product listings, managing products and setting prices haven’t been any easier than that.  
@@ -81,13 +81,13 @@ tags :
           The platform allows you to manage multiple storefronts with a single account. And if you’re not satisfied with the available design templates (which are in fairness pretty limited), consider purchasing more from the store. 
           </div>
         <div class="col __col-30">
-            <img alt="Magento Alternative - Volusion" src="assets/images/prestashop.jpg" />
+            <img alt="Znode alternatives  - PrestaShop" src="assets/images/prestashop.jpg" />
         </div>
     </div>
         <h2>OpenCart </h2>
     <div class="col-w">
         <div class="col __col-30">
-            <img alt="Magento Alternative - Shopify" src="assets/images/opencart.jpg" />
+            <img alt="Znode alternatives  - OpenCart" src="assets/images/opencart.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             This Znode alternative is one of the most secure solutions out there due to its top-notch security protocols. It provides the much-needed reliability and has all the data handy about your website’s current state. 
@@ -102,7 +102,7 @@ tags :
            The Windows Cloud technology will also allow you to host it without any concerns whatsoever, ensuring the security of your site. Its ahead of the curve technology will allow you to set up a website in less than an hour, providing such incredible features as technical documentation, tech support, cloud hosting and excellent markup tools. Customize your website for any niche you want with flexible .NET 4.5 framework. This alternative to ZNODE is a truly remarkable website building tool.
            </div>
         <div class="col __col-30">
-            <img alt="Magento Alternative - Volusion" src="assets/images/virto-commerce-screen.jpg" />
+            <img alt="Znode alternatives  - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
         </div>
     </div>
 <div class="buttons">
