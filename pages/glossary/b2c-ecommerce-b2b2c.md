@@ -1,15 +1,15 @@
 ---
-title: B2B2C eCommerce - Definition| Glossary Virto Commerce.
-description: Build an online B2B2C ecommerce store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
+title: B2B2C eCommerce - Definition | Glossary Virto Commerce.
+description: What is B2B2C ecommerce? What does it mean? Learn more about the emerging B2B2C ecommerce model from our article.
 date: 2014-01-30
 canonical: https://virtocommerce.com/glossary/b2c-ecommerce-b2b2c
 permalink: glossary/b2c-ecommerce-b2b2c
 ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
-ogtitle: B2C&B2B2C eCommerce - Definition| Glossary Virto Commerce.
+ogtitle: B2C&B2B2C eCommerce - Definition | Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
-twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
+twitterdescription: What is B2B2C ecommerce? What does it mean? Learn more about the emerging B2B2C ecommerce model from our article.
 twitterimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 twittersite: Virtocommerce
 layout: glossary
@@ -29,7 +29,7 @@ tags :
         <div class="block" style="margin-left: 25px">
             <h3>Top 5 B2B challenges and solutions</h3>
             <p class="text">
-                B2B ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
+                B2B2C ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B2C ecommerce websites face and their best solutions.
             </p>
             <a href="/download-b2b-whitepaper" >
                 <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;"/>
