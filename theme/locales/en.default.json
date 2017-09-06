@@ -239,7 +239,8 @@
             "bulk-order": "Bulk Order",
             "ai": "AI",
             "product-recommendations": "Product Recommendations",
-            "websites-migration": "Websites Migration"
+            "websites-migration": "Websites Migration",
+            "marketo": "Marketo"
         },
         "categories": {
             "virtocommerce-news": "Virto Commerce News",
