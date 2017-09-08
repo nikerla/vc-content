@@ -42,7 +42,7 @@ tags :
             <img alt="Elastic Path Alternatives - Demandware" src="assets/images/demandware.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            Demandware offers the features of channel management and content management that Elastic path lacks. This Elastic Path alternative is also a SaaS platform, meaning you wouldn’t have to worry about maintaining its infrastructure. 
+            <a href="http://www.demandware.com/" rel="nofollow">Demandware</a> offers the features of channel management and content management that Elastic path lacks. This Elastic Path alternative is also a SaaS platform, meaning you wouldn’t have to worry about maintaining its infrastructure. 
             With Demandware’s vast template library you can easily build an eye-catching website and implement the best UX practices within it. With total control over the process of creating your web store that Demandware provides, there is no need to worry about technical aspects of the platform, like database management and networks. 
             </div>
         </div>
@@ -51,7 +51,7 @@ tags :
     <h2>Ecwid</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-           With this platform you can embed a personal web store into an already existing page, so you won’t need to go through the entire sophisticated process of setting it up yourself. The web store requires almost no technical experience, as the Ecwid’s builder is pretty intuitive. It also gives you the maximum amount of tools possible without limiting your creativity. 
+           With this platform you can embed a personal web store into an already existing page, so you won’t need to go through the entire sophisticated process of setting it up yourself. The web store requires almost no technical experience, as the <a href="https://www.ecwid.com/" rel="nofollow">Ecwid's</a> builder is pretty intuitive. It also gives you the maximum amount of tools possible without limiting your creativity. 
            </div>
         <div class="col __col-30">
             <img alt="Elastic Path Alternatives - Ecwid" src="assets/images/ecwid.jpg" />
@@ -67,7 +67,7 @@ tags :
             <img alt="Elastic Path Alternatives - Magento" src="assets/images/magento-1.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            If you are an enterprise company that has development resources, you should also consider Magento as another Elastic Path alternative. It offers enormous flexibility due to its open source code, customizability with Magento’s agile features, extensions, and plugins that expand your options, when it comes to your website’s functionality.  
+            If you are an enterprise company that has development resources, you should also consider <a href="https://magento.com/" rel="nofollow">Magento</a> as another Elastic Path alternative. It offers enormous flexibility due to its open source code, customizability with Magento’s agile features, extensions, and plugins that expand your options, when it comes to your website’s functionality.  
             </div>
         </div>
         <p class="text">
