@@ -1,4 +1,4 @@
-﻿---
+---
 date: '2014-01-30'
 permalink: b2b-ecommerce-platform
 tags:
@@ -48,7 +48,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 			<h2 class="sub-title">B2B eCommerce Platform: Security and Organization Management</h2>
             <div class="col-w">
                 <div class="col __col-50">
-                    <img alt="Best B2B ecommerce platform" src="http://virtocommerce.com/admin/assets/site/features/b2b/organizations.png" />
+                    <img alt="Best B2B ecommerce platform" src="/assets/images/organizations.png" />
                 </div>
                 <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
                     In order to support multiple business processes B2B eCommerce platforms need to allow for the creation of secure organizational structures. Support of isolated entities allows B2B e-Commerce solutions to extend to business processes outside a given organization by combining partners, suppliers and vendors. Products and services can now be provided more efficiently through vendor/dealer and franchise networks.
