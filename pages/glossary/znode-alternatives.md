@@ -48,7 +48,7 @@ tags :
             <img alt="Znode alternatives  - Big Cartel" src="assets/images/bigcartel.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            This Znode alternative is great for creating full-featured web stores that will suit your business needs. The platform is good for small businesses and enterprise level companies alike. It comes with a dashboard that has checklists for you to complete in order to launch your web store. This includes a logo, a theme, various templates to choose from, product listings, design features, pricing, shipping options and other settings. 
+            This Znode alternative is great for creating full-featured web stores that will suit your business needs. <a href="https://www.bigcartel.com/" rel="nofollow">The platform</a> is good for small businesses and enterprise level companies alike. It comes with a dashboard that has checklists for you to complete in order to launch your web store. This includes a logo, a theme, various templates to choose from, product listings, design features, pricing, shipping options and other settings. 
             The pricing is great for this type of ecommerce platform. You can post up to 5 product listings for free and from there offered plans start from $9.99 per month and allow you to post up to 300 product listings and items. 
         </div>
     </div>
@@ -56,7 +56,7 @@ tags :
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            If you already have a website, you can use this alternative to Znode to embed a web store into it. There is no need to build a full-fledged online store, just make product pages. This is the simplest way of creating an ecommerce store. There isn’t any switching required, you can easily change and vary the design of your pages. 
-           This is the best platform for small stores that don’t have many products to put up. Basic plans start at $9 per month and allow you to post up to 10 products. 
+           This is the <a href="https://www.sendowl.com/" rel="nofollow">best platform</a> for small stores that don’t have many products to put up. Basic plans start at $9 per month and allow you to post up to 10 products. 
            </div>
         <div class="col __col-30">
             <img alt="Znode alternatives  - Send Owl" src="assets/images/sendowl.jpg" />
@@ -69,13 +69,13 @@ tags :
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             This is also an outstanding platform among znode alternatives that will give you a chance to embed a web store into an existing website. This platform provides you with the maximum freedom and can be almost considered a full-on ecommerce store. Adding product listings, managing products and setting prices haven’t been any easier than that.  
-            The templates are robust and the platform creates the design for you. Publish your store in social networks and add it to your personal blog or website. The store will be clearly organized in categories with a search tool attached making it easy to explore the store’s options. With Ecwid, you can receive an entire ecommerce store embedded right into your personal website. 
+            The templates are robust and the platform creates the design for you. Publish your store in social networks and add it to your personal blog or website. The store will be clearly organized in categories with a search tool attached making it easy to explore the store’s options. With <a href="https://www.ecwid.com/" rel="nofollow">Ecwid</a>, you can receive an entire ecommerce store embedded right into your personal website. 
             </div>
     </div>
     <h2>PrestaShop</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-           PrestaShop is a hosted shopping cart solution that gives you an opportunity to launch an ecommerce store and have it hosted by the platform itself. 
+           <a href="https://www.prestashop.com/en" rel="nofollow">PrestaShop</a> is a hosted shopping cart solution that gives you an opportunity to launch an ecommerce store and have it hosted by the platform itself. 
            The best thing about it is its openness. The app is completely free and lets you use the vast variety of tools in the cloud, as well as on your local servers. 
            You can easily add popovers for customers to see your product options and browse through all of them in no time. It also comes with the filtered search option and email marketing possibilities that also provide detailed statistics about your website’s visitors and consumers.            
           The platform allows you to manage multiple storefronts with a single account. And if you’re not satisfied with the available design templates (which are in fairness pretty limited), consider purchasing more from the store. 
@@ -91,7 +91,7 @@ tags :
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             This Znode alternative is one of the most secure solutions out there due to its top-notch security protocols. It provides the much-needed reliability and has all the data handy about your website’s current state. 
-            With OpenCart you can explore more marketing opportunities and start optimizing the content of your web store. 
+            With <a href="https://www.opencart.com/" rel="nofollow">OpenCart</a> you can explore more marketing opportunities and start optimizing the content of your web store. 
             The community is very active and gives you the necessary support along the way of setting up your web store. The solution is very flexible in its usage, allowing you to have as much freedom as you need, while at the same time, having the most complicated processes already set up. Overall it’s an affordable all-in-one solution for all of your e-commerce needs with the possibility of web-hosting adaptation.  
         </div>
     </div>
