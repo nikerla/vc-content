@@ -47,7 +47,7 @@ tags :
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             While originally the main purpose of Wordpress is to be a social blogging software, when paired with Woocommerce it becomes a major Episerver alternative in the field of ecommerce. It is particularly great for small business owners because it offers free hosting with limited features. 
-            Wordpress can become a great tool for your content management because it can work with lots and lots of plugins. However, to uncover the full potential of Wordpress you would need to purchase the plan that will cost around $25 a month. 
+            <a href="https://wordpress.org/" rel="nofollow">Wordpress</a> Shopify</a> can become a great tool for your content management because it can work with lots and lots of plugins. However, to uncover the full potential of Wordpress you would need to purchase the plan that will cost around $25 a month. 
             </div>
         </div>
         <p class="text">
@@ -59,7 +59,7 @@ tags :
    <h2>Joomla</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-           The next Episerver competitor on the list is Joomla. This is an open-source content management system that helps promote products at marketplaces of various sizes and kinds. If you are a small or a medium-sized business owner, you may value Joomla more than Wordpress for its corporation-orientated approach and sophistication in every touch. 
+           The next Episerver competitor on the list is <a href="https://www.joomla.org/" rel="nofollow">Joomla</a>. This is an open-source content management system that helps promote products at marketplaces of various sizes and kinds. If you are a small or a medium-sized business owner, you may value Joomla more than Wordpress for its corporation-orientated approach and sophistication in every touch. 
            This is also another open-source platform that engages a large community of active web-developers and thus provides many plugins and add-ons to work with. 
            </div>
         <div class="col __col-30">
