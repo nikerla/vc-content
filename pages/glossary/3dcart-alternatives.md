@@ -42,7 +42,7 @@ tags :
             <img alt="3dCart alternatives - Shopify" src="assets/images/3dcart-alternatives-shopify.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            Shopify is one of the popular 3dcart competitors. It combines a convenient process of creating a store with having maximum control over it. 
+           <a href="https://ru.shopify.com/" rel="nofollow"> Shopify</a> is one of the popular 3dcart competitors. It combines a convenient process of creating a store with having maximum control over it. 
             The platform is valued by customers all over the world for its intuitive design and tremendous support base that is there to help whenever you need it. A wide variety of tools and extensions is also offered through Shopify’s unique AppStore to help you to broaden your website’s feature base. 
             </div>
         </div>
@@ -55,7 +55,7 @@ tags :
     <h2>Volusion </h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-           Another great alternative to 3dcart is Volusion. Just like the Shopify, it is also closed source shopping cart software. If you are tech savvy, this platform will impress you with its expandability and functionality. Lots of extensions and plugins are designed specifically to suit your most peculiar needs. 
+           Another great alternative to 3dcart is <a href="https://www.volusion.com/" rel="nofollow">Volusion</a>. Just like the Shopify, it is also closed source shopping cart software. If you are tech savvy, this platform will impress you with its expandability and functionality. Lots of extensions and plugins are designed specifically to suit your most peculiar needs. 
            The downside is in content marketing functionality (or rather lack of thereof) and design templates as Volusion does not offer many of those. 
            </div>
         <div class="col __col-30">
