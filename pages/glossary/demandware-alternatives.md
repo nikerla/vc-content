@@ -47,14 +47,14 @@ tags :
             </div>
         </div>
         <p class="text">
-        However, if you have experience with basic coding, you can create a fully customizable website that will suit any of your desires. In addition, for an extra cost, Magento is offering extensions and plugins that would make the process of creating your website even more enjoyable. </p>
+        However, if you have experience with basic coding, you can create a fully customizable website that will suit any of your desires. In addition, for an extra cost, <a href="https://magento.com/" rel="nofollow">Magento</a> is offering extensions and plugins that would make the process of creating your website even more enjoyable. </p>
         <p class="text">
         The customer support is another thing in which this Demandware alternative can take pride in. </p>
     <h2>Bigcommerce</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            This one can be considered a great alternative to any shopping cart software just like Volusion or Shopify. The only is its limited template base and poor feature set that does not appear to be sufficient for a platform of such a high level. 
-            It should be credited for the large how-tos and guidelines collection though. It can help any novice businessman start creating web stores with the available tools. The guidelines were created by licensed professionals who know exactly what steps to take when launching a website in a minimal amount of time. This makes Bigcommerce the most intuitive platform of all.
+            It should be credited for the large how-tos and guidelines collection though. It can help any novice businessman start creating web stores with the available tools. The guidelines were created by licensed professionals who know exactly what steps to take when launching a website in a minimal amount of time. This makes <a href="https://www.bigcommerce.com/" rel="nofollow">Bigcommerce</a> the most intuitive platform of all.
            </div>
         <div class="col __col-30">
             <img alt="Demandware alternatives - Bigcommerce " src="assets/images/demandware-alternatives-bigcommerce.jpg" />
@@ -69,7 +69,7 @@ tags :
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             A popular and reliable platform that will allow you to build a fully functional web store and won’t cost you an arm and a leg at the same time, while being appealing and intuitive. 
-            When it comes to User Interface the platform offers a great selection of tools to choose from. The other cool feature of Weebly is its content management software which allows you to manage your content, create a sub-blog and market your products directly online. 
+            When it comes to User Interface the platform offers a great selection of tools to choose from. The other cool feature of <a href="https://www.weebly.com/" rel="nofollow">Weebly</a> is its content management software which allows you to manage your content, create a sub-blog and market your products directly online. 
             </div>
         </div>
         <p class="text">
