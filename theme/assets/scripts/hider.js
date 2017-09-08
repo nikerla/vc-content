@@ -1,4 +1,4 @@
-﻿$(function () {
+$(function () {
 	var seoContent = {
 		"1": "VG8gbGVhcm4gbW9yZSBhYm91dCBFbnRlcnByaXNlIGVkaXRpb24gcHJpY2luZywgcGxlYXNlIGNvbXBsZXRlIHRoZSBicmllZiBmb3JtIGFuZCB3ZSB3aWxsIGJlIGluIGNvbnRhY3Qgd2l0aCB5b3Ugc2hvcnRseQ==",
 		"2": "UHJvZHVjdGlvbiBMaWNlbnNlIENvbW11bml0eSBFZGl0aW9uIG9mIFZpcnRvIENvbW1lcmNlIGlzIG9mZmVyZWQgZnJlZSBvZiBjaGFyZ2UNCmlmIHlvdSBtZWV0IHRoZSByZXF1aXJlbWVudHMgb2YgdGhlIENvbW11bml0eSBFZGl0aW9uIExpY2Vuc2UgKG1haW5seSByZXZlbnVlIHJlc3RyaWN0aW9uKQ=="
@@ -16,11 +16,15 @@
 		var type = id.substring(0, 4);
 		var key = id.substring(5, id.length);
 		switch (type) {
-			case "href":
-				$element.attr("href", Base64.decode(seoHrefs[key]));
+            case "href":
+                if (seoHrefs[key]) {
+                    $element.attr("href", Base64.decode(seoHrefs[key]));
+                }
 				break;
-			case "cont":
-				$element.html(Base64.decode(seoContent[key]));
+            case "cont":
+                if (seoContent[key]) {
+                    $element.html(Base64.decode());
+                }
 				break;
 		}
 	}
