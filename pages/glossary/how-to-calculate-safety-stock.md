@@ -1,6 +1,6 @@
 --- 
-title: How to calculate safety stock? 
-description: How to protect your business against unexpected incidents without upsetting customers and compromising your professional reputation? This is where calculating safety stock comes handy. Learn more about it in this article.
+title: How to calculate safety stock? Safety stock formula and calculation.
+description: How to protect your business against unexpected incidents without upsetting customers and compromising your professional reputation? This is where calculating safety stock comes handy. Learn more about safety stock formula and calculation in this article.
 date: 2017-08-22 
 canonical: https://virtocommerce.com/glossary/how-to-calculate-safety-stock
 permalink: glossary/how-to-calculate-safety-stock
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1>How to calculate safety stock?</h1>
+        <h1>How to calculate safety stock? Safety stock formula and calculation.</h1>
     </div>
     <img alt="How to calculate safety stock?" src="assets/images/how-to-calculate-safety-stock.jpg" />
     <p class="text">From the very safety stock definition, it’s clear that it’s an emergency stock meant to help you account for emergency circumstances, meaning anything that can make you run out of the product. Some examples are breakdowns of production machinery, any weather-related troubles affecting your stock or deliveries, unpredicted surges in your product’s popularity leaving your supplier unable to match demands…Basically, anything unexpected.</p>
