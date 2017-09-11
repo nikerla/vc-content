@@ -78,7 +78,7 @@ tags :
             <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
 		</div>
         <div style="text-align: center;">
-			<h2 class="sub-title">Our B2B customers about the platform</h2>
+			<h2 class="sub-title">Our customers about Virto Commerce ASP.Net shopping cart</h2>
 		</div>
 		<div class="our-offices __responsive" style="margin-top: 20px;">
 			<ul class="list">
