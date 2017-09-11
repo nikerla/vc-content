@@ -1,5 +1,5 @@
 --- 
-title: What is an SKU? SKU definition | Virto Commerce Glossary
+title: What is an SKU? SKU definition and meaning | Virto Commerce Glossary
 description: What does SKU mean? Why is it important for retail? Let’s look at what SKUs are mainly used for in this article.
 date: 2017-08-17 
 canonical: https://virtocommerce.com/glossary/what-is-sku
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">What is an SKU? SKU definition | Virto Commerce Glossary</h1>
+        <h1 class="title">What is an SKU? SKU definition and meaning</h1>
     </div>
     <img alt="What is an SKU and why is it important for retail?" src="assets/images/what-is-sku.jpg" />
     <h2>What is an SKU and why is it important for retail?</h2>

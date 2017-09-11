@@ -1,6 +1,6 @@
 --- 
-title: Znode alternatives 
-description: Znode is a great ecommerce platform with a wide range of opportunities, but there are some alternative solutions that you should check out. Learn more about it in this article.
+title: Znode alternatives and competitors
+description: Znode is a great ecommerce platform with a wide range of opportunities, but there are some alternative solutions and Znode competitors that you should check out. Learn more about it in this article.
 date: 2017-09-05
 canonical: https://virtocommerce.com/glossary/znode-alternatives
 permalink: glossary/znode-alternatives
@@ -40,7 +40,7 @@ tags :
     It also requires a lot of coding knowledge. Without it, you may not have access to the majority of its features. So, if you are not very tech savvy, you may want to consider a different ecommerce platform that still provides essential functionality while at the same time, doesn’t send your head spinning with lots of complicated technology. 
     </p>
     <p class="text">
-    If this is the case for you, here are some alternative solutions.
+    If this is the case for you, here are some alternative solutions and Znode competitors.
     </p>
     <h2>Big Cartel</h2>
     <div class="col-w">
