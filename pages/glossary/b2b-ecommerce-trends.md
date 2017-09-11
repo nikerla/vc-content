@@ -162,11 +162,11 @@ So adopt these B2B ecommerce trends to always stand on top of your game!</p>
             </div>
             <div class="post post-single">
                 <div class="post-inner">
-                    <div class="post-media" style="background-image: url('../../assets/images/b2becommerce.jpg');">
-                        <h3><a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}">B2B Ecommerce trends</a></h3>
+                    <div class="post-media" style="background-image: url('../../assets/images/blog/b2b-online-aftermath1.jpg');">
+                        <h3><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">B2B Online Aftermath</a></h3>
                     </div>
                     <div class="post-descr">
-                        In this article we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.<br /><a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}">Read more...</a>
+                        B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to share our impressions from this experience.<br /><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">Read more...</a>
                     </div>
                 </div>
             </div>
