@@ -1,6 +1,6 @@
 ﻿---
-title: NopCommerce alternative
-description:  NopCommerce is a popular open-source solution that offers its users an ability to create a customizable shopping cart and personalized front-end design of the product catalog.
+title: NopCommerce alternative and competitors
+description:  NopCommerce is a popular open-source solution that offers its users an ability to create a customizable shopping cart and personalized front-end design of the product catalog. What are the main NopCommerce competitors and alternatives?
 date: 2017-08-15
 canonical: https://virtocommerce.com/glossary/nopcommerce-alternative
 permalink: glossary/nopcommerce-alternative
@@ -42,6 +42,7 @@ tags:
             <li><strong> Open source vs. closed source.  </strong> This is a debate that has been held for too long, but it essentially comes down to one simple thing: if coding is a no-brainer to you, choose open-source and customize the store in any way you desire, but, if coding is not your primary skill, choose a closed source platform where most of the things will be done by the platform. Here is another thing to consider - open-source platforms are almost entirely free to any businesses, but, they lack security. On the other hand, closed-source solutions can get pricey, but they deliver top-notch security protocols to you.</p>
             <li><strong> Plugins and Addons. </strong> Always look for a solution that can be expanded by the plugins and add-ons easily. The platform should uncover your store’s true potential and add value to your products. </p>
             <li><strong> Technological literacy. </strong> If you are going to hire a professional web-developer to do this, you don’t have to worry about choosing an open source solution. If not, pick a sophisticated platform that for a good price will allow you to build your website without breaking a sweat. </p>
+            <p>Here are some of the most known NopCommerce competitors:</p>
             <h2>Wix</h2>
     <div class="col-w">
         <div class="col __col-30">
