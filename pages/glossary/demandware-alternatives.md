@@ -1,6 +1,6 @@
 --- 
-title: Demandware alternatives
-description: Demandware is definitely one of the best enterprise solutions on the market, it offers such features as channel management, multi-store management, inventory management and shopping cart, but just like any other platform, it has its downsides. So let's look at Demandware alternatives.
+title: Demandware alternatives and competitors
+description: Demandware is definitely one of the best enterprise solutions on the market, it offers such features as channel management, multi-store management, inventory management and shopping cart, but just like any other platform, it has its downsides. So let's look at Demandware alternatives and competitors.
 date: 2017-09-06
 canonical: https://virtocommerce.com/glossary/demandware-alternatives
 permalink: glossary/demandware-alternatives
@@ -23,7 +23,7 @@ tags :
     <div class="head __cart">
         <h1 class="title">Demandware alternatives</h1>
     </div>
-    <img alt="Demandware alternatives" src="assets/images/demandware-alternatives.jpg" />
+    <img alt="Demandware alternatives and competitors" src="assets/images/demandware-alternatives.jpg" />
     <p class="text">
     This is the platform that will allow you to focus on what matters most to you – selling your products or services online. With this particular solution, you get the ability to not only build an appealing and beautiful website but also focus on marketing and merchandising without any sweat. </p>
     <p class="text">
