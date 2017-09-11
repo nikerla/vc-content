@@ -1,4 +1,4 @@
-﻿---
+---
 title: Best ASP.NET shopping cart software - Free Community Edition
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
@@ -76,6 +76,28 @@ tags :
 		<div style="text-align: center;">
 			<iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
             <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
+		</div>
+        <div style="text-align: center;">
+			<h2 class="sub-title">Our B2B customers about the platform</h2>
+		</div>
+		<div class="our-offices __responsive" style="margin-top: 20px;">
+			<ul class="list">
+				<li class="list-item">
+					<div class="list-name" style="text-align: center;">Christoffer Iveslätt</div>
+					<div class="list-office" style="margin: 20px 0; text-align: center;">Marketing Manager at Belysningsdesign</div>
+					<div class="list-descr">"Our vision is to offer the best lighting on the market at an affordable price and to make sure that our customers will have a good user experience."</div>
+				</li>
+				<li class="list-item">
+					<div class="list-name" style="text-align: center;">Muhammed Usman</div>
+					<div class="list-office" style="margin: 20px 0; text-align: center;">Technical Project Manager on the VC ASP.Net Shopping Cart Project</div>
+					<div class="list-descr">"The Virto platform allowed to get started quickly towards our customized solution. The documentation and feedback from the VC team helped us get familiar with functionality, which made it easier to extend the codebase for our client's needs."</div>
+				</li>
+				<li class="list-item">
+					<div class="list-name" style="text-align: center;">Sergey Sinyugin</div>
+					<div class="list-office" style="margin: 20px 0; text-align: center;">CEO Kupinatao</div>
+					<div class="list-descr">"Using Virto Commerce ASP.Net Shopping Cart features helped us to create a sophisticated system of gathering, publishing and managing client reviews. This automation tool helps our clients to choose between millions of positions."</div>
+				</li>
+			</ul>
 		</div>
 		<div class="buttons columns" style="word-spacing: normal;">
 			<a class="button fill" href="/try-now">Try It Now</a>
