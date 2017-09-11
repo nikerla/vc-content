@@ -38,10 +38,10 @@ For you as a business owner this means that the initial costs as well as mainten
 If you are a small business, you may even qualify for free service with certain providers. <a class="crosslink" href="https://virtocommerce.com" target="_blank">Virto Commerce</a> for example, lets you get a fully featured enterprise class product completely free with a revenue restriction. That way you can start easy and upgrade your e-commerce platform once your business becomes a success.
 
 ## 2 - Less hassle for you and your IT staff
-<a href="/glossary/cloud-ecommerce">
+<a href="/glossary/cloud-ecommerce-solution">
 <img alt="Less hassle for you and your IT staff" src="../../assets/images/blog/shutterstock_411450706.jpg" />
 </a>
-Our <a href="/glossary/cloud-ecommerce">cloud e-commerce solution</a> is known for being very developer-friendly. Everything is configured to make you IT team’s experience working with it as easy and enjoyable as possible.
+Our <a href="/glossary/cloud-ecommerce-solution">cloud e-commerce solution</a> is known for being very developer-friendly. Everything is configured to make you IT team’s experience working with it as easy and enjoyable as possible.
 
 You leave it to the vendor to worry about the hardware and major software maintenance. There is no need for your team to re-invent features, as we have a lot of ready solutions with open source easily accessible code. Whichever obstacle you might face tweaking the system to your company’s needs, chances are we have already gone through it and are happy to share our solutions! 
 
