@@ -2,8 +2,8 @@
 title: What is business to business e commerce - B2B ecommerce definition | Glossary Virto Commerce.
 description: What is business to business e commerce. What does this business to business e-commerce type mean. B2B ecommerce examples and definition.
 date: 2017-03-13 
-canonical: https://virtocommerce.com/glossary/what-is-b2b 
-permalink: glossary/what-is-b2b
+canonical: https://virtocommerce.com/glossary/what-is-b2b-ecommerce
+permalink: glossary/what-is-b2b-ecommerce
 ogimage: https://virtocommerce.com/assets/images/vc_fb-2.jpg
 ogtitle: What is B2B e-commerce (business to business e commerce). Definition&Information | Glossary Virto Commerce.
 ogsitename: Virtocommerce
@@ -27,16 +27,16 @@ tags :
     <div class="blog b2b-e-commerce">
         <ul class="socials list" style="margin-top: 20px;">
             <li class="list-item fb">
-                <a class="list-link" href="https://www.facebook.com/sharer/sharer.php?u={{ '/glossary/what-is-b2b' | absolute_url }}" target="_blank"><i class="list-ico fa fa-facebook"></i></a>
+                <a class="list-link" href="https://www.facebook.com/sharer/sharer.php?u={{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}" target="_blank"><i class="list-ico fa fa-facebook"></i></a>
             </li>
             <li class="list-item plus">
-                <a class="list-link" href="https://plus.google.com/share?url={{ '/glossary/what-is-b2b' | absolute_url }}" target="_blank"><i class="list-ico fa fa-google-plus"></i></a>
+                <a class="list-link" href="https://plus.google.com/share?url={{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}" target="_blank"><i class="list-ico fa fa-google-plus"></i></a>
             </li>
             <li class="list-item tw">
-                <a class="list-link" href="https://twitter.com/intent/tweet?text={{ '/glossary/what-is-b2b' | absolute_url }}" target="_blank"><i class="list-ico fa fa-twitter"></i></a>
+                <a class="list-link" href="https://twitter.com/intent/tweet?text={{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}" target="_blank"><i class="list-ico fa fa-twitter"></i></a>
             </li>
             <li class="list-item in">
-                <a class="list-link" href="https://www.linkedin.com/shareArticle?mini=true&url={{ '/glossary/what-is-b2b' | absolute_url }}" target="_blank"><i class="list-ico fa fa-linkedin"></i></a>
+                <a class="list-link" href="https://www.linkedin.com/shareArticle?mini=true&url={{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}" target="_blank"><i class="list-ico fa fa-linkedin"></i></a>
             </li>
         </ul>
     </div>

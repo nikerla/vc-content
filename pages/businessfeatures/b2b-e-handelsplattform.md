@@ -42,7 +42,7 @@ tags:
 			<h2 class="sub-title">B2B e-handelsplattform: säkerhets och organisationshantering</h2>
             <div class="text">
                 <p>För att stödja flera verksamhetsprocesser behöver e-handelsplattformen möjliggöra skapandet av en säker organisationsstruktur. Stöd för isolerade entiteter gör att B2B e-handelslösningen kan brygga externa verksamhetsprocesser utanför sin egen organisation som till exempel till partners, leverantörer eller andra försäljningsställen. Produkter och tjänster kan effektivt och säkert erbjudas på externa plattformar.</p>
-                <p><a href="/our-offers/enterprise-edition">Virto Commerce</a> är den bästa <a href="/glossary/what-is-b2b">B2B</a> e-handelsplattformen med ett brett spectra av specifica B2B tjänster som till exempel</p>
+                <p><a href="/our-offers/enterprise-edition">Virto Commerce</a> är den bästa <a href="/glossary/what-is-b2b-ecommerce">B2B</a> e-handelsplattformen med ett brett spectra av specifica B2B tjänster som till exempel</p>
                 <ul>
                     <li>Flexibel katalogstruktur med virtuella och masterkataloger</li>
                     <li>Scope baserad säkerhet för kataloghantering</li>
@@ -193,10 +193,10 @@ tags:
 					<div class="post post-single">
 						<div class="post-inner">
 							<div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');">
-								<h3><a href="{{ '/glossary/what-is-b2b' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></h3>
+								<h3><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></h3>
 							</div>
 							<div class="post-descr">
-								Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.<br /><a href="{{ '/glossary/what-is-b2b' | absolute_url }}">Read more...</a>
+								Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.<br /><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">Read more...</a>
 							</div>
 						</div>
 					</div>

@@ -1,4 +1,4 @@
-﻿--- 
+--- 
 title: B2B ecommerce trends
 description: What are the main B2B Ecommerce trends in 2017? Learn more in our article.
 date: 2017-04-27 
@@ -153,10 +153,10 @@ So adopt these B2B ecommerce trends to always stand on top of your game!</p>
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');">
-                        <h3><a href="{{ '/glossary/what-is-b2b' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></h3>
+                        <h3><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></h3>
                     </div>
                     <div class="post-descr">
-                        Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.<br /><a href="{{ '/glossary/what-is-b2b' | absolute_url }}">Read more...</a>
+                        Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.<br /><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">Read more...</a>
                     </div>
                 </div>
             </div>

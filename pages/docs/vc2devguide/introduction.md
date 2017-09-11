@@ -1,4 +1,4 @@
-﻿---
+---
 title: Introduction
 description: Virto Commerce 2 is a major release and has been in development for over a year. It consists of Virto Commerce Platform and Virto Commerce Modules
 layout: docs
@@ -29,7 +29,7 @@ We decided to use the following stack of technologies:
 
 ## Architecture
 
-<a class="crosslink" href="https://virtocommerce.com/glossary/what-is-b2b" target="_blank">Platform and modules</a> are written using <a href="https://en.wikipedia.org/wiki/Domain-driven_design" rel="nofollow">DDD</a>, <a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)" rel="nofollow">SOLID</a>, <a href="https://en.wikipedia.org/wiki/Test-driven_development" rel="nofollow">Test Driven Development</a> methodologies. For a presentation layer, we use <a href="https://en.wikipedia.org/wiki/Model_View_ViewModel" rel="nofollow">MVVM</a> (thanks to AngularJS - the transition from WPF didn’t create any complications).
+<a class="crosslink" href="https://virtocommerce.com/glossary/what-is-b2b-ecommerce" target="_blank">Platform and modules</a> are written using <a href="https://en.wikipedia.org/wiki/Domain-driven_design" rel="nofollow">DDD</a>, <a href="https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)" rel="nofollow">SOLID</a>, <a href="https://en.wikipedia.org/wiki/Test-driven_development" rel="nofollow">Test Driven Development</a> methodologies. For a presentation layer, we use <a href="https://en.wikipedia.org/wiki/Model_View_ViewModel" rel="nofollow">MVVM</a> (thanks to AngularJS - the transition from WPF didn’t create any complications).
 
 ![Virto Commerce 2 Architecture](../../assets/images/docs/architecture-circle.png "Virto Commerce 2 Architecture")
 
