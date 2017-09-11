@@ -1,4 +1,4 @@
-﻿---
+---
 title: Our Services - Virto Commerce
 description: Our services
 date: 2014-01-30
@@ -30,7 +30,7 @@ tags :
                 <span class="small">Starts at</span>
                 <span class="big">$1,790</span> per month
             </div>
-            <a href="/our-offers/enterprise-cloud-hosted" class="button">Learn more</a>
+            <a href="/our-offers/cloud-ecommerce-platform" class="button">Learn more</a>
         </div>
         <div class="column">
             <h3>Self Hosted</h3>
