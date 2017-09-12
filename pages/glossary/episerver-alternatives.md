@@ -1,6 +1,6 @@
 --- 
-title: Episerver alternatives
-description: Episerver is a content management system that consistently brings intelligent optimization and personalization to its users and helps them achieve maximum impact with managing content wisely and delivering it through any mobile device, but like every platform out there, this one has its downsides. So let's look at Episerver alternatives.
+title: Episerver alternatives and competitors
+description: Episerver is a content management system that consistently brings intelligent optimization and personalization to its users and helps them achieve maximum impact with managing content wisely and delivering it through any mobile device, but like every platform out there, this one has its downsides. So let's look at Episerver alternatives and competitors.
 date: 2017-09-08
 canonical: https://virtocommerce.com/glossary/episerver-alternatives
 permalink: glossary/episerver-alternatives
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Episerver alternatives</h1>
+        <h1 class="title">Episerver alternatives and competitors</h1>
     </div>
     <img alt="Episerver alternatives" src="assets/images/episerver-alternatives.jpg" />
     <p class="text">

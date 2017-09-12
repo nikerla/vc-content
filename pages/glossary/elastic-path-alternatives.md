@@ -1,6 +1,6 @@
 --- 
-title: Elastic Path Alternatives
-description: Elastic Path platform offers a great ecommerce solution for the businesses that offer digital services online. It provides advanced features like personalized merchandising, product information management and native website builder that come right out of the box, but like every platform out there, this one has its downsides. So let's look at  Elastic Path alternatives.
+title: Elastic Path alternatives and competitors
+description: Elastic Path platform offers a great ecommerce solution for the businesses that offer digital services online. It provides advanced features like personalized merchandising, product information management and native website builder that come right out of the box, but like every platform out there, this one has its downsides. So let's look at  Elastic Path alternatives and competitors.
 date: 2017-09-08
 canonical: https://virtocommerce.com/glossary/elastic-path-alternatives
 permalink: glossary/elastic-path-alternatives
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Elastic Path Alternatives</h1>
+        <h1 class="title">Elastic Path alternatives and competitors</h1>
     </div>
     <img alt="Elastic Path Alternatives" src="assets/images/elastic-path-alternatives.jpg" />
     <p class="text">

@@ -1,6 +1,6 @@
 --- 
-title: 3dCart alternatives
-description: 3dCart is a hosted ecommerce platform that offers a wide variety of features, ranging from content management to store marketing and well beyond, but there are some downsides which might be an issue for your business, so have a look at some of the most prominent 3dcart alternatives. 
+title: 3dCart alternatives and competitors
+description: 3dCart is a hosted ecommerce platform that offers a wide variety of features, ranging from content management to store marketing and well beyond, but there are some downsides which might be an issue for your business, so have a look at some of the most prominent 3dcart alternatives and competitors. 
 date: 2017-09-06
 canonical: https://virtocommerce.com/glossary/3dcart-alternatives
 permalink: glossary/3dcart-alternatives
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">3dCart alternatives</h1>
+        <h1 class="title">3dCart alternatives and competitors</h1>
     </div>
     <img alt="3dCart alternatives" src="assets/images/3dcart-alternatives.jpg" />
     <p class="text">
@@ -63,7 +63,7 @@ tags :
             </div>
         </div>
         <p class="text">
-        What it does offer though is a vast knowledge base that can help you with all kinds of questions, as well as guide you through the process of creating your perfect store.  </p>
+        What this 3dcart alternative does offer though is a vast knowledge base that can help you with all kinds of questions, as well as guide you through the process of creating your perfect store.  </p>
         <p class="text">
         Just like other large ecommerce platforms (like Shopify and such), this one comes with a large price tag. There are also a lot of add-on fees that can sum up to a noticeable amount of money to pay for a small business owner. </p>
         <h2>Virto Commerce</h2>
