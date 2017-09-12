@@ -115,6 +115,8 @@ tags :
                 <p>Information management and promoting product usability are the key components of B2B marketing campaigns. An ecommerce software should provide a promotion service engine with powerful and easy to use tools to optimize your offers and drive conversions, as well as intuitive controls that can be used without in-depth training. Clear ticketing system, simple event and campaign creation, optimized content management and rapid order management are the groundwork for an online store. Stats tracking and reporting allow you to have an insight into the running of your B2B businesses online and to drive specific campaigns. You can’t control what you can’t measure. The monitoring of business metrics must be detailed and easily accessible.</p>
                 <p>Many <a href="{{ 'b2b-ecommerce-platform' | absolute_url }}">B2B ecommerce solutions and platforms</a> share similar practices while providing slightly different sets of features and functions. Before you invest it's always useful to research and examine the specific criteria that are vital to your business to business e-commerce model.</p>
                 <p>Virto Commerce business to business e commerce solution is built to support complex scenarios. The possibilities that this platform offers to meet the full specter of business requirements to succeed in a competitive market.</p>
+                </div>
+        </div>
                 <h2>What Is EDI and why is it useful for business to business ecommerce?</h2>
         <div class="col-w">
             <div class="col __col-20">
@@ -169,7 +171,6 @@ tags :
             <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
                 <h2>Average Order Value<h2>
                 <p>What is business to business e-commerce getting out of this one? This KPI will let you compare a customer’ average online order value with their offline spending helping you identify cross-selling and upselling opportunities and evaluate how well the online store is performing. </p>
-                 </div>
               </div>    
             </div>
         </div>
