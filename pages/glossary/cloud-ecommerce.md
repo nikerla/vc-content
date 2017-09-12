@@ -3,7 +3,7 @@ title: Cloud ecommerce solutions
 description: Cloud ecommerce solutions - IaaS, PaaS and SaaS models. The difference between various cloud-based application types.
 date: 2017-04-07
 canonical: https://virtocommerce.com/glossary/cloud-ecommerce-solution
-permalink: glossary/cloud-ecommerce
+permalink: glossary/cloud-ecommerce-solution
 ogtitle: Cloud ecommerce
 ogsitename: Virtocommerce
 twittercard: summary
