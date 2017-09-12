@@ -37,6 +37,24 @@ tags :
 				<a class="button" href="/contact-partner?pid=niteco" rel="nofollow">Contact partner</a>
 			</div>
 		</li>
+    		<li class="list-item">
+			<a href="https://bambit.ch/" class="list-pic" rel="nofollow">
+				<img style="max-width: 120px;" alt="" src="../assets/images/vendors/bambit-logo.png">
+			</a>
+			<div class="list-info">
+				<a href="https://bambit.ch/" class="link" rel="nofollow">Bambit</a>
+				<p class="country">Switzerland</p>
+				<p class="lang">Languages Spoken: English, German, French</p>
+				<p class="text">bambit transforms ideas into software. As a software company from Switzerland we build outstanding E-Commerce Solutions for our customers. <br><br>
+ 
+Our mission is to enable our clients to accomplish and excel their E-Commerce visions in less time and effort. This means understanding their business as deeply as technology. Our employees are long term E-Commerce, Software- and Microsoft-Specialists. <br><br>
+ 
+You can expect a comprehensive range of services from our team and our network: e-commerce consulting, business analysis, requirement engineering, solution architecture, design, usability, software development and project management. <br><br>
+ 
+We operate in Switzerland and some other parts of Europe.</p>
+				<a class="button" href="/contact-partner?pid=bambit" rel="nofollow">Contact partner</a>
+			</div>
+		</li>
 	</ul>
 </div>
 {% include 'technologies' %}
