@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Demandware alternatives</h1>
+        <h1 class="title">Demandware alternatives and competitors</h1>
     </div>
     <img alt="Demandware alternatives and competitors" src="assets/images/demandware-alternatives.jpg" />
     <p class="text">
