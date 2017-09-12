@@ -116,24 +116,61 @@ tags :
                 <p>Many <a href="{{ 'b2b-ecommerce-platform' | absolute_url }}">B2B ecommerce solutions and platforms</a> share similar practices while providing slightly different sets of features and functions. Before you invest it's always useful to research and examine the specific criteria that are vital to your business to business e-commerce model.</p>
                 <p>Virto Commerce business to business e commerce solution is built to support complex scenarios. The possibilities that this platform offers to meet the full specter of business requirements to succeed in a competitive market.</p>
                 <h2>What Is EDI and why is it useful for business to business ecommerce?</h2>
+        <div class="col-w">
+            <div class="col __col-20">
+                <img alt="What Is EDI" src="assets/images/electronic-data-interchange.png" width="120" />
+            </div>
+            <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
                 <p>EDI (stands for electronic data interchange) is a paperless highly efficient way to send various documents between companies (such as purchase orders and invoices). EDI lets businesses exchange information using a standardized format. It is generally used to help streamline the communication and build efficient workflow between a manufacturer and its supply chain.</p>
                 <p>In retail industry, EDI helps cut costs while still maintaining a high level of customer service. </p>
                 <p>EDI is not to be confused with a web store, however. Just like business to consumer and business to business e-commerce platforms, EDI and web stores serve different purposes. EDI is a more efficient way to handle communication between organizations regarding the recurring orders of standard goods, while a web store is more efficient when it comes to incidental purchases that do not need to be fully automated. Web stores are usually better for promoting new products to clients and exploring cross-selling and upselling options.</p>
+                 </div>
+        </div>
+        <div class="col-w">
+            <div class="col __col-20">
+                <img alt="Integrated e-commerce" src="assets/images/integrated-b2b-ecommerce.png" width="120" />
+            </div>
+            <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
                 <h2>The benefits of Integrated B2B E-Commerce connected to ERP</h2>
                 <p>Integrated e-commerce is a system organization that uses business logic and data from your ERP (and potentially other systems) to increase the performance of your online store. </p>
                 <p>Integrated web store software dips directly into your ERP system, which helps avoid complex connections and enables it to gather data directly offering a number of important benefits, such as:</p>
                 <p>•	Product catalog, that updates automatically and is always current</p>
                 <p>•	Custom pricing options</p>
                 <p>•	Drastically reduced possibility of human error during order processing </p>
+                 </div>
+        </div>
+        <div class="col-w">
+            <div class="col __col-20">
+                <img alt="Product information management" src="assets/images/product-information-management.png" width="120" />
+            </div>
+            <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
                 <h2>What is PIM and how is it beneficial for your business to business e commerce system?</h2>
                 <p>PIM systems enrich ERP product data by categorizing and unifying product data. The result can be used in your business to business in ecommerce in order to make sure your product pages provide complete and comprehensive data.</p>
                 <p>Product information management (PIM) systems give a huge advantage for B2B ecommerce stores by allowing them to provide more detailed product specifications.</p>
+                 </div>
+        </div>
                 <h2>What are b2b e commerce KPIs?</h2>
                 <p>KPIs are meant to give you an idea of how well your B2B online shopping cart platform is performing. Revenue is always a good indicator, but it’s not the only one - there are several KPIs that help ensure you’re on the right path. Below are a few examples:</p>
+                 </div>
+        </div>
+        <div class="col-w">
+            <div class="col __col-20">
+                <img alt="Online Customer Retention Rate" src="assets/images/online-customer-retention-rate.png" width="120" />
+            </div>
+            <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
                 <h2>Online Customer Retention Rate</h2>
                 <p>A high number of returning visitors is a clear sign that your web store is meeting your clients’ demands! This KPI shows how well your B2B online store is performing in regards to customer experience. </p>
+                 </div>
+        </div>
+        <div class="col-w">
+            <div class="col __col-20">
+                <img alt="Average Order Value" src="assets/images/average-order-value.png" width="120" />
+            </div>
+            <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
                 <h2>Average Order Value<h2>
                 <p>What is business to business e-commerce getting out of this one? This KPI will let you compare a customer’ average online order value with their offline spending helping you identify cross-selling and upselling opportunities and evaluate how well the online store is performing. </p>
+                 </div>
+              </div>    
             </div>
         </div>
     </div>
