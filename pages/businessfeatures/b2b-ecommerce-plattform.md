@@ -45,9 +45,9 @@ tags:
                 <p>Um verschiedene Geschäftsprozesse zu unterstützen, brauchen eCommerce Plattformen Funktionen um organisatorische Strukturen abzubilden. Durch die Unterstützung von isolierten Entitäten ermöglichen B2B eCommerce Lösungen organisationsübergreifende Prozesse abzubilden, die auch Partner, Lieferanten und Verkäufer involvieren. Anhand von Käufer/Verkäufer- und FranchiseNetzwerke können Produkte und Dienstleistungen noch effizienter zur Verfügung gestellt werden.</p>
                 <p><a href="/our-offers/enterprise-edition">Virto Commerce</a> ist die beste <a href="/glossary/what-is-b2b">B2B ecommerce</a> Plattform mit einer Vielzahl an B2B spezifischen Funktionalitäten:</p>
                 <ul>
-                    <li>Flexible Produktkatalogtaxonomien mit der Unterstützung von mehreren Katalogen</li>
-                    <li>Granulare Einstellungsmöglichkeiten für Sicherheitsaspekte</li>
-                    <li>Unterstützung für digitale Preisangebote und kundenspezifische Preislisten</li>
+                    <li>- Flexible Produktkatalogtaxonomien mit der Unterstützung von mehreren Katalogen</li>
+                    <li>- Granulare Einstellungsmöglichkeiten für Sicherheitsaspekte</li>
+                    <li>- Unterstützung für digitale Preisangebote und kundenspezifische Preislisten</li>
                 </ul>
                 <p>Werfen Sie einen Blick auf unsere flexible Preis-Engine, welche eine dynamische Personalisierung für Vertriebspartner, Grosshändler und Einzelhändler anbietet. Weiter können Preise basierend auf Kundengruppen, Kampagnen, Einkaufsverhalten, geografische Regionen, Vertragskonditionen und weitere formen B2B-Beziehungen angepasst werden.</p>
                 <p>Testen Sie VirtoCommerce jetzt und entdecken Sie die fantastischen Vorteile, die unsere B2B ECommerce Software zur Verfügung stellt.</p>
@@ -55,7 +55,7 @@ tags:
 		</div>
         <div class="apps">
             <div style="border-bottom: 1px solid #000; margin-top: 40px; padding-bottom: 50px; text-align: center;">
-				<h2 class="sub-title">Bästa b2b e-handelsplattform Integrations</h2>
+				<h2 class="sub-title">Die besten B2B eCommerce Plattform Integrations</h2>
 			</div>
             <div class="items __responsive" style="margin-top: 0;">
                 <div class="list __items __inline">
@@ -122,7 +122,7 @@ tags:
         </div>
 		<div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">
 			<div style="margin-top: 40px; text-align: center;">
-				<h2 class="sub-title">Latest posts from our Enterprise B2B eCommerce Blog</h2>
+				<h2 class="sub-title">Die neuesten Beiträge aus unserem Enterprise B2B eCommerce Blog</h2>
 			</div>
 			<div class="trending __responsive">
 				<div class="trending-list">
@@ -161,7 +161,7 @@ tags:
 		</div>
         <div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">
 			<div style="margin-top: 40px; text-align: center;">
-				<h2 class="sub-title">Best articles from our B2B eCommerce Glossary</h2>
+				<h2 class="sub-title">Die besten Artikel aus unserem B2B eCommerce Glossar</h2>
 			</div>
 			<div class="trending __responsive">
 				<div class="trending-list">
