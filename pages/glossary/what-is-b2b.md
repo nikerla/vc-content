@@ -131,9 +131,9 @@ tags :
                 <h2>What are b2b e commerce KPIs?</h2>
                 <p>KPIs are meant to give you an idea of how well your B2B online shopping cart platform is performing. Revenue is always a good indicator, but it’s not the only one - there are several KPIs that help ensure you’re on the right path. Below are a few examples:</p>
                 <h2>Online Customer Retention Rate</h2>
-            <p>A high number of returning visitors is a clear sign that your web store is meeting your clients’ demands! This KPI shows how well your B2B online store is performing in regards to customer experience. </p>
-            <h2>Average Order Value<h2>
-                <p>What is business to business e-commerce getting out of this one? This KPI will let you compare a customer’ average online order value with their offline spending helping you identify cross-selling and upselling opportunities and evaluate how well the online store is performing.  </p>
+                <p>A high number of returning visitors is a clear sign that your web store is meeting your clients’ demands! This KPI shows how well your B2B online store is performing in regards to customer experience. </p>
+                <h2>Average Order Value<h2>
+                <p>What is business to business e-commerce getting out of this one? This KPI will let you compare a customer’ average online order value with their offline spending helping you identify cross-selling and upselling opportunities and evaluate how well the online store is performing. </p>
             </div>
         </div>
     </div>
