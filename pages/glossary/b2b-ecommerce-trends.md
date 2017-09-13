@@ -45,7 +45,7 @@ tags :
     <h2>Top 5 B2B challenges and solutions</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            B2B ecommerce has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
+            <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">B2B ecommerce</a> has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
         </div>
         <div class="col __col-30">
             <a href="/download-b2b-whitepaper">
@@ -93,7 +93,7 @@ tags :
             <img alt="Omni-channel customer care" src="assets/images/omni-channel.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            <strong>Omni-channel customer care.</strong> Following the trend of great customer experience that was present in 2016, omnichannel customer care has appeared. The customer service that was present only via e-mails is now totally unacceptable. B2B customers require even more attention than B2C ones and to provide that, websites need to have online customer service chats, the availability of web calls and focus on individual customer experience. This includes optimizing navigation for customer’s needs, adding search filters and other helpful perks. Smartly personalized B2B buying experience will be the way to go for the vendors.
+            <strong>Omni-channel customer care.</strong> Following the trend of great customer experience that was present in 2016, omnichannel customer care has appeared. The customer service that was present only via e-mails is now totally unacceptable. B2B customers require even more attention than <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C</a> ones and to provide that, websites need to have online customer service chats, the availability of web calls and focus on individual customer experience. This includes optimizing navigation for customer’s needs, adding search filters and other helpful perks. Smartly personalized B2B buying experience will be the way to go for the vendors.
         </div>
     </div>
     <div class="col-w">
