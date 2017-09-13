@@ -37,13 +37,13 @@ tags :
     </p>
     <h2>B2C commerce challenges</h2>
     <p class="text">
-        There is much more competition and higher demands from the customers in B2C ecommerce then in the business-to-business model. Taking a closer look at the B2C store success recipe, we can highlight the following factors.
+        There is much more competition and higher demands from the customers in B2C ecommerce then in the <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">business-to-business model</a>. Taking a closer look at the B2C store success recipe, we can highlight the following factors.
     </p>
     <ul>
         <li>Consumer traffic</li>
     </ul>
     <p class="text">
-        If Google, Bing, or Yahoo! do not know your name, you do not exist. Search engine marketing and optimization are the lifeblood of any online business. The usual consumer behavior's is to transition to a link from the first or second page of search results. A B2C website must be optimized to attract traffic; its very structure, architecture, and content management system must work for you since its creation. That is why the choice of a website platform is vital for the success.
+        If Google, Bing, or Yahoo! do not know your name, you do not exist. Search engine marketing and optimization are the lifeblood of any online business. The usual consumer behavior's is to transition to a link from the first or second page of search results. A B2C website must be optimized to attract traffic; its very structure, architecture, and content management system must work for you since its creation. That is why the choice of a website <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}">platform</a> is vital for the success.
     </p>
     <ul>
         <li> Payment processing </li>
