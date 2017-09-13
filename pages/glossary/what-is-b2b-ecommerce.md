@@ -167,7 +167,7 @@ tags :
                 <img alt="Average Order Value" src="assets/images/average-order-value.png" width="120" />
             </div>
             <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
-                <h2>Average Order Value<h2>
+                <h2>Average Order Value</h2>
                 <p>What is business to business e-commerce getting out of this one? This KPI will let you compare a customer’ average online order value with their offline spending helping you identify cross-selling and upselling opportunities and evaluate how well the online store is performing.</p>
             </div>
         </div>
