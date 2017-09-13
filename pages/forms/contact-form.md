@@ -17,7 +17,7 @@ tags :
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-{% form 'contact' %}
+<form action="" method="post" accept-charset="UTF-8" id="contact">
 <input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Us" />
 <input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
 <div class="column">
@@ -64,7 +64,7 @@ tags :
 					<div class="control-group">
 						<button type="submit" class="button fill" tabindex="11">Submit Request</button>
 					</div>
-{% endform %}
+</form>
 </div>
 		</div>
 		<div class="column">

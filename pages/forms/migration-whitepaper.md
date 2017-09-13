@@ -9,7 +9,7 @@ permalink: migration-whitepaper
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form action="{{ '/contact' | absolute_url }}" method="post">
+				<form method="post">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Whitepaper Download" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/assets/files/whitepaper-ecommerce-platform-migration-problems.pdf" />
 					<div class="column">
