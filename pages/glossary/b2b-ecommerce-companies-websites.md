@@ -52,7 +52,7 @@ tags :
         Nowadays, B2B e-commerce sites keep gaining popularity. Using business-to-business e-commerce sites (or b2b portals) is becoming more favorable for B2B e commerce companies that do not want to deal with expensive and complicated EDI (Electronic Data Interchange) data exchange systems. The most important thing for them is to connect with small suppliers. When using business to business e-commerce websites, small businesses have a chance to compete with the larger companies. B2B <a href="/glossary/ecommerce-platforms">platforms</a> are valued for their usability and include various solutions for the suppliers, as well as for the customers. 
     </p>
         <p class="text">
-        There has been a drastic shift in the e-commerce from B2C (business to consumer) to B2B. B2B e-commerce sites are more complex and contain way more features than B2C. In this article, we would like to present you the top B2B e commerce sites.
+        There has been a drastic shift in the e-commerce from <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C (business to consumer)</a> to B2B. B2B e-commerce sites are more complex and contain way more features than B2C. In this article, we would like to present you the top B2B e commerce sites.
     </p>
     </div>
     <div class="col __col-30">
