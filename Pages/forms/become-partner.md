@@ -14,7 +14,7 @@ tags :
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form action="{{ '/contact' | absolute_url }}" method="post">
+				<form method="post">
 					<input type="hidden" name="Contact[Subject]" value="Become a partner" />
 					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-partner' />
 					<div class="column">
