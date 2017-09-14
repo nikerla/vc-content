@@ -31,6 +31,7 @@ tags :
     <h2>Calculating safety stock formula - inventory equation</h2>
     <p class="text"></p>
     <h4>How to calculate safety stock?</h4>
+    <p class="text">
     Safety stock calculation is not rocket science really. You just need to have your purchase and sales orders history handy. Once you do, use this simple safety stock formula, also known as “inventory equation”:</p>  
     <p class="text"><strong>Safety stock = (Maximum daily usage * Maximum lead time in days) – (Average daily usage * Average lead time in days).</strong></p>
     <p class="text">
