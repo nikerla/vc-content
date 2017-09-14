@@ -75,7 +75,7 @@ tags :
     <h2>PrestaShop</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-           <a href="https://www.prestashop.com/en" rel="nofollow">PrestaShop</a> is a hosted shopping cart solution that gives you an opportunity to launch an ecommerce store and have it hosted by the platform itself. 
+           <a href="https://www.prestashop.com/en" rel="nofollow">PrestaShop</a> is a <a href="{{ '/glossary/hosted-shopping-cart' | absolute_url }}">hosted shopping cart</a> solution that gives you an opportunity to launch an ecommerce store and have it hosted by the platform itself. 
            The best thing about it is its openness. The app is completely free and lets you use the vast variety of tools in the cloud, as well as on your local servers. 
            You can easily add popovers for customers to see your product options and browse through all of them in no time. It also comes with the filtered search option and email marketing possibilities that also provide detailed statistics about your website’s visitors and consumers.            
           The platform allows you to manage multiple storefronts with a single account. And if you’re not satisfied with the available design templates (which are in fairness pretty limited), consider purchasing more from the store. 
