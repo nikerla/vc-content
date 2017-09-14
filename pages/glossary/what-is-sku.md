@@ -26,7 +26,7 @@ tags :
     <img alt="What is an SKU and why is it important for retail?" src="assets/images/what-is-sku.jpg" />
     <h2>What is an SKU and why is it important for retail?</h2>
     <p class="text">
-    The SKU abbreviation stands for Stock Keeping Unit. It is a term commonly used in retail, specifically when talking about inventory management. Setting up and managing inventory with SKUs is a crucial part of the sales process for any retail business. 
+    The SKU abbreviation stands for Stock Keeping Unit. It is a term commonly used in retail, specifically when talking about <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">inventory management</a>. Setting up and managing inventory with SKUs is a crucial part of the sales process for any retail business. 
     </p>  
     <p class="text">
     Any company that has to deal with managing inventory knows how important it is to have it set up correctly. The proper setup of SKU means having all items tracked accurately.
@@ -44,7 +44,7 @@ tags :
     </p>
     <h2>Stock-takes</h2>
     <p class="text">
-    What are SKUs primarily used for when it comes to stock-takes? Every product variation in a warehouse needs to have its own unique SKU, meaning a business would use a different code for every item in stock. Stock-takes are performed to make sure that the stock levels of the warehouse and of the inventory management system don’t have any discrepancies. The use of SKU productivity definition makes keeping track of the stock levels an easy and straight forward process.
+    What are SKUs primarily used for when it comes to stock-takes? Every product variation in a warehouse needs to have its own unique SKU, meaning a business would use a different code for every item in stock. Stock-takes are performed to make sure that the stock levels of the warehouse and of the inventory management system don’t have any discrepancies. The use of SKU productivity definition makes keeping track of the <a href="{{ '/glossary/how-to-calculate-safety-stock' | absolute_url }}">stock levels</a> an easy and straight forward process.
     </p>
     <h2>Missing Items</h2>
     <p class="text">
