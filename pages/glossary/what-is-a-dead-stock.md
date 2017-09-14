@@ -63,7 +63,7 @@ tags :
     </p>
     <h2>How to avoid acquiring more dead stock?</h2>
     <p class="text">
-    Now that you’ve managed to get rid of all the dead stock from your warehouse, the next step is trying to avoid accumulating more. This is where good Inventory management software comes in handy. It will provide better visibility of stock movements and allow to keep track of how well your different SKU s are performing. So, when something is not selling well, you would be able to catch it and take action right away!
+    Now that you’ve managed to get rid of all the dead stock from your warehouse, the next step is trying to avoid accumulating more. This is where good <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">Inventory management</a> software comes in handy. It will provide better visibility of stock movements and allow to keep track of how well your different <a href="{{ '/glossary/what-is-sku' | absolute_url }}">SKU s</a> are performing. So, when something is not selling well, you would be able to catch it and take action right away!
     </p>
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
