@@ -42,7 +42,7 @@ tags :
     <p class="text">Once you reach a point of having too many backorders to effectively fulfill them, using spreadsheets won’t be enough anymore. At this stage, you might want to consider getting a proper <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">inventory management</a> system  that will automatically consolidate and track back orders for you.</p>
     <h2>The best customer service practices when dealing with backorders</h2>
     <p class="text"></p>
-    <h3>What is a back order supposed to accomplish?</h3>
+    <h4>What is a back order supposed to accomplish?</h4>
     <p class="text">
     Offering to get products backordered means increased sales and more customers. However, it is important to remember what backorder is  - you are essentially asking your customers to pay for a product in advance. Naturally, they’ll be worried and expecting regular updates. So, timely communication is absolutely essential!</p>
     <p class="text">
