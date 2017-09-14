@@ -39,7 +39,7 @@ tags :
     <p class="text"> 1. make sure all the sale orders with items on backorder are accurately recorded</p>
     <p class="text"> 2. place a purchase order for these items with the supplier</p>
     <p class="text"> 3. upon re-stocking, go through all the recorded sales orders to match these to the correct purchase order</p>
-    <p class="text">Once you reach a point of having too many backorders to effectively fulfill them, using spreadsheets won’t be enough anymore. At this stage, you might want to consider getting a proper inventory management system  that will automatically consolidate and track back orders for you.</p>
+    <p class="text">Once you reach a point of having too many backorders to effectively fulfill them, using spreadsheets won’t be enough anymore. At this stage, you might want to consider getting a proper <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">inventory management</a> system  that will automatically consolidate and track back orders for you.</p>
     <h2>The best customer service practices when dealing with backorders</h2>
     <p class="text">
     Offering to get products backordered means increased sales and more customers. However, it is important to remember that in the case of a backorder you are essentially asking your customers to pay for a product in advance. Naturally, they’ll be worried and expecting regular updates. So, timely communication is absolutely essential!</p>
