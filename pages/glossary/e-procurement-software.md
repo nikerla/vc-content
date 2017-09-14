@@ -22,7 +22,7 @@ tags :
         <h1 class="title">E procurement software system</h1>
     </div>
     <p class="text">E-procurement, also known as supplier exchange, is the term used to describe the process of obtaining goods and services through the internet.</p>
-    <p class="text">E-procurement systems for B2C, B2B, and B2G are generally provided as a side service by large ERP (enterprise resource planning) providers or as an e-procurement software by focused vendors.</p>
+    <p class="text">E-procurement systems for <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C</a>, <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">B2B</a>, and B2G are generally provided as a side service by large ERP (enterprise resource planning) providers or as an e-procurement software by focused vendors.</p>
     <p class="text">Traditional supplies procurement involves physical paper-tracked operations. Today, the Internet evolved to an essential commerce channel and the e-procurement system with the use of web-based solutions is going online. E-procurement solutions are intended to optimize supply chain mechanisms and automate business processes, such as order processing. Among other benefits is significant potential for relationship building between a customer and a seller.</p>
     <h2 class="sub-title">Procurement tools and solutions</h2>
     <img alt="e procurement software" src="assets/images/epcm-process-software.jpg"></img>
