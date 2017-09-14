@@ -42,7 +42,7 @@ tags :
             <img alt="ElasticPath Alternatives - Demandware" src="assets/images/demandware.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            <a href="http://www.demandware.com/" rel="nofollow">Demandware</a> offers the features of channel management and content management that Elasticpath lacks. This Elasticpath alternative is also a SaaS platform, meaning you wouldn’t have to worry about maintaining its infrastructure. 
+            <a href="http://www.demandware.com/" rel="nofollow">Demandware</a> offers the features of channel management and content management that Elasticpath lacks. This Elasticpath alternative is also a <a href="{{ '/glossary/saas-ecommerce' | absolute_url }}">SaaS platform</a>, meaning you wouldn’t have to worry about maintaining its infrastructure. 
             With Demandware’s vast template library you can easily build an eye-catching website and implement the best UX practices within it. With total control over the process of creating your web store that Demandware provides, there is no need to worry about technical aspects of the platform, like database management and networks. 
             </div>
         </div>
@@ -82,9 +82,9 @@ tags :
             </div>
         </div>
         <p class="text">
-        This platform can be used by any kind of business of any size. Whether it is a small one or an enterprise-level company, the platform will provide the necessary functionality and some nifty additional features relevant to your field. </p>
+        <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">This platform</a> can be used by any kind of business of any size. Whether it is a small one or an enterprise-level company, the platform will provide the necessary functionality and some nifty additional features relevant to your field. </p>
         <p class="text">
-        The simplicity of the platform’s user interface and its agile technologies will allow you to market your business quickly and without a breaking a sweat. After creating your store, you can deploy it using reliable and secure Microsoft Cloud and scale it with sophisticated multichanneling solutions that other Elastic Path alternatives lack. </p>
+        The simplicity of the platform’s user interface and its <a href="{{ '/glossary/agile-software-platform' | absolute_url }}">agile technologies</a> will allow you to market your business quickly and without a breaking a sweat. After creating your store, you can deploy it using reliable and secure Microsoft Cloud and scale it with sophisticated multichanneling solutions that other Elastic Path alternatives lack. </p>
         <p class="text">
         Its flexible pricing lets you save greatly in the long run by. And the way its functionality is built allows your business to achieve great customer satisfaction and increase conversion rates without hiring any customer support team members. </p>
 <div class="buttons">
