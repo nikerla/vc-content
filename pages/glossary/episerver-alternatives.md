@@ -81,7 +81,7 @@ tags :
             </div>
         </div>
         <p class="text">
-        The engaging Virto Commerce community can also help you achieve the most out of your developing process and enhance the already robust features of the platform. Virto Commerce’s own application store allows you to find the best add-ons and plugins that will help expand your options of customizing even more. </p>
+        The engaging Virto Commerce community can also help you achieve the most out of your developing process and enhance the already robust features of the <a href="{{ 'https://virtocommerce-public-staging.azurewebsites.net/b2b-ecommerce-platform' | absolute_url }}">platform</a>. Virto Commerce’s own application store allows you to find the best add-ons and plugins that will help expand your options of customizing even more. </p>
         <p class="text">
         With the platform’s modern architecture, you can enhance the performance of your website and easily replace existing modules when needed. By using Virto Commerce as an Episerver alternative, you can fully engage into using its agile features to the fullest. Deploy your website via Microsoft Cloud and scale it using Virto Commerce’s rich resources and multichannel solutions. With CMS like Virto Commerce, you can easily set up a web store and start selling beyond your business hours. </p>        
         <p class="text">
