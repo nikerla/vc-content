@@ -1,6 +1,6 @@
 ﻿---
 title: Top 4 Enterprise Ecommerce Challenges
-description: In general view, enterprise e-commerce is esentially just a bigger version of a normal online store. Technically it is correct. However,running a business at an enterprise level is a whole new adventure. There are multiple factors that come into play once a business grows to this kind of scale. This makes the transition a real challenge! In this whitepaper we'll provide top 4 challenges that enterprise ecommerce websites face and their best solutions.
+description: In general view, enterprise e-commerce is essentially just a bigger version of a normal online store. Technically it is correct. However,running a business at an enterprise level is a whole new adventure. There are multiple factors that come into play once a business grows to this kind of scale. This makes the transition a real challenge! In this whitepaper we'll provide top 4 challenges that enterprise ecommerce websites face and their best solutions.
 date: 2017-05-04
 permalink: download-enterprise-whitepaper
 ---
@@ -9,7 +9,7 @@ permalink: download-enterprise-whitepaper
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post">
+				<form method="post" name="Download Top 4 Enterprise Ecommerce Challenges Whitepaper">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Whitepaper Download" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/assets/files/enterprise-whitepaper.pdf" />
 					<div class="column">

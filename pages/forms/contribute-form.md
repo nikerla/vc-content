@@ -12,7 +12,7 @@ tags :
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post" name="identity-form">
+				<form method="post" name="identity-form" name="Become Contributor">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contributor License Agrement" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you-contributor" />
 					<div class="control-group">

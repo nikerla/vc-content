@@ -4,6 +4,9 @@ var forms = $('form');
 if(forms)
 {
   forms.each(function(index, element){
+    var eventName = element.name;
+    if(!eventName)
+      eventName = "Form Submitted"
     var form = $(element);
  
     // Setup a handler to run when the form is submitted
@@ -32,7 +35,7 @@ if(forms)
 
       // Track the event and include values from the form to our event props
       var props = {};
-      analytics.track("FormSubmitted", addFormValuesToProps(form, props));
+      analytics.track(eventName, addFormValuesToProps(form, props));
 
       // Submit the form now that all our analytics stuff is done
       $(e.target).unbind('submit').trigger('submit');
@@ -67,13 +70,18 @@ function addFormValuesToProps(form, props) {
 
       var jobTitle = form.find('[name=Contact\\[JobTitle\\]]').val();
       if (jobTitle) {
-        props.jobTitle = jobTitle;
+        props.title = jobTitle;
       }      
 
       var companyName = form.find('[name=Contact\\[CompanyName\\]]').val();
       if (companyName) {
         props.companyName = companyName;
       }
+
+      var message = form.find('[name=Contact\\[Message\\]]').val();
+      if (message) {
+        props.message = message;
+      }      
       
       return props
 }
