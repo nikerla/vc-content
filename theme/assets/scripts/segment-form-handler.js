@@ -1,39 +1,44 @@
 // Grab a reference to our form
-var form = $('form[name=identity-form]');
+var forms = $('form');
 
-if(form != null)
+if(forms)
 {
-  // Setup a handler to run when the form is submitted
-  form.on('submit', function(e) {
+  forms.each(function(index, element){
+    var form = $(element);
+ 
+    // Setup a handler to run when the form is submitted
+    form.on('submit', function(e) {
 
-    // If some client-side validation kicked in and wants to prevent
-    // the form from submitting, bail out now without calling track or identify
-    if ( e.isDefaultPrevented() ) {
-      return
-    }
+      // If some client-side validation kicked in and wants to prevent
+      // the form from submitting, bail out now without calling track or identify
+      if ( e.isDefaultPrevented() ) {
+        return
+      }
 
-    // If we got here, it's okay to fire our events and submit the form      
+      // If we got here, it's okay to fire our events and submit the form      
 
-    // Stop the form from submitting...for now
-    e.preventDefault();
+      // Stop the form from submitting...for now
+      e.preventDefault();
 
-    // Identify this visitor using their email address as a distinct ID
-    // and as a new property
-    var email = form.find('[name=Contact\\[Email\\]]').val();
-    if (email) {
-      analytics.alias(email);
-      analytics.identify(email, {
-        email: email
-      });
-    }
+      // Identify this visitor using their email address as a distinct ID
+      // and as a new property
+      var email = form.find('[name=Contact\\[Email\\]]').val();
+      if (email) {
+        analytics.alias(email);
+        analytics.identify(email, {
+          email: email
+        });
+      }
 
-    // Track the event and include values from the form to our event props
-    var props = {};
-    analytics.track("FormSubmitted", addFormValuesToProps(form, props));
+      // Track the event and include values from the form to our event props
+      var props = {};
+      analytics.track("FormSubmitted", addFormValuesToProps(form, props));
 
-    // Submit the form now that all our analytics stuff is done
-    $(e.target).unbind('submit').trigger('submit');
-  });
+      // Submit the form now that all our analytics stuff is done
+      $(e.target).unbind('submit').trigger('submit');
+    });
+
+  });  
 }
 function addFormValuesToProps(form, props) {
     
@@ -54,6 +59,21 @@ function addFormValuesToProps(form, props) {
       if (email) {
         props.email = email;
       }   
-    
+
+      var phone = form.find('[name=Contact\\[Phone\\]]').val();
+      if (phone) {
+        props.phone = phone;
+      }   
+
+      var jobTitle = form.find('[name=Contact\\[JobTitle\\]]').val();
+      if (jobTitle) {
+        props.jobTitle = jobTitle;
+      }      
+
+      var companyName = form.find('[name=Contact\\[CompanyName\\]]').val();
+      if (companyName) {
+        props.companyName = companyName;
+      }
+      
       return props
 }
