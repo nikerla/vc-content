@@ -14,7 +14,7 @@ aliases:
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form action="" method="post" name="Try now form">
+				<form action="" method="post">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Try Virto Commerce" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you-trial" />
 					<div class="column">

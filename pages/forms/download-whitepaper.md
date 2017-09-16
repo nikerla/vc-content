@@ -9,8 +9,8 @@ permalink: download-whitepaper
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post" name="Donwload 5 reasons to switch to the cloud whitepaper">
-					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Whitepaper Download" />
+				<form method="post">
+					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Donwload 5 reasons to switch to the cloud whitepaper" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/assets/files/whitepaper-5-reasons-to-switch-your-ecommerce-to-the-cloud.pdf" />
 					<div class="column">
 						<div class="control-group">

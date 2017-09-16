@@ -10,7 +10,7 @@ permalink: demo
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post" name="Request Demo">
+				<form method="post">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Signup for Personal Demo" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you-demo" />
 					<div class="column">

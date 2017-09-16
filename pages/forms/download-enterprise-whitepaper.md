@@ -9,8 +9,8 @@ permalink: download-enterprise-whitepaper
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post" name="Download Top 4 Enterprise Ecommerce Challenges Whitepaper">
-					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Whitepaper Download" />
+				<form method="post">
+					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Download Top 4 Enterprise Ecommerce Challenges Whitepaper" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/assets/files/enterprise-whitepaper.pdf" />
 					<div class="column">
 						<div class="control-group">

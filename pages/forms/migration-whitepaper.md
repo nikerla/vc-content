@@ -9,8 +9,8 @@ permalink: migration-whitepaper
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post" name="Download migration whitepaper">
-					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Whitepaper Download" />
+				<form method="post">
+					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Download migration whitepaper" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/assets/files/whitepaper-ecommerce-platform-migration-problems.pdf" />
 					<div class="column">
 						<div class="control-group">
