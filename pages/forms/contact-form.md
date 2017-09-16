@@ -22,11 +22,11 @@ tags :
 <input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
 <div class="column">
 						<div class="control-group">
-							<label for="FullName">First name (required)</label>
+							<label for="Contact[FirstName]">First name (required)</label>
 							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
 						</div>
 						<div class="control-group">
-							<label for="Email">Email (required)</label>
+							<label for="Contact[Email]">Email (required)</label>
 							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 						</div>
 						<div class="control-group">
