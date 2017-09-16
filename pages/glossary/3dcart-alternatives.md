@@ -31,7 +31,7 @@ tags :
     <p class="text">
     If you have previously worked with Wordpress, this dashboard will seem very familiar to you. The platform offers all kinds templates to help you create the unique look of your store. 61 themes are available to you with a subscription. The other 28 can be purchased starting at $129. The great thing about this platform is that you are not limited to the drag and drop function for creating your front-end, but can also edit the code directly using HTML and CSS. </p>
     <p class="text">
-    There is also an app-store you can use to give your website features. The platform itself offers a lot of them, so you won’t need to download multiple add-ons, meaning shorter response time for your website. </p>
+    There is also an app-store you can use to give your website features. The <a href="/b2b-ecommerce-platform">platform</a> itself offers a lot of them, so you won’t need to download multiple add-ons, meaning shorter response time for your website. </p>
     <p class="text">
     All this being said, we have to mention that 3rdCart has its downsides, too. One of them being the limited amount of bandwidth that comes with each plan. If your store gets under 50,000 visits, the bandwidth will be enough for you. However, if you’re hitting higher numbers, the platform will charge additional $5 per 1000 visits. </p>
     <p class="text">
@@ -42,7 +42,7 @@ tags :
             <img alt="3dCart alternatives - Shopify" src="assets/images/3dcart-alternatives-shopify.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-           <a href="https://ru.shopify.com/" rel="nofollow"> Shopify</a> is one of the popular 3dcart competitors. It combines a convenient process of creating a store with having maximum control over it. 
+           <a href="/glossary/shopify-alternatives"> Shopify</a> is one of the popular 3dcart competitors. It combines a convenient process of creating a store with having maximum control over it. 
             The platform is valued by customers all over the world for its intuitive design and tremendous support base that is there to help whenever you need it. A wide variety of tools and extensions is also offered through Shopify’s unique AppStore to help you to broaden your website’s feature base. 
             </div>
         </div>
