@@ -4,11 +4,19 @@ var forms = $('form');
 if(forms)
 {
   forms.each(function(index, element){
-    var eventName = element.name;
-    if(!eventName)
-      eventName = "Form Submitted"
     var form = $(element);
  
+    var eventName = form.find('[name=Contact\\[Subject\\]]').val();
+    if(!eventName)
+    {
+      // try getting message
+      eventName = form.find('[name=Contact\\[Message\\]]').val();
+      if(!eventName)
+      {
+        eventName = "Form Submitted"
+      }      
+    }
+    
     // Setup a handler to run when the form is submitted
     form.on('submit', function(e) {
 
