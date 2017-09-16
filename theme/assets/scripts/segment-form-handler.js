@@ -28,7 +28,7 @@ if(form != null)
     }
 
     // Track the event and include values from the form to our event props
-    analytics.track(eventName, formValuesToProps(form));
+    analytics.track("FormSubmitted", formValuesToProps(form));
 
     // Submit the form now that all our analytics stuff is done
     $(e.target).unbind('submit').trigger('submit');
