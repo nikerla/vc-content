@@ -45,9 +45,6 @@
     {% if settings.freshsales_enable %}
         {% include 'freshsales' %}
     {% endif %}
-<noscript>
-    <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
-</noscript>
     <script>
         var BASE_URL = '{{ "/" | full_url }}';
     </script>
