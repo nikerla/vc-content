@@ -47,7 +47,8 @@ if(forms)
       analytics.track(eventName, addFormValuesToProps(form, props));
 
       // Submit the form now that all our analytics stuff is done
-      $(e.target).unbind('submit').trigger('submit');
+      return true;
+      //$(e.target).unbind('submit').trigger('submit');
     });
 
   });  
