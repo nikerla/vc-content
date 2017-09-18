@@ -13,7 +13,7 @@ permalink: contact-partner
 				<form method="post">
 					<input type="hidden" name="Contact[Subject]" value="Contact Partner" />
 					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-contact-partner' />
-					<input type="hidden" name="Contact[PartnerId]" value="" />
+					<input style=“display: none” name="Contact[PartnerId]" value="" />
 					<div class="control-group">
 						<label for="Contact[FirstName]">First name:</label>
 						<input id="Contact[FirstName]" type="text" name="Contact[FirstName]" class="form-input" required="required" />
