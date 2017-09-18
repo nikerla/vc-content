@@ -38,7 +38,7 @@ if(forms)
         analytics.alias(email);
         analytics.identify(email, {
           "email": email,
-          "Campaign": eventName
+          "cf_segmentcampaign": eventName
         });
       }
 

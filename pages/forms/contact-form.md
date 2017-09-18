@@ -49,15 +49,6 @@ tags :
 						</div>														
 					</div>
 					<div class="control-group">
-						<label for="SoftwareType">Which Virto product are you considering?</label>
-						<label><input id="Contact[SoftwareType][Enterprise]" tabindex="7" name="Contact[SoftwareType]" type="radio" value="Enterprise Edition" /> Enterprise Edition</label>
-						<label><input id="Contact[SoftwareType][Cloud]" name="Contact[SoftwareType]" type="radio" value="Cloud Edition" /> Cloud Edition</label>
-						<label><input id="Contact[SoftwareType][Community]" name="Contact[SoftwareType]" type="radio" value="Community" /> Community Edition</label>
-						<label><input id="Contact[SoftwareType][Training]" name="Contact[SoftwareType]" type="radio" value="Training" /> Training Services</label>
-						<label><input id="Contact[SoftwareType][Consulting]" name="Contact[SoftwareType]" type="radio" value="Consulting" /> Consulting Services</label>
-						<label><input id="Contact[SoftwareType][NotSure]" name="Contact[SoftwareType]" type="radio" value="Not Sure" /> I'm not sure yet</label>
-					</div>
-					<div class="control-group">
 						<label for="Message">Tell us about your site, company and traffic (required)</label>
 						<textarea id="Contact[Message]" rows="10" cols="30" name="Contact[Message]" class="form-text" required="required" tabindex="10"></textarea>
 					</div>
