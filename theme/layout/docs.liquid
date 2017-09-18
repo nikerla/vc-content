@@ -38,6 +38,7 @@
     <base href="{{ '/' | absolute_url }}" />
 
     {% include 'segment' %}
+    {% include 'google-tag-manager-head' %}
     
     <script type='application/ld+json'>
         {
@@ -72,6 +73,7 @@
     </script>
 </head>
 <body>
+  {% include 'google-tag-manager-body' %}
     <div class="layout">
         <div class="layout-canvas">
             <div class="swipe" id="menu-mobile">

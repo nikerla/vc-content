@@ -30,6 +30,7 @@
 	{{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
 	{{ 'main-styles.min.css' | asset_url | stylesheet_tag }}
     {% include 'segment' %}
+    {% include 'google-tag-manager-head' %}
     {{ content_for_header }}
     <base href="{{ '/' | absolute_url }}" />
     <link rel="canonical" href="{{ canonical_url }}" />
@@ -39,8 +40,10 @@
     <script>
         var BASE_URL = '{{ "/" | full_url }}';
     </script>
+    {% include 'autopilot' %}
 </head>
 <body ng-controller="mainController">
+    {% include 'google-tag-manager-body' %}
     {% include 'apps-identifier' %}
     {% include 'form-become-a-developer' %}
     {% include 'form-write-a-review' %}

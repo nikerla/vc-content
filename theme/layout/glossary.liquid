@@ -39,6 +39,7 @@
         appInsights.trackPageView();
     </script> 
     {% include 'segment' %}
+    {% include 'google-tag-manager-head' %}
     {{ content_for_header }}
     <base href="{{ '/' | absolute_url }}" />
     <link rel="canonical" href="{{ canonical_url }}" />
@@ -48,6 +49,7 @@
     {% endif %}    
 </head>
 <body ng-controller="mainController">
+  {% include 'google-tag-manager-body' %}
     <div class="google-like">
         <div class="g-plusone" data-href="https://virtocommerce.com" data-size="tall"></div>
     </div>
