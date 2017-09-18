@@ -38,7 +38,7 @@
         window.appInsights=appInsights;
         appInsights.trackPageView();
     </script> 
-    {% include 'google-tag-manager-head' %}
+    {% include 'segment' %}
     {{ content_for_header }}
     <base href="{{ '/' | absolute_url }}" />
     <link rel="canonical" href="{{ canonical_url }}" />
@@ -46,12 +46,8 @@
     {% if settings.freshsales_enable %}
         {% include 'freshsales' %}
     {% endif %}    
-<noscript>
-    <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
-</noscript>
 </head>
 <body ng-controller="mainController">
-  {% include 'google-tag-manager-body' %}
     <div class="google-like">
         <div class="g-plusone" data-href="https://virtocommerce.com" data-size="tall"></div>
     </div>

@@ -37,7 +37,7 @@
 
     <base href="{{ '/' | absolute_url }}" />
 
-    {% include 'google-tag-manager-head' %}
+    {% include 'segment' %}
     
     <script type='application/ld+json'>
         {
@@ -70,13 +70,8 @@
             "mainEntityOfPage": "{{ page.url | full_url }}"
         }
     </script>
-    {% include 'autopilot' %}    
-    <noscript>
-        <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
-    </noscript>
 </head>
 <body>
-  {% include 'google-tag-manager-body' %}
     <div class="layout">
         <div class="layout-canvas">
             <div class="swipe" id="menu-mobile">
