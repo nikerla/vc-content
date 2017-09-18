@@ -15,13 +15,17 @@ tags :
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form class="fixed" action="{{ '/contact' | absolute_url }}">
+				<form class="fixed">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Request Community License w/URL" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="{{ '/thank-you-demo' | absolute_url }}" />
 					<div class="control-group">
-						<label for="FullName">Full name</label>
-						<input id="Contact[FullName]" type="text" name="Contact[FullName]" class="form-input" required="required" />
+						<label for="Contact[FirstName]">First name (required)</label>
+						<input id="Contact[FirstName]" type="text" name="Contact[FirstName]" class="form-input" required="required" />
 					</div>
+					<div class="control-group">
+						<label for="Contact[LastName]">Last name (required)</label>
+						<input id="Contact[LastName]" type="text" name="Contact[LastName]" class="form-input" required="required" />
+					</div>					
 					<div class="control-group">
 						<label for="Email">Email</label>
 						<input id="Contact[Email]" type="text" name="Contact[Email]" class="form-input" />
