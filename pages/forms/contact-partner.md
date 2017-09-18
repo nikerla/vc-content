@@ -15,11 +15,11 @@ permalink: contact-partner
 					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-contact-partner' />
 					<input type="hidden" name="Contact[PartnerId]" value="" />
 					<div class="control-group">
-						<label for="Contact[FirstName]">First name (required)</label>
+						<label for="Contact[FirstName]">First name:</label>
 						<input id="Contact[FirstName]" type="text" name="Contact[FirstName]" class="form-input" required="required" />
 					</div>
 					<div class="control-group">
-						<label for="Contact[LastName]">Last name (required)</label>
+						<label for="Contact[LastName]">Last name:</label>
 						<input id="Contact[LastName]" type="text" name="Contact[LastName]" class="form-input" required="required" />
 					</div>					
 					<div class="control-group">

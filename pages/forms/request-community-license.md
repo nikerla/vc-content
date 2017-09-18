@@ -19,11 +19,11 @@ tags :
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Request Community License w/URL" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="{{ '/thank-you-demo' | absolute_url }}" />
 					<div class="control-group">
-						<label for="Contact[FirstName]">First name (required)</label>
+						<label for="Contact[FirstName]">First name:</label>
 						<input id="Contact[FirstName]" type="text" name="Contact[FirstName]" class="form-input" required="required" />
 					</div>
 					<div class="control-group">
-						<label for="Contact[LastName]">Last name (required)</label>
+						<label for="Contact[LastName]">Last name:</label>
 						<input id="Contact[LastName]" type="text" name="Contact[LastName]" class="form-input" required="required" />
 					</div>					
 					<div class="control-group">
@@ -36,7 +36,7 @@ tags :
 					</div>
 					<div class="control-group">
 						<label for="Agree"><br />
-						<input id="Contact[Agree]" type="checkbox" name="Contact[Agree]" required="required" /><a style="margin-left: 15px; color:#fff;" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US1,000,000)</a></label>
+						<input id="Contact[Agree]" type="checkbox" name="Contact[Agree]" required="required" /><a style="margin-left: 15px;" href="/open-source-license">I Agree to terms (yearly revenue of not exceeding US1,000,000)</a></label>
 					</div>
 					<div class="control-group">
 						<button type="submit" class="button fill">Request license</button>
