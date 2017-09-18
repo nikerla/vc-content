@@ -18,15 +18,15 @@ tags :
 		<div class="column">
 			<div class="block">
 <form action="" method="post" accept-charset="UTF-8" id="contact">
-<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Us" />
+<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Sales" />
 <input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
 <div class="column">
 						<div class="control-group">
-							<label for="FullName">First name (required)</label>
+							<label for="Contact[FirstName]">First name (required)</label>
 							<input id="Contact[FirstName]" tabindex="1" type="text" name="Contact[FirstName]" class="form-input" required="required" autocomplete="given-name" />
 						</div>
 						<div class="control-group">
-							<label for="Email">Email (required)</label>
+							<label for="Contact[Email]">Email (required)</label>
 							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 						</div>
 						<div class="control-group">
@@ -47,15 +47,6 @@ tags :
 							<label for="JobTitle">Job Title (required)</label>
 							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" autocomplete="organization-title" />
 						</div>														
-					</div>
-					<div class="control-group">
-						<label for="SoftwareType">Which Virto product are you considering?</label>
-						<label><input id="Contact[SoftwareType][Enterprise]" tabindex="7" name="Contact[SoftwareType]" type="radio" value="Enterprise Edition" /> Enterprise Edition</label>
-						<label><input id="Contact[SoftwareType][Cloud]" name="Contact[SoftwareType]" type="radio" value="Cloud Edition" /> Cloud Edition</label>
-						<label><input id="Contact[SoftwareType][Community]" name="Contact[SoftwareType]" type="radio" value="Community" /> Community Edition</label>
-						<label><input id="Contact[SoftwareType][Training]" name="Contact[SoftwareType]" type="radio" value="Training" /> Training Services</label>
-						<label><input id="Contact[SoftwareType][Consulting]" name="Contact[SoftwareType]" type="radio" value="Consulting" /> Consulting Services</label>
-						<label><input id="Contact[SoftwareType][NotSure]" name="Contact[SoftwareType]" type="radio" value="Not Sure" /> I'm not sure yet</label>
 					</div>
 					<div class="control-group">
 						<label for="Message">Tell us about your site, company and traffic (required)</label>

@@ -16,7 +16,6 @@
     <meta itemprop="image" content="{{ 'virtocommerce.png' | asset_url }}" />
     <meta property="og:url" content="{{ request_url }}" />
     <meta property="og:image" content="{{ 'virtocommerce.png' | asset_url }}" />
-    <meta name="google-site-verification" content="U2sXV9qIWUb-RceW8MpL-EfFnwvOqCo_jLWIDL8c6xI" />
     <link type="image/x-icon" rel="shortcut icon" href="{{ 'favicon.ico' | asset_url }}" />
     <link rel="publisher" href="//plus.google.com/+Virtocommerce" />
     {% if page_title != '' %}
@@ -30,31 +29,19 @@
     {{ '//fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:300,400,600,700' | stylesheet_tag }}
 	{{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
 	{{ 'main-styles.min.css' | asset_url | stylesheet_tag }}
-    <script type="text/javascript">
-        var appInsights=window.appInsights||function(config){
-            function s(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i) }) }}var t={config:config},r=document,f=window,e="script",o=r.createElement(e),i,u;for(o.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",r.getElementsByTagName(e)[0].parentNode.appendChild(o),t.cookie=r.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)s("track"+i.pop());return config.disableExceptionTracking||(i="onerror",s("_"+i),u=f[i],f[i]=function(config,r,f,e,o){var s=u&&u(config,r,f,e,o);return s!==!0&&t["_"+i](config,r,f,e,o),s}),t
-                }({
-                    instrumentationKey: "{{ application_settings.ApplicationInsightsInstrumentationKey }}"
-                });
-        window.appInsights=appInsights;
-        appInsights.trackPageView();
-    </script> 
-    {% include 'google-tag-manager-head' %}
+    {% include 'segment' %}
     {{ content_for_header }}
     <base href="{{ '/' | absolute_url }}" />
     <link rel="canonical" href="{{ canonical_url }}" />
     {% if settings.freshsales_enable %}
         {% include 'freshsales' %}
     {% endif %}
-<noscript>
-    <img height="1" width="1" alt="" style="display:none" src="{{ '//www.facebook.com/tr?id=' | append: application_settings.FacebookTrackerId | append: '&amp;ev=PixelInitialized' }}" />
-</noscript>
     <script>
         var BASE_URL = '{{ "/" | full_url }}';
     </script>
+    {% include 'autopilot' %}
 </head>
 <body ng-controller="mainController">
-    {% include 'google-tag-manager-body' %}
     {% include 'apps-identifier' %}
     {% include 'form-become-a-developer' %}
     {% include 'form-write-a-review' %}
@@ -150,5 +137,6 @@
 	{{ 'app.js' | asset_url | script_tag }}
 	{{ 'services.js' | asset_url | script_tag }}
 	{{ 'main-layout.min.js' | asset_url | script_tag }}
+    {{ 'segment-form-handler.js' | asset_url | script_tag }}
 </body>
 </html>

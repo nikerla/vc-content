@@ -12,13 +12,17 @@ tags :
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post">
+				<form method="post" name="identity-form">
 					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contributor License Agrement" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you-contributor" />
 					<div class="control-group">
-						<label for="FullName">Full name (required)</label>
-						<input id="Contact[FullName]" type="text" name="Contact[FullName]" class="form-input" required="required" />
+						<label for="Contact[FirstName]">First name (required)</label>
+						<input id="Contact[FirstName]" type="text" name="Contact[FirstName]" class="form-input" required="required" />
 					</div>
+					<div class="control-group">
+						<label for="Contact[LastName]">Last name (required)</label>
+						<input id="Contact[LastName]" type="text" name="Contact[LastName]" class="form-input" required="required" />
+					</div>					
 					<div class="control-group">
 						<label for="Email">Email (required)</label>
 						<input id="Contact[Email]" type="text" name="Contact[Email]" class="form-input" required="required" />

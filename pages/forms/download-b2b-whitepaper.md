@@ -10,7 +10,7 @@ permalink: download-b2b-whitepaper
 		<div class="column">
 			<div class="block">
 				<form method="post">
-					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Whitepaper Download" />
+					<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Download B2B Challenges Whitepaper" />
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/assets/files/whitepaper-top-5-b2b-challenges.pdf" />
 					<div class="column">
 						<div class="control-group">
