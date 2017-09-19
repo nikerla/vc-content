@@ -43,7 +43,7 @@ aliases:
 					<div class="control-group">
 						<label for="Message">What describes you best? (required)</label>
 						<select id="Contact[Message]" name="Contact[Message]" type="text" class="form-input" required="required" tabindex="6">
-							<option value="" selected>Please, choose</option>
+							<option value="" disabled selected>Please, choose</option>
 							<option value="I am developer trying Virto Commerce">I am developer trying Virto Commerce</option>
 							<option value="I am non-technical user trying Virto Commerce">I am non-technical user trying Virto Commerce</option>
 							<option value="I have a solution using different software">I have a solution using different software</option>
