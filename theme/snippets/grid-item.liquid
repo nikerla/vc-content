@@ -1,7 +1,7 @@
 <li class="list-item">
     <a class="list-link" href="{{ product.url | absolute_url }}">
-        {% if product.metafields.properties.InProcess %}
-            <div class="list-item-bar">In progress</div>
+        {% if product.metafields.properties.InProcess == true %}
+            <div class="list-item-bar">In progress</div> 
         {% endif %}
         <div class="top-bg">
             <svg xmlns="http://www.w3.org/2000/svg">
