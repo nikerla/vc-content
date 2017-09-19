@@ -10,14 +10,18 @@ permalink: contact-partner
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form action="{{ '/contact' | absolute_url }}" method="post">
+				<form method="post">
 					<input type="hidden" name="Contact[Subject]" value="Contact Partner" />
 					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-contact-partner' />
-					<input type="hidden" name="Contact[PartnerId]" value="" />
+					<input style="display: none" name="Contact[PartnerId]" value="" />
 					<div class="control-group">
-						<label for="FullName">Full name:</label>
-						<input id="Contact[FullName]" type="text" name="Contact[FullName]" required class="form-input" />
+						<label for="Contact[FirstName]">First name:</label>
+						<input id="Contact[FirstName]" type="text" name="Contact[FirstName]" class="form-input" required="required" />
 					</div>
+					<div class="control-group">
+						<label for="Contact[LastName]">Last name:</label>
+						<input id="Contact[LastName]" type="text" name="Contact[LastName]" class="form-input" required="required" />
+					</div>					
 					<div class="control-group">
 						<label for="Email">Email:</label>
 						<input id="Contact[Email]" type="text" name="Contact[Email]" class="form-input" required="required" />
