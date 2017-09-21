@@ -11,16 +11,16 @@ permalink: case-studies
             <li class="list-item">
                 <div class="list-inner">
                     <div class="list-img">
-                        <img src="../assets/images/casestudies/erb-logo.png" alt="http://e-resourcebroker.com">
+                        <img alt="" src="../assets/images/casestudies/proffs.png" />
                     </div>
-                    <div class="list-t">HR</div>
-                    <div class="list-text">Objective: Platform</div>
-                    <div class="list-descr">Create a simple system for clients to directly search for available and compatible resources, thereby facilitating the trading process between clients and consultants.</div>
+                    <div class="list-t">Retail Equipment</div>
+                    <div class="list-text">Objective: B2C/B2B Online Store</div>
+                    <div class="list-descr">Providing maximum scalability and centralizationfor expanding business internationally</div>
                     <div class="list-btn">
-                        <a class="button fill" href="../assets/files/niteco-cifereca-case-study.pdf" target="_blank">Read case study</a>
+                        <a class="button fill" href="../assets/files/case-study-proffs.png" target="_blank">Read case study</a>
                     </div>
                 </div>
-            </li>                
+            </li>
             <li class="list-item">
                 <div class="list-inner">
                     <div class="list-img">
@@ -110,6 +110,19 @@ permalink: case-studies
                     <div class="list-descr">Provided warehouse management for a one of the Switzerland's leading providers of auditing, accounting and consulting services company as well as permission controlled store for employees to place orders.</div>
                     <div class="list-btn">
                         <a class="button fill">Coming soon ...</a>
+                    </div>
+                </div>
+            </li>
+            <li class="list-item">
+                <div class="list-inner">
+                    <div class="list-img">
+                        <img src="../assets/images/casestudies/erb-logo.png" alt="http://e-resourcebroker.com">
+                    </div>
+                    <div class="list-t">HR</div>
+                    <div class="list-text">Objective: Platform</div>
+                    <div class="list-descr">Create a simple system for clients to directly search for available and compatible resources, thereby facilitating the trading process between clients and consultants.</div>
+                    <div class="list-btn">
+                        <a class="button fill" href="../assets/files/niteco-cifereca-case-study.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>
