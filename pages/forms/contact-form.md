@@ -30,8 +30,8 @@ tags :
 							<input id="Contact[Email]" tabindex="3" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
 						</div>
 						<div class="control-group">
-							<label for="CompanyName">Company name (required)</label>
-							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" required="required" autocomplete="organization"/>
+							<label for="CompanyName">Company name</label>
+							<input id="Contact[CompanyName]" tabindex="5" type="text" name="Contact[CompanyName]" class="form-input" autocomplete="organization"/>
 						</div>						
 					</div>
 					<div class="column">
@@ -44,8 +44,8 @@ tags :
 							<input id="Contact[Phone]" type="tel" tabindex="4" name="Contact[Phone]" class="form-input" autocomplete="mobile"/>
 						</div>
 						<div class="control-group">
-							<label for="JobTitle">Job Title (required)</label>
-							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input" required="required" autocomplete="organization-title" />
+							<label for="JobTitle">Job Title</label>
+							<input id="Contact[JobTitle]" type="text" tabindex="6" name="Contact[JobTitle]" class="form-input"  autocomplete="organization-title" />
 						</div>														
 					</div>
 					<div class="control-group">

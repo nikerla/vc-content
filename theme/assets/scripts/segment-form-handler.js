@@ -86,7 +86,8 @@ function addFormValuesToProps(form, props) {
 
       var companyName = form.find('[name=Contact\\[CompanyName\\]]').val();
       if (companyName) {
-        props.companyName = companyName;
+        props.company = {};
+        props.company.name = companyName;
       }
 
       var message = form.find('[name=Contact\\[Message\\]]').val();
