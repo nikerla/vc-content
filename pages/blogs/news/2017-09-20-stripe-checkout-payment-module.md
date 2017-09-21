@@ -10,9 +10,9 @@ tags:
 - enterprise-ecommerce
 - virtocommerce
 - marketo
-title: The new Stripe Checkout payment module will let you integrate your Virto Commerce based online store with Stripe allowing to accept all sorts of payments, including Bitcoins.
+title: Virto Commerce is now integrated with Stripe
 ---
-### <dfn>Virto Commerce is now integrated with Stripe</dfn>
+### <dfn>The new Stripe Checkout payment module will let you integrate your Virto Commerce based online store with Stripe allowing to accept all sorts of payments, including Bitcoins.</dfn>
 
 We have released the new *Stripe Checkout payment module* that will allow you to integrate your Virto Commerce based online store with the [Stripe](https://stripe.com/) payment API.
 
