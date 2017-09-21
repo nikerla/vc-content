@@ -40,12 +40,12 @@ tags:
 		<h2>Web-Based Order Management Features</h2>
 		<h4>Sales order management - Order status management</h4>
 		<p class="text">Track orders and manage different order statuses – ex. confirmed/not confirmed, shipped (full order or partially), delivered, paid/unpaid/split payments, etc. With our order tracking software, your order statuses will automatically get updated on different channels. </p>
-    <p>It is modular based, which gives you the freedom to implement it as a ready-to-go OMS solution or keep adding and replacing modules as your business grows.</p>
-    <p>Create one central hub for all stakeholders – executives, sales and service reps, fulfillment specialists and finance managers - with unified distributed order management system.</p>
-    <p>In addition, our Virto Commerce distributed customer order management system allows you to automatically sync the sales data to the inventory logs, constantly assuring accuracy; and the cloud-based order management software makes your data secure, yet accessible for you from anywhere.</p>
+    <p class="text">It is modular based, which gives you the freedom to implement it as a ready-to-go OMS solution or keep adding and replacing modules as your business grows.</p>
+    <p class="text">Create one central hub for all stakeholders – executives, sales and service reps, fulfillment specialists and finance managers - with unified distributed order management system.</p>
+    <p class="text">In addition, our Virto Commerce distributed customer order management system allows you to automatically sync the sales data to the inventory logs, constantly assuring accuracy; and the cloud-based order management software makes your data secure, yet accessible for you from anywhere.</p>
 		<h4>Sales order processing  - Invoice and payment processing</h4>
 		<p class="text">Track and process payments with a convenient straight-forward order processing software. Control of the quote and order process using smooth and sophisticated workflow for pricing and discounts, approval routing, etc. </p>
-    <p>The intelligent sales order management system allows you to easily generate invoices, charge customer’s credit card or another agreed form of payment, record the payments and sync them with your accounting system. You can also accommodate special quotes and split payments with ease.</p>
+    <p class="text">The intelligent sales order management system allows you to easily generate invoices, charge customer’s credit card or another agreed form of payment, record the payments and sync them with your accounting system. You can also accommodate special quotes and split payments with ease.</p>
 		<h4>Streamlining and automation of recurring purchases</h4>
 		<p class="text">Make recurring orders a breeze. Virto Commerce web order management system allows your customers to make repeated purchases with a few simple clicks using tools like:</p>
         <p class="text">•	Customer order history </p>
