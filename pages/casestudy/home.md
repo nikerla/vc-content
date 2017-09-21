@@ -17,7 +17,7 @@ permalink: case-studies
                     <div class="list-text">Objective: B2C/B2B Online Store</div>
                     <div class="list-descr">Providing maximum scalability and centralizationfor expanding business internationally</div>
                     <div class="list-btn">
-                        <a class="button fill" href="../assets/files/case-study-proffs.png" target="_blank">Read case study</a>
+                        <a class="button fill" href="../assets/files/case-study-proffs.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>
