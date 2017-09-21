@@ -31,20 +31,21 @@ if(forms)
         }      
       }      
 
+      // Track the event and include values from the form to our event props
+      var props = {};
+      props = addFormValuesToProps(form, props)
+
       // Identify this visitor using their email address as a distinct ID
       // and as a new property
       var email = form.find('[name=Contact\\[Email\\]]').val();
       if (email) {
+        props.email = email;
+        props.cf_segmentcampaign = eventName;
         analytics.alias(email);
-        analytics.identify(email, {
-          "email": email,
-          "cf_segmentcampaign": eventName
-        });
+        analytics.identify(email, props);
       }
 
-      // Track the event and include values from the form to our event props
-      var props = {};
-      analytics.track(eventName, addFormValuesToProps(form, props));
+      analytics.track(eventName, props);
 
       // Submit the form now that all our analytics stuff is done
       return true;
