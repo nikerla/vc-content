@@ -41,7 +41,7 @@ The tax and financial paperwork-related functionality includes:
 
 For managing payouts to large numbers of people the dashboard provides the overview of every stage of the user lifecycle from account history to verification, transfers, and more, creating a convenient a hub for your support and operations teams to manage all the workflows involved.
 
-<img src='../../assets/images/blog/multiple-payouts.jpg'>
+<img src='../../assets/images/blog/stripe-multiple-payouts.jpg'>
 
 <h2><strong>International payments</strong></h2>
 
