@@ -65,4 +65,4 @@ Just like our entire Virto Commerce platform, this Stripe Checkout payment modul
 
 [Check out our GitHub repository for module download and installation guide](https://github.com/VirtoCommerce/vc-module-stripe).
 
-
+<a class="button fill" href="https://github.com/VirtoCommerce/vc-module-stripe/releases" rel="nofollow">Download Module</a>
