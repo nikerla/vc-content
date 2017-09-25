@@ -4,13 +4,13 @@ description: With this unique platform by Virto Commerce you will get the featur
 date: 2017-09-22
 canonical: https://virtocommerce.com/glossary/purchase-order-management-software
 permalink: glossary/purchase-order-management-software
-ogimage: ../../assets/images/purchase-order-management-software.jpg
+ogimage: ../../assets/images/purchase-order-management-software-1.jpg
 ogtitle: Purchase Order Management Software
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: ../../assets/images/purchase-order-management-software.jpg
+twitterimage: ../../assets/images/purchase-order-management-software-1.jpg
 twittersite: Virtocommerce
 layout: glossary
 tags : 
@@ -22,7 +22,7 @@ tags :
     <div class="head __cart">
         <h1>Purchase Order Management Software</h1>
     </div>
-    <img alt="Purchase Order Management Software" src="assets/images/purchase-order-management-software.jpg" />
+    <img alt="Purchase Order Management Software" src="assets/images/purchase-order-management-software-1.jpg" />
     <p class="text">With Virto Commerce’s Purchase Order Management Software, you can greatly improve customer service and stay on top in your business field. With our robust solution, you won’t have to handle the purchase orders manually, which will get you rid of the related frustration you may have, as well as allow you to obtain a centralized control of the store’s inventory. By choosing our Purchase Order Management Solution you will get the features that will improve your businesses with functionality that is truly unique among competitors. </p>
     <p class="text">Our most advanced order processing system and order tracking system organizes your incoming supplies very well and ensures the purchases get to you right on time. </p>
     <p class="text">With this unique <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">software</a>, you won’t have to worry about manual data re-entry and faxing, as it will do it for you. Are you still asking why it is top-notch? We have answers for you.</p>
