@@ -92,7 +92,7 @@ function addFormValuesToProps(form, props) {
 
       var message = form.find('[name=Contact\\[Message\\]]').val();
       if (message) {
-        props.description = message;
+        props.recent_note = message;
       }      
       
       return props
