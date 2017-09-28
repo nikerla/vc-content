@@ -95,7 +95,7 @@ tags :
 				<li class="list-item">
 					<div class="list-name" style="text-align: center;">Sergey Sinyugin</div>
 					<div class="list-office" style="margin: 20px 0; text-align: center;">CEO Kupinatao</div>
-					<div class="list-descr">"Using Virto Commerce ASP.Net Shopping Cart features helped us to create a sophisticated system of gathering, publishing and managing client reviews. This automation tool helps our clients to choose between millions of positions."</div>
+					<div class="list-descr">"Using Virto Commerce Shopping Cart on ASP.Net with its sophisticated features helped us to create a sophisticated system of gathering, publishing and managing client reviews. This automation tool helps our clients to choose between millions of positions."</div>
 				</li>
 			</ul>
 		</div>
