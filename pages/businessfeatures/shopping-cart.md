@@ -66,7 +66,7 @@ tags :
 		<h2 class="sub-title">B2B Shopping Cart</h2>
         <div class="col-w">
             <div class="col __col-50 text" style="margin-top: 0; padding-right: 20px;">
-                In addition to standard functionality that is integral to any Shopping Cart, our shopping cart ASP.net comes with additional features like wishlist, connecting payment gateway and checkout customization. This provides you with additional opportunities to customize your sales-related processes and make sure your store delivers the best experience to your customers.
+                In addition to standard functionality that is integral to any Shopping Cart, our shopping cart on ASP.net comes with additional features like wishlist, connecting payment gateway and checkout customization. This provides you with additional opportunities to customize your sales-related processes and make sure your store delivers the best experience to your customers.
                 <p>The Virto Commerce platform includes extended capabilities that allow for the implementation of complex B2B Enterprise scenarios as well as non-typical Startup models.</p>
             </div>
             <div class="col __col-50">
