@@ -1,5 +1,5 @@
 --- 
-title: Inventory management definition - What is inventory management? 
+title: Inventory management definition and meaning - What is inventory management? 
 description: What is inventory management? How to unitize inventory management techniques to achieve the best results?  Learn more about it in this article.
 date: 2017-08-23
 canonical: https://virtocommerce.com/glossary/what-is-inventory-management
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1>Inventory management definition - What is inventory management? </h1>
+        <h1>Inventory management definition and meaning - What is inventory management? </h1>
     </div>
     <img alt="Inventory management definition - What is inventory management?" src="assets/images/what-is-inventory-management.jpg" />
     <p class="text">When we ask “what is inventory management?” the answer is pretty straight forward. Inventory management (or stock management) is literally the process of managing a business’ inventory and stock. It is a part of supply chain management. To further define inventory management process we can note that it includes aspects like storage of inventories, overseeing the orders for stock inventory, and controlling the number of items in stock.</p>
