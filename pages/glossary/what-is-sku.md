@@ -26,7 +26,7 @@ tags :
     <img alt="What is an SKU and why is it important for retail?" src="assets/images/what-is-sku.jpg" />
     <h2>What is an SKU and why is it important for retail?</h2>
     <p class="text">
-    The SKU abbreviation stands for Stock Keeping Unit. It is a term commonly used in retail, specifically when talking about <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">inventory management</a>. The SKU meaning in retail is the most significant when it comes to setting up and managing inventory – it can be a crucial part of the sales process for any retail business. The proper setup of SKU means having all items tracked accurately.
+    The SKU abbreviation stands for Stock Keeping Unit. It is a term commonly used in retail, specifically when talking about <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">inventory management</a>. The SKU meaning in retail is the most significant when it comes to setting up and managing inventory – it can be a crucial part of the sales process for any retail business. The proper setup of stock keeping unit or SKU means having all items tracked accurately.
     </p>  
     <h2>What does SKU mean?</h2>
     <p class="text">
@@ -35,7 +35,7 @@ tags :
     The definition of SKU abbreviation is “a unit of stock”. SKU is the code assigned to a unit (meaning a product), which a company then uses in its inventory management to search and identify stock on hand from lists, invoices, or order forms. These days pretty much no catalog or inventory can be properly maintained without the use of SKU meaning in retail this way of organizing the product database plays an essential role.</p>
     <p class="text">
     Now that we have some understanding of “what is SKU?” let’s look at what SKUs are mainly used for.</p>
-    <h2>Inventory Tracking</h2>
+    <h2>Inventory Tracking - What is a SKU number?</h2>
     <p class="text">
     The term inventory can indicate a company’s product catalog or a list of items in stock. When talking about inventory tracking, the most common question that pops up is what is an SKU number? Here’s a short explanation: when new products are received by a business, they need to be properly marked, accounted for and tracked in order for the business to always have a clear knowledge how many are available. Here’s where SKU definition or SKU numbers come handy. So, what is a SKU number? Each product gets assigned one.  With that, it can then be easily tracked in the inventory management system. This kind of tracking system is absolutely essential for stock system definition - if the units in a warehouse or storage have SKUs, then stock availability is easy to determine.
     </p>
@@ -49,7 +49,7 @@ tags :
     </p>
     <h2>Inventory Management</h2>
     <p class="text">
-    As a business grows, managing large quantities of products manually becomes progressively more difficult. So, what is SKU’s role in this? One of the main qualities that define SKU is accuracy! By adding an SKU to every product variation a stock manager and/or a business owner can always keep close track of the quantity of products on hand and replenish the stock when necessary. 
+    As a business grows, managing large quantities of products manually becomes progressively more difficult. So, what is SKU’s role in this? One of the main qualities that define SKU is accuracy! By adding an SKU to every product variation a stock manager and/or a business owner can always keep close track of the quantity of products on hand and replenish the stock when necessary.  
     </p>
     <h2>What is SKU best practice?</h2>
     <p class="text">
