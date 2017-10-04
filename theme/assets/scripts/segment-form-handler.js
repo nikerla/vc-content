@@ -20,15 +20,11 @@ if(forms)
       // Stop the form from submitting...for now
       e.preventDefault();
 
-      var eventName = form.find('[name=Contact\\[Subject\\]]').val();
+      var campaign = form.find('[name=Contact\\[Subject\\]]').val();
+      var eventName = form.find('[name=Contact\\[Message\\]]').val();
       if(!eventName)
       {
-        // try getting message
-        eventName = form.find('[name=Contact\\[Message\\]]').val();
-        if(!eventName)
-        {
-          eventName = "Form Submitted"
-        }      
+        eventName = "Form Submitted";
       }      
 
       // Track the event and include values from the form to our event props
@@ -40,7 +36,7 @@ if(forms)
       var email = form.find('[name=Contact\\[Email\\]]').val();
       if (email) {
         props.email = email;
-        props.cf_segmentcampaign = eventName;
+        props.cf_segmentcampaign = campaign;
         analytics.alias(email);
         analytics.identify(email, props);
       }

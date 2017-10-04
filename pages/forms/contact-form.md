@@ -18,6 +18,7 @@ tags :
 		<div class="column">
 			<div class="block">
 <form action="" method="post" accept-charset="UTF-8" id="contact">
+<input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Us" />
 <input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
 <div class="column">
 						<div class="control-group">
