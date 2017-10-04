@@ -13,6 +13,8 @@ title: 10 Ultimate Tricks To Wrap Your Shopping Store with Fraud Protection
 ---
 ### <dfn>Fraud protection is a vital question for any running eCommerce project as well as startup. Over the past year, the number of attacks and frauds occurrence over the Internet has greatly increased. According to Experian data eCommerce fraud in the US increased to 33% in 2016 compared to 2015.</dfn>
 
+<img src='../../assets/images/blog/10-crucial-tricks-to-wrap-your-shopping-store-with-fraud-protection-gif.gif'>
+
 Both customers and merchants want to be sure that their data is secure. So web stores must establish practices that minimize fraud risk. Why is fraud protection especially important for eCommerce sites? The answer is obvious because they collect highly sensitive customer data like email, credit card details and a physical address.
 
 Payment and bank details of large organizations and individuals mustn't get into the wrong hands! If you agree with this, please read on and get to know what actions an eCommerce store can take to increase customers' safety and protect the store from frauds.
@@ -52,6 +54,7 @@ Well, these were <strong>10 tricks to wrap your shopping store with fraud protec
 This theme designed in soft pastel colors is absolutely perfect for bridal stores. It is not only beautiful but feature-rich. You save $1718 with TM modules included into the template price. The theme was developed for Magento platform, which ensures ultimate security through SSL to let customers feel safe making purchases at your store.
 
 <img src='../../assets/images/blog/bridal-store-magento-theme.jpg'>
+<div style="text-align: center;"><a href="/https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Details</a> | <a href="/https://www.templatemonster.com/demo/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Demo</a></div>
 
 <h2>Watches Responsive OpenCart Template</h2>
 
