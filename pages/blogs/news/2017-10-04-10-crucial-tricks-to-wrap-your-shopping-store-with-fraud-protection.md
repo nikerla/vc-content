@@ -13,7 +13,7 @@ title: 10 Ultimate Tricks To Wrap Your Shopping Store with Fraud Protection
 ---
 ### <dfn>Fraud protection is a vital question for any running eCommerce project as well as startup. Over the past year, the number of attacks and frauds occurrence over the Internet has greatly increased. According to Experian data eCommerce fraud in the US increased to 33% in 2016 compared to 2015.</dfn>
 
-<img src='../../assets/images/blog/10-crucial-tricks-to-wrap-your-shopping-store-with-fraud-protection-gif.gif'>
+<img src='../../assets/images/blog/10-crucial-tricks-to-wrap-your-shopping-store-with-fraud-protection.gif'>
 
 Both customers and merchants want to be sure that their data is secure. So web stores must establish practices that minimize fraud risk. Why is fraud protection especially important for eCommerce sites? The answer is obvious because they collect highly sensitive customer data like email, credit card details and a physical address.
 
