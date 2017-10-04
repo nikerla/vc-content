@@ -74,14 +74,6 @@ tags :
 						<span class="title">What is Cloud Edition?</span>
 						<span class="descr">Cloud edition is a unique service we offer that allow our customers to focus on developing business features while our experienced engineers handle code and architecture validation, product code merges in your source repository, deployments to production and much more.</span>
 					</li>
-					<li>
-						<span class="title">Can I use Community Edition?</span>
-						<span class="descr">Community edition can only be used for sites or businesses that generate less than 1 million USD gross annual revenue. Sites running community edition must have "powered by link" in the layout which displays a link to virtocommerce.com.</span>
-					</li>
-					<li>
-						<span class="title">How do I remove "powered by link" while using Community Edition?</span>
-						<span class="descr">You will need to get our production deployment community license. Please fill the form on this page and make sure to complete information about your company and website domain you want to use for community license.</span>
-					</li>
 				</ul>
 			</div>
 		</div>
