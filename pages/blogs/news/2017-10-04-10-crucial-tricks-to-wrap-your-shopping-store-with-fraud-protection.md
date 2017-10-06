@@ -21,7 +21,7 @@ Payment and bank details of large organizations and individuals mustn't get into
 
 <i>The key ones include:</i>
 
-•	First of all, you need to choose a <strong>safe eCommerce platform</strong>. We will help you with that as you will find some Magento, OpenCart, PrestaShop, and Shopify templates developed by [TemplateMonser](https://www.templatemonster.com/?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud) for the fastest and the safest start at the end of this blog post. We also advise you to check out [Virto Commerce](https://virtocommerce.com/) open source eCommerce platform, a hosted solution and full-service offering, Microsoft Gold Partner, to strategically use eCommerce to build stronger customer relationships and rapidly increase global online sales.
+•	First of all, you need to choose a <strong>safe eCommerce platform</strong>. We will help you with that as you will find some Magento, OpenCart, PrestaShop, and Shopify templates developed by <a href="{{ 'https://www.templatemonster.com/?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>TemplateMonser</a> for the fastest and the safest start at the end of this blog post. We also advise you to check out [Virto Commerce](https://virtocommerce.com/) open source eCommerce platform, a hosted solution and full-service offering, Microsoft Gold Partner, to strategically use eCommerce to build stronger customer relationships and rapidly increase global online sales.
 
 •	<strong>Set up alerts</strong>. You can set up an alert system detecting suspicious activity originating from a single IP address or from a single account (like multiple disparate transactions that use different credit cards or are destined for varied shipping locations.
 
@@ -45,7 +45,7 @@ What's more, eCommerce projects need to constantly educate both their employees 
 
 •	Using <strong>verification systems</strong>. Teach the customer to make use of CAPTCHA, which is two-step verification, and other similar security verification methods when making a transaction to avoid issues with frauds.
 
-Well, these were <strong>10 tricks to wrap your shopping store with fraud protection</strong>. We recommend you to look through the selection of [eCommerce fraud prevention tools](https://www.templatemonster.com/blog/10-ecommerce-fraud-prevention-tools/) able to stop fraudsters in minutes and surely browse the [eCommerce templates](https://www.templatemonster.com/ecommerce-templates.php) built for the safest platforms hereinunder.
+Well, these were <strong>10 tricks to wrap your shopping store with fraud protection</strong>. We recommend you to look through the selection of <a href="{{ 'https://www.templatemonster.com/blog/10-ecommerce-fraud-prevention-tools/' | absolute_url }}" rel="nofollow>eCommerce fraud prevention tools</a> able to stop fraudsters in minutes and surely browse the <a href="{{ 'https://www.templatemonster.com/ecommerce-templates.php' | absolute_url }}" rel="nofollow>eCommerce templates</a> built for the safest platforms hereinunder.
 
 <i>We hope you'll enjoy them.</i>
 
@@ -54,49 +54,14 @@ Well, these were <strong>10 tricks to wrap your shopping store with fraud protec
 This theme designed in soft pastel colors is absolutely perfect for bridal stores. It is not only beautiful but feature-rich. You save $1718 with TM modules included into the template price. The theme was developed for Magento platform, which ensures ultimate security through SSL to let customers feel safe making purchases at your store.
 
 <div style="text-align: center";><img src="../../assets/images/blog/bridal-store-magento-theme.jpg" /></div>
-<div style="text-align: center;"><a href="/https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Details</a> | <a href="/https://www.templatemonster.com/demo/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Demo</a></div>
+<div style="text-align: center;"><a href="{{ '/https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>Details</a> | <a href="{{ '/https://www.templatemonster.com/demo/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>Demo</a>
 
 <h2>Watches Responsive OpenCart Template</h2>
 
 This watches store was created in neutral grey tones. Such kind of background lets your products stand out. The Anti-Fraud modules for your OpenCart store can be accessed under Extensions > Anti-Fraud. The core fraud handling modules are included with the OpenCart package.
 
 <div style="text-align: center";><img src="../../assets/images/blog/watches-responsive-opencart-template.jpg" /></div>
-<div style="text-align: center;"><a href="https://www.templatemonster.com/opencart-templates/watches-responsive-opencart-template-64111.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Details</a> | <a href="https://www.templatemonster.com/demo/64111.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Demo</a></div>
-
-<h2>Recuidi - Healthy Food Store Magento Theme</h2>
-
-This yummy food theme makes a mouthwatering effect on the user with the help of multiple healthy dishes images. The green color is an ideal match for this theme as it is associated with healthy lifestyle and nutrition. You can protect your Magento website with the help of tokenization. Tokenization eliminates a merchant’s need to store customers’ payment information directly by storing it on a payment provider’s secure and PCI compliant infrastructure.
-
-<div style="text-align: center";><img src="../../assets/images/blog/healthy-food-store-magento-theme.jpg" /></div>
-<div style="text-align: center;"><a href="https://www.templatemonster.com/magento-themes/64136.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Details</a> | <a href="https://www.templatemonster.com/demo/64136.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Demo</a></div>
-
-<h2>Tobacco Responsive OpenCart Template</h2>
-
-Smoking Box is good both for selling regular and electronic cigarettes. It has user-friendly navigation and excellent product presentation. As to the anti-fraud protection of your OpenCart store, you need to install the relevant modules before enabling them. The process of installation is similar to installing an extension under Extensions > Modules in OpenCart.
-
-<div style="text-align: center";><img src="../../assets/images/blog/tobacco-responsive-opencart-template.jpg" /></div>
-<div style="text-align: center;"><a href="https://www.templatemonster.com/opencart-templates/tobacco-responsive-opencart-template-64500.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Details</a> | <a href="https://www.templatemonster.com/demo/64500.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Demo</a></div>
-
-<h2>Glasscos PrestaShop Theme</h2>
-
-This modern eyewear template is equipped with a number of hover effects. They boost engagement and user experience. PrestaShop Security service provides security protection of your shop against fraudulent payments. If you do not have an account, you can create one directly from the module: fill in the first field with your e-mail, and check that the second one does contain the correct URL for your shop, then click "Create Account".
-
-<div style="text-align: center";><img src="../../assets/images/blog/glasscos-prestashop-theme.jpg" /></div>
-<div style="text-align: center;"><a href="https://www.templatemonster.com/prestashop-themes/64764.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Details</a> | <a href="https://www.templatemonster.com/demo/64764.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Demo</a></div>
-
-<h2>Home Decor Responsive OpenCart Template</h2>
-
-This theme is a great match for home decor and furniture stores. Its sorting option feature provides online shoppers with multiple product display options. One can opt for a grid or list-based view, sort items by best-selling, display products in alphabetical order, etc. Your online shop will be protected from fraud by fraud handling modules that are included with the OpenCart package.
-
-<div style="text-align: center";><img src="../../assets/images/blog/homedecor-responsive-opencart-template.jpg" /></div>
-<div style="text-align: center;"><a href="https://www.templatemonster.com/opencart-templates/home-decor-responsive-opencart-template-64029.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Details</a> | <a href="https://www.templatemonster.com/demo/64029.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Demo</a></div>
-
-<h2>Wheels & Tires Responsive Shopify Theme</h2>
-
-This bright theme will differentiate you from the competitors. It offers neat 'Quick view' button appearing on the product image. Clicking it, there opens a pop-up with product preview where the buyer can immediately get main information about the product (including product images, product options, price, availability in stock). Shopify's built-in fraud analysis uses machine learning algorithms to help bring suspicious orders to your attention.
-
-<div style="text-align: center";><img src="../../assets/images/blog/wheels-and-tires-responsive-shopify-theme.jpg" /></div>
-<div style="text-align: center;"><a href="https://www.templatemonster.com/shopify-themes/wheels-tires-responsive-shopify-theme-64055.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Details</a> | <a href="https://www.templatemonster.com/demo/64055.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud">Demo</a></div>
+<div style="text-align: center;"><a href="{{ '/https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>Details</a> | <a href="{{ 'https://www.templatemonster.com/demo/64111.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>Demo</a>
 
 <h2><strong>Wind-up</strong></h2>
 
