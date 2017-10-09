@@ -70,3 +70,4 @@ We hope our fraud prevention tips were useful for you. In any case, please keep 
 Please drop us any of your questions/additions/whatever in the comments and may your e-store be the safest place on the web.
 
 <div style="text-align: center";><img src="../../assets/images/blog/10-ways-to-earn-money-and-become-rich-in-the-internet.jpg" /></div>
+</div>
