@@ -55,6 +55,7 @@ This theme designed in soft pastel colors is absolutely perfect for bridal store
 
 <div style="text-align: center";><img src="../../assets/images/blog/bridal-store-magento-theme.jpg" /></div>
 <div style="text-align: center;"><a href="https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">Details</a> | <a href="/https://www.templatemonster.com/demo/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">Demo</a>
+</div>
 
 <h2>Watches Responsive OpenCart Template</h2>
 
