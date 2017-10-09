@@ -13,7 +13,7 @@ title: 10 Ultimate Tricks To Wrap Your Shopping Store with Fraud Protection
 ---
 ### <dfn>Fraud protection is a vital question for any running eCommerce project as well as startup. Over the past year, the number of attacks and frauds occurrence over the Internet has greatly increased. According to Experian data eCommerce fraud in the US increased to 33% in 2016 compared to 2015.</dfn>
 
-<div style="text-align: center";><img src="../../assets/images/blog/10-crucial-tricks-to-wrap-your-shopping-store-with-fraud-protection.gif" /></div>
+<div style="text-align: center;"><img src="../../assets/images/blog/10-crucial-tricks-to-wrap-your-shopping-store-with-fraud-protection.gif" /></div>
 
 Both customers and merchants want to be sure that their data is secure. So web stores must establish practices that minimize fraud risk. Why is fraud protection especially important for eCommerce sites? The answer is obvious because they collect highly sensitive customer data like email, credit card details and a physical address.
 
@@ -21,7 +21,7 @@ Payment and bank details of large organizations and individuals mustn't get into
 
 <i>The key ones include:</i>
 
-•	First of all, you need to choose a <strong>safe eCommerce platform</strong>. We will help you with that as you will find some Magento, OpenCart, PrestaShop, and Shopify templates developed by <a href="{{ 'https://www.templatemonster.com/?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>TemplateMonser</a> for the fastest and the safest start at the end of this blog post. We also advise you to check out [Virto Commerce](https://virtocommerce.com/) open source eCommerce platform, a hosted solution and full-service offering, Microsoft Gold Partner, to strategically use eCommerce to build stronger customer relationships and rapidly increase global online sales.
+•	First of all, you need to choose a <strong>safe eCommerce platform</strong>. We will help you with that as you will find some Magento, OpenCart, PrestaShop, and Shopify templates developed by <a href="https://www.templatemonster.com/?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">TemplateMonser</a> for the fastest and the safest start at the end of this blog post. We also advise you to check out [Virto Commerce](https://virtocommerce.com/) open source eCommerce platform, a hosted solution and full-service offering, Microsoft Gold Partner, to strategically use eCommerce to build stronger customer relationships and rapidly increase global online sales.
 
 •	<strong>Set up alerts</strong>. You can set up an alert system detecting suspicious activity originating from a single IP address or from a single account (like multiple disparate transactions that use different credit cards or are destined for varied shipping locations.
 
@@ -45,7 +45,7 @@ What's more, eCommerce projects need to constantly educate both their employees 
 
 •	Using <strong>verification systems</strong>. Teach the customer to make use of CAPTCHA, which is two-step verification, and other similar security verification methods when making a transaction to avoid issues with frauds.
 
-Well, these were <strong>10 tricks to wrap your shopping store with fraud protection</strong>. We recommend you to look through the selection of <a href="{{ 'https://www.templatemonster.com/blog/10-ecommerce-fraud-prevention-tools/' | absolute_url }}" rel="nofollow>eCommerce fraud prevention tools</a> able to stop fraudsters in minutes and surely browse the <a href="{{ 'https://www.templatemonster.com/ecommerce-templates.php' | absolute_url }}" rel="nofollow>eCommerce templates</a> built for the safest platforms hereinunder.
+Well, these were <strong>10 tricks to wrap your shopping store with fraud protection</strong>. We recommend you to look through the selection of <a href="https://www.templatemonster.com/blog/10-ecommerce-fraud-prevention-tools/" rel="nofollow">eCommerce fraud prevention tools</a> able to stop fraudsters in minutes and surely browse the <a href="https://www.templatemonster.com/ecommerce-templates.php" rel="nofollow">eCommerce templates</a> built for the safest platforms hereinunder.
 
 <i>We hope you'll enjoy them.</i>
 
@@ -54,14 +54,14 @@ Well, these were <strong>10 tricks to wrap your shopping store with fraud protec
 This theme designed in soft pastel colors is absolutely perfect for bridal stores. It is not only beautiful but feature-rich. You save $1718 with TM modules included into the template price. The theme was developed for Magento platform, which ensures ultimate security through SSL to let customers feel safe making purchases at your store.
 
 <div style="text-align: center";><img src="../../assets/images/blog/bridal-store-magento-theme.jpg" /></div>
-<div style="text-align: center;"><a href="{{ '/https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>Details</a> | <a href="{{ '/https://www.templatemonster.com/demo/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>Demo</a>
+<div style="text-align: center;"><a href="https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">Details</a> | <a href="/https://www.templatemonster.com/demo/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">Demo</a>
 
 <h2>Watches Responsive OpenCart Template</h2>
 
 This watches store was created in neutral grey tones. Such kind of background lets your products stand out. The Anti-Fraud modules for your OpenCart store can be accessed under Extensions > Anti-Fraud. The core fraud handling modules are included with the OpenCart package.
 
 <div style="text-align: center";><img src="../../assets/images/blog/watches-responsive-opencart-template.jpg" /></div>
-<div style="text-align: center;"><a href="{{ '/https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>Details</a> | <a href="{{ 'https://www.templatemonster.com/demo/64111.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud' | absolute_url }}" rel="nofollow>Demo</a>
+<div style="text-align: center;"><a href="/https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">Details</a> | <a href="https://www.templatemonster.com/demo/64111.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">Demo</a>
 
 <h2><strong>Wind-up</strong></h2>
 
