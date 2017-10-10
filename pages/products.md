@@ -31,7 +31,7 @@ permalink: products
 			<a class="button striped menu-link" ng-click="scrollTo('addons')" style="cursor: pointer;">Add-ons</a>
 		</li>
 	</ul>
-	<section data-name="section">
+	<section data-name="section" id="commerce">
 		<div class="section-inner responsive">
 			<div class="section-cnt">
 				<div class="section-info">
@@ -66,7 +66,7 @@ permalink: products
 			</div>
 		</div>
 	</section>
-	<section data-name="section">
+	<section data-name="section" id="pim">
 		<div class="section-inner responsive">
 			<div class="section-cnt">
 				<div class="section-info">
@@ -106,7 +106,7 @@ permalink: products
 			</div>
 		</div>
 	</section>
-	<section data-name="section">
+	<section data-name="section" id="oms">
 		<div class="section-inner responsive">
 			<div class="section-cnt">
 				<div class="section-info">
@@ -161,7 +161,7 @@ permalink: products
 			</div>
 		</div>
 	</section>
-	<section data-name="section">
+	<section data-name="section" id="cms">
 		<div class="section-inner responsive">
 			<div class="section-cnt">
 				<div class="section-info">
@@ -191,7 +191,7 @@ permalink: products
 			</div>
 		</div>
 	</section>
-	<section data-name="section">
+	<section data-name="section" id="platform">
 		<div class="section-inner responsive">
 			<div class="section-cnt">
 				<div class="section-info">
@@ -241,7 +241,7 @@ permalink: products
 			</div>
 		</div>
 	</section>
-	<section data-name="section">
+	<section data-name="section" id="addons">
 		<div class="section-inner responsive">
 			<div class="section-cnt">
 				<div class="section-info">
