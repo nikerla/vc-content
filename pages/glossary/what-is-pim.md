@@ -20,7 +20,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-       What is PIM (Product Information Management)? 
+        <h1>What is PIM (Product Information Management)?</h1>
     </div>
     <img alt="What is PIM (Product Information Management)?" src="assets/images/what-is-pim.jpg" />
     <p class="text"><strong>Product Information Management (PIM) Application</strong> is a software solution that is used to market and sell various types of products via distribution channels. Without a centralized location for storing data, companies rely on tedious and time-consuming spreadsheet-based manual data management that make it virtually impossible to satisfy the increasing demands of ecommerce markets. There is no need to spread all across your data, as you can easily manage, consolidate and improve media websites, ERP systems, print catalogs, and data feeds by implementing useful product information management tools. Therefore, if your goal is to find a solution that is centralized, offers independent data maintenance and collection product information, management capabilities are the right fit for you! </p>
