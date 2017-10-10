@@ -13,22 +13,22 @@ permalink: products
 	</div>
 	<ul class="menu __responsive">
 		<li class="menu-item">
-			<a href="#commerce" class="button striped menu-link" ng-click="scrollTo('commerce')">Commerce</a>
+			<a class="button striped menu-link" ng-click="scrollTo('commerce')" style="cursor: pointer;">Commerce</a>
 		</li>
 		<li class="menu-item">
-			<a href="#pim" class="button striped menu-link" ng-click="scrollTo('pim')">Pim</a>
+			<a class="button striped menu-link" ng-click="scrollTo('pim')" style="cursor: pointer;">Pim</a>
 		</li>
 		<li class="menu-item">
-			<a href="#oms" class="button striped menu-link" ng-click="scrollTo('oms')">Oms</a>
+			<a class="button striped menu-link" ng-click="scrollTo('oms')" style="cursor: pointer;">Oms</a>
 		</li>
 		<li class="menu-item">
-			<a href="#cms" class="button striped menu-link" ng-click="scrollTo('cms')">Cms</a>
+			<a class="button striped menu-link" ng-click="scrollTo('cms')" style="cursor: pointer;">Cms</a>
 		</li>
 		<li class="menu-item">
-			<a href="#platform" class="button striped menu-link" ng-click="scrollTo('platform')">Platform</a>
+			<a class="button striped menu-link" ng-click="scrollTo('platform')" style="cursor: pointer;">Platform</a>
 		</li>
 		<li class="menu-item">
-			<a href="#addons" class="button striped menu-link" ng-click="scrollTo('addons')">Add-ons</a>
+			<a class="button striped menu-link" ng-click="scrollTo('addons')" style="cursor: pointer;">Add-ons</a>
 		</li>
 	</ul>
 	<section data-name="section">
