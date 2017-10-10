@@ -13,22 +13,22 @@ permalink: products
 	</div>
 	<ul class="menu __responsive">
 		<li class="menu-item">
-			<a href="#commerce" class="button striped menu-link">Commerce</a>
+			<a href="#commerce" class="button striped menu-link" target="_self">Commerce</a>
 		</li>
 		<li class="menu-item">
-			<a href="#pim" class="button striped menu-link">Pim</a>
+			<a href="#pim" class="button striped menu-link" target="_self">Pim</a>
 		</li>
 		<li class="menu-item">
-			<a href="#oms" class="button striped menu-link">Oms</a>
+			<a href="#oms" class="button striped menu-link" target="_self">Oms</a>
 		</li>
 		<li class="menu-item">
-			<a href="#cms" class="button striped menu-link">Cms</a>
+			<a href="#cms" class="button striped menu-link" target="_self">Cms</a>
 		</li>
 		<li class="menu-item">
-			<a href="#platform" class="button striped menu-link">Platform</a>
+			<a href="#platform" class="button striped menu-link" target="_self">Platform</a>
 		</li>
 		<li class="menu-item">
-			<a href="#addons" class="button striped menu-link">Add-ons</a>
+			<a href="#addons" class="button striped menu-link" target="_self">Add-ons</a>
 		</li>
 	</ul>
 	<section data-name="section">
