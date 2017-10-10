@@ -13,22 +13,22 @@ permalink: products
 	</div>
 	<ul class="menu __responsive">
 		<li class="menu-item">
-			<a href="#commerce" class="button striped menu-link" target="_self">Commerce</a>
+			<a href="#commerce" class="button striped menu-link" ng-click="scrollTo('commerce')">Commerce</a>
 		</li>
 		<li class="menu-item">
-			<a href="#pim" class="button striped menu-link" target="_self">Pim</a>
+			<a href="#pim" class="button striped menu-link" ng-click="scrollTo('pim')">Pim</a>
 		</li>
 		<li class="menu-item">
-			<a href="#oms" class="button striped menu-link" target="_self">Oms</a>
+			<a href="#oms" class="button striped menu-link" ng-click="scrollTo('oms')">Oms</a>
 		</li>
 		<li class="menu-item">
-			<a href="#cms" class="button striped menu-link" target="_self">Cms</a>
+			<a href="#cms" class="button striped menu-link" ng-click="scrollTo('cms')">Cms</a>
 		</li>
 		<li class="menu-item">
-			<a href="#platform" class="button striped menu-link" target="_self">Platform</a>
+			<a href="#platform" class="button striped menu-link" ng-click="scrollTo('platform')">Platform</a>
 		</li>
 		<li class="menu-item">
-			<a href="#addons" class="button striped menu-link" target="_self">Add-ons</a>
+			<a href="#addons" class="button striped menu-link" ng-click="scrollTo('addons')">Add-ons</a>
 		</li>
 	</ul>
 	<section data-name="section">
