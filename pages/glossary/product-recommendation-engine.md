@@ -32,7 +32,7 @@ tags :
     <p class="text">Certain brands and products always tend to resonate better with the majority of customers than others. Recommender systems in e commerce can show you which products in your store are most popular with your customers. This can help you plan your inventory better and use the knowledge in your marketing strategy. </p>
     <h2>Follow customer’s journeys</h2>
     <p class="text">Ecommerce recommendations can help you get a better understanding of your customer’s journeys. Our product recommendation engine will show you how they browse the store, what they like, what they choose, and when most conversions happen. It can also suggest information you might not have even considered looking at, like the time when most of the transactions occur. Mapping the customer journey can also give you insights on where your conversion process gets stuck, and how to fix it.</p>
-    <p></p>
+    <br></br>
     <p class="text">Built using Azure Machine Learning, the Recommendations engine uses customer data (past customer activity you’ve uploaded or data collected directly from your digital store) to recommend items for your buyers. It is a powerful tool that uses gathered data and machine-learning to identify the most relevant product recommendations for each customer interaction.</p>
     <p class="text">Here are a few key features.</p>
     <h2>Frequently bought together</h2>
