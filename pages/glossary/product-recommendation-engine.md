@@ -4,13 +4,13 @@ description: Our Azure-based recommendation engine personalizes the products eac
 date: 2017-10-12
 canonical: https://virtocommerce.com/product-recommendation-engine
 permalink: glossary/product-recommendation-engine
-ogimage: ../../assets/images/product-recommendation-engine.jpg
+ogimage: ../../assets/images/product-recommendation-engine.jpeg
 ogtitle: Product recommendation engine
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
 twitterdescription: Virto Commerce is a powerful ecommerce platform that includes everything you need to create an online store and sell online. Try it free with Free Community License
-twitterimage: ../../assets/images/product-recommendation-engine.jpg
+twitterimage: ../../assets/images/product-recommendation-engine.jpeg
 twittersite: Virtocommerce
 layout: glossary
 tags : 
@@ -22,7 +22,7 @@ tags :
     <div class="head __cart">
         <h1>Product recommendation engine</h1>
     </div>
-    <img alt="Product recommendation engine" src="assets/images/product-recommendation-engine.jpg" />
+    <img alt="Product recommendation engine" src="assets/images/product-recommendation-engine.jpeg" />
     <p class="text">A <strong>product recommendation engine</strong>, although it’s a sophisticated and complicated system, can be explained in fairly simple terms. You have products to sell. You want your customers to find those products. Your website has limited space. The search function can often miss the context of what your buyer is actually looking for. Our Azure-based recommendation engine personalizes the products each customer sees at different times. As a result, you get higher conversion rates on every view and the buyers find what they want right at the time they are ready to make a purchase.</p>
     <p class="text">Ecommerce product recommendations have been around for a while in the eCommerce industry. So what makes product recommendation so great and why is it a smart idea to invest in a product recommendation engine for your eCommerce business?</p>
     <h2>Personalize customer experience</h2>
