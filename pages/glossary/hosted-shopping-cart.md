@@ -54,8 +54,9 @@ tags:
             <li><strong>Fast and Easy Checkout.</strong> Checkout is the final moment of the purchase and you, as the owner have to go out of your way to make the checkout process painless to your customer.  Remember that clients always look for the shortest line and want to complete the final steps as fast as possible. To do that, you need to ensure that your checkout form has very few fields and is located on a single page. By doing this, you will promote the user-friendliness of the website and allow for better conversion rates.</li>
             <li><strong>Deals and Discounts.</strong> Deal shoppers love to use their coupons. With multiple services that can provide coupons, your website has to be adapted to receive them and promote special deals. Special deals along with the features we have previously highlighted will result in a pleasant customer experience and boost your sales in no time.</li>
         </ol>
-        <p>Having the must-have features covered, let’s move on to looking at the most widely-used shopping carts out there.</p>
+        <p>Having the must-have features covered, let’s move on to looking at the most widely-used hosted shopping carts out there.</p>
     </div>
+    <h2>Hosted Shopping Carts List</h2>
     <h2><a href="https://www.shopify.com" target="_blank" rel="nofollow">Shopify</a></h2>
     <div class="col-w">
         <div class="col __col-30">
