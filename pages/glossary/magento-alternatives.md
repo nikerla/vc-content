@@ -38,6 +38,7 @@ tags:
         </ol>
         <p>With these points in mind let’s look at the following alternatives to Magento!</p>
     </div>
+    <h2>List of Magento Competitors</h2>
     <h2>Shopify</h2>
     <div class="col-w">
         <div class="col __col-30">
