@@ -32,7 +32,7 @@ B2C is heavily focused on the acquisition aspect. The main goal is to acquire cu
 
 In B2B on the other hand you sell high volumes of product to the same buyer. So, the main priority is to retain that buyer - to build and maintain long-term partnerships. In that regard it’s also important to remember that the buyer in B2B is often not the end consumer, but a purchasing agent – a specially trained person who makes buying decisions.
 
-Based on this difference, the priorities when choosing the right e-commerce solution will be different, too. B2B e-commerce requires easy and convenient tools, which may include
+Based on this difference, the priorities when choosing the right e-commerce solution will be different, too. <a href="{{ '/b2b-ecommerce-platform' | absolute_url }}">B2B e-commerce</a> requires easy and convenient tools, which may include
 
 * Flexible catalog taxonomy (ability to create master and virtual catalogs while assigning them to different storefronts),
 * Scope based security for catalogs to only manage your specific external catalog and allow for quick integration to enable complex B2B scenarios...
