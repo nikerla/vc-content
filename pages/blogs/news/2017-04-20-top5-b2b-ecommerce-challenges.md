@@ -31,7 +31,7 @@ Unlike B2C sector, where everyone pretty much gets the same assortment, B2B need
 The perfect B2B e-commerce platform will let you enable filtering in your product catalog based on vendors, so each buyer’s experience will be locked down to them specifically. 
 
 If you already have a large catalog set up however, migration can be a scary and painful process. Sometimes it’s just simply not worth the risks of loosing important items or creating additional mess in your database, even if a new platform offers the most fantastic features. It’s totally understandable. 
-The good news is there are solutions out there, which let you avoid the nightmare of data migration by simply merging the new system with your already existing third party PIM or CMS solution. 
+The good news is there are solutions out there, which let you avoid the nightmare of data migration by simply merging the new system with your already existing third party <a href="{{ '/product-information-management' | absolute_url }}">PIM</a> or CMS solution. 
 
 *For example, you are a major B2B vendor with a massive catalog of products, which all your partners and distributors are ordering from. Your current set-up for this catalog might not be ideal, but it works, and that’s what matters. Having B2B-specific features in it would be amazing and being able to run promotions with a few clicks could make your life so much easier (and very likely up your sales), but then again, there is the challenge of migrating of an entire database that is not only huge, but also extremely valuable. One wrong move can cost a major disaster! So, no – migration is just not an option.*
 
