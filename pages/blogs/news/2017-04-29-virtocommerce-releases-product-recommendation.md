@@ -28,7 +28,7 @@ According to [Matt Marshall’s article](https://venturebeat.com/2006/12/10/aggr
 
 From the business side of things having this feature also means that instead of having a marketing and sales analyst, who dedicates his entire time to gathering and processing the sales data and forms marketing strategies based on it you can now have an automatic service doing the work and dedicate your precious human resources to further growing your business. 
 
-From the marketing point of view the product recommendation feature can help you understand your customers better by seeing how they browse the catalog, what draws their attention, and how they choose what to purchase. It can also provide information you might not have even considered looking at! For example, the time when most of your sales happen, or the right kind of customer for a particular product you are looking to add. Tracking a customer’s journey can provide you with insights on where your interaction with the potential buyer gets stuck, and give ideas on how to fix it.
+From the marketing point of view the product recommendation feature can help you understand your customers better by seeing how they browse the catalog, what draws their attention, and how they choose what to <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}">purchase</a>. It can also provide information you might not have even considered looking at! For example, the time when most of your sales happen, or the right kind of customer for a particular product you are looking to add. Tracking a customer’s journey can provide you with insights on where your interaction with the potential buyer gets stuck, and give ideas on how to fix it.
 
 <img src='../../assets/images/blog/recc.jpg'>
 
