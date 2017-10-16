@@ -45,7 +45,7 @@ tags :
 	    <h2 class="sub-title">Why is it valuable?</h2>
 	    <p>A Punchout website eliminates the Buying organization's need to import supplier catalogs directly into their procurement system thereby saving time and expense.</p>
         <p>Punchout Catalogs allow displaying the pricing, items amount and products availability in real-time without the need to track updates in the buyers’ catalogs.</p>
-        <p>The punch out catalog increases order accuracy and speed of processing, and these factors always affect the customers’ loyalty and satisfaction.</p>
+        <p>The punch out catalog increases <a href="{{ '/order-management-software' | absolute_url }}">order</a> accuracy and speed of processing, and these factors always affect the customers’ loyalty and satisfaction.</p>
     </div>
 	<div class="buttons">
 		<a class="button fill" href="/try-now">Try It Now</a>
