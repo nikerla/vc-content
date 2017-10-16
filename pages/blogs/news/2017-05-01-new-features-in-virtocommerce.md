@@ -32,7 +32,7 @@ You can find all the details and a lot of additional information about it in our
 Elasticsearch achieves faster responses by searching an index instead of going through the text directly. It uses [Apache Lucene](https://lucene.apache.org/) to create and manage the “inverted index” – essentially it’s like finding pages in a book that contain a certain keyword by scanning the index on the book cover, as opposed to going through every word on every page. With its features and upgrades it can basically function as kind of a schema-less JSON datastore, where you can access the data through either search queries or regular database CRUD commands.
 
 It also provides analyzers and categorizers that let you find items almost instantly - you can use ratings, scores and relevant results to aid your search. 
-Elasticsearch is a great solution for your datastore, especially if hardware capability is not an issue for your business! It is fully compatible with our Virto Commerce platform and recommended by our team. 
+Elasticsearch is a great solution for your datastore, especially if hardware capability is not an issue for your business! It is fully compatible with our <a href="{{ '/b2b-ecommerce-platform' | absolute_url }}">Virto Commerce platform</a> and recommended by our team. 
 
 From the business point of view however, the downside of it is that it doesn’t work as a service, so you need an actual physical machine to run it, which means additional investments in hardware.
 
