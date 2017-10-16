@@ -148,7 +148,7 @@ tags :
             <div class="col __col-80 text" style="margin-top: 0; padding-left: 20px;">
                 <h2>What is PIM and how is it beneficial for your business to business e commerce system?</h2>
                 <p>PIM systems enrich ERP product data by categorizing and unifying product data. The result can be used in your business to business in ecommerce in order to make sure your product pages provide complete and comprehensive data.</p>
-                <p>Product information management (PIM) systems give a huge advantage for B2B ecommerce stores by allowing them to provide more detailed product specifications.</p>
+                <p><a href="{{ '/product-information-management' | absolute_url }}">Product information management (PIM)</a> systems give a huge advantage for B2B ecommerce stores by allowing them to provide more detailed product specifications.</p>
             </div>
         </div>
         <h2>What are b2b e commerce KPIs?</h2>
