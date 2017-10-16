@@ -59,7 +59,7 @@ From the vendor’s side working closely with our clients on implementing their 
 
 <h2>Here’s how we do it</h2>
 
-We stick to some core principles that we believe are helpful in meeting today’s standards of e-commerce market and keeping up with its fast pace:
+We stick to some core principles that we believe are helpful in meeting <a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}">today’s standards of e-commerce market</a> and keeping up with its fast pace:
 
 •	Virto Commerce platform is open source ([check out our GitHub repository](https://github.com/VirtoCommerce/vc-platform))
 
