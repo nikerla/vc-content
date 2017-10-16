@@ -91,7 +91,7 @@ tags :
         </li>
         <li>
             <p>
-                Magento is a free, open-source platform that allows you to create a self-hosted store with scalable architecture
+                <a href="{{ '/glossary/magento-alternatives' | absolute_url }}">Magento</a> is a free, open-source platform that allows you to create a self-hosted store with scalable architecture
                 and powerful SEO. But coding skills are required to customize the platform to your needs. And you would have
                 to host Magento solution on your own server. Not the best choice for a small company or for a newbie.
             </p>
