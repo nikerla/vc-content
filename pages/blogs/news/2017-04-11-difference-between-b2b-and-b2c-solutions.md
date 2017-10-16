@@ -16,7 +16,7 @@ title: Difference between B2B and B2C ecommerce solution
 ---
 ### B2B and B2C e-commerce - what’s the difference?
 
-When choosing a B2B e-commerce solution, it’s essential to identify the key differences between B2B and B2C e-commerce in order to make sure your platform of choice meets the specific requirements of your business. There are currently quite a few platforms on the market, and choosing the right one out of the spectrum may prove to be quite challenging. Having developed the Virto Commerce platform with a heavy focus on B2B in mind we have come across a number of specific needs the sector has, that are hard to meet with a standard e-commerce solution.
+When choosing a B2B e-commerce solution, it’s essential to identify the key differences between <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">B2B</a> and B2C e-commerce in order to make sure your platform of choice meets the specific requirements of your business. There are currently quite a few platforms on the market, and choosing the right one out of the spectrum may prove to be quite challenging. Having developed the Virto Commerce platform with a heavy focus on B2B in mind we have come across a number of specific needs the sector has, that are hard to meet with a standard e-commerce solution.
 
 #### 1. The size
 
