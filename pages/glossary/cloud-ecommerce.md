@@ -72,7 +72,7 @@ tags:
         <h4>SaaS (Software as a Service)</h4>
         <p><a href="{{ '/glossary/saas-ecommerce' | absolute_url }}">Software-as-a-Service</a> means that a third-party hosting service provider gives clients access to various cloud ecommercev solutions on a pay-as-you-go basis.</p>
         <p>This service type is very popular among e-commerce vendors. Modern applications allow your business to improve its customer' experience and expand the online store with advanced features, such as smart shopping cart or mobile-friendly applications.</p>
-        <p>Among the most popular SaaS solutions are Salesforce, NetSuite, Slack and others.</p>
+        <p>Among the most popular <a href="{{ '/glossary/saas-ecommerce' | absolute_url }}">SaaS</a> solutions are Salesforce, NetSuite, Slack and others.</p>
         <p>An optimal choice for an e-commerce business however would be a solution that combines a platform with a ready-to-use set of software tools. In other words, PaaS and SaaS built specifically for e-commerce. Our cloud e-commerce software - Virto Commerce, is considered one of the <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}">best e-commerce platforms</a> with its own SaaS support. This cloud ecommerce can meet any of your sales and promotional needs and help grow your business into a powerful online store with impressive features.</p>
     </div>
     <div class="col-w">
