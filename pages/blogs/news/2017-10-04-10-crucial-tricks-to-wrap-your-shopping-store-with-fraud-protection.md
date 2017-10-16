@@ -51,7 +51,7 @@ Well, these were <strong>10 tricks to wrap your shopping store with fraud protec
 
 <h2>Grand Bridal - Bridal Store Magento Theme</h2>
 
-This theme designed in soft pastel colors is absolutely perfect for bridal stores. It is not only beautiful but feature-rich. You save $1718 with TM modules included into the template price. The theme was developed for Magento platform, which ensures ultimate security through SSL to let customers feel safe making purchases at your store.
+This theme designed in soft pastel colors is absolutely perfect for bridal stores. It is not only beautiful but feature-rich. You save $1718 with TM modules included into the template price. The theme was developed for <a href="{{ '/glossary/magento-alternatives' | absolute_url }}">Magento platform</a>, which ensures ultimate security through SSL to let customers feel safe making purchases at your store.
 
 <div style="text-align: center";><img src="../../assets/images/blog/bridal-store-magento-theme.jpg" /></div>
 <div style="text-align: center;"><a href="https://www.templatemonster.com/magento-themes/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">Details</a> | <a href="/https://www.templatemonster.com/demo/62101.html?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">Demo</a>
