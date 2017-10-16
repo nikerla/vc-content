@@ -38,7 +38,7 @@ tags:
         </ul>
     </div>
     <div class="text">
-        <p>The term <a href="{{ '/our-offers/cloud-ecommerce-platform' | absolute_url }}">"cloud e-commerce"</a> refers to the process of outsourcing of a remote network of servers hosted on the Internet to use application services, store and process data. Essentially, it is a cloud-based e-commerce versus software installed on a local server.</p>
+        <p>The term "cloud e-commerce" refers to the process of outsourcing of a remote network of servers hosted on the Internet to use application services, store and process data. Essentially, it is a cloud-based e-commerce versus software installed on a local server.</p>
         <p>Cloud ecommerce solutions provide a wide range of benefits over traditional on-premise storage. Within the last ten years cloud has gained popularity due to reduced complexity and lower cost of maintenance. Nowadays, cloud ecommerce has become become the most optimal solution model on the market.</p>
         <h2>Scalability on demand</h2>
         <p>The extreme traffic variability in e-commerce with its seasonal spikes creates a unique workload for e-commerce hosting.</p>
