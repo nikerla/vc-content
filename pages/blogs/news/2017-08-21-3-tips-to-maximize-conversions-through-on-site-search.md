@@ -79,7 +79,7 @@ d)	Populate results with product images
 
 4.	Product Images
 
-One of the most effective ways to reduce the rate of abandonment and increase conversions is shortening the cycle to the checkout. In other words, the fewer the clicks it takes for a visitor to complete a purchase, the better. Including product images in the search results is one way to do this.
+One of the most effective ways to reduce the rate of abandonment and increase conversions is shortening the cycle to the checkout. In other words, the fewer the clicks it takes for a visitor to complete a <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}">purchase</a>, the better. Including product images in the search results is one way to do this.
 
 Including thumbnails of products in the autocomplete allows site visitors to see the product without having to click on it. 
 
