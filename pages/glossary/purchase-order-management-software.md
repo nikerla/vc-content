@@ -33,7 +33,7 @@ tags :
     <h2><strong>Optimize spending</strong></h2>
     <p class="text">With our POMS you can set up a cloud-based sales order management system that will allow your customers to send in purchase requests for items from every single supplier you interact with and in the end, put it through your regular purchase system that is approved by you. This eliminates the double process that involves getting a product from a supplier to a final user and merges it into one continuous action.</p>
     <h2><strong>Inventory Flexibility</strong></h2>
-    <p class="text">If your end goal is to make your business run smoother, you will never regret picking our purchase order management system. It will allow you to eliminate primitive and mundane paperwork and to better run your inventory prompting bigger revenues.</p>
+    <p class="text">If your end goal is to make your business run smoother, you will never regret picking our purchase <a href="{{ '/order-management-software' | absolute_url }}">order management system</a>. It will allow you to eliminate primitive and mundane paperwork and to better run your inventory prompting bigger revenues.</p>
     <p class="text">In addition, with the perfectly customized and calibrated order tracking software you will enjoy developing stronger ties with your customers, by delivering their purchases quickly and providing top-notch customer support. </p>
     <p class="text">The problem of overstock or stock out will become the thing of the past, as your business will become more productive working with vendors. There is no more space for human error when you provide regular user-friendly updates.</p>
     <div class="buttons">
