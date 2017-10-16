@@ -30,7 +30,7 @@ Now we're excited to share our impressions from this experience.
 
 The conference had over 660 participants – seasoned professionals in the eCommerce field, among which were such companies as Timberland PRO, Thomas Reuters, Staples, Oracle, Lowes Home Improvement, LG Electronics, IBM, FedEx Supply Chain, eBay, Dell, Inc., Coca-Cola Refreshments, Bosch, Amazon, Adobe and many more leaders of the industry.
 
-The event offered multiple ways of participating from interactive roundtable discussions and case study presentations, to various panels and Q&A sessions. The speakers did a great job of presenting their topics; and we were pleased to see some great opportunities for our platform to be the solution for a lot of manufacturers within the B2B sector.
+The event offered multiple ways of participating from interactive roundtable discussions and case study presentations, to various panels and Q&A sessions. The speakers did a great job of presenting their topics; and we were pleased to see some great opportunities for our platform to be the solution for a lot of manufacturers within the <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">B2B</a> sector.
 
 **MAIN TAKEAWAYS**
 
