@@ -65,7 +65,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
             </div>
             <div class="col-w">
                 <div class="col __col-50 text" style="margin-top: 0; padding-right: 20px;">
-                    Take a look at the flexible pricing engine with on-fly personalization capability for distributors, resellers, and wholesalers. Prices can also be personalized using audiences, ad campaigns, purchase history, geolocation, contracts and other B2B-related scenarios.
+                    Take a look at the flexible pricing engine with on-fly personalization capability for distributors, resellers, and wholesalers. Prices can also be personalized using audiences, ad campaigns, <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}">purchase</a> history, geolocation, contracts and other B2B-related scenarios.
                     <p>Trial VirtoCommerce now and discover the fantastic benefits that our B2B e-commerce software provides.</p>
                 </div>
                 <div class="col __col-50">
