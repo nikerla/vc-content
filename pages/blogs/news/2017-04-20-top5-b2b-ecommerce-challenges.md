@@ -19,7 +19,7 @@ title: Top 5 B2B eCommerce challenges and solutions
 
 In order to better understand the most common challenges B2B vendors face and to look at how to solve them, we first need to answer one key question - why do e-commerce to begin with? What’s its main goal?
 
-The goals of B2B e-commerce are quite different from those of B2C and thus, the ways of achieving them will also be different. B2C e-commerce targets a huge pool of customers and lower sales quantities per customer, so acquisition will be its main focus.
+The goals of <a href="{{ '/b2b-ecommerce-platform' | absolute_url }}">B2B e-commerce</a> are quite different from those of B2C and thus, the ways of achieving them will also be different. B2C e-commerce targets a huge pool of customers and lower sales quantities per customer, so acquisition will be its main focus.
 B2B on the other hand sells high quantities of product or service to the same buyer, who is often not the end consumer, but a purchasing agent specially trained to make buying decisions. So, the main priority is to build and maintain long-term partner relations. The focus in e-commerce here is on the tools being easy and convenient to use rather than having a flashy and catchy website.
 
 E-commerce is meant to help B2B vendors achieve their main goals by getting routine orders out of the way, so that field sales managers can focus on building and maintaining partner relationships rather than simply be the order-takers. And here is where some common challenges come up. We’ve put together the top 5 ones on the list paired with convenient solutions that quality e-commerce platforms provide.
