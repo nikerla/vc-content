@@ -28,7 +28,7 @@ tags:
             </div>
             <div class="col __col-70 text">
                 <p>Virto Commerce provides an industry leading cloud-based order management software (OMS) that streamlines your sales, order management and order fulfillment processes from sales quote to delivery. Our order management system ensures fast and easy purchasing and shipping for your customers helping improve your sales rates and sales order processing accuracy.</p>
-                <p>The Virto Commerce ecommerce web-based order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP, accounting and fulfillment systems. It simplifies your purchase order management processes freeing up time and resources for your team to focus on building customer relations. </p>
+                <p>The Virto Commerce ecommerce web-based order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP, accounting and fulfillment systems. It simplifies your <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}">purchase order management</a> processes freeing up time and resources for your team to focus on building customer relations. </p>
                 <p>Our most advanced order processing system and order tracking system help keep things organized and ensure the purchases get shipped and delivered on time and that you always have the most accurate overview of your inventory. </p>
                 <p>Real-time access to sales, order statuses, and other key information will drastically increase the level of your business performance.</p>
                 <div class="buttons">
