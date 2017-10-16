@@ -1,5 +1,5 @@
-﻿---
-title: Dynamic content - Virto Commerce 2 User Guide
+---
+title: Dynamic content
 description: The article about dynamic content in Virto Commerce
 layout: docs
 date: 2015-06-09T15:54:06.013Z
