@@ -16,7 +16,7 @@ With this policy each promotion can be combined with all other promotions in an 
 In addition, resulting promotion  rewards can be stacked on top of other promotions rewards  in the same reward group (shipment, item, order), which overrides certain promotion policies. 
 The priority of promotions determines whether a stackable promotion rewards applies to an order. 
 
-The following tables detail how promotions rewards are applied compared to other promotions. How promotions are applied is based on different priorities and the exclusivity with other promotions settings:
+The following table detail how promotions rewards are applied compared to other promotions. How promotions are applied is based on different priorities and the exclusivity with other promotions settings:
 
 ![](../../../assets/images/docs/promotions-combining-table.png)
 
