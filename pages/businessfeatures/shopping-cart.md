@@ -40,7 +40,7 @@ tags :
 			</ul>
 		</div>
 		<h2 class="sub-title">Open source shopping cart software</h2>
-		<p class="text">Here’s some great news for smaller companies - Virto Commerce is now available for startups! Pretty much every company faces a point in its growth when using free shopping cart software is simply not enough for its business needs anymore. However, many startups experience all sorts of complications when a migration from free/hosted shopping cart software to a more sophisticated ecommerce platform is required. Let alone the upfront investments that are usually required - so it can be a scary move.</p>
+		<p class="text">Here’s some great news for smaller companies - Virto Commerce is now available for startups! Pretty much every company faces a point in its growth when using free shopping cart software is simply not enough for its business needs anymore. However, many startups experience all sorts of complications when a migration from free/<a href="{{ '/glossary/hosted-shopping-cart' | absolute_url }}">hosted shopping cart</a> software to a more sophisticated ecommerce platform is required. Let alone the upfront investments that are usually required - so it can be a scary move.</p>
 		<p class="text">This is where Free Virto Commerce Community Edition deployed on Microsoft Azure Cloud becomes a natural choice for any startup. It lets you adopt the fully ready ASP shopping cart along with the solution that’s going to grow along with your business. And it’s risk-free for your company’s budget - we only benefit, if you do!</p>
 		<h2 class="sub-title">Shopping user experience</h2>
         <div class="col-w">

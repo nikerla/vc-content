@@ -15,7 +15,7 @@ title: 10 Ultimate Tricks To Wrap Your Shopping Store with Fraud Protection
 
 <div style="text-align: center;"><img src="../../assets/images/blog/10-crucial-tricks-to-wrap-your-shopping-store-with-fraud-protection.gif" /></div>
 
-Both customers and merchants want to be sure that their data is secure. So web stores must establish practices that minimize fraud risk. Why is fraud protection especially important for eCommerce sites? The answer is obvious because they collect highly sensitive customer data like email, credit card details and a physical address.
+Both customers and merchants want to be sure that their data is secure. So web stores must establish practices that minimize fraud risk. Why is fraud protection especially important for <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}">eCommerce sites</a>? The answer is obvious because they collect highly sensitive customer data like email, credit card details and a physical address.
 
 Payment and bank details of large organizations and individuals mustn't get into the wrong hands! If you agree with this, please read on and get to know what actions an eCommerce store can take to increase customers' safety and protect the store from frauds.
 

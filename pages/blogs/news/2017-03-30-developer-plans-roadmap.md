@@ -20,7 +20,7 @@ We never stop working on our platform, making sure that it always stays up-to- d
 2. __Introducing more scenarios__ and prioritizing updates for the B2B sector. Among some key new features are
   * Personalized product catalogs / experience module enabling each company to have its own account where it can add users, assign customer roles, give budgets to those roles, etc.
   * “Login to buy” option hiding prices for anonymous users. This new feature will also allow setting different prices for different accounts and adding multiple addresses.
-  * Sample subscription store, Sample multi vendor store and Sample Marketplace store. SaaS will now be offering new store scenario selection, making the process of using store scenarios easy and convenient.
+  * Sample subscription store, Sample multi vendor store and Sample Marketplace store. <a href="{{ '/glossary/saas-ecommerce' | absolute_url }}">SaaS</a> will now be offering new store scenario selection, making the process of using store scenarios easy and convenient.
 3. __Improving platform technology__. We’re always making sure we’re accommodating the newest trends with our platform. We’re now moving more and more towards actively using microservices and generally increasing module use.
 
 We’re also introducing a catalog extension model that will allow adding extensions to a central module for changes instead of needing to apply changes directly to the module itself.

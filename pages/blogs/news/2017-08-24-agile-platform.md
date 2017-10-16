@@ -33,7 +33,7 @@ Using the Agile methodology is a necessity because of the fast-paced environment
 Regularly, new disruptive technologies appear that change user experience entirely. The way we approach customers is being reimagined and redefined by new touch points every year. 
 Supporting cross-platforming and accommodating omnichannel strategies have become essential in today’s market, as bigger brands may have to work with hundreds of new customer touchpoints. This environment creates risks for new integrations, and custom development can become time-consuming, cumbersome, and costly for bigger companies, resulting in increased time to market. 
 
-Another major challenge that top brands face is a geographical expanse of the sales. A lot of platforms lack the ability to rapidly monetize new technologies and to support geographic regions that require adjusting to local currencies and payment methods, as well as working with local partners, accommodating for local laws, taxes, and logistics.
+Another major challenge that top brands face is a geographical expanse of the sales. A lot of <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}">platforms</a> lack the ability to rapidly monetize new technologies and to support geographic regions that require adjusting to local currencies and payment methods, as well as working with local partners, accommodating for local laws, taxes, and logistics.
 
 An internal challenge often presents itself for the major brands when a lot of different legacy and new systems need to be integrated with each other - from ERPs to SalesForce type of tools - or when a business starts growing by merging with smaller companies. All the participants of this process might already have their established digital eco-systems, which are often extremely challenging to combine. Plus, lots of older backend systems are not built to handle the requirements of the modern e-commerce sites (performance, 24/7 availability, instant pricing, etc.). As a result, many of the traditional processes need completely rethought. 
 
@@ -59,7 +59,7 @@ From the vendor’s side working closely with our clients on implementing their 
 
 <h2>Here’s how we do it</h2>
 
-We stick to some core principles that we believe are helpful in meeting today’s standards of e-commerce market and keeping up with its fast pace:
+We stick to some core principles that we believe are helpful in meeting <a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}">today’s standards of e-commerce market</a> and keeping up with its fast pace:
 
 •	Virto Commerce platform is open source ([check out our GitHub repository](https://github.com/VirtoCommerce/vc-platform))
 

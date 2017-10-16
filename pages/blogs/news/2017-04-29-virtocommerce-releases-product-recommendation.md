@@ -46,7 +46,7 @@ Our product recommendation feature is going to work in two modes:
 * User-based
 * Product-based
 
-We are now mainly focusing on polishing the first one. The system observes and analyzes a user’s shopping behavior and builds recommendations based on what it has learned. The AI’s algorithms are based on several key elements: users’ viewing and purchase history, items they add to the shopping cart, and what other customers with similar behavior have viewed and purchased. 
+We are now mainly focusing on polishing the first one. The system observes and analyzes a user’s shopping behavior and builds recommendations based on what it has learned. The AI’s algorithms are based on several key elements: users’ viewing and purchase history, items they add to the <a href="{{ '/glossary/hosted-shopping-cart' | absolute_url }}">shopping cart</a>, and what other customers with similar behavior have viewed and purchased. 
 
 As a result, when a customer enters the homepage as a registered user, the website shows the products they might like based on what they have bought, considered or viewed before.
 
