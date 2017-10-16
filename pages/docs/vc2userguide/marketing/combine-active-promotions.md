@@ -31,4 +31,4 @@ How to switch on the promotions stackable combination policy:
 ![](../../../assets/images/docs/promotions-combining-setup-2.png)
 
 ## Best reward policy
-If this combination policy was choosen there is not stackable combination occur, and user will recieve only best rewards for each group (that benefits the customer the most)
+As a result of this combination policy, no rewards are stacked, and the user receives only the best rewards for each group (which is most beneficial to the client)
