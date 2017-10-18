@@ -33,7 +33,7 @@ tags :
 									<span class="descr">Provide product recommendations based on customer behaviour.</span>
 								</li>								
 								<li>
-									<span class="title">Personalized B2B product catalog</span>
+									<span class="title">Personalized <a href="/b2b-ecommerce-platform">B2B product catalog</a></span>
 									<span class="descr">Out of the box module that allows creating business rules to customer B2B user experiences based on contract and terms.</span>
 								</li>
 							</ul>
@@ -96,7 +96,7 @@ tags :
 									<span class="descr">Quotation system enables business users to execute quote requests online with custom pricing without a need to create special coupons.</span>
 								</li>
 								<li>
-									<span class="title">Document based order system</span>
+									<span class="title"><a href="/order-management-software">Document based order system</a></span>
 									<span class="descr">This model has a new architecture that provides transaction model and support for simplifying various B2B and B2C scenarios. Integration with ERP and WMS platforms will be much more intuitive and simple.</span>
 								</li>
 								<li>
