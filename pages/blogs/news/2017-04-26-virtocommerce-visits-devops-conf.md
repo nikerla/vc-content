@@ -12,9 +12,9 @@ tags:
   - features
   - open-source
   - virtocommerce
-title: DevOps Pro Conference – Our Experience
+title: DevOps Pro Conference for Microsoft Ecommerce Developers
 ---
-### DevOps Pro Conference – Our Experience
+### DevOps Pro Conference for Microsoft Ecommerce Developers
 <img src='../../assets/images/blog/DevOps-MAIN.jpg'>
 Our company’s engineers have recently returned from the DevOps Pro Conference in Vilnius, Lithuania full of inspiration and new ideas. We decided to share our discoveries with you.
 

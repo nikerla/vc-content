@@ -10,9 +10,9 @@ tags:
 - enterprise-ecommerce
 - virtocommerce
 - agile
-title: Today’s e-commerce market calls for Agile Platforms
+title: Today’s Microsoft ecommerce market calls for Agile Platforms
 ---
-### <dfn>Today’s e-commerce market calls for Agile Platforms</dfn>
+### <dfn>Today’s Microsoft ecommerce market calls for Agile Platforms</dfn>
 
 <h2>Why Agile?</h2>
 
