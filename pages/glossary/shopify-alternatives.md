@@ -62,7 +62,7 @@ tags :
             <p class="text">The Windows Cloud technology will also allow you to avoid any hosting issues, ensuring the security of your site. This alternative to Shopify offers the latest modern technology that will allow you to set up a website in less than an hour, providing such great features as technical documentation, tech support, cloud hosting and excellent markup tools. Great .NET architecture and free code architecture will allow you to customize your website with no sweat and for any niche you want!</p>
         </div>
         <div class="col __col-30">
-            <img alt="Shopify Alternatives - Opencart" src="assets/images/virto-commerce-screen.jpg" />
+            <img alt="Shopify Alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
         </div>
     </div>
     <h2>LemonStand</h2>
