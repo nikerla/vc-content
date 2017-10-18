@@ -46,7 +46,7 @@ tags :
 			<p class="proposal-title">Take Advantage of New Opportunities</p>
 			<p class="proposal-descr">
 				With an e-commerce field changing so fast, be the first to benefit from new trends and markets before the
-				opportunity window closes. Get a competitive edge by utilizing our extensible open source platform.
+				opportunity window closes. Get a competitive edge by utilizing our extensible open source <a href="/b2b-ecommerce-platform">B2B</a> platform.
 			</p>
 		</li>
 		<li class="list-item dev">
