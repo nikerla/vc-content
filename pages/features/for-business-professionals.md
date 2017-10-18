@@ -43,7 +43,7 @@ tags :
             <div class="section-cnt">
                 <div class="section-text">
                     <div class="section-t">Catalog & Product Information Management (PIM)</div>
-                    <p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and <a href="/b2b-ecommerce-platform">B2B</a> product lists. Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 3rd party PIM or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.</p>
+                    <p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and <a href="/b2b-ecommerce-platform">B2B</a> product lists. Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 3rd party <a href="/product-information-management>PIM</a> or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.</p>
                     <ul class="list">
                         <li>Multiple store catalogs</li>
                         <li>Physical products</li>
@@ -84,7 +84,7 @@ tags :
                     <ul class="list">
                         <li>Personalized pricing</li>
                         <li>Price lists</li>
-                        <li>B2B pricing</li>
+                        <li><a href="/b2b-ecommerce-platform">B2B pricing</a></li>
                         <li>Tiered pricing</li>
                         <li>Custom currencies (bitcoin, points)</li>
                     </ul>
@@ -101,7 +101,7 @@ tags :
                     <div class="section-t">Promotions & Marketing</div>
                     <p>Our promotion engine lets you create free shipping campaigns, discounts on selected products, coupons for future purchases, and much more! And because it's a simple and easy tool to utilize, you won't be needing any developer assistance. That's a promotions in itself! Promotions can be combined with the marketing system to deliver truly engaging campaigns.</p>
                     <ul class="list">
-                        <li>Product & Cart promotions</li>
+                        <li>Product & <a href="/shopping-cart">cart promotions</a></li>
                         <li>Shipping promotions</li>
                         <li>Marketing campaigns</li>
                         <li>Banners</li>
@@ -115,7 +115,7 @@ tags :
             <div class="section-cnt">
                 <div class="section-text">
                     <div class="section-t">Order Management</div>
-                    <p>Virto Commerce provides an industry leading document based order management functionality. It can be integrated into complex enterprise workflows - including many leading ERP and fulfillment systems.</p>
+                    <p>Virto Commerce provides an industry leading <a href="/order-management-software">document based order management functionality</a>. It can be integrated into complex enterprise workflows - including many leading ERP and fulfillment systems.</p>
                     <ul class="list">
                         <li>Customer order history</li>
                         <li>Split shipments</li>
