@@ -35,7 +35,7 @@ Click on Process Explorer. Here you will see all the processes running in the si
 
 <div style="text-align: center;"><img src="../../assets/images/blog/how-to-identify-the-cause-100-3.jpg" /></div>
 
-<h2><strong>Step 2. Start Profiling<strong></h2>
+<h2><strong>Step 2. Start Profiling</strong></h2>
 
 Click the Start Profiling button for the process you wish to profile, (most likely the w3wp.exe process). Run your scenario or wait few minutes, then click the Stop Profiling button.
 
@@ -43,7 +43,7 @@ After few seconds, the browser should bring up the file download option. Now, yo
 
 Microsoft doesn’t recommend to run a profiling session for more than one to two minutes because profiling can produce large files. The profiling session will be terminated if a session is started from the kudu site and is running for more than 15 minutes. If your Web App is running on multiple instances, you can connect to the scm site for the instance you’d like to profile and start a profiling session on that instance only.
 
-<h2><strong>Step 3. Analyze diagsession file<strong></h2>
+<h2><strong>Step 3. Analyze diagsession file</strong></h2>
 
 The generated profile is a .diagsession file can be opened with Visual Studio 2017. 
 
