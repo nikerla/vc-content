@@ -26,13 +26,13 @@ tags:
             <img alt="Best E commerce platforms" src="assets/images/ecommerce-platforms.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            Choosing the best online store platform can be overwhelming taking in the account a number of options that have appeared in the recent years. Just like purchasing any product, whether it is a house, a car or a cell-phone, each particular business has to do its research and correctly determine what it is looking for, remember to consider all the tradeoffs among the available choices. In the past couple years a few of the best ecommerce platforms on the market have been gaining popularity among small businesses thanks to their ease of use, usability, and availability of a large developer community. With some of these top ecommerce platforms, their on-staff web-developers may provide personal and professional services to the platform client, and you will be most likely to receive good support in the long run from a digital commerce platform.
+            Choosing the best online store platform can be overwhelming taking in the account a number of options that have appeared in the recent years. Just like purchasing any product, whether it is a house, a car or a cell-phone, each particular business has to do its research and correctly determine what it is looking for, remember to consider all the tradeoffs among the available choices. In the past couple years a few of the best ecommerce platforms on the market have been gaining popularity among small businesses thanks to their ease of use, usability, and availability of a large developer community. With some of these top ecommerce platforms, their on-staff web-developers may provide professional services to the platform client; and you will be most likely to receive good support in the long run from a digital commerce platform.
         </div>
     </div>
     <h2>Best ecommerce platform</h2>
     <div class="text">
-        <p>So, what is the best ecommerce platform? There are hundreds of options available on the market of e-commerce platforms with no single “best e-commerce platform” to really stand out, as they all vary in functionality, features, usability and offer many different choices of building a website, accounting for your personal needs, resources and preferences. </p>
-        <p>Some of the universal features that the best e commerce platform would have are:</p>
+        <p>So, what is the best ecommerce platform? There are hundreds of options available on the market of e-commerce platforms with no single “best ecommerce platform” to really stand out, as they all vary in functionality, features, usability and offer many different choices of building a website, accounting for your personal needs, resources and preferences.</p>
+        <p>Some of the universal features that the best ecommerce platforms would have are:</p>
         <ol>
             <li>Availability of listing and displaying products, with the ability of comparison between them</li>
             <li>Allowing your buyers to put products into the <a href="{{ '/glossary/hosted-shopping-cart' | absolute_url }}">“Shopping Cart”</a></li>
@@ -60,14 +60,14 @@ tags:
             <img alt="Best Ecommerce Platforms - Shopify" src="assets/images/shopify1.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            <a href="{{ '/glossary/shopify-alternatives' | absolute_url }}">Shopify</a></li> is the best e commerce platform for the website when it comes to balancing the convenience of setting up a website and having the control over it. The great advantage of such category of electronic commerce platforms, including Shopify, is that it provides you with as much control as possible without using your own server. It can get a little bit pricey for small businesses, but the biggest advantage is outstanding customer support and advanced tools for modifying your website. Shopify deals perfectly with its mission and offers you a robust product experience along with advanced tools for marketing in e-commerce. A website built on this platform would be fast and secure and would have all the necessary features we have brought up earlier in the article. Trying to accommodate all the features that store owners need, Shopify took an example from Apple and Google and started its own App Store. There is no need to go searching a developer every time you need a particular feature in your app anymore - Shopify’s App Store offers a much cheaper and faster alternative.
+            <a href="{{ '/glossary/shopify-alternatives' | absolute_url }}">Shopify</a></li> is the best e commerce platform for a website when it comes to balancing the convenience of setting up a website and having the control over it. The great advantage of such category of electronic commerce platforms, including Shopify, is that it provides you with as much control as possible without using your own server. It can get a little bit pricey for small businesses, but the biggest advantage is outstanding customer support and advanced tools for modifying your website. Shopify deals perfectly with its mission and offers you a robust product experience along with advanced tools for marketing in e-commerce. A website built on this platform would be fast and secure and would have all the necessary features we have brought up earlier in the article. Trying to accommodate all the features that store owners need, Shopify took an example from Apple and Google and started its own App Store. There is no need to go searching a developer every time you need a particular feature in your app anymore - Shopify’s App Store offers a much cheaper and faster alternative.
         </div>
     </div>
-    <p class="text">Despite having a number of fantastic features, such as great customer service, advanced tools, and App Store, just like any other ecommerce platform, Shopify lacks certain important tools. Content marketing is the biggest of them. Content marketing has become a huge must-have for an ecommerce website. If your buyers are educated about the solutions your product can provide, they are more likely to buy it. Shopify has a blogging software feature, but it can’t be compared to that of a Wordpress.</p>
+    <p class="text">Despite having a number of fantastic features, such as great customer service, advanced tools, and App Store, just like any other on the list of the best ecommerce platforms, Shopify lacks certain important tools. Content marketing is the biggest of them. Content marketing has become a huge must-have for an ecommerce website. If your buyers are educated about the solutions your product can provide, they are more likely to buy it. Shopify has a blogging software feature, but it can’t be compared to that of a Wordpress.</p>
     <h2>BigCommerce</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            BigCommerce is Shopify’s direct competitor. Its focus, however, is on online-only merchants. It's the best e-commerce platform for them. In terms of controls and usability, it is similar to Shopify. However, the feature set and themes are not quite as advanced as Shopify’s, and that is the biggest reason it is falling a little behind.
+            BigCommerce is Shopify’s direct competitor for the title of the best ecommerce platform. Its focus, however, is on online-only merchants – for those it’s probably the best e-commerce platform. In terms of controls and usability, it is similar to Shopify. However, the feature set and themes are not quite as advanced as Shopify’s, and that is the biggest reason it is falling a little behind.
         </div>
         <div class="col __col-30">
             <img alt="Top Ecommerce Platforms - BigCommerce" src="assets/images/bigcommerce.jpg" />
@@ -75,7 +75,7 @@ tags:
     </div>
     <div class="text">
         <p>The good thing about this platform is a vast variety of how-tos, advice, and letters about running a successful store. It doesn’t seem very well-organized, but the information from the BigCommerce University will help you to set up and promote your website. Just like Shopify, it provides a hassle-free setup and security with intuitive features and an all-in-one solution for your website.</p>
-        <p>An important thing to consider with this platform is pricing. For a smaller online store, it can get too much very fast. There is a whole number of fees, like monthly fees, credit card fees, platform transaction fees and add-on fees that could drain your budget really quickly. Another one is customization. While having a great variety of built-in options, it lacks add-ons and themes for your website as well as good inventory management.</p>
+        <p>An important thing to consider with this platform is pricing. For a smaller online store, it can get too much very fast. There is a whole number of fees, like monthly fees, credit card fees, platform transaction fees and add-on fees that could drain your budget really quickly. Another one is customization. While having a great variety of built-in options, it lacks add-ons and themes for your website as well as good inventory management. Nevertheless, it’s still commonly named among the top ecommerce platforms.</p>
     </div>
     <h2>Woocommerce</h2>
     <div class="col-w">
@@ -88,12 +88,12 @@ tags:
     </div>
     <div class="text">
         <p>It is free and all you will be spending with it is a bit of time to learn about the platform’s features and how WordPress works with e-commerce websites. The incredibly intuitive panel is the main advantage of this platform, allowing you to look up the extensions and plugins for your site, to fully optimize it.</p>
-        <p>Woocommerce website needs to be self-hosted, offering you a huge advantage of modifying your website, but requiring the use of your own servers.</p>
+        <p>Woocommerce website needs to be self-hosted, offering you a huge advantage of modifying your website, but requiring the use of your own servers, so it might be the best online store platform for your business, if you value full control over the convenience of SaaS.</p>
     </div>
     <h2>Magento</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            <a href="{{ '/glossary/magento-alternatives' | absolute_url }}">Magento</a></li> is a huge independent company that is currently on the rise and continues to be an enterprise-level player in the field of the best ecommerce platforms, offering a wide range of business solutions to its customers, including certain big companies like Burger King, Coca-Cola and etc. It is elastic and provides excellent support to large corporations, while not forgetting about small businesses either. Given its open-source features and the fact that it is very scalable, Magento has become very popular within the community. However, it requires a lot of research and programming knowledge in order to use it.
+            <a href="{{ '/glossary/magento-alternatives' | absolute_url }}">Magento</a></li> is a huge independent company that is currently on the rise and continues to be an enterprise-level player in the field of the best ecommerce platforms, offering a wide range of business solutions to its customers, including certain big companies like Burger King, Coca-Cola and etc. It is elastic and provides excellent support to large corporations, while not forgetting about small businesses either. Given its open-source features and the fact that it is very scalable, Magento has become very popular within the community. However, it requires a lot of research and programming knowledge in order to use it, which puts it at a certain disadvantage among the top ecommerce platforms.
         </div>
         <div class="col __col-30">
             <img alt="Top Ecommerce Platforms - Magento" src="assets/images/magento.jpg" />
@@ -106,12 +106,12 @@ tags:
             <img alt="Best E commerce Platforms - Volusion" src="assets/images/volusion1.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            Volusion is a simple website creation tool. It is represented in the top ecommerce platforms list just like Shopify and BigCommerce that offers some notable features that are highly appreciated by designers and developers. If you are more dedicated to the operational side of an ecommerce store than to its marketing-led features, you may consider choosing Volusion over BigCommerce. Like Shopify and BigCommerce, Volusion offers a perfect balance between providing everything you need to set up, operate and expand your business and leaving some space for your personal customization. Also, just like BigCommerce, Volusion offers a vast knowledge base, where you can get help setting up an online store of your own. Volusion even takes it a step further by featuring account specialists – personnel, who will assist you directly in building your website.
+            Volusion is a simple website creation tool. It is represented in the top ecommerce platforms list just like Shopify and BigCommerce and it offers some notable features that are highly appreciated by designers and developers. If you are more dedicated to the operational side of an ecommerce store than to its marketing-led features, you may consider choosing Volusion over BigCommerce. Like Shopify and BigCommerce, Volusion offers a perfect balance between providing everything you need to set up, operate and expand your business and leaving some space for your personal customization. Also, just like BigCommerce, Volusion offers a vast knowledge base, where you can get help setting up an online store of your own. Volusion even takes it a step further by featuring account specialists – personnel, who will assist you directly in building your website.
         </div>
     </div>
     <div class="text">
-        <p>Another area where Volusion excels is customer support. The team puts a tremendous amount of effort in making sure their clients have the best experience.</p>
-        <p>Having these beautiful features as well as the full range of tools for marketing, Volusion, however, has some of the disadvantages of its own. Just like its two competitors, the big one is, of course, pricing. While having no transaction fees and lower credit card fees compared to the competitors, it does charge a lot of add-on fees, which may turn out to be expensive for a smaller company. Two other disadvantages include limited responsiveness and design options. In the age where most of the people surf the web via smartphones and tablets, it has become the best practice to have a responsive design. As for the design options, Volusion has a fairly limited choice of templates, while also making the new ones very expensive to use.</p>
+        <p>Another area where Volusion excels is customer support. The team puts a tremendous amount of effort into making sure their clients have the best experience, thus putting a legit fight for that best ecommerce platform title.</p>
+        <p>Having these beautiful features as well as the full range of tools for marketing, Volusion, however, has some of the disadvantages of its own. Just like its two competitors, the big one is, of course, pricing. While having no transaction fees and lower credit card fees compared to the competitors, it does charge a lot of add-on fees, which may turn out to be expensive for a smaller company. Two other disadvantages include limited responsiveness and design options. In the age where most of the people surf the web via smartphones and tablets, it has become the best practice to have a responsive design. As for the design options, Volusion has a fairly limited choice of templates, while also making the new ones very expensive to use, which unfortunately doesn’t  help it with the claim to be the best e commerce platform on the market.</p>
     </div>
     <h2>3dCart</h2>
     <div class="col-w">
@@ -133,7 +133,7 @@ tags:
             <img alt="Best E commerce Platforms - Gumroad" src="assets/images/gumroad.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            If your goal is to start a small and simple online store to sell digital goods, then this platform is the best choice for you! Its easy drag-and-drop website creation tool is intuitive to use: quickly add descriptions and images to the product along with shipping rates and price. With its simple features, you can easily verify the digital keys to your products and deliver them in PDF file with customer’s information. 
+            If your goal is to start a small and simple online store to sell digital goods, then this platform is the best choice for you! Its easy drag-and-drop website creation tool is intuitive to use: quickly add descriptions and images to the product along with shipping rates and price. With its simple features, you can easily verify the digital keys to your products and deliver them in PDF file with customer’s information.
         </div>
     </div>
     <div class="text">
@@ -142,7 +142,7 @@ tags:
     <h2>Storenvy</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            A wonderful tool to build your customized store in an already existing marketplace. This means that you can launch your web store almost as you were using such grand platforms like Amazon or eBay. The main advantage of such stores is that they have a large customer base that allows you to gain visitors quickly. 
+            A wonderful tool to build your customized store in an already existing marketplace. This means that you can launch your web store almost as you were using such grand platforms like Amazon or eBay. The main advantage of such stores is that they have a large customer base that allows you to gain visitors quickly.
         </div>
         <div class="col __col-30">
             <img alt="Top Ecommerce Platforms - Storenvy" src="assets/images/storenvy.jpg" />
@@ -166,7 +166,7 @@ tags:
     <h2>Wix</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            This is currently one of the most advanced websites if you consider all of the features it has thanks to its own App Market. You will be amazed at the very beginning when you will start designing your website. You’ll be using the platform's Photoshop-style editor. It will allow you to put elements and edit them according to the grid, format text with various fonts and styles with the ability to add powerpoint-like animations to any given element. 
+            This is currently one of the most advanced websites if you consider all of the features it has thanks to its own App Market. You will be amazed at the very beginning when you will start designing your website. You’ll be using the platform's Photoshop-style editor. It will allow you to put elements and edit them according to the grid, format text with various fonts and styles with the ability to add powerpoint-like animations to any given element.
         </div>
         <div class="col __col-30">
             <img alt="Top Ecommerce Platforms - Wix" src="assets/images/wix.jpg" />
@@ -262,7 +262,7 @@ tags:
     <h2>PrestaShop</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            A service that allows you to have an advanced e-commerce store with the ability to have it hosted via the platform itself. It is free just like Wordpress.com that lets you use both the same tools in the cloud or on your own. Despite the choice, it stays open. Starting with basic features, you can add popovers for customers to see your product options and browse through them quickly. 
+            A service that allows you to have an advanced e-commerce store with the ability to have it hosted via the platform itself. It is free just like Wordpress.com that lets you use both the same tools in the cloud or on your own. Despite the choice, it stays open. Starting with basic features, you can add popovers for customers to see your product options and browse through them quickly.
         </div>
         <div class="col __col-30">
             <img alt="Best Ecommerce Platforms - PrestaShop" src="assets/images/prestashop.jpg" />
