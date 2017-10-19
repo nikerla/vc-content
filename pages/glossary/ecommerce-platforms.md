@@ -60,14 +60,14 @@ tags:
             <img alt="Best Ecommerce Platforms - Shopify" src="assets/images/shopify1.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            <a href="{{ '/glossary/shopify-alternatives' | absolute_url }}">Shopify</a></li> is the best e commerce platform for a website when it comes to balancing the convenience of setting up a website and having the control over it. The great advantage of such category of electronic commerce platforms, including Shopify, is that it provides you with as much control as possible without using your own server. It can get a little bit pricey for small businesses, but the biggest advantage is outstanding customer support and advanced tools for modifying your website. Shopify deals perfectly with its mission and offers you a robust product experience along with advanced tools for marketing in e-commerce. A website built on this platform would be fast and secure and would have all the necessary features we have brought up earlier in the article. Trying to accommodate all the features that store owners need, Shopify took an example from Apple and Google and started its own App Store. There is no need to go searching a developer every time you need a particular feature in your app anymore - Shopify’s App Store offers a much cheaper and faster alternative.
+            <a href="{{ '/glossary/shopify-alternatives' | absolute_url }}">Shopify</a></li> is the best e commerce platform for a website when it comes to balancing the convenience of setting up a website and having the control over it. The great advantage of such category of electronic commerce platforms, including Shopify, is that it provides you with as much control as possible without using your own server. It can get a little bit pricey for small businesses, but the biggest advantage is outstanding customer support and advanced tools for modifying your website. <a href="https://www.shopify.com/" rel="nofollow">Shopify</a> deals perfectly with its mission and offers you a robust product experience along with advanced tools for marketing in e-commerce. A website built on this platform would be fast and secure and would have all the necessary features we have brought up earlier in the article. Trying to accommodate all the features that store owners need, Shopify took an example from Apple and Google and started its own App Store. There is no need to go searching a developer every time you need a particular feature in your app anymore - Shopify’s App Store offers a much cheaper and faster alternative.
         </div>
     </div>
     <p class="text">Despite having a number of fantastic features, such as great customer service, advanced tools, and App Store, just like any other on the list of the best ecommerce platforms, Shopify lacks certain important tools. Content marketing is the biggest of them. Content marketing has become a huge must-have for an ecommerce website. If your buyers are educated about the solutions your product can provide, they are more likely to buy it. Shopify has a blogging software feature, but it can’t be compared to that of a Wordpress.</p>
     <h2>BigCommerce</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            BigCommerce is Shopify’s direct competitor for the title of the best ecommerce platform. Its focus, however, is on online-only merchants – for those it’s probably the best e-commerce platform. In terms of controls and usability, it is similar to Shopify. However, the feature set and themes are not quite as advanced as Shopify’s, and that is the biggest reason it is falling a little behind.
+            <a href="https://www.bigcommerce.com/" rel="nofollow">Bigcommerce</a> is Shopify’s direct competitor for the title of the best ecommerce platform. Its focus, however, is on online-only merchants – for those it’s probably the best e-commerce platform. In terms of controls and usability, it is similar to Shopify. However, the feature set and themes are not quite as advanced as Shopify’s, and that is the biggest reason it is falling a little behind.
         </div>
         <div class="col __col-30">
             <img alt="Top Ecommerce Platforms - BigCommerce" src="assets/images/bigcommerce.jpg" />
@@ -83,7 +83,7 @@ tags:
             <img alt="Best E-commerce Platforms - Woocommerce" src="assets/images/woocommerce.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            Woocommerce is a WordPress plugin, so you can expect to use all the advantages of WordPress while using this platform for building a website. If you want to make your site classy and easy to navigate, Woocommerce is probably the best e-commerce platform for you.
+            <a href="https://woocommerce.com/" rel="nofollow">WooCommerce</a> is a WordPress plugin, so you can expect to use all the advantages of WordPress while using this platform for building a website. If you want to make your site classy and easy to navigate, Woocommerce is probably the best e-commerce platform for you.
         </div>
     </div>
     <div class="text">
@@ -99,14 +99,14 @@ tags:
             <img alt="Top Ecommerce Platforms - Magento" src="assets/images/magento.jpg" />
         </div>
     </div>
-    <p class="text">If you are planning to have a serious platform, Magento would be a great choice. However, if you are just looking for a simple and basic solution that is easy to integrate on your own, Magento might be a bit of overkill.</p>
+    <p class="text">If you are planning to have a serious platform, <a href="https://magento.com/" rel="nofollow">Magento</a> would be a great choice. However, if you are just looking for a simple and basic solution that is easy to integrate on your own, Magento might be a bit of overkill.</p>
     <h2>Volusion</h2>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Best E commerce Platforms - Volusion" src="assets/images/volusion1.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            Volusion is a simple website creation tool. It is represented in the top ecommerce platforms list just like Shopify and BigCommerce and it offers some notable features that are highly appreciated by designers and developers. If you are more dedicated to the operational side of an ecommerce store than to its marketing-led features, you may consider choosing Volusion over BigCommerce. Like Shopify and BigCommerce, Volusion offers a perfect balance between providing everything you need to set up, operate and expand your business and leaving some space for your personal customization. Also, just like BigCommerce, Volusion offers a vast knowledge base, where you can get help setting up an online store of your own. Volusion even takes it a step further by featuring account specialists – personnel, who will assist you directly in building your website.
+            <a href="https://www.volusion.com/" rel="nofollow">Volusion</a> is a simple website creation tool. It is represented in the top ecommerce platforms list just like Shopify and BigCommerce and it offers some notable features that are highly appreciated by designers and developers. If you are more dedicated to the operational side of an ecommerce store than to its marketing-led features, you may consider choosing Volusion over BigCommerce. Like Shopify and BigCommerce, Volusion offers a perfect balance between providing everything you need to set up, operate and expand your business and leaving some space for your personal customization. Also, just like BigCommerce, Volusion offers a vast knowledge base, where you can get help setting up an online store of your own. Volusion even takes it a step further by featuring account specialists – personnel, who will assist you directly in building your website.
         </div>
     </div>
     <div class="text">
@@ -116,7 +116,7 @@ tags:
     <h2>3dCart</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            Despite the fact that it makes you wonder about whether they are going to update the website or not, it still does the trick of providing what you need most of the time. 3dcart offers great tutorials and tools for deciding on anything from a template of your website to defining your shipping options. This platform is well-suited for beginners and makes wizardry of keeping it all simple.
+            Despite the fact that it makes you wonder about whether they are going to update the website or not, it still does the trick of providing what you need most of the time. <a href="https://www.3dcart.com/" rel="nofollow">3dcart</a> offers great tutorials and tools for deciding on anything from a template of your website to defining your shipping options. This platform is well-suited for beginners and makes wizardry of keeping it all simple.
         </div>
         <div class="col __col-30">
             <img alt="Top Ecommerce Platforms - 3dCart" src="assets/images/3dcart.jpg" />
@@ -137,7 +137,7 @@ tags:
         </div>
     </div>
     <div class="text">
-        <p>You can also simply share the link to the product via social networks, to make it easy for the customers to purchase it. You can create either your personal Gumroad store (gumroad.com/your_shop) or have your personal domain created which will be hosted by the platform itself. Additionally, you can easily brand your products by creating simple colorful themes using root design features provided by the platform. Provide customer support via Gumroad’s e-mail system and ensure that they receive the best service possible. With Gumroad’s free plan you receive the basic features, while Gumroad itself takes 8,5% +30¢ per sale. When purchasing a Premium account for $10/month you only have to pay 3.5% +30¢ per sale, while also receiving a wider selection of tools to start selling online now.</p>
+        <p>You can also simply share the link to the product via social networks, to make it easy for the customers to purchase it. You can create either your personal Gumroad store (gumroad.com/your_shop) or have your personal domain created which will be hosted by the platform itself. Additionally, you can easily brand your products by creating simple colorful themes using root design features provided by the platform. Provide customer support via Gumroad’s e-mail system and ensure that they receive the best service possible. With Gumroad’s free plan you receive the basic features, while <a href="https://gumroad.com/" rel="nofollow">Gumroad</a> itself takes 8,5% +30¢ per sale. When purchasing a Premium account for $10/month you only have to pay 3.5% +30¢ per sale, while also receiving a wider selection of tools to start selling online now.</p>
     </div>
     <h2>Storenvy</h2>
     <div class="col-w">
@@ -149,7 +149,7 @@ tags:
         </div>
     </div>
     <div class="text">
-        <p>The only downside is that they can’t allow you to create a personalized store as YOU want it. Wanting to combine the best of two worlds of ecommerce, Storenvy was created. It lets you easily launch you unique and customized store inside a Storenvy marketplace with the essential tools offered by the platform. Facebook store integration along with social-style “watch” and ‘’envy” buttons allow you to easily grow your store and attract more people to follow your products. The huge advantage of the platform is that it is free, making you able to upload up to 500 product listings, only taking 10% of each sale when your product is posted up front on the Storenvy Marketplace.</p>
+        <p>The only downside is that they can’t allow you to create a personalized store as YOU want it. Wanting to combine the best of two worlds of ecommerce, <a href="http://www.storenvy.com/" rel="nofollow">Storenvy</a> was created. It lets you easily launch you unique and customized store inside a Storenvy marketplace with the essential tools offered by the platform. Facebook store integration along with social-style “watch” and ‘’envy” buttons allow you to easily grow your store and attract more people to follow your products. The huge advantage of the platform is that it is free, making you able to upload up to 500 product listings, only taking 10% of each sale when your product is posted up front on the Storenvy Marketplace.</p>
     </div>
     <h2>Jimdo</h2>
     <div class="col-w">
@@ -157,7 +157,7 @@ tags:
             <img alt="Best E commerce Platforms - Jimdo" src="assets/images/jimdo.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            If you want to quickly change the appearance or description of your product, then this ecommerce platform is suited just for you! Its easy interface allows you to manage your website with a single click. It makes it quick and easy for you to set your site’s design and start selling online.
+            If you want to quickly change the appearance or description of your product, then <a href="https://www.jimdo.com/" rel="nofollow">this ecommerce platform</a> is suited just for you! Its easy interface allows you to manage your website with a single click. It makes it quick and easy for you to set your site’s design and start selling online.
         </div>
     </div>
     <div class="text">
@@ -173,7 +173,7 @@ tags:
         </div>
     </div>
     <div class="text">
-        <p>If you can’t get enough of tools, check out the App Market to find some essential plugins and add-ons and quickly include them in your website with just one click. The Wix pricing starts from $17/month which delivers domain name, form builder to your personal ecommerce store.</p>
+        <p>If you can’t get enough of tools, check out the App Market to find some essential plugins and add-ons and quickly include them in your website with just one click. The <a href="https://www.wix.com/" rel="nofollow">Wix</a> pricing starts from $17/month which delivers domain name, form builder to your personal ecommerce store.</p>
     </div>
     <h2>Squarespace</h2>
     <div class="col-w">
@@ -185,12 +185,12 @@ tags:
         </div>
     </div>
     <div class="text">
-        <p>Tap another button, and you are editing the product listing, adding a description and uploading an image that can be easily zoomed. With such a flexible and robust platform as Squarespace, you can create an online store for any niche you would like with the right amount of tools needed!</p>
+        <p>Tap another button, and you are editing the product listing, adding a description and uploading an image that can be easily zoomed. With such a flexible and robust platform as <a href="https://www.squarespace.com/" rel="nofollow">Squarespace</a>, you can create an online store for any niche you would like with the right amount of tools needed!</p>
     </div>
     <h2>Weebly</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            Another popular and reliable platform that allows you to build a customized store with drag-and-drop. The rich amount of templates are always making sure that you are doing the right website regarding UI. You can also easily manage your content with unique blogging features that help you in promoting your product on the market. Once you add the products to your website, the platform will automatically create a “Store” button in the Navigation tab.
+            Another popular and reliable <a href="https://www.weebly.com/" rel="nofollow">platform</a> that allows you to build a customized store with drag-and-drop. The rich amount of templates are always making sure that you are doing the right website regarding UI. You can also easily manage your content with unique blogging features that help you in promoting your product on the market. Once you add the products to your website, the platform will automatically create a “Store” button in the Navigation tab.
         </div>
         <div class="col __col-30">
             <img alt="Top Ecommerce Platforms - Weebly" src="assets/images/weebly.jpg" />
@@ -209,12 +209,12 @@ tags:
         </div>
     </div>
     <div class="text">
-        <p>The developers have made a checklist of things to add to your website, making sure that you will not forget about anything before launching your own store. This includes logo, theme, design template, price, shipping, fees and other settings. Most of this stuff you can fill out using Big Cartel itself. The platform is intended for small stores, only allowing you to list up to 300 items maximum. However, it gives you as much freedom as enterprise solutions would. The plans’ pricing starts from free up to $9,99/ month for the Platinum one that includes all features for 25 products.</p>
+        <p>The developers have made a checklist of things to add to your website, making sure that you will not forget about anything before launching your own store. This includes logo, theme, design template, price, shipping, fees and other settings. Most of this stuff you can fill out using <a href="https://www.bigcartel.com/" rel="nofollow">Big Cartel</a> itself. The platform is intended for small stores, only allowing you to list up to 300 items maximum. However, it gives you as much freedom as enterprise solutions would. The plans’ pricing starts from free up to $9,99/ month for the Platinum one that includes all features for 25 products.</p>
     </div>
     <h2>Send Owl</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            This is the platform that is best suited for creating an embedded store. With it, you don’t have to build a full store but only add product pages. It offers you an easy way of selling your products without making a “real” e-commerce site. No switching required, you can vary with buttons and design.
+            This is the <a href="https://www.sendowl.com/" rel="nofollow">platform</a> that is best suited for creating an embedded store. With it, you don’t have to build a full store but only add product pages. It offers you an easy way of selling your products without making a “real” e-commerce site. No switching required, you can vary with buttons and design.
         </div>
         <div class="col __col-30">
             <img alt="Top Ecommerce Platforms - Send Owl" src="assets/images/sendowl.jpg" />
@@ -229,7 +229,7 @@ tags:
             <img alt="Best E commerce Platforms - Ecwid" src="assets/images/ecwid.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            Another useful platform that allows you to embed your personal store into an existing personal website, while still providing the maximum freedom of choice. The platform can be seen as a full web store. Add product listings as you do on the other platforms, manage products and set prices.
+            Another useful platform that allows you to embed your personal store into an existing personal website, while still providing the maximum freedom of choice. <a href="https://www.ecwid.com/" rel="nofollow">The platform</a> can be seen as a full web store. Add product listings as you do on the other platforms, manage products and set prices.
         </div>
     </div>
     <div class="text">
@@ -238,7 +238,7 @@ tags:
      <h2>E-junkie</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            This particular store builder allows you to embed your online shop into ANY website possible, whether it’s a tiny blog or a high-traffic personal website. Despite its rough 90’s look, the platform allows you to utilize the necessary features without breaking any sweat. Add “Add to cart” buttons to your website using JavaScript and the E-junkie will make sure that your customer proceeds to checkout in a separate window.
+            This particular store builder allows you to embed your online shop into ANY website possible, whether it’s a tiny blog or a high-traffic personal website. Despite its rough 90’s look, the platform allows you to utilize the necessary features without breaking any sweat. Add “Add to cart” buttons to your website using JavaScript and the <a href="https://www.e-junkie.com/" rel="nofollow">E-junkie</a> will make sure that your customer proceeds to checkout in a separate window.
         </div>
         <div class="col __col-30">
             <img alt="Best Ecommerce Platforms - E-junkie" src="assets/images/e-junkie.jpg" />
@@ -257,12 +257,12 @@ tags:
         </div>
     </div>
     <div class="text">
-        <p>Promotions and special deals, incorporated by the platform will assist in increasing your sales, while store connection with social media accounts will help in marketing. Syncing with eBay and PayPal is perfect, allowing for quick checkout and payment, without any sweat. Pricing is a bit different from other stores and includes a one-time $495 purchase of Business edition that lets you upload multiple products, control your social media marketing and more.</p>
+        <p>Promotions and special deals, incorporated by <a href="https://www.x-cart.com/" rel="nofollow">the platform</a> will assist in increasing your sales, while store connection with social media accounts will help in marketing. Syncing with eBay and PayPal is perfect, allowing for quick checkout and payment, without any sweat. Pricing is a bit different from other stores and includes a one-time $495 purchase of Business edition that lets you upload multiple products, control your social media marketing and more.</p>
     </div>
     <h2>PrestaShop</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            A service that allows you to have an advanced e-commerce store with the ability to have it hosted via the platform itself. It is free just like Wordpress.com that lets you use both the same tools in the cloud or on your own. Despite the choice, it stays open. Starting with basic features, you can add popovers for customers to see your product options and browse through them quickly.
+            <a href="https://www.prestashop.com/en" rel="nofollow">A service</a> that allows you to have an advanced e-commerce store with the ability to have it hosted via the platform itself. It is free just like Wordpress.com that lets you use both the same tools in the cloud or on your own. Despite the choice, it stays open. Starting with basic features, you can add popovers for customers to see your product options and browse through them quickly.
         </div>
         <div class="col __col-30">
             <img alt="Best Ecommerce Platforms - PrestaShop" src="assets/images/prestashop.jpg" />
@@ -281,12 +281,12 @@ tags:
         </div>
     </div>
     <div class="text">
-        <p>However, if you do not tolerate coding, this can be perceived as a nightmare. The only thing that Foxycart handles itself is shipping tax calculation and confirmation e-mails. This is the most freedom you can get with an e-commerce platform, while still having the hardest parts taken care of. Prices for plans start at $20/month plus 15 cents per sale with the ability to upload an unlimited amount of products.</p>
+        <p>However, if you do not tolerate coding, this can be perceived as a nightmare. The only thing that <a href="https://www.foxycart.com/" rel="nofollow">Foxycart</a> handles itself is shipping tax calculation and confirmation e-mails. This is the most freedom you can get with an e-commerce platform, while still having the hardest parts taken care of. Prices for plans start at $20/month plus 15 cents per sale with the ability to upload an unlimited amount of products.</p>
     </div>
     <h2>OpenCart</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            The platform that is highly valued for its top-notch security protocols. It is also reliable in providing sufficient data about your website that will help in content marketing as well as in SEO optimization. The platform is open to discussion and has its own forums where people help each other in the laborious process of setting up a web store.
+            <a href="https://www.opencart.com/" rel="nofollow">The platform</a> that is highly valued for its top-notch security protocols. It is also reliable in providing sufficient data about your website that will help in content marketing as well as in SEO optimization. The platform is open to discussion and has its own forums where people help each other in the laborious process of setting up a web store.
         </div>
         <div class="col __col-30">
             <img alt="Best Ecommerce Platforms - OpenCart" src="assets/images/opencart.jpg" />
