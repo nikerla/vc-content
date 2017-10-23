@@ -8,7 +8,7 @@ permalink: products
 	<div class="bg-banner">
 		<div class="banner-inner responsive">
 			<div class="banner-t">Virto Commerce Products</div>
-			<a href="/contact-us" class="button fill">Request demo & trial</a>
+			<a href="/try-now" class="button fill">Request demo & trial</a>
 		</div>
 	</div>
 	<ul class="menu __responsive">

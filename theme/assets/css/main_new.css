@@ -1,4 +1,4 @@
-﻿body
+body
 {
 	color: #000;
 }
@@ -219,11 +219,12 @@ a
 			justify-content: space-between;
 }
 
-.vc-products .bg-banner
-{
-	background: url(bg-vc-products.jpg) no-repeat scroll 45% 0;
-	height: 320px;
-	padding: 30px 0 0;
+.vc-products .bg-banner {
+    background: url(bg-vc-products.jpg) 0 no-repeat;
+    height: 350px;
+    padding: 30px 0 0;
+    background-position: 0px -178px;
+    background-size: 100%;
 }
 
 .vc-products .banner-t
