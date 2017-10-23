@@ -43,7 +43,7 @@ tags :
             <div class="section-cnt">
                 <div class="section-text">
                     <div class="section-t">Catalog & Product Information Management (PIM)</div>
-                    <p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and <a href="/b2b-ecommerce-platform">B2B</a> product lists. Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 3rd party <a href="/product-information-management>PIM</a> or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.</p>
+                    <p>Our ecommerce platform provides sophisticated catalog management capabilities making it simple and elegant to manage even the most complex B2C and <a href="/b2b-ecommerce-platform">B2B</a> product lists. Manage digital and physical products using flexible properties structures. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 3rd party <a href="/product-information-management">PIM</a> or CMS solutions. All digital assets can be configured to be stored in popular Content Distribution Networks (CDN). For a global business, platform supports multiple catalogs, languages, taxes and storefronts.</p>
                     <ul class="list">
                         <li>Multiple store catalogs</li>
                         <li>Physical products</li>
