@@ -138,14 +138,14 @@ tags :
     </div>
     <h2>B2B Ecommerce Trends in 2018</h2>
     <p class="text">As the year 2017 is approaching its end, now’s the time to start looking towards your ecommerce development plans for 2018 and further.</p>
-    <p class="text">According to [Forrester analysts’ reports](https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/), the business-to-business ecommerce market is currently at a $1 trillion+ mark and is expected to grow up to $2 trillion by 2020. This means that for B2B sellers now it’s more important than ever to keep up with the quickly changing surroundings. Below we take a close look at the rising b2b ecommerce trends for the coming year that you can look into incorporating into your B2B strategy to help increase your competitive advantage.</p>
+    <p class="text">According to <a href="{{ 'https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/' | absolute_url }}">Forrester analysts’ reports</a>, the business-to-business ecommerce market is currently at a $1 trillion+ mark and is expected to grow up to $2 trillion by 2020. This means that for B2B sellers now it’s more important than ever to keep up with the quickly changing surroundings. Below we take a close look at the rising b2b ecommerce trends for the coming year that you can look into incorporating into your B2B strategy to help increase your competitive advantage.</p>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Omnichannel" src="assets/images/omnichannel.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             <strong>Omnichannel.</strong> This is definitely one of the most prominent b2b ecommerce trends by the end of this year that is going to become even bigger in the next, so be prepared to be able to deliver a true omnichannel buying experience. B2B sellers need to embrace the fact that all their customers are now omnichannel and work to ensure they can accommodate them.
-            <p class="text">[Forrester confirms](https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/) that 51% of B2B sellers stated their omnichannel customers increased spending with them in the past year, with only 7% saying those customers decreased spending. Thus, gaining and retaining omnichannel buyers should be of critical importance to B2B sellers in 2018.</p>
+            <p class="text"><a href="{{ 'https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/' | absolute_url }}">Forrester confirms</a> that 51% of B2B sellers stated their omnichannel customers increased spending with them in the past year, with only 7% saying those customers decreased spending. Thus, gaining and retaining omnichannel buyers should be of critical importance to B2B sellers in 2018.</p>
         </div>
     </div>
     <p class="text">More of B2B online buyers prefer to research and browse on their own (68%, up from 53% in 2015). Needless to say that in this environment the expectations of the digitally connected customers should influence an organization’s B2B selling priorities. </p>
