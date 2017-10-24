@@ -59,12 +59,12 @@ tags :
             <img alt="B2B ecommerce trends" src="assets/images/technology-investments.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            <strong>Technology investments are set to grow.</strong> The latest development trends of B2B e-commerce marketplaces have made them a more favorable option for wholesalers, rather than retail stores. B2B companies have become robust and very adaptable to changes.  Let’s take the example of Virto Commerce e-commerce platform. It is very affordable and flexible to use. Investing in integration of platforms like this will allow your business to grow rapidly as well as give you the smoothest experience of expanding your outreach.
+            <strong>Technology investments are set to grow.</strong> The latest development trends of B2B e-commerce marketplaces have made them a more favorable option for wholesalers, rather than retail stores. B2B companies have become robust and very adaptable to changes. Let’s take the example of Virto Commerce e-commerce platform. It is very affordable and flexible to use. Investing in the integration of platforms like this will allow your business to grow rapidly as well as give you the smoothest experience of expanding your outreach.
         </div>
     </div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-        <p><strong>B2B e-commerce has gone mobile.</strong> One of the biggest B2B eCommerce trends of 2016 is the accessibility of marketplaces on mobile platforms. M-commerce is accessible to its customers and is now becoming a fast-growing platform. It is easy to use; the client can access the platform anytime and from anywhere, and place orders on his product quickly. On top of that, it does not take a lot of resources to open a mobile app for a platform.  As recent Frankwatching research suggests, around 52% of B2B customers prefer to buy their products using their smartphones. It represents half of  all clients and is a huge number to deal with. To provide the best experience for your customers, you need to invest in mobile research and marketing heavily. This trend will most likely continue to evolve in 2017 as more and more purchasing decisions will be made through a mobile device.</p>
+        <p><strong>B2B e-commerce has gone mobile.</strong> One of the biggest B2B eCommerce trends of 2016 is the accessibility of marketplaces on mobile platforms. M-commerce is accessible to its customers and is now becoming a fast-growing platform. It is easy to use; the client can access the platform anytime and from anywhere, and place orders on product quickly. On top of that, it does not take a lot of resources to open a mobile app for a platform. As recent Frankwatching research suggests, around 52% of B2B customers prefer to buy their products using their smartphones. It represents half of all clients and is a huge number to deal with. To provide the best experience for your customers, you need to invest in mobile research and marketing heavily. This trend will most likely continue to evolve in 2017 as more and more purchasing decisions will be made through a mobile device.</p>
             </div>
         <div class="col __col-30">
             <img alt="B2B ecommerce trends" src="assets/images/mobile-ecommerce.jpg" />
@@ -75,7 +75,7 @@ tags :
             <img alt="B2B ecommerce trends" src="assets/images/customer-service.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-        <p><strong>The customer experience is essential.</strong> The UX should be the primary focus for the retailers who sell their products at B2B marketplaces. Good UX helps with conversion of by passers on your web-store into loyal customers and promotes your website as one that is convenient to navigate. This B2B e-commerce trend plays a big role in differentiation and profitability, as buyers always demand for high-resolution product images, an exact description of the product, rich content, including many answers on F.A.Q.s, etc. Use your platform not only to sell products but to educate and inform buyers about the industry.</p>
+        <p><strong>The customer experience is essential.</strong> The UX should be the primary focus for the retailers who sell their products at B2B marketplaces. Good UX helps with conversion of by passers on your web-store into loyal customers and promotes your website as one that is convenient to navigate. This B2B e-commerce trend plays a big role in differentiation and profitability, as buyers always demand high-resolution product images, an exact description of the product, rich content, including many answers on F.A.Q.s, etc. Use your platform not only to sell products but to educate and inform buyers about the industry.</p>
         </div>
     </div>
        <div class="col-w">
@@ -87,13 +87,13 @@ tags :
         </div>
     </div>
     <h2>B2B Ecommerce Trends in 2017</h2>
-    <p class="text">Despite the fact that 2017 has just recently started, we can already point out some of the most prominent B2B eCommerce trends on the market. Following them is crucial in a rapidly-developing market, so let’s look into some of them. </p>
+    <p class="text">Now that 2017 is coming to its end, we can point out some of the most prominent B2B eCommerce trends on the market. </p>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Omni-channel customer care" src="assets/images/omni-channel.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            <strong>Omni-channel customer care.</strong> Following the trend of great customer experience that was present in 2016, omnichannel customer care has appeared. The customer service that was present only via e-mails is now totally unacceptable. B2B customers require even more attention than <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C</a> ones and to provide that, websites need to have online customer service chats, the availability of web calls and focus on individual customer experience. This includes optimizing navigation for customer’s needs, adding search filters and other helpful perks. Smartly personalized B2B buying experience will be the way to go for the vendors.
+            <strong>Omnichannel customer care. </strong> Following the trend of great customer experience that was present in 2016, omnichannel customer care has appeared. The customer service that was present only via e-mails is now totally unacceptable. B2B customers require even more attention than <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C</a> ones and to provide that, websites need to have online customer service chats, the availability of web calls and focus on individual customer experience. This includes optimizing navigation for customer’s needs, adding search filters and other helpful perks. Smartly personalized B2B buying experience will be the way to go for the vendors.
         </div>
     </div>
     <div class="col-w">
@@ -136,8 +136,53 @@ tags :
             <img alt="Flexible payment options" src="assets/images/flexible-payment-options-1.jpg" />
         </div>
     </div>
-    <p class="text">These were the trends that were mostly discussed in the mediaweb. The B2B market with massive online catalogs, complicated payment methods, and extremely diverse customer needs, there’s a layer of intricacy that’s not found in traditional consumer sales is more complex than the B2C. But if a company can get ahead of emerging trends and implement them into their working process it becomes their competitive advantage.
-So adopt these B2B ecommerce trends to always stand on top of your game!</p>
+    <h2>B2B Ecommerce Trends in 2018</h2>
+    <p class="text">As the year 2017 is approaching its end, now’s the time to start looking towards your ecommerce development plans for 2018 and further.</p>
+    <p class="text">According to [Forrester analysts’ reports](https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/), the business-to-business ecommerce market is currently at a $1 trillion+ mark and is expected to grow up to $2 trillion by 2020. This means that for B2B sellers now it’s more important than ever to keep up with the quickly changing surroundings. Below we take a close look at the rising b2b ecommerce trends for the coming year that you can look into incorporating into your B2B strategy to help increase your competitive advantage.</p>
+    <div class="col-w">
+        <div class="col __col-30">
+            <img alt="Omnichannel" src="assets/images/omnichannel.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+            <strong>Omnichannel.</strong> This is definitely one of the most prominent b2b ecommerce trends by the end of this year that is going to become even bigger in the next, so be prepared to be able to deliver a true omnichannel buying experience. B2B sellers need to embrace the fact that all their customers are now omnichannel and work to ensure they can accommodate them.
+            <p class="text">[Forrester confirms](https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/) that 51% of B2B sellers stated their omnichannel customers increased spending with them in the past year, with only 7% saying those customers decreased spending. Thus, gaining and retaining omnichannel buyers should be of critical importance to B2B sellers in 2018.</p>
+        </div>
+    </div>
+    <p class="text">More of B2B online buyers prefer to research and browse on their own (68%, up from 53% in 2015). Needless to say that in this environment the expectations of the digitally connected customers should influence an organization’s B2B selling priorities. </p>
+    <p class="text">Organizations striving to be successful players on the B2B ecommerce market would need to have a flexible, scalable commerce infrastructure to support an integrated selling platform. </p>
+    <p class="text">The data indicates that B2B buyers are not seeking to make every purchase via either self-service or full service. Instead, they gravitate toward a mixture of both modes across a variety of different purchasing scenarios. The sets new b2b ecommerce trends of offering both self-service and human-assisted options and putting extra effort into migrating B2B buyers online in order to convert them into higher value customers. Ecommerce cannot be independent of traditional direct and indirect channel sellers. All the back-end data around products, pricing, contracts, rebates, and promotions would need to be consolidated, and the front-end touchpoints have to accommodate the needs of that channel. The best approach would be to start from the back end and work your way to the front to keep consistency in the process while providing unique experiences for every user persona.</p>
+    <p class="text">Forrester believes that B2B sellers would need to turn to flexible and scalable ecommerce infrastructures that can offer a full spectrum of options, from pure self-serve websites to full service delivered by sales staff, and with hybrid selling models.  </p>
+    <p class="text">From a technological standpoint, this means that in order to support this new model an organization would require at minimum, an ecommerce platform obviously. But also a strong CRM system, which would help create a comprehensive picture of the B2B buyer, their organization, and preferences.  A CPQ system would also be essential for expediting full-service sales and letting the ecommerce platform effectively support complex products and variation in product lines. </p>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+            <strong>Personalization.</strong> For a business offers multiple product lines, uses a large catalog, and operates in several different sectors dynamic personalization can help significantly increase online revenues. Marketing technology innovators have evolved marketing personalization tools significantly, and it will get even more personal in 2018. This is why it is becoming one of the leading b2b ecommerce trends as we approach the new year. 
+        </div>
+        <div class="col __col-30">
+            <img alt="Personalization" src="assets/images/personalization.jpg" />
+        </div>
+    </div>
+    <p class="text">Dynamic personalization is adjusting your website content based on each visitor’s requirements and needs. For example, to a first-time visitor, you may want to show a different view of your to what you’d show an existing lead or a returning customer. Online store personalization lets you can present the right content to the right person - to deliver timely and relevant content and time your calls to action perfectly without having to overwhelm your customers with a multitude of various messages.</p>
+    <p class="text">The more sophisticated AIs now offer personalization techniques as a package rather than separate services like before –push notifications on mobile phones, email messaging, and content recommendations on social media and websites can all be tailored to each customer using machine learning with the data gathered about an individual across all the channels. This means that now rather than just personalizing select interactions with the customers, you would be able to personalize an actual customer journey and walk them all the way through it, offering personalized content at each point.</p>
+    <div class="col-w">
+        <div class="col __col-30">
+            <img alt="User experience and mobile " src="assets/images/m-commerce.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+            <strong>User experience and mobile.</strong> M-commerce is one of the b2b ecommerce trends that started a couple years ago already and is only getting stronger year to year as mobile technology continues to evolve. 
+            <p class="text">By now a B2B company that wants to be successful on the market pretty much has to provide a functional shopping platform for smartphones and tablets, from optimizing the online store for smaller screens to creating apps, etc. </p>
+        </div>
+    </div>
+    <p class="text">Many B2B operators are now prioritizing making their services as convenient as possible for their customers, which in a lot of cases means strong mobile support. As many warehouse workers are routinely armed with smartphones and tablets for performing their daily functions, and more and more buyers make purchases while on the road as they move from venue to venue for their job, B2B vendors really need to consider making their websites m-commerce friendly.</p>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+            <strong>AI for content marketing.</strong> AIs may not be ready to craft high-quality content as of just yet. But, with tools like generation analytics and predictive analytics, AI may be participating more and more noticeably in the creation process, and in some cases, might even be generating actual content. 
+            <p class="text">AI in content marketing can already help with research, outcome tracking and microtargeting. As machines are developing better content editing skills, too, they could also help to streamline the process of content creation and reduce costs in the future. </p>
+        </div>
+        <div class="col __col-30">
+            <img alt="AI for content marketing" src="assets/images/ai-for-content-marketing.jpg" />
+        </div>
+    </div>
+    <p class="text">These are just a few ways, discussed on the mediaweb, that could help you improve the online experience for your customers. The B2B market is more complex than the B2C – it uses massive online catalogs and additional payment methods, and needs to accommodate for very diverse customer needs, adding a new level of complexity that’s not present in traditional consumer sales. But if a company can adopt these B2B ecommerce trends, it will always stay ahead of game! </p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
