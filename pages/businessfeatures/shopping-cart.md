@@ -3,7 +3,7 @@ title: Best ASP.NET shopping cart software - Free Community Edition
 description: Build an online store with Virto Commerce ASP.NET shopping cart software. Benefit from an open source shopping cart software that has every feature you need.
 date: 2014-01-30
 canonical: https://virtocommerce.com/shopping-cart
-permalink: shopping-cart
+permalink: asp-net-shopping-cart
 ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Best ASP.NET Shopping Cart Software - Free Community Edition
 ogsitename: Virtocommerce
