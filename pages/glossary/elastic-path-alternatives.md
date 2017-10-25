@@ -67,7 +67,7 @@ tags :
             <img alt="Elasticpath Alternatives - Magento" src="assets/images/magento-1.jpg" />
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-            If you are an enterprise company that has development resources, you should also consider <a href="https://magento.com/" rel="nofollow">Magento</a> as another Elasticpath alternative. It offers enormous flexibility due to its open source code, customizability with Magento’s agile features, extensions, and plugins that expand your options, when it comes to your website’s functionality.  
+            If you are an enterprise company that has development resources, you should also consider <a href="/glossary/magento-alternatives">Magento</a> as another Elasticpath alternative. It offers enormous flexibility due to its open source code, customizability with Magento’s agile features, extensions, and plugins that expand your options, when it comes to your website’s functionality.  
             </div>
         </div>
         <p class="text">
