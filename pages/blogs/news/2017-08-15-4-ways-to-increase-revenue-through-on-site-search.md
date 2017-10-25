@@ -17,7 +17,7 @@ With the eCommerce world becoming increasingly saturated, retailers must make su
 
 <h2>AUTOCOMPLETE</h2>
 
-With engines like Google search, it’s no surprise that autocomplete has become a norm in the eCommerce world. If your site does not have an effective autocomplete, you are living in the past. Ultimately, autocomplete simplifies the search experience for consumers by allowing visitors to find a specific product without having to type in an entire word into the search bar. This function not only leaves customers satisfied, but also leads to increased conversions and overall sales. 
+With engines like Google search, it’s no surprise that autocomplete has become a norm in the eCommerce world. If your <a href="{{ 'https://virtocommerce.com/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">site</a> does not have an effective autocomplete, you are living in the past. Ultimately, autocomplete simplifies the search experience for consumers by allowing visitors to find a specific product without having to type in an entire word into the search bar. This function not only leaves customers satisfied, but also leads to increased conversions and overall sales. 
 
 Ensure that you are taking advantage of the robust autocomplete tools out there. These tools allow informative content such as blogs, videos, and photos to be included in the search results along with relevant products. 
 
@@ -27,7 +27,7 @@ For example, Kraft Heinz uses the enhanced autocomplete function to show popular
 
 <h2>FILTERS</h2>
 
-Filters are an excellent way for consumers to shop quickly and efficiently. Filters help prevent consumers from becoming overwhelmed by thousands of products on one page, by filtering the results down to a specific product they are looking for. They can get very specific, narrowing down to style, size, manufacturer, designer, color, etc. Without filters, it is almost as if the consumer has to sift through thousands of racks in stores to just find one specific item they are looking for, which is a process that results in frustration. 
+Filters are an excellent way for consumers to shop quickly and efficiently. Filters help prevent consumers from becoming overwhelmed by thousands of products on one page, by filtering the results down to a specific <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">product</a> they are looking for. They can get very specific, narrowing down to style, size, manufacturer, designer, color, etc. Without filters, it is almost as if the consumer has to sift through thousands of racks in stores to just find one specific item they are looking for, which is a process that results in frustration. 
 
 <img src='../../assets/images/blog/nextopia-blog-2.jpg'>
 
