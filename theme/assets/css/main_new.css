@@ -220,16 +220,17 @@ a
 }
 
 .vc-products .bg-banner {
-    background: url(bg-vc-products.jpg) 0 no-repeat;
+    background: url(bg-vc-products-header.jpg) 0 no-repeat;
     height: 350px;
     padding: 30px 0 0;
-    background-position: 0px -178px;
+    background-position: 0px 0px;
     background-size: 100%;
 }
 
 .vc-products .banner-t
 {
 	font-size: 30px;
+    color: white;
 	font-weight: 600;
 	margin: 0 0 10px;
 	text-transform: uppercase;
