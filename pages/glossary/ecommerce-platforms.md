@@ -99,7 +99,7 @@ tags:
             <img alt="Top Ecommerce Platforms - Magento" src="assets/images/magento.jpg" />
         </div>
     </div>
-    <p class="text">If you are planning to have a serious platform, <a href="https://magento.com/" rel="nofollow">Magento</a> would be a great choice. However, if you are just looking for a simple and basic solution that is easy to integrate on your own, Magento might be a bit of overkill.</p>
+    <p class="text">If you are planning to have a serious platform, <a href="{{ '/glossary/magento-alternatives' | absolute_url }}">Magento</a> would be a great choice. However, if you are just looking for a simple and basic solution that is easy to integrate on your own, Magento might be a bit of overkill.</p>
     <h2>Volusion</h2>
     <div class="col-w">
         <div class="col __col-30">
