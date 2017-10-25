@@ -21,7 +21,7 @@ Payment and bank details of large organizations and individuals mustn't get into
 
 <i>The key ones include:</i>
 
-•	First of all, you need to choose a <strong>safe eCommerce platform</strong>. We will help you with that as you will find some Magento, OpenCart, PrestaShop, and Shopify templates developed by <a href="https://www.templatemonster.com/?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">TemplateMonser</a> for the fastest and the safest start at the end of this blog post. We also advise you to check out [Virto Commerce](https://virtocommerce.com/) open source eCommerce platform, a hosted solution and full-service offering, Microsoft Gold Partner, to strategically use eCommerce to build stronger customer relationships and rapidly increase global online sales.
+•	First of all, you need to choose a <strong>safe eCommerce <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">platform</a></strong>. We will help you with that as you will find some <a href="{{ '/glossary/magento-alternatives' | absolute_url }}">Magento</a>, OpenCart, PrestaShop, and <a href="{{ '/glossary/shopify-alternatives' | absolute_url }}">Shopify</a> templates developed by <a href="https://www.templatemonster.com/?aff=virtocommerce&utm_campaign=blog_site_virtocommerce&utm_source=10.01.2017_guestpost&utm_medium=fraud" rel="nofollow">TemplateMonser</a> for the fastest and the safest start at the end of this blog post. We also advise you to check out [Virto Commerce](https://virtocommerce.com/) open source eCommerce platform, a hosted solution and full-service offering, Microsoft Gold Partner, to strategically use eCommerce to build stronger customer relationships and rapidly increase global online sales.
 
 •	<strong>Set up alerts</strong>. You can set up an alert system detecting suspicious activity originating from a single IP address or from a single account (like multiple disparate transactions that use different credit cards or are destined for varied shipping locations.
 
@@ -33,7 +33,7 @@ Payment and bank details of large organizations and individuals mustn't get into
 
 •	<strong>Get rid of useless sensitive data</strong>. All websites tend to compile information about their users but with eCommerce sites, this usually includes the customers’ financial information like bank and credit card verification details. When you store these details for longer than is required, you create an information bank that looks very tempting to scammers. What is a reasonable amount of time to store such information? It's the period in which they can return their purchase, or if they participate in a competition until the results are announced.
 
-•	<strong>Track every order</strong>. Take good care of your customers by tracking every order. This way you will be able to identify and fight chargeback frauds.
+•	<strong>Track every order</strong>. Take good care of your customers by tracking every <a href="{{ 'https://virtocommerce.com/order-management-software' | absolute_url }}">order</a>. This way you will be able to identify and fight chargeback frauds.
 
 What's more, eCommerce projects need to constantly educate both their employees and customers. <strong>Train your employees</strong> on best security practices and invest in a fraud management service.
 
