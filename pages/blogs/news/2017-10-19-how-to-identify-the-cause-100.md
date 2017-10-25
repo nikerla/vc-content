@@ -41,13 +41,13 @@ Click the Start Profiling button for the process you wish to profile, (most like
 
 After few seconds, the browser should bring up the file download option. Now, you can save diagsession file.
 
-Microsoft doesn’t recommend to run a profiling session for more than one to two minutes because profiling can produce large files. The profiling session will be terminated if a session is started from the kudu site and is running for more than 15 minutes. If your Web App is running on multiple instances, you can connect to the scm site for the instance you’d like to profile and start a profiling session on that instance only.
+Microsoft doesn’t recommend to run a profiling session for more than one to two minutes because profiling can produce large files. The profiling session will be terminated if a session is started from the kudu site and is running for more than 15 minutes. If your Web App is running on multiple instances, you can connect to the scm <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">site</a> for the instance you’d like to profile and start a profiling session on that instance only.
 
 <h2><strong>Step 3. Analyze diagsession file</strong></h2>
 
 The generated profile is a .diagsession file can be opened with Visual Studio 2017. 
 
-Once you open a profile in Visual Studio 2017 you will see the all familiar profiling pages where you can easily drill down into specifics of your profiling sessions and locate the bottleneck. Below is our profile session from real Virto Commerce application suffering from a prolonged period of high CPU.  
+Once you open a profile in Visual Studio 2017 you will see the all familiar profiling pages where you can easily drill down into specifics of your profiling sessions and locate the bottleneck. Below is our profile session from real <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">Virto Commerce</a> application suffering from a prolonged period of high CPU.  
 
 <div style="text-align: center;"><img src="../../assets/images/blog/how-to-identify-the-cause-100-4.jpg" /></div>
 
