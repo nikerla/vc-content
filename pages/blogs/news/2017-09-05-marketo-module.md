@@ -22,4 +22,4 @@ The new module automatically creates and updates leads for you when contacts are
 
 You can download the module from our [GitHub Repository](https://github.com/VirtoCommerce/vc-module-marketo), make sure to follow the installation guide provided.
 
-Once installed, simply go to Marketo module settings and configure <strong>*URL, Client Id*</strong> and <strong>*Client Secret*</strong> (you can get those values, using the guide provided with the module). Register new user on Virto Commerce storefront, then check Marketo leads database. New leads should appear there.
+Once installed, simply go to Marketo module settings and configure <strong>*URL, Client Id*</strong> and <strong>*Client Secret*</strong> (you can get those values, using the guide provided with the module). Register new user on <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">Virto Commerce</a> storefront, then check Marketo leads database. New leads should appear there.
