@@ -47,7 +47,7 @@ tags :
             </div>
         </div>
         <p class="text">
-        However, if you have experience with basic coding, you can create a fully customizable website that will suit any of your desires. In addition, for an extra cost, <a href="https://magento.com/" rel="nofollow">Magento</a> is offering extensions and plugins that would make the process of creating your website even more enjoyable. </p>
+        However, if you have experience with basic coding, you can create a fully customizable website that will suit any of your desires. In addition, for an extra cost, <a href="/glossary/magento-alternatives">Magento</a> is offering extensions and plugins that would make the process of creating your website even more enjoyable. </p>
         <p class="text">
         The customer support is another thing in which this Demandware alternative can take pride in. </p>
     <h2>Bigcommerce</h2>
