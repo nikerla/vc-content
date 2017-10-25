@@ -18,13 +18,13 @@ title: TOP 4 Challenges in Enterprise-level eCommerce
 
 <img src='../../assets/images/blog/top-4-challenges-in-enterprise.jpg'>
 
-According to the Retailtouchpoints.com there are over 24 million online stores functioning today. From small local stores to big retail monsters, built on different platforms of varying scale, everyone is eager to follow the e-commerce trend. 
+According to the Retailtouchpoints.com there are over 24 million online stores functioning today. From small local stores to big retail monsters, built on different platforms of varying scale, everyone is eager to follow the <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">e-commerce trend</a>. 
 
-However, only about 650,000 of them (which is only about 2.6%) are actually successfully getting revenue from their sites!
+However, only about 650,000 of them (which is only about 2.6%) are actually successfully getting <a href="{{ 'https://virtocommerce.com/blog/4-ways-to-increase-revenue-through-on-site-search' | absolute_url }}">revenue</a> from their sites!
 
 For a lot of online stores, the biggest roadblock seems to lie at the transition from small-scale businesses to enterprise e-commerce, once the sales start to really grow big time. In general view, enterprise e-commerce is essentially just a bigger version of a normal online store. Technically it is correct. However, running a business at an enterprise level is a whole new adventure! There are multiple factors that come into play once a business grows to this kind of scale. This makes the transition a real challenge! 
 
-The challenges also arise from the advancement in technology and the rise of the e-Commerce space itself. Their solutions, however, often lie within the same plane - tech advancements.
+The challenges also arise from the advancement in technology and the rise of the <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">e-Commerce</a> space itself. Their solutions, however, often lie within the same plane - tech advancements.
 
 This whitepaper describes the most common challenges a business will inevitably face when transitioning to an enterprise-level e-commerce store and provides solutions!
 <style>
