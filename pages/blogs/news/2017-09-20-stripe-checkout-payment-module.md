@@ -13,7 +13,7 @@ title: Virto Commerce is now integrated with Stripe
 ---
 ### <dfn>The new Stripe Checkout payment module will let you integrate your Virto Commerce based online store with Stripe allowing to accept all sorts of payments, including Bitcoins.</dfn>
 
-We have released the new *Stripe Checkout payment module* that will allow you to integrate your Virto Commerce based online store with the [Stripe](https://stripe.com/) payment API.
+We have released the new *Stripe Checkout payment module* that will allow you to integrate your <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">Virto Commerce</a> based online store with the [Stripe](https://stripe.com/) payment API.
 
 This sets the new standard in online payments! Stripe is the leading payment solution for running an internet business that handles billions of dollars every year for forward-thinking businesses around the world. And now its full functionality is available for the Virto Commerce users, allowing them to conveniently accept payments and pay out to third parties. 
 
@@ -49,7 +49,7 @@ Utilizing the Stripe Checkout payment module will let you manage sellers in 25+ 
 
 <h2><strong>BitCoin</strong></h2>
 
-The module lets you accept payments in the number of currencies, including BitCoin! You will be able to easily add BitCoin payment option to your website and start accepting payments from any wallet or service right away.
+The module lets you accept payments in the number of currencies, including BitCoin! You will be able to easily add BitCoin payment option to your <a href="{{ 'https://virtocommerce.com/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">website</a> and start accepting payments from any wallet or service right away.
 
 <img src='../../assets/images/blog/stripe-bit-coin.jpg'>
 
