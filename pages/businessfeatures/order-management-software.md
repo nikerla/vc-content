@@ -1,5 +1,5 @@
 ﻿---
-title: Cloud-based order management software (OMS). Web based order management system
+title: Cloud-based Ecommerce order management software (OMS). Web based distributed order management system
 description: Features of cloud-based order management software by Virto Commerce. This web based order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP systems. OMS software solution from Virto Commerce.
 date: 2017-07-02
 canonical: https://virtocommerce.com/order-management-software
@@ -28,8 +28,8 @@ tags:
             </div>
             <div class="col __col-70 text">
                 <p>Virto Commerce provides an industry leading cloud-based order management software (OMS) that streamlines your sales, order management and order fulfillment processes from sales quote to delivery. Our order management system ensures fast and easy purchasing and shipping for your customers helping improve your sales rates and sales order processing accuracy.</p>
-                <p>The Virto Commerce ecommerce web-based order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP, accounting and fulfillment systems. It simplifies your <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}">purchase order management</a> processes freeing up time and resources for your team to focus on building customer relations. </p>
-                <p>Our most advanced order processing system and order tracking system help keep things organized and ensure the purchases get shipped and delivered on time and that you always have the most accurate overview of your inventory. </p>
+                <p>The Virto Commerce ecommerce web-based order management system (OMS system) can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP, accounting and fulfillment systems. It simplifies your <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}">purchase order management</a> processes freeing up time and resources for your team to focus on building customer relations. </p>
+                <p>Our most advanced order processing and tracking system help keep things organized and ensure the purchases get shipped and delivered on time and that you always have the most accurate overview of your inventory. </p>
                 <p>Real-time access to sales, order statuses, and other key information will drastically increase the level of your business performance.</p>
                 <div class="buttons">
 			        <a class="button fill" href="/try-now">Try It Now</a>
@@ -37,24 +37,24 @@ tags:
 		        </div>
             </div>
         </div>
-		<h2>Web-Based Order Management Features</h2>
+		<h2>Web-Based Ecommerce Order Management Features</h2>
 		<h4>Cloud order management - Order status management</h4>
-		<p class="text">Track orders and manage different order statuses – ex. confirmed/not confirmed, shipped (full order or partially), delivered, paid/unpaid/split payments, etc. With our order tracking software, your order statuses will automatically get updated on different channels. </p>
+		<p class="text">Track orders and manage different order statuses – ex. confirmed/not confirmed, shipped (full order or partially), delivered, paid/unpaid/split payments, etc. With our order management software, your order statuses will automatically get updated on different channels. </p>
     <p class="text">It is modular based, which gives you the freedom to implement it as a ready-to-go OMS solution or keep adding and replacing modules as your business grows.</p>
-    <p class="text">Create one central hub for all stakeholders – executives, sales and service reps, fulfillment specialists and finance managers - with unified distributed order management system.</p>
+    <p class="text">Create one central hub for all stakeholders – executives, sales and service reps, fulfillment specialists and finance managers - with unified distributed order management software.</p>
     <p class="text">In addition, our Virto Commerce distributed customer order management system allows you to automatically sync the sales data to the inventory logs, constantly assuring accuracy; and the cloud-based order management software makes your data secure, yet accessible for you from anywhere.</p>
 		<h4>Sales order processing  - Invoice and payment processing</h4>
 		<p class="text">Track and process payments with a convenient straight-forward order processing software. Control of the quote and order process using smooth and sophisticated workflow for pricing and discounts, approval routing, etc. </p>
     <p class="text">The intelligent order management system (OMS system) allows you to easily generate invoices, charge customer’s credit card or another agreed form of payment, record the payments and sync them with your accounting system. You can also accommodate special quotes and split payments with ease.</p>
 		<h4>Streamlining and automation of recurring purchases</h4>
-		<p class="text">Make recurring orders a breeze. Virto Commerce web order management system allows your customers to make repeated purchases with a few simple clicks using tools like:</p>
+		<p class="text">Make recurring orders a breeze. Virto Commerce web order management software allows your customers to make repeated purchases with a few simple clicks using tools like:</p>
         <p class="text">•	Customer order history </p>
         <p class="text">•	Subscription management</p>
         <p class="text">This takes care of a huge bulk of your customer order management efforts freeing up resources for acquiring new customers and growing your sales.</p>
 		<h4>Full customization</h4>
 		<p class="text">Personalize the purchasing process for your customers. In Virto Commerce cloud order management system you can set special Quotes & Purchase Orders for your buyers with a few clicks. Your partners will also be able to make orders from within their own procurement application or hosted e-procurement system with the PunchOut support.</p>
     <h4>Partial order management</h4>
-		<p class="text">Having the right partial order management system in place is critical for ecommerce order management! Virto Commerce OMS order management system makes managing partial fulfillment a simple and painless process with tools like:</p>
+		<p class="text">Having the right partial OMS solution in place is critical for ecommerce order management! Virto Commerce OMS order management system makes managing partial fulfillment a simple and painless process with tools like:</p>
         <p class="text">•	Order tracking </p>
         <p class="text">•	Split payments</p>
         <p class="text">•	Split order shipment</p>
@@ -68,9 +68,9 @@ tags:
     <p></p>
     <p class="text">Virto Commerce OMS software is not your ordinary order management software – it offers an opportunity to arrange and streamline your workflow, helps keep track of your inventory and order status, facilitates accounting and logistics and is fully customizable to your business’ unique needs and requirements. This is a whole new level of ecommerce order management software!</p>
 		<p class="text"><a href="{{ '/features/for-business-professionals' | absolute_url }}">Module-based architecture</a> makes our OMS system an <a href="{{ '/glossary/agile-software-platform' | absolute_url }}">agile platform</a>, easy and safe to modify, add and remove features and integrate into your existing business processes and supporting software.</p>
-    <h4>OMS pricing </h4>
+    <h4>OMS pricing</h4>
     <p class="text">With all the great qualities it offers, we make sure to have the Virto Commerce OMS solution work for your business, both in terms of services offered and OMS pricing.
-We have multiple options available, so you can always find one that fits your company’s budget – you can choose to pay monthly, annually, perpetual, and more.</p>
+We have multiple OMS pricing options available, so you can always find one that fits your company’s budget – you can choose to pay monthly, annually, perpetual, and more.</p>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
