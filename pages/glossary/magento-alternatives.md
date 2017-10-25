@@ -1,5 +1,5 @@
 ﻿---
-title: Magento alternative
+title: Magento alternative. 8 best Magento competitors. 
 description:  Magento can be easily named among the top most popular ecommerce platforms in the world. The advantages of using Magento include the opportunity to create a fully customizable web store, if your coding knowledge and expertise give you the ability to use its robust open source framework. If you have decided to switch from using Magento, here is what you should consider while choosing your Magento alternative. 
 date: 2017-06-15
 canonical: https://virtocommerce.com/glossary/magento-alternatives
@@ -20,7 +20,7 @@ tags:
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Magento alternative</h1>
+        <h1 class="title">Magento alternative. 8 best Magento competitors.</h1>
     </div>
     <div style="text-align: center;">
         <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
