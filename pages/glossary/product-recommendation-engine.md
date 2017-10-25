@@ -1,5 +1,5 @@
 --- 
-title: Product recommendation engine
+title: Product recommendation engine. Ecommerce recommendation system.
 description: Our Azure-based recommendation engine personalizes the products each customer sees at different times and consequently you get higher conversion rates on every view and the buyers find what they want right at the time they are ready to make a purchase. This article helps you to know what makes product recommendation so great and why is it a smart idea to invest in a product recommendation engine for your eCommerce business.
 date: 2017-10-12
 canonical: https://virtocommerce.com/product-recommendation-engine
@@ -20,15 +20,15 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1>Product recommendation engine</h1>
+        <h1>Product recommendation engine. Personalized recommendations service for ecommerce.</h1>
     </div>
     <img alt="Product recommendation engine" src="assets/images/product-recommendation-engine.jpeg" />
     <p class="text">A <strong>product recommendation engine</strong>, although it’s a sophisticated and complicated system, can be explained in fairly simple terms. You have products to sell. You want your customers to find those products. Your website has limited space. The search function can often miss the context of what your buyer is actually looking for. Our Azure-based recommendation engine personalizes the products each customer sees at different times. As a result, you get higher conversion rates on every view and the buyers find what they want right at the time they are ready to make a purchase.</p>
     <p class="text">Ecommerce product recommendations have been around for a while in the eCommerce industry. So what makes product recommendation so great and why is it a smart idea to invest in a product recommendation engine for your eCommerce business?</p>
-    <h2>Personalize customer experience</h2>
+    <h2>Personalize customer experience via recommendation algorithm</h2>
     <p class="text">The biggest reason to invest in a recommendation engine is that with it you can create a personalized experience for each visitor of your online store. This means that aside from having the most popular products in your inventory showcased to all the potential customers, someone who has been purchasing from your store for a while will also see personalized recommendations related to their prior searches and purchases, as well as their general taste, interests, and style preferences.</p>
     <p class="text">Our Azure-based self-learning ecommerce personalization module uses a number of algorithms that track various customer behaviors and build a unique experience for every customer. So, you don’t have to tag related products anymore or use additional widgets and apps that suggest related products.</p> 
-    <h2>Identify best-sellers and use this in your marketing</h2>
+    <h2>Identify best-sellers using personalized product recommendations</h2>
     <p class="text">Certain brands and products always tend to resonate better with the majority of customers than others. Recommender systems in e commerce can show you which products in your store are most popular with your customers. This can help you plan your inventory better and use the knowledge in your marketing strategy. </p>
     <h2>Follow customer’s journeys</h2>
     <p class="text">Ecommerce recommendations can help you get a better understanding of your customer’s journeys. Our product recommendation engine will show you how they browse the store, what they like, what they choose, and when most conversions happen. It can also suggest information you might not have even considered looking at, like the time when most of the transactions occur. Mapping the customer journey can also give you insights on where your conversion process gets stuck, and how to fix it.</p>
