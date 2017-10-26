@@ -25,7 +25,15 @@ tags :
 		<div class="head __cnt">
 			<h1 class="title">Product information management software (PIM). Product information management tools and solutions. </h1>
 		</div>
-        <p class="text"><strong>Product Information Management Software (PIM)</strong> is a solution that is used to market and sell various types of products via distribution channels. Without a centralized location for storing data, companies rely on tedious and time-consuming spreadsheet-based manual data management that make it virtually impossible to satisfy the increasing demands of ecommerce markets. There is no need to spread all across your data, as you can easily manage, consolidate and improve media websites, ERP systems, print catalogs, and data feeds by implementing useful product information management tools. Therefore, if your goal is to find a solution that is centralized, offers independent data maintenance and collection product information, management capabilities are the right fit for you! </p>
+        <div class="col-w">
+            <div class="col __col-50">
+                <img alt="Product information management software" src="../assets/images/pim.jpg" />
+            </div>
+            <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
+                <strong>Product Information Management Software (PIM)</strong> is a solution that is used to market and sell various types of products via distribution channels. Without a centralized location for storing data, companies rely on tedious and time-consuming spreadsheet-based manual data management that make it virtually impossible to satisfy the increasing demands of ecommerce markets. There is no need to spread all across your data, as you can easily manage, consolidate and improve media websites, ERP systems, print catalogs, and data feeds by implementing useful product information management tools. Therefore, if your goal is to find a solution that is centralized, offers independent data maintenance and collection product information, management capabilities are the right fit for you!</p>
+            </div>
+        </div>
+        <p class="text"> </p>
     <h2>Reasons for product information management solutions growth</h2>
     <p class="text">The concept behind PIM (product information management) has gained its prominence around 2003 due to dramatic increase in the ecommerce market share and popularity of online stores. Other reasons include: </p>
     <p class="text">•	The demand for clear product descriptions that can be easily understood by the consumers.  </p>
@@ -49,7 +57,14 @@ tags :
     <p class="text">•	Cloud: Product data that can be stored in the cloud prevents you from unexpected data loss and increases the number of available data to the customer at a given moment. </p>
     <p class="text">In the end, while looking for your perfect product information management system, always consider your end goals and ways meeting them. This article helps you to discover the qualities that each PIM should possess. If you are striving for a successful ecommerce website, you must consider enriching your data with modern PIM (product information management) software.</p>
 		<h2 class="sub-title">Product information management software from Virto Commerce</h2>
-		<p class="text">Product descriptions, related assets, SEO, prices, inventory, cross-sell and upsell, shipping and fulfillment options, to name a few; can be stored and managed in Virto Commerce PIM software. For more complex enterprise ecommerce solutions, information can be gathered from multiple sources by integrating with EPR, WMS, PMI and other corporate systems.</p>
+        <div class="col-w">
+            <div class="col __col-50">
+                <img alt="Product information management software" src="../assets/images/what-is-pim.jpg" />
+            </div>
+            <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
+                Product descriptions, related assets, SEO, prices, inventory, cross-sell and upsell, shipping and fulfillment options, to name a few; can be stored and managed in Virto Commerce PIM software. For more complex enterprise ecommerce solutions, information can be gathered from multiple sources by integrating with EPR, WMS, PMI and other corporate systems.</p>
+            </div>
+        </div>
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>
