@@ -4,6 +4,7 @@
         "glossary": "Glossary",
         "b2b_ecommerce": "B2B eCommerce Platform",
         "business_feautures": "Business Features",
+        "product_information_management": "Product Information Management Software",
         "technical_feautures": "Technical Features",
         "about_us": "About us",
         "contact_us": "Contact us",
@@ -46,7 +47,7 @@
         "copyright": "Copyright &copy; 2011-2017 Virto Commerce &copy;. All rights reserved",
         "terms": "Terms",
         "privacy": "Privacy",
-		    "shopping_cart": "ASP.NET Shopping Cart"
+        "shopping_cart": "ASP.NET Shopping Cart"
     },
     "main_page": {
         "about": {
