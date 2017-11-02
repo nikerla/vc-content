@@ -50,7 +50,7 @@ tags:
             <a href="https://ru.shopify.com/" rel="nofollow">Shopify</a> is an excellent platform for those who want to get started quickly in the diverse field of ecommerce. It is a perfect Magento alternative that balances the convenience and control over the process of setting up your first product’s website. What you get is instant access to easy to handle web tools that allow you to build your site in a single click. This is a closed source platform (or so-called proprietary platform) that is a perfect solution for small-business owners who don’t want to handle a lot by themselves and prefer all of the developing processes to be taken care of. The great 24/7 customer support will be happy to guide you through the challenging process of a webstore creation. An easy-to-use feature of drag and drop development will ensure that a person with no IT experience will be able to do it. However, despite its enormous amount of applications, plug-ins, extensions and fantastic customer support base, Shopify’s functionality is limited to the platform. You don’t have any options regarding expanding your website’s customizability, giving you much less control over your site than open source Magento competitors can provide.
         </div>
     </div>
-    <p><strong>Shopify pricing</strong></p>
+    <p class="text">Shopify pricing</p>
     <p class="text">Shopify is the leader in the field of ecommerce, in particular, hosted shopping cart platforms. With its robust plans: Basic, Standard, and Advanced, you get everything you need to create a high-end web store, without spending thousands into development. The Basic plan will cost you $29 a month and will come with all of the necessary features for you to start selling online. Besides that, you will be offered an unlimited storage space for the files regarding you online store and the ability to post an unlimited amount of products. Standard plan comes and a price of $79 per month and offers you to open multiple staff accounts, decreases your transaction fees and delivers advanced reports about your web store. Advanced Shopify – the most robust of the Shopify’s plans – comes at a price of $299/month and brings an even smaller transaction fees, increased number of staff accounts and calculated shipping rates. Everything you need to scale up your business and make the most out of your web store. </p>
     <h2>Volusion</h2>
     <div class="col-w">
@@ -61,7 +61,7 @@ tags:
             <img alt="Magento Alternative - Volusion" src="assets/images/volusion1.jpg" />
         </div>
     </div>
-    <p><strong>Volusion pricing</strong></p>
+    <p class="text">Volusion pricing</p>
     <p class="text">4 Volusion plans represent roughly the same set of features. When you pay more, you will get the ability to upload a larger amount of product, get priority phone customer support, larger amounts of bandwidth and with advanced plans, very great features like marketplace integration, customer loyalty rewards and special deals. The plans cost ranges from $15 to $135 a month, with the product and bandwidth amount varying from 100 products and 1GB of bandwidth to 10,000 products and 10GB of bandwidth. For the high-end Volusion plan, you also get a personal account manager, who will help you to control your ecommerce store. </p>
     <h2>Bigcommerce</h2>
     <div class="col-w">
@@ -72,7 +72,7 @@ tags:
             This hosted shopping cart platform is one of the biggest Magento competitors, as well as the direct alternative to Shopify and Volusion. The only reason why <a href="https://www.bigcommerce.com/" rel="nofollow">Bigcommerce</a> is falling behind Shopify on popularity is its limited set of features and design templates. One major benefit of using Bigcommerce is an extensive set of how-tos and guidelines that help you in the process of developing your store’s web page. The tutorials were developed by the experts in the field and consist of self-explanatory videos that will quickly help you get your feet wet in the field of electronic commerce and allow for a smooth transition from sophisticated Magento to a much more easy-to-use Bigcommerce. Just like the other shopping carts presented in the list, Bigcommerce is a closed source (proprietary) solution that offers high security and hassle-free setup, while at the same time, comes with quite a hefty price tag for a starting business owner.
         </div>
     </div>
-    <p><strong>Bigcommerce pricing</strong></p>
+    <p class="text">Bigcommerce pricing</p>
     <p class="text">Bigcommerce’s plans are somewhat similar to those of Shopify. However, you can save up to 10% if you will pay for the year upfront. The most basic plan costs $29.95/month and already has great features to help you set up a responsive web store. It also offers you unlimited product upload amount, data bandwidth, staff accounts and file storage for you to not be worried about paying additional transaction fees. With the Standard plan you can sell products up to $50k in total value in 12 month period.  For the Plus plan, you have to pay $79.95 a month, which gives you the same feature set and the ability to sell up to $150k in total product value in 12 months. The Pro plan will allow you to implement Google customer reviews, filtered product search and custom SSL, plus you can effectively scale up your business by being able to sell up to $400K in 12 month period. </p>
     <h2>Virto Commerce</h2>
     <div class="col-w">
@@ -92,7 +92,7 @@ tags:
             <a href="https://wordpress.org/" rel="nofollow">Wordpress</a> is one of the biggest players in the website building market. When paired with Woocommerce it becomes one of the major Magento alternatives in the field of e-commerce. It differs from Shopify and Bigcommerce in that it is an open-source solution and if you possess enough programming knowledge, you can turn your shop into powerful selling platform that can be hosted anywhere. If you are a fan of installing lots of plugins to improve the work of your website, then this platform is made just for you. The plugins extend your options regarding functionality and allow smoothing of the process of tax reports while also increasing the conversion rates by unique design features. Woocommerce is pretty big: almost 1/3 of online stores are built using this platform. It is valued across users for its clear product presentation, with zoomed pictures, gallery pictures, and photos.
         </div>
     </div>
-    <p><strong>Woocommerce + Wordpress pricing</strong></p>
+    <p class="text">Woocommerce + Wordpress pricing</p>
     <p class="text">This is a great combination for creating a powerful web store. However, there are still some costs associated with it. First, you will need to spend $5-$15 per month to have it hosted somewhere. While some offer you a domain along with the hosting, others don’t, which means you will have to spend $10 extra for the custom domain. If you don’t have the knowledge of creating custom themes, consider spending extra $50 to purchase a stock theme for your website. These are the main expenses associated with launching your website with Woocommerce. However, if you don’t like doing it yourself, you may also want to hire a professional web-developer to do it for you. And as we know, this may bring up the price even more. </p>
         <h2>Squarespace</h2>
     <div class="col-w">
@@ -103,7 +103,7 @@ tags:
             <img alt="Magento Alternative - Squarespace" src="assets/images/squarespace.jpg" />
         </div>
     </div>
-    <p><strong>SquareSpace pricing</strong></p>
+    <p class="text">SquareSpace pricing</p>
     <p class="text">Squarespace offers 2 plans for building your online store. The Basic plan is offered at a price of $30 per month and helps you to set up your website right away. Beautiful templates, easy user experience, no hidden transaction fees make this plan very affordable and appealing to beginners. Set up a responsive website and post unlimited products. With the Advanced plan for $46 a month you can get some additional features like customer account, cart recovery, real time shipping rates, gifts and discounts. With this plan, powerful ecommerce metrics will also be available to you. You can also save up to s10% by purchasing a plan on a year-basis.</p>
             <h2>Wix</h2>
     <div class="col-w">
@@ -114,7 +114,7 @@ tags:
             Just like Wordpress, <a href="https://www.wix.com/" rel="nofollow">Wix</a> delivers an incredible website builder that can be used for free. In the past years, they have been promoting themselves as an e-commerce platform, thus, becoming another one of the big alternatives to Magento in the field. It is especially useful for small businesses and for those who will be creating websites in the following niches: design, photography, restaurant business and music due to the abundance of specific tools that may boost your website. Wix poses itself as the most innovative website builder amongst the existing competitors. Easy to access dashboards and drag & drop solutions allow you to quickly send invoices, accept any orders or let the client place the bookings. The design can be suitably chosen exactly for YOUR needs by selecting from multiple themes and templates. To further it more, the company has recently introduced Artificial Design Intelligence that can have your website created for you based on your preferences. The platform keeps expanding and with years, they will introduce new features that will suit your business.
         </div>
     </div>
-    <p><strong>Wix pricing</strong></p>
+    <p class="text">Wix pricing</p>
     <p class="text">Wix is the platform that can help you host an already existing website and enable some essential ecommerce features into it. It is cheap and versatile. The cheapest plan costs $5/month and can host your already existing website, giving you 500 MB of storage and 1GB of bandwidth. For $10 per month, the amount of bandwidth and storage space increases to 2GB and 3Gb respectively. Get you custom domain and eliminate any of the Wix ads from your website. With $14 a month you can get all of the previous features, along with $300 Ad vouchers, Site Booster and Form Builder Applications. With this plan you get unlimited bandwidth and 10GB storage space for your website. All of these plans are great. However, you can only integrate the ecommerce features into you online store with the next plan that comes at a price of $17/month. The features are the same as in $14 plan, but now, you are able to integrate ecommerce part into your website. With the last plan for $25/month, you can get a priority support for your website and get your website reviewed by a professional developer.</p>
             <h2>3Dcart</h2>
     <div class="col-w">
@@ -125,7 +125,7 @@ tags:
             <img alt="Magento Alternative - 3Dcart" src="assets/images/3dcart.jpg" />
         </div>
     </div>
-    <p><strong>3dcart pricing</strong></p>
+    <p class="text">3dcart pricing</p>
     <p class="text">3dcart is an appealing Magento alternative in a sense that it doesn’t include any transaction fees, allows you to upload unlimited products and have unlimited bandwidth. With the basic plan for $29 per month, you receive a vast amount of features that can help you to set up a solid store and market it successfully with rich SEO features. Plus plan for $79 offers you CRM features, allows you to create customer deals and open up to 5 manager accounts. The ultimate ecommerce solution is 3dcart’s Pro plan for $229/month which gives you more sales management over your web store. </p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
