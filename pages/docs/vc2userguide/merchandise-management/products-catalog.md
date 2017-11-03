@@ -1,4 +1,4 @@
-﻿---
+---
 title: Products catalog
 description: Catalog module presents the ability to add items to your e-commerce store. Anything you sell we call it an item. It can be electronics, groceries, digital content or anything else. Items can be grouped into categories and catalogs. The item grouping is individual depending on the stock size, item types, vendors, etc.
 layout: docs
@@ -11,7 +11,7 @@ Catalog module presents the ability to add items to your e-commerce store. Anyth
 
 ## Common catalogs
 
-A (common) <a class="crosslink" href="https://virtocommerce.com/product-information-management" target="_blank">catalog</a> is defined as a list of items or services that a company showcases online. Physically catalog is a collection of items, which can be grouped into categories. An item can be assigned to only one category or be direct child of catalog without category.
+A (common) <a class="crosslink" href="https://virtocommerce.com/product-information-management-software" target="_blank">catalog</a> is defined as a list of items or services that a company showcases online. Physically catalog is a collection of items, which can be grouped into categories. An item can be assigned to only one category or be direct child of catalog without category.
 
 ![](../../../assets/images/docs/base64fd0dd53166e9f6fa.png)
 

@@ -18,7 +18,7 @@ title: TOP 4 Challenges in Enterprise-level eCommerce
 
 <img src='../../assets/images/blog/top-4-challenges-in-enterprise.jpg'>
 
-According to the Retailtouchpoints.com there are over 24 million online stores functioning today. From small local stores to big retail monsters, built on different platforms of varying scale, everyone is eager to follow the <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">e-commerce trend</a>. 
+According to the Retailtouchpoints.com there are over 24 million online stores functioning today. From small local stores to big retail monsters, built on different platforms of varying scale, everyone is eager to follow the <a href="{{ 'https://virtocommerce.com/product-information-management-software' | absolute_url }}">e-commerce trend</a>. 
 
 However, only about 650,000 of them (which is only about 2.6%) are actually successfully getting <a href="{{ 'https://virtocommerce.com/blog/4-ways-to-increase-revenue-through-on-site-search' | absolute_url }}">revenue</a> from their sites!
 

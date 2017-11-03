@@ -18,7 +18,7 @@ title: Today’s Microsoft ecommerce market calls for Agile Platforms
 
 Agile is the most recognized and widely used methodology in software development presently and for a good reason. It offers some clear advantages for businesses, like 
 
-•	reduced time-to-market when building a minimum viable <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">product</a> 
+•	reduced time-to-market when building a minimum viable <a href="{{ 'https://virtocommerce.com/product-information-management-software' | absolute_url }}">product</a> 
 
 •	shorter planning stage, especially when migrating complex systems
 

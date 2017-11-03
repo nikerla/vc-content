@@ -21,7 +21,7 @@ This Black Friday and Cyber Monday, enhance your online store’s shopping exper
 
 <h2>1. PRODUCT FINDER</h2>
 
-There are two types of online shoppers –people who don’t know what they’re looking for, and ones that know exactly what they’re looking for. For the second batch of shoppers, retailers must make sure that they have the appropriate tools to enable these shoppers to find the specific products they’re looking for. One great way to ensure this is by using a product finder tool, which guides shoppers through an intuitive and interactive process that leads consumers to the exact <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">product</a> they’re searching for. 
+There are two types of online shoppers –people who don’t know what they’re looking for, and ones that know exactly what they’re looking for. For the second batch of shoppers, retailers must make sure that they have the appropriate tools to enable these shoppers to find the specific products they’re looking for. One great way to ensure this is by using a product finder tool, which guides shoppers through an intuitive and interactive process that leads consumers to the exact <a href="{{ 'https://virtocommerce.com/product-information-management-software' | absolute_url }}">product</a> they’re searching for. 
 
 This enhanced site search tool creates an impressive user experience as it makes your customers buying decision streamlined, personalized, and intuitive by asking the right questions, in the right sequence, and entirely customized for your product <a href="{{ 'https://virtocommerce.com/glossary/punchout-catalog' | absolute_url }}">catalog</a>. 
 

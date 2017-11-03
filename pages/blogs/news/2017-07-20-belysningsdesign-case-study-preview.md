@@ -1,4 +1,4 @@
-﻿---
+---
 
 category: virtocommerce-news
 date: '2017-07-20'
@@ -23,7 +23,7 @@ We’re excited to share the news! One of our newest partners Belysningsdesign.s
 
 Belysningsdesign is one of today's leading online lighting stores in Scandinavia with an active customer base of nearly 48 000 buyers. The company focuses on putting user experience at the head of the table and strives for being the leading player in its e-commerce segment by offering the most convenient online stores. 
 
-The company set out to achieve a rapid growth with a solid platform and infrastructure to support it. A new system with a web platform allows the company to meet that goal as well as to adapt to <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">future e-commerce business needs</a>. 
+The company set out to achieve a rapid growth with a solid platform and infrastructure to support it. A new system with a web platform allows the company to meet that goal as well as to adapt to <a href="{{ 'https://virtocommerce.com/product-information-management-software' | absolute_url }}">future e-commerce business needs</a>. 
 
 *“Our vision is to offer the best lighting on the market at an affordable price and to make sure that our customers will have a good user experience”* – says <strong>Christoffer Iveslätt, Marketing Manager at Belysningsdesign</strong>
 

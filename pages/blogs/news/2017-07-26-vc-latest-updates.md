@@ -49,7 +49,7 @@ Azure search does everything that Elasticsearch can do, and it does it in the cl
 
 <h2>Catalog completeness module</h2>
 
-This new feature will automatically check, if all the data related to a certain product has been entered into the database and proceed with publishing it in the <a href="{{ 'https://virtocommerce.com/glossary/punchout-catalog' | absolute_url }}">catalog</a> once the evaluation comes out positive. It will allow a user to implement customizable metrics that show percentage of the information entered in the product card (ex. price, description, photo, etc.) and determine its readiness for publishing. That way a <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">product manager</a> will be able to look at the overall product list and right away see the stage of each product card.
+This new feature will automatically check, if all the data related to a certain product has been entered into the database and proceed with publishing it in the <a href="{{ 'https://virtocommerce.com/glossary/punchout-catalog' | absolute_url }}">catalog</a> once the evaluation comes out positive. It will allow a user to implement customizable metrics that show percentage of the information entered in the product card (ex. price, description, photo, etc.) and determine its readiness for publishing. That way a <a href="{{ 'https://virtocommerce.com/product-information-management-software' | absolute_url }}">product manager</a> will be able to look at the overall product list and right away see the stage of each product card.
 
 Take a closer look at this module [here](https://virtocommerce.com/apps/extensions/catalog-publishing).
 

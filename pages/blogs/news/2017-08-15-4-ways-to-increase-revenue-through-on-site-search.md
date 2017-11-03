@@ -27,7 +27,7 @@ For example, Kraft Heinz uses the enhanced autocomplete function to show popular
 
 <h2>FILTERS</h2>
 
-Filters are an excellent way for consumers to shop quickly and efficiently. Filters help prevent consumers from becoming overwhelmed by thousands of products on one page, by filtering the results down to a specific <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">product</a> they are looking for. They can get very specific, narrowing down to style, size, manufacturer, designer, color, etc. Without filters, it is almost as if the consumer has to sift through thousands of racks in stores to just find one specific item they are looking for, which is a process that results in frustration. 
+Filters are an excellent way for consumers to shop quickly and efficiently. Filters help prevent consumers from becoming overwhelmed by thousands of products on one page, by filtering the results down to a specific <a href="{{ 'https://virtocommerce.com/product-information-management-software' | absolute_url }}">product</a> they are looking for. They can get very specific, narrowing down to style, size, manufacturer, designer, color, etc. Without filters, it is almost as if the consumer has to sift through thousands of racks in stores to just find one specific item they are looking for, which is a process that results in frustration. 
 
 <img src='../../assets/images/blog/nextopia-blog-2.jpg'>
 

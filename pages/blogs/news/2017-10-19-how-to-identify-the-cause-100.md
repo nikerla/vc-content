@@ -41,7 +41,7 @@ Click the Start Profiling button for the process you wish to profile, (most like
 
 After few seconds, the browser should bring up the file download option. Now, you can save diagsession file.
 
-Microsoft doesn’t recommend to run a profiling session for more than one to two minutes because profiling can produce large files. The profiling session will be terminated if a session is started from the kudu site and is running for more than 15 minutes. If your Web App is running on multiple instances, you can connect to the scm <a href="{{ 'https://virtocommerce.com/product-information-management' | absolute_url }}">site</a> for the instance you’d like to profile and start a profiling session on that instance only.
+Microsoft doesn’t recommend to run a profiling session for more than one to two minutes because profiling can produce large files. The profiling session will be terminated if a session is started from the kudu site and is running for more than 15 minutes. If your Web App is running on multiple instances, you can connect to the scm <a href="{{ 'https://virtocommerce.com/product-information-management-software' | absolute_url }}">site</a> for the instance you’d like to profile and start a profiling session on that instance only.
 
 <h2><strong>Step 3. Analyze diagsession file</strong></h2>
 
