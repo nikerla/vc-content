@@ -221,10 +221,26 @@ a
 
 .vc-products .bg-banner {
     background: url(bg-vc-products-header.jpg) 0 no-repeat;
+    position: relative;
     height: 350px;
     padding: 30px 0 0;
     background-position: 0px 0px;
-    background-size: 100%;
+    background-size: cover;
+}
+
+.vc-products .bg-banner::after {
+	content: ' ';
+	position: absolute;;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: rgba(0, 0, 0, 0.2);
+}
+
+.vc-products .banner-inner {
+	position: relative;
+	z-index: 5;
 }
 
 .vc-products .banner-t

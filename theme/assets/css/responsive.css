@@ -2789,6 +2789,21 @@
     			flex-direction: column;
     }
 
+    .vc-products .bg-banner {
+        background: #6c6f71;
+        height: auto;   
+        padding: 10px 0;
+    }
+    
+    .vc-products .banner-t {
+        margin: 0;
+        text-align: center;
+    }
+
+    .vc-products .bg-banner .button {
+        display: none;
+    }
+
     .vc-products .menu
     {
         margin: 10px auto;
