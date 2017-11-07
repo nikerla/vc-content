@@ -1,4 +1,4 @@
-﻿blockquote {
+blockquote {
     background-color: #eee;
     border-left: 10px solid #999;
     padding: 10px 10px 10px 20px;
@@ -7073,6 +7073,10 @@ textarea
 {
     font-family: inherit;
     font-size: inherit;
+}
+
+.control-group.right {
+    text-align: right;
 }
 
 .control-group
