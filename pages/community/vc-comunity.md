@@ -1,14 +1,14 @@
-﻿---
+---
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 date: 2014-01-30
 permalink: vc-comunity
 ---
-<div class="vc-comunity">
+<div ng-app="storefrontApp" ng-controller="communityController" class="vc-comunity">
     <div class="bg-banner">
         <div class="banner-inner __responsive">
             <div class="banner-t">Virto commerce community</div>
-            <a href="#" class="button fill">Request demo & Trial</a>
+            <a href="/try-now" class="button fill">Request demo & Trial</a>
         </div>
     </div>
     <div class="vc-content __responsive">
@@ -24,7 +24,7 @@ permalink: vc-comunity
                             If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill.
                         </div>
                         <div class="list-actions">
-                            <a href="#" class="button fill">Start</a>
+                            <a href="/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -38,7 +38,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="#" class="button fill">Start</a>
+                            <a href="/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -52,7 +52,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="#" class="button fill">Start</a>
+                            <a href="/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -65,10 +65,10 @@ permalink: vc-comunity
                         <div class="list-descr">
                             <ul>
                                 <li>
-                                    <a href="#">Documentation</a>
+                                    <a href="/docs">Documentation</a>
                                 </li>
                                 <li>
-                                    <a href="#">Roadmap</a>
+                                    <a href="/roadmap">Roadmap</a>
                                 </li>
                                 <li>
                                     <a href="#">Github repisitories structure</a>
@@ -90,7 +90,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="#" class="button fill">Start</a>
+                            <a href="/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
