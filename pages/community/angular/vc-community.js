@@ -1,21 +1,17 @@
 var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('communityController', ['$scope', '$window', function ($scope, $window) {
-    console.log('123');
+storefrontApp.controller('communityController', ['$scope', '$window', '$location', '$localStorage', 'communityService', function ($scope, $window, $location, $localStorage, communityService) {
+    console.log('123', $localStorage);
+    
+    communityService.getCustomer().then(function (user) {
+        if (user == '') { window.location = "http://localhost/store/vccom/login" };
+        console.log(user, 'getname');
+        //$scope.userName = user.data.userName;
+    })
     //initialize();
 
     //function initialize() {
-    //    $scope.productOverviewVisible = true;
-    //    var productIds = $window.productIds[0];
-    //    catalogService.getProduct(productIds).then(function (response) {
-    //        var product = response.data[0];
-    //        $scope.product = product;
-    //        selectVariation(product.variations[0].id);
-    //        var fullDescription = _.find(product.properties, function (p) { return p.name === 'Overview' });
-    //        if (fullDescription) {
-    //            $scope.fullDescription = $sce.trustAsHtml(fullDescription.value);
-    //        }
-    //    });
+
     //}
 
 }]);

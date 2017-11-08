@@ -1,4 +1,4 @@
-﻿var storefrontApp = angular.module('storefrontApp');
+var storefrontApp = angular.module('storefrontApp');
 
 storefrontApp.service('dialogService', ['$uibModal', function ($uibModal) {
     return {
@@ -186,5 +186,49 @@ storefrontApp.service('orderService', ['$http', function ($http) {
         getOrder: function (orderNumber) {
             return $http.get('storefrontapi/orders/' + orderNumber + '?t=' + new Date().getTime());
         }
+    }
+}]);
+
+storefrontApp.service('communityService', ['$http', '$q', '$localStorage', function ($http, $q, $localStorage) {
+    return {
+        registerInCommunity: function (registrationData) {
+            console.log(registrationData);
+            if (!$localStorage['community']) {
+                $localStorage['community'] = {};
+            }
+            else if (!_.isEmpty($localStorage['community'][registrationData.user_name]))
+                return $q(function (resolve, reject) { resolve('User name already used') });
+            $localStorage['community'][registrationData.user_name] = [];
+            angular.extend($localStorage['community'][registrationData.user_name], { profile: registrationData });
+            console.log($localStorage);
+
+            return $q(function (resolve, reject) { resolve('User was registered successfully') });
+        },
+        addContributor: function (data) {
+            _.extend($localStorage['community'][userName],{contributorInformation: data });
+            console.log($localStorage);
+            return $q(function (resolve, reject) { resolve('Contributor was added successfully') });
+        },
+        linkGithubAccount: function (userName) {
+            if (!$localStorage['community'][userName].contributorInformation) {
+                $localStorage['community'][userName].contributorInformation = [];
+            }
+            return $q(function (resolve, reject) { resolve({}) });
+        },
+        getCustomer: function () {
+            if (_.isEmpty($localStorage['community'])) {
+                return $q(function (resolve, reject) {
+                    resolve('User is Unregistered');
+                });
+            }
+            return $q(function (resolve, reject) { resolve($localStorage['community'][_.first(_.key($localStorage['community']))]) });
+        },
+        getContributor: function (userName) {
+            return $q(function (resolve, reject) { resolve($localStorage['community'][userName].contributorInformation) });
+        },
+        getGithubAccount: function (userName) {
+            return $q(function (resolve, reject) { resolve($localStorage['community'][userName].githubUserData) });
+        },
+        checkUserPersonalData: function () { }
     }
 }]);
