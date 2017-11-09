@@ -1,4 +1,4 @@
-﻿---
+---
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 date: 2014-01-30
@@ -21,7 +21,7 @@ permalink: login
 						<label for="Password">Password:</label>
 						<input ng-model="user.password" class="form-input" style="width:300px;" type="password" value="" name="customer[password]" id="customer_password" placeholder="Password" ng-required="user.password"/>
 					</div>
-                     <div style="display: inline-flex; word-spacing: normal!important;">{{'or Login with: '}}<div style="position: relative;bottom: 10px;"><img src="gh-ico.png" alt=""> Github</div></div>
+                    <div style="display: inline-flex; word-spacing: normal!important;">{{'or Login with: '}}<div style="position: relative;bottom: 10px;"><img src="gh-ico.png" alt=""> Github</div></div>
                     <p>
                         <div style="top: 25px; position: relative;" class="control-group">
 					    	<button ng-click="signIn(user)" type="submit" class="button fill" ng-required="loginForm.$valid==true">Submit</button>

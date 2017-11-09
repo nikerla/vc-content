@@ -11,7 +11,7 @@ permalink: vc-comunity
             <a href="/try-now" class="button fill">Request demo & Trial</a>
         </div>
     </div>
-    <div class="vc-content __responsive">
+    <div ng-show="loaded" class="vc-content __responsive">
         <div class="vc-cnt">
             <ul class="list">
                 <li class="list-item">
@@ -98,12 +98,13 @@ permalink: vc-comunity
         </div>
         <div class="vc-sidebar">
             <div class="aside" data-name="profile">
-                <div class="aside-t">Profile <span>(completed 45%)</span></div>
+                <div class="aside-t">Profile <span ng-bind="('(completed') + ' ' +(percentage) + ('%)')"></span></div>
                 <div class="aside-other">
-                    John Snow <span>(Virtocommerce)</span>
+                    <span style="font-size: 12pt;font-weight: 700;" ng-bind="(user.name) + ' ' + (user.lastName)"></span>
+                    <span ng-bind="'(' + user.company + ')'"></span>
                 </div>
-                <p><a href="#">Add info</a></p>
-                <p>Point - 35</p>
+                <p><a href="/profile">Add info</a></p>
+                <p ng-bind="'(Point - ' + points + ')'"></p>
             </div>
             <div class="aside">
                 <div class="aside-t"><img src="so-ico.png" alt=""> Stackoverflow</div>
@@ -114,9 +115,13 @@ permalink: vc-comunity
             </div>
             <div class="aside">
                 <div class="aside-t"><img src="gh-ico.png" alt=""> Github</div>
-                <a href="#">Link account</a>
-                <p>Virto commerce rating – 5</p>
-                <p>Pool request – 6</p>
+                <a ng-hide="github" ng-click="connectToGithub()">Link account</a>
+                <div ng-show="github">
+                    <a ng-click="disconnectGithub();">Disconnect account</a>
+                    <p>Name – <span ng-bind="github.user_name"></span></p>
+                    <p>Virto commerce rating – <span ng-bind="github.tagRaiting"></span></p>
+                    <p>Pool request – <span ng-bind="github.poolRequest"></span></p>
+                </div>
             </div>
         </div>
     </div>

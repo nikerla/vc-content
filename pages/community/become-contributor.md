@@ -4,49 +4,78 @@ description: Virto commerce - Enterprise .NET open-source ecommerce cloud platf
 date: 2014-01-30
 permalink: become-contributor
 ---
-<div class="vc-contributor">
+<div ng-controller="contributorController" class="vc-contributor">
     <div class="bg-banner">
-        <div class="banner-t">Beecome a contributor</div>
+        <div ng-if="!formCompleted" class="banner-t">Become a contributor</div>
+         <div ng-if="formCompleted" class="banner-t">Thank you for registration! Now you have become our partner </div>
     </div>
-    <div class="responsive">
-        <div class="steps">
-            <div class="step">
-                <a href="#" class="step-link selected"></a>
+    <form class="responsive">
+        <div ng-init="step = 'licenseTerms'" class="steps">
+            <div  ng-click="step = 'licenseTerms';reloadContributorData();" class="step">
+                <a class="step-link" ng-class="{'selected': (step === 'licenseTerms')}"></a>
                 <div class="step-name">License terms</div>
             </div>
-            <div class="step">
-                <a href="#" class="step-link"></a>
+            <div  ng-click="step = 'contactInfo';reloadContributorData()" class="step">
+                <a class="step-link" ng-class="{'selected': (step === 'contactInfo')}"></a>
                 <div class="step-name">Contact information</div>
             </div>
-            <div class="step">
-                <a href="#" class="step-link"></a>
+            <div  ng-click="step = 'projectInfo';reloadContributorData()" class="step">
+                <a class="step-link" ng-class="{'selected': (step === 'projectInfo')}"></a>
                 <div class="step-name">Project info</div>
             </div>
         </div>
-        <div class="columns">
+        <div ng-hide="formCompleted || !loaded" class="columns">
             <div class="column">
                 <div class="control-group">
                     <label>First Name (required)</label>
-                    <input type="text" class="form-input">
+                    <input ng-model="contributor.firstName" type="text" class="form-input" required>
                 </div>
                 <div class="control-group">
                     <label>Last Name (required)</label>
-                    <input type="text" class="form-input">
+                    <input ng-model="contributor.lastName" type="text" class="form-input" required>
+                </div>
+                <div ng-if="step === 'projectInfo'">
+                    <div class="control-group">
+                        <label>E-mail (required)</label>
+                        <input ng-model="contributor.email" type="text" class="form-input" required>
+                    </div>
+                    <div class="control-group">
+                        <label>GitHub Handle (required)</label>
+                        <input ng-model="contributor.githubHandle" type="text" class="form-input" required>
+                    </div>
+                    <div class="control-group">
+                        <label>Company Name(required)</label>
+                        <input ng-model="contributor.companyName" type="text" class="form-input" required>
+                    </div>
                 </div>
             </div>
             <div class="column">
                 <div class="control-group">
                     <label>Street Address (required)</label>
-                    <input type="text" class="form-input">
+                    <input ng-model="contributor.address" type="text" class="form-input" required>
                 </div>
                 <div class="control-group">
                     <label>Street Address 2</label>
-                    <input type="text" class="form-input">
+                    <input ng-model="contributor.address2" type="text" class="form-input">
+                </div>
+                <div ng-if="step === 'projectInfo'">
+                    <div class="control-group">
+                        <label>City, State/Region (required)</label>
+                        <input ng-model="contributor.city" type="text" class="form-input" required>
+                    </div>
+                    <div class="control-group">
+                        <label>Country, Zip/Postal Code (required)</label>
+                        <input ng-model="contributor.country" type="text" class="form-input" required>
+                    </div>
+                    <div class="control-group">
+                        <label>Phone (required)</label>
+                        <input ng-model="contributor.phone" type="text" class="form-input" required>
+                    </div>
                 </div>
                 <div class="control-group right">
-                    <a href="#" class="button fill">Next</a>
+                    <a ng-click="updateContributorInfo(contributor);" class="button fill">Next</a>
                 </div>
             </div>
         </div>
-    </div>
+    </form>
 </div>

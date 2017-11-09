@@ -190,45 +190,145 @@ storefrontApp.service('orderService', ['$http', function ($http) {
 }]);
 
 storefrontApp.service('communityService', ['$http', '$q', '$localStorage', function ($http, $q, $localStorage) {
+
     return {
         registerInCommunity: function (registrationData) {
-            console.log(registrationData);
             if (!$localStorage['community']) {
                 $localStorage['community'] = {};
             }
             else if (!_.isEmpty($localStorage['community'][registrationData.user_name]))
-                return $q(function (resolve, reject) { resolve('User name already used') });
-            $localStorage['community'][registrationData.user_name] = [];
+                return $q(function (resolve, reject) {
+                    resolve('User name already used')
+                });
+
+            $localStorage['community'].loggedInUser = registrationData.user_name;
+            $localStorage['community'][registrationData.user_name] = {};
             angular.extend($localStorage['community'][registrationData.user_name], { profile: registrationData });
+            $localStorage['community'][registrationData.user_name]['profile']['linkedAccounts'] = {};
             console.log($localStorage);
 
-            return $q(function (resolve, reject) { resolve('User was registered successfully') });
+            return $q(function (resolve, reject) {
+                resolve('User was registered successfully')
+            });
         },
-        addContributor: function (data) {
-            _.extend($localStorage['community'][userName],{contributorInformation: data });
-            console.log($localStorage);
-            return $q(function (resolve, reject) { resolve('Contributor was added successfully') });
-        },
-        linkGithubAccount: function (userName) {
-            if (!$localStorage['community'][userName].contributorInformation) {
-                $localStorage['community'][userName].contributorInformation = [];
-            }
-            return $q(function (resolve, reject) { resolve({}) });
-        },
-        getCustomer: function () {
-            if (_.isEmpty($localStorage['community'])) {
+        login: function (data) {
+            var confirmedUser = _.filter($localStorage['community'], function (profile) { return _.find(profile, { user_name: data.user_name, password: data.password }) });
+            confirmedUser = _.first(confirmedUser);
+            if (!_.isEmpty(confirmedUser)) {
+                $localStorage['community'].loggedInUser = data.user_name;
                 return $q(function (resolve, reject) {
-                    resolve('User is Unregistered');
+                    resolve(200);
+                })
+            }
+            else return $q(function (resolve, reject) {
+                resolve(500);
+            })
+        },
+        updateUserProfile: function (profile) {
+            _.extend($localStorage['community'][userName], { profile: profile });
+        },
+        addContributor: function (data, step, userName) {
+            if (!$localStorage['community'][userName]['contributorInformation'])
+                $localStorage['community'][userName]['contributorInformation'] = {};
+
+            console.log(data);
+            if (!data)
+                data = {};
+            _.extend($localStorage['community'][userName]['contributorInformation'],{[step]: data });
+            console.log($localStorage);
+
+            return $q(function (resolve, reject) {
+                resolve($localStorage['community'][userName]['contributorInformation'])
+            });
+        },
+        disconnectGithubAccount: function () {
+            $localStorage['community'][userName]['profile']['linkedAccounts']['githubProfile'] = {};
+        },
+        linkGithubAccount: function () {
+            var currentUserName = $localStorage['community'].loggedInUser,
+                possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+                accountName = "";
+            for (var i = 0; i < 8; i++)
+                accountName += possible.charAt(Math.floor(Math.random() * possible.length));
+            if (!$localStorage['community'][currentUserName]['profile']) {
+                return $q(function (resolve, reject) {
+                    resolve('Can`t connect to your account')
                 });
             }
-            return $q(function (resolve, reject) { resolve($localStorage['community'][_.first(_.key($localStorage['community']))]) });
+            _.extend($localStorage['community'][currentUserName]['profile']['linkedAccounts'],{
+                githubProfile: {
+                    user_name: accountName,
+                    tagRaiting: Math.floor(Math.random() * 29),
+                    answer: Math.floor(Math.random() * 33),
+                    questions : Math.floor(Math.random() * 18),
+                    poolRequest : Math.floor(Math.random() * 24)
+                }
+            });
+
+            return $q(function (resolve, reject) { resolve('Success') });
         },
-        getContributor: function (userName) {
-            return $q(function (resolve, reject) { resolve($localStorage['community'][userName].contributorInformation) });
+        getGithubAccount: function () {
+            var currentUserName = $localStorage['community'].loggedInUser;
+            if ($localStorage['community'][currentUserName]['profile']['linkedAccounts'].githubProfile)
+                return $q(function (resolve, reject) { resolve($localStorage['community'][currentUserName]['profile']['linkedAccounts'].githubProfile) });
+            else
+                return $q(function (resolve, reject) {
+                    resolve({})
+                })
         },
-        getGithubAccount: function (userName) {
-            return $q(function (resolve, reject) { resolve($localStorage['community'][userName].githubUserData) });
+        getCustomer: function () {
+            var currentUser,
+                currentUserName = $localStorage['community'].loggedInUser;
+            if (_.isEmpty($localStorage['community'])) {
+
+                return $q(function (resolve, reject) {
+                    resolve('User is Unregistered')
+                });
+            }
+            else
+                currentUser = $localStorage['community'][currentUserName];
+
+            console.log(currentUser);
+            return $q(function (resolve, reject) {
+                resolve(currentUser['profile'])
+            });
         },
-        checkUserPersonalData: function () { }
+        getContributor: function () {
+            var currentUserName = $localStorage['community'].loggedInUser;
+            console.log(currentUserName);
+            if ($localStorage['community'][currentUserName]['contributorInformation']) {
+                return $q(function (resolve, reject) {
+                    resolve($localStorage['community'][currentUserName]['contributorInformation'])
+                });
+            }
+            else
+                return $q(function (resolve, reject) {
+                    resolve({});
+                });
+        },
+        checkUserPersonalData: function (userName) {
+            var percentage = 0,
+                points = 0,
+                tagRaiting = 0,
+                answer = 0,
+                questions = 0,
+                poolRequest = 0;
+            if ($localStorage['community'][userName]['contributorInformation']) {
+                if (!_.isEmpty($localStorage['community'][userName]['contributorInformation']['licenseTerms'])) {
+                    console.log('123');
+                    percentage += 10;
+                }
+                if (!_.isEmpty($localStorage['community'][userName]['contributorInformation']['contactInfo'])) {
+                    percentage += 25;
+                }
+                if (!_.isEmpty($localStorage['community'][userName]['contributorInformation']['projectInfo'])) {
+                    percentage += 35;
+                }
+            }
+            if (percentage > 0)
+                points = percentage / 10 + 14;
+
+            return $q(function (resolve, reject) { resolve({ percentage: percentage, points: points, tagRaiting: tagRaiting, answer: answer, questions: questions, poolRequest: poolRequest }) });
+        }
     }
 }]);
