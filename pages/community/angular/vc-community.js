@@ -15,6 +15,7 @@ storefrontApp.controller('communityController', ['$scope', '$window', '$location
             $scope.loaded = true;
         })
         communityService.getGithubAccount().then(function (resp) {
+            if (!_.isEmpty(resp))
             $scope.github = resp;
         });
     })
@@ -29,9 +30,10 @@ storefrontApp.controller('communityController', ['$scope', '$window', '$location
         
     };
 
-    $scope.disconnectfromGithub = function () {
+    $scope.disconnectGithub = function () {
+        console.log($scope);
         communityService.disconnectGithubAccount();
-        $scope.github = {};
+        $scope.github = false;
         console.log($scope);
     }
 

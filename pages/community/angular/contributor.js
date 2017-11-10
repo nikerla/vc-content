@@ -1,6 +1,6 @@
 var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('contributorController', ['$scope', '$window', '$location', '$localStorage', 'communityService', function ($scope, $window, $location, $localStorage, communityService) {
+storefrontApp.controller('contributorController', ['$scope', '$window', '$timeout', '$location', '$localStorage', 'communityService', function ($scope, $window, $timeout, $location, $localStorage, communityService) {
 
     function initialize() {
 
@@ -17,7 +17,6 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$locati
     }
 
     $scope.reloadContributorData = function () {
-        console.log(2);
         communityService.getContributor().then(function (contributor) {
             if (!_.isEmpty(contributor)) {
                 console.log(contributor[$scope.step]);
@@ -35,7 +34,7 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$locati
             $scope.step = 'projectInfo'
         else {
             $scope.formCompleted = true;
-            window.location = "http://localhost/store/vccom/vc-comunity"
+            $timeout(function () { window.location = "http://localhost/store/vccom/vc-comunity" }, 1700)
         }
         $scope.reloadContributorData();
     }

@@ -242,7 +242,8 @@ storefrontApp.service('communityService', ['$http', '$q', '$localStorage', funct
             });
         },
         disconnectGithubAccount: function () {
-            $localStorage['community'][userName]['profile']['linkedAccounts']['githubProfile'] = {};
+            var currentUserName = $localStorage['community'].loggedInUser;
+                $localStorage['community'][currentUserName]['profile']['linkedAccounts']['githubProfile'] = {};
         },
         linkGithubAccount: function () {
             var currentUserName = $localStorage['community'].loggedInUser,
@@ -313,20 +314,32 @@ storefrontApp.service('communityService', ['$http', '$q', '$localStorage', funct
                 answer = 0,
                 questions = 0,
                 poolRequest = 0;
+            var githubPoints = $localStorage['community'][userName]['profile']['linkedAccounts'].githubProfile;
+
             if ($localStorage['community'][userName]['contributorInformation']) {
                 if (!_.isEmpty($localStorage['community'][userName]['contributorInformation']['licenseTerms'])) {
                     console.log('123');
                     percentage += 10;
                 }
                 if (!_.isEmpty($localStorage['community'][userName]['contributorInformation']['contactInfo'])) {
-                    percentage += 25;
+                    percentage += 20;
                 }
                 if (!_.isEmpty($localStorage['community'][userName]['contributorInformation']['projectInfo'])) {
-                    percentage += 35;
+                    percentage += 25;
+                }
+                if (!_.isEmpty($localStorage['community'][userName]['profile'].company)) {
+                    percentage += 5;
+                }
+                if (!_.isEmpty(githubPoints)) {
+                    percentage += 20;
                 }
             }
-            if (percentage > 0)
-                points = percentage / 10 + 14;
+           
+            if (percentage > 0) 
+                points = (percentage / 10 + 11);
+
+            if (!_.isEmpty(githubPoints))
+                points += (githubPoints.answer + githubPoints.poolRequest + githubPoints.tagRaiting + 2 * githubPoints.questions);
 
             return $q(function (resolve, reject) { resolve({ percentage: percentage, points: points, tagRaiting: tagRaiting, answer: answer, questions: questions, poolRequest: poolRequest }) });
         }

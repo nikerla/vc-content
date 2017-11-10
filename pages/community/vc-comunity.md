@@ -24,7 +24,7 @@ permalink: vc-comunity
                             If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill.
                         </div>
                         <div class="list-actions">
-                            <a href="/become-contributor" class="button fill">Start</a>
+                            <a href="http://localhost/store/vccom/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -38,7 +38,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="/become-contributor" class="button fill">Start</a>
+                            <a href="http://localhost/store/vccom/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -52,7 +52,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="/become-contributor" class="button fill">Start</a>
+                            <a href="http://localhost/store/vccom/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -71,7 +71,7 @@ permalink: vc-comunity
                                     <a href="/roadmap">Roadmap</a>
                                 </li>
                                 <li>
-                                    <a href="#">Github repisitories structure</a>
+                                    <a href="https://github.com/VirtoCommerce/vc-platform">Github repisitories structure</a>
                                 </li>
                                 <li>
                                     <a href="#">Stackoverflow channel</a>
@@ -90,7 +90,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="/become-contributor" class="button fill">Start</a>
+                            <a href="http://localhost/store/vccom/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -103,7 +103,7 @@ permalink: vc-comunity
                     <span style="font-size: 12pt;font-weight: 700;" ng-bind="(user.name) + ' ' + (user.lastName)"></span>
                     <span ng-bind="'(' + user.company + ')'"></span>
                 </div>
-                <p><a href="/profile">Add info</a></p>
+                <p><a href="http://localhost/store/vccom/profile">Add info</a></p>
                 <p ng-bind="'(Point - ' + points + ')'"></p>
             </div>
             <div class="aside">
@@ -117,7 +117,7 @@ permalink: vc-comunity
                 <div class="aside-t"><img src="gh-ico.png" alt=""> Github</div>
                 <a ng-hide="github" ng-click="connectToGithub()">Link account</a>
                 <div ng-show="github">
-                    <a ng-click="disconnectGithub();">Disconnect account</a>
+                    <p> <a href="" ng-click="disconnectGithub();">Disconnect account</a></p>
                     <p>Name – <span ng-bind="github.user_name"></span></p>
                     <p>Virto commerce rating – <span ng-bind="github.tagRaiting"></span></p>
                     <p>Pool request – <span ng-bind="github.poolRequest"></span></p>

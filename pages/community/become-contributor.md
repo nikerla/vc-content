@@ -24,7 +24,7 @@ permalink: become-contributor
                 <div class="step-name">Project info</div>
             </div>
         </div>
-        <div ng-hide="formCompleted || !loaded" class="columns">
+        <div ng-show="!formCompleted || loaded" class="columns">
             <div class="column">
                 <div class="control-group">
                     <label>First Name (required)</label>
