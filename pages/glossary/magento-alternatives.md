@@ -20,7 +20,7 @@ tags:
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Magento alternative. 8 best Magento competitors.</h1>
+        <h1 class="title">Magento alternative. 8 best Magento competitors. The best alternatives to Magento in 2017-2018.</h1>
     </div>
     <div style="text-align: center;">
         <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
