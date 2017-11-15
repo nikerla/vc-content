@@ -12,7 +12,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 		{% include 'features-left-menu' %}
 		<div class="business-cnt" itemprop="mainContentOfPage">
 			<div class="head __promo">
-				<h1 class="title">B2B Ecommerce Platform</h1>
+				<h1 class="title">The Best B2B Ecommerce Platform</h1>
 			</div>
 			<div class="blog b2b-e-commerce">
 				<ul class="socials list" style="margin-top: 20px;">
