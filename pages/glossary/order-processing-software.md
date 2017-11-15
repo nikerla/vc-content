@@ -1,5 +1,5 @@
 --- 
-title: Order Processing Software
+title: Order Processing Software. Order fulfillment system
 description: Virto Commerce’s order processing software is very flexible and easy to integrate into your existing order management system. Learn more about benefits and opportunities of using this software in this article. 
 date: 2017-10-19 
 canonical: https://virtocommerce.com/glossary/order-processing-software
@@ -20,7 +20,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Order Processing Software</h1>
+        <h1 class="title">Order Processing Software. Order fulfillment system.</h1>
     </div>
     <img alt="Order Processing Software" src="assets/images/order-processing-software.jpg" />
     <p class="text">
@@ -44,7 +44,7 @@ tags :
     <p class="text">•	Enhance sales order processing by integrating faster invoicing, billing and record creation. </p>
     <h2> Benefits of using an Order Fulfillment System</h2>
     <p class="text">
-    The main benefit of using such software is, of course, faster turnaround times and the ability to implement order tracking system. Other than that, the main advantages are:
+    The main benefit of using such order fulfillment software is, of course, faster turnaround times and the ability to implement order tracking system. Other than that, the main advantages are:
     </p>
     <p class="text">•	Automated invoices on payment terms and billing processes;</p>
     <p class="text">•	Order self-service along with the ability to inquire order information for the customer; </p>
