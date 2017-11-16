@@ -71,7 +71,7 @@ d)	Populate results with product images
 
 3.	Banners, Landing Pages & Category Pages
 
-[JL Hufford](http://www.jlhufford.com/) is using autocomplete to display banners which lead to landing pages specific to the word being typed into the search bar. Looking at the image below, when “Creuset” is typed into the search bar, a banner for the landing page of “Creuset” sale items shows up in the results. Additionally, popular searches and the “Le Creuset” category page also show up. This provides the consumer with an ample amount of information about the product of interest. 
+[JL Hufford](http://www.jlhufford.com/) is using autocomplete to display banners which lead to landing pages specific to the word being typed into the search bar. Looking at the image below, when “Creuset” is typed into the search bar, a banner for the landing page of “Creuset” sale items shows up in the results. Additionally, popular searches and the “Le Creuset” category page also show up. This provides the consumer with an ample amount of information about the <a href="{{ '/glossary/product-recommendation-engine' | absolute_url }}"> product of interest</a>. 
 
 <strong>Tip:</strong> Create banners highlighting the Black Friday & Cyber Monday sales on specific products.
 
