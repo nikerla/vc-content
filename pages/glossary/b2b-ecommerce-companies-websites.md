@@ -74,7 +74,7 @@ tags :
     </p>
     <p class="text">1. Complex pricing options. B2B e commerce companies often offer different prices for different business partners.</p>
     <p class="text">2. Flexible checkout process and delivery. The checkout process should always match your company’s regulations for payment and shipping.</p>
-    <p class="text">3. Navigation and search. User experience is critical in evaluating the quality of an e-commerce website. Every buyer has to be able to easily find what he needs and be done with placing the order as quickly as possible. It is also crucial for every B2B e-commerce company to have a relevant and high-quality site search.</p>
+    <p class="text">3. Navigation and search. User experience is critical in evaluating the quality of an e-commerce website. Every buyer has to be able to easily find what he needs and be done with placing the <a href="{{ '/glossary/order-processing-software' | absolute_url }}"> order</a> as quickly as possible. It is also crucial for every B2B e-commerce company to have a relevant and high-quality site search.</p>
     <p class="text">4. Customer registration. B2B sites usually require mandatory registration to provide their customers with the custom products, special prices, and deals.</p>
     <p class="text">5. Mobile commerce and e-mail marketing newsletter. The website should be accessible for mobile users and interact with its buyers on a day-to-day basis via e-mail newsletters.</p>
   <p class="text">6. Certified e-commerce trust marks that prove the website's reliability when it comes to purchasing goods and services.</p>
