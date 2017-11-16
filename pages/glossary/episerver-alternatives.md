@@ -25,7 +25,7 @@ tags :
     </div>
     <img alt="Episerver alternatives" src="assets/images/episerver-alternatives.jpg" />
     <p class="text">
-    Episerver is a content management system that consistently brings intelligent optimization and personalization to its users and helps them achieve maximum impact with managing content wisely and delivering it through any mobile device. </p>
+    Episerver is a content <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}"> management system</a> that consistently brings intelligent optimization and personalization to its users and helps them achieve maximum impact with managing content wisely and delivering it through any mobile device. </p>
     <p class="text">
     This CMS is an innovative .NET based solution that allows businesses of various sizes to get maximum presence in the online market and deliver great customer experience at any time. If you are interested in features like multi-channeling, content marketing, SEO optimization and responsive design, this is the CMS you would definitely enjoy. </p>
     <p class="text">
