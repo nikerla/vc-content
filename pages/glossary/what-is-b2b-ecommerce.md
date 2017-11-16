@@ -41,7 +41,7 @@ tags :
         </ul>
     </div>
     <div class="text">
-        <p>B2B ecommerce has become vital to the global economy. Following the most recent predictions, by 2020, all B2B ecommerce revenue will be around 6.7 trillion USD by 2020. We can see that this prediction can even be an underestimate, taking into the account the rapid market growth which is viewed in the past years and the amount of $5.7 trillion in revenue in 2014.</p>
+        <p>B2B ecommerce has become vital to the global economy. Following the most recent predictions, by 2020, all B2B ecommerce revenue will be around 6.7 trillion USD by 2020. We can see that this prediction can even be an underestimate, taking into the account the <a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}"> rapid market growth</a> which is viewed in the past years and the amount of $5.7 trillion in revenue in 2014.</p>
         <figure style="text-align: center;">
             <img alt="What is B2B e commerce? B2B e-commerce examples" src="assets/images/what-is-b2b-1.jpg" />
             <figcaption>Source: Statista</figcaption>
