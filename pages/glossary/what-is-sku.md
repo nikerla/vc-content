@@ -41,7 +41,7 @@ tags :
     </p>
     <h2>Stock-takes</h2>
     <p class="text">
-    What are SKUs primarily used for when it comes to stock-takes? From the very definition of SKU, it’s clear that those are used to keep track of the stock units in the most detailed way. Every product variation in a warehouse needs to have its own unique SKU, meaning a business would use a different code for every item in stock. Stock-takes are performed to make sure that the stock levels of the warehouse and of the inventory management system don’t have any discrepancies. The use of SKU productivity definition makes keeping track of the <a href="{{ '/glossary/how-to-calculate-safety-stock' | absolute_url }}">stock levels</a> an easy and straight forward process.
+    What are SKUs primarily used for when it comes to stock-takes? From the very definition of SKU, it’s clear that those are used to keep track of the stock units in the most detailed way. Every product variation in a warehouse needs to have its own unique SKU, meaning a business would use a different code for every item in stock. Stock-takes are performed to make sure that the stock levels of the warehouse and of the inventory <a href="{{ 'https://virtocommerce.com/order-management-software' | absolute_url }}"> management system</a> don’t have any discrepancies. The use of SKU productivity definition makes keeping track of the <a href="{{ '/glossary/how-to-calculate-safety-stock' | absolute_url }}">stock levels</a> an easy and straight forward process.
     </p>
     <h2>Missing Items</h2>
     <p class="text">
