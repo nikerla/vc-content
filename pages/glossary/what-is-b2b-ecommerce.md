@@ -138,7 +138,7 @@ tags :
             <p>Integrated web store software dips directly into your ERP system, which helps avoid complex connections and enables it to gather data directly offering a number of important benefits, such as:</p>
             <p>• Product catalog, that updates automatically and is always current</p>
             <p>• Custom pricing options</p>
-            <p>• Drastically reduced possibility of human error during order processing</p>
+            <p>• Drastically reduced possibility of human error during <a href="{{ '/glossary/order-processing-software' | absolute_url }}"> order processing</a></p>
         </div>
         </div>
         <div class="col-w">
