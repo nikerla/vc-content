@@ -69,7 +69,7 @@ tags :
         The associations, exact jargon, abbreviations, autocomplete suggestions of the search dictionary, filters and
         refinements, clear product hierarchy - these are the essential features that would dramatically lift conversion rates. If
         a client can’t find a product, he can’t buy it. An online store platform must contain usability-related
-        tools to make the searching process as easy as possible for the shoppers who come back to order again.
+        tools to make the searching process as easy as possible for the shoppers who come back to <a href="{{ '/glossary/order-processing-software' | absolute_url }}"> order</a> again.
     </p>
     <h2>B2C commerce solutions</h2>
     <p class="text">
