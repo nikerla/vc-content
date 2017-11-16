@@ -8,16 +8,18 @@ storefrontApp.controller('communityController', ['$scope', '$window', '$location
         if (user == 'User is Unregistered') {
             window.location = "http://localhost/store/vccom/login"
         };
+        console.log(user);
         $scope.user = user;
-        communityService.checkUserPersonalData($scope.user.user_name).then(function (resp) {
-            $scope.percentage = resp.percentage;
-            $scope.points = resp.points;
-            $scope.loaded = true;
-        })
-        communityService.getGithubAccount().then(function (resp) {
-            if (!_.isEmpty(resp))
-            $scope.github = resp;
-        });
+        $scope.loaded = true;
+        //communityService.checkUserPersonalData($scope.user.user_name).then(function (resp) {
+        //    $scope.percentage = resp.percentage;
+        //    $scope.points = resp.points;
+        //    $scope.loaded = true;
+        //})
+        //communityService.getGithubAccount().then(function (resp) {
+        //    if (!_.isEmpty(resp))
+        //    $scope.github = resp;
+        //});
     })
 
     $scope.connectToGithub = function () {
