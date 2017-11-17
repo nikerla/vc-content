@@ -1,8 +1,9 @@
-﻿var storefrontAppDependencies = [
+var storefrontAppDependencies = [
     'ui.bootstrap',
     'ngStorage',
     'pascalprecht.translate',
     'ngSanitize',
+    'ngResource',
 ]
 var storefrontApp = angular.module('storefrontApp', storefrontAppDependencies);
 

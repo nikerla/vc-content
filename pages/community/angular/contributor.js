@@ -1,29 +1,34 @@
 var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('contributorController', ['$scope', '$window', '$timeout', '$location', '$localStorage', 'communityService', function ($scope, $window, $timeout, $location, $localStorage, communityService) {
+storefrontApp.controller('contributorController', ['$scope', '$window', '$timeout', '$location', '$localStorage', 'communityService', 'customerService', function ($scope, $window, $timeout, $location, $localStorage, communityService, customerService) {
 
     function initialize() {
 
-        communityService.getCustomer().then(function (user) {
-            console.log(user,'1');
-            if (user == 'User is Unregistered') {
-                window.location = "http://localhost/store/vccom/login"
-            }
-            else {
-                $scope.user_name = user.user_name;
-                $scope.reloadContributorData();
-            }
+        customerService.getCurrentCustomer().then(function (customer) {
+            $scope.user_name = customer.data.firstName;
+            $scope.reloadContributorData();
         })
+
+        //communityService.getCustomer().then(function (user) {
+        //    console.log(user,'1');
+        //    if (user == 'User is Unregistered') {
+        //        window.location = "http://localhost/store/vccom/login"
+        //    }
+        //    else {
+        //        $scope.user_name = user.user_name;
+        //        $scope.reloadContributorData();
+        //    }
+        //})
     }
 
     $scope.reloadContributorData = function () {
-        communityService.getContributor().then(function (contributor) {
+        communityService.getContributor($scope.user_name).then(function (contributor) {
+            console.log(contributor,'getContributor');
             if (!_.isEmpty(contributor)) {
                 console.log(contributor[$scope.step]);
                 $scope.contributor = contributor[$scope.step];
             }
             $scope.loaded = true;
-            console.log($scope, contributor, $scope.step, '14');
         })
     }
 
@@ -41,7 +46,8 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
 
     $scope.updateContributorInfo = function (data) {
         console.log($scope,'contrTestData');
-            communityService.addContributor(data, $scope.step, $scope.user_name).then(function (resp) {
+        communityService.addContributorInformation(data, $scope.step, $scope.user_name).then(function (resp) {
+            console.log(resp);
                 if (resp)
                     $scope.contributor = {};
             })

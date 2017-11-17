@@ -1,4 +1,4 @@
-﻿<div ng-controller="accountController" class="roadmap responsive">
+<div ng-controller="accountController" class="roadmap responsive">
 	<h1 style="margin-left: 18px;" class="head-title">Login</h1>
 	<div class="columns">
 		<div style="bottom: 20px; position: relative;" class="column">
@@ -7,6 +7,10 @@
 					<input type="hidden" name="Contact[Subject]" value="Contact Partner" />
 					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-contact-partner' />
 					<input style="display: none" name="Contact[PartnerId]" value="" />
+                    {% for login_provider in external_login_providers %}
+                        {% assign external_login_url = 'account/externallogin?authType=' | append: login_provider.authentication_type %}
+                        <a ng-click="lastLogin(login_provider.authentication_type)" class="btn" href="{{ external_login_url | absolute_url }}">{{ login_provider.caption }}</a>
+                    {% endfor %}
 					<div class="control-group">
 						<label for="Contact[UserName]">User name:</label>
                         <input ng-model="user.user_name" class="form-input" style="width:300px;" type="text" value="" name="customer[user_name]" id="customer_user_name" placeholder="User Name" autocorrect="off" autocapitalize="off" autofocus ng-required="user.user_name" />

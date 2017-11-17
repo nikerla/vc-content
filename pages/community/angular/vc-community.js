@@ -1,25 +1,27 @@
 var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('communityController', ['$scope', '$window', '$location', '$localStorage', 'communityService', function ($scope, $window, $location, $localStorage, communityService) {
+storefrontApp.controller('communityController', ['$scope', '$window', '$location', '$localStorage', 'communityService', 'customerService', function ($scope, $window, $location, $localStorage, communityService, customerService) {
     console.log('123', $localStorage);
     $scope.loaded = false;
 
-    communityService.getCustomer().then(function (user) {
-        if (user == 'User is Unregistered') {
-            window.location = "http://localhost/store/vccom/login"
+    customerService.getCurrentCustomer().then(function (user) {
+        if (user.data.userName == "Anonymous" ) {
+            document.location.href = "account/login";
         };
         console.log(user);
-        $scope.user = user;
-        $scope.loaded = true;
-        //communityService.checkUserPersonalData($scope.user.user_name).then(function (resp) {
-        //    $scope.percentage = resp.percentage;
-        //    $scope.points = resp.points;
-        //    $scope.loaded = true;
-        //})
-        //communityService.getGithubAccount().then(function (resp) {
-        //    if (!_.isEmpty(resp))
-        //    $scope.github = resp;
-        //});
+        $scope.user = user.data;
+        $scope.user.organization = _.first($scope.user.addresses).organization;
+        communityService.getGithubData(user.data.firstName).then(function (resp) {
+            console.log(resp);
+            $scope.github = { poolRequest: resp.data.total_count };
+            console.log($scope);
+            communityService.checkUserPersonalData($scope.user, $scope.github.poolRequest).then(function (resp) {
+                $scope.percentage = resp.percentage;
+                $scope.points = resp.points;
+                $scope.rating = resp.rating
+                $scope.loaded = true;
+            })
+        })
     })
 
     $scope.connectToGithub = function () {

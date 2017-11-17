@@ -2,7 +2,7 @@
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 date: 2014-01-30
-permalink: profile
+permalink: account/profile
 ---
 <div ng-controller="accountController" class="vc-contributor">
     <div class="bg-banner">
@@ -13,7 +13,7 @@ permalink: profile
             <div class="column">
                 <div class="control-group">
                     <label>First Name</label>
-                    <input ng-model="user.name" type="text" class="form-input">
+                    <input ng-model="user.firstName" type="text" class="form-input">
                 </div>
                 <div class="control-group">
                     <label>Last Name</label>
@@ -21,10 +21,10 @@ permalink: profile
                 </div>
                 <div class="control-group">
                     <label>Organization</label>
-                    <input ng-model="user.company" type="text" class="form-input">
+                    <input ng-model="newAddresses.organization" type="text" class="form-input">
                 </div>
                 <div class="control-group right">
-                    <a ng-click="save(user);" class="button fill">Save</a>
+                    <a ng-click="updateAccount(user,newAddresses);" class="button fill">Save</a>
                     <a ng-click="cancel();" class="button fill">Cancel</a>
                 </div>
             </div>
