@@ -1,7 +1,7 @@
 var storefrontApp = angular.module('storefrontApp');
 
 storefrontApp.controller('communityController', ['$scope', '$window', '$location', '$localStorage', 'communityService', 'customerService', function ($scope, $window, $location, $localStorage, communityService, customerService) {
-    console.log('123', $localStorage);
+    console.log($localStorage);
     $scope.loaded = false;
 
     customerService.getCurrentCustomer().then(function (user) {
@@ -10,7 +10,10 @@ storefrontApp.controller('communityController', ['$scope', '$window', '$location
         };
         console.log(user);
         $scope.user = user.data;
-        $scope.user.organization = _.first($scope.user.addresses).organization;
+        if (!_.isEmpty($scope.user.addresses))
+            if (!angular.isUndefined(_.first($scope.user.addresses).organization))
+                $scope.user.organization = _.first($scope.user.addresses).organization;
+
         communityService.getGithubData(user.data.firstName).then(function (resp) {
             console.log(resp);
             $scope.github = { poolRequest: resp.data.total_count };
@@ -31,14 +34,6 @@ storefrontApp.controller('communityController', ['$scope', '$window', '$location
                 console.log(resp)
             });
         });
-        
     };
-
-    $scope.disconnectGithub = function () {
-        console.log($scope);
-        communityService.disconnectGithubAccount();
-        $scope.github = false;
-        console.log($scope);
-    }
 
 }]);

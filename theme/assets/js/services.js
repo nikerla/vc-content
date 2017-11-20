@@ -362,29 +362,18 @@ storefrontApp.service('communityService', ['$http', '$q', '$localStorage', funct
 
             if (user) {
                 if (!_.isEmpty(user.firstName)) {
-                    percentage += 15;
+                    percentage += 30;
                 }
                 if (!_.isEmpty(user.lastName)) {
-                    percentage += 10;
+                    percentage += 30;
                 }
-                if (!_.isEmpty(_.first(user.addresses).organization)) {
+                if (!_.isEmpty(user.addresses)) {
                     percentage += 15;
-                }
-                if (!_.isEmpty($localStorage['community'][user.firstName]['contributorInformation']['licenseTerms'])) {
-                    console.log('123');
-                    percentage += 10;
-                }
-                if (!_.isEmpty($localStorage['community'][user.firstName]['contributorInformation']['contactInfo'])) {
-                    percentage += 15;
-                }
-                if (!_.isEmpty($localStorage['community'][user.firstName]['contributorInformation']['projectInfo'])) {
-                    percentage += 20;
-                }
-  
+                }  
             }
             if (prCount) {
                 poolRequest = prCount;
-                percentage += 15;
+                percentage += 25;
             }
 
             if (percentage > 0) 

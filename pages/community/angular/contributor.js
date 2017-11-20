@@ -39,7 +39,7 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
             $scope.step = 'projectInfo'
         else {
             $scope.formCompleted = true;
-            $timeout(function () { window.location = "http://localhost/store/vccom/vc-comunity" }, 1700)
+            $timeout(function () { window.location = "https://localhost:44320/store/vccom/vc-comunity" }, 1700)
         }
         $scope.reloadContributorData();
     }

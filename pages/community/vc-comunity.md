@@ -24,7 +24,7 @@ permalink: vc-comunity
                             If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill.
                         </div>
                         <div class="list-actions">
-                            <a href="https://localhost:44320/store/vccom/become-contributor" class="button fill">Start</a>
+                            <a href="https://localhost:44320/store/vccom/vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -38,7 +38,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="https://localhost:44320/store/vccom/become-contributor" class="button fill">Start</a>
+                            <a href="https://localhost:44320/store/vccom/vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -52,7 +52,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="https://localhost:44320/store/vccom/become-contributor" class="button fill">Start</a>
+                            <a href="https://localhost:44320/store/vccom/vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -98,20 +98,23 @@ permalink: vc-comunity
         </div>
         <div class="vc-sidebar">
             <div class="aside" data-name="profile">
-                <div class="aside-t">Profile <span ng-bind="('(completed') + ' ' +(percentage) + ('%)')"></span></div>
-                <div class="aside-other">
+                <div class="aside-t">Profile <span ng-bind="('(completed') + ' ' + (percentage) + ('%)')"></span></div>
+                <div class="aside-other" >
                     <span style="font-size: 12pt;font-weight: 700;" ng-bind="user.fullName"></span>
-                    <span ng-bind="'(' + user.organization + ')'"></span>
+                    <span ng-if="user.organization" ng-bind="'(' + user.organization + ')'"></span>
                 </div>
                 <p><a href="https://localhost:44320/store/vccom/account/profile">Add info</a></p>
                 <p ng-bind="'(Point - ' + points + ')'"></p>
             </div>
             <div class="aside">
                 <div class="aside-t"><img src="so-ico.png" alt=""> Stackoverflow</div>
-                <a href="#">Link account</a>
-                <p>Virtocommerce tag rating – 5</p>
-                <p>Answer – 6</p>
-                <p>Questions – 7</p>
+                <a ng-hide="showStack" ng-click="showStack=true">Link account</a>
+                <div ng-show="showStack">
+                    <p>Name – <span ng-bind="user.fullName"></span></p>
+                    <p>Virtocommerce tag rating – <span ng-bind="rating"></span></p>
+                    <p>Answer – 6</p>
+                    <p>Questions – 7</p>
+                </div>
             </div>
             <div class="aside">
                 <div class="aside-t"><img src="gh-ico.png" alt=""> Github</div>

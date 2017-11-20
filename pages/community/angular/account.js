@@ -11,11 +11,11 @@ storefrontApp.controller('accountController', ['$scope', '$window', '$localStora
     //        else $scope.error = true;
     //    })
     //}
-    $scope.lastLogin = function (providerName) {
-        communityService.addToAccount(providerName).then(function (resp) {
+    //$scope.lastLogin = function (providerName) {
+    //    communityService.addToAccount(providerName).then(function (resp) {
 
-        }) 
-    }
+    //    }) 
+    //}
 
     $scope.initialize = function () {
         customerService.getCurrentCustomer().then(function (customer) {
@@ -23,19 +23,20 @@ storefrontApp.controller('accountController', ['$scope', '$window', '$localStora
             console.log(customer.data, customer);
             $scope.user = customer.data;
             $scope.newAddresses = {};
-            angular.extend($scope.newAddresses, { organization: _.first($scope.user.addresses).organization });
+            if (!_.isEmpty($scope.user.addresses))
+                if (!angular.isUndefined(_.first($scope.user.addresses).organization))
+                    angular.extend($scope.newAddresses, { organization: _.first($scope.user.addresses).organization });
             console.log($scope.newAddresses);
         })
     }
 
     $scope.updateAccount = function (changedData, newAddresses) {
         var changedAddresses = communityService.getProfileParameters(newAddresses);
-        changedData.dynamicProperties.push({ contributor: { name: 'well' } });
         console.log(changedData);
         accountApi.updateAccount(changedData, mainContext.getCustomer).$promise;
         console.log(accountApi.updateAccount(changedData, mainContext.getCustomer).$promise);
         accountApi.updateAddresses([changedAddresses], mainContext.getCustomer).$promise;
-       // window.location = "https://localhost:44320/store/vccom/vc-comunity";
+        window.location = "https://localhost:44320/store/vccom/vc-comunity";
     }
 
 
