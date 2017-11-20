@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html ng-class="{ 'loading': loading }" ng-controller="docsController" ng-app="storefrontApp">
 <head>
     <meta charset="utf-8" />
@@ -72,7 +72,7 @@
     </script>
     {% include 'autopilot' %}
 </head>
-<body>
+<body ng-class="{ 'modal-open': showAll }">
     <div class="layout">
         <div class="layout-canvas">
             <div class="swipe" id="menu-mobile">
@@ -136,7 +136,7 @@
                             <div id="breadcrumbs">
                                 {% include 'docs-breadcrumbs', docs_tree: docs_tree %}
                             </div>
-                            <div id="page-content">
+                            <div ng-init="getCurrentArticleUrl('{{page.url}}')" id="page-content">
                                 <h1 itemprop="headline">{{ page.title }}</h1>
                                 {% if template != 'search' %}
                                 <div class="contributors">
@@ -151,6 +151,13 @@
                                             <div>
                                                 Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
                                             </div>
+                                            <div>Contributors:</div>
+                                            <ul class="list list-contributors" ng-repeat="article in authors.data">
+                                                <li class="list-item">
+                                                    <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                                                </li>
+                                            </ul>
+                                            <a ng-click="showAll=!showAll" class="see-all">See all</a>
                                         </div>
                                     </div>
                                     <div class="edit-on-github">
@@ -175,6 +182,70 @@
             {% include 'footer' %}
         </div>
     </div>
+    <div ng-if="showAll" class="modal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <a ng-click="showAll=false" class="modal-close">
+                        <i class="fa fa-close"></i>
+                    </a>
+                </div>
+                <div class="modal-body">
+                    <ul class="list list-contributors">
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                        <li class="list-item">
+                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
     {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js' | script_tag }}

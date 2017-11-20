@@ -8,6 +8,14 @@ storefrontApp.config(['$locationProvider', function ($locationProvider) {
 }]);
 
 storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$compile', '$window', 'moment', function ($scope, $http, $location, $compile, $window, moment) {
+    $scope.getCurrentArticleUrl = function (articleUrl) {
+        var commitsEndpoint = "/repos/virtocommerce/vc-content/commits?path="
+        var githubAPI = "https://api.github.com";
+        $http.get(githubAPI + commitsEndpoint + '/pages/' + articleUrl + '.md').then(function (article) {
+            $scope.article = _.uniq(article.data, 'author.login');
+        })
+    }
+ 
     $scope.loading = false;
 	$scope.moment = moment;
     $scope.navigateUrl = function (url, event) {
