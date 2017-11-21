@@ -72,7 +72,7 @@
     </script>
     {% include 'autopilot' %}
 </head>
-<body ng-class="{ 'modal-open': showAll }">
+<body ng-class="{'modal-open' : showAll }">
     <div class="layout">
         <div class="layout-canvas">
             <div class="swipe" id="menu-mobile">
@@ -152,12 +152,14 @@
                                                 Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
                                             </div>
                                             <div>Contributors:</div>
-                                            <ul class="list list-contributors" ng-repeat="article in authors.data">
-                                                <li class="list-item">
-                                                    <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                                            <ul ng-if="authors" class="list list-contributors">
+                                                <li class="list-item" ng-repeat="author in authors |limitTo:5">
+                                                    <a ng-href="{%raw%}{{author.html_url}}{%endraw%}" target="_blank">
+                                                        <img class="list-pic" ng-src="{%raw%}{{author.avatar_url}}{%endraw%}" ng-attr-title="{%raw%}{{author.login}}{%endraw%}" />
+                                                    </a>
                                                 </li>
                                             </ul>
-                                            <a ng-click="showAll=!showAll" class="see-all">See all</a>
+                                            <a ng-show="authors.length>5" ng-click="showAll=!showAll" class="see-all">See all</a>
                                         </div>
                                     </div>
                                     <div class="edit-on-github">
@@ -182,63 +184,21 @@
             {% include 'footer' %}
         </div>
     </div>
-    <div ng-if="showAll" class="modal">
+    <div ng-show="showAll && authors" ng-class="{ 'modal' : showAll }">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <a ng-click="showAll=false" class="modal-close">
+                    Contributors:
+                    <a class="modal-close" ng-click="showAll=!showAll">
                         <i class="fa fa-close"></i>
                     </a>
                 </div>
                 <div class="modal-body">
                     <ul class="list list-contributors">
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
-                        </li>
-                        <li class="list-item">
-                            <img class="list-pic" src="https://avatars0.githubusercontent.com/u/6369252?v=4&s=100" />
+                        <li class="list-item" ng-repeat="author in authors">
+                            <a ng-href="{%raw%}{{author.html_url}}{%endraw%}" target="_blank">
+                                <img class="list-pic" ng-src="{%raw%}{{author.avatar_url}}{%endraw%}" ng-attr-title="{%raw%}{{author.login}}{%endraw%}" />
+                            </a>
                         </li>
                     </ul>
                 </div>

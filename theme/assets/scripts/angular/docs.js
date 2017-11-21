@@ -8,15 +8,27 @@ storefrontApp.config(['$locationProvider', function ($locationProvider) {
 }]);
 
 storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$compile', '$window', 'moment', function ($scope, $http, $location, $compile, $window, moment) {
+    $scope.showAll = false;
+    $scope.loading = true;
     $scope.getCurrentArticleUrl = function (articleUrl) {
         var commitsEndpoint = "/repos/virtocommerce/vc-content/commits?path="
         var githubAPI = "https://api.github.com";
-        $http.get(githubAPI + commitsEndpoint + '/pages/' + articleUrl + '.md').then(function (article) {
-            $scope.article = _.uniq(article.data, 'author.login');
+        $http.get(githubAPI + commitsEndpoint + '/pages/' + articleUrl + '.md').then(function (resp) {
+          var article = [];
+            _.each(resp.data, function (z) {
+                article.push(z.author);
+            })
+            $scope.authors = _.map(_.groupBy(article,
+                function (author) {
+                    return author.login;
+                }),
+                function (grouped) {
+                    return grouped[0];
+                });
+            $scope.loading = false;
         })
     }
- 
-    $scope.loading = false;
+
 	$scope.moment = moment;
     $scope.navigateUrl = function (url, event) {
         event.preventDefault();
