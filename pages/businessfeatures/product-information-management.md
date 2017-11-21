@@ -67,6 +67,7 @@ tags :
     <p class="text">•	Cloud: Product data that can be stored in the cloud prevents you from unexpected data loss and increases the number of available data to the customer at a given moment.</p>
     <p class="text">In the end, while looking for your perfect product information management system, always consider your end goals and ways meeting them. This article helps you to discover the qualities that each PIM should possess. If you are striving for a successful ecommerce website, you must consider enriching your data with modern PIM (product information management) software.</p>
 		<h2 class="sub-title">Product information management software by Virto Commerce</h2>
+    <br>
         <div class="col-w">
             <div class="col __col-50">
                 <img alt="Product information management software" src="../assets/images/what-is-pim.jpg" />
