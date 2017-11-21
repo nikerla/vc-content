@@ -31,10 +31,10 @@ tags :
             </div>
             <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
                 <p class="text"><strong>Product Information Management Software (PIM)</strong> is a solution that is used to market and sell various types of products via distribution channels. PIM coordinates changing product information across all channels of communication, thus ensuring that a business’s entire ecosystem has consistent and up-to-date information. Wikipedia offers the following definition: “Product information management or PIM refers to processes and technologies focused on centrally managing information about products, with a focus on the data required to market and sell the products through one or more distribution channels”. </p>
+                </div>
+        </div>
             <p class="text">Without a centralized location for storing data, companies rely on tedious and time-consuming spreadsheet-based manual data management as their product information management solutions, which makes it virtually impossible to satisfy the increasing demands of ecommerce markets. </p>
             <p class="text">Product information management systems offer the concept of entering and storing the product information once in a single place. This place is the source from which that information is then distributed without needing to be re-entered manually into a number of different systems. There is no need to spread all across your data, as you can easily manage, consolidate and improve media websites, ERP systems, print catalogs, and data feeds by implementing useful product information management tools. Therefore, if your goal is to find a product information management system that is centralized, offers independent data maintenance and collection product information, management capabilities are the right fit for you!</p>
-            </div>
-        </div>
         <p class="text"> </p>
     <h2>Reasons for product information management solutions growth</h2>
     <p class="text">Product information management tools are mostly used to keep customers, stakeholders, and partners informed about all the updates in product related information. After products and services are created and added to the catalog, the status of materials, equipment, suppliers, distributors, etc. can change, often multiple times. Product information management system will note these changes and communicate promptly to maximize efficiency and minimize the impact of changes on the sales cycle. Product information management software allows for faster time to market, increases operational efficiency, and promotes sales growth. </p>
@@ -74,6 +74,8 @@ tags :
             <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
                 Product descriptions, related assets, SEO, prices, inventory, cross-sell and upsell, shipping and fulfillment options, to name a few; can be stored and managed in Virto Commerce PIM software. For more complex enterprise ecommerce product information management solutions information can be gathered from multiple sources by integrating with EPR, WMS, PMI and other corporate systems.</p>
             <p class="text">Our product information management software provides sophisticated catalog management capabilities making it easy and fast to work with even the most complex B2C and <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">B2B</a> product lists. </p>
+              </div>
+        </div>
             <p class="text">Manage digital and physical products’ categories, images, and descriptions with flexible properties structures, making your data consistent across all channels. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 3rd party PIM or CMS solutions. All digital assets can be stored in any popular Content Distribution Network (CDN). You can manage your catalog’s product categories, images, and descriptions from one place, making your data consistent across all channels. </p>
             <p class="text">For a global business, the platform and its product information management system support multiple catalogs, languages, taxes and storefronts.</p>
             <h2>Features</h2>
@@ -106,8 +108,6 @@ tags :
             <p class="text">•	Agile sprints and frequent code pushes.</p>
             <p class="text">•	Large volumes of constantly changing structured, semi-structured, and unstructured data.</p>
             <p class="text">•	Flexible and easily scalable architecture.</p>
-            </div>
-        </div>
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>
