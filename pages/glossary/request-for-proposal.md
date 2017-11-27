@@ -20,7 +20,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1>Request for proposal</h1>
+        <h1 class="title">Request for proposal</h1>
     </div>
     <img alt="Request for proposal" src="assets/images/request-for-proposal.jpg" />
     <h2>What is a Request for Proposal?</h2>
