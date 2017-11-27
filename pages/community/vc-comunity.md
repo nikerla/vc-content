@@ -24,7 +24,7 @@ permalink: vc-comunity
                             If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill.
                         </div>
                         <div class="list-actions">
-                            <a href="https://localhost:44320/store/vccom/vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -38,7 +38,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="https://localhost:44320/store/vccom/vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -52,7 +52,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="https://localhost:44320/store/vccom/vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -90,7 +90,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="https://localhost:44320/store/vccom/vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -103,13 +103,13 @@ permalink: vc-comunity
                     <span style="font-size: 12pt;font-weight: 700;" ng-bind="user.fullName"></span>
                     <span ng-if="user.organization" ng-bind="'(' + user.organization + ')'"></span>
                 </div>
-                <p><a href="https://localhost:44320/store/vccom/account/profile">Add info</a></p>
+                <p><a href="account/profile">Add info</a></p>
                 <p ng-bind="'(Point - ' + points + ')'"></p>
             </div>
             <div class="aside">
                 <div class="aside-t"><img src="so-ico.png" alt=""> Stackoverflow</div>
-                <a ng-hide="showStack" ng-click="showStack=true">Link account</a>
-                <div ng-show="showStack">
+                <a ng-hide="stackExchange" href="account/externallogin?authType=StackExchange" class="btn">Link account</a>
+                <div ng-show="stackExchange">
                     <p>Name – <span ng-bind="user.fullName"></span></p>
                     <p>Virtocommerce tag rating – <span ng-bind="rating"></span></p>
                     <p>Answer – 6</p>
@@ -118,9 +118,9 @@ permalink: vc-comunity
             </div>
             <div class="aside">
                 <div class="aside-t"><img src="gh-ico.png" alt=""> Github</div>
-                <a ng-hide="user" ng-click="connectToGithub()">Link account</a>
-                <div ng-show="user">
-                    <p>Name – <span ng-bind="user.fullName"></span></p>
+                <a ng-hide="github" href="account/externallogin?authType=GitHub">Link account</a>
+                <div ng-show="github">
+                    <p>Name – <span ng-bind="github.userName"></span></p>
                     <p>Virto commerce rating – <span ng-bind="rating"></span></p>
                     <p>Pool request – <span ng-bind="github.poolRequest"></span></p>
                 </div>

@@ -5,27 +5,18 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
     function initialize() {
 
         customerService.getCurrentCustomer().then(function (customer) {
+            if (customer.data.userName == "Anonymous") {
+                document.location.href = "account/login";
+            };
             $scope.user_name = customer.data.firstName;
             $scope.reloadContributorData();
         })
-
-        //communityService.getCustomer().then(function (user) {
-        //    console.log(user,'1');
-        //    if (user == 'User is Unregistered') {
-        //        window.location = "http://localhost/store/vccom/login"
-        //    }
-        //    else {
-        //        $scope.user_name = user.user_name;
-        //        $scope.reloadContributorData();
-        //    }
-        //})
     }
 
     $scope.reloadContributorData = function () {
         communityService.getContributor($scope.user_name).then(function (contributor) {
             console.log(contributor,'getContributor');
             if (!_.isEmpty(contributor)) {
-                console.log(contributor[$scope.step]);
                 $scope.contributor = contributor[$scope.step];
             }
             $scope.loaded = true;
@@ -39,7 +30,7 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
             $scope.step = 'projectInfo'
         else {
             $scope.formCompleted = true;
-            $timeout(function () { window.location = "https://localhost:44320/store/vccom/vc-comunity" }, 1700)
+            $timeout(function () { document.location.href = "/vc-comunity" }, 1700)
         }
         $scope.reloadContributorData();
     }

@@ -1,6 +1,6 @@
-﻿var storefrontApp = angular.module('storefrontApp');
+var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$anchorScroll', 'feedbackService', 'dialogService', function ($scope, $window, $location, $anchorScroll, feedbackService, dialogService) {
+storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$anchorScroll', 'feedbackService', 'dialogService', 'customerService', function ($scope, $window, $location, $anchorScroll, feedbackService, dialogService, customerSerivce) {
     $scope.formModel = {};
     $scope.$location = $location;
 
