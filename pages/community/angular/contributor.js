@@ -15,7 +15,6 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
 
     $scope.reloadContributorData = function () {
         communityService.getContributor($scope.user_name).then(function (contributor) {
-            console.log(contributor,'getContributor');
             if (!_.isEmpty(contributor)) {
                 $scope.contributor = contributor[$scope.step];
             }
@@ -36,12 +35,10 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
     }
 
     $scope.updateContributorInfo = function (data) {
-        console.log($scope,'contrTestData');
         communityService.addContributorInformation(data, $scope.step, $scope.user_name).then(function (resp) {
-            console.log(resp);
-                if (resp)
-                    $scope.contributor = {};
-            })
+            if (resp)
+                $scope.contributor = {};
+        })
         updateStep();
     }
     

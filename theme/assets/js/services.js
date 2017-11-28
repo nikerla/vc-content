@@ -224,11 +224,9 @@ storefrontApp.service('communityService', ['$http', '$q', '$localStorage', funct
             if (_.isEmpty($localStorage['community'][userName]['contributorInformation']))
                 $localStorage['community'][userName]['contributorInformation'] = {};
 
-            console.log(data,'data');
             if (!data)
                 data = {};
             _.extend($localStorage['community'][userName]['contributorInformation'],{[step]: data });
-            console.log(step,data,'data step');
 
             return $q(function (resolve, reject) {
                 resolve($localStorage['community'][userName]['contributorInformation'])
@@ -241,10 +239,15 @@ storefrontApp.service('communityService', ['$http', '$q', '$localStorage', funct
             return $http.get('https://api.github.com/search/issues?q=type:pr+author:' + accountName);
         },
         getStackExchangeProfile: function (userId) {
-            return $http.get('https://api.github.com/search/issues?q=type:pr+author:' + accountName);
+            return $http.get('https://api.stackexchange.com/2.2/users/'+ userId +'?order=desc&sort=reputation&site=stackoverflow');
+        },
+        getStackExchangeQuestions: function (userId) {
+            return $http.get('https://api.stackexchange.com/2.2/users/' + userId + '/questions?order=desc&sort=activity&site=stackoverflow&filter=total');
+        },
+        getStackExchangeAnswers: function (userId) {
+            return $http.get('https://api.stackexchange.com/2.2/users/' + userId + '/answers?site=stackoverflow&filter=total');
         },
         getContributor: function (userName) {
-            console.log($localStorage['community']);
             if (!$localStorage['community']) {
                 $localStorage['community'] = {};
                 $localStorage['community'][userName] = {};

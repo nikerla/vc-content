@@ -24,7 +24,7 @@ permalink: vc-comunity
                             If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill.
                         </div>
                         <div class="list-actions">
-                            <a href="vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="/vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -38,7 +38,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="/vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -52,7 +52,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="/vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -90,7 +90,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="/vc-comunity/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -108,12 +108,12 @@ permalink: vc-comunity
             </div>
             <div class="aside">
                 <div class="aside-t"><img src="so-ico.png" alt=""> Stackoverflow</div>
-                <a ng-hide="stackExchange" href="account/externallogin?authType=StackExchange" class="btn">Link account</a>
+                <a ng-hide="stackExchange" href="account/externallogin?authType=StackExchange">Link account</a>
                 <div ng-show="stackExchange">
-                    <p>Name – <span ng-bind="user.fullName"></span></p>
-                    <p>Virtocommerce tag rating – <span ng-bind="rating"></span></p>
-                    <p>Answer – 6</p>
-                    <p>Questions – 7</p>
+                    <p>Name – <span ng-bind="stackExchange.userName"></span></p>
+                    <p>Virtocommerce tag rating – <span ng-bind="stackExchange.raiting"></span></p>
+                    <p>Answer – <span ng-bind="stackExchange.answers"></span></p>
+                    <p>Questions – <span ng-bind="stackExchange.questions"></span></p>
                 </div>
             </div>
             <div class="aside">
