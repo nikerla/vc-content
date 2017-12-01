@@ -1,6 +1,6 @@
 ---
-title: Product information management software (PIM)
-description: Product information management software (PIM) from Virto Commerce. What is product information management? Product information management solutions and systems.
+title: Product information management software (PIM) solutions and tools
+description: Product information management software (PIM) from Virto Commerce. What is product information management? Product information management tools, solutions and systems.
 date: 2014-01-30
 canonical: https://virtocommerce.com/product-information-management-software
 permalink: product-information-management-software
@@ -79,7 +79,7 @@ tags :
         </div>
             <p class="text">Manage digital and physical products’ categories, images, and descriptions with flexible properties structures, making your data consistent across all channels. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 3rd party PIM or CMS solutions. All digital assets can be stored in any popular Content Distribution Network (CDN). You can manage your catalog’s product categories, images, and descriptions from one place, making your data consistent across all channels. </p>
             <p class="text">For a global business, the platform and its product information management system support multiple catalogs, languages, taxes and storefronts.</p>
-            <h2>Features</h2>
+            <h2>Product information management system features</h2>
             <h4>Multi-store catalogs</h4>
             <p class="text">Use the Virto Commerce product information management tools to run multiple stores with their customized product catalogs from within a single platform. Our Product Information Management system allows you to:</p>
             <p class="text">•	Manage all stores from one central location or individually by store.</p>
