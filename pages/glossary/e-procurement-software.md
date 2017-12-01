@@ -1,6 +1,6 @@
 ﻿---
 title: E procurement software - Definition, Online Tools and Solutions
-description: What is e procurement software? E procurement system definition. Online procurement tools and solutions.
+description: What is e procurement software? E procurement system definition. E procurement tools and solutions.
 date: 2014-01-30
 canonical: https://virtocommerce.com/glossary/e-procurement-software
 permalink: glossary/e-procurement-software
@@ -19,7 +19,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">E procurement software. Online procurement system.</h1>
+        <h1 class="title">E procurement software. E procurement system.</h1>
     </div>
     <p class="text">E-procurement, also known as supplier exchange, is the term used to describe the process of obtaining goods and services through the internet.</p>
     <p class="text">E-procurement system for <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C</a>, <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">B2B</a>, and B2G is generally provided as a side service by large ERP (enterprise resource planning) providers or as an e procurement software by focused vendors.</p>
