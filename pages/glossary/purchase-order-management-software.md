@@ -43,6 +43,10 @@ tags :
     <p class="text">With our purchase order management system that tracks each order from every retail or and wholesale channel, you can easily monitor order statuses and ensure flexible fulfillment and fast shipping. You will be able to quickly check your shipping rate, adjust shipping status and track information for your customers. Our purchase order management software tracks and updates your order statuses at every stage of the fulfillment cycle.</p>
     <p class="text">In addition, with the perfectly customized and calibrated order tracking software you can develop stronger ties with your customers, by delivering their purchases quickly and providing top-notch customer support.</p>
     <p class="text">Our purchase order management software helps you maintain accurate inventory levels to avoid stock-outs. The problem of overstock or stock out will become the thing of the past, as your business becomes more productive working with vendors. There is no more space for human error when you provide regular user-friendly updates.</p>
+    <h2>Purchase Order Management Software Screenshots</h2>
+    <img alt="Purchase Order Management Software System" src="../assets/images/oms-poms-pim-screenshot.jpg" />
+    <br>
+    <img alt="Purchase Order Management Software System" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
