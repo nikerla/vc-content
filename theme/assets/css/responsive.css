@@ -1254,6 +1254,49 @@
                 flex-direction: column;
     }
 
+    .b2b-commerce .section-cnt
+    {
+        -webkit-align-items: flex-start;
+                align-items: flex-start;
+    }
+
+    .b2b-commerce .section-row:nth-child(even) .section-cnt
+    {
+        -webkit-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+    }
+
+    .b2b-commerce .section-text,
+    .b2b-commerce .section-img ~ .section-text
+    {
+        margin: 20px 0 0;
+    }
+
+    .b2b-commerce .b2b-customers .col
+    {
+        padding: 20px 0 0;
+        width: 100%;
+    }
+
+    .b2b-commerce .commerce-platform .col
+    {
+        margin: 20px 0 0;
+        width: 50%;
+    }
+
+    .b2b-commerce .latest-posts .col,
+    .b2b-commerce .best-articles .col
+    {
+        width: 100%;
+    }
+
+    .b2b-commerce .latest-posts .post-pic,
+    .b2b-commerce .best-articles .post-pic
+    {
+        max-width: 100%;
+        width: auto;
+    }
+
     .ecommerce-platform
     {
         padding: 25px 0;
@@ -1361,6 +1404,27 @@
     .vc-products .section-info
     {
         margin: 0 0 50px;
+    }
+
+    .vc-comunity .vc-content .list-item
+    {
+        width: 100%;
+    }
+
+    .vc-contributor .steps
+    {
+        width: 100%;
+    }
+
+    .vc-contributor .steps::after
+    {
+        left: 0;
+        right: 0;
+    }
+
+    .vc-contributor .step-name
+    {
+        display: none;
     }
 
     /* Footer */
@@ -2660,7 +2724,8 @@
         margin: 20px 0 0;
     }
 
-    [data-name="section"] .section-t
+    [data-name="section"] .section-t,
+    .b2b-commerce .ecommerce .section-t
     {
         font-size: 20px;
     }
@@ -2789,21 +2854,6 @@
     			flex-direction: column;
     }
 
-    .vc-products .bg-banner {
-        background: #6c6f71;
-        height: auto;   
-        padding: 10px 0;
-    }
-    
-    .vc-products .banner-t {
-        margin: 0;
-        text-align: center;
-    }
-
-    .vc-products .bg-banner .button {
-        display: none;
-    }
-
     .vc-products .menu
     {
         margin: 10px auto;
@@ -2840,6 +2890,131 @@
     .vc-products .section-info
     {
         margin: 0 0 50px;
+    }
+
+    .vc-comunity .vc-content
+    {
+        padding: 0 15px;
+
+        -webkit-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+    }
+
+    .vc-comunity .vc-content .vc-cnt,
+    .vc-comunity .vc-content .vc-sidebar
+    {
+        margin: 0;
+        width: 100%;
+    }
+
+    .vc-comunity .vc-content .list-item
+    {
+        padding: 15px 15px 0;
+    }
+
+    .vc-comunity .vc-content .vc-sidebar .aside
+    {
+        margin: 15px 0 0;
+    }
+
+    .vc-comunity .vc-content .list-item
+    {
+        width: 100%;
+    }
+
+    .vc-contributor .steps
+    {
+        width: 100%;
+    }
+
+    .vc-contributor .steps::after
+    {
+        left: 0;
+        right: 0;
+    }
+
+    .vc-contributor .step-name
+    {
+        display: none;
+    }
+
+    .b2b-commerce .ecommerce
+    {
+        height: auto;
+        padding: 20px 0;
+    }
+
+    .b2b-commerce .ecommerce .cols
+    {
+        -webkit-flex-direction: column;
+                flex-direction: column;
+    }
+
+    .b2b-commerce .ecommerce iframe
+    {
+        height: 100%;
+        margin: auto;
+        max-width: 100%;
+        width: auto;
+    }
+
+    .b2b-commerce .ecommerce .col
+    {
+        text-align: center;
+    }
+
+    .b2b-commerce .ecommerce .section-actions
+    {
+        margin: 0 0 20px;
+
+        -webkit-align-items: center;
+                align-items: center;
+    }
+
+    .b2b-commerce .product-descr
+    {
+        margin: 0;
+    }
+
+    .b2b-commerce .section-cnt
+    {
+        -webkit-align-items: flex-start;
+                align-items: flex-start;
+    }
+
+    .b2b-commerce .section-text,
+    .b2b-commerce .section-img ~ .section-text
+    {
+        margin: 20px 0 0;
+    }
+
+    .b2b-commerce .section-row:nth-child(2n) .section-cnt
+    {
+        -webkit-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+    }
+
+    .b2b-commerce .b2b-customers .col
+    {
+        padding: 20px 10px 0;
+        width: 100%;
+    }
+
+    .b2b-commerce .commerce-platform .col
+    {
+        margin: 20px 0 0;
+        width: 50%;
+    }
+
+    .b2b-commerce .latest-posts .col, .b2b-commerce .best-articles .col
+    {
+        width: 100%;
+    }
+
+    .b2b-commerce .latest-posts .post-pic, .b2b-commerce .best-articles .post-pic
+    {
+        max-width: 100%;
+        width: auto;
     }
 
     /* Footer */
@@ -3188,6 +3363,32 @@
     .vc-products .banner-t
     {
         font-size: 21px;
+    }
+
+    .vc-contributor .steps::after
+    {
+        height: 2px;
+        top: 10px;
+    }
+
+    .vc-contributor .steps .step-link
+    {
+        border-width: 2px;
+        height: 20px;
+        margin: 0;
+        width: 20px;
+    }
+
+    .b2b-commerce .commerce-platform .col
+    {
+        margin: 20px 0 0;
+        width: 100%;
+    }
+
+    .b2b-commerce .ecommerce .col,
+    .b2b-commerce .ecommerce .button
+    {
+        width: 100%;
     }
 }
 
