@@ -71,6 +71,10 @@ tags:
     <h4>OMS pricing</h4>
     <p class="text">With all the great qualities it offers, we make sure to have the Virto Commerce OMS solution work for your business, both in terms of services offered and OMS pricing.
 We have multiple OMS pricing options available, so you can always find one that fits your company’s budget – you can choose to pay monthly, annually, perpetual, and more.</p>
+    <h2>Order Manaement Software Screenshots</h2>
+    <img alt="Order Manaement Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
+    <br>
+    <img alt="Order Manaement Software" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
