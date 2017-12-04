@@ -99,7 +99,7 @@ permalink: products
 						Provide data to ERPs, eCommerce, Mobile devices etc.
 					</div>
 					<div class="section-actions">
-						<a href="#" class="button fill">Request demo & trial</a>
+						<a href="/try-now" class="button fill">Request demo & trial</a>
 						<a href="#" class="button striped">Learn more</a>
 					</div>
 				</div>
@@ -154,7 +154,7 @@ permalink: products
 						</div>
 					</div>
 					<div class="section-actions">
-						<a href="#" class="button fill">Request demo & trial</a>
+						<a href="/try-now" class="button fill">Request demo & trial</a>
 						<a href="#" class="button striped">Learn more</a>
 					</div>
 				</div>
