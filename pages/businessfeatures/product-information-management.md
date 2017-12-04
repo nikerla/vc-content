@@ -109,6 +109,10 @@ tags :
             <p class="text">•	Agile sprints and frequent code pushes.</p>
             <p class="text">•	Large volumes of constantly changing structured, semi-structured, and unstructured data.</p>
             <p class="text">•	Flexible and easily scalable architecture.</p>
+            <h2>Product Information Management Software Screenshots</h2>
+    <img alt="Product Information Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
+    <br>
+    <img alt="Product Information Management Software" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>
