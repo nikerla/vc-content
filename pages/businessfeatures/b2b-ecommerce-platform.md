@@ -6,6 +6,7 @@ tags:
   - b2b
   - commerce
 title: 'B2B eCommerce Platform | Software by Virto Commerce'
+description: B2B e-commerce solution businesses deserve
 ---
 <div class="b2b-commerce">
 	<section class="ecommerce" data-name="section">
@@ -13,13 +14,18 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 			<div class="cols">
 				<div class="col">
 					<div class="section-t">B2B Ecommerce Platform</div>
+                    <div class="section-descr">B2B e-commerce solution businesses deserve</div>
 					<div class="section-actions">
 						<a href="/try-now" class="button white fill">Request demo & trial</a>
 						<a href="/download-b2b-whitepaper" class="button white">Download whitepaper</a>
 					</div>
 				</div>
 				<div class="col">
-					<iframe id="video" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" allowfullscreen="" frameborder="0"></iframe>
+					<div class="mac">
+                        <div class="inner">
+                            <iframe id="video" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" allowfullscreen="" frameborder="0"></iframe>
+                        </div>
+                    </div>
 				</div>
 			</div>
 		</div>
@@ -149,7 +155,7 @@ title: 'B2B eCommerce Platform | Software by Virto Commerce'
 						<img src="assets/images/b2b/icon-multiple-stores.png" alt="">
 					</div>
 					<div class="section-text">
-						<div class="section-t">Multiple stores, channels, regions</div>
+						<div class="section-t">Multiple stores, channels, regions in a single b2b ecommerce platform</div>
 						<div class="section-descr">
 							Think fully localized support for any scaling scenarios.   Our platform lets you create a unique online presence for stores and larger clients. Or build a whole distributor network across multiple countries, accounting for a number of different languages, local laws, and tax systems. The possibilities are endless!
 						</div>

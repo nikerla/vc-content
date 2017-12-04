@@ -1887,7 +1887,7 @@ a
 {
 	background: url(bg-eccomerce.jpg) no-repeat scroll 0 0;
 	background-size: cover;
-	height: 380px;
+	height: 420px;
 	padding: 0;
 	text-align: left;
 
@@ -1924,12 +1924,11 @@ a
 	width: 50%;
 }
 
-.b2b-commerce .ecommerce .section-t
-{
-	color: #fff;
-	font-size: 30px;
-	font-weight: 600;
-	margin: 0 0 15px;
+.b2b-commerce .ecommerce .section-t {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    margin: 0 0 5px;
 }
 
 .b2b-commerce .ecommerce .section-actions
@@ -1953,9 +1952,33 @@ a
 .b2b-commerce .ecommerce iframe
 {
 	display: block;
-	height: 260px;
-	width: 460px;
+	height: 100%;
+	width: 100%;
 }
+
+.b2b-commerce .mac {
+    background: url(bg-mac.png) no-repeat;
+    top: 10px;
+    height: 381px;
+    position: relative;
+    right: 0;
+    width: 649px;
+}
+
+.b2b-commerce .mac .inner {
+    background: #fff;
+    height: 313px;
+    left: 87px;
+    position: absolute;
+    top: 19px;
+    width: 475px;
+}
+
+.b2b-commerce .mac iframe {
+    height: 100%;
+    width: 100%;
+}
+
 
 .b2b-commerce .product-descr
 {
@@ -1992,6 +2015,13 @@ a
 {
 	font-size: 18px;
 	margin: 0 0 20px;
+}
+
+.b2b-commerce .ecommerce .section-descr {
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 0px 0 30px;
 }
 
 .b2b-commerce .section-cnt .section-descr
