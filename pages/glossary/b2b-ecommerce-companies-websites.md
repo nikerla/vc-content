@@ -77,7 +77,7 @@ tags :
     <p class="text">3. Navigation and search. User experience is critical in evaluating the quality of an e-commerce website. Every buyer has to be able to easily find what he needs and be done with placing the <a href="{{ '/glossary/order-processing-software' | absolute_url }}"> order</a> as quickly as possible. It is also crucial for every B2B e-commerce company to have a relevant and high-quality site search.</p>
     <p class="text">4. Customer registration. B2B sites usually require mandatory registration to provide their customers with the custom products, special prices, and deals.</p>
     <p class="text">5. Mobile commerce and e-mail marketing newsletter. The website should be accessible for mobile users and interact with its buyers on a day-to-day basis via e-mail newsletters.</p>
-  <p class="text">6. Certified e-commerce trust marks that prove the website's reliability when it comes to purchasing goods and services.</p>
+    <p class="text">6. Certified e-commerce trust marks that prove the website's reliability when it comes to purchasing goods and services.</p>
     <h2>Top 10 revolutionary B2B e-commerce sites and portals</h2>
     <p class="text">
         Using our personal experience and the E-consultancy blog reviews, we have compiled a list of top 10 B2B portals, who provide inspiration and have truly been revolutionary and innovative. 
@@ -97,6 +97,7 @@ tags :
       <p class="text">
         The history of ThomasNet dates back to over a century ago, and still, nowadays, it connects manufacturing and industrial buyers and sellers. It is the leading online platform for B2B vendor search and product sourcing and is visited by more than 1.9 million customers each month. ThomasNet attracts a lot of engineers, facility managers and purchasing agents from around the world. The platform is entirely free. It makes it simple to find a supplier thanks to its semantic product search technology with informative company profiles. This marketplace promotes more than 650,000 distributors, manufacturers and service companies within 67,000 industrial categories. The only downside of ThomasNet is that unlike Alibaba it does not allow a buyer to publish a general “Request for Quote.”
     </p>
+    {% include 'virtocommerce-demo-banner' %}
       <h3>Trade Key</h3>
       <img alt="Trade Key B2B ecommerce company" src="assets/images/TradeKey1.png"></img>
       <p class="text">

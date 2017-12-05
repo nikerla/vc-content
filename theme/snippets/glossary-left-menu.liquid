@@ -82,5 +82,12 @@
         <li class="menu-item __features">
             <a class="menu-link" href="glossary/request-for-information">Request for Information (RFI)</a>
         </li>
+        {% if page.url contains 'what-is-b2b-ecommerce' or 'b2b-ecommerce-companies-websites' or 'b2b-ecommerce-trends' or 'b2c-ecommerce-b2b2c' or 'punchout-catalog' %}
+            <li class="menu-item __features">
+                <a href="/b2b-ecommerce-platform">
+                    <img style="height:100%;width:100%;"src="assets/images/vertical-banner.jpg" />
+                </a>
+            </li>
+        {% endif %}
     </ul>
 </div>

@@ -36,6 +36,7 @@ tags :
             </a>
         </div>
     </div>
+    {% include 'virtocommerce-demo-banner' %}
 </div>
 	<div class="text">
 		<p>Business to Business to Consumer (B2B2C) is the term used to describe the e-commerce model wherein Business "A" and Business "B" engage in a collaborative business development exercise whereby Business "A" pays Business "B" for the ability to offer Business "A's" product or service to Business "B's" consumer customer channel.  This mutually beneficial relationship affords Business "A" the benefit of introducing their products and or service to a new array of potential customers while simultaneously generating a new revenue stream for Business "B" as well as positioning Business "B" to present its customers with new and relevant products and or services.  The consumer customer base also benefits as a consequence of being the recipient of Business "B's" expanded product and or service diversification.</p>

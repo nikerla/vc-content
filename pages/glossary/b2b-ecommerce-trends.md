@@ -136,6 +136,7 @@ tags :
             <img alt="Flexible payment options" src="assets/images/flexible-payment-options-1.jpg" />
         </div>
     </div>
+    {% include 'virtocommerce-demo-banner' %}
     <h2>B2B Ecommerce Trends in 2018</h2>
     <p class="text">As the year 2017 is approaching its end, now’s the time to start looking towards your ecommerce development plans for 2018 and further.</p>
     <p class="text">According to <a href="{{ 'https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/' | absolute_url }}">Forrester analysts’ reports</a>, the business-to-business ecommerce market is currently at a $1 trillion+ mark and is expected to grow up to $2 trillion by 2020. This means that for B2B sellers now it’s more important than ever to keep up with the quickly changing surroundings. Below we take a close look at the rising b2b ecommerce trends for the coming year that you can look into incorporating into your B2B strategy to help increase your competitive advantage.</p>
