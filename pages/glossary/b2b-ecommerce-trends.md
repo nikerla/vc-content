@@ -185,9 +185,8 @@ tags :
     </div>
     <p class="text">These are just a few ways, discussed on the mediaweb, that could help you improve the online experience for your customers. The B2B market is more complex than the B2C – it uses massive online catalogs and additional payment methods, and needs to accommodate for very diverse customer needs, adding a new level of complexity that’s not present in traditional consumer sales. But if a company can adopt these B2B ecommerce trends, it will always stay ahead of game! </p>
     <div class="buttons">
-        <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>
 <div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">

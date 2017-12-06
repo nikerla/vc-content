@@ -82,6 +82,6 @@ tags :
         While there is no perfect universal eCommerce solution, we have presented you with some that are considered to be the best on the market. During your search for an ecommerce solution, always shoot for the 3dcart alternative that is going to be well-suited for your business. </p>        
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

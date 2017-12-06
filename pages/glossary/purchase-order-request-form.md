@@ -69,6 +69,6 @@ tags :
     <p class="text">PO can be used as a document that enhances the purchase process and allows for a better understanding between the customer and the supplier. It also gives your business an opportunity to appear professional and expand its reach. At the same time, by implementing PO in your practices, you will build valuable connections that will last a long time. </p>
         <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

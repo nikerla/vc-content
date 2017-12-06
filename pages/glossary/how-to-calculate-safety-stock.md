@@ -52,6 +52,6 @@ tags :
     <p class="text">Calculate safety stock and document it in your <a href="{{ 'https://virtocommerce.com/order-management-software' | absolute_url }}">order management software</a> to help with your reorder point calculations! 
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

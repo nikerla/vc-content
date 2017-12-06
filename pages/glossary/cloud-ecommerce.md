@@ -110,8 +110,7 @@ tags:
         <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="buttons">
-        <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
         <a class="button fill" href="/download-whitepaper">Download Cloud Whitepaper</a>
     </div>
 </div>

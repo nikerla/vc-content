@@ -1,4 +1,4 @@
-﻿---
+---
 title: E procurement software - Definition, Online Tools and Solutions
 description: What is e procurement software? E procurement system definition. E procurement tools and solutions.
 date: 2014-01-30
@@ -50,6 +50,6 @@ tags :
     <p class="text">Some companies outsource their e procurement needs to third party procurement service providers (PSPs) that will design and manage internet based procurement programs on their behalf for a fee. Time and resources are required for a company to maintain domain expertise across every facet of spending. Assistance from a PSP increases the likelihood that company buying decisions remain strategic.</p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

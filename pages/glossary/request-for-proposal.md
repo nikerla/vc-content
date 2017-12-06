@@ -66,6 +66,6 @@ tags :
     <p class="text">To make it more convincing, the strategy should be your top priority when it comes to expanding your business. </p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

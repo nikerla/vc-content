@@ -48,6 +48,6 @@ tags :
     <p class="text">One of the main advantages of switching to inventory management software is automation of the whole process - you won’t have to worry about overselling by accident or missing reorder points. It will also help reduce the likelihood of human error. Plus, it will save you a significant amount of time that you could allocate to growing your business.</p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

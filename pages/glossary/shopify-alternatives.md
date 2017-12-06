@@ -69,6 +69,6 @@ tags :
     <p class="text">Both of these Shopify alternatives are known for their great simplicity, intuitive design and tremendous efforts put into customer support. Get on the board and start your online store right now!</p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

@@ -80,16 +80,16 @@ tags :
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            When using Virto Commerce as a Demandware alternative, you can be sure that you are getting the platform that will suit all your needs. There are almost no complicated processes involved in creating your website. The cutting-edge .NET 4.5 framework along with AngularJS and Liquid technologies will let you build your website in no time and start selling products and services as soon as possible. This is the solution that can be used by any vendor from small businesses to enterprise-level companies. 
-           </div>
+        </div>
         <div class="col __col-30">
             <img alt="Demandware alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
-            </div>
         </div>
-        <p class="text">
+    </div>
+    <p class="text">
         The other great thing about using this particular piece of software is its simplicity in scaling and the ease of use when it comes to marketing. Deploy your web store with Microsoft Cloud and scale it using unique multichannel solutions that are not offered by any other alternatives to Demandware. </p>
-        <p class="text">
+    <p class="text">
         When using Virto Commerce as an alternative to Demandware you will be able to enjoy its agile features and great customer support. Scale up your market outreach in no time without needing to hire a single IT professional. All this puts Virto Commerce among the leaders on the market making it stand out from the other Demandware competitors.  </p>
-<div class="buttons">
+    <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>

@@ -76,18 +76,18 @@ tags :
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            When choosing Virto Commerce as an Elasticpath alternative, you can be confident that you are using the platform that is best suited for any of your ecommerce needs. This platform is an open source solution, however, there will be no stress involved for a person who is not all that familiar with coding. Thanks to cutting edge .NET 4.5 framework and technologies like Angular and Liquid on which the platform is built upon, it provides an easy set-up and operation. You will be able to build your website in no time and start selling fast. 
-           </div>
+        </div>
         <div class="col __col-30">
             <img alt="Elasticpath Alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
-            </div>
         </div>
-        <p class="text">
+    </div>
+    <p class="text">
         <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">This platform</a> can be used by any kind of business of any size. Whether it is a small one or an enterprise-level company, the platform will provide the necessary functionality and some nifty additional features relevant to your field. </p>
-        <p class="text">
+    <p class="text">
         The simplicity of the platform’s user interface and its <a href="{{ '/glossary/agile-software-platform' | absolute_url }}">agile technologies</a> will allow you to market your business quickly and without a breaking a sweat. After creating your store, you can deploy it using reliable and secure Microsoft Cloud and scale it with sophisticated multichanneling solutions that other Elastic Path alternatives lack. </p>
-        <p class="text">
+    <p class="text">
         Its flexible pricing lets you save greatly in the long run by. And the way its functionality is built allows your business to achieve great customer satisfaction and increase conversion rates without hiring any customer support team members. </p>
-<div class="buttons">
+    <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>

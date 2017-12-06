@@ -1,4 +1,4 @@
-﻿---
+---
 title: The best ecommerce platforms for websites in 2017. Top ecommerce platforms list
 description: The best ecommerce platforms for websites. 2017 top ecommerce platforms list. How to choose the best ecommerce platform for your business?
 date: 2017-05-12
@@ -302,8 +302,7 @@ tags:
         <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="buttons">
-        <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
         <a class="button fill" href="/migration-whitepaper">Download Migration Whitepaper</a>
     </div>
 </div>

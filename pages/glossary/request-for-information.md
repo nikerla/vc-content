@@ -84,6 +84,6 @@ tags :
     <p class="text">An RFI can be used as a powerful tool in attracting potential suppliers to your projects as well as building valuable business connections that will serve you best in the long run. It is simple to compile and has a natural format to follow, yet remaining very professional and to the point. A well-composed request for information can present you as a company that cares about professionalism and wants to incorporate the best business practices in its operation. </p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

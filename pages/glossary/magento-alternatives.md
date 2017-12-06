@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magento alternative. 8 best Magento competitors. 
 description:  Magento can be easily named among the top most popular ecommerce platforms in the world. The advantages of using Magento include the opportunity to create a fully customizable web store, if your coding knowledge and expertise give you the ability to use its robust open source framework. If you have decided to switch from using Magento, here is what you should consider while choosing your Magento alternative. 
 date: 2017-06-15
@@ -122,6 +122,6 @@ tags:
     <p class="text">3dcart is an appealing Magento alternative in a sense that it doesn’t include any transaction fees, allows you to upload unlimited products and have unlimited bandwidth. With the basic plan for $29 per month, you receive a vast amount of features that can help you to set up a solid store and market it successfully with rich SEO features. Plus plan for $79 offers you CRM features, allows you to create customer deals and open up to 5 manager accounts. The ultimate ecommerce solution is 3dcart’s Pro plan for $229/month which gives you more sales management over your web store. </p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

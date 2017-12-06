@@ -88,5 +88,5 @@ tags :
         The right CMS platform can be a very important element in reaching the success of your business. While there are undoubtedly great features in Episerver, it lacks some important functionality that is available with some of the Episerver competitors. We have done this brief overview of the available options, so you can choose the one that works best for your particular business.</p>
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>

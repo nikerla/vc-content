@@ -1,4 +1,4 @@
-﻿---
+---
 title: NopCommerce alternative and competitors
 description:  NopCommerce is a popular open-source solution that offers its users an ability to create a customizable shopping cart and personalized front-end design of the product catalog. What are the main NopCommerce competitors and alternatives?
 date: 2017-08-15
@@ -81,7 +81,6 @@ tags:
     </div>
      <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>
-
