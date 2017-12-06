@@ -23,8 +23,8 @@ tags :
     <div class="head __cart">
         <h1 class="title">What is a dead stock? Dead stock definition | Virto Commerce Glossary</h1>
     </div>
-    {% include 'vc-magento-banner' %}
     <img alt="What is a dead stock?" src="assets/images/dead-stock.jpg" />
+    {% include 'vc-magento-banner' %}
     <h2>What is dead stock/ what does headstock mean?</h2>
     <p class="text">
     <strong>First of all, what does dead stock mean (or what does headstock mean)?  Take a close look at your warehouse. The products might be selling well, but with every change of seasonal collections, with every inventory re-stock there’s an ever growing pile of products that just don’t sell and the additional weight it adds to your business is dragging it down. That is referred to as dead stock (or deadstock/headstock). </strong>
