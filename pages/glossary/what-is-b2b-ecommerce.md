@@ -54,6 +54,7 @@ tags :
         <p>It is a lot of revenue for almost a quarter of U.S. B2B-businesses. We can understand why the rapid growth is occurring and explain the rush about starting a digital B2B ecommerce business.</p>
         <p>In order to understand what business to business e commerce is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.</p>
         <p>B2B (business to business) is focused on sales of products, services, or information to other businesses, and stands in contrast to <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C (business to consumer)</a> and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization, and benefits from technological innovations.</p>
+        {% include 'vc-b2b_b2c-banner' %}
         <h2>What is B2B e commerce company?</h2>
         <p>A B2B company is essentially a business relationship manufacturer and a wholesaler, or a wholesaler and a retailer. A supply chain usually involves more than two companies. Such goods as plastic, grain, or chemicals don't always have a practical use for consumers but are important for wholesale distribution, which is the base of the business-2-business model. Products and resources may be provided from a number of suppliers; and careful planning is vital to performing-efficient transactions, considering complex integration schemes.</p>
         <h2>What is business to business e-commerce?</h2>
@@ -63,7 +64,6 @@ tags :
         <p>In B2B e-commerce examples, the ecommerce technology can become a critical success factor. The website must represent your business well, be user-friendly, and allow prospective buyers to get the information they've been searching for. This raises a question about the right choice of business to business ecommerce software.</p>
         <h2>Why is B2B E-Commerce Software Important?</h2>
         <p>With the advancements in digital technologies and especially the internet, more and more businesses are transferring their services and products into online field. Therefore, the company that is hesitant to invest in the digital expansion is going to be behind any competition. Only with the internet, it has become possible to attract a broader range of customers and to sell products way beyond the business hours of one’s company. If you are a manufacturer or distribution business and you’re not putting money into <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">B2B e-commerce platform</a>, this will result in you – losing revenues and potentially becoming a bankrupt failing to get the customer base. With convenient applications, three-quarters of the B2B customers find it very convenient to purchase a product from the website rather from a sales rep. The majority of the nowadays workforce is represented by millennial generation, which tries to take easy approaches in embracing ecommerce business models and expanding their stores into new broad digital markets.</p>
-        {% include 'virtocommerce-demo-banner' %}
         <h2>What is b2b e commerce omni-channel strategy and how to create it?</h2>
         <ol>
             <li><strong>Consider the configuration of the products.</strong> B2B ecommerce solutions previously could not offer good sales for complex products and services. Now you don’t even have to worry about it as these solutions have expanded their functionality by offering different marketing tools, products filters, and configurations. The first thing you are required to do is to make the strategy with the help of which you will categorize your products. If some of your products are more sophisticated than others, consider hiring a sales representative.</li>
@@ -75,6 +75,7 @@ tags :
             <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
             <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
         </div>
+        {% include 'vc-b2b_b2c-banner' %}
         <h2>What is B2B e-commerce software?</h2>
         <p>A B2B e-commerce solution must meet the following requirements:</p>
         <div class="col-w">
@@ -130,6 +131,7 @@ tags :
             </div>
         </div>
         <div class="col-w">
+            {% include 'vc-b2b_b2c-banner' %}
             <div class="col __col-20">
                 <img alt="Integrated e-commerce" src="assets/images/integrated-b2b-ecommerce.png" width="120" />
             </div>

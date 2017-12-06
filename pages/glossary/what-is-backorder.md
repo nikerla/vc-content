@@ -28,6 +28,7 @@ tags :
         </p>
     <p class="text"><strong>Allowing to backorder means giving your customers an option to still purchase your products even when you don’t have enough in stock – creating backordered items. Backorders are really common in retail.</strong>
         </p>
+    {% include 'vc-magento-banner' %}
     <h2>The challenge of back orders and how to address it</h2>
     <p class="text">
     So, you’ve got a backorder meaning you now have a problem (which is a good one to have by the way). To define backorder most precisely just think of having more orders than you have products in stock – this is what it ultimately comes down to when we ask a question of “what does backordered mean?” It’s definitely a dream come true for any retail business! However, it can also become a big challenge if you don’t know how to deal with it. </p>  
@@ -45,6 +46,7 @@ tags :
     <h4>What is a back order supposed to accomplish?</h4>
     <p class="text">
     Offering to get products backordered means increased sales and more customers. However, it is important to remember what backorder is  - you are essentially asking your customers to pay for a product in advance. Naturally, they’ll be worried and expecting regular updates. So, timely communication is absolutely essential!</p>
+    {% include 'vc-magento-banner' %}
     <p class="text">
     Customers waiting for their backordered products will be expecting to receive shipping notifications on the shipping date they’ve been provided. So always keeping your customers in the loop in case of any delays or changes will help avoid a storm of complaints and help maintain your company’s good reputation. Send out regular emails, update the buyers on the current state of events, provide estimated times of arrival, and you’ll save yourself from customers’ rage.</p>
     <p class="text">

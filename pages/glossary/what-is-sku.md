@@ -27,7 +27,8 @@ tags :
     <h2>What is an SKU and why is it important for retail?</h2>
     <p class="text">
     The SKU abbreviation stands for Stock Keeping Unit. It is a term commonly used in retail, specifically when talking about <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">inventory management</a>. The SKU meaning in retail is the most significant when it comes to setting up and managing inventory – it can be a crucial part of the sales process for any retail business. The proper setup of stock keeping unit or SKU means having all items tracked accurately.
-    </p>  
+    </p>
+    {% include 'vc-magento-banner' %}
     <h2>What does SKU mean?</h2>
     <p class="text">
     Since we’re mainly talking about retail business here, what does SKU stand for in retail? </p>
@@ -47,6 +48,7 @@ tags :
     <p class="text">
     In retail, it’s common to have items get damaged or go missing in the process of storage, shipping, and handling. It can happen pretty much anywhere along the supply chain, usually due to “human factor”. The reasons for the inventory shortages can vary from simple lack of care or improper handling to intentional theft. So, what does SKU mean for this kind of issues? Proper inventory management creates transparency and minimizes the opportunity for theft. 
     </p>
+    {% include 'vc-magento-banner' %}
     <h2>Inventory Management</h2>
     <p class="text">
     As a business grows, managing large quantities of products manually becomes progressively more difficult. So, what is SKU’s role in this? One of the main qualities that define SKU is accuracy! By adding an SKU to every product variation a stock manager and/or a business owner can always keep close track of the quantity of products on hand and replenish the stock when necessary.  

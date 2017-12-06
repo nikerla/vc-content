@@ -78,6 +78,7 @@ tags :
     <p class="text">4. Customer registration. B2B sites usually require mandatory registration to provide their customers with the custom products, special prices, and deals.</p>
     <p class="text">5. Mobile commerce and e-mail marketing newsletter. The website should be accessible for mobile users and interact with its buyers on a day-to-day basis via e-mail newsletters.</p>
     <p class="text">6. Certified e-commerce trust marks that prove the website's reliability when it comes to purchasing goods and services.</p>
+    {% include 'vc-b2b_b2c-banner' %}
     <h2>Top 10 revolutionary B2B e-commerce sites and portals</h2>
     <p class="text">
         Using our personal experience and the E-consultancy blog reviews, we have compiled a list of top 10 B2B portals, who provide inspiration and have truly been revolutionary and innovative. 
@@ -97,7 +98,7 @@ tags :
       <p class="text">
         The history of ThomasNet dates back to over a century ago, and still, nowadays, it connects manufacturing and industrial buyers and sellers. It is the leading online platform for B2B vendor search and product sourcing and is visited by more than 1.9 million customers each month. ThomasNet attracts a lot of engineers, facility managers and purchasing agents from around the world. The platform is entirely free. It makes it simple to find a supplier thanks to its semantic product search technology with informative company profiles. This marketplace promotes more than 650,000 distributors, manufacturers and service companies within 67,000 industrial categories. The only downside of ThomasNet is that unlike Alibaba it does not allow a buyer to publish a general “Request for Quote.”
     </p>
-    {% include 'virtocommerce-demo-banner' %}
+    {% include 'vc-b2b_b2c-banner' %}
       <h3>Trade Key</h3>
       <img alt="Trade Key B2B ecommerce company" src="assets/images/TradeKey1.png"></img>
       <p class="text">
@@ -118,6 +119,7 @@ tags :
       <p class="text">
       Being owned by Staples, Quill.com is the largest office supplier, which is purposefully created for B2B e-commerce. The company’s website is prominent for its user-friendly interface, a wide variety of educational and office supplies, offering many great customer-benefit coupons, special deals, and rewards. Businesses of all sizes value the site for the variety of its general office supplies, electronics, furniture, cleaning supplies and break room products. The benefits of using Quill.com include a balanced marketing package that includes logo design, SEO, and social coupon services. Quill’s customer service is quite decent, offering to e-mail, call or chat with an advisor in case you need any help. The great thing you can do when shopping on this website is subscribe to their newsletter to receive exclusive e-mail coupons and deals, offering a huge variety of bulk-buy discounts for businesses of all sizes.
     </p>
+    {% include 'vc-b2b_b2c-banner' %}
       <h3>Ferguson</h3>
       <img alt="Ferguson B2B ecommerce company" src="assets/images/Ferguson1.png"></img>
       <p class="text">

@@ -35,6 +35,7 @@ tags :
         theme-based online stores, specific deal aggregators, or national closed retailing. But the key challenges are still quite similar for all B2C
         online stores.
     </p>
+    {% include 'vc-b2b_b2c-banner' %}
     <h2>B2C commerce challenges</h2>
     <p class="text">
         There is much more competition and higher demands from the customers in B2C ecommerce then in the <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">business-to-business model</a>. Taking a closer look at the B2C store success recipe, we can highlight the following factors.
@@ -89,6 +90,7 @@ tags :
                 and shipping tools. The weak points are customer support and unstable hosting servers.
             </p>
         </li>
+        {% include 'vc-b2b_b2c-banner' %}
         <li>
             <p>
                 <a href="{{ '/glossary/magento-alternatives' | absolute_url }}">Magento</a> is a free, open-source platform that allows you to create a self-hosted store with scalable architecture

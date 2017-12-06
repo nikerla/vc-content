@@ -24,6 +24,7 @@ tags :
     <p class="text">E-procurement, also known as supplier exchange, is the term used to describe the process of obtaining goods and services through the internet.</p>
     <p class="text">E-procurement system for <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C</a>, <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">B2B</a>, and B2G is generally provided as a side service by large ERP (enterprise resource planning) providers or as an e procurement software by focused vendors.</p>
     <p class="text">Traditional supplies procurement involves physical paper-tracked operations. Today, the Internet evolved to an essential commerce channel and the e procurement system with the use of web-based solutions is going online. </p>
+    {% include 'vc-b2b_b2c-banner' %}
     <p class="text">Virto Commerce e procurement solution is the key to optimizing supply chain mechanisms and automating business processes, such as order processing. Among other benefits of this e procurement software is significant potential for relationship building between a customer and a seller. </p>
     <p class="text">It’s a cost-effective e procurement software system that helps streamline purchasing processes eliminating unessential paperwork, providing better control over spending and saving time and resources for your team.</p>
     <h2>Transform your team’s spending practice</h2>
@@ -39,6 +40,7 @@ tags :
     <p class="text">Optimizing supply chain mechanisms and automating business processes by using the right e procurement system helps lower transaction costs and significantly decrease supply chain risks. Build strategic partnerships by working closely with you suppliers and creating more transparent relationships. </p>
     <h2><strong>E-Procurement – quick guide</strong></h2>
     <h3>What is e procurement software?</h3>
+    {% include 'vc-b2b_b2c-banner' %}
     <img alt="e procurement software" src="assets/images/epcm-process-software.jpg"></img>
     <p class="text">E procurement software is the enterprise system that automates and integrates the spectrum of an organization's procurement cycle. A good e procurement software solution will increase transparency associated with spending and approval processes.</p>
     <p class="text">For example, an e procurement system allows customers to browse online catalogs, add goods to the shopping cart, and send requisition. However, online procurement automation goes far beyond the online shopping experience. Online procurement involves many of the procedures, functions, and workflows, which make the e procurement fast and cost-effective. Its implementation allows to reduce manual errors and paper-based processes due to smart automation and visibility of your purchasing mechanism. E procurement platform removes most document operations from the procurement team, which can focus on high-value tasks, not paperwork.</p>

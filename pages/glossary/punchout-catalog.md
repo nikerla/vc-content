@@ -36,7 +36,7 @@ tags :
 	    <h2 class="sub-title">How does punch out catalog work?</h2>
 	    <p>Punchout catalogue <strong>is based upon an Open Catalog Interface</strong>(OCI), one of the standard formats used by SAP Supplier Relationship Management, ORDIGES Purchase-to-Pay, Microsoft Dynamics AX and other ERP/Purchasing Systems, which connects to external punch out online catalogs.</p>
         <p>When a customer leaves the buyer’s site, the punchout sends the login request and connects the buyer’s and supplier’s systems. The storefront displays items, prices, description, purchase terms, and other information, so the customers can add the requested items to their shopping cart. Then the cart is brought back to the buyer’s e-procurement system as a requisition and is processed using the company’s standard system workflow steps and financial approvals. The order is sent to the supplier after the purchase has been approved by the buyer.</p>
-        {% include 'virtocommerce-demo-banner' %}
+        {% include 'vc-b2b_b2c-banner' %}
         <h3 class="sub-title">What is PunchOut Procurement?</h3>
 	    <p>Punchout procurement is a type of interaction between a vendor's web storefront and a buyer's procurement application. It can include <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">business-to-business (B2B)</a>, <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">business-to-consumer (B2C)</a> or business-to-government (B2G) communications.</p>
 	    <h3 class="sub-title">What is a punch out website?</h3>

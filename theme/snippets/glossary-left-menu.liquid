@@ -82,17 +82,6 @@
         <li class="menu-item __features">
             <a class="menu-link" href="glossary/request-for-information">Request for Information (RFI)</a>
         </li>
-        {% if page.url contains 'glossary/what-is-b2b-ecommerce' or
-              page.url contains 'glossary/b2b-ecommerce-companies-websites' or
-              page.url contains 'glossary/b2b-ecommerce-trends' or
-              page.url contains 'glossary/b2c-ecommerce-b2b2c' or
-              page.url contains 'glossary/punchout-catalog'
-        %}
-            <li class="menu-item __features">
-                <a href="/b2b-ecommerce-platform" onClick="ga('send', 'event', { eventCategory: 'b2b-ecommerce-platform_redirect', eventAction: 'vertical-banner_click', eventLabel: 'b2b-ecommerce'});">
-                    <img style="height:100%;width:100%;"src="assets/images/vertical-banner.jpg" />
-                </a>
-            </li>
-        {% endif %}
+        {% include 'vc-vertical-banners' %}
     </ul>
 </div>
