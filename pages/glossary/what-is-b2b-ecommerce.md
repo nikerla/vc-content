@@ -47,6 +47,7 @@ tags :
             <figcaption>Source: Statista</figcaption>
         </figure>
         <p>As we can see in the graph below, we can expect further expansion of the B2B businesses on digital markets, as of 2014, only 22% of American business-to-business companies are currently selling their products and services online.</p>
+        {% include 'vc-b2b_b2c-banner' %}
         <figure style="text-align: center;">
             <img alt="What is B2B e commerce? B2B e-commerce examples" src="assets/images/what-is-b2b-2.jpg" />
             <figcaption>Source: Statista</figcaption>
@@ -54,7 +55,6 @@ tags :
         <p>It is a lot of revenue for almost a quarter of U.S. B2B-businesses. We can understand why the rapid growth is occurring and explain the rush about starting a digital B2B ecommerce business.</p>
         <p>In order to understand what business to business e commerce is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.</p>
         <p>B2B (business to business) is focused on sales of products, services, or information to other businesses, and stands in contrast to <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C (business to consumer)</a> and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization, and benefits from technological innovations.</p>
-        {% include 'vc-b2b_b2c-banner' %}
         <h2>What is B2B e commerce company?</h2>
         <p>A B2B company is essentially a business relationship manufacturer and a wholesaler, or a wholesaler and a retailer. A supply chain usually involves more than two companies. Such goods as plastic, grain, or chemicals don't always have a practical use for consumers but are important for wholesale distribution, which is the base of the business-2-business model. Products and resources may be provided from a number of suppliers; and careful planning is vital to performing-efficient transactions, considering complex integration schemes.</p>
         <h2>What is business to business e-commerce?</h2>
@@ -131,7 +131,6 @@ tags :
             </div>
         </div>
         <div class="col-w">
-            {% include 'vc-b2b_b2c-banner' %}
             <div class="col __col-20">
                 <img alt="Integrated e-commerce" src="assets/images/integrated-b2b-ecommerce.png" width="120" />
             </div>
@@ -155,6 +154,7 @@ tags :
             </div>
         </div>
         <h2>What are b2b e commerce KPIs?</h2>
+        {% include 'vc-b2b_b2c-banner' %}
         <p>KPIs are meant to give you an idea of how well your B2B online shopping cart platform is performing. Revenue is always a good indicator, but it’s not the only one - there are several KPIs that help ensure you’re on the right path. Below are a few examples:</p>
         <div class="col-w">
             <div class="col __col-20">

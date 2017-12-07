@@ -24,7 +24,7 @@ tags :
         <h1 class="title">Shopify Alternatives and Competitors</h1>
     </div>
     <img alt="Shopify Alternatives and Competitors" src="assets/images/shopify-alternatives.jpg" />
-    {% include 'vc-magento-banner' %}
+    {% include 'vc-magento-banner' with current_url : 'glossary/shopify-alternatives' %}
     <p class="text">
     Shopify can be considered one of the best shopping cart platforms for an e-commerce website when it comes to balancing the convenience of setting up a website and having the control over it. The great advantage of this kind of electronic commerce platforms, including Shopify, as well as a number of various alternatives to Shopify, is that they provide you with as much control as possible without you having to use your own server. If you are a small business owner, the first thing you will notice about Shopify is their great support base, which offers you a wide variety of tools to alter your store. The AppStore available for its users is amazing for finding interesting plugins to customize your website.
     </p>  
@@ -56,7 +56,7 @@ tags :
     </div>
             <p class="text">Just like Weebly, another Shopify alternative, this platform provides a good variety of how-tos, some useful tips, and videos that will help you in the process of setting up and running your store. With the advanced content-marketing features in this alternative to Shopify, you can also promote the product on the web and drastically increase conversion rates.</p>
     <h2>Virto Commerce</h2>
-    {% include 'vc-magento-banner' %}
+    {% include 'vc-magento-banner' with current_url : 'glossary/shopify-alternatives' %}
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            Another great Shopify alternative is Virto Commerce. It is the only enterprise-level e-commerce solution among Shopify competitors that offers fully open source software. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies. 

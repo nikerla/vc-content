@@ -67,6 +67,7 @@ tags :
         </div>
     </div>
 </div>
+     {% include 'vc-b2b_b2c-banner' %}
     <h2>What is the focus of top B2B e commerce sites?</h2>
     <img alt="B2B e commerce companies and websites" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
     <p class="text">
@@ -78,7 +79,6 @@ tags :
     <p class="text">4. Customer registration. B2B sites usually require mandatory registration to provide their customers with the custom products, special prices, and deals.</p>
     <p class="text">5. Mobile commerce and e-mail marketing newsletter. The website should be accessible for mobile users and interact with its buyers on a day-to-day basis via e-mail newsletters.</p>
     <p class="text">6. Certified e-commerce trust marks that prove the website's reliability when it comes to purchasing goods and services.</p>
-    {% include 'vc-b2b_b2c-banner' %}
     <h2>Top 10 revolutionary B2B e-commerce sites and portals</h2>
     <p class="text">
         Using our personal experience and the E-consultancy blog reviews, we have compiled a list of top 10 B2B portals, who provide inspiration and have truly been revolutionary and innovative. 

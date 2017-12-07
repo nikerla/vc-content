@@ -11,16 +11,22 @@
             <img style="height:100%;width:100%;" src="assets/images/vc-b2b_b2c-vertical-banner.jpg" />
         </a>
     </li>
-{% elsif page.url contains 'glossary/magento-alternatives' or
-         page.url contains 'glossary/shopify-alternatives' or
-         page.url contains  'glossary/best-ecommerce-platforms' or
-         page.url contains   'glossary/how-to-calculate-safety-stock' or
-         page.url contains   'glossary/what-is-backorder' or
-         page.url contains   'glossary/what-is-a-dead-stock' or
-         page.url contains   'glossary/what-is-sku'
+{% elsif page.url contains 'glossary/how-to-calculate-safety-stock' or
+         page.url contains 'glossary/what-is-backorder' or
+         page.url contains 'glossary/what-is-a-dead-stock' or
+         page.url contains 'glossary/what-is-sku'
 %}
     <li class="menu-item __features">
-        <a href="/b2b-ecommerce-platform" onClick="ga('send', 'event', { eventCategory: 'b2b-ecommerce-platform_redirect', eventAction: 'vertical-magento-banner_click', eventLabel: 'b2b-ecommerce'});">
+        <a href="/order-management-software" onClick="ga('send', 'event', { eventCategory: 'order-management-software_redirect', eventAction: 'vertical-magento-banner_click', eventLabel: 'order-management'});">
+            <img style="height:100%;width:100%;" src="assets/images/vc-magento-vertical-banner.jpg" />
+        </a>
+    </li>
+{% elsif page.url contains 'glossary/magento-alternatives' or
+         page.url contains 'glossary/best-ecommerce-platforms' or
+         page.url contains 'glossary/shopify-alternatives'
+%}
+    <li class="menu-item __features">
+        <a href="#" onClick="ga('send', 'event', { eventCategory: 'mainPage_redirect', eventAction: 'vertical-magento-banner_click', eventLabel: 'main-page'});">
             <img style="height:100%;width:100%;" src="assets/images/vc-magento-vertical-banner.jpg" />
         </a>
     </li>

@@ -190,7 +190,7 @@ description: B2B e-commerce solution businesses deserve
 			<div class="cols">
 				<div class="col">
 					<div class="customer-info">
-						<img src="assets/images/b2b/kevin.png" alt="" class="customer-pic">
+						<img src="assets/images/b2b/kevin.jpg" alt="" class="customer-pic">
 						<div class="customer-other">
 							<div class="customer-name">Kevin Cory</div>
 							<div class="customer-descr">
@@ -205,7 +205,7 @@ description: B2B e-commerce solution businesses deserve
 				</div>
 				<div class="col">
 					<div class="customer-info">
-						<img src="assets/images/b2b/sergey.png" alt="" class="customer-pic">
+						<img src="assets/images/b2b/sergey.jpg" alt="" class="customer-pic">
 						<div class="customer-other">
 							<div class="customer-name">Sergey Sinyugin</div>
 							<div class="customer-descr">
@@ -219,7 +219,7 @@ description: B2B e-commerce solution businesses deserve
 				</div>
 				<div class="col">
 					<div class="customer-info">
-						<img src="assets/images/b2b/olga.png" alt="" class="customer-pic">
+						<img src="assets/images/b2b/lomko.jpg" alt="" class="customer-pic">
 						<div class="customer-other">
 							<div class="customer-name">Olga Lomko</div>
 							<div class="customer-descr">
@@ -331,7 +331,9 @@ description: B2B e-commerce solution businesses deserve
 			<div class="cols">
 				<div class="col">
 					<div class="post-item">
-						<img class="post-pic" src="assets/images/post-1.jpg" alt="">
+                        <div class="post-img">
+						    <img class="post-pic" src="assets/images/blog/b2becommerce.jpg" alt="">
+                        </div>
 						<div class="post-t">top 5 B2B ecommerce challenges and solutins</div>
 						<div class="post-descr">
 							Learn more about Virto Commerce team's B2B eCommerce experience. We have shared our vision on top 5 B2B eCommerce challenges.
@@ -341,7 +343,9 @@ description: B2B e-commerce solution businesses deserve
 				</div>
 				<div class="col">
 					<div class="post-item">
-						<img class="post-pic" src="assets/images/post-2.jpg" alt="">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/blog/b2b-b2c-difference.png" alt="">
+                        </div>
 						<div class="post-t">Difference between B2B and B2C ecommerce solution</div>
 						<div class="post-descr">
 							What are the main differences between b2b and b2c ecommerce solutions. Discover B2B ecommerce platforms specifics in Virto Commerce ecommerce blog.
@@ -351,7 +355,9 @@ description: B2B e-commerce solution businesses deserve
 				</div>
 				<div class="col">
 					<div class="post-item">
-						<img class="post-pic" src="assets/images/post-3.jpg" alt="">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/blog/B2B-Online-Aftermath.jpg" alt="">
+                        </div>
 						<div class="post-t">B2B Online Aftermath</div>
 						<div class="post-descr">
 							B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
@@ -368,7 +374,9 @@ description: B2B e-commerce solution businesses deserve
 			<div class="cols">
 				<div class="col">
 					<div class="post-item">
-						<img class="post-pic" src="assets/images/article-1.jpg" alt="">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/what-is-b2b-ecommerce.jpg" alt="">
+                        </div>
 						<div class="post-t">What is business to business ecommerce? B2B ecommerce examples</div>
 						<div class="post-descr">
 							Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.
@@ -378,7 +386,9 @@ description: B2B e-commerce solution businesses deserve
 				</div>
 				<div class="col">
 					<div class="post-item">
-						<img class="post-pic" src="assets/images/article-2.jpg" alt="">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/b2becommerce.jpg" alt="">
+                        </div>
 						<div class="post-t">B2B Ecommerce trends</div>
 						<div class="post-descr">
 							In this article we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
@@ -388,7 +398,9 @@ description: B2B e-commerce solution businesses deserve
 				</div>
 				<div class="col">
 					<div class="post-item">
-						<img class="post-pic" src="assets/images/article-3.jpg" alt="">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/what-is-b2b-ecommerce.jpg" alt="">
+                        </div>
 						<div class="post-t">Top B2B e commerce sites and companies</div>
 						<div class="post-descr">
 							Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.

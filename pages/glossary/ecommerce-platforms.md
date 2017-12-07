@@ -29,7 +29,7 @@ tags:
             Choosing the best online store platform can be overwhelming taking in the account a number of options that have appeared in the recent years. Just like purchasing any product, whether it is a house, a car or a cell-phone, each particular business has to do its research and correctly determine what it is looking for, remember to consider all the tradeoffs among the available choices. In the past couple years a few of the best ecommerce platforms on the market have been gaining popularity among small businesses thanks to their ease of use, usability, and availability of a large developer community. With some of these top ecommerce platforms, their on-staff web-developers may provide professional services to the platform client; and you will be most likely to receive good support in the long run from a digital commerce platform.
         </div>
     </div>
-    {% include 'vc-magento-banner' %}
+    {% include 'vc-magento-banner' with current_url : 'glossary/best-ecommerce-platforms' %}
     <h2>Best ecommerce platform</h2>
     <div class="text">
         <p>So, what is the best ecommerce platform? There are hundreds of options available on the market of e-commerce platforms with no single “best ecommerce platform” to really stand out, as they all vary in functionality, features, usability and offer many different choices of building a website, accounting for your personal needs, resources and preferences.</p>
@@ -78,7 +78,7 @@ tags:
         <p>The good thing about this platform is a vast variety of how-tos, advice, and letters about running a successful store. It doesn’t seem very well-organized, but the information from the BigCommerce University will help you to set up and promote your website. Just like Shopify, it provides a hassle-free setup and security with intuitive features and an all-in-one solution for your website.</p>
         <p>An important thing to consider with this platform is pricing. For a smaller online store, it can get too much very fast. There is a whole number of fees, like monthly fees, credit card fees, platform transaction fees and add-on fees that could drain your budget really quickly. Another one is customization. While having a great variety of built-in options, it lacks add-ons and themes for your website as well as good inventory management. Nevertheless, it’s still commonly named among the top ecommerce platforms.</p>
     </div>
-    {% include 'vc-magento-banner' %}
+    {% include 'vc-magento-banner' with current_url : 'glossary/best-ecommerce-platforms' %}
     <h2>Woocommerce</h2>
     <div class="col-w">
         <div class="col __col-30">
@@ -124,7 +124,7 @@ tags:
             <img alt="Top Ecommerce Platforms - 3dCart" src="assets/images/3dcart.jpg" />
         </div>
     </div>
-    {% include 'vc-magento-banner' %}
+    {% include 'vc-magento-banner' with current_url : 'glossary/best-ecommerce-platforms' %}
     <div class="text">
         <p>The features are plentiful in this platform, and you can find that all of them are built-in, offering you things like blog, newsletter, email, and CRM. Also, if you are an advanced web developer, you may find some great options for you to get in there and customize your website.</p>
         <p>While having useful apps and add-ons, 3dcart still lacks the variety of them unlike its competitors Shopify or BigCommerce.</p>
@@ -274,7 +274,7 @@ tags:
     <div class="text">
         <p>Also included, is the filtered search option along with e-mail marketing and detailed analytics about the visiting rates of every single page of your store. Another great feature of the platform is that you can run multiple stores at ones by only using one account to manage them. You can also buy additional themes and templates along with customer support services to help you get the largest conversion rates possible. Pricing varies according to the add-ons installed on the platform.</p>
     </div>
-    {% include 'vc-magento-banner' %}
+    {% include 'vc-magento-banner' with current_url : 'glossary/best-ecommerce-platforms' %}
     <h2>Foxycart</h2>
     <div class="col-w">
         <div class="col __col-30">

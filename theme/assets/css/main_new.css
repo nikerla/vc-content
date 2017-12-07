@@ -2065,6 +2065,7 @@ a
 .b2b-commerce .b2b-customers .customer-pic
 {
 	border-radius: 50px;
+    max-width: 20%;
 }
 
 .b2b-commerce .b2b-customers .customer-other
@@ -2170,10 +2171,22 @@ a
 	text-align: left;
 }
 
+.b2b-commerce .latest-posts .post-img,
+.b2b-commerce .best-articles .post-img
+{
+    position:relative;
+    height:185px;
+    overflow:hidden;
+}
+
 .b2b-commerce .latest-posts .post-pic,
 .b2b-commerce .best-articles .post-pic
 {
-	width: 100%;
+    width: 100%;
+    left:50%;
+    position:absolute;
+    top:52%;
+    transform:translate(-50%, -50%);
 }
 
 .b2b-commerce .latest-posts .post-t,
