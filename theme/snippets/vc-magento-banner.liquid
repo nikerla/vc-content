@@ -4,15 +4,17 @@
          current_url contains 'glossary/what-is-sku'
 %}
     {% assign redirect_url = '/order-management-software' %}
+    {% assign eventName = 'order-management-software_redirect' %}
 {% else current_url contains 'glossary/magento-alternatives' or
          current_url contains 'glossary/best-ecommerce-platforms' or
          current_url contains 'glossary/shopify-alternatives' or
          current_url == false
 %}
     {% assign redirect_url = '#' %}
+    {% assign eventName = 'mainPage_redirect' %}
 {% endif %}
 <p>
-    <a href="{{redirect_url}}" onClick="ga('send', 'event', { eventCategory: 'mainPage_redirect', eventAction: 'horizontal-magento-banner_click', eventLabel: 'main-page'});">
+    <a href="{{redirect_url}}" onClick="ga('send', 'event', { eventCategory: '{{eventName}}', eventAction: 'horizontal-magento-banner_click', eventLabel: 'main-page'});">
         <img style="height:90px;width:970px;" src="assets/images/vc-magento-horizontal-banner.png" />
     </a>
 </p>
