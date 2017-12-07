@@ -1882,7 +1882,15 @@ a
 {
 	margin: 0 0 30px;
 }
-
+.b2b-commerce .product-descr .section-inner::after {
+    background: url(b2b-iphone.png) no-repeat scroll 0 0;
+    content: ' ';
+    height: 378px;
+    left: 20px;
+    position: absolute;
+    top: -25px;
+    width: 195px;
+}
 .b2b-commerce .ecommerce
 {
 	background: url(bg-eccomerce.jpg) no-repeat scroll 0 0;
