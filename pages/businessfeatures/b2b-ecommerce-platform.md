@@ -6,7 +6,7 @@ tags:
   - b2b
   - commerce
 title: 'B2B eCommerce Platform | Software by Virto Commerce'
-description: B2B e-commerce solution businesses deserve
+description: The agile, B2B e-commerce solution
 ---
 <div class="b2b-commerce">
 	<section class="ecommerce" data-name="section">
@@ -14,7 +14,7 @@ description: B2B e-commerce solution businesses deserve
 			<div class="cols">
 				<div class="col">
 					<div class="section-t">B2B Ecommerce Platform</div>
-                    <div class="section-descr">B2B e-commerce solution businesses deserve</div>
+                    <div class="section-descr">The agile, B2B e-commerce solution</div>
 					<div class="section-actions">
 						<a href="/try-now" class="button white fill">Request demo & trial</a>
 						<a href="/download-b2b-whitepaper" class="button white">Download whitepaper</a>
@@ -64,8 +64,8 @@ description: B2B e-commerce solution businesses deserve
 	        <div class="product-info">
 	            <div class="section-descr">
 	                Forrester predicts that by 2019, the B2B e-Commerce market will be worth $1.1T <br>
-	                compared to the B2C market at $480B. Virto Commerce is the best B2B <br>
-	                ecommerce platform with a broad variety of B2B-specific features.
+	                compared to the B2C market at $480B. Virto Commerce ensures businesses <br>
+	                thrive in the market with features specifically tailored for the B2B market.
 	            </div>
 	            <div class="section-actions">
 	                <a href="/try-now" class="button fill">Request demo &amp; trial</a>
@@ -83,7 +83,7 @@ description: B2B e-commerce solution businesses deserve
 				<div class="section-text">
 					<div class="section-t">Dedicated to B2B ecommerce solutions</div>
 					<div class="section-descr">
-						Despite the consistent trend of transferring popular B2C shopping experience features onto the B2B market, B2B interactions are actually quite different, which presents a number of unique characteristics at every stage of the business process. This, in turn, has to influence architecture and functionality of the specialized B2B ecommerce platforms. Although certain popular business models, like self-service, marketplaces, etc. seem fairly similar, the business strategy behind them along with the related data is in fact also oftentimes drastically different in B2B ecommerce.
+						While there are similarities between B2C and B2B ecommerce platforms, the actual B2B interactions are quite different, and present a number of unique characteristics and challenges at every stage of the business process. This means that, for a successful Ecommerce implementation, both short and long term, the architecture and functionality of the platform needs to be specific to the B2B market.  So while certain business activities, such as a product marketplace, may seem similar between B2B and B2C, the actual business logic and processes are drastically different.
 					</div>
 				</div>
 			</div>
@@ -93,7 +93,7 @@ description: B2B e-commerce solution businesses deserve
 				<div class="section-text">
 					<div class="section-t">Cloud-based B2B ecommerce platform</div>
 					<div class="section-descr">
-						The main advantage of Cloud in B2B ecommerce is that it gives the opportunity to eliminate infrastructural limitations on business growth. This affects pretty much every department within a company from marketing to finance and logistics. Instant on-demand scaling makes execution of marketing campaigns a whole lot easier, while transparent budgeting positively affects every stage of budget planning and accounting. Low maintenance and fast upgrades only add on to the list of improvements.In addition, it allows you to adopt or develop completely new business models, like rapidly expanding distributor networks, for instance.
+						By using a cloud in B2B ecommerce, businesses are able to eliminate infrastructural limitations that hinder business growth. With this limitation removed, departments can grow and adapt as fast as they need to. With instant, on-demand scaling, marketing campaigns can be executed as fast as they need to, while transparent budgeting allows for easier budget planning and accounting.  Plus, with fast upgrades and low maintenance, time can be spent on tasks that affect the bottom line, such as developing new business models or expanding distributor models.
 					</div>
 				</div>
 				<div class="section-img">
@@ -109,7 +109,7 @@ description: B2B e-commerce solution businesses deserve
 				<div class="section-text">
 					<div class="section-t">Open source B2B ecommerce software</div>
 					<div class="section-descr">
-						These days the demands for the shortest possible time-to-market and adaptability to the ever-growing competition set the new standards B2B ecommerce software forcing it to be more agile. Open source is basically the market standard now, which helps reduce implementation risks and makes team training and support of such products a lot easier. 
+						These days, companies expect tools that allow them to adapt to market trends, with the shortest time-to-market. This is no different for B2B ecommerce software, where flexibility is especially important.  Open source is the market standard now, which in turn helps reduce implementation risks, as well as making team training and support easier. 
 					</div>
 				</div>
 			</div>
@@ -119,8 +119,8 @@ description: B2B e-commerce solution businesses deserve
 		<div class="section-inner responsive">
 			<div class="section-t">B2B Ecommerce Platform Features</div>
 			<div class="section-descr">
-				E-commerce solutions are revolutionizing B2B transactional protocols and processes. The customer fulfillment process
-				of every class of commerce from merchandising to financial services is being optimized by well designed B2B ecommerce
+				E-commerce solutions are revolutionizing B2B transactional protocols and processes. Every step in the customer
+				fulfillment process, from merchandising to financial services, is optimized by a well designed B2B ecommerce
 				platform.
 			</div>
 			<div class="section-row">
@@ -131,7 +131,7 @@ description: B2B e-commerce solution businesses deserve
 					<div class="section-text">
 						<div class="section-t">Corporate account management</div>
 						<div class="section-descr">
-							The flexible architecture that supports company organization structure, combined with sophisticated rules and limitation mechanics creates endless possibilities for setting up a whole spectrum of business scenarios while also customizing the B2B experience for each company.  
+							Flexible architecture, combined with sophisticated rules and management features, allows for a whole spectrum of business scenarios, while also customizing the B2B experience for each company.  
 						</div>
 					</div>
 				</div>
@@ -141,7 +141,7 @@ description: B2B e-commerce solution businesses deserve
 					<div class="section-text">
 						<div class="section-t">Quote management and price negotiation</div>
 						<div class="section-descr">
-							Processing purchase deals in B2B can be a complex process that happens in multiple stages and involves several team members of varying roles. It can also differ quite a bit from one company to another. But whatever your specific company’s process is, it is always important to have your way of working with quotes automated, your ERP systems integrated and your communication with your customers and partners – seamless. This can be a critical aspect when it comes to increasing conversion rates.
+							B2B purchase deals can be a complex process, with multiple stages and approval processes with multiple stakeholders. It can also differ from one company to another, which is why it’s so important to have your ERP systems integrated and your communication with customers and partners seamless. This way orders can go off without a hitch, and conversion rates increase.
 						</div>
 					</div>
 					<div class="section-img">
@@ -157,7 +157,7 @@ description: B2B e-commerce solution businesses deserve
 					<div class="section-text">
 						<div class="section-t">Multiple stores, channels, regions in a single b2b ecommerce platform</div>
 						<div class="section-descr">
-							Think fully localized support for any scaling scenarios.   Our platform lets you create a unique online presence for stores and larger clients. Or build a whole distributor network across multiple countries, accounting for a number of different languages, local laws, and tax systems. The possibilities are endless!
+							A good platform should be able to scale at any scenario, whether it’s one storefront or hundreds. With our platform, you can create a unique online store for a large client, or build a distributor network across multiple countries, all the while accounting for different languages and local laws and tax systems.
 						</div>
 					</div>
 				</div>
@@ -167,7 +167,7 @@ description: B2B e-commerce solution businesses deserve
 					<div class="section-text">
 						<div class="section-t">B2B catalog personalization and price management</div>
 						<div class="section-descr">
-							Our personalization system allows you to customize catalogs to include all the details and history of your partner relations. You can always adjust the way catalog items are displayed based on the agreements you have with the particular user, their budgets, and quotes. This helps shorten the negotiation processes and improve customer loyalty!
+							With our personalization system, you can customize catalogs to include details of the history of the customer relationship. This allows for the adjustment of catalog items based on the agreements you have with the customer, their budget, and previous quotes. This in turn shortens the negotiation process and improves customer loyalty.
 						</div>
 					</div>
 					<div class="section-img">
@@ -176,7 +176,7 @@ description: B2B e-commerce solution businesses deserve
 				</div>
 			</div>
 			<div class="mini">
-				Trial VirtoCommerce now and discover the fantastic benefits that our B2B e-commerce software provides.
+				Try Virto Commerce now and discover the benefits that our B2B e-commerce software provides.
 			</div>
 			<div class="section-actions">
 				<a href="/try-now" class="button fill">Request demo & trial</a>
