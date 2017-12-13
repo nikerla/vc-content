@@ -3737,8 +3737,41 @@
 }
 
 @media (max-width: 360px) {
-    .costumers .list-item
-    {
+    .costumers .list-item {
         width: 50%;
+    }
+}
+
+@media (max-width: 1019px) and (min-width: 768px) {
+    .b2b-commerce .mac {
+        background-size: 450px 264px;
+        top: 10px;
+        height: 264px;
+        width: 450px;
+    }
+}
+
+@media (max-width: 1019px) and (min-width: 768px) {
+    .b2b-commerce .mac .inner {
+        height: 217px;
+        left: 60px;
+        top: 13px;
+        width: 330px;
+    }
+}
+
+@media (max-width: 767px) {
+    .b2b-commerce .mac {
+        background: 0 0;
+        border: 5px solid #fff;
+        display: inline-block;
+    }
+}
+
+@media (max-width: 767px) {
+    .b2b-commerce .mac, .b2b-commerce .mac .inner {
+        height: auto;
+        position: static;
+        width: auto;
     }
 }
