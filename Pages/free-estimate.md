@@ -61,23 +61,18 @@ aliases:
 			<div class="block">
 				<ul class="list">
 					<li>
-						<span class="title">How does this work?</span>
-						<ul class="list">
-							<li>Simply send us the business requirements for your e-commerce project </li>
-							<li>and we will provide you with an estimate of the hours it will take  </li>
-							<li>to complete the project using Virto Commerce </li>
-						</ul>
-                        <span class="title">Why are you doing this?</span>
-						<ul class="list">
-							<li>We understand that you have your choice of e-commerce platforms,</li>
-							<li>and we want make it easier for you to make an informed decision, </li>
-                            <li>no strings attached.</li>
-						</ul>
-                        <span class="title">What about the privacy of the client? </span>
-						<ul class="list">
-							<li>We respect you and your client’s privacy, which is why we do not ask for any details</li>
-							<li>that may affect that privacy. We will also sign an NDA if requested.</li>
-						</ul>	
+                        <li>
+						    <span class="title">How does this work?</span>
+						    <span class="descr">Simply send us the business requirements for your e-commerce project and we will provide you with an estimate of the hours it will take to complete the project using Virto Commerce.</span>
+					    </li>
+                        <li>
+						    <span class="title">Why are you doing this?</span>
+						    <span class="descr">We understand that you have your choice of e-commerce platforms, and we want to make it easier for you to make an informed decision, no strings attached.</span>
+					    </li>
+                        <li>
+						    <span class="title">What about the privacy of the client? </span>
+						    <span class="descr">We respect you and your client’s privacy, which is why we do not ask for any details that may affect that privacy. We will also sign an NDA if requested.</span>
+					    </li>
 					</li>
 				</ul>
 			</div>
