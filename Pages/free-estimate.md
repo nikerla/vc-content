@@ -42,13 +42,7 @@ aliases:
 					</div>					
 					<div class="control-group">
 						<label for="Message">Project description (required)</label>
-						<select id="Contact[Message]" name="Contact[Message]" type="text" class="form-input" required="required" tabindex="6">
-							<option value="" disabled selected>Please, choose</option>
-							<option value="I am developer trying Virto Commerce">I am developer trying Virto Commerce</option>
-							<option value="I am non-technical user trying Virto Commerce">I am non-technical user trying Virto Commerce</option>
-							<option value="I have a solution using different software">I have a solution using different software</option>
-							<option value="I am creating a solution for a customer">I am creating a solution for a customer</option>
-						</select>
+						<textarea id="Contact[Message]" rows="10" cols="30" name="Contact[Message]" class="form-text" required="required" tabindex="10"></textarea>
 					</div>
 					<div class="control-group">
 						<button type="submit" class="btn __medium __round __yellow __ucase" style="width:100%" tabindex="7">Start your journey now!</button>
