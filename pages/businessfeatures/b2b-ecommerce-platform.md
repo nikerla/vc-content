@@ -6,7 +6,7 @@ tags:
   - b2b
   - commerce
 title: 'B2B eCommerce Platform | Software by Virto Commerce'
-description: The agile, B2B e-commerce solution
+description: The agile B2B e-commerce solution. B2B ecommerce software developers deserve.
 ---
 <div class="b2b-commerce">
 	<section class="ecommerce" data-name="section">
@@ -63,7 +63,7 @@ description: The agile, B2B e-commerce solution
 	    <div class="section-inner responsive">
 	        <div class="product-info">
 	            <div class="section-descr">
-	                Forrester predicts that by 2019, the B2B e-Commerce market will be worth $1.1T <br>
+	                Forrester predicts that by 2019, the B2B eсommerce solutions market will be worth $1.1T <br>
 	                compared to the B2C market at $480B. Virto Commerce ensures businesses <br>
 	                thrive in the market with features specifically tailored for the B2B market.
 	            </div>
@@ -83,7 +83,7 @@ description: The agile, B2B e-commerce solution
 				<div class="section-text">
 					<div class="section-t">Dedicated to B2B ecommerce solutions</div>
 					<div class="section-descr">
-						While there are similarities between B2C and B2B ecommerce platforms, the actual B2B interactions are quite different, and present a number of unique characteristics and challenges at every stage of the business process. This means that, for a successful Ecommerce implementation, both short and long term, the architecture and functionality of the platform needs to be specific to the B2B market.  So while certain business activities, such as a product marketplace, may seem similar between B2B and B2C, the actual business logic and processes are drastically different.
+						While there are similarities between B2C and B2B ecommerce platforms, the actual B2B interactions are quite different, and present a number of unique characteristics and challenges at every stage of the business process. This means that, for a successful B2B ecommerce solutions implementation, both short and long term, the architecture and functionality of the platform needs to be specific to the B2B market.  So while certain business activities, such as a product marketplace, may seem similar between B2B and B2C, the actual business logic and processes are drastically different.
 					</div>
 				</div>
 			</div>
@@ -93,7 +93,7 @@ description: The agile, B2B e-commerce solution
 				<div class="section-text">
 					<div class="section-t">Cloud-based B2B ecommerce platform</div>
 					<div class="section-descr">
-						By using a cloud in B2B ecommerce, businesses are able to eliminate infrastructural limitations that hinder business growth. With this limitation removed, departments can grow and adapt as fast as they need to. With instant, on-demand scaling, marketing campaigns can be executed as fast as they need to, while transparent budgeting allows for easier budget planning and accounting.  Plus, with fast upgrades and low maintenance, time can be spent on tasks that affect the bottom line, such as developing new business models or expanding distributor models.
+						By using a cloud in B2B ecommerce software, businesses are able to eliminate infrastructural limitations that hinder business growth. With this limitation removed, departments can grow and adapt as fast as they need to. With instant, on-demand scaling, marketing campaigns can be executed as fast as they need to, while transparent budgeting allows for easier budget planning and accounting.  Plus, with fast upgrades and low maintenance, time can be spent on tasks that affect the bottom line, such as developing new business models or expanding distributor models.
 					</div>
 				</div>
 				<div class="section-img">
@@ -119,7 +119,7 @@ description: The agile, B2B e-commerce solution
 		<div class="section-inner responsive">
 			<div class="section-t">B2B Ecommerce Platform Features</div>
 			<div class="section-descr">
-				E-commerce solutions are revolutionizing B2B transactional protocols and processes. Every step in the customer
+				B2B e-commerce solutions are revolutionizing transactional protocols and processes. Every step in the customer
 				fulfillment process, from merchandising to financial services, is optimized by a well designed B2B ecommerce
 				platform.
 			</div>
@@ -131,7 +131,7 @@ description: The agile, B2B e-commerce solution
 					<div class="section-text">
 						<div class="section-t">Corporate account management</div>
 						<div class="section-descr">
-							Flexible architecture, combined with sophisticated rules and management features, allows for a whole spectrum of business scenarios, while also customizing the B2B experience for each company.  
+							Flexible B2B e-commerce software's architecture, combined with sophisticated rules and management features, allows for a whole spectrum of business scenarios, while also customizing the B2B experience for each company.  
 						</div>
 					</div>
 				</div>
