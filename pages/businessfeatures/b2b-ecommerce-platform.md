@@ -6,7 +6,7 @@ tags:
   - b2b
   - commerce
 title: 'B2B eCommerce Platform | Software by Virto Commerce'
-description: The agile B2B e-commerce solution. B2B ecommerce software developers deserve.
+description: The agile B2B e-commerce solution. The best B2B ecommerce software developers deserve.
 ---
 <div class="b2b-commerce">
 	<section class="ecommerce" data-name="section">
@@ -63,7 +63,7 @@ description: The agile B2B e-commerce solution. B2B ecommerce software developer
 	    <div class="section-inner responsive">
 	        <div class="product-info">
 	            <div class="section-descr">
-	                Forrester predicts that by 2019, the B2B eсommerce solutions market will be worth $1.1T <br>
+	                Forrester predicts that by 2019, the B2B eсommerce market will be worth $1.1T <br>
 	                compared to the B2C market at $480B. Virto Commerce ensures businesses <br>
 	                thrive in the market with features specifically tailored for the B2B market.
 	            </div>
@@ -91,7 +91,7 @@ description: The agile B2B e-commerce solution. B2B ecommerce software developer
 		<div class="section-row responsive">
 			<div class="section-cnt">
 				<div class="section-text">
-					<div class="section-t">Cloud-based B2B ecommerce platform</div>
+					<div class="section-t">Cloud-based best B2B ecommerce platform</div>
 					<div class="section-descr">
 						By using a cloud in B2B ecommerce software, businesses are able to eliminate infrastructural limitations that hinder business growth. With this limitation removed, departments can grow and adapt as fast as they need to. With instant, on-demand scaling, marketing campaigns can be executed as fast as they need to, while transparent budgeting allows for easier budget planning and accounting.  Plus, with fast upgrades and low maintenance, time can be spent on tasks that affect the bottom line, such as developing new business models or expanding distributor models.
 					</div>
