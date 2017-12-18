@@ -14,7 +14,7 @@ aliases:
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form action="" method="post">
+				<form action="" method="post" accept-charset="UTF-8" id="free-estimate">
 					<input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you-trial" />
 					<div class="column">
 						<div class="control-group">
