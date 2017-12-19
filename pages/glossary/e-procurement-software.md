@@ -39,16 +39,16 @@ tags :
     <div class="section-title">Build better relationships with your suppliers</div>
     <p class="text">Optimizing supply chain mechanisms and automating business processes by using the right e procurement system helps lower transaction costs and significantly decrease supply chain risks. Build strategic partnerships by working closely with you suppliers and creating more transparent relationships. </p>
     <div class="section-title"><strong>E-Procurement – quick guide</strong></div>
-    <h3>What is e procurement software?</h3>
+    <div class="section-title-h3">What is e procurement software?</div>
     <img alt="e procurement software" src="assets/images/epcm-process-software.jpg"></img>
     <p class="text">E procurement software is the enterprise system that automates and integrates the spectrum of an organization's procurement cycle. A good e procurement software solution will increase transparency associated with spending and approval processes.</p>
     <p class="text">For example, an e procurement system allows customers to browse online catalogs, add goods to the shopping cart, and send requisition. However, online procurement automation goes far beyond the online shopping experience. Online procurement involves many of the procedures, functions, and workflows, which make the e procurement fast and cost-effective. Its implementation allows to reduce manual errors and paper-based processes due to smart automation and visibility of your purchasing mechanism. E procurement platform removes most document operations from the procurement team, which can focus on high-value tasks, not paperwork.</p>
     <p class="text">Effective e procurement platform streamlines the procurement procedures and delivers visible cost-saving results.</p>
     <p class="text">Of course, e procurement platform offers differ in features and provided options. Some of them are suited for big corporations, while other solutions are less complex and fit better for small or medium businesses.</p>
      {% include 'vc-b2b_b2c-banner' %}
-    <h3>Procurement system</h3>
+    <div class="section-title-h3">Procurement system</div>
     <p class="text">An e procurement system manages an e-commerce web site's offers/bids and can be used interchangeably with procurement software. It is designed to optimize purchasing processes and increase transparency with regard to the spending and approval processes.</p>
-    <h3>E procurement services</h3>
+    <div class="section-title-h3">E procurement services</div>
     <p class="text">Some companies outsource their e procurement needs to third party procurement service providers (PSPs) that will design and manage internet based procurement programs on their behalf for a fee. Time and resources are required for a company to maintain domain expertise across every facet of spending. Assistance from a PSP increases the likelihood that company buying decisions remain strategic.</p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>

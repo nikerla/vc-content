@@ -45,11 +45,11 @@ tags :
     <p class="text">
     Now, that we have answered the question of “what is dead stock/ what is headstock?” let’s look at a few ways to fix the dead stock issue.
     </p>
-    <h4>Return the products to the supplier</h4>
+    <div class="section-title-h4">Return the products to the supplier</div>
     <p class="text">
         If the stocks have arrived recently and you have realized quickly that they are not going to be received as well as expected by your customer base, the items are likely still current and there’s enough room in the return policy, so you may be able to send the slow moving products back to the supplier. Often times in this case the supplier will accept them, but will most likely offer you credit instead of paying back cash. There’s also a high chance the supplier will charge a restocking fee of about 10% upon the return of the merchandise, so be prepared for taking a small loss. 
     </p>
-    <h4>Create bundles and market it with the better selling items</h4>
+    <div class="section-title-h4">Create bundles and market it with the better selling items</div>
     <p class="text">
         If returning is not an option or you simply decide to hold off on paying that restocking fee and give your dead stock one last chance, try bundling those items with more current products, and offer a discount on the set. Of course, your profit margins will be smaller in this case, but it’s better than having those items sitting in your warehouse creating more storage costs - at the very least you’ll be able to get the cost price back and break even. 
     </p>
@@ -60,7 +60,7 @@ tags :
         For example, “Buy 5 shirts and get a free hat” or “Spend $150 and get a free gift”.  Offering good value for money is the key here. Consumers would not want to pay for items they don’t like enough, but a free gift or a good discount is likely to change their mind. 
     </p>
     {% include 'vc-magento-banner' with current_url : 'glossary/what-is-a-dead-stock' %}
-    <h4>Donate it</h4>
+    <div class="section-title-h4">Donate it</div>
     <p class="text">
         Now, this option might not apply to any country or business, but if you’re a clothing retailer in the USA, this option might work for you.
 Say, you have discovered some dead stock items in your warehouse from several years ago lying. The chance of still selling them is next to none at this point. Returning is not an option anymore either, but the items are still new and in great condition. Rather than simply throwing it away, you can at least claim a tax write-off by donating them to charity. Those organizations will be glad to take the load off your shoulders, plus some good karma never hurt no one. 

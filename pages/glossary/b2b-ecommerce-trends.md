@@ -199,7 +199,7 @@ tags :
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');">
-                        <h3><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></div>
                     </div>
                     <div class="post-descr">
                         Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.<br /><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">Read more...</a>
@@ -209,7 +209,7 @@ tags :
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/blog/b2b-online-aftermath1.jpg');">
-                        <h3><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">B2B Online Aftermath</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">B2B Online Aftermath</a></div>
                     </div>
                     <div class="post-descr">
                         B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to share our impressions from this experience.<br /><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">Read more...</a>
@@ -219,7 +219,7 @@ tags :
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');">
-                        <h3><a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">Top B2B e commerce sites and companies</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">Top B2B e commerce sites and companies</a></div>
                     </div>
                     <div class="post-descr">
                         Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.<br /><a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">Read more...</a>

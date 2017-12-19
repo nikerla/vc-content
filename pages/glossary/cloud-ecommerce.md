@@ -63,13 +63,13 @@ tags:
         <p>If your business operates in multiple countries, a cloud-based solution offers clear advantages considering the speed required to roll out and manage an e-commerce application. With ecommerce cloud you have a remote network of servers that responds dynamically to your demands to deliver content fast no matter where your customer is.</p>
         <div class="section-title">How to pick a service for your commerce?</div>
         <p>The cloud computing service categories fall under several distinct categories. Each of these models or their combinations allows you to create the perfect foundation for your e-commerce suite.</p>
-        <h4>IaaS (Infrastructure as a Service)</h4>
+        <div class="section-title-h4">IaaS (Infrastructure as a Service)</div>
         <p>This type of cloud service focuses on providing on-demand data storage on disks and virtual servers. Customers purchase a remote datacenter infrastructure service instead of having to purchase their own hardware.</p>
         <p>Examples include cloud services offered by established well-known brands, such as Amazon, Microsoft and others.</p>
-        <h4>PaaS (Platform as a Service)</h4>
+        <div class="section-title-h4">PaaS (Platform as a Service)</div>
         <p>A cloud development platform that allows its users to develop, manage, and launch applications within a self-service portal with a ready-to-use cloud computing infrastructure. Most platforms provide the basics so that you don’t have to start from scratch. The operating system is supported and frequently upgraded, and the services for your e-commerce solution can be built, using certain modules.</p>
         <p>Examples of Platform-as-a-Service are Google App Engine, Cloudfy, and Cloudsuite.</p>
-        <h4>SaaS (Software as a Service)</h4>
+        <div class="section-title-h4">SaaS (Software as a Service)</div>
         <p><a href="{{ '/glossary/saas-ecommerce' | absolute_url }}">Software-as-a-Service</a> means that a third-party hosting service provider gives clients access to various cloud ecommercev solutions on a pay-as-you-go basis.</p>
         <p>This service type is very popular among e-commerce vendors. Modern applications allow your business to improve its customer' experience and expand the online store with advanced features, such as smart shopping cart or mobile-friendly applications.</p>
         <p>Among the most popular <a href="{{ '/glossary/saas-ecommerce' | absolute_url }}">SaaS</a> solutions are Salesforce, NetSuite, Slack and others.</p>
@@ -124,7 +124,7 @@ tags:
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/blog/ai.jpg');">
-                        <h3><a href="{{ '/blog/virtocommerce-releases-product-recommendation' | absolute_url }}">New Product Recommendation Feature is now available</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/blog/virtocommerce-releases-product-recommendation' | absolute_url }}">New Product Recommendation Feature is now available</a></div>
                     </div>
                     <div class="post-descr">
                         Virto Commerce team is constantly improving its technical leadership. Our Solutions Architect has just visited the DevOps conference and shared his thoughts on what he has seen.<br /><a href="{{ '/blog/virtocommerce-releases-product-recommendation' | absolute_url }}">Read more...</a>
@@ -134,7 +134,7 @@ tags:
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/blog/shutterstock_83919073.jpg');">
-                        <h3><a href="{{ '/blog/five-reasons-to-switch-ecommerce-to-cloud' | absolute_url }}">5 reasons to switch your e-commerce to the cloud</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/blog/five-reasons-to-switch-ecommerce-to-cloud' | absolute_url }}">5 reasons to switch your e-commerce to the cloud</a></div>
                     </div>
                     <div class="post-descr">
                         <a href="{{ '/blog/five-reasons-to-switch-ecommerce-to-cloud' | absolute_url }}">Read more...</a>
@@ -144,7 +144,7 @@ tags:
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/blog/update.jpg');">
-                        <h3><a href="{{ '/blog/new-features-in-virtocommerce' | absolute_url }}">What’s in the works – New features coming up in the Virto Commerce platform</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/blog/new-features-in-virtocommerce' | absolute_url }}">What’s in the works – New features coming up in the Virto Commerce platform</a></div>
                     </div>
                     <div class="post-descr">
                         What’s in the works – New features coming up in the Virto Commerce platform.<br /><a href="{{ '/blog/new-features-in-virtocommerce' | absolute_url }}">Read more...</a>

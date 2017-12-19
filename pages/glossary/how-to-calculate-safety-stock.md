@@ -31,7 +31,7 @@ tags :
     <p class="text">So, what is safety stock? Safety stock is an inventory formula retailers use to determine the emergency stock – the extra stock of products they need to have in case of unforeseen circumstances that can put them on the verge of selling out. You’d want to have enough products to help you weather the storms, but not too much so that you don’t end up with the carrying costs that are too high for your sales level. While this sounds fairly straightforward, the trick is to know how to calculate inventory in order to determine the optimal stocking level. It’s important to remember that the sales don’t only have to cover the sold products’ own carrying costs, but the carrying costs of the safety stock as well.</p>
     <div class="section-title">Calculating safety stock formula - inventory equation</div>
     <p class="text"></p>
-    <h4>How to calculate safety stock?</h4>
+    <div class="section-title-h4">How to calculate safety stock?</div>
     <p class="text">
     Safety stock calculation is no rocket science really. You just need to have your purchase and sales orders history handy. Once you do, use this simple safety stock formula, also known as “inventory equation”:</p>  
     <p class="text"><strong>Safety stock = (Maximum daily usage * Maximum lead time in days) – (Average daily usage * Average lead time in days).</strong></p>
@@ -48,7 +48,7 @@ tags :
     <p class="text">Depending on the products you’re selling, you may need to adjust that stock holding formula to seasonal changes. During the peak seasons, sales may increase drastically requiring a bigger safety stock. But, once the peak season is over, you would want to start reducing your safety stock levels to lower your carrying costs. </p>
     {% include 'vc-magento-banner' with current_url : 'glossary/how-to-calculate-safety-stock' %}
     <div class="section-title">What is buffer stock level (or safety stock levels) and how does it affect the Reorder Point?</div>
-    <h4>What is buffer stock level?</h4>
+    <div class="section-title-h4">What is buffer stock level?</div>
     <p class="text">It is essentially another term in inventory management used to describe a level of extra stock that is kept to account for uncertainties in supply and demand or the risk of stockout.</p>
     <p class="text">So, now that you know what a safety stock level is and how to calculate average stock level and determine exactly how much safety stock you need - use that when deciding on your reordering quantity. </p>
     <p class="text">Calculate safety stock and document it in your <a href="{{ 'https://virtocommerce.com/order-management-software' | absolute_url }}">order management software</a> to help with your reorder point calculations! 

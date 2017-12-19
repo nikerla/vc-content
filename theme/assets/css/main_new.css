@@ -2314,3 +2314,12 @@ a
     font-size:24px;
     font-weight:400;
 }
+
+.business-features .business-cnt .section-title-h3 {
+    font-size: 30px;
+}
+
+.business-features .business-cnt .section-title-h4 {
+    font-size: 1em;
+    font-weight: 700;
+}
