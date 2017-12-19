@@ -2108,14 +2108,19 @@ a
 
 .b2b-commerce .commerce-platform .col
 {
-	width: 25%;
+    width: 25%;
+    display: flex;
+    box-sizing: border-box;
 }
 
 .b2b-commerce .commerce-platform .integration-item
 {
-	background: #fff;
-	box-shadow: 0 0 20px rgba(0,0,0,.15);
-	padding: 20px 20px 0;
+    background: #fff;
+    box-shadow: 0 0 20px rgba(0,0,0,.15);
+    padding: 20px 20px 45px;
+    position: relative;
+    height: 100%;
+    box-sizing: border-box;
 }
 
 .b2b-commerce .commerce-platform .integration-img
@@ -2157,14 +2162,17 @@ a
 
 .b2b-commerce .commerce-platform .integration-status
 {
-	background: #f89406;
-    display:block;
-	color: #fff;
-	font-size: 16px;
-	font-weight: 600;
-	margin: 0 -20px;
-	padding: 10px 0;
-	text-transform: uppercase;
+    background: #f89406;
+    display: block;
+    color: #fff;
+    position: absolute;
+    font-size: 16px;
+    font-weight: 600;
+    left: 0;
+    bottom: 0;
+    padding: 10px 0;
+    right: 0;
+    text-transform: uppercase;
 }
 
 .b2b-commerce .latest-posts .col,

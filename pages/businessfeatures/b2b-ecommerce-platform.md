@@ -244,7 +244,7 @@ description: The agile, B2B e-commerce solution
 							<img src="assets/images/b2b/icon-google.png" alt="">
 						</div>
 						<div class="integration-t">
-							Google Analitics <br>Encanced
+							Google Analitics <br>Enhanced
 						</div>
 						<div class="integration-name">
 							by Virto Commerce
@@ -262,43 +262,19 @@ description: The agile, B2B e-commerce solution
 				<div class="col">
 					<div class="integration-item">
 						<div class="integration-img">
-							<img src="assets/images/b2b/icon-sendgrid.png" alt="">
+							<img style="height:90px;" src="//virtocommerce.com/admin/assets/catalog/3f99c499-cd54-4fa7-8ffe-26e9eeae1ca0.png" alt="">
 						</div>
 						<div class="integration-t">
-							Google Analitics <br>Encanced
+							Mailchimp integration with Virto Commerce <br>Enhanced
 						</div>
 						<div class="integration-name">
 							by Virto Commerce
 						</div>
 						<div class="integration-descr">
-							Google Ecommerce
-							Analytics module allows
-							you to use the newly launched
-							feature of Google Analytics -
-							Enchanced Ecommerce.
+							Integration with MailChimp
+							newsletters sending system.
 						</div>
-						<a href="/apps/extensions/sendgrid-email-marketing" class="integration-status">Free</a>
-					</div>
-				</div>
-				<div class="col">
-					<div class="integration-item">
-						<div class="integration-img">
-							<img src="assets/images/b2b/icon-google.png" alt="">
-						</div>
-						<div class="integration-t">
-							Google Analitics <br>Encanced
-						</div>
-						<div class="integration-name">
-							by Virto Commerce
-						</div>
-						<div class="integration-descr">
-							Google Ecommerce
-							Analytics module allows
-							you to use the newly launched
-							feature of Google Analytics -
-							Enchanced Ecommerce.
-						</div>
-						<a href="/apps/extensions/google-analytics-enhanced-ecommerce" class="integration-status">Free</a>
+						<a href="/apps/extensions/mailchimp" class="integration-status">Free</a>
 					</div>
 				</div>
 				<div class="col">
@@ -307,19 +283,38 @@ description: The agile, B2B e-commerce solution
 							<img src="assets/images/b2b/icon-sendgrid.png" alt="">
 						</div>
 						<div class="integration-t">
-							Google Analitics <br>Encanced
+							SendGrid Integration module <br>Enhanced
 						</div>
 						<div class="integration-name">
 							by Virto Commerce
 						</div>
 						<div class="integration-descr">
-							Google Ecommerce
-							Analytics module allows
-							you to use the newly launched
-							feature of Google Analytics -
-							Enchanced Ecommerce.
+                            Provide email
+                            marketing campaigns using
+                            SendGrid innovative module.
 						</div>
 						<a href="/apps/extensions/sendgrid-email-marketing" class="integration-status">Free</a>
+					</div>
+				</div>
+				<div class="col">
+					<div class="integration-item">
+						<div class="integration-img">
+							<img style="height:75px;" src="//virtocommerce.com/admin/assets/catalog/FHQ-67784017/NewLogo.jpg" alt="">
+						</div>
+						<div class="integration-t">
+							Marketo Integration module <br>Enhanced
+						</div>
+						<div class="integration-name">
+							by Virto Commerce
+						</div>
+						<div class="integration-descr">
+							Attract more buyers,
+							nurture leads,
+							identify opportunities
+							and deliver sales orders
+							with Marketo integration.
+						</div>
+						<a href="/apps/extensions/marketo-marketing-automation" class="integration-status">Free</a>
 					</div>
 				</div>
 			</div>
