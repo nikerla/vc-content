@@ -37,7 +37,7 @@ tags:
 		        </div>
             </div>
         </div>
-		<h2>Web-Based Ecommerce Order Management Features</h2>
+		<h2>Web-Based Distributed Ecommerce Order Management Features</h2>
 		<h4>Cloud order management - Order status management</h4>
 		<p class="text">Track orders and manage different order statuses – ex. confirmed/not confirmed, shipped (full order or partially), delivered, paid/unpaid/split payments, etc. With our order management software, your order statuses will automatically get updated on different channels. </p>
     <p class="text">It is modular based, which gives you the freedom to implement it as a ready-to-go OMS solution or keep adding and replacing modules as your business grows.</p>
@@ -51,7 +51,7 @@ tags:
         <p class="text">•	Customer order history </p>
         <p class="text">•	Subscription management</p>
         <p class="text">This takes care of a huge bulk of your customer order management efforts freeing up resources for acquiring new customers and growing your sales.</p>
-		<h4>Full customization</h4>
+		<h4>Full customer order management customization</h4>
 		<p class="text">Personalize the purchasing process for your customers. In Virto Commerce cloud order management system you can set special Quotes & Purchase Orders for your buyers with a few clicks. Your partners will also be able to make orders from within their own procurement application or hosted e-procurement system with the PunchOut support.</p>
     <h4>Partial order management using OMS solution</h4>
 		<p class="text">Having the right partial OMS solution in place is critical for ecommerce order management! Virto Commerce OMS order management system makes managing partial fulfillment a simple and painless process with tools like:</p>
@@ -63,7 +63,7 @@ tags:
         <p class="text">•	Search orders</p>
         <p class="text">•	Define & associate documents</p>
     <p class="text">Just use the online order management system to quickly find and check any current or past orders –tracking makes it easy to catch any inconsistencies right away and avoid errors. It also provides great flexibility to manage your inventory and deliver products to and from anywhere.</p>
-    <h4>Returns, refunds, and exchanges</h4>
+    <h4>Retail order management: returns, refunds, and exchanges</h4>
     <p class="text">Virto Commerce distributed order management system lets you issue refunds, generate order shipment returns and handle exchanges. You have an option to mention a return reason for further analysis and to restock product if needed. </p>
     <p></p>
     <p class="text">Virto Commerce OMS software is not your ordinary order management software – it offers an opportunity to arrange and streamline your workflow, helps keep track of your inventory and order status, facilitates accounting and logistics and is fully customizable to your business’ unique needs and requirements. This is a whole new level of ecommerce order management software!</p>
@@ -71,7 +71,7 @@ tags:
     <h4>OMS pricing</h4>
     <p class="text">With all the great qualities it offers, we make sure to have the Virto Commerce OMS solution work for your business, both in terms of services offered and OMS pricing.
 We have multiple OMS pricing options available, so you can always find one that fits your company’s budget – you can choose to pay monthly, annually, perpetual, and more.</p>
-    <h2>Order Management Software Screenshots</h2>
+    <h2>OMS Solution Screenshots</h2>
     <img alt="Order Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
     <br>
     <img alt="Order Management Software" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
