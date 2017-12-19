@@ -27,18 +27,18 @@ tags :
     <p class="text">Virto Commerce e procurement solution is the key to optimizing supply chain mechanisms and automating business processes, such as order processing. Among other benefits of this e procurement software is significant potential for relationship building between a customer and a seller. </p>
     <p class="text">It’s a cost-effective e procurement software system that helps streamline purchasing processes eliminating unessential paperwork, providing better control over spending and saving time and resources for your team.</p>
     {% include 'vc-b2b_b2c-banner' %}
-    <h2>Transform your team’s spending practice</h2>
+    <div class="section-title">Transform your team’s spending practice</div>
     <p class="text">Track spending along with costs and warranty information. Encourage everyone to spend smarter and save on everyday operating costs by using the Virto Commerce’s eprocurement software to track inventory items, service and expiration deadlines, stock and more. </p>
     <p class="text">Virto Commerce e-procurement software system helps stick to the budget, eliminates unwanted spending and really improves savings by enabling buyers, CFOs, CEOs and purchasing management to enforce pre-purchase approvals on a consistent basis and providing them with maximum visibility.</p>
     <p class="text">Offering both SaaS and On-Premise Purchasing Software Solutions our e-procurement system is the best way to automation of purchasing processes and control of spending. </p>
     <p class="text">Virto Commerce is an e procurement solution your teams will actually enjoy using! The result is you being able to keep better track of costs, a more eager user adoption within your organization, and better informed financial decisions.</p>
-    <h2>Reduce operating costs and enable strategic purchasing</h2>
+    <div class="section-title">Reduce operating costs and enable strategic purchasing</div>
     <p class="text">Gain visibility into purchase order (PO) and non-PO spendings across the organization. Virto Commerce e procurement system allows you to track purchases and monitor their status closely helping make the right spending choices. Our e procurement software creates smooth and smart workflows while providing an enjoyable shopping experience. </p>
     <p class="text">Great visibility into enterprise-wide spendings that our e procurement system provides helps save budget by spending smarter by showing opportunities to right-size the supply base and negotiate a better contract. </p>
     <p class="text">Smart automation of purchasing processes within the Virto Commerce e-procurement software enables the procurement department to spend less time and resources on taking care of the process organization and paperwork and focus more on strategic initiatives that help grow your business.</p>
-    <h2>Build better relationships with your suppliers</h2>
+    <div class="section-title">Build better relationships with your suppliers</div>
     <p class="text">Optimizing supply chain mechanisms and automating business processes by using the right e procurement system helps lower transaction costs and significantly decrease supply chain risks. Build strategic partnerships by working closely with you suppliers and creating more transparent relationships. </p>
-    <h2><strong>E-Procurement – quick guide</strong></h2>
+    <div class="section-title"><strong>E-Procurement – quick guide</strong></div>
     <h3>What is e procurement software?</h3>
     <img alt="e procurement software" src="assets/images/epcm-process-software.jpg"></img>
     <p class="text">E procurement software is the enterprise system that automates and integrates the spectrum of an organization's procurement cycle. A good e procurement software solution will increase transparency associated with spending and approval processes.</p>

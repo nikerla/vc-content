@@ -42,7 +42,7 @@ tags :
         <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
         <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
     </div>
-    <h2>Top 5 B2B challenges and solutions</h2>
+    <div class="section-title">Top 5 B2B challenges and solutions</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
             <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">B2B ecommerce</a> has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
@@ -53,7 +53,7 @@ tags :
             </a>
         </div>
     </div>
-    <h2>The B2B ECommerce Trends of 2016</h2>
+    <div class="section-title">The B2B ECommerce Trends of 2016</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="B2B ecommerce trends" src="assets/images/technology-investments.jpg" />
@@ -87,7 +87,7 @@ tags :
             <img alt="B2B ecommerce trends" src="assets/images/multichannel.jpg" />
         </div>
     </div>
-    <h2>B2B Ecommerce Trends in 2017</h2>
+    <div class="section-title">B2B Ecommerce Trends in 2017</div>
     <p class="text">Now that 2017 is coming to its end, we can point out some of the most prominent B2B eCommerce trends on the market. </p>
     <div class="col-w">
         <div class="col __col-30">
@@ -137,7 +137,7 @@ tags :
             <img alt="Flexible payment options" src="assets/images/flexible-payment-options-1.jpg" />
         </div>
     </div>
-    <h2>B2B Ecommerce Trends in 2018</h2>
+    <div class="section-title">B2B Ecommerce Trends in 2018</div>
     <p class="text">As the year 2017 is approaching its end, now’s the time to start looking towards your ecommerce development plans for 2018 and further.</p>
     <p class="text">According to <a href="{{ 'https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/' | absolute_url }}">Forrester analysts’ reports</a>, the business-to-business ecommerce market is currently at a $1 trillion+ mark and is expected to grow up to $2 trillion by 2020. This means that for B2B sellers now it’s more important than ever to keep up with the quickly changing surroundings. Below we take a close look at the rising b2b ecommerce trends for the coming year that you can look into incorporating into your B2B strategy to help increase your competitive advantage.</p>
     <div class="col-w">

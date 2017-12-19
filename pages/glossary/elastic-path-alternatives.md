@@ -36,7 +36,7 @@ tags :
     Despite the enormous range of features provided by the platform, its open source code can also be a downside for some users. The majority of business owners are not that tech savvy, so they might have a hard time working with this platform. Its lack of blogging software that is becoming more and more common across all solutions can also be a challenge. If this is a critical feature for your business, you might have to install another platform for content management, thus reducing the response speed of the website. </p>
     <p class="text">
     If these issues look like they might be deal breakers for you, here are some of the most popular Elastic Path alternatives. </p>
-    <h2>Demandware</h2>
+    <div class="section-title">Demandware</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="ElasticPath Alternatives - Demandware" src="assets/images/demandware.jpg" />
@@ -48,7 +48,7 @@ tags :
         </div>
         <p class="text">
         The only bad thing about this particular alternative to Elasticpath is its human resource requirements, meaning you might need to hire a professional programmer. However, you are looking for an enterprise solution and have the development power and resources to manage Demandware’s top features and practices, then you should definitely look into this ecommerce platform. </p>
-    <h2>Ecwid</h2>
+    <div class="section-title">Ecwid</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            With this platform you can embed a personal web store into an already existing page, so you won’t need to go through the entire sophisticated process of setting it up yourself. The web store requires almost no technical experience, as the <a href="https://www.ecwid.com/" rel="nofollow">Ecwid's</a> builder is pretty intuitive. It also gives you the maximum amount of tools possible without limiting your creativity. 
@@ -61,7 +61,7 @@ tags :
         As a result you will get a full-fledged web store with all the important features you would want to see in one. Worried about how it is going to look? Worry no more, as you will have a tremendous amount of templates available to you, specifically designed to fit your web store’s needs. Feel free to add product listings, manage your products and add images. See the reviews posted by your customers and enable the social media marketing feature to bring your product to more and more potential clients. </p>
         <p class="text">
         The products in your web store will be naturally organized by categories, with the option of a search tool and filtered search. You can also publish your store on Facebook or any other personal website or blog, and enjoy the pocket version of an ecommerce store with the same features.</p>
-        <h2>Magento</h2>
+        <div class="section-title">Magento</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Elasticpath Alternatives - Magento" src="assets/images/magento-1.jpg" />

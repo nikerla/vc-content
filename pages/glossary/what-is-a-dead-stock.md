@@ -25,7 +25,7 @@ tags :
     </div>
     <img alt="What is a dead stock?" src="assets/images/dead-stock.jpg" />
     {% include 'vc-magento-banner' with current_url : 'glossary/what-is-a-dead-stock' %}
-    <h2>What is dead stock/ what does headstock mean?</h2>
+    <div class="section-title">What is dead stock/ what does headstock mean?</div>
     <p class="text">
     <strong>First of all, what does dead stock mean (or what does headstock mean)?  Take a close look at your warehouse. The products might be selling well, but with every change of seasonal collections, with every inventory re-stock there’s an ever growing pile of products that just don’t sell and the additional weight it adds to your business is dragging it down. That is referred to as dead stock (or deadstock/headstock). </strong>
     </p>  
@@ -41,7 +41,7 @@ tags :
     <p class="text">
     This is why the correct approach to dead inventory management is critical. 
     </p>
-    <h2>How to get rid of deadstock?</h2>
+    <div class="section-title">How to get rid of deadstock?</div>
     <p class="text">
     Now, that we have answered the question of “what is dead stock/ what is headstock?” let’s look at a few ways to fix the dead stock issue.
     </p>
@@ -68,7 +68,7 @@ Say, you have discovered some dead stock items in your warehouse from several ye
     <p class="text">
         You will need a written agreement with the charity, stating that the items were donated at no cost and signed receipts in order for your business to deduct the market value of the inventory from your taxes. Also, if your donations are used directly to care for the ill, needy, or infants, you can get even more tax breaks from the IRS.
     </p>
-    <h2>How to avoid acquiring more dead stock?</h2>
+    <div class="section-title">How to avoid acquiring more dead stock?</div>
     <p class="text">
     Now that you’ve managed to get rid of all the dead stock from your warehouse, the next step is trying to avoid accumulating more. This is where good <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">Inventory management software</a> comes in handy. It will provide better visibility of stock movements and allow to keep track of how well your different <a href="{{ '/glossary/what-is-sku' | absolute_url }}">SKU s</a> are performing. So, when something is not selling well, you would be able to catch it and take action right away!
     </p>

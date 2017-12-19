@@ -36,7 +36,7 @@ tags :
     Among the most common disadvantages of this particular platform is the fact that it requires a lot of development resources from its users in order to maintain the web store. Besides, there are few people who actually know how to code in it, therefore they are really expensive. </p>
     <p class="text">
     If you see a potential issue with this like we do, we would love to explore some of the Demandware alternatives. </p>
-    <h2>Magento </h2>
+    <div class="section-title">Magento </div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Demandware alternatives - Magento " src="assets/images/demandware-alternatives-magento.jpg" />
@@ -50,7 +50,7 @@ tags :
         However, if you have experience with basic coding, you can create a fully customizable website that will suit any of your desires. In addition, for an extra cost, <a href="/glossary/magento-alternatives">Magento</a> is offering extensions and plugins that would make the process of creating your website even more enjoyable. </p>
         <p class="text">
         The customer support is another thing in which this Demandware alternative can take pride in. </p>
-    <h2>Bigcommerce</h2>
+    <div class="section-title">Bigcommerce</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            This one can be considered a great alternative to any shopping cart software just like Volusion or Shopify. The only is its limited template base and poor feature set that does not appear to be sufficient for a platform of such a high level. 
@@ -62,7 +62,7 @@ tags :
         </div>
         <p class="text">
         However, for a starting business owner, a closed source (proprietary) platform like this one may turn out very expensive and not worth the money.</p>
-        <h2>Weebly</h2>
+        <div class="section-title">Weebly</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Demandware alternatives - Weebly" src="assets/images/weebly.jpg" />
@@ -76,7 +76,7 @@ tags :
         Since the moment you create your web store, the platform will help you out by arranging the “Store” button and any other significant buttons without you having to take care of it. Product descriptions, product images, customers’ feedback, surveys, all of this can be added through Weebly’s simple and intuitive dashboard. </p>
         <p class="text">
         Pricing is way lower when compared to the e-commerce giants like Shopify or Volusion, which makes it easier for small businesses to handle. Starter plan costs $8 per month with a 3% transaction fee from every sale. With this plan, you will have enough features to create a web store for a small business with the ability to upload 10 product listings. </p>        
-        <h2>Virto Commerce</h2>
+        <div class="section-title">Virto Commerce</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            When using Virto Commerce as a Demandware alternative, you can be sure that you are getting the platform that will suit all your needs. There are almost no complicated processes involved in creating your website. The cutting-edge .NET 4.5 framework along with AngularJS and Liquid technologies will let you build your website in no time and start selling products and services as soon as possible. This is the solution that can be used by any vendor from small businesses to enterprise-level companies. 

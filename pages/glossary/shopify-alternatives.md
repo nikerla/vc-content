@@ -44,7 +44,7 @@ tags :
     If you are not satisfied with your Shopify experience or just like to keep your options open, here are some of the best alternatives to Shopify you can check out.
         </p>
     <p class="text">
-    <h2>BigCommerce</h2>
+    <div class="section-title">BigCommerce</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Shopify Alternatives - BigCommerce" src="assets/images/big-commerce-screen.jpg" />
@@ -55,7 +55,7 @@ tags :
         </div>
     </div>
             <p class="text">Just like Weebly, another Shopify alternative, this platform provides a good variety of how-tos, some useful tips, and videos that will help you in the process of setting up and running your store. With the advanced content-marketing features in this alternative to Shopify, you can also promote the product on the web and drastically increase conversion rates.</p>
-    <h2>Virto Commerce</h2>
+    <h2 >Virto Commerce</h2>
     {% include 'vc-magento-banner' with current_url : 'glossary/shopify-alternatives' %}
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">

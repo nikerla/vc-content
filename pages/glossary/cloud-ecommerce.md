@@ -40,14 +40,14 @@ tags:
     <div class="text">
         <p>The term "cloud e-commerce" refers to the process of outsourcing of a remote network of servers hosted on the Internet to use application services, store and process data. Essentially, it is a cloud-based e-commerce versus software installed on a local server.</p>
         <p>Cloud ecommerce solutions provide a wide range of benefits over traditional on-premise storage. Within the last ten years cloud has gained popularity due to reduced complexity and lower cost of maintenance. Nowadays, cloud ecommerce has become become the most optimal solution model on the market.</p>
-        <h2>Scalability on demand</h2>
+        <div class="section-title">Scalability on demand</div>
         <p>The extreme traffic variability in e-commerce with its seasonal spikes creates a unique workload for e-commerce hosting.</p>
         <p>Required hardware capacity must conform to the traffic peaks (ex. Black Friday, Cyber Monday, etc.). But for most of the year the servers are not in use.</p>
         <p>The cloud offers an elastic solution, that allows for substantiall variations in workload and meets the needs for seasonal or even hourly promotional spikes in traffic, including unpredictable outbreaks.</p>
         <p>This way your cloud ecommerce solution resources can be scaled up and down to support your actual needs.</p>
         <p>The other side of scalability is business growth. Increase in your store’s popularity, integration of new services and further store evolution force the infrastructure to grow accordingly. A flexible platform at the heart of your cloud e-commerce solution, as well as scalable environment responds quickly to business challenges and opportunities.</p>
         <p>Cloud allows you to avoid physical superstructure. You don't have to purchase additional equipment and hire new maintenance staff. With cloud, your business gets all the required resources and services on-demand.</p>
-        <h2>Reliable pro protection</h2>
+        <div class="section-title">Reliable pro protection</div>
         <div class="col-w">
             <div class="col __col-30">
                 <img alt="Cloud ecommerce solutions" src="assets/images/ecommerce-cloud.png" />
@@ -56,12 +56,12 @@ tags:
                 Save time on risk assessment and data defense, so that you can focus on your business! When hosting your business in the cloud, you don’t need to worry about maintaining and monitoring your servers. Security and protection of your network, physical facilities, applications, including data encryption and customers’ personal data safety can be excluded from the list of your concerns. E-commerce cloud vendors take all the risks. The cloud hosting providers complete a third-party certification, and proper security is a priority for them. Besides, constant accessibility of your website and regular data backup ensure that your e-commerce store will be available without any data loss in case of an emergency.
             </div>
         </div>
-        <h2>Cost-effective performance</h2>
+        <div class="section-title">Cost-effective performance</div>
         <p>Cloud fits e-commerce solutions perfectly, because you can pay for resources only when you need them.</p>
         <p>A cloud solution may save a company over 70% of the costs associated with building static environments scaled for traffic peaks - the hardware that may only be in use a few days a year. With cloud, you only pay for what you use.</p>
-        <h2>Easy accessibility from any place</h2>
+        <div class="section-title">Easy accessibility from any place</div>
         <p>If your business operates in multiple countries, a cloud-based solution offers clear advantages considering the speed required to roll out and manage an e-commerce application. With ecommerce cloud you have a remote network of servers that responds dynamically to your demands to deliver content fast no matter where your customer is.</p>
-        <h2>How to pick a service for your commerce?</h2>
+        <div class="section-title">How to pick a service for your commerce?</div>
         <p>The cloud computing service categories fall under several distinct categories. Each of these models or their combinations allows you to create the perfect foundation for your e-commerce suite.</p>
         <h4>IaaS (Infrastructure as a Service)</h4>
         <p>This type of cloud service focuses on providing on-demand data storage on disks and virtual servers. Customers purchase a remote datacenter infrastructure service instead of having to purchase their own hardware.</p>

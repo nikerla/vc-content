@@ -29,11 +29,11 @@ tags :
     <p class="text">
     Ship orders from all of your sales channels and stay on top of the delivery using the cutting-edge order tracking software. The top-notch sales order tracking software will also be at your service ensuring that your customers will always be satisfied with the delivery of your product. 
     </p>
-    <h2>What is Order Processing Software?</h2>
+    <div class="section-title">What is Order Processing Software?</div>
     <p class="text">
     Order processing software is a system that is specifically tailored to manage businesses’ time properly by reducing the length of the sales order processing. With a good order processing system, your business will be able to improve operational efficiency, increase revenues, eliminate billing errors, and deliver the highest level of customer satisfaction. Besides that, the right order fulfillment software enables you to track order-to-cash processes and to integrate unique billing capabilities. 
     </p>
-    <h2>Criteria for Choosing a Great Order Processing Software</h2>
+    <div class="section-title">Criteria for Choosing a Great Order Processing Software</div>
     <p class="text">
     Outstanding order processing system should have these following features to help businesses increase their efficiency:
     </p>
@@ -42,7 +42,7 @@ tags :
     <p class="text">•	Sales order tracking software that enables tracking the shipping process through major delivery companies, such as USPS, UPS, FedEx;</p>
     <p class="text">•	Great return process with quick authorization and order tracking software;</p>
     <p class="text">•	Enhance sales order processing by integrating faster invoicing, billing and record creation. </p>
-    <h2> Benefits of using an Order Fulfillment System</h2>
+    <div class="section-title"> Benefits of using an Order Fulfillment System</div>
     <p class="text">
     The main benefit of using such order fulfillment software is, of course, faster turnaround times and the ability to implement order tracking system. Other than that, the main advantages are:
     </p>
