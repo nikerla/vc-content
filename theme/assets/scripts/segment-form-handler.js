@@ -11,9 +11,9 @@ if(forms)
 
       // If some client-side validation kicked in and wants to prevent
       // the form from submitting, bail out now without calling track or identify
-      //if ( e.isDefaultPrevented() ) {
-      //  return
-      //}
+      if ( e.isDefaultPrevented() ) {
+        return
+      }
 
       // If we got here, it's okay to fire our events and submit the form      
 
