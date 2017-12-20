@@ -38,8 +38,8 @@ tags :
         <p class="text"> </p>
     <h2>Reasons for product information management solutions growth</h2>
     <p class="text">Product information management tools are mostly used to keep customers, stakeholders, and partners informed about all the updates in product related information. After products and services are created and added to the catalog, the status of materials, equipment, suppliers, distributors, etc. can change, often multiple times. Product information management system will note these changes and communicate promptly to maximize efficiency and minimize the impact of changes on the sales cycle. Product information management software allows for faster time to market, increases operational efficiency, and promotes sales growth. </p>
-    <p class="text">The concept behind PIM (product information management) has gained its prominence around 2003 due to dramatic increase in the ecommerce market share and popularity of online stores. </p>
-    <p class="text">The main reasons for PIM’s rise in popularity were:</p>
+    <p class="text">The concept behind PIM management (product information management) has gained its prominence around 2003 due to dramatic increase in the ecommerce market share and popularity of online stores. </p>
+    <p class="text">The main reasons for PIM management rise in popularity were:</p>
     <p class="text">•	The demand for clear product descriptions that could be easily understood by the consumers. When selling online companies need to collect and provide clear basic product information like the name of the product, its category and price. Without these the customers would simply not be able to find the product online to make a purchase.</p>
     <p class="text">•	A wider range of products that can be offered online compared to physical retail stores. It is definitely hard to manage all of the product data in the spreadsheet and not go crazy. While it was still technically possible, as most online stores started offer thousands upon thousands of products, it is becoming increasingly challenging every day. On top of that, the products are now offered not just simply via a website, but also through a large number of other channels such as physical store catalogs, mobile phones and tablets, printed catalogs, etc. This kind of evolution has caused an increasing demand for specialized systems that would offer their users a convenient way to manage all this information even when it’s so widely distributed. The worldwide market for product sales and distribution is becoming more and more complex, as companies are striving to have multiple brands across multiple countries with varying price lists and local promotions, all while building their supplier and distributor networks that often consist of thousands of partners! It is now obvious that this scale of complexity that’s becoming prominent on the market can no longer be managed without having advanced processes and systems like PIM in place.</p> 
     <p class="text">•	The growing demand for better, more detailed, coherent and consistent product information. The rule of thumb is the more information you provide, the better the sales. A well-detailed product description is typically considered one of the most critical elements of an online store. When looking to purchase a product online, customers in most cases want to browse and compare multiple options, see details and know all the specifications before they make the final decision to buy. People also shop online for services, such as tickets or training courses for example and more consumers these days look to download their digital books or games as well. Additionally, as the technologies develop, the standards rise, too. Today’s customers would no longer accept a fuzzy picture - everyone wants to see good quality high resolution photos, videos and 3D models.</p>
@@ -73,7 +73,7 @@ tags :
                 <img alt="Product information management software" src="../assets/images/what-is-pim.jpg" />
             </div>
             <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
-                Product descriptions, related assets, SEO, prices, inventory, cross-sell and upsell, shipping and fulfillment options, to name a few; can be stored and managed in Virto Commerce PIM software. For more complex enterprise ecommerce product information management solutions information can be gathered from multiple sources by integrating with EPR, WMS, PMI and other corporate systems.</p>
+                Product descriptions, related assets, SEO, prices, inventory, cross-sell and upsell, shipping and fulfillment options, to name a few; can be stored and managed in Virto Commerce product information management system. For more complex enterprise ecommerce product information management solutions information can be gathered from multiple sources by integrating with EPR, WMS, PMI and other corporate systems.</p>
             <p class="text">Our product information management software provides sophisticated catalog management capabilities making it easy and fast to work with even the most complex B2C and <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">B2B</a> product lists. </p>
               </div>
         </div>
@@ -110,9 +110,10 @@ tags :
             <p class="text">•	Large volumes of constantly changing structured, semi-structured, and unstructured data.</p>
             <p class="text">•	Flexible and easily scalable architecture.</p>
             <h2>Product Information Management Software Screenshots</h2>
+            <br>
     <img alt="Product Information Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
     <br>
-    <img alt="Product Information Management Software" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
+    <img alt="Product Information Management System" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>
