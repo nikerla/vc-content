@@ -1868,21 +1868,22 @@ a
 }
 
 /* B2B Commerce */
-.b2b-commerce
+.vc-sections-container
 {
 	color: #000;
 }
 
-.b2b-commerce [data-name="section"]
+.vc-sections-container [data-name="section"]
 {
 	padding: 50px 0;
 }
 
-.b2b-commerce .section-t
+.vc-sections-container .section-t
 {
 	margin: 0 0 30px;
 }
-.b2b-commerce .product-descr .section-inner::after {
+.vc-sections-container .product-descr .section-inner::after
+{
     background: url(b2b-iphone.png) no-repeat scroll 0 0;
     content: ' ';
     height: 378px;
@@ -1891,7 +1892,7 @@ a
     top: -25px;
     width: 195px;
 }
-.b2b-commerce .ecommerce
+.vc-sections-container .ecommerce
 {
 	background: url(bg-eccomerce.jpg) no-repeat scroll 0 0;
 	background-size: cover;
@@ -1912,7 +1913,7 @@ a
 			justify-content: center;
 }
 
-.b2b-commerce .ecommerce .cols
+.vc-sections-container .ecommerce .cols
 {
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -1927,19 +1928,19 @@ a
 			flex-wrap: wrap;
 }
 
-.b2b-commerce .ecommerce .col
+.vc-sections-container .ecommerce .col
 {
 	width: 50%;
 }
 
-.b2b-commerce .ecommerce .section-t {
+.vc-sections-container .ecommerce .section-t {
     color: #fff;
     font-size: 30px;
     font-weight: 600;
     margin: 0 0 5px;
 }
 
-.b2b-commerce .ecommerce .section-actions
+.vc-sections-container .ecommerce .section-actions
 {
 	display: -webkit-flex;
 	display: -moz-flex;
@@ -1951,20 +1952,20 @@ a
 			flex-direction: column;
 }
 
-.b2b-commerce .ecommerce .button
+.vc-sections-container .ecommerce .button
 {
 	margin: 15px 0 0;
 	width: 250px;
 }
 
-.b2b-commerce .ecommerce iframe
+.vc-sections-container .ecommerce iframe
 {
 	display: block;
 	height: 100%;
 	width: 100%;
 }
 
-.b2b-commerce .mac {
+.vc-sections-container .mac {
     background: url(bg-mac.png) no-repeat;
     top: 10px;
     height: 381px;
@@ -1973,7 +1974,7 @@ a
     width: 649px;
 }
 
-.b2b-commerce .mac .inner {
+.vc-sections-container .mac .inner {
     background: #fff;
     height: 313px;
     left: 87px;
@@ -1983,19 +1984,19 @@ a
 }
 
 
-.b2b-commerce .mac iframe {
+.vc-sections-container .mac iframe {
     height: 100%;
     width: 100%;
 }
 
-.b2b-commerce .product-descr
+.vc-sections-container .product-descr
 {
 	background: #eee;
 	margin: 0 0 80px;
 	padding: 0;
 }
 
-.b2b-commerce .product-descr .section-descr
+.vc-sections-container .product-descr .section-descr
 {
 	color: #000;
 	font-size: 16px;
@@ -2003,59 +2004,59 @@ a
 	line-height: 1.4;
 }
 
-.b2b-commerce .section-text
+.vc-sections-container .section-text
 {
 	margin: 0 40px 0 0;
 }
 
-.b2b-commerce .section-img
+.vc-sections-container .section-img
 {
 	min-width: 300px;
 	width: 300px;
 }
 
-.b2b-commerce .section-img ~ .section-text
+.vc-sections-container .section-img ~ .section-text
 {
 	margin: 0 0 0 40px;
 }
 
-.b2b-commerce .section-cnt .section-t
+.vc-sections-container .section-cnt .section-t
 {
 	font-size: 18px;
 	margin: 0 0 20px;
 }
 
-.b2b-commerce .ecommerce .section-descr {
+.vc-sections-container .ecommerce .section-descr {
     color: #fff;
     font-size: 16px;
     line-height: 1.2;
     margin: 0px 0 30px;
 }
 
-.b2b-commerce .section-cnt .section-descr
+.vc-sections-container .section-cnt .section-descr
 {
 	font-size: 16px;
 	font-weight: 400;
 }
 
-.b2b-commerce .ecommerce-features .section-descr
+.vc-sections-container .ecommerce-features .section-descr
 {
 	font-size: 16px;
 }
 
-.b2b-commerce .ecommerce-features .mini
+.vc-sections-container .ecommerce-features .mini
 {
 	font-size: 14px;
 	margin: 0 0 15px;
 }
 
-.b2b-commerce .ecommerce-features .section-img
+.vc-sections-container .ecommerce-features .section-img
 {
 	min-width: 150px;
 	width: 150px;
 }
 
-.b2b-commerce .b2b-customers .customer-info
+.vc-sections-container .b2b-customers .customer-info
 {
 	margin: 0 0 20px;
 	text-align: left;
@@ -2070,18 +2071,18 @@ a
 			align-items: center;
 }
 
-.b2b-commerce .b2b-customers .customer-pic
+.vc-sections-container .b2b-customers .customer-pic
 {
 	border-radius: 50px;
     max-width: 20%;
 }
 
-.b2b-commerce .b2b-customers .customer-other
+.vc-sections-container .b2b-customers .customer-other
 {
 	margin: 0 0 0 20px;
 }
 
-.b2b-commerce .b2b-customers .customer-name
+.vc-sections-container .b2b-customers .customer-name
 {
 	color: #f89406;
 	font-size: 18px;
@@ -2089,31 +2090,46 @@ a
 	text-transform: uppercase;
 }
 
-.b2b-commerce .b2b-customers .customer-descr
+.vc-sections-container .b2b-customers .customer-descr
 {
 	font-size: 14px;
 	font-weight: 600;
 }
 
-.b2b-commerce .b2b-customers .customer-text
+.vc-sections-container .b2b-customers .customer-text
 {
 	font-size: 16px;
 	text-align: left;
 }
 
-.b2b-commerce .b2b-customers .col
+.vc-sections-container .b2b-customers .col
 {
 	width: 33.3333%;
 }
 
-.b2b-commerce .commerce-platform .col
+.vc-sections-container
+{
+    color: #000;
+}
+
+.vc-sections-container  [data-name="section"]
+{
+    padding: 50px 0;
+}
+
+.vc-sections-container .section-t
+{
+    margin: 0 0 30px;
+}
+
+.vc-sections-container .app-blocks-section .col
 {
     width: 25%;
     display: flex;
     box-sizing: border-box;
 }
 
-.b2b-commerce .commerce-platform .integration-item
+.vc-sections-container .app-blocks-section .integration-item
 {
     background: #fff;
     box-shadow: 0 0 20px rgba(0,0,0,.15);
@@ -2123,7 +2139,7 @@ a
     box-sizing: border-box;
 }
 
-.b2b-commerce .commerce-platform .integration-img
+.vc-sections-container .app-blocks-section .integration-img
 {
 	height: 40px;
 
@@ -2140,7 +2156,7 @@ a
 			justify-content: center;
 }
 
-.b2b-commerce .commerce-platform .integration-t
+.vc-sections-container .app-blocks-section .integration-t
 {
 	font-size: 14px;
 	font-weight: bold;
@@ -2148,19 +2164,19 @@ a
 	text-transform: uppercase;
 }
 
-.b2b-commerce .commerce-platform .integration-name
+.vc-sections-container .app-blocks-section .integration-name
 {
 	color: #939393;
 	font-size: 13px;
 }
 
-.b2b-commerce .commerce-platform .integration-descr
+.vc-sections-container .app-blocks-section .integration-descr
 {
 	font-size: 13px;
 	margin: 15px 0;
 }
 
-.b2b-commerce .commerce-platform .integration-status
+.vc-sections-container .app-blocks-section .integration-status
 {
     background: #f89406;
     display: block;
@@ -2175,28 +2191,28 @@ a
     text-transform: uppercase;
 }
 
-.b2b-commerce .latest-posts .col,
-.b2b-commerce .best-articles .col
+.vc-sections-container .latest-posts .col,
+.vc-sections-container .best-articles-section .col
 {
 	width: 33.3333%;
 }
 
-.b2b-commerce .latest-posts .post-item,
-.b2b-commerce .best-articles .post-item
+.vc-sections-container .latest-posts .post-item,
+.vc-sections-container .best-articles-section .post-item
 {
-	text-align: left;
+    text-align: left;
 }
 
-.b2b-commerce .latest-posts .post-img,
-.b2b-commerce .best-articles .post-img
+.vc-sections-container .latest-posts .post-img,
+.vc-sections-container .best-articles-section .post-img
 {
-    position:relative;
-    height:185px;
-    overflow:hidden;
+    position: relative;
+    height: 185px;
+    overflow: hidden;
 }
 
-.b2b-commerce .latest-posts .post-pic,
-.b2b-commerce .best-articles .post-pic
+.vc-sections-container .latest-posts .post-pic,
+.vc-sections-container .best-articles-section .post-pic
 {
     width: 100%;
     left:50%;
@@ -2205,8 +2221,8 @@ a
     transform:translate(-50%, -50%);
 }
 
-.b2b-commerce .latest-posts .post-t,
-.b2b-commerce .best-articles .post-t
+.vc-sections-container .latest-posts .post-t,
+.vc-sections-container .best-articles-section .post-t
 {
 	font-size: 16px;
 	font-weight: bold;
@@ -2214,15 +2230,15 @@ a
 	text-transform: uppercase;
 }
 
-.b2b-commerce .latest-posts .post-descr,
-.b2b-commerce .latest-posts .post-link,
-.b2b-commerce .best-articles .post-descr,
-.b2b-commerce .best-articles .post-link,
+.vc-sections-container .latest-posts .post-descr,
+.vc-sections-container .latest-posts .post-link,
+.vc-sections-container .best-articles-section .post-descr,
+.vc-sections-container .best-articles-section .post-link,
 {
-	font-size: 16px;
+    font-size: 16px;
 }
 
-.b2b-commerce .cols
+.vc-sections-container .cols
 {
 	margin: 0 -10px;
 
@@ -2236,7 +2252,7 @@ a
 			flex-wrap: wrap;
 }
 
-.b2b-commerce .col
+.vc-sections-container .col
 {
 	padding: 0 10px;
 	width: auto;

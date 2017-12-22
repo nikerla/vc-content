@@ -114,6 +114,116 @@ tags :
     <img alt="Product Information Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
     <br>
     <img alt="Product Information Management System" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
+    <div class="vc-sections-container">
+        <section class="app-blocks-section" data-name="section">
+		    <div class="section-inner">
+			    <div class="section-t">Best B2B eCommerce Platform Integrations</div>
+			    <div class="cols">
+				    <div style="padding-left:45px;" class="col">
+					    <div class="integration-item">
+						    <div class="integration-img">
+							    <img style="height:30px;" src="//virtocommerce.com/admin/assets/catalog/Klarna_Checkout_Euro/blue-black.png" alt="">
+						    </div>
+					    	<div class="integration-t">
+				    			Klarna Checkout Europe payment gateway<br>Enhanced
+			    			</div>
+		    				<div class="integration-name">
+	    						by Virto Commerce
+						    </div>
+						    <div class="integration-descr">
+							    APIs and UI for
+                                Klarna Checkout Europe
+                                payment gateway.
+						    </div>
+						    <a href="/apps/extensions/klarna-checkout" class="integration-status">Free</a>
+					    </div>
+				    </div>
+				    <div style="padding-left:25px;" class="col">
+					    <div class="integration-item">
+						    <div class="integration-img">
+							    <img style="height:60px;" src="//virtocommerce.com/admin/assets/catalog/Zapier_Integration/Zapier-300x155.png" alt="">
+						    </div>
+						    <div class="integration-t">
+							    Zapier integration module <br>Enhanced
+						    </div>
+						    <div class="integration-name">
+							    by Virto Commerce
+						    </div>
+						    <div class="integration-descr">
+							    APIs for syncing with Zapier.      
+						    </div>
+						    <a href="/apps/extensions/zapier" class="integration-status">Free</a>
+					    </div>
+				    </div>
+				    <div style="padding-right:45px;" class="col">
+					    <div class="integration-item">
+						    <div class="integration-img">
+							    <img style="height:60px;" src="//virtocommerce.com/admin/assets/catalog/HEJ-09262773/logo.png" alt="">
+						    </div>
+						    <div class="integration-t">
+							    Stripe integration module <br>Enhanced
+						    </div>
+						    <div class="integration-name">
+							    by Virto Commerce
+						    </div>
+						    <div class="integration-descr">
+                                Stripe is the best software platform
+                                for running an internet business.
+                                Stripe integration module
+                                allows you to create beautiful
+                                payment flows, write less code
+                                and keep webstore transactions secure.
+						    </div>
+						    <a href="/apps/extensions/stripe-integration-module" class="integration-status">Free</a>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+	    </section>
+        <section class="best-articles-section" data-name="section">
+		<div>
+			<div class="section-t">Best articles from our B2B eCommerce Glossary</div>
+			<div class="cols">
+				<div class="col">
+					<div class="post-item">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/what-is-sku.jpg" alt="">
+                        </div>
+						<div class="post-t">What is an SKU? SKU definition and meaning</div>
+						<div class="post-descr">
+							Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.
+						</div>
+						<a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}" class="post-link">Read more...</a>
+					</div>
+				</div>
+				<div class="col">
+					<div class="post-item">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/dead-stock.jpg" alt="">
+                        </div>
+						<div class="post-t">What is a dead stock? Dead stock definition</div>
+						<div class="post-descr">
+							In this article we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
+						</div>
+						<a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}" class="post-link">Read more...</a>
+					</div>
+				</div>
+				<div class="col">
+					<div class="post-item">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/what-is-backorder-1.jpg" alt="">
+                        </div>
+						<div class="post-t">What is a backorder? Backorder definition</div>
+						<div class="post-descr">
+							Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.
+						</div>
+						<a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}" class="post-link">Read more...</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+    </div>
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>
