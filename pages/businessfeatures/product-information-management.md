@@ -115,7 +115,7 @@ tags :
     <br>
     <img alt="Product Information Management System" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
     <div class="vc-sections-container">
-        <section class="app-blocks-section" data-name="section">
+        <section class="app-blocks-section" data-name="section" style="background-color:white;">
 		    <div class="section-inner">
 			    <div class="section-t">Best B2B eCommerce Platform Integrations</div>
 			    <div class="cols">

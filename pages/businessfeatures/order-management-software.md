@@ -1,4 +1,4 @@
-﻿---
+---
 title: Cloud-based Ecommerce order management software (OMS). Web based distributed order management system
 description: Features of cloud-based order management software by Virto Commerce. This web based order management system can be integrated into complex enterprise workflows - including many leading OMS, IMS, ERP systems. OMS software solution from Virto Commerce.
 date: 2017-07-02
@@ -75,6 +75,114 @@ We have multiple OMS pricing options available, so you can always find one that 
     <img alt="Order Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
     <br>
     <img alt="Order Management Software" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
+     <div class="vc-sections-container">
+        <section class="app-blocks-section" data-name="section" style="background-color:white;">
+		    <div class="section-inner">
+			    <div class="section-t">Best B2B eCommerce Platform Integrations</div>
+			    <div class="cols">
+				    <div style="padding-left:45px;" class="col">
+					    <div class="integration-item">
+						    <div class="integration-img">
+							    <img style="height:50px;" src="//virtocommerce.com/admin/assets/catalog/Paypal_code/paypal_2014_logo.png" alt="">
+						    </div>
+					    	<div class="integration-t">
+				    			Paypal Express Checkout<br>Enhanced
+			    			</div>
+		    				<div class="integration-name">
+	    						by Virto Commerce
+						    </div>
+						    <div class="integration-descr">
+							    Paypal Express Checkout
+                                payment integration.
+						    </div>
+						    <a href="/apps/extensions/paypal" class="integration-status">Free</a>
+					    </div>
+				    </div>
+				    <div style="padding-left:25px;" class="col">
+					    <div class="integration-item">
+						    <div class="integration-img">
+							    <img style="height:60px;" src="//virtocommerce.com/admin/assets/catalog/Altsoft_ShopifyImport/shopify.png" alt="">
+						    </div>
+						    <div class="integration-t">
+							    Import from Shopify module <br>Enhanced
+						    </div>
+						    <div class="integration-name">
+							    by Altsoft
+						    </div>
+						    <div class="integration-descr">
+							   That module allows you
+                               to import existing data
+                               from your Shopify      
+						    </div>
+						    <a href="/apps/extensions/import-from-shopify-to-virtocommerce-platform" class="integration-status">Free</a>
+					    </div>
+				    </div>
+				    <div style="padding-right:45px;" class="col">
+					    <div class="integration-item">
+						    <div class="integration-img">
+							    <img style="height:70px;" src="//virtocommerce.com/admin/assets/catalog/VPC-36447525/surveymonkey.png" alt="">
+						    </div>
+						    <div class="integration-t">
+							    SurveyMonkey integration module <br>Enhanced
+						    </div>
+						    <div class="integration-name">
+							    by Virto Commerce
+						    </div>
+						    <div class="integration-descr">
+                                Surveymonkey integration module
+                                allows you to easily create
+                                polls to evaluate webstore
+                                customer service.
+						    </div>
+						    <a href="/apps/extensions/stripe-integration-module" class="integration-status">Free</a>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+	    </section>
+        <section class="best-articles-section" data-name="section">
+		<div>
+			<div class="section-t">Best articles from our B2B eCommerce Glossary</div>
+			<div class="cols">
+				<div class="col">
+					<div class="post-item">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/order-processing-software.jpg" alt="">
+                        </div>
+						<div class="post-t">Order Processing Software. Order fulfillment system.</div>
+						<div class="post-descr">
+							<span class="list-descr">Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.</span>
+						</div>
+						<a href="{{ '/glossary/order-processing-software' | absolute_url }}" class="post-link">Read more...</a>
+					</div>
+				</div>
+				<div class="col">
+					<div class="post-item">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/purchase-order-management-software-1.jpg" alt="">
+                        </div>
+						<div class="post-t">Purchase Order Management Software System</div>
+						<div class="post-descr">
+							<span class="list-descr">In this article we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.</span>
+						</div>
+						<a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}" class="post-link">Read more...</a>
+					</div>
+				</div>
+				<div class="col">
+					<div class="post-item">
+						<div class="post-img">
+						    <img class="post-pic" src="assets/images/what-is-inventory-management.jpg" alt="">
+                        </div>
+						<div class="post-t">What is inventory management?</div>
+						<div class="post-descr">
+							<span class="list-descr">Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.</span>
+						</div>
+						<a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}" class="post-link">Read more...</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
