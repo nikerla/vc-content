@@ -117,7 +117,7 @@ tags :
     <div class="vc-sections-container">
         <section class="app-blocks-section" data-name="section" style="background-color:white;">
 		    <div class="section-inner">
-			    <div class="section-t">Best B2B eCommerce Platform Integrations</div>
+			    <div class="section-t">Best product information management system intergrations</div>
 			    <div class="cols">
 				    <div style="padding-left:45px;" class="col">
 					    <div class="integration-item">
@@ -182,7 +182,7 @@ tags :
 	    </section>
         <section class="best-articles-section" data-name="section">
 		<div>
-			<div class="section-t">Best articles from our B2B eCommerce Glossary</div>
+			<div class="section-t">Best articles from our product information management glossary</div>
 			<div class="cols">
 				<div class="col">
 					<div class="post-item">

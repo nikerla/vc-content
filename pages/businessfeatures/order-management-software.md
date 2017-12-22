@@ -78,7 +78,7 @@ We have multiple OMS pricing options available, so you can always find one that 
      <div class="vc-sections-container">
         <section class="app-blocks-section" data-name="section" style="background-color:white;">
 		    <div class="section-inner">
-			    <div class="section-t">Best B2B eCommerce Platform Integrations</div>
+			    <div class="section-t">Best distributed order management software integrations</div>
 			    <div class="cols">
 				    <div style="padding-left:45px;" class="col">
 					    <div class="integration-item">
@@ -142,7 +142,7 @@ We have multiple OMS pricing options available, so you can always find one that 
 	    </section>
         <section class="best-articles-section" data-name="section">
 		<div>
-			<div class="section-t">Best articles from our B2B eCommerce Glossary</div>
+			<div class="section-t">Best articles from our order management glossary</div>
 			<div class="cols">
 				<div class="col">
 					<div class="post-item">
