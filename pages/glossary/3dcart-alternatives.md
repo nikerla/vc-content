@@ -36,6 +36,7 @@ tags :
     All this being said, we have to mention that 3rdCart has its downsides, too. One of them being the limited amount of bandwidth that comes with each plan. If your store gets under 50,000 visits, the bandwidth will be enough for you. However, if you’re hitting higher numbers, the platform will charge additional $5 per 1000 visits. </p>
     <p class="text">
     If this looks like it might be an issue for your business, have a look at some of the most prominent 3dcart alternatives. </p>
+    {% include 'vc-magento-banner' with current_url : 'glossary/3dcart-alternatives' %}
     <div class="section-title">Shopify</div>
     <div class="col-w">
         <div class="col __col-30">
@@ -66,7 +67,8 @@ tags :
         What this 3dcart alternative does offer though is a vast knowledge base that can help you with all kinds of questions, as well as guide you through the process of creating your perfect store.  </p>
         <p class="text">
         Just like other large ecommerce platforms (like Shopify and such), this one comes with a large price tag. There are also a lot of add-on fees that can sum up to a noticeable amount of money to pay for a small business owner. </p>
-        <div class="section-title">Virto Commerce</div>
+        {% include 'vc-magento-banner' with current_url : 'glossary/3dcart-alternatives' %}    
+    <div class="section-title">Virto Commerce</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="3dCart alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />

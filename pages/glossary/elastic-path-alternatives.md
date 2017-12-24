@@ -36,6 +36,7 @@ tags :
     Despite the enormous range of features provided by the platform, its open source code can also be a downside for some users. The majority of business owners are not that tech savvy, so they might have a hard time working with this platform. Its lack of blogging software that is becoming more and more common across all solutions can also be a challenge. If this is a critical feature for your business, you might have to install another platform for content management, thus reducing the response speed of the website. </p>
     <p class="text">
     If these issues look like they might be deal breakers for you, here are some of the most popular Elastic Path alternatives. </p>
+    {% include 'vc-magento-banner' with current_url : 'glossary/elastic-path-alternatives' %}
     <div class="section-title">Demandware</div>
     <div class="col-w">
         <div class="col __col-30">
@@ -81,6 +82,7 @@ tags :
             <img alt="Elasticpath Alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
         </div>
     </div>
+    {% include 'vc-magento-banner' with current_url : 'glossary/elastic-path-alternatives' %}
     <p class="text">
         <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">This platform</a> can be used by any kind of business of any size. Whether it is a small one or an enterprise-level company, the platform will provide the necessary functionality and some nifty additional features relevant to your field. </p>
     <p class="text">

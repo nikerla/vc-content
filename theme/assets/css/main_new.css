@@ -2323,3 +2323,127 @@ a
     font-size: 1em;
     font-weight: 700;
 }
+
+.product-info-management .cols,
+.product-info-best-articles .cols
+{
+	margin: 0 -10px;
+
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+
+	-webkit-flex-wrap: wrap;
+			flex-wrap: wrap;
+}
+
+.product-info-management .col
+{
+    width: 25%;
+    display: flex;
+    box-sizing: border-box;
+}
+
+.product-info-management .integration-item
+{
+    background: #fff;
+    box-shadow: 0 0 20px rgba(0,0,0,.15);
+    padding: 20px 20px 45px;
+    position: relative;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.product-info-management .integration-img
+{
+	height: 40px;
+
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+
+	-webkit-align-items: center;
+			align-items: center;
+
+	-webkit-justify-content: center;
+			justify-content: center;
+}
+
+.product-info-management .integration-t
+{
+	font-size: 14px;
+	font-weight: bold;
+	margin: 15px 0;
+	text-transform: uppercase;
+}
+
+.product-info-management .integration-name
+{
+	color: #939393;
+	font-size: 13px;
+}
+
+.product-info-management .integration-descr
+{
+	font-size: 13px;
+	margin: 15px 0;
+}
+
+.product-info-management .integration-status
+{
+    background: #f89406;
+    display: block;
+    color: #fff;
+    position: absolute;
+    font-size: 16px;
+    font-weight: 600;
+    left: 0;
+    bottom: 0;
+    padding: 10px 0;
+    right: 0;
+    text-transform: uppercase;
+}
+
+.product-info-best-articles .col
+{
+	width: 33.3333%;
+}
+
+.product-info-best-articles .post-item
+{
+	text-align: left;
+}
+
+.product-info-best-articles .post-img
+{
+    position:relative;
+    height:185px;
+    overflow:hidden;
+}
+
+.product-info-best-articles .post-pic
+{
+    width: 100%;
+    left:50%;
+    position:absolute;
+    top:52%;
+    transform:translate(-50%, -50%);
+}
+
+.product-info-best-articles .post-t
+{
+	font-size: 16px;
+	font-weight: bold;
+	margin: 10px 0;
+	text-transform: uppercase;
+}
+
+.product-info-best-articles .post-descr,
+.product-info-best-articles .post-link,
+{
+	font-size: 16px;
+}

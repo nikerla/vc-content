@@ -114,6 +114,135 @@ tags :
     <img alt="Product Information Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
     <br>
     <img alt="Product Information Management System" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
+        <section class="product-info-management" data-name="section">
+            <div class="section-inner responsive">
+                <div class="section-t">Best B2B eCommerce Platform Integrations</div>
+                <div class="cols">
+                    <div class="col">
+                        <div class="integration-item">
+                            <div class="integration-img">
+                                <img src="assets/images/b2b/icon-google.png" alt="">
+                            </div>
+                            <div class="integration-t">
+                                Google Analitics <br>Enhanced
+                            </div>
+                            <div class="integration-name">
+                                by Virto Commerce
+                            </div>
+                            <div class="integration-descr">
+                                Google Ecommerce
+                                Analytics module allows
+                                you to use the newly launched
+                                feature of Google Analytics -
+                                Enchanced Ecommerce.
+                            </div>
+                            <a href="/apps/extensions/google-analytics-enhanced-ecommerce" class="integration-status">Free</a>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="integration-item">
+                            <div class="integration-img">
+                                <img style="height:90px;" src="//virtocommerce.com/admin/assets/catalog/3f99c499-cd54-4fa7-8ffe-26e9eeae1ca0.png" alt="">
+                            </div>
+                            <div class="integration-t">
+                                Mailchimp integration with Virto Commerce <br>Enhanced
+                            </div>
+                            <div class="integration-name">
+                                by Virto Commerce
+                            </div>
+                            <div class="integration-descr">
+                                Integration with MailChimp
+                                newsletters sending system.
+                            </div>
+                            <a href="/apps/extensions/mailchimp" class="integration-status">Free</a>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="integration-item">
+                            <div class="integration-img">
+                                <img src="assets/images/b2b/icon-sendgrid.png" alt="">
+                            </div>
+                            <div class="integration-t">
+                                SendGrid Integration module <br>Enhanced
+                            </div>
+                            <div class="integration-name">
+                                by Virto Commerce
+                            </div>
+                            <div class="integration-descr">
+                                Provide email
+                                marketing campaigns using
+                                SendGrid innovative module.
+                            </div>
+                            <a href="/apps/extensions/sendgrid-email-marketing" class="integration-status">Free</a>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="integration-item">
+                            <div class="integration-img">
+                                <img style="height:75px;" src="//virtocommerce.com/admin/assets/catalog/FHQ-67784017/NewLogo.jpg" alt="">
+                            </div>
+                            <div class="integration-t">
+                                Marketo Integration module <br>Enhanced
+                            </div>
+                            <div class="integration-name">
+                                by Virto Commerce
+                            </div>
+                            <div class="integration-descr">
+                                Attract more buyers,
+                                nurture leads,
+                                identify opportunities
+                                and deliver sales orders
+                                with Marketo integration.
+                            </div>
+                            <a href="/apps/extensions/marketo-marketing-automation" class="integration-status">Free</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="product-info-best-articles" data-name="section">
+            <div class="section-inner responsive">
+                <div class="section-t">Best articles from our B2B eCommerce Glossary</div>
+                <div class="cols">
+                    <div class="col">
+                        <div class="post-item">
+                            <div class="post-img">
+                                <img class="post-pic" src="assets/images/what-is-b2b-ecommerce.jpg" alt="">
+                            </div>
+                            <div class="post-t">What is business to business ecommerce? B2B ecommerce examples</div>
+                            <div class="post-descr">
+                                Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.
+                            </div>
+                            <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}" class="post-link">Read more...</a>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="post-item">
+                            <div class="post-img">
+                                <img class="post-pic" src="assets/images/b2becommerce.jpg" alt="">
+                            </div>
+                            <div class="post-t">B2B Ecommerce trends</div>
+                            <div class="post-descr">
+                                In this article we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
+                            </div>
+                            <a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}" class="post-link">Read more...</a>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="post-item">
+                            <div class="post-img">
+                                <img class="post-pic" src="assets/images/what-is-b2b-ecommerce.jpg" alt="">
+                            </div>
+                            <div class="post-t">Top B2B e commerce sites and companies</div>
+                            <div class="post-descr">
+                                Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.
+                            </div>
+                            <a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}" class="post-link">Read more...</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>

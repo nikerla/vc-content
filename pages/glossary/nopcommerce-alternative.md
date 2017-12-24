@@ -36,8 +36,9 @@ tags:
             <li><strong> SEO optimization. </strong> All the web stores built on this platform receive high visibility and rankings in all of the search engines, which makes it possible to promote your products easily.</p>
      </div>
      <div class="text">
-            <p>Still, there is no perfect and universal Shopping Cart solution for your business. Even such a popular application as NopCommerce has its downsides, so it’s important to find the right platform for YOU! Therefore, let’s take a look at some of the alternatives to NopCommerce. </p>
-            <p>Before we start, however, we should highlight certain features that you should pay careful attention to while choosing <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}">the best platform</a>. </p>
+         <p>Still, there is no perfect and universal Shopping Cart solution for your business. Even such a popular application as NopCommerce has its downsides, so it’s important to find the right platform for YOU! Therefore, let’s take a look at some of the alternatives to NopCommerce. </p>
+         {% include 'vc-magento-banner' with current_url : 'glossary/nopcommerce-alternative' %}   
+         <p>Before we start, however, we should highlight certain features that you should pay careful attention to while choosing <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}">the best platform</a>. </p>
         <ol>
             <li><strong> Open source vs. closed source.  </strong> This is a debate that has been held for too long, but it essentially comes down to one simple thing: if coding is a no-brainer to you, choose open-source and customize the store in any way you desire, but, if coding is not your primary skill, choose a closed source platform where most of the things will be done by the platform. Here is another thing to consider - open-source platforms are almost entirely free to any businesses, but, they lack security. On the other hand, closed-source solutions can get pricey, but they deliver top-notch security protocols to you.</p>
             <li><strong> Plugins and Addons. </strong> Always look for a solution that can be expanded by the plugins and add-ons easily. The platform should uncover your store’s true potential and add value to your products. </p>
@@ -70,6 +71,7 @@ tags:
          <a href="https://www.ecwid.com/" rel="nofollow">Ecwid</a> is a NopCommerce alternative that is a web-based online store building solution which is designed for businesses that already have existing websites. It is particularly designed not for building an e-commerce store from scratch, but rather adding a store into an existing website. Despite only being a widget, not a full-fledged e-commerce website, it doesn’t lack any features that would be crucial for creating a successful online store. The other great thing about this particular alternative to NopCommerce is that it can be embedded not only on a website but also into a business page in any social network. You can also create multiple storefronts, which can all be managed by a single account. 
         </div>
     </div>
+    {% include 'vc-magento-banner' with current_url : 'glossary/nopcommerce-alternative' %}
     <div class="section-title">VirtoCommerce</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">

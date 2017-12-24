@@ -42,6 +42,7 @@ tags :
     <p class="text">
     If this is the case for you, here are some alternative solutions and Znode competitors.
     </p>
+    {% include 'vc-magento-banner' with current_url : 'glossary/znode-alternatives' %}
     <div class="section-title">Big Cartel</div>
     <div class="col-w">
         <div class="col __col-30">
@@ -95,6 +96,7 @@ tags :
             The community is very active and gives you the necessary support along the way of setting up your web store. The solution is very flexible in its usage, allowing you to have as much freedom as you need, while at the same time, having the most complicated processes already set up. Overall it’s an affordable all-in-one solution for all of your e-commerce needs with the possibility of web-hosting adaptation.  
         </div>
     </div>
+    {% include 'vc-magento-banner' with current_url : 'glossary/znode-alternatives' %}
     <div class="section-title">Virto Commerce</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
