@@ -75,7 +75,7 @@ We have multiple OMS pricing options available, so you can always find one that 
     <img alt="Order Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
     <br>
     <img alt="Order Management Software" src="../assets/images/oms-poms-pim-screenshot-1.jpg" />
-     <div class="vc-sections-container">
+    <div class="vc-sections-container">
         <section class="app-blocks-section" data-name="section" style="background-color:white;">
 		    <div class="section-inner">
 			    <div class="section-t">Best distributed order management software integrations</div>
@@ -141,7 +141,6 @@ We have multiple OMS pricing options available, so you can always find one that 
 		    </div>
 	    </section>
         <section class="best-articles-section" data-name="section">
-		<div>
 			<div class="section-t">Best articles from our order management glossary</div>
 			<div class="cols">
 				<div class="col">
@@ -151,7 +150,7 @@ We have multiple OMS pricing options available, so you can always find one that 
                         </div>
 						<div class="post-t">Order Processing Software. Order fulfillment system.</div>
 						<div class="post-descr">
-							<span class="list-descr">Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.</span>
+							<span class="list-descr"> Virto Commerce’s order processing software is very flexible and easy to integrate into your existing order management system.</span>
 						</div>
 						<a href="{{ '/glossary/order-processing-software' | absolute_url }}" class="post-link">Read more...</a>
 					</div>
@@ -163,7 +162,7 @@ We have multiple OMS pricing options available, so you can always find one that 
                         </div>
 						<div class="post-t">Purchase Order Management Software System</div>
 						<div class="post-descr">
-							<span class="list-descr">In this article we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.</span>
+							<span class="list-descr">With Virto Commerce’s Purchase Order Management Software, you can greatly improve customer service and stay on top in your business field.</span>
 						</div>
 						<a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}" class="post-link">Read more...</a>
 					</div>
@@ -175,14 +174,13 @@ We have multiple OMS pricing options available, so you can always find one that 
                         </div>
 						<div class="post-t">What is inventory management?</div>
 						<div class="post-descr">
-							<span class="list-descr">Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.</span>
+							<span class="list-descr">When we ask “what is inventory management?” the answer is pretty straight forward. Inventory management (or stock management) is literally the process of managing a business’ inventory and stock.</span>
 						</div>
 						<a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}" class="post-link">Read more...</a>
 					</div>
 				</div>
 			</div>
-		</div>
-	</section>
+	    </section>
 		<div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
 			<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>

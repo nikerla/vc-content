@@ -191,9 +191,9 @@ tags :
                         </div>
 						<div class="post-t">What is an SKU? SKU definition and meaning</div>
 						<div class="post-descr">
-							Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.
+							B2B ecommerce has become vital to the global economy. Following the most recent predictions, by 2020, all B2B ecommerce revenue will be around 6.7 trillion USD by 2020.
 						</div>
-						<a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}" class="post-link">Read more...</a>
+						<a href="{{ '/glossary/what-is-sku' | absolute_url }}" class="post-link">Read more...</a>
 					</div>
 				</div>
 				<div class="col">
@@ -203,9 +203,9 @@ tags :
                         </div>
 						<div class="post-t">What is a dead stock? Dead stock definition</div>
 						<div class="post-descr">
-							In this article we would like to highlight the most prominent B2B ecommerce trends of 2016 and take a look at the ones that are going to be useful for your business and increase your sales in 2017.
+							First of all, what does dead stock mean (or what does headstock mean)? Take a close look at your warehouse. The products might be selling well, but with every change of seasonal collections..
 						</div>
-						<a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}" class="post-link">Read more...</a>
+						<a href="{{ '/glossary/what-is-a-dead-stock' | absolute_url }}" class="post-link">Read more...</a>
 					</div>
 				</div>
 				<div class="col">
@@ -215,9 +215,9 @@ tags :
                         </div>
 						<div class="post-t">What is a backorder? Backorder definition</div>
 						<div class="post-descr">
-							Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.
+							First of all, let’s establish a backorder definition – what does back order mean? Assume your business is doing well. Actually, it’s doing fantastic! The sales are so great you start struggling to keep up with the demand. How do you address this?
 						</div>
-						<a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}" class="post-link">Read more...</a>
+						<a href="{{ '/glossary/what-is-backorder' | absolute_url }}" class="post-link">Read more...</a>
 					</div>
 				</div>
 			</div>
