@@ -36,6 +36,10 @@ tags :
             <p class="text">Without a centralized location for storing data, companies rely on tedious and time-consuming spreadsheet-based manual data management as their product information management solutions, which makes it virtually impossible to satisfy the increasing demands of ecommerce markets. </p>
             <p class="text">Product information management systems offer the concept of entering and storing the product information once in a single place. This place is the source from which that information is then distributed without needing to be re-entered manually into a number of different systems. There is no need to spread all across your data, as you can easily manage, consolidate and improve media websites, ERP systems, print catalogs, and data feeds by implementing useful product information management tools. Therefore, if your goal is to find a product information management system that is centralized, offers independent data maintenance and collection product information, management capabilities are the right fit for you!</p>
         <p class="text"> </p>
+        <div class="buttons">
+			<a class="button fill" href="/try-now">Try It Now</a>
+            <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+		</div>
     <h2>Reasons for product information management solutions growth</h2>
     <p class="text">Product information management tools are mostly used to keep customers, stakeholders, and partners informed about all the updates in product related information. After products and services are created and added to the catalog, the status of materials, equipment, suppliers, distributors, etc. can change, often multiple times. Product information management system will note these changes and communicate promptly to maximize efficiency and minimize the impact of changes on the sales cycle. Product information management software allows for faster time to market, increases operational efficiency, and promotes sales growth. </p>
     <p class="text">The concept behind PIM management (product information management) has gained its prominence around 2003 due to dramatic increase in the ecommerce market share and popularity of online stores. </p>
@@ -66,7 +70,11 @@ tags :
     <p class="text">•	360 degrees product overview will satisfy the customers’ demands for the full view of the entire products.</p>
     <p class="text">•	Cloud: Product data that can be stored in the cloud prevents you from unexpected data loss and increases the number of available data to the customer at a given moment.</p>
     <p class="text">In the end, while looking for your perfect product information management system, always consider your end goals and ways meeting them. This article helps you to discover the qualities that each PIM should possess. If you are striving for a successful ecommerce website, you must consider enriching your data with modern PIM (product information management) software.</p>
-		<h2 class="sub-title">Product information management software by Virto Commerce</h2>
+    <div class="buttons">
+			<a class="button fill" href="/try-now">Try It Now</a>
+            <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+    </div>
+    <h2 class="sub-title">Product information management software by Virto Commerce</h2>
     <br>
         <div class="col-w">
             <div class="col __col-50">
@@ -109,6 +117,10 @@ tags :
             <p class="text">•	Agile sprints and frequent code pushes.</p>
             <p class="text">•	Large volumes of constantly changing structured, semi-structured, and unstructured data.</p>
             <p class="text">•	Flexible and easily scalable architecture.</p>
+            <div class="buttons">
+			    <a class="button fill" href="/try-now">Try It Now</a>
+                <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+		    </div>
             <h2>Product Information Management Software Screenshots</h2>
             <br>
     <img alt="Product Information Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />
@@ -227,6 +239,7 @@ tags :
 		<div class="buttons columns">
 			<div class="column">
 				<a class="button fill" href="/try-now">Try It Now</a>
+                <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 			</div>
 		</div>
 	</div>
