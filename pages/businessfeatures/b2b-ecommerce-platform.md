@@ -382,7 +382,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
 				<div class="col">
 					<div class="post-item">
 						<div class="post-img">
-						    <img class="post-pic" src="assets/images/b2becommerce.jpg" alt="">
+						    <img class="post-pic" src="assets/images/blog/top-4-challenges-in-enterprise.jpg" alt="">
                         </div>
 						<div class="post-t">B2B Ecommerce trends</div>
 						<div class="post-descr">
@@ -394,7 +394,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
 				<div class="col">
 					<div class="post-item">
 						<div class="post-img">
-						    <img class="post-pic" src="assets/images/what-is-b2b-ecommerce.jpg" alt="">
+						    <img class="post-pic" src="assets/images/blog/vc-latest-updates.jpg" alt="">
                         </div>
 						<div class="post-t">Top B2B e commerce sites and companies</div>
 						<div class="post-descr">
