@@ -30,7 +30,8 @@ tags :
                 <img alt="Product information management software" src="../assets/images/pim.jpg" />
             </div>
             <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
-                <p class="text"><strong>Product Information Management Software (PIM)</strong> is a solution that is used to market and sell various types of products via distribution channels. PIM coordinates changing product information across all channels of communication, thus ensuring that a business’s entire ecosystem has consistent and up-to-date information. Wikipedia offers the following definition: “Product information management or PIM refers to processes and technologies focused on centrally managing information about products, with a focus on the data required to market and sell the products through one or more distribution channels”. </p>
+                <h2>What is product information management? Product information management software meaning.</h2>
+                <p class="text"><strong>Product Information Management Software (PIM)</strong> is a solution that is used to market and sell various types of products via distribution channels. Product information management tools coordinate changing product information across all channels of communication, thus ensuring that a business’s entire ecosystem has consistent and up-to-date information. Wikipedia offers the following definition: “Product information management or PIM refers to processes and technologies focused on centrally managing information about products, with a focus on the data required to market and sell the products through one or more distribution channels”. </p>
                 </div>
         </div>
             <p class="text">Without a centralized location for storing data, companies rely on tedious and time-consuming spreadsheet-based manual data management as their product information management solutions, which makes it virtually impossible to satisfy the increasing demands of ecommerce markets. </p>
@@ -62,7 +63,7 @@ tags :
     <p class="text">•	Work with effective search engine software; </p>
     <p class="text">•	Manage product listings and organize them into categories; </p>
     <p class="text">•	Promote and market products using retail, social media and sales channels.</p>
-    <p class="text">There are many product information management tools with open source architecture that will help you create your data repository in no time and get your products to the right sales channels quickly. If you are able to get your data quickly you can pass it to all your retailers and marketplaces rapidly by utilizing product information management system.</p>
+    <p class="text">There are many product information management tools with open source architecture that will help you create your data repository in no time and get your products to the right sales channels quickly. If you are able to get your data quickly you can pass it to all your retailers and marketplaces rapidly by utilizing product information management solutions.</p>
     <p class="text">Content gaps? With product information <a href="{{ 'https://virtocommerce.com/order-management-software' | absolute_url }}">management software</a> open source solutions you can measure the completeness of your product content, locate information gaps and perform changes to satisfy any of your company’s requirement or industry standard.</p>
     <p class="text">If your end goal is to provide your customers with the best customer experience, a PIM (product information management) system lets you match customer profiles with their preferences and with the product description. This allows for a personalized service and for increased conversion along with great customer experience. Some of the best trends and practices that good PIM (product information management) tools can offer are:</p>
     <p class="text">•	Data quality: multiple organizations have already implemented PIM in their best practices. Now, however, the focus has shifted towards optimization of those large amounts of data.</p>
@@ -86,7 +87,7 @@ tags :
               </div>
         </div>
             <p class="text">Manage digital and physical products’ categories, images, and descriptions with flexible properties structures, making your data consistent across all channels. Virto Commerce catalog can be configured to handle all your catalog information, or integrated with 3rd party PIM or CMS solutions. All digital assets can be stored in any popular Content Distribution Network (CDN). You can manage your catalog’s product categories, images, and descriptions from one place, making your data consistent across all channels. </p>
-            <p class="text">For a global business, the platform and its product information management system support multiple catalogs, languages, taxes and storefronts.</p>
+            <p class="text">For a global business, the platform and its product information management software support multiple catalogs, languages, taxes and storefronts.</p>
             <h2>Product information management system features</h2>
             <h4>Multi-store catalogs</h4>
             <p class="text">Use the Virto Commerce product information management tools to run multiple stores with their customized product catalogs from within a single platform. Our Product Information Management system allows you to:</p>
@@ -95,7 +96,7 @@ tags :
             <p class="text">•	Handle multiple stores with different language localizations and currencies.</p>
             <p class="text">•	Configure each store with unique options for payment, taxes, shipping, etc.</p>
             <h4>Physical and Digital products</h4>
-            <p class="text">Virto Commerce Product Management System (PIM) allows you to provide high-quality product information to a variety of sales channels. All the published product info can be easily located within the <strong>product information management system</strong>, accessed and changed from a single place. All changes made at any time will be applied across all your sales channels.</p>
+            <p class="text">Virto Commerce Product Information Management System (PIM) allows you to provide high-quality product information to a variety of sales channels. All the published product info can be easily located within the <strong>PIM management tools</strong>, accessed and changed from a single place. All changes made at any time will be applied across all your sales channels.</p>
             <p class="text">Manage your Inventory List, Product details, Product history, etc. effortlessly from one location!</p>
             <p class="text">Each product page can be configured to include: </p>
             <p class="text">•	multiple images;</p>
@@ -203,7 +204,7 @@ tags :
                         </div>
 						<div class="post-t">What is an SKU? SKU definition and meaning</div>
 						<div class="post-descr">
-							B2B ecommerce has become vital to the global economy. Following the most recent predictions, by 2020, all B2B ecommerce revenue will be around 6.7 trillion USD by 2020.
+							The SKU abbreviation stands for Stock Keeping Unit. It is a term commonly used in retail, specifically when talking about inventory and product information management.
 						</div>
 						<a href="{{ '/glossary/what-is-sku' | absolute_url }}" class="post-link">Read more...</a>
 					</div>
@@ -215,7 +216,7 @@ tags :
                         </div>
 						<div class="post-t">What is a dead stock? Dead stock definition</div>
 						<div class="post-descr">
-							First of all, what does dead stock mean (or what does headstock mean)? Take a close look at your warehouse. The products might be selling well, but with every change of seasonal collections..
+							The dead stock definition in product information management solutions is essentially a stock of products that are not likely to ever leave the shelves. A common mistake of your retail businesses is not doing anything to get rid of their dead stock,
 						</div>
 						<a href="{{ '/glossary/what-is-a-dead-stock' | absolute_url }}" class="post-link">Read more...</a>
 					</div>
