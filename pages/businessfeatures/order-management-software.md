@@ -19,7 +19,7 @@ tags:
     {% include 'features-left-menu' %}
     <div class="business-cnt">
         <div class="head __cart">
-            <h1 class="title">Ecommerce Order Management Software (distributed OMS software). Online order management system.</h1>
+            <h1 class="title">Ecommerce Order Management Software (distributed OMS software features and pricing). Online order management system.</h1>
         </div>
         <h2>Cloud-based Order Management Software. OMS system functionality and software pricing.</h2>
         <div class="col-w">
