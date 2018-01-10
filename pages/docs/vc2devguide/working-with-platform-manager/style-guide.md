@@ -1,4 +1,4 @@
-﻿---
+---
 title: Style Guide
 description: The article contains Virto Commerce style guide
 layout: docs
@@ -9,8 +9,8 @@ priority: 3
 
 Virto Commerce Platform Style Guide will help you develop consistent modules for the platform. You can use existing styles described in our online [Style Guide](https://virtocommerce.com/styleguide/index.html)[ ]()or you can add additional styles using the rules described below.
 
-* [Style Guide](https://virtocommerce.com/styleguide/index.html) - guidance on css and html to be used when creating UI for the platform
-* [Blade Constructor](https://virtocommerce.com/styleguide/blade-constructor.html) - use to create your custom blades
+* [Style Guide](https://virtocommerce.com/guides/style-guide) - guidance on css and html to be used when creating UI for the platform
+* [Blade Constructor](https://virtocommerce.com/guides/blade-constructor) - use to create your custom blades
 
 ## Rules
 

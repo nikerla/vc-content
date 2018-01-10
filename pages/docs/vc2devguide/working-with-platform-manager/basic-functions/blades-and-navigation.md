@@ -1,4 +1,4 @@
-﻿---
+---
 title: Blades and navigation
 description: The article describes blades and navigation in Virto Commerce
 layout: docs
@@ -15,7 +15,7 @@ UI is organized and divided into panels called blades. Blades are ordered from l
 
 ## Blade structure and properties
 
-Every blade is instantiated from a highly customizable template. The template has basic parts such as Maximize, Close buttons on the top and the title, toolbar, main content placeholders following down. We've created a "Blade constructor" page demonstrating all the customization possibilities and allowing to "construct a blade on the fly". Despite the completeness, "Blade constructor" is a useful resource for quick reference too. Check it out at [https://virtocommerce.com/styleguide/blade-constructor.html](https://virtocommerce.com/styleguide/blade-constructor.html).
+Every blade is instantiated from a highly customizable template. The template has basic parts such as Maximize, Close buttons on the top and the title, toolbar, main content placeholders following down. We've created a "Blade constructor" page demonstrating all the customization possibilities and allowing to "construct a blade on the fly". Despite the completeness, "Blade constructor" is a useful resource for quick reference too. Check it out at [https://virtocommerce.com/guides/blade-constructor](https://virtocommerce.com/guides/blade-constructor).
 
 The blade object has the following properties that VirtoCommerce platform respects:
 

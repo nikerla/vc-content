@@ -1,4 +1,4 @@
-﻿@if "%SCM_TRACE_LEVEL%" NEQ "4" @echo off
+@if "%SCM_TRACE_LEVEL%" NEQ "4" @echo off
 
 :: ----------------------
 :: KUDU Deployment Script
@@ -27,7 +27,7 @@ IF NOT DEFINED DEPLOYMENT_SOURCE (
 )
 
 IF NOT DEFINED DEPLOYMENT_TARGET (
-    SET DEPLOYMENT_TARGET=%ARTIFACTS%\wwwroot
+    SET DEPLOYMENT_TARGET=%ARTIFACTS%\wwwroot\wwwroot
 )
 
 IF NOT DEFINED NEXT_MANIFEST_PATH (
@@ -60,7 +60,7 @@ IF NOT DEFINED DEPLOYMENT_TEMP (
 set pages_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\pages\vccom
 set theme_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\themes\vccom\default
 
-xcopy "%DEPLOYMENT_SOURCE%\wwwroot\*.*" "%DEPLOYMENT_TEMP%" /S /R /Y /I
+xcopy "%DEPLOYMENT_SOURCE%\wwwroot\wwwroot\*.*" "%DEPLOYMENT_TEMP%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
 
 xcopy "%DEPLOYMENT_SOURCE%\pages\*.*" "%pages_target%" /S /R /Y /I

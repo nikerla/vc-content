@@ -1,4 +1,4 @@
-﻿---
+---
 author: VirtoCommerce
 category: release
 date: 2015-06-10 22:07
@@ -7,7 +7,7 @@ permalink: blog/virtocommerce-2-1-release-notes
 tags: [20, announcements, aspnet, azure, cms, dashboards, ecommerce, ecommerce-permissions, enterprise-ecommerce, features, microsoft-cloud, open-source, platform]
 title: "Virto Commerce 2.1 Release Notes"
 ---
-For the 2.1 release we focused on making the experience of creating a new store easier and quicker. There is also much more documentation now, including complete a <a href="https://virtocommerce.com/styleguide/index.html" target="_blank">platform style guide</a>.
+For the 2.1 release we focused on making the experience of creating a new store easier and quicker. There is also much more documentation now, including complete a <a href="https://virtocommerce.com/guides/style-guide" target="_blank">platform style guide</a>.
 
 You can see the latest demo as well as download our source code at: <a href="https://virtocommerce.com/try-now" target="_blank">https://virtocommerce.com/try-now</a>.
 
@@ -22,7 +22,7 @@ Here is the list of new features and improvements in 2.1:
 * **Dynamic Conditions and Price List Assignments** - added dynamic conditions including GEO location attributes
 * **Content Publishing** - added support for quickly adding dynamic content placeholders in frontend site themes
 * **Frontend** - improvements to payment &amp; shipping options display, added price filters, custom error pages and much more
-* <a href="https://virtocommerce.com/styleguide/index.html" target="_blank">Platform Style Guide</a>
+* <a href="https://virtocommerce.com/guides/style-guide" target="_blank">Platform Style Guide</a>
 * [Creating Shipping Gateways](docs/vc2devguide/extending-commerce/creating-new-shipping-method)
 
 ## Catalog  Export &amp; Import functionality
