@@ -60,12 +60,19 @@ IF NOT DEFINED DEPLOYMENT_TEMP (
 set pages_target=%DEPLOYMENT_TEMP%\wwwroot\App_Data\cms-content\pages\vccom
 set theme_target=%DEPLOYMENT_TEMP%\wwwroot\App_Data\cms-content\themes\vccom\default
 
-xcopy "%DEPLOYMENT_SOURCE%\wwwroot\*.*" "%DEPLOYMENT_TEMP%" /S /R /Y /I
+:: Copy IISUrlRewrite to the site root IISUrlRewrite.xml -> \
+xcopy "%DEPLOYMENT_SOURCE%\IISUrlRewrite.xml" "%DEPLOYMENT_TEMP%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
 
+:: Copy all files form  wwwroot\*.* -> wwwroot\wwwroot\*.* site folder
+xcopy "%DEPLOYMENT_SOURCE%\wwwroot\*.*" "%DEPLOYMENT_TEMP%\wwwroot" /S /R /Y /I
+IF !ERRORLEVEL! NEQ 0 goto error
+
+:: Copy all files form  pages\*.* -> wwwroot\cms-content\pages\vccom 
 xcopy "%DEPLOYMENT_SOURCE%\pages\*.*" "%pages_target%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
 
+:: Copy all files form  pages\*.* -> wwwroot\cms-content\themes\vccom\default 
 xcopy "%DEPLOYMENT_SOURCE%\theme\*.*" "%theme_target%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
 
