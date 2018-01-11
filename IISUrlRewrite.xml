@@ -155,6 +155,13 @@
         </rewriteMap>
     </rewriteMaps>
     <rules>
+        <rule name="Robots.txt for production domain only" stopProcessing="true">
+            <match url="robots.txt" />
+            <conditions>
+                <add input="{HTTP_HOST}" pattern="^(virtocommerce\.com)$" negate="true"/>
+            </conditions>
+            <action type="Rewrite" url="/robots.staging.txt" />
+        </rule>
         <rule name="Redirect Blogs to Blog" stopProcessing="true">
             <match url="^blogs/news/(.+)" />
             <conditions trackAllCaptures="true" />
