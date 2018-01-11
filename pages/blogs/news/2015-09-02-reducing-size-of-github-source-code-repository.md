@@ -1,4 +1,4 @@
-﻿---
+---
 author: VirtoCommerce
 category: technical
 date: 2015-09-02 14:21
@@ -66,7 +66,7 @@ To https://github.com/VirtoCommerce/vc-community.git
 ! [remote rejected] refs/pull/37/merge -&gt; refs/pull/37/merge (deny updating a hidden ref)
 ! [remote rejected] refs/pull/4/head -&gt; refs/pull/4/head (deny updating a hidden ref)
 ! [remote rejected] refs/pull/4/merge -&gt; refs/pull/4/merge (deny updating a hidden ref)
-error: failed to push some refs to 'https://github.com/VirtoCommerce/vc-community.git'`
+error: failed to push some refs to https://github.com/VirtoCommerce/vc-community.git
 </span>
 
 So it failed to rewrite some hidden references and the size of the repository on GitHub is 94 MB, but if you make a common clone, it shrinks to 14 MB.
