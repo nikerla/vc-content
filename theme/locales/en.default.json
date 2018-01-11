@@ -26,6 +26,10 @@
             "microsoft": "Microsoft Gold certificated Partner",
             "azure": "Windows Azure"
         },
+        "breadcrumbs": {
+            "home": "Home",
+            "home_link_title": "Back to the frontpage"
+        },
         "search": {
             "placeholder": "Search",
             "title": "Search for products on our site",
@@ -44,7 +48,7 @@
             "web": "CSS 3, HTML 5, Jquery, Bootstrap",
             "angular_js": "Angular JS"
         },
-        "copyright": "Copyright &copy; 2011-2017 Virto Commerce &copy;. All rights reserved",
+        "copyright": "Copyright &copy; 2011-2018 Virto Commerce &copy;. All rights reserved",
         "terms": "Terms",
         "privacy": "Privacy",
         "shopping_cart": "ASP.NET Shopping Cart"
