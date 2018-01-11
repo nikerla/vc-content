@@ -25,6 +25,6 @@ With this new Virto Commerce feature, the following changes and additions are av
 
 •	Search service should provide ability to order by distance from geo-point.
 
-<i>"We're happy to offer this new service to our users. Finding the closest branches in B2B scenario is now a part of our offered B2B solution. Geolocation options are extremely useful for many types of stores and we hope our customers will find this new feature beneficial."</i> - ALEXANDER SINIOUGUINE, CEO OF VIRTO COMMERCE.
+<i>"We're happy to offer this new service to our users. Finding the closest branches in B2B scenario is now a part of our offered B2B solution. Geolocation options are extremely useful for many types of stores and we hope our customers will find this new feature beneficial."</i> - Alexander Siniouguine, CEO of Virto Commerce. 
 
 Please check this page for details: https://github.com/VirtoCommerce/vc-module-catalog/issues/84.
