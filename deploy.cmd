@@ -27,7 +27,7 @@ IF NOT DEFINED DEPLOYMENT_SOURCE (
 )
 
 IF NOT DEFINED DEPLOYMENT_TARGET (
-    SET DEPLOYMENT_TARGET=%ARTIFACTS%\wwwroot\wwwroot
+    SET DEPLOYMENT_TARGET=%ARTIFACTS%\wwwroot
 )
 
 IF NOT DEFINED NEXT_MANIFEST_PATH (
@@ -57,8 +57,8 @@ IF NOT DEFINED DEPLOYMENT_TEMP (
 :: ----------
 
 :: Build to the temporary path
-set pages_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\pages\vccom
-set theme_target=%DEPLOYMENT_TEMP%\App_Data\cms-content\themes\vccom\default
+set pages_target=%DEPLOYMENT_TEMP%\wwwroot\App_Data\cms-content\pages\vccom
+set theme_target=%DEPLOYMENT_TEMP%\wwwroot\App_Data\cms-content\themes\vccom\default
 
 xcopy "%DEPLOYMENT_SOURCE%\wwwroot\*.*" "%DEPLOYMENT_TEMP%" /S /R /Y /I
 IF !ERRORLEVEL! NEQ 0 goto error
