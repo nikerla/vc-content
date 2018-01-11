@@ -19,7 +19,7 @@ What’s more exciting for a software developer than to talk about all the cool 
 
 **Product Recommendation Feature**
 
-The Product Recommendation Feature is one of our most recent pre-releases and is now being tested. The feature uses machine learning and data science principles to analyze a customer’s shopping behavior and filter products by predicting, what might interest them. 
+The <a href="{{ '/glossary/product-recommendation-engine' | absolute_url }}"> Product Recommendation</a> Feature is one of our most recent pre-releases and is now being tested. The feature uses machine learning and data science principles to analyze a customer’s shopping behavior and filter products by predicting, what might interest them. 
 
 It connects your existing users with the right items in your catalog that they might not have found otherwise; helping you personalize buyers’ experience, boost sales and increase customer retention.
 

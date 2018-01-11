@@ -36,7 +36,8 @@ tags :
     Despite the enormous range of features provided by the platform, its open source code can also be a downside for some users. The majority of business owners are not that tech savvy, so they might have a hard time working with this platform. Its lack of blogging software that is becoming more and more common across all solutions can also be a challenge. If this is a critical feature for your business, you might have to install another platform for content management, thus reducing the response speed of the website. </p>
     <p class="text">
     If these issues look like they might be deal breakers for you, here are some of the most popular Elastic Path alternatives. </p>
-    <h2>Demandware</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/elastic-path-alternatives' %}
+    <div class="section-title">Demandware</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="ElasticPath Alternatives - Demandware" src="assets/images/demandware.jpg" />
@@ -48,7 +49,7 @@ tags :
         </div>
         <p class="text">
         The only bad thing about this particular alternative to Elasticpath is its human resource requirements, meaning you might need to hire a professional programmer. However, you are looking for an enterprise solution and have the development power and resources to manage Demandware’s top features and practices, then you should definitely look into this ecommerce platform. </p>
-    <h2>Ecwid</h2>
+    <div class="section-title">Ecwid</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            With this platform you can embed a personal web store into an already existing page, so you won’t need to go through the entire sophisticated process of setting it up yourself. The web store requires almost no technical experience, as the <a href="https://www.ecwid.com/" rel="nofollow">Ecwid's</a> builder is pretty intuitive. It also gives you the maximum amount of tools possible without limiting your creativity. 
@@ -61,7 +62,7 @@ tags :
         As a result you will get a full-fledged web store with all the important features you would want to see in one. Worried about how it is going to look? Worry no more, as you will have a tremendous amount of templates available to you, specifically designed to fit your web store’s needs. Feel free to add product listings, manage your products and add images. See the reviews posted by your customers and enable the social media marketing feature to bring your product to more and more potential clients. </p>
         <p class="text">
         The products in your web store will be naturally organized by categories, with the option of a search tool and filtered search. You can also publish your store on Facebook or any other personal website or blog, and enjoy the pocket version of an ecommerce store with the same features.</p>
-        <h2>Magento</h2>
+        <div class="section-title">Magento</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Elasticpath Alternatives - Magento" src="assets/images/magento-1.jpg" />
@@ -76,18 +77,19 @@ tags :
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            When choosing Virto Commerce as an Elasticpath alternative, you can be confident that you are using the platform that is best suited for any of your ecommerce needs. This platform is an open source solution, however, there will be no stress involved for a person who is not all that familiar with coding. Thanks to cutting edge .NET 4.5 framework and technologies like Angular and Liquid on which the platform is built upon, it provides an easy set-up and operation. You will be able to build your website in no time and start selling fast. 
-           </div>
+        </div>
         <div class="col __col-30">
             <img alt="Elasticpath Alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
-            </div>
         </div>
-        <p class="text">
+    </div>
+    {% include 'vc-magento-banner' with current_url : 'glossary/elastic-path-alternatives' %}
+    <p class="text">
         <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">This platform</a> can be used by any kind of business of any size. Whether it is a small one or an enterprise-level company, the platform will provide the necessary functionality and some nifty additional features relevant to your field. </p>
-        <p class="text">
+    <p class="text">
         The simplicity of the platform’s user interface and its <a href="{{ '/glossary/agile-software-platform' | absolute_url }}">agile technologies</a> will allow you to market your business quickly and without a breaking a sweat. After creating your store, you can deploy it using reliable and secure Microsoft Cloud and scale it with sophisticated multichanneling solutions that other Elastic Path alternatives lack. </p>
-        <p class="text">
+    <p class="text">
         Its flexible pricing lets you save greatly in the long run by. And the way its functionality is built allows your business to achieve great customer satisfaction and increase conversion rates without hiring any customer support team members. </p>
-<div class="buttons">
+    <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>

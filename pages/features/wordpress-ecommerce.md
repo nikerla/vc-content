@@ -24,7 +24,7 @@ permalink: features/wordpress-ecommerce
 						<p>Status: Ready</p>
 						<p>Versions: 2.x</p>
 					</div>
-                    <a class="button white large" href="http://help.virtocommerce.com/support" target="_blank">Vote and discuss!</a>
+                    <a class="button white large" href="http://help.virtocommerce.com/support/home" target="_blank">Vote and discuss!</a>
 				</div>
 				<div class="column">
 					<div class="feauture-soc">

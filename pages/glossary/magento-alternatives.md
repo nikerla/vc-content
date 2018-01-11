@@ -1,4 +1,4 @@
-﻿---
+---
 title: Magento alternative. 8 best Magento competitors. 
 description:  Magento can be easily named among the top most popular ecommerce platforms in the world. The advantages of using Magento include the opportunity to create a fully customizable web store, if your coding knowledge and expertise give you the ability to use its robust open source framework. If you have decided to switch from using Magento, here is what you should consider while choosing your Magento alternative. 
 date: 2017-06-15
@@ -20,15 +20,15 @@ tags:
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Magento alternative. 8 best Magento competitors.</h1>
+        <h1 class="title">Magento alternative. 8 best Magento competitors. The best alternatives to Magento in 2017-2018.</h1>
     </div>
     <div style="text-align: center;">
-        <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
         <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
     </div>
     <div class="text">
-        <p>Magento can be easily named among the top most popular ecommerce platforms in the world. It is the moving force of innovation in its market segment, providing its customers with three distinct platforms: Magento Community Edition, Magento Enterprise Edition, and Magento Enterprise Cloud Edition. This platform easily attracts businesses of all sizes and areas, and there are many reasons why it does. While Magento markets itself as the perfect solution for any of your business’ ecommerce goals, which it certainly is, it can be very frustrating to manage for a new user without any coding or web developing experience. The advantages of using Magento include the opportunity to create a fully customizable web store if your coding knowledge and expertise give you the ability to use its robust open source framework. Moreover, the paid extensions and enterprise solutions that Magento offers are second to none. Also, Magento takes great pride in providing its clients with the best possible customer support on the market, which has helped attract more than 600 big enterprise customers. However, if you are a small business owner who is currently in search of a much simpler solution or you do not have an experience in Magento’s coding base and you do not want to hire an IT manager, you might want to check out some of the best Magento alternatives that are currently available in the market of shopping-cart software.</p>
-        <h2>Why switch from Magento?</h2>
+        {% include 'vc-magento-banner' with current_url : 'glossary/magento-alternatives' %}
+        <p>Magento can be easily named among the top most popular ecommerce platforms in the world. It is the moving force of innovation in its market segment, providing its customers with three distinct platforms: Magento Community Edition, Magento Enterprise Edition, and Magento Enterprise Cloud Edition. This platform easily attracts businesses of all sizes and areas, and there are many reasons why it does. While Magento markets itself as the perfect solution for any of your business’ ecommerce goals, which it certainly is, it can be very frustrating to manage for a new user without any coding or web developing experience. The advantages of using Magento include the opportunity to create a fully customizable web store if your coding knowledge and expertise give you the ability to use its robust open source framework. Moreover, the paid extensions and enterprise solutions that Magento offers are second to none. Also, Magento takes great pride in providing its clients with the best possible customer support on the market, which has helped attract more than 600 big enterprise customers. However, if you are a small business owner who is currently in search of a much simpler solution or you do not have an experience in Magento’s coding base and you do not want to hire an IT manager, you might want to check out some of the best Magento competitors that are currently available in the market of shopping-cart software.</p>
+        <h2 class="section-title">Why switch from Magento?</h2>
         <p>Let’s just say that Magento is highly overrated. Even with modern proprietary solutions you can add a much bigger functionality to your website, while still keeping the price down in the acceptable range, not creating a hole in your pocket. Yes, Magento can be considered the most popular open source ecommerce platform, due to the fact that when it started, there weren’t many alternatives. If you don’t want to be stuck in an endless loophole of expensive developing costs, poor website performance, unlimited bug fixes and configurations, you might want to consider switching away from it. Don’t listen to adverts about how easy it is to scale and how robust your feature set may possibly be. Website owners have realized that Magento is a terrible bang for the buck and for the past year, 600 more websites that used Magento were dropped rather than added. The biggest issue is, of course, its heavy architecture structure that requires you to have knowledge of computer engineering and structural design in order to set it up and running. For beginning startups this may not be the valuable investment, especially taking into the account how expensive it is to hire a Magento developer that has knowledge of Java and PHP Zend Framework. Second major issue is the fact that Magento can be seen overwhelming due to the fact that it is way too open. Yes, for the first time users, it is impossible not to be astonished by the amount of apps there are for you to add. While having such an open variety applications and extensions is great, it comes at a big price in terms of your website performance and in terms of overall development cost. With most today’s platforms you get all of these features naturally embedded into the platform itself, allowing you to not pay extra money and not suffer from decreased website speed. </p>
         <p>If you have decided to switch from using Magento, here is what you should consider while choosing your Magento alternative.</p>
         <ol>
@@ -40,8 +40,8 @@ tags:
         </ol>
         <p>With these points in mind let’s look at the following alternatives to Magento!</p>
     </div>
-    <h2>List of Magento Competitors</h2>
-    <h2>Shopify</h2>
+    <h2 class="section-title">List of Magento Competitors</h2>
+    <h2 class="section-title">Shopify</h2>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Magento Alternative - Shopify" src="assets/images/shopify1.jpg" />
@@ -51,7 +51,7 @@ tags:
         </div>
     </div>
     <p class="text">Shopify is the leader in the field of ecommerce, in particular, hosted shopping cart platforms. With its robust plans: Basic, Standard, and Advanced, you get everything you need to create a high-end web store, without spending thousands into development. The Basic plan will cost you $29 a month and will come with all of the necessary features for you to start selling online. Besides that, you will be offered an unlimited storage space for the files regarding you online store and the ability to post an unlimited amount of products. Standard plan comes and a price of $79 per month and offers you to open multiple staff accounts, decreases your transaction fees and delivers advanced reports about your web store. Advanced Shopify – the most robust of the Shopify’s plans – comes at a price of $299/month and brings an even smaller transaction fees, increased number of staff accounts and calculated shipping rates. Everything you need to scale up your business and make the most out of your web store. </p>
-    <h2>Volusion</h2>
+    <h2 class="section-title">Volusion</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
             Another popular Magento alternative is a hosted shopping cart service named <a href="https://www.volusion.com/" rel="nofollow">Volusion</a>. In contrary to Shopify, Volusion is dedicated to those users who are much more concerned about the operational side of the website, than the marketing or visual one. At the same time, it offers you great expandability options with plug-ins and extensions that also include a variety of design templates to choose from. The Volusion is a closed source platform that provides a vast knowledge base and kind personnel that will help you in creating your website at any given point of time. The Volusion team can be highly credited for putting high effort into providing their clients with the best possible experience. Despite having these excellent features as well as a broad range of marketing tools, Volusion has many cons of its own. The major one, just like of Shopify’s is, of course, the price tag. Volusion charges a lot of add-on fees which can be frustrating for small-business owners to pay. Also, Volusion’s template options are very limited, and you have to pay even more for professionally designed ones.
@@ -61,7 +61,8 @@ tags:
         </div>
     </div>
     <p class="text">4 Volusion plans represent roughly the same set of features. When you pay more, you will get the ability to upload a larger amount of product, get priority phone customer support, larger amounts of bandwidth and with advanced plans, very great features like marketplace integration, customer loyalty rewards and special deals. The plans cost ranges from $15 to $135 a month, with the product and bandwidth amount varying from 100 products and 1GB of bandwidth to 10,000 products and 10GB of bandwidth. For the high-end Volusion plan, you also get a personal account manager, who will help you to control your ecommerce store. </p>
-    <h2>Bigcommerce</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/magento-alternatives' %}
+    <h2 class="section-title">Bigcommerce</h2>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Magento Alternative - Bigcommerce" src="assets/images/bigcommerce.jpg" />
@@ -71,7 +72,7 @@ tags:
         </div>
     </div>
     <p class="text">Bigcommerce’s plans are somewhat similar to those of Shopify. However, you can save up to 10% if you will pay for the year upfront. The most basic plan costs $29.95/month and already has great features to help you set up a responsive web store. It also offers you unlimited product upload amount, data bandwidth, staff accounts and file storage for you to not be worried about paying additional transaction fees. With the Standard plan you can sell products up to $50k in total value in 12 month period.  For the Plus plan, you have to pay $79.95 a month, which gives you the same feature set and the ability to sell up to $150k in total product value in 12 months. The Pro plan will allow you to implement Google customer reviews, filtered product search and custom SSL, plus you can effectively scale up your business by being able to sell up to $400K in 12 month period. </p>
-    <h2>Virto Commerce</h2>
+    <h2 class="section-title">Virto Commerce</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
             Virto Commerce is a unique open source platform that allows you to quickly set up your website and start selling products or services in no time. It is based on a .NET 4.5 framework and uses cutting-edge web technologies like AngularJS, Liquid and many others. Just like Magento, it markets itself as both a small-business and an enterprise-level ecommerce solution. The platform allows you to launch your website via Microsoft cloud and scale it up in no time using Virto Commerce’s multichannel solutions. The company has been long-time valued for its creative problem-solving approaches, flexible pricing models, ecommerce integrations and interchanges as well as great partner selection and website delivery. By using Virto Commerce as an alternative to Magento, you can enjoy its open source and agile features that will allow you to achieve maximum customer satisfaction. Agile features of the platform are the topic of another discussion, but with them, you can scale up your market outreach with a single click without hiring an entire team of IT professionals. Take advantage of Virto Commerce’s practices and start selling beyond your business hours as we consider this platform to be the most suited for large and small businesses alike out of all the alternatives to Magento.
@@ -80,7 +81,7 @@ tags:
             <img alt="Magento Alternative - Virto Commerce" src="assets/images/virto-commerce.jpg" />
         </div>
     </div>
-        <h2>Wordpress + WooCommerce</h2>
+        <h2 class="section-title">Wordpress + WooCommerce</h2>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Magento Alternative - Wordpress + WooCommerce" src="assets/images/wordpress.jpg" />
@@ -109,11 +110,12 @@ tags:
             Just like Wordpress, <a href="https://www.wix.com/" rel="nofollow">Wix</a> delivers an incredible website builder that can be used for free. In the past years, they have been promoting themselves as an e-commerce platform, thus, becoming another one of the big alternatives to Magento in the field. It is especially useful for small businesses and for those who will be creating websites in the following niches: design, photography, restaurant business and music due to the abundance of specific tools that may boost your website. Wix poses itself as the most innovative website builder amongst the existing competitors. Easy to access dashboards and drag & drop solutions allow you to quickly send invoices, accept any orders or let the client place the bookings. The design can be suitably chosen exactly for YOUR needs by selecting from multiple themes and templates. To further it more, the company has recently introduced Artificial Design Intelligence that can have your website created for you based on your preferences. The platform keeps expanding and with years, they will introduce new features that will suit your business.
         </div>
     </div>
+    {% include 'vc-magento-banner' with current_url : 'glossary/magento-alternatives' %}
     <p class="text">Wix is the platform that can help you host an already existing website and enable some essential ecommerce features into it. It is cheap and versatile. The cheapest plan costs $5/month and can host your already existing website, giving you 500 MB of storage and 1GB of bandwidth. For $10 per month, the amount of bandwidth and storage space increases to 2GB and 3Gb respectively. Get you custom domain and eliminate any of the Wix ads from your website. With $14 a month you can get all of the previous features, along with $300 Ad vouchers, Site Booster and Form Builder Applications. With this plan you get unlimited bandwidth and 10GB storage space for your website. All of these plans are great. However, you can only integrate the ecommerce features into you online store with the next plan that comes at a price of $17/month. The features are the same as in $14 plan, but now, you are able to integrate ecommerce part into your website. With the last plan for $25/month, you can get a priority support for your website and get your website reviewed by a professional developer.</p>
-            <h2>3Dcart</h2>
+            <h2 class="section-title">3Dcart</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-            <a href="https://www.3dcart.com/" rel="nofollow">This platform</a> besides other Magento alternatives is being widely used, and therefore, should never be looked down. It may serve you as a perfect solution, especially if you are planning to set up a hosted e-commerce shop. The platform is highly customizable, giving you the needed flexibility in the process of setting up your online shop. 3Dcart has been in the field since 1997 and has proven their reliability. Since then, they have been keeping up with the latest cutting-edge technologies and design trends, always updating their templates and themes. Still, if you compare it to other shopping carts like Shopify and Bigcommerce, you will be able to use great reporting tools with exciting built-in features such as gift certificates, live chat plugins and bundling options. The only significant disadvantage that users have noticed while using Magento is it's difficult to use interface and the complexity of adding a new product to a store.
+            <a href="https://www.3dcart.com/" rel="nofollow">This platform</a> besides other Magento competitors is being widely used, and therefore, should never be looked down. It may serve you as a perfect solution, especially if you are planning to set up a hosted e-commerce shop. The platform is highly customizable, giving you the needed flexibility in the process of setting up your online shop. 3Dcart has been in the field since 1997 and has proven their reliability. Since then, they have been keeping up with the latest cutting-edge technologies and design trends, always updating their templates and themes. Still, if you compare it to other shopping carts like Shopify and Bigcommerce, you will be able to use great reporting tools with exciting built-in features such as gift certificates, live chat plugins and bundling options. The only significant disadvantage that users have noticed while using Magento is it's difficult to use interface and the complexity of adding a new product to a store.
         </div>
         <div class="col __col-30">
             <img alt="Magento Alternative - 3Dcart" src="assets/images/3dcart.jpg" />
@@ -122,6 +124,6 @@ tags:
     <p class="text">3dcart is an appealing Magento alternative in a sense that it doesn’t include any transaction fees, allows you to upload unlimited products and have unlimited bandwidth. With the basic plan for $29 per month, you receive a vast amount of features that can help you to set up a solid store and market it successfully with rich SEO features. Plus plan for $79 offers you CRM features, allows you to create customer deals and open up to 5 manager accounts. The ultimate ecommerce solution is 3dcart’s Pro plan for $229/month which gives you more sales management over your web store. </p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

@@ -1254,6 +1254,49 @@
                 flex-direction: column;
     }
 
+    .b2b-commerce .section-cnt
+    {
+        -webkit-align-items: flex-start;
+                align-items: flex-start;
+    }
+
+    .b2b-commerce .section-row:nth-child(even) .section-cnt
+    {
+        -webkit-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+    }
+
+    .b2b-commerce .section-text,
+    .b2b-commerce .section-img ~ .section-text
+    {
+        margin: 20px 0 0;
+    }
+
+    .b2b-commerce .b2b-customers .col
+    {
+        padding: 20px 0 0;
+        width: 100%;
+    }
+
+    .b2b-commerce .commerce-platform .col
+    {
+        margin: 20px 0 0;
+        width: 50%;
+    }
+
+    .b2b-commerce .latest-posts .col,
+    .b2b-commerce .best-articles .col
+    {
+        width: 100%;
+    }
+
+    .b2b-commerce .latest-posts .post-pic,
+    .b2b-commerce .best-articles .post-pic
+    {
+        max-width: 100%;
+        width: auto;
+    }
+
     .ecommerce-platform
     {
         padding: 25px 0;
@@ -1363,20 +1406,24 @@
         margin: 0 0 50px;
     }
 
-    .vc-comunity .vc-content .list-item {
+    .vc-comunity .vc-content .list-item
+    {
         width: 100%;
     }
 
-    .vc-contributor .steps {
+    .vc-contributor .steps
+    {
         width: 100%;
     }
 
-    .vc-contributor .steps::after {
+    .vc-contributor .steps::after
+    {
         left: 0;
         right: 0;
     }
 
-    .vc-contributor .step-name {
+    .vc-contributor .step-name
+    {
         display: none;
     }
 
@@ -2677,7 +2724,8 @@
         margin: 20px 0 0;
     }
 
-    [data-name="section"] .section-t
+    [data-name="section"] .section-t,
+    .b2b-commerce .ecommerce .section-t
     {
         font-size: 20px;
     }
@@ -2844,41 +2892,129 @@
         margin: 0 0 50px;
     }
 
-    .vc-comunity .vc-content {
+    .vc-comunity .vc-content
+    {
         padding: 0 15px;
+
         -webkit-flex-direction: column-reverse;
-        flex-direction: column-reverse;
+                flex-direction: column-reverse;
     }
 
     .vc-comunity .vc-content .vc-cnt,
-    .vc-comunity .vc-content .vc-sidebar {
+    .vc-comunity .vc-content .vc-sidebar
+    {
         margin: 0;
         width: 100%;
     }
 
-    .vc-comunity .vc-content .list-item {
+    .vc-comunity .vc-content .list-item
+    {
         padding: 15px 15px 0;
     }
 
-    .vc-comunity .vc-content .vc-sidebar .aside {
+    .vc-comunity .vc-content .vc-sidebar .aside
+    {
         margin: 15px 0 0;
     }
 
-    .vc-comunity .vc-content .list-item {
+    .vc-comunity .vc-content .list-item
+    {
         width: 100%;
     }
 
-    .vc-contributor .steps {
+    .vc-contributor .steps
+    {
         width: 100%;
     }
 
-    .vc-contributor .steps::after {
+    .vc-contributor .steps::after
+    {
         left: 0;
         right: 0;
     }
 
-    .vc-contributor .step-name {
+    .vc-contributor .step-name
+    {
         display: none;
+    }
+
+    .b2b-commerce .ecommerce
+    {
+        height: auto;
+        padding: 20px 0;
+    }
+
+    .b2b-commerce .ecommerce .cols
+    {
+        -webkit-flex-direction: column;
+                flex-direction: column;
+    }
+
+    .b2b-commerce .ecommerce iframe
+    {
+        height: 100%;
+        margin: auto;
+        max-width: 100%;
+        width: auto;
+    }
+
+    .b2b-commerce .ecommerce .col
+    {
+        text-align: center;
+    }
+
+    .b2b-commerce .ecommerce .section-actions
+    {
+        margin: 0 0 20px;
+
+        -webkit-align-items: center;
+                align-items: center;
+    }
+
+    .b2b-commerce .product-descr
+    {
+        margin: 0;
+    }
+
+    .b2b-commerce .section-cnt
+    {
+        -webkit-align-items: flex-start;
+                align-items: flex-start;
+    }
+
+    .b2b-commerce .section-text,
+    .b2b-commerce .section-img ~ .section-text
+    {
+        margin: 20px 0 0;
+    }
+
+    .b2b-commerce .section-row:nth-child(2n) .section-cnt
+    {
+        -webkit-flex-direction: column-reverse;
+                flex-direction: column-reverse;
+    }
+
+    .b2b-commerce .b2b-customers .col
+    {
+        padding: 20px 10px 0;
+        width: 100%;
+    }
+
+    .b2b-commerce .commerce-platform .col
+    {
+        margin: 20px 0 0;
+        width: 50%;
+    }
+
+    .b2b-commerce .latest-posts .col, .b2b-commerce .best-articles .col
+    {
+        width: 100%;
+    }
+
+    .b2b-commerce .latest-posts .post-pic, .b2b-commerce .best-articles .post-pic
+    {
+        max-width: 100%;
+        width: auto;
     }
 
     /* Footer */
@@ -3224,20 +3360,35 @@
         text-align: center;
     }
 
-    .vc-products .banner-t {
+    .vc-products .banner-t
+    {
         font-size: 21px;
     }
 
-    .vc-contributor .steps::after {
+    .vc-contributor .steps::after
+    {
         height: 2px;
         top: 10px;
     }
 
-    .vc-contributor .steps .step-link {
+    .vc-contributor .steps .step-link
+    {
         border-width: 2px;
         height: 20px;
         margin: 0;
         width: 20px;
+    }
+
+    .b2b-commerce .commerce-platform .col
+    {
+        margin: 20px 0 0;
+        width: 100%;
+    }
+
+    .b2b-commerce .ecommerce .col,
+    .b2b-commerce .ecommerce .button
+    {
+        width: 100%;
     }
 }
 
@@ -3586,8 +3737,41 @@
 }
 
 @media (max-width: 360px) {
-    .costumers .list-item
-    {
+    .costumers .list-item {
         width: 50%;
+    }
+}
+
+@media (max-width: 1019px) and (min-width: 768px) {
+    .b2b-commerce .mac {
+        background-size: 450px 264px;
+        top: 10px;
+        height: 264px;
+        width: 450px;
+    }
+}
+
+@media (max-width: 1019px) and (min-width: 768px) {
+    .b2b-commerce .mac .inner {
+        height: 217px;
+        left: 60px;
+        top: 13px;
+        width: 330px;
+    }
+}
+
+@media (max-width: 767px) {
+    .b2b-commerce .mac {
+        background: 0 0;
+        border: 5px solid #fff;
+        display: inline-block;
+    }
+}
+
+@media (max-width: 767px) {
+    .b2b-commerce .mac, .b2b-commerce .mac .inner {
+        height: auto;
+        position: static;
+        width: auto;
     }
 }

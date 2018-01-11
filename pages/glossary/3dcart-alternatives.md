@@ -36,7 +36,8 @@ tags :
     All this being said, we have to mention that 3rdCart has its downsides, too. One of them being the limited amount of bandwidth that comes with each plan. If your store gets under 50,000 visits, the bandwidth will be enough for you. However, if you’re hitting higher numbers, the platform will charge additional $5 per 1000 visits. </p>
     <p class="text">
     If this looks like it might be an issue for your business, have a look at some of the most prominent 3dcart alternatives. </p>
-    <h2>Shopify</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/3dcart-alternatives' %}
+    <div class="section-title">Shopify</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="3dCart alternatives - Shopify" src="assets/images/3dcart-alternatives-shopify.jpg" />
@@ -52,7 +53,7 @@ tags :
         On the other hand, it means that you don’t have to dig deep into its code in order to customize your website. The easy drag and drop functionality will help you set up fast without any programming involved. Also, the customer support is outstanding and will gladly help you along the way of creating your web store. </p>
         <p class="text">
         Keep in mind though that despite its wonderful features, it may seem hard to scale and customize, due to its close source origin.</p>
-    <h2>Volusion </h2>
+    <div class="section-title">Volusion </div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            Another great alternative to 3dcart is <a href="https://www.volusion.com/" rel="nofollow">Volusion</a>. Just like the Shopify, it is also closed source shopping cart software. If you are tech savvy, this platform will impress you with its expandability and functionality. Lots of extensions and plugins are designed specifically to suit your most peculiar needs. 
@@ -66,7 +67,8 @@ tags :
         What this 3dcart alternative does offer though is a vast knowledge base that can help you with all kinds of questions, as well as guide you through the process of creating your perfect store.  </p>
         <p class="text">
         Just like other large ecommerce platforms (like Shopify and such), this one comes with a large price tag. There are also a lot of add-on fees that can sum up to a noticeable amount of money to pay for a small business owner. </p>
-        <h2>Virto Commerce</h2>
+        {% include 'vc-magento-banner' with current_url : 'glossary/3dcart-alternatives' %}    
+    <div class="section-title">Virto Commerce</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="3dCart alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
@@ -82,6 +84,6 @@ tags :
         While there is no perfect universal eCommerce solution, we have presented you with some that are considered to be the best on the market. During your search for an ecommerce solution, always shoot for the 3dcart alternative that is going to be well-suited for your business. </p>        
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

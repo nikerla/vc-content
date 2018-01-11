@@ -35,7 +35,7 @@ Filters are an excellent way for consumers to shop quickly and efficiently. Filt
 
 <h2>REDIRECTS</h2>
 
-One of the worst things a retailer can do is directing a consumer to a “No Results Found” page.  This will automatically inform the consumer that your website does not carry the product. In reality, your store may in fact carry the product but call the product something else, or the consumer may have misspelled it. Either way, a site should redirect consumers to another product page with similar products to the one they searched for, or to an informative page that prompts the visitor to continue shopping and make another search. 
+One of the worst things a retailer can do is directing a consumer to a “No Results Found” page.  This will automatically inform the consumer that your website does not carry the product. In reality, your store may in fact carry the product but call the product something else, or the consumer may have misspelled it. Either way, a site should redirect consumers to another product page with <a href="{{ '/glossary/product-recommendation-engine' | absolute_url }}"> similar products</a> to the one they searched for, or to an informative page that prompts the visitor to continue shopping and make another search. 
 
 <h2>AN INVITING SEARCH BAR</h2>
 

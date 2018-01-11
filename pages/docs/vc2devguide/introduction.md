@@ -41,7 +41,7 @@ Now let's look at a list of core platform capabilities. It is important to under
 
 ![Virto Commerce 2 Styleguide Screenshot](../../assets/images/docs/image01.png "Virto Commerce 2 Styleguide Screenshot")
 
-We created our own theme for an application using <a href="http://operatino.github.io/MCSS/en/" rel="nofollow">MCSS</a> methodology. We also created a [style guide](styleguide/index.html) and [visual constructor](styleguide/blade-constructor.html) for navigation elements (blades), allowing you to easily create an HTML markup that can then be used in extension modules.
+We created our own theme for an application using <a href="http://operatino.github.io/MCSS/en/" rel="nofollow">MCSS</a> methodology. We also created a [style guide](guides/style-guide) and [visual constructor](guides/blade-constructor) for navigation elements (blades), allowing you to easily create an HTML markup that can then be used in extension modules.
 
 ## Navigation
 

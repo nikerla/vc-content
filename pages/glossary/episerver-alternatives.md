@@ -25,7 +25,7 @@ tags :
     </div>
     <img alt="Episerver alternatives" src="assets/images/episerver-alternatives.jpg" />
     <p class="text">
-    Episerver is a content management system that consistently brings intelligent optimization and personalization to its users and helps them achieve maximum impact with managing content wisely and delivering it through any mobile device. </p>
+    Episerver is a content <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}"> management system</a> that consistently brings intelligent optimization and personalization to its users and helps them achieve maximum impact with managing content wisely and delivering it through any mobile device. </p>
     <p class="text">
     This CMS is an innovative .NET based solution that allows businesses of various sizes to get maximum presence in the online market and deliver great customer experience at any time. If you are interested in features like multi-channeling, content marketing, SEO optimization and responsive design, this is the CMS you would definitely enjoy. </p>
     <p class="text">
@@ -40,7 +40,8 @@ tags :
     In addition, there is almost no benefit from installing third-party add-ons and plugins as they slow down the platform’s performance and do not allow for software upgrades. </p>
     <p class="text">
     While Episerver is a very dynamic and flexible platform that works well for large and medium-sized businesses, it doesn’t hurt to have a look at a few Episerver alternatives that might work better when it comes to choosing the right CMS for your business. </p>
-    <h2>Wordpress</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/episerver-alternatives' %}    
+    <div class="section-title">Wordpress</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Episerver alternatives - Wordpress" src="assets/images/wordpress.jpg" />
@@ -56,7 +57,7 @@ tags :
         The downside of using Wordpress is its slowed down performance when many plugins are installed. Another major disadvantage is that the plugin database contains lots and lots of outdated plugins that can still be downloaded. That can easily ruin your website’s performance, so you’d need to choose very carefully. Those plugins are not supported and there may even be no notification or no way of knowing beforehand whatsoever until you check them yourself. Always remember to hit the details button when installing a plugin for your website to get information about the date of plugin’s release and its compatibility with your platform. </p>
         <p class="text">
         Wordpress is tremendously popular, it is intuitive to use and is considered to be among the best CMS out there. Its robust web-building tools make it one of the best content management tools, as well as an interactive business store solution.</p>
-   <h2>Joomla</h2>
+    <div class="section-title">Joomla</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            The next Episerver competitor on the list is <a href="https://www.joomla.org/" rel="nofollow">Joomla</a>. This is an open-source content management system that helps promote products at marketplaces of various sizes and kinds. If you are a small or a medium-sized business owner, you may value Joomla more than Wordpress for its corporation-orientated approach and sophistication in every touch. 
@@ -82,11 +83,12 @@ tags :
         </div>
         <p class="text">
         The engaging Virto Commerce community can also help you achieve the most out of your developing process and enhance the already robust features of the <a href="{{ 'https://virtocommerce.com/b2b-ecommerce-platform' | absolute_url }}">platform</a>. Virto Commerce’s own application store allows you to find the best add-ons and plugins that will help expand your options of customizing even more. </p>
-        <p class="text">
+    {% include 'vc-magento-banner' with current_url : 'glossary/episerver-alternatives' %}    
+    <p class="text">
         With the platform’s modern architecture, you can enhance the performance of your website and easily replace existing modules when needed. By using Virto Commerce as an Episerver alternative, you can fully engage into using its agile features to the fullest. Deploy your website via Microsoft Cloud and scale it using Virto Commerce’s rich resources and multichannel solutions. With CMS like Virto Commerce, you can easily set up a web store and start selling beyond your business hours. </p>        
         <p class="text">
         The right CMS platform can be a very important element in reaching the success of your business. While there are undoubtedly great features in Episerver, it lacks some important functionality that is available with some of the Episerver competitors. We have done this brief overview of the available options, so you can choose the one that works best for your particular business.</p>
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>

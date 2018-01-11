@@ -42,7 +42,8 @@ tags :
     <p class="text">
     If this is the case for you, here are some alternative solutions and Znode competitors.
     </p>
-    <h2>Big Cartel</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/znode-alternatives' %}
+    <div class="section-title">Big Cartel</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Znode alternatives  - Big Cartel" src="assets/images/bigcartel.jpg" />
@@ -52,7 +53,7 @@ tags :
             The pricing is great for this type of ecommerce platform. You can post up to 5 product listings for free and from there offered plans start from $9.99 per month and allow you to post up to 300 product listings and items. 
         </div>
     </div>
-    <h2>Send Owl</h2>
+    <div class="section-title">Send Owl</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            If you already have a website, you can use this alternative to Znode to embed a web store into it. There is no need to build a full-fledged online store, just make product pages. This is the simplest way of creating an ecommerce store. There isn’t any switching required, you can easily change and vary the design of your pages. 
@@ -62,7 +63,7 @@ tags :
             <img alt="Znode alternatives  - Send Owl" src="assets/images/sendowl.jpg" />
         </div>
     </div>
-        <h2>Ecwid</h2>
+        <div class="section-title">Ecwid</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Znode alternatives  - Ecwid" src="assets/images/ecwid.jpg" />
@@ -72,7 +73,7 @@ tags :
             The templates are robust and the platform creates the design for you. Publish your store in social networks and add it to your personal blog or website. The store will be clearly organized in categories with a search tool attached making it easy to explore the store’s options. With <a href="https://www.ecwid.com/" rel="nofollow">Ecwid</a>, you can receive an entire ecommerce store embedded right into your personal website. 
             </div>
     </div>
-    <h2>PrestaShop</h2>
+    <div class="section-title">PrestaShop</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            <a href="https://www.prestashop.com/en" rel="nofollow">PrestaShop</a> is a <a href="{{ '/glossary/hosted-shopping-cart' | absolute_url }}">hosted shopping cart</a> solution that gives you an opportunity to launch an ecommerce store and have it hosted by the platform itself. 
@@ -84,7 +85,7 @@ tags :
             <img alt="Znode alternatives  - PrestaShop" src="assets/images/prestashop.jpg" />
         </div>
     </div>
-        <h2>OpenCart </h2>
+        <div class="section-title">OpenCart </div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="Znode alternatives  - OpenCart" src="assets/images/opencart.jpg" />
@@ -95,7 +96,8 @@ tags :
             The community is very active and gives you the necessary support along the way of setting up your web store. The solution is very flexible in its usage, allowing you to have as much freedom as you need, while at the same time, having the most complicated processes already set up. Overall it’s an affordable all-in-one solution for all of your e-commerce needs with the possibility of web-hosting adaptation.  
         </div>
     </div>
-    <h2>Virto Commerce</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/znode-alternatives' %}
+    <div class="section-title">Virto Commerce</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
            This is the only enterprise level ecommerce solution that has an open source code. Being based on .NET 4.5 with the usage of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies Virto Commerce is great at delivering the best ecommerce solutions for any needs. Whether it is SEO optimization, marketing or traffic management Virto Commerce provides you with clear and second to none instructions and services, maximizing your efforts. 
@@ -107,6 +109,6 @@ tags :
     </div>
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

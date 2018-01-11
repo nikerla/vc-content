@@ -11,7 +11,7 @@ tags :
 ---
 	<div class="for-business __responsive">
 		<h1 class="head-title">Virto Commerce Enterprise License Agreement</h1>
-<p>This End User License Agreement ("<strong>Agreement</strong>") is entered into by and between Virto Software Ltd. ("<strong>VIRTO</strong>") for the Virto Commerce product which includes computer software, and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT" or "SOFTWARE"), and the Licensee executing the VIRTO Order Form (defined below). The parties agree as follows:</p>
+<p>This End User License Agreement ("<strong>Agreement</strong>") is entered into by and between Virto Solutions LTD. ("<strong>VIRTO</strong>") for the Virto Commerce product which includes computer software, and may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT" or "SOFTWARE"), and the Licensee executing the VIRTO Order Form (defined below). The parties agree as follows:</p>
 
 <h4>1. License</h4>
 
@@ -27,7 +27,7 @@ tags :
 
 <p>1.6. Licensee acknowledges that the Software is also available to the public under VirtoCommerce's open source version of the Software, known as Virto Commerce Community Edition, subject to certain conditions, with limited warranties and other limited assurances, and without service or support. As an express condition for the license granted hereunder, Licensee agrees that any use during the term of this Agreement of such open source versions of the Software in a Production Server Instance shall be deemed use of the Software for purposes of the calculation of fees payable under the Agreement.</p>
 
-<p>1.7. VIRTO also grants Licensee the right to modify and create derivative works of the Software. Licensee may contribute the rights in any of those derivative works back to VIRTO. Licensee may contact VirtoSoftware for more information regarding contributions of derivative works rights to VIRTO. Regardless of whether Licensee contributes such derivative works rights to VIRTO, Licensee hereby grants VIRTO a perpetual and irrevocable (irrespective of the expiration or termination of this Agreement), nonexclusive, transferable, worldwide, and royalty-free license to reproduce, create derivative works of, distribute, perform, and display any derivative works of the Software developed by or for Licensee, and to use, make, have made, sell, offer to sell, import, export, and otherwise exploit any product based on any such derivative works.</p>
+<p>1.7. VIRTO also grants Licensee the right to modify and create derivative works of the Software. Licensee may contribute the rights in any of those derivative works back to VIRTO. Licensee may contact  Virto Solutions LTD for more information regarding contributions of derivative works rights to VIRTO. Regardless of whether Licensee contributes such derivative works rights to VIRTO, Licensee hereby grants VIRTO a perpetual and irrevocable (irrespective of the expiration or termination of this Agreement), nonexclusive, transferable, worldwide, and royalty-free license to reproduce, create derivative works of, distribute, perform, and display any derivative works of the Software developed by or for Licensee, and to use, make, have made, sell, offer to sell, import, export, and otherwise exploit any product based on any such derivative works.</p>
 
 <h4>2. License Exclusions</h4>
 

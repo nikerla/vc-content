@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html ng-class="{ 'loading': loading }" ng-controller="docsController" ng-app="storefrontApp">
 <head>
     <meta charset="utf-8" />
@@ -15,10 +15,10 @@
     {{ content_for_header }}
 
     {% if page_title != 'Virto Commerce Documentation' %}
-        {% assign page_title = page_title | append: ' - Virto Commerce Documentation' %}
+    {% assign page_title = page_title | append: ' - Virto Commerce Documentation' %}
     {% endif %}
     {% if page_description == empty %}
-        {% assign page_description = page_title %}
+    {% assign page_description = page_title %}
     {% endif %}
     <title>{{ page_title }}</title>
     <meta name="description" content="{{ page_description }}" />
@@ -38,41 +38,41 @@
     <base href="{{ '/' | absolute_url }}" />
 
     {% include 'segment' %}
-   
+
     <script type='application/ld+json'>
         {
-            "@context": "http://www.schema.org",
-            "@type": "Article",
-            "name": "{{ page_title }}",
-            "author": {
-                "@type": "Person",
-                "name": "Virto Commerce"
-            },
-            "datePublished": "{{ page.published_at }}",
-            "dateModified": "{{ page.published_at }}",
-            "headLine": "{{ page_description }}",
-            "image": {
-                "@type": "ImageObject",
-                "url": "{{ 'logox2.jpg' | asset_url }}",
-                "height": 112,
-                "width": 300
-            },
-            "publisher": {
-                "@type": "Organization",
-                "name": "Virto Commerce",
-                "logo": {
-                    "@type": "ImageObject",
-                    "url": "{{ 'logo.jpg' | asset_url }}",
-                    "height": 56,
-                    "width": 150
-                }
-            },
-            "mainEntityOfPage": "{{ page.url | full_url }}"
+        "@context": "http://www.schema.org",
+        "@type": "Article",
+        "name": "{{ page_title }}",
+        "author": {
+        "@type": "Person",
+        "name": "Virto Commerce"
+        },
+        "datePublished": "{{ page.published_at }}",
+        "dateModified": "{{ page.published_at }}",
+        "headLine": "{{ page_description }}",
+        "image": {
+        "@type": "ImageObject",
+        "url": "{{ 'logox2.jpg' | asset_url }}",
+        "height": 112,
+        "width": 300
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "Virto Commerce",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "{{ 'logo.jpg' | asset_url }}",
+        "height": 56,
+        "width": 150
+        }
+        },
+        "mainEntityOfPage": "{{ page.url | full_url }}"
         }
     </script>
     {% include 'autopilot' %}
 </head>
-<body>
+<body ng-class="{'modal-open' : showAll }">
     <div class="layout">
         <div class="layout-canvas">
             <div class="swipe" id="menu-mobile">
@@ -136,37 +136,46 @@
                             <div id="breadcrumbs">
                                 {% include 'docs-breadcrumbs', docs_tree: docs_tree %}
                             </div>
-                            <div id="page-content">
+                            <div ng-init="getCurrentArticleUrl('{{page.url}}')" id="page-content">
                                 <h1 itemprop="headline">{{ page.title }}</h1>
                                 {% if template != 'search' %}
-                                    <div class="contributors">
-                                        <div class="author-bio">
-                                            <a href="https://github.com/virtocommerce" target="_blank">
-                                                <span class="author-img" style="background-image: url('{{ 'logo-mini.png' | asset_url }}');"></span>
-                                            </a>
-                                            <div class="author-content">
-                                                <div itemprop="author">
-                                                    By <a href="https://github.com/virtocommerce" target="_blank"><span itemprop="name">Virto Commerce</span></a>
-                                                </div>
-                                                <div>
-                                                    Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
-                                                </div>
+                                <div class="contributors">
+                                    <div class="author-bio">
+                                        <a href="https://github.com/virtocommerce" target="_blank">
+                                            <span class="author-img" style="background-image: url('{{ 'logo-mini.png' | asset_url }}');"></span>
+                                        </a>
+                                        <div class="author-content">
+                                            <div itemprop="author">
+                                                By <a href="https://github.com/virtocommerce" target="_blank"><span itemprop="name">Virto Commerce</span></a>
                                             </div>
-                                        </div>
-                                        <div class="edit-on-github">
-                                            <a href="https://github.com/VirtoCommerce/vc-content/blob/deploy/pages/{{ page.url }}.md" rel="nofollow" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Edit on GitHub</a>
+                                            <div>
+                                                Updated: <span itemprop="datePublished">{{ page.published_at | date: '%m/%d/%Y %I:%M %p' }}</span>
+                                            </div>
+                                            <div>Contributors:</div>
+                                            <ul ng-if="authors" class="list list-contributors">
+                                                <li class="list-item" ng-repeat="author in authors |limitTo:5">
+                                                    <a ng-href="{%raw%}{{author.html_url}}{%endraw%}" target="_blank">
+                                                        <img class="list-pic" ng-src="{%raw%}{{author.avatar_url}}{%endraw%}" ng-attr-title="{%raw%}{{author.login}}{%endraw%}" />
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                            <a ng-show="authors.length>5" ng-click="showAll=!showAll" class="see-all">See all</a>
                                         </div>
                                     </div>
+                                    <div class="edit-on-github">
+                                        <a href="https://github.com/VirtoCommerce/vc-content/blob/deploy/pages/{{ page.url }}.md" rel="nofollow" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> Edit on GitHub</a>
+                                    </div>
+                                </div>
                                 {% endif %}
                                 <div itemprop="articleBody" ng-non-bindable>
-                                    {{ content_for_layout }}                               
+                                    {{ content_for_layout }}
                                 </div>
                             </div>
                             {% if template != 'search' %}
-                                <div id="topics">
-                                    {% include 'docs-topics', docs_tree: docs_tree %}
-                                    {% include 'disqus' %}                                    
-                                </div>
+                            <div id="topics">
+                                {% include 'docs-topics', docs_tree: docs_tree %}
+                                {% include 'disqus' %}
+                            </div>
                             {% endif %}
                         </div>
                     </div>
@@ -175,6 +184,28 @@
             {% include 'footer' %}
         </div>
     </div>
+    <div ng-show="showAll && authors" ng-class="{ 'modal' : showAll }">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    Contributors:
+                    <a class="modal-close" ng-click="showAll=!showAll">
+                        <i class="fa fa-close"></i>
+                    </a>
+                </div>
+                <div class="modal-body">
+                    <ul class="list list-contributors">
+                        <li class="list-item" ng-repeat="author in authors">
+                            <a ng-href="{%raw%}{{author.html_url}}{%endraw%}" target="_blank">
+                                <img class="list-pic" ng-src="{%raw%}{{author.avatar_url}}{%endraw%}" ng-attr-title="{%raw%}{{author.login}}{%endraw%}" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
     {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.8.3.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js' | script_tag }}

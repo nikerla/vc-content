@@ -1,5 +1,5 @@
 ---
-title: eCommerce Glossary from A to Z. Terms, Definitions and Clarifications - Virto Commerce
+title: Virto Commerce Products
 description: A useful glossary for merchants coming accros in  e-commerce-related acticles and documents, as well as additional clarifications on certain common words and phrases
 date: 2017-03-28
 permalink: products
@@ -99,7 +99,7 @@ permalink: products
 						Provide data to ERPs, eCommerce, Mobile devices etc.
 					</div>
 					<div class="section-actions">
-						<a href="#" class="button fill">Request demo & trial</a>
+						<a href="/try-now" class="button fill">Request demo & trial</a>
 						<a href="#" class="button striped">Learn more</a>
 					</div>
 				</div>
@@ -154,7 +154,7 @@ permalink: products
 						</div>
 					</div>
 					<div class="section-actions">
-						<a href="#" class="button fill">Request demo & trial</a>
+						<a href="/try-now" class="button fill">Request demo & trial</a>
 						<a href="#" class="button striped">Learn more</a>
 					</div>
 				</div>

@@ -36,6 +36,7 @@ tags :
             </a>
         </div>
     </div>
+    {% include 'vc-b2b_b2c-banner' %}
 </div>
 	<div class="text">
 		<p>Business to Business to Consumer (B2B2C) is the term used to describe the e-commerce model wherein Business "A" and Business "B" engage in a collaborative business development exercise whereby Business "A" pays Business "B" for the ability to offer Business "A's" product or service to Business "B's" consumer customer channel.  This mutually beneficial relationship affords Business "A" the benefit of introducing their products and or service to a new array of potential customers while simultaneously generating a new revenue stream for Business "B" as well as positioning Business "B" to present its customers with new and relevant products and or services.  The consumer customer base also benefits as a consequence of being the recipient of Business "B's" expanded product and or service diversification.</p>
@@ -44,8 +45,7 @@ tags :
 		<p>With you being determined on adopting the new business model, don’t fool yourself that this approach does not require a big amount of effort put into customer acquisition. It is a wrong way to think that you will get a bulk load of clients with the B2B2C model. If the only motivation you have is to avoid effort, then your business will not enjoy this ecommerce format and generate profit out of it.</p>
 	</div>
 	<div class="buttons">
-		<a class="button fill" href="/try-now">Try It Now</a>
 		<a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
-		<a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+		<a class="button fill" href="/contact-us">Request Information & Demo</a>
 	</div>
 </div>

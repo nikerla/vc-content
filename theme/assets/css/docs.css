@@ -6,6 +6,9 @@ body
     font-size: 14px;
     line-height: 1.4;
 }
+body.modal-open {
+	overflow: hidden;
+}
 
 h1,
 h2,
@@ -558,8 +561,9 @@ table th
 	background-size: contain;
 	display: inline-block;
 	height: 36px;
-	margin-top: 10px;
+	margin-top: 7px;
 	width: 36px;
+	vertical-align: top;
 }
 
 .cnt .breadcrumbs {
@@ -670,6 +674,104 @@ form.search input {
 	height: 30px;
 	padding: 5px;
 	width: 100%;
+}
+
+.list.list-contributors {
+	margin: 10px 0 0;
+	padding: 0;
+}
+
+.list-contributors .list-item {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.list-contributors .list-pic {
+	margin: 0;
+    border-radius: 50px;
+    width: 30px;
+    box-shadow: 0 0 0 2px rgba(0,0,0,0.1);
+    display: block;
+}
+
+.modal
+{
+    background: rgba(0,0,0,.75);
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    overflow-y: auto;
+    right: 0;
+    top: 0;
+    z-index: 10000;
+}
+
+.modal .modal-dialog
+{
+    margin: 30px auto;
+    width: 600px;
+}
+
+.modal .modal-content
+{
+    background: #fff;
+}
+
+.modal .modal-header
+{
+    background: #f8f8f8;
+    padding: 15px;
+    position: relative;
+}
+
+.modal .modal-close
+{
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
+}
+
+.modal .modal-body,
+.modal .modal-footer
+{
+    padding: 15px;
+}
+
+.modal .modal-body
+{
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+}
+
+.modal-body .list-contributors {
+	display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-flex-wrap:wrap;
+    		flex-wrap:wrap;
+	margin: -20px 0 0;
+}
+
+.modal-body .list-contributors .list-item {
+	width: 25%;
+	display: initial;
+	margin: 20px 0 0;
+	box-sizing: border-box;
+}
+
+.modal-body .list-contributors .list-pic {
+	width: 70px;
+	margin: 0 auto;
+}
+
+.modal .modal-footer
+{
+    background: #f8f8f8;
 }
 
 @media (min-width: 768px) and (max-width: 1019px) {

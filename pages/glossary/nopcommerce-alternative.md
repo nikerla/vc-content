@@ -1,4 +1,4 @@
-﻿---
+---
 title: NopCommerce alternative and competitors
 description:  NopCommerce is a popular open-source solution that offers its users an ability to create a customizable shopping cart and personalized front-end design of the product catalog. What are the main NopCommerce competitors and alternatives?
 date: 2017-08-15
@@ -36,14 +36,15 @@ tags:
             <li><strong> SEO optimization. </strong> All the web stores built on this platform receive high visibility and rankings in all of the search engines, which makes it possible to promote your products easily.</p>
      </div>
      <div class="text">
-            <p>Still, there is no perfect and universal Shopping Cart solution for your business. Even such a popular application as NopCommerce has its downsides, so it’s important to find the right platform for YOU! Therefore, let’s take a look at some of the alternatives to NopCommerce. </p>
-            <p>Before we start, however, we should highlight certain features that you should pay careful attention to while choosing <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}">the best platform</a>. </p>
+         <p>Still, there is no perfect and universal Shopping Cart solution for your business. Even such a popular application as NopCommerce has its downsides, so it’s important to find the right platform for YOU! Therefore, let’s take a look at some of the alternatives to NopCommerce. </p>
+         {% include 'vc-magento-banner' with current_url : 'glossary/nopcommerce-alternative' %}   
+         <p>Before we start, however, we should highlight certain features that you should pay careful attention to while choosing <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}">the best platform</a>. </p>
         <ol>
             <li><strong> Open source vs. closed source.  </strong> This is a debate that has been held for too long, but it essentially comes down to one simple thing: if coding is a no-brainer to you, choose open-source and customize the store in any way you desire, but, if coding is not your primary skill, choose a closed source platform where most of the things will be done by the platform. Here is another thing to consider - open-source platforms are almost entirely free to any businesses, but, they lack security. On the other hand, closed-source solutions can get pricey, but they deliver top-notch security protocols to you.</p>
             <li><strong> Plugins and Addons. </strong> Always look for a solution that can be expanded by the plugins and add-ons easily. The platform should uncover your store’s true potential and add value to your products. </p>
             <li><strong> Technological literacy. </strong> If you are going to hire a professional web-developer to do this, you don’t have to worry about choosing an open source solution. If not, pick a sophisticated platform that for a good price will allow you to build your website without breaking a sweat. </p>
             <p>Here are some of the most known NopCommerce competitors:</p>
-            <h2>Wix</h2>
+            <div class="section-title">Wix</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="NopCommerce alternative - Wix" src="assets/images/wix.jpg" />
@@ -52,7 +53,7 @@ tags:
          A <a href="{{ '/glossary/cloud-ecommerce-solution' | absolute_url }}">cloud-based</a> NopCommerce alternative that offers a wide variety of plugins which can be downloaded through the platform’s AppMarket. Whether it is for great design or for functionality, you will find everything you need in this AppMarket.  The building environment is easy to understand and allows you to get right to the process of creating your design layout by using the platform’s Photoshop-style editor. Edit elements according to various grids, utilize different fonts and styles and add powerpoint-like animations – the freedom to create is right there for you. Start making professional websites on an ideal platform that boosts the design and security features of your website and allows you to increase sales exponentially. Optimize your store for mobile devices and you will be genuinely surprised by how many people will start buying your products. If something isn’t right for you, you can always feel free to contact their 24/7 customer support. The pricing seems to be acceptable for most, as you can start enjoying <a href="https://www.wix.com/" rel="nofollow">Wix's</a> benefits and tremendous customer support starting only from $17/month.
         </div>
     </div>
-    <h2>Open Cart</h2>
+    <div class="section-title">Open Cart</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
         Another great NopCommerce alternative that is valued around the world for its secure architecture and protocols. This may be seen as a perfect solution for those, who are not in friends with technology and programming. <a href="https://www.opencart.com/" rel="nofollow">The platform</a> runs on cutting-edge AJAX technology, which makes it very lightweight and ensures smooth and fast operation of the online store by,. Multichanneling is also  supported in this solution and it allows its customers to open up multiple online shops while still using the same administrative account. The variety of extensions is also quite impressive, giving the platform a professional look, wide range of functionality and robust feature set. The platform can be seen as a perfect and inexpensive solution for all of your e-commerce needs and poses itself as the main NopCommerce alternative in the field of online sales. 
@@ -61,7 +62,7 @@ tags:
             <img alt="NopCommerce alternative - Open Cart" src="assets/images/opencart.jpg" />
         </div>
     </div>
-    <h2>Ecwid</h2>
+    <div class="section-title">Ecwid</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="NopCommerce alternative - Ecwid" src="assets/images/ecwid.jpg" />
@@ -70,10 +71,11 @@ tags:
          <a href="https://www.ecwid.com/" rel="nofollow">Ecwid</a> is a NopCommerce alternative that is a web-based online store building solution which is designed for businesses that already have existing websites. It is particularly designed not for building an e-commerce store from scratch, but rather adding a store into an existing website. Despite only being a widget, not a full-fledged e-commerce website, it doesn’t lack any features that would be crucial for creating a successful online store. The other great thing about this particular alternative to NopCommerce is that it can be embedded not only on a website but also into a business page in any social network. You can also create multiple storefronts, which can all be managed by a single account. 
         </div>
     </div>
-    <h2>VirtoCommerce</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/nopcommerce-alternative' %}
+    <div class="section-title">VirtoCommerce</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-        VirtoCommerce is an open source enterprise-ready <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">B2B</a> and <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C</a> e-commerce platform based on Microsoft and Azure Cloud. High-end technologies, like Liquid and AngularJS, were put into creating this e-commerce platform. Built on a .Net 4.5 framework it is an open-source solution for both small and enterprise-level businesses. With this platform you can easily upload your website on a Microsoft cloud, and market it via multi-channelling solutions that VirtoCommerce has to offer! Flexible pricing, open sourceness, and great integrated features make this platform stand out among others. It is one of the few NopCommerce alternatives from the same technology stack that you can enjoy exploring. Take advantage of VirtoCommerce’s practices and start selling beyond your business hours. 
+        VirtoCommerce is an open source enterprise-ready <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">B2B</a> and <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C</a> e-commerce platform based on Microsoft and Azure Cloud. High-end technologies, like Liquid and AngularJS, were put into creating this e-commerce platform. Built on a .Net 4.5 framework it is an open-source solution for both small and enterprise-level businesses. With this platform you can easily upload your website on a Microsoft <a href="{{ 'https://virtocommerce.com/order-management-software' | absolute_url }}"> cloud</a>, and market it via multi-channelling solutions that VirtoCommerce has to offer! Flexible pricing, open sourceness, and great integrated features make this platform stand out among others. It is one of the few NopCommerce alternatives from the same technology stack that you can enjoy exploring. Take advantage of VirtoCommerce’s practices and start selling beyond your business hours. 
         </div>
         <div class="col __col-30">
             <img alt="NopCommerce alternative - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
@@ -81,7 +83,6 @@ tags:
     </div>
      <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>
-

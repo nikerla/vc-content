@@ -60,7 +60,7 @@ We operate in Switzerland and some other parts of Europe.</p>
 				<img style="max-width: 120px;" alt="" src="../assets/images/vendors/delaware-logo.png">
 			</a>
 			<div class="list-info">
-				<a href="https://bambit.ch/" class="link" rel="nofollow">Delaware Digital</a>
+				<a href="https://digital.delaware.pro/" class="link" rel="nofollow">Delaware Digital</a>
 				<p class="country">China, US, Belgium, Netherlands, France, Hungary, Singapore, Brazil, UK</p>
 				<p class="lang">Languages Spoken: English, Dutch, French, Chinese, et al</p>
 				<p class="text">As a company, we combine expertise in a vast array of SAP and Microsoft solutions with innovative thinking in digital marketing. With entities in Europe, the United States and Asia, we are able to offer end-to-end solutions at premium rates across the globe. We believe that today’s customer is always connected, so you should be too. Being ahead of the competition requires you to be on top of your websites, mobile experience, and your entire back-end. Digital by Delaware Consulting can help you approach your particular challenge from all angles, because sometimes you need to view the world through different glasses to see the big picture. Our projects range from small workshops and strategic exercises to elaborate implementation of technologies and processes. Whether your affinity is with marketing, technology or process management, we have someone who speaks your language.</p>

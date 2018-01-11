@@ -42,7 +42,7 @@ tags :
         <iframe width="400" height="315" src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
         <iframe width="400" height="315" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
     </div>
-    <h2>Top 5 B2B challenges and solutions</h2>
+    <div class="section-title">Top 5 B2B challenges and solutions</div>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
             <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">B2B ecommerce</a> has specific business model and process challenges which require customized solutions or special software platform. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
@@ -53,7 +53,7 @@ tags :
             </a>
         </div>
     </div>
-    <h2>The B2B ECommerce Trends of 2016</h2>
+    <div class="section-title">The B2B ECommerce Trends of 2016</div>
     <div class="col-w">
         <div class="col __col-30">
             <img alt="B2B ecommerce trends" src="assets/images/technology-investments.jpg" />
@@ -70,6 +70,7 @@ tags :
             <img alt="B2B ecommerce trends" src="assets/images/mobile-ecommerce.jpg" />
         </div>
     </div>
+    {% include 'vc-b2b_b2c-banner' %}
     <div class="col-w">
         <div class="col __col-30">
             <img alt="B2B ecommerce trends" src="assets/images/customer-service.jpg" />
@@ -86,7 +87,7 @@ tags :
             <img alt="B2B ecommerce trends" src="assets/images/multichannel.jpg" />
         </div>
     </div>
-    <h2>B2B Ecommerce Trends in 2017</h2>
+    <div class="section-title">B2B Ecommerce Trends in 2017</div>
     <p class="text">Now that 2017 is coming to its end, we can point out some of the most prominent B2B eCommerce trends on the market. </p>
     <div class="col-w">
         <div class="col __col-30">
@@ -136,7 +137,7 @@ tags :
             <img alt="Flexible payment options" src="assets/images/flexible-payment-options-1.jpg" />
         </div>
     </div>
-    <h2>B2B Ecommerce Trends in 2018</h2>
+    <div class="section-title">B2B Ecommerce Trends in 2018</div>
     <p class="text">As the year 2017 is approaching its end, now’s the time to start looking towards your ecommerce development plans for 2018 and further.</p>
     <p class="text">According to <a href="{{ 'https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/' | absolute_url }}">Forrester analysts’ reports</a>, the business-to-business ecommerce market is currently at a $1 trillion+ mark and is expected to grow up to $2 trillion by 2020. This means that for B2B sellers now it’s more important than ever to keep up with the quickly changing surroundings. Below we take a close look at the rising b2b ecommerce trends for the coming year that you can look into incorporating into your B2B strategy to help increase your competitive advantage.</p>
     <div class="col-w">
@@ -148,6 +149,7 @@ tags :
             <p class="text"><a href="{{ 'https://apttus.com/resources/forrester-research-b2b-omnichannel-commerce/' | absolute_url }}">Forrester confirms</a> that 51% of B2B sellers stated their omnichannel customers increased spending with them in the past year, with only 7% saying those customers decreased spending. Thus, gaining and retaining omnichannel buyers should be of critical importance to B2B sellers in 2018.</p>
         </div>
     </div>
+    {% include 'vc-b2b_b2c-banner' %}
     <p class="text">More of B2B online buyers prefer to research and browse on their own (68%, up from 53% in 2015). Needless to say that in this environment the expectations of the digitally connected customers should influence an organization’s B2B selling priorities. </p>
     <p class="text">Organizations striving to be successful players on the B2B ecommerce market would need to have a flexible, scalable commerce infrastructure to support an integrated selling platform. </p>
     <p class="text">The data indicates that B2B buyers are not seeking to make every purchase via either self-service or full service. Instead, they gravitate toward a mixture of both modes across a variety of different purchasing scenarios. The sets new b2b ecommerce trends of offering both self-service and human-assisted options and putting extra effort into migrating B2B buyers online in order to convert them into higher value customers. Ecommerce cannot be independent of traditional direct and indirect channel sellers. All the back-end data around products, pricing, contracts, rebates, and promotions would need to be consolidated, and the front-end touchpoints have to accommodate the needs of that channel. The best approach would be to start from the back end and work your way to the front to keep consistency in the process while providing unique experiences for every user persona.</p>
@@ -184,9 +186,8 @@ tags :
     </div>
     <p class="text">These are just a few ways, discussed on the mediaweb, that could help you improve the online experience for your customers. The B2B market is more complex than the B2C – it uses massive online catalogs and additional payment methods, and needs to accommodate for very diverse customer needs, adding a new level of complexity that’s not present in traditional consumer sales. But if a company can adopt these B2B ecommerce trends, it will always stay ahead of game! </p>
     <div class="buttons">
-        <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/download-b2b-whitepaper">Download B2B Whitepaper</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>
 <div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">
@@ -198,7 +199,7 @@ tags :
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');">
-                        <h3><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></div>
                     </div>
                     <div class="post-descr">
                         Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.<br /><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">Read more...</a>
@@ -208,7 +209,7 @@ tags :
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/blog/b2b-online-aftermath1.jpg');">
-                        <h3><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">B2B Online Aftermath</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">B2B Online Aftermath</a></div>
                     </div>
                     <div class="post-descr">
                         B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to share our impressions from this experience.<br /><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">Read more...</a>
@@ -218,7 +219,7 @@ tags :
             <div class="post post-single">
                 <div class="post-inner">
                     <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');">
-                        <h3><a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">Top B2B e commerce sites and companies</a></h3>
+                        <div class="section-title-h3"><a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">Top B2B e commerce sites and companies</a></div>
                     </div>
                     <div class="post-descr">
                         Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.<br /><a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">Read more...</a>

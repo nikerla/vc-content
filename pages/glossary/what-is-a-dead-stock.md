@@ -24,7 +24,8 @@ tags :
         <h1 class="title">What is a dead stock? Dead stock definition | Virto Commerce Glossary</h1>
     </div>
     <img alt="What is a dead stock?" src="assets/images/dead-stock.jpg" />
-    <h2>What is dead stock/ what does headstock mean?</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/what-is-a-dead-stock' %}
+    <div class="section-title">What is dead stock/ what does headstock mean?</div>
     <p class="text">
     <strong>First of all, what does dead stock mean (or what does headstock mean)?  Take a close look at your warehouse. The products might be selling well, but with every change of seasonal collections, with every inventory re-stock there’s an ever growing pile of products that just don’t sell and the additional weight it adds to your business is dragging it down. That is referred to as dead stock (or deadstock/headstock). </strong>
     </p>  
@@ -40,15 +41,15 @@ tags :
     <p class="text">
     This is why the correct approach to dead inventory management is critical. 
     </p>
-    <h2>How to get rid of deadstock?</h2>
+    <div class="section-title">How to get rid of deadstock?</div>
     <p class="text">
     Now, that we have answered the question of “what is dead stock/ what is headstock?” let’s look at a few ways to fix the dead stock issue.
     </p>
-    <h4>Return the products to the supplier</h4>
+    <div class="section-title-h4">Return the products to the supplier</div>
     <p class="text">
         If the stocks have arrived recently and you have realized quickly that they are not going to be received as well as expected by your customer base, the items are likely still current and there’s enough room in the return policy, so you may be able to send the slow moving products back to the supplier. Often times in this case the supplier will accept them, but will most likely offer you credit instead of paying back cash. There’s also a high chance the supplier will charge a restocking fee of about 10% upon the return of the merchandise, so be prepared for taking a small loss. 
     </p>
-    <h4>Create bundles and market it with the better selling items</h4>
+    <div class="section-title-h4">Create bundles and market it with the better selling items</div>
     <p class="text">
         If returning is not an option or you simply decide to hold off on paying that restocking fee and give your dead stock one last chance, try bundling those items with more current products, and offer a discount on the set. Of course, your profit margins will be smaller in this case, but it’s better than having those items sitting in your warehouse creating more storage costs - at the very least you’ll be able to get the cost price back and break even. 
     </p>
@@ -58,7 +59,8 @@ tags :
     <p class="text">
         For example, “Buy 5 shirts and get a free hat” or “Spend $150 and get a free gift”.  Offering good value for money is the key here. Consumers would not want to pay for items they don’t like enough, but a free gift or a good discount is likely to change their mind. 
     </p>
-    <h4>Donate it</h4>
+    {% include 'vc-magento-banner' with current_url : 'glossary/what-is-a-dead-stock' %}
+    <div class="section-title-h4">Donate it</div>
     <p class="text">
         Now, this option might not apply to any country or business, but if you’re a clothing retailer in the USA, this option might work for you.
 Say, you have discovered some dead stock items in your warehouse from several years ago lying. The chance of still selling them is next to none at this point. Returning is not an option anymore either, but the items are still new and in great condition. Rather than simply throwing it away, you can at least claim a tax write-off by donating them to charity. Those organizations will be glad to take the load off your shoulders, plus some good karma never hurt no one. 
@@ -66,12 +68,12 @@ Say, you have discovered some dead stock items in your warehouse from several ye
     <p class="text">
         You will need a written agreement with the charity, stating that the items were donated at no cost and signed receipts in order for your business to deduct the market value of the inventory from your taxes. Also, if your donations are used directly to care for the ill, needy, or infants, you can get even more tax breaks from the IRS.
     </p>
-    <h2>How to avoid acquiring more dead stock?</h2>
+    <div class="section-title">How to avoid acquiring more dead stock?</div>
     <p class="text">
     Now that you’ve managed to get rid of all the dead stock from your warehouse, the next step is trying to avoid accumulating more. This is where good <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">Inventory management software</a> comes in handy. It will provide better visibility of stock movements and allow to keep track of how well your different <a href="{{ '/glossary/what-is-sku' | absolute_url }}">SKU s</a> are performing. So, when something is not selling well, you would be able to catch it and take action right away!
     </p>
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information & Demo</a>
     </div>
 </div>

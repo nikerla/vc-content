@@ -118,12 +118,3 @@ To upload theme in VirtoCommerce Platform UI, follow this steps:
 4. Click to **Upload** button and select downloaded zip file.
 
 If you want to develop storefront theme, follow [theme development documentation](docs/vc2devguide/working-with-storefront/theme-development) to learn how to setup theme for your store in theme development environment.
-
-## Configure IIS (optionally)
-
-Open **IIS Manager** and change physical path of **Default Web Site** to **C:\vc-storefront\VirtoCommerce.Storefront**. Select application pool which uses **.NET CLR Version 4.0** and **Integrated pipeline mode**.
-![Configure Default Web Site for Virto Commerce Storefront](../../../../assets/images/docs/configure-storefront-site-in-iis.png "Configure Default Web Site for Virto Commerce Storefront")
-
-## Start VirtoCommerce Storefront
-
-Right click on **VirtoCommerce.Storefront** project and select **View → View in Browser** or right click on **Default Web Site** and select **Manage Website → Browse**. The store home page should open.

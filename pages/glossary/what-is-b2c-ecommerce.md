@@ -22,7 +22,7 @@ tags :
         <h1 class="title">What is B2C ecommerce?</h1>
     </div>
     <img alt="What is B2C ecommerce?" src="assets/images/what-is-b2c-ecommerce.jpg"/>
-    <p class="text">B2C, the acronym for "business-to-consumer", is a business model based on transactions between a company, that sells products or services, and individual customers who are the end-users of these products. B2C ecommerce definition suggests the commerce transaction through a company website featured with online catalog.
+    <p class="text">B2C, the acronym for "business-to-consumer", is a business model based on transactions between a company, that sells products or services, and individual customers who are the end-users of these products. B2C ecommerce definition suggests the commerce transaction through a <a href="{{ '/glossary/best-ecommerce-platforms' | absolute_url }}"> company website</a> featured with online catalog.
     </p>
     <p class="text">Most Internet users are familiar with the B2C ecommerce model. Consumers appreciate the convenience of online shopping where they now can purchase
         clothes, electronics, media subscriptions and services via Internet. In the past couple of years,
@@ -35,6 +35,7 @@ tags :
         theme-based online stores, specific deal aggregators, or national closed retailing. But the key challenges are still quite similar for all B2C
         online stores.
     </p>
+    {% include 'vc-b2b_b2c-banner' %}
     <h2>B2C commerce challenges</h2>
     <p class="text">
         There is much more competition and higher demands from the customers in B2C ecommerce then in the <a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">business-to-business model</a>. Taking a closer look at the B2C store success recipe, we can highlight the following factors.
@@ -69,7 +70,7 @@ tags :
         The associations, exact jargon, abbreviations, autocomplete suggestions of the search dictionary, filters and
         refinements, clear product hierarchy - these are the essential features that would dramatically lift conversion rates. If
         a client can’t find a product, he can’t buy it. An online store platform must contain usability-related
-        tools to make the searching process as easy as possible for the shoppers who come back to order again.
+        tools to make the searching process as easy as possible for the shoppers who come back to <a href="{{ '/glossary/order-processing-software' | absolute_url }}"> order</a> again.
     </p>
     <h2>B2C commerce solutions</h2>
     <p class="text">
@@ -89,6 +90,7 @@ tags :
                 and shipping tools. The weak points are customer support and unstable hosting servers.
             </p>
         </li>
+        {% include 'vc-b2b_b2c-banner' %}
         <li>
             <p>
                 <a href="{{ '/glossary/magento-alternatives' | absolute_url }}">Magento</a> is a free, open-source platform that allows you to create a self-hosted store with scalable architecture
@@ -115,6 +117,6 @@ tags :
     </ol>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
-        <a class="button fill" href="/contact-us">Request Information &amp; Personal Demo</a>
+        <a class="button fill" href="/contact-us">Request Information &amp; Demo</a>
     </div>
 </div>
