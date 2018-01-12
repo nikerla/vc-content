@@ -155,16 +155,22 @@
         </rewriteMap>
     </rewriteMaps>
     <rules>
-        <rule name="Robots.txt for production domain only" stopProcessing="true">
+        <rule name="Robots.txt for staging" stopProcessing="true">
             <match url="robots.txt" />
             <conditions>
                 <add input="{HTTP_HOST}" pattern="^(virtocommerce\.com)$" negate="true"/>
             </conditions>
             <action type="Rewrite" url="/robots.staging.txt" />
         </rule>
+        <rule name="Robots.txt for production" stopProcessing="true">
+            <match url="robots.txt" />
+            <conditions>
+                <add input="{HTTP_HOST}" pattern="^(virtocommerce\.com)$" negate="false"/>
+            </conditions>
+            <action type="Rewrite" url="/robots.production.txt" />
+        </rule>
         <rule name="Redirect Blogs to Blog" stopProcessing="true">
             <match url="^blogs/news/(.+)" />
-            <conditions trackAllCaptures="true" />
             <action type="Redirect" url="blog/{R:1}" />
         </rule>
         <rule name="Redirect to non www">
@@ -177,7 +183,6 @@
         <!--
     <rule name="Redirect b2b-ecommerce to b2b-ecommerce-platform" stopProcessing="true">
         <match url="\w*b2b-ecommerce$" />
-        <conditions trackAllCaptures="true" />
         <action type="Redirect" url="https://virtocommerce.com/b2b-ecommerce-platform" />
     </rule>
     -->
