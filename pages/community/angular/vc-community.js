@@ -45,7 +45,6 @@ storefrontApp.controller('communityController', ['$scope', '$q', '$window', '$lo
                     communityService.getStackExchangeAnswers(stackExchangeAccount.providerKey)
                 ])
                 .then(function (results) {
-                    console.log(results[0], results[1], results[2]);
                     $scope.stackExchange = {
                         userName: results[0].data.items[0].display_name,
                         raiting: results[0].data.items[0].reputation,
