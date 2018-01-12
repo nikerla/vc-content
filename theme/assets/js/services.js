@@ -220,7 +220,6 @@ storefrontApp.service('communityService', ['$http', '$q', '$localStorage', funct
             return newAddresses;
         },
         addContributorInformation: function (data, step, userName) {
-            console.log($localStorage['community']);
             if (_.isEmpty($localStorage['community'][userName]['contributorInformation']))
                 $localStorage['community'][userName]['contributorInformation'] = {};
 
