@@ -6,7 +6,7 @@ var cssmin = require('gulp-cssmin');
 
 //files
 var config = {   
-    src: ['theme/assets/scripts/**/*.js', '!theme/assets/scripts/**/*.min.js', '!theme/assets/scripts/angular/docs.js', '!theme/assets/scripts/angular/blog.js', '!theme/assets/guides/js/guides.js']
+    src: ['theme/assets/scripts/**/*.js', 'pages/community/angular/*.js','!theme/assets/scripts/**/*.min.js', '!theme/assets/scripts/angular/docs.js', '!theme/assets/scripts/angular/blog.js', '!theme/assets/guides/js/guides.js']
 }
 
 //tasks
