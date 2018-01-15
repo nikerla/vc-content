@@ -152,7 +152,7 @@ tags:
 								<h3><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">B2B Online Aftermath</a></h3>
 							</div>
 							<div class="post-descr">
-								B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to share our impressions from this experience.<br /><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">Read more...</a>
+								B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to present our B2B e-commerce software.<br /><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">Read more...</a>
 							</div>
 						</div>
 					</div>

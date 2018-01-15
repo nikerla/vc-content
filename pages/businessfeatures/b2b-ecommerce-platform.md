@@ -355,7 +355,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                         </div>
 						<div class="post-t">B2B Online Aftermath</div>
 						<div class="post-descr">
-							B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
+							B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to present our B2B e-commerce software.
 						</div>
 						<a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}" class="post-link">Read more...</a>
 					</div>

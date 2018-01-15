@@ -198,9 +198,8 @@ tags :
         <div class="trending-list">
             <div class="post post-single">
                 <div class="post-inner">
-                    <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');">
-                        <div class="section-title-h3"><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">What is business to business e commerce? B2B ecommerce examples</a></div>
-                    </div>
+                    <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');"></div>
+                    <div class="section-title-h3">What is business to business e commerce? B2B ecommerce examples</div>
                     <div class="post-descr">
                         Business to business in ecommerce is an online business model with flexible enterprise software as a ground solution for purchasing, selling and promoting services, information, or products.<br /><a href="{{ '/glossary/what-is-b2b-ecommerce' | absolute_url }}">Read more...</a>
                     </div>
@@ -208,9 +207,8 @@ tags :
             </div>
             <div class="post post-single">
                 <div class="post-inner">
-                    <div class="post-media" style="background-image: url('../../assets/images/blog/b2b-online-aftermath1.jpg');">
-                        <div class="section-title-h3"><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">B2B Online Aftermath</a></div>
-                    </div>
+                    <div class="post-media" style="background-image: url('../../assets/images/blog/b2b-online-aftermath1.jpg');"></div>
+                    <div class="section-title-h3">B2B Online Aftermath</div>
                     <div class="post-descr">
                         B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to share our impressions from this experience.<br /><a href="{{ '/blog/b2b-online-aftermath' | absolute_url }}">Read more...</a>
                     </div>
@@ -218,11 +216,46 @@ tags :
             </div>
             <div class="post post-single">
                 <div class="post-inner">
-                    <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');">
-                        <div class="section-title-h3"><a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">Top B2B e commerce sites and companies</a></div>
-                    </div>
+                    <div class="post-media" style="background-image: url('../../assets/images/what-is-b2b-ecommerce.jpg');"></div>
+                    <div class="section-title-h3">Top B2B e commerce sites and companies</div>
                     <div class="post-descr">
                         Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.<br /><a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}">Read more...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="blog" style="background: #fff; padding: 0; padding-bottom: 40px;">
+    <div style="margin-top: 40px; text-align: center;">
+        <h2 class="sub-title">The newest B2B ECommerce Trends from our Blog</h2>
+    </div>
+    <div class="trending __responsive">
+        <div class="trending-list">
+            <div class="post post-single">
+                <div class="post-inner">
+                    <div class="post-media" style="background-image: url('../../assets/images/blog/b2becommerce.jpg');"></div>
+                    <div class="section-title-h3">Top 5 B2B ecommerce challenges and solutins</div>
+                    <div class="post-descr">
+                        Learn more about Virto Commerce team's B2B eCommerce experience. We have shared our vision on top 5 B2B eCommerce challenges.<br /><a href="{{ '/blog/top5-b2b-ecommerce-challenges' | absolute_url}}">Read more...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="post post-single">
+                <div class="post-inner">
+                    <div class="post-media" style="background-image: url('../../assets/images/blog/b2b-b2c-difference.png');">                    </div>
+                    <div class="section-title-h3">Difference between B2B and B2C ecommerce solution</div>
+                    <div class="post-descr">
+                        What are the main differences between b2b and b2c ecommerce solutions. Discover B2B ecommerce platforms specifics in Virto Commerce ecommerce blog.<br /><a href="{{ '/blog/difference-between-b2b-and-b2c-ecommerce-solution' | absolute_url }}">Read more...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="post post-single">
+                <div class="post-inner">
+                    <div class="post-media" style="background-image: url('../../assets/images/blog/B2B-Online-Aftermath.jpg');"></div>
+                    <div class="section-title-h3">B2B Online Aftermath</a></div>
+                    <div class="post-descr">
+                        B2B Online is where world leading manufacturers share their experience with the fellow professionals in the field. Now we're excited to present our B2B e-commerce software.<br /><a href="{{ '/blog/b2b-online-aftermathf' | absolute_url }}">Read more...</a>
                     </div>
                 </div>
             </div>
