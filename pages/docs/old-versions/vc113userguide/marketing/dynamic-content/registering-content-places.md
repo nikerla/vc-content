@@ -16,9 +16,9 @@ Content Places must be registered in VirtoCommerce administration application be
 1. Open **Settings** module
 2. Go to **Content Places** tab
 3. Click **ADD** button
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. In the wizard set Name and Description fields.
-  <img src="../../../../assets/images/docs/image2013-5-30 16_20_35.png" />
+  <img src="../../../../assets/images/docs/image2013-5-30_16_20_35.png" />
 
 Name should match the area name in the page template created by the web developer.
 
