@@ -89,9 +89,12 @@
     {% endif %}
 </div>
 <script type="text/javascript">
-    $('.gallery-list').magnificPopup({
-        delegate: 'a', // child items selector, by clicking on it popup will open
-        type: 'image',
-        gallery: { enabled: true }
-    });
+    if ($('.gallery-list').length)
+    {
+        $('.gallery-list').magnificPopup({
+            delegate: 'a', // child items selector, by clicking on it popup will open
+            type: 'image',
+            gallery: { enabled: true }
+        });
+    }
 </script>
