@@ -17,13 +17,13 @@ Once you downloaded and installed VirtoCommerce SDK open the Projects Configurat
 
 After new project created open Commerce Manager for that project and login. In order to do that first browse the frontend to launch IIS express for the project. To browse it right-click the project row and click **Browse**. A page like on the screenshot below will show up.
 
-<img src="../../../../assets/images/docs/image2013-11-26 12_53_48.png" />
+<img src="../../../../assets/images/docs/image2013-11-26_12_53_48.png" />
 
 That is because of no open store is configured for the project. The working store will be created and available after you complete the tutorial.
 
 Now right-click the project in the Project Manager and select "Commerce manager" to open it.
 
-<img src="../../../../assets/images/docs/image2013-11-26 9_24_34.png" />
+<img src="../../../../assets/images/docs/image2013-11-26_9_24_34.png" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8oQ2eNagOqA" frameborder="0" allowfullscreen></iframe>
 
@@ -163,7 +163,7 @@ In this sample store there will be two tax categories. That is "Clothes" and "Sh
 
 Next, prepare the variations import file.
 
-<img src="../../../../assets/images/image2013-11-21 _7_48_42.png" />
+<img src="../../../../assets/images/image2013-11-21_17_48_42.png" />
 
 There are many variations described in the file. As you can see variations have more properties. Those are weight of the item, tax category and property values for property set assigned.
 
