@@ -9,4 +9,4 @@ priority: 1
 
 The following figure shows the order related classes with their properties and relationships between them.
 
-<img src="../../../../assets/images/docs/image2014-1-9 10_39_53.png" />
+<img src="../../../../assets/images/docs/image2014-1-9_10_39_53.png" />

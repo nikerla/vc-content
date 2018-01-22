@@ -70,7 +70,7 @@ For category property set select "Category" as target and choose "Display name" 
 
 For products property set select "Products" as target type and don't select any properties there.
 
-<img src="../../../../assets/images/image2014-6-13 11_58_13.png" />
+<img src="../../../../assets/images/image2014-6-13_11_58_13.png" />
 
 For variations property set select "Sku" as target type and choose "Size" and "Color" properties to be included into it.
 
@@ -92,7 +92,7 @@ In order to assign prices to items to be able to sell them price lists (there ar
 4. Set the name and description.
 5. Select the "Sale EUR Price List" from the list of price lists.
 6. Select the just created "Boutique" catalog from the list of catalogs.
-  <img src="../../../../assets/images/image2013-11-25 15_27_16.png" />
+  <img src="../../../../assets/images/image2013-11-25_15_27_16.png" />
 7. Proceed to the next step.
 8. Leave the Step 2 options default. And proceed to the next step.
 9. In the Step 3 set the dates when the price list will be available. Leave them blank if the price list should be always available.
@@ -110,7 +110,7 @@ The example will demonstrate how to setup "Boutique" catalog.
 
 The Boutique catalog will have the next structure:
 
-<img src="../../../../assets/images/image2013-11-21 17_23_19.png" />
+<img src="../../../../assets/images/image2013-11-21_17_23_19.png" />
 
 Prerequisite: a catalog named "Boutique" with properties and property sets was created.
 
@@ -145,31 +145,31 @@ There can be more required properties in the selected property set, that is sele
 
 Here is the import file for categories.
 
-<img src="../../../../assets/images/image2013-11-21 17_6_8.png" />
+<img src="../../../../assets/images/image2013-11-21_17_6_8.png" />
 
 In the example 8 categories will be created in the Boutique catalog. Clothes and Shoes categories will be added to the root of the catalog as their ParentCategory column value is empty. Men, Women, Kids categories will be subcategories of both the Clothes and Shoes categories as their ParentCategory column contains category code value for each of the root categories.
 
 Now prepare file to import Products. Those are the placeholders for variations (SKUs).
 
-<img src="../../../../assets/images/image2013-11-21 17_26_42.png" />
+<img src="../../../../assets/images/image2013-11-21_17_26_42.png" />
 
 In the example there are 8 products that won't be sold directly, they will have related items (variations).
 
 Next, prepare import data to import tax categories.
 
-<img src="../../../../assets/images/image2013-11-22 14_46_48.png" />
+<img src="../../../../assets/images/image2013-11-22_14_46_48.png" />
 
 In this sample store there will be two tax categories. That is "Clothes" and "Shoes" so variations has to be assigned to one of the tax category for taxes to be applied on them.
 
 Next, prepare the variations import file.
 
-<img src="../../../../assets/images/image2013-11-21 17_48_42.png" />
+<img src="../../../../assets/images/image2013-11-21 _7_48_42.png" />
 
 There are many variations described in the file. As you can see variations have more properties. Those are weight of the item, tax category and property values for property set assigned.
 
 Next prepare data file for item assets. Those are mainly images of the item.
 
-<img src="../../../../assets/images/image2013-11-21 17_57_20.png" />
+<img src="../../../../assets/images/image2013-11-21_17_57_20.png" />
 
 Assets should be placed under ~\Boutique\App_Data\Virto\Storage folder. In this case the "catalog" subfolder should be created and each product's assets are placed in it's own subfolder named by the product code.
 
@@ -177,13 +177,13 @@ As you can see the path to the asset is relative to the ~\Boutique\App_Data\Vir
 
 Next prepare import file for relations. That is where relations between products and variations are defined.
 
-<img src="../../../../assets/images/image2013-11-21 17_53_23.png" />
+<img src="../../../../assets/images/image2013-11-21_17_53_23.png" />
 
 As you can see the relation type is "sku". That means that child products are SKUs of the main product. The "Group" column defines the property name by which child products will be grouped and shown as an option selection in the store frontend later. Parent and child codes are codes of the items.
 
 Next prepare data file to import prices for the variations.
 
-<img src="../../../../assets/images/image2013-11-21 18_2_23.png" />
+<img src="../../../../assets/images/image2013-11-21_18_2_23.png" />
 
 The code of the price list should be provided in the Pricelist column. Quantity sets the amount of purchased items to apply the price. List price, Sale price and Sku code columns are self explanatory.
 
@@ -207,41 +207,41 @@ The data should be imported in a certain order. There should be categories prese
 
 1. Open Merchandise Management module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the Step 1 of the wizard set import type "Category", select property set, click "Select file" navigate to Imports folder and choose the categories import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-22 16_24_50.png" />
+<img src="../../../../assets/images/image2013-11-22_16_24_50.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. The import file doesn't contain the required **Start Date** property, so it needs to be set manually. Also check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
-  <img src="../../../../assets/images/image2013-11-21 17_22_23.png" />
+  <img src="../../../../assets/images/image2013-11-21_17_22_23.png" />
 7. Finish the wizard.
 
 #### 2.2 Create Products import job
 
 1. Open catalog module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import type "Product", select property set, click "Select file" navigate to Imports folder and choose the products import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-22 16_49_22.png" />
+<img src="../../../../assets/images/image2013-11-22_16_49_22.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. The import file doesn't contain the required **Start Date** property, it's set automatically to current date. Also check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
 
 > **Is Active** should be set to True as products should be visible in the store, **Is Buyable** set to False as products can't be sold directly, only variation of the product can be sold.
-> <img src="../../../../assets/images/image2013-11-25 10_16_37.png" />
+> <img src="../../../../assets/images/image2013-11-25_10_16_37.png" />
 
 7. Finish the wizard.
 
@@ -250,21 +250,21 @@ The wizard step should look like on screenshot below:
 1. Open **Settings** module.
 2. Open **Taxes** tab.
 3. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 4. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 5. In the wizard Step 1 set import type "TaxCategory", enter import job name, click "Select file", navigate to Imports folder and choose the TaxCategories.csv import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 13_15_2.png" />
+<img src="../../../../assets/images/image2013-11-25_13_15_2.png" />
 
 6. Click "Next" to proceed to Step 2.
 7. The system automatically identified which columns match entity properties. Check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
 
-<img src="../../../../assets/images/image2013-11-25 13_15_37.png" />
+<img src="../../../../assets/images/image2013-11-25_13_15_37.png" />
 
 8. Finish the wizard.
 
@@ -272,22 +272,22 @@ The wizard step should look like on screenshot below:
 
 1. Open Merchandise Management module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import type "Sku", select property set, click "Select file" navigate to Imports folder and choose the variations import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 10_49_17.png" />
+<img src="../../../../assets/images/image2013-11-25_10_49_17.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. The import file doesn't contain the required **Start Date** property, it's set automatically to current date. Also check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
 
 > **Is Buyable** should be set to True as variations can be sold, **Is Active** set to False as variation can't be viewed directly it should be selected through product page.
-> <img src="../../../../assets/images/image2013-11-25 11_59_27.png" />
+> <img src="../../../../assets/images/image2013-11-25_11_59_27.png" />
 
 > As Color is multilingual property it has mapping property per locale.
 
@@ -297,21 +297,21 @@ The wizard step should look like on screenshot below:
 
 1. Open Merchandise Management module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import type "ItemRelation", click "Select file", navigate to Imports folder and choose the item relation import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_24_14.png" />
+<img src="../../../../assets/images/image2013-11-25_12_24_14.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. Check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
 
-<img src="../../../../assets/images/image2013-11-25 12_28_37.png" />
+<img src="../../../../assets/images/image2013-11-25_12_28_37.png" />
 
 > There are two properties Source item catalog and Target item catalog . These properties can be set in case you're not sure if there can be items with the same codes in several catalogs, to point where to locate the items.
 
@@ -321,21 +321,21 @@ The wizard step should look like on screenshot below:
 
 1. Open Merchandise Management module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import type "ItemAsset", click "Select file", navigate to Imports folder and choose the assets import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_45_55.png" />
+<img src="../../../../assets/images/image2013-11-25_12_45_55.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. Check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_47_8.png" />
+<img src="../../../../assets/images/image2013-11-25_12_47_8.png" />
 
 7. Finish the wizard.
 
@@ -343,21 +343,21 @@ The wizard step should look like on screenshot below:
 
 1. Open **Price Lists** module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import job name, click "Select file", navigate to Imports folder and choose the prices import file as template. The column delimiter will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_52_3.png" />
+<img src="../../../../assets/images/image2013-11-25_12_52_3.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. Check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_59_3.png" />
+<img src="../../../../assets/images/image2013-11-25_12_59_3.png" />
 
 7. Finish the wizard.
 
@@ -392,17 +392,17 @@ Several shipping options are already provided with the VirtoCommerce SDK install
 4. Enter required fields.
 5. Choose shipping gateway that will be used to apply shipping data transactions.
 
-<img src="../../../../assets/images/image2013-11-26 13_1_23.png" />
+<img src="../../../../assets/images/image2013-11-26 _13_1_23.png" />
 
 > VirtoCommerce contains 1 sample shipping gateway out of the box. If you need to configure your own (new) shipping gateway, you need to implement IShippingGateway interface and add the class description into Gateway table of the VirtoCommerce store database:
-> <img src="../../../../assets/images/image2013-11-25 17_15_43.png" />
+> <img src="../../../../assets/images/image2013-11-25_17_15_43.png" />
 > Also if gateway requires parameters, they should be added into the GatewayProperty table:
-> <img src="../../../../assets/images/image2013-11-25 17_17_56.png" />
+> <img src="../../../../assets/images/image2013-11-25_17_17_56.png" />
 
 6. In the step 2 the available packages can be configured.
 7. Step 3 is available only if the selected shipping gateway has any properties. Fill in the properties here. For example:
 
-<img src="../../../../assets/images/image2013-11-26 13_3_24.png" />
+<img src="../../../../assets/images/image2013-11-26_13_3_24.png" />
 
 8. Complete the wizard.
 
@@ -419,11 +419,11 @@ Couple of payment methods are already provided with the VirtoCommerce installati
 6. Set currency and enter base price for the shipping method.
 7. Check **Is Active** checkbox for the shipping method to appear in store checkout page.
 
-<img src="../../../../assets/images/image2013-11-26 16_11_58.png" />
+<img src="../../../../assets/images/image2013-11-26_16_11_58.png" />
 
 8. In the step 2 choose payments under which the shipping method is available as well as tax jurisdiction groups.
 
-<img src="../../../../assets/images/image2013-11-26 16_15_0.png" />
+<img src="../../../../assets/images/image2013-11-26_16_15_0.png" />
 
 9. In the step 3 add shipping method names in different languages.
 10. Complete the wizard.
@@ -446,17 +446,17 @@ Several payment methods are already provided with the VirtoCommerce installation
 6. Select shipping methods that can be applied with the payment method. (Choose the just created one).
 7. Choose payment gateway that will be used to complete payment transactions.
 
-<img src="../../../../assets/images/image2013-11-25 17_11_43.png" />
+<img src="../../../../assets/images/image2013-11-25_17_11_43.png" />
 
 > VirtoCommerce provides over 70 payment gateways out of the box. If you need to configure your own new payment gateway, you need to implement IPaymentGateway interface and add the class description into Gateway table of the store database.
-> <img src="../../../../assets/images/image2013-11-25 17_15_43.png" />
+> <img src="../../../../assets/images/image2013-11-25_17_15_43.png" />
 > Also if gateway requires parameters, they should be added into the GatewayProperty table.
-> <img src="../../../../assets/images/image2013-11-25 17_17_56.png" />
+> <img src="../../../../assets/images/image2013-11-25_17_17_56.png" />
 > More details in the [Payment gateway](docs/old-versions/vc113devguide/working-with-orders/payment-gateway) tutorial.
 
 8. In the step 2 the payment method can be named in different languages. 
 9. Step 3 is available only if the selected payment gateway has any properties. Fill in the properties here. For example:
-  <img src="../../../../assets/images/image2013-11-25 17_21_58.png" />
+  <img src="../../../../assets/images/image2013-11-25_17_21_58.png" />
 10. Complete the wizard.
 
 ## Setup new store
@@ -471,16 +471,16 @@ Finally all the parts required to create new store are completed. The only thing
 6. Select the just created Boutique catalog as the catalog for the store.
 7. Leave the state option as Open, so the store become visible on frontend.
 8. Other settings are optional so you can leave them blank for now.
-  <img src="../../../../assets/images/image2013-11-26 17_23_14.png" />
+  <img src="../../../../assets/images/image2013-11-26_17_23_14.png" />
 9. Proceed to the next step.
 10. In step 2 choose languages of the store (English, Spanish) as well as the default language.
-  <img src="../../../../assets/images/image2013-11-26 17_26_31.png" />
+  <img src="../../../../assets/images/image2013-11-26_17_26_31.png" />
 11. Choose currencies that will be available in the store as well as the default currency.
-  <img src="../../../../assets/images/image2013-11-26 17_26_12.png" />
+  <img src="../../../../assets/images/image2013-11-26_17_26_12.png" />
 12. Proceed to step 3.
 13. In step 3 Tax jurisdictions and tax codes that should be applied in the store can be set. Leave the default values.
 14. In step 4 choose the just created payment method for the store (you can choose more).
-  <img src="../../../../assets/images/image2013-11-26 17_28_56.png" />
+  <img src="../../../../assets/images/image2013-11-26_17_28_56.png" />
 15. Leave blank navigation information in step 5.
 16. Complete the wizard.
 
@@ -516,11 +516,11 @@ Make similar menu for Shoes category or download the TopMenuNodeModel.cshtml an
 
 After all steps are completed you should be able to see the just created store, categories and items on the default web page of the project. There should be a Shoes category like on the screenshot below:
 
-<img src="../../../../assets/images/image2013-11-26 17_14_2.png" />
+<img src="../../../../assets/images/image2013-11-26_17_14_2.png" />
 
 Choose any product to view it and select variation.
 
-<img src="../../../../assets/images/image2013-11-26 17_54_5.png" />
+<img src="../../../../assets/images/image2013-11-26_17_54_5.png" />
 
 You completed the store setup. Now you can define fulfillment centers, tax values, define prices on some conditions, set discounts, dynamic content and more.
 
@@ -532,10 +532,10 @@ In order to run dataservices and frontend configure IIS to the projects folder
 
 Your Web application basic configuration should look similar to the screenshot below:
 
-<img src="../../../../assets/images/image2013-9-19 12_55_45.png" />
+<img src="../../../../assets/images/image2013-9-19_12_55_45.png" />
 
 Where Physical path should be path to your project.
 
 If frontend is configured correctly you should be able to browse the sample store
 
-<img src="../../../../assets/images/image2013-9-19 13_1_27.png" />
+<img src="../../../../assets/images/image2013-9-19_13_1_27.png" />
