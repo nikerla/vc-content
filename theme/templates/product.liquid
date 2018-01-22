@@ -9,7 +9,7 @@
                     </a>
                 </figure>
             </div>
-        </div> 
+        </div>
         <div class="extension-detail">
             <div class="extension-detail_inner __col-w">
                 <div class="extension-info col __col-60">
@@ -35,7 +35,7 @@
                     </div>
                     <ul class="menu">
                         <li class="menu-item __author">
-                               <a class="menu-link" href="{{ '~/' | append: product.vendor.handle | absolute_url }}">{{ product.vendor.name }}</a>
+                            <a class="menu-link" href="{{ '~/' | append: product.vendor.handle | absolute_url }}">{{ product.vendor.name }}</a>
                         </li>
                         <li class="menu-item">
                             <a class="menu-link" style="cursor:pointer;" ng-click="showContactVendorForm()">{{ 'apps.product.contact_developer' | t }}</a>
@@ -88,9 +88,12 @@
     </div>
     {% endif %}
 </div>
+
+{{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
+{{ 'jquery.magnific-popup.js' | asset_url | script_tag }}
+
 <script type="text/javascript">
-    if ($('.gallery-list').length > 0)
-    {
+    if ($('.gallery-list').length) {
         $('.gallery-list').magnificPopup({
             delegate: 'a', // child items selector, by clicking on it popup will open
             type: 'image',
