@@ -33,10 +33,10 @@ Once the return shipment received by the warehouse the Rma request can be comple
 1. Open **Fulfillment** module.
 2. Open **Returns & Exchanges** tab.
 3. Filter the required rma request using filter fields
-  <img src="../../../../assets/images/docs/image2013-6-14 17_28_24.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_17_28_24.png" />
 4. Double click the required Rma request
 5. In the popup dialog edit required fields
-  <img src="../../../../assets/images/docs/image2013-6-14 17_40_26.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_17_40_26.png" />
 
 If all items that stated to be returned has been received and when saved the return status changes from AwaitingStockReturn to AwaitingCompletion.
 
