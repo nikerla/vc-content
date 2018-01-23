@@ -98,7 +98,7 @@ tags :
     </div>
     <p class="text">The Windows Cloud technology will also allow you to avoid any hosting issues, ensuring the security of your site. This alternative to Shopify offers the latest modern technology that will allow you to set up a website in less than an hour, providing such great features as technical documentation, tech support, cloud hosting and excellent markup tools. Great .NET architecture and free code architecture will allow you to customize your website with no sweat and for any niche you want!
 </p>
-    <p class="text">Both of these Shopify alternatives are known for their great simplicity, intuitive design and tremendous efforts put into customer support. Get on the board and start your online store right now!</p>
+    <p class="text">All these Shopify alternatives are known for their great simplicity, intuitive design and tremendous efforts put into customer support. Get on the board and start your online store right now!</p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/contact-us">Request Information & Demo</a>
