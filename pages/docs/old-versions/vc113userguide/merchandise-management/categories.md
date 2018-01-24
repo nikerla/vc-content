@@ -59,7 +59,7 @@ The category edit view will open. Here you can edit the general settings of the 
 
 The "SEO" tab is used to specify SEO data for the category, such as URL Keyword, Page title, Meta description, Image alternative text.
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_45_40.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_45_40.png" />
 
 URL Keyword should not contain restricted characters, otherwise validation will not allow to save such a Keyword.
 

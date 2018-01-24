@@ -31,4 +31,4 @@ Information in overview tabs is added when product creating manually. These are 
 
 This data can be edited by double-click right in the Virto Commerce Manager with no refer to the source database.
 
-<img src="../../../../../assets/images/docs/image2014-2-3 15_38_41.png" />
+<img src="../../../../../assets/images/docs/image2014-2-3_15_38_41.png" />

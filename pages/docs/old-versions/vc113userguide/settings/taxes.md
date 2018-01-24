@@ -42,9 +42,9 @@ By default, shipping costs and taxes are not refunded.
 2. Open **Taxes** tab.
 3. Open **Taxes** child tab.
 4. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 5. In the first and the only step of the wizard enter self-explanatory Name of the Tax Category.
-  <img src="../../../../assets/images/docs/image2013-6-7 10_29_26.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_10_29_26.png" />
 6. Click **Finish**.
 
 The Category will be displayed in the list of Tax Categories.
@@ -75,9 +75,9 @@ The Category will be displayed in the list of Tax Categories.
 2. Open **Taxes** tab.
 3. Open **Jurisdictions** child tab.
 4. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 5. In the first and the only step of the wizard setup Jurisdictions properties by your needs.
-  <img src="../../../../assets/images/docs/image2013-6-7 10_52_21.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_10_52_21.png" />
 
 |Property|Description|
 |--------|-----------|
@@ -125,9 +125,9 @@ The created Jurisdiction will be displayed in the list.
 2. Open **Taxes** tab.
 3. Open **Jurisdiction** groups child tab.
 4. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 5. In the first and the only step of the wizard setup Jurisdiction group properties
-  <img src="../../../../assets/images/docs/image2013-6-7 11_5_51.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_11_5_51.png" />
 
 |Property|Description|
 |--------|-----------|
@@ -168,9 +168,9 @@ The created Jurisdiction group will be displayed in the list.
 2. Open **Taxes** tab.
 3. Open **Taxes** child tab.
 4. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 5. In the first step of the wizard setup the Tax properties
-  <img src="../../../../assets/images/docs/image2013-6-7 11_41_55.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_11_41_55.png" />
 
 |Property|Description|
 |--------|-----------|
@@ -180,11 +180,11 @@ The created Jurisdiction group will be displayed in the list.
 
 6. Click **Next**.
 7. In the second step of the wizard setup the display names for the Tax for available languages if any.
-  <img src="../../../../assets/images/docs/image2013-6-7 12_16_46.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_12_16_46.png" />
   * Click Add button above the list of display names
-    <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+    <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
   * In the popup dialog select the target language and enter the Display name value
-    <img src="../../../../assets/images/docs/image2013-6-7 12_7_54.png" />
+    <img src="../../../../assets/images/docs/image2013-6-7_12_7_54.png" />
   * Click **OK**
     The created display name will be displayed in the list.
 8. Click **Finish**.
@@ -193,9 +193,9 @@ The created Jurisdiction group will be displayed in the list.
 9. Open **Tax** (see Editing Tax section of this guide page to open tax).
 10. Open **Tax values** tab.
 11. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 12. In the popup dialog setup properties
-  <img src="../../../../assets/images/docs/image2013-9-20 16_1_5.png" />
+  <img src="../../../../assets/images/docs/image2013-9-20_16_1_5.png" />
 
 |Property|Description|
 |Tax Category|Select target tax category in the list of available|

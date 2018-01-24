@@ -17,7 +17,7 @@ To find the block of store settings, open Settings module and navigate to "Store
 
 Open "Stores" tab to view the list of storefronts existing in your commerce manager. Double click a store to view full information about it.
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_20_53.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_20_53.png" />
 
 The settings applied for each store are grouped in tabs by their means:
 
@@ -52,7 +52,7 @@ Here the currencies are defined as well. Just select default currency and define
 
 The "SEO" tab is used to specify SEO data for the store, such as URL Keyword, Page title, Meta description, Image alternative text.
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_50_24.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_50_24.png" />
 
 URL Keyword should not contain restricted characters, otherwise validation will not allow to save such a Keyword.
 

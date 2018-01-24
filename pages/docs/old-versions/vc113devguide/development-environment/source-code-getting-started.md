@@ -19,11 +19,11 @@ priority: 3
 
 1. Download the latest source code from <a href="http://virtocommerce.codeplex.com" rel="nofollow">http://virtocommerce.codeplex.com</a>
 2. Unblock the archive file.
-  <img src="../../../../assets/images/docs/image2013-9-19 11_48_33.png" />
+  <img src="../../../../assets/images/docs/image2013-9-19_11_48_33.png" />
 3. Extract the source code project.
 4. Open the VirtoCommerce.sln solution file and build it.
 5. Go to ~\src\Extensions\Setup\VirtoCommerce.PowerShell\ folder right-click and run setup-database.ps1 Powershell script
-  <img src="../../../../assets/images/docs/image2013-9-19 12_0_47.png" />
+  <img src="../../../../assets/images/docs/image2013-9-19_12_0_47.png" />
 
 > Powershell v3.0 should be installed (<a href="http://www.microsoft.com/en-us/download/details.aspx?id=34595" rel="nofollow">download</a>) or if you have Powershell v2.0 in the system create a file “powershell.exe.config” in the C:\Windows\System32\WindowsPowerShell\v1.0 with content:
 > ```
@@ -38,36 +38,36 @@ priority: 3
 
 Wait until script finishes database deployment.
 
-<img src="../../../../assets/images/docs/image2013-9-19 12_39_27.png" />
+<img src="../../../../assets/images/docs/image2013-9-19_12_39_27.png" />
 
 6. Go to ~\Tools\ElasticSearch\bin\ and run elasticsearch.bat batch file.
 
-<img src="../../../../assets/images/docs/image2013-9-19 12_43_46.png" />
+<img src="../../../../assets/images/docs/image2013-9-19_12_43_46.png" />
 
 7. Browse the following URL: **http://localhost:9200/**. If you see the page like in the screenshot below, then the server is running successfully.
 
-<img src="../../../../assets/images/docs/image2013-9-19 12_46_14.png" />
+<img src="../../../../assets/images/docs/image2013-9-19_12_46_14.png" />
 
 8. Index the database. Go to ~\src\Extensions\Setup\VirtoCommerce.PowerShell\ folder and run Powershell script setup-search.ps1
 
-<img src="../../../../assets/images/docs/image2013-9-19 16_33_22.png" />
+<img src="../../../../assets/images/docs/image2013-9-19_16_33_22.png" />
 
 9. Download assets required for frontend from <a href="https://virtocommerce.codeplex.com/releases/view/112289" rel="nofollow">here</a>, extract the archive to ~\src\Presentation\FrontEnd\StoreWebApp\AppData\Virto folder.
 10. In order to run dataservices and frontend configure IIS to the ~\src\Presentation\FrontEnd\StoreWebApp folder. Set permissions for this folder to allow IIS modify it (IIS_IUSRS user).
 
 Your Web application basic configuration should look similar to the screenshot below:
 
-<img src="../../../../assets/images/docs/image2013-9-19 12_55_45.png" />
+<img src="../../../../assets/images/docs/image2013-9-19_12_55_45.png" />
 
 > The Alias name must contain only lower case letters ex. "store" and not "Store"!
 
 If frontend is configured correctly you should be able to browse the sample store
 
-<img src="../../../../assets/images/docs/image2013-9-19 13_1_27.png" />
+<img src="../../../../assets/images/docs/image2013-9-19_13_1_27.png" />
 
 11. Set Presentation.Application project of the VirtoCommerce solution as startup and Start it. The backend should be launched.
 
-<img src="../../../../assets/images/docs/image2013-9-19 13_11_7.png" />
+<img src="../../../../assets/images/docs/image2013-9-19_13_11_7.png" />
 
 12. Log in
 

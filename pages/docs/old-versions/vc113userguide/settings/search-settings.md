@@ -7,4 +7,4 @@ priority: 4
 ---
 To control the behavior of searching and catalog browsing, use Search Settings. Open "Search" tab in the "Settings" module. Here are the search settings for storefront and Virto Commerce Manager are stored. If indexes should be rebuilt click "REBUILD" button.
 
-<img src="../../../../assets/images/docs/image2013-10-2 16_59_45.png" />
+<img src="../../../../assets/images/docs/image2013-10-2_16_59_45.png" />

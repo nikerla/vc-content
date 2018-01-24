@@ -50,11 +50,11 @@ Steps to create user:
 1. Select **Users** module from the modules list.
 2. Select **Accounts** tab inside Users module.
 3. Click **Add** button in the upper right corner of the list of users.
-  <img src="../../../assets/images/docs/image2013-5-27 13_14_58.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_13_14_58.png" />
 4. In the wizard popup view first step fill in required fields (Login/Password):
-  <img src="../../../assets/images/docs/image2013-5-27 13_19_32.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_13_19_32.png" />
 5. In the wizard popup view step 2 select roles that should be assigned to the user from the list of predefined roles:
-  <img src="../../../assets/images/docs/image2013-5-27 13_24_9.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_13_24_9.png" />
 6. After all required roles has been assigned click **Finish** button.
 
 The just created user will appear in the list of users.
@@ -116,10 +116,10 @@ Steps to create user:
 1. Select Users module from the modules list.
 2. Select Roles tab inside Users module.
 3. Click Add button in the upper right corner of the list of roles.
-  <img src="../../../assets/images/docs/image2013-5-27 13_14_58.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_13_14_58.png" />
 4. In the wizard popup view fill in required fields (Name, Permissions)
 5. Click **Finish** button:
-  <img src="../../../assets/images/docs/image2013-5-27 17_25_54.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_17_25_54.png" />
 
 ## Editing a Role
 

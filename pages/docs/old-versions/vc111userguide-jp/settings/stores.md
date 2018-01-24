@@ -17,7 +17,7 @@ Store Setting のブロックを参照する際には、Settings モジュール
 
 "Stores" タブを開き、Commerce manager で存在している店舗リストに移動します。店舗情報を参照するには、store をダブルクリックします。
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_20_53.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_20_53.png" />
 
 それぞれストアの為に適用された設定は、タブでグループ化し表示されます。
 
@@ -52,7 +52,7 @@ Store Setting のブロックを参照する際には、Settings モジュール
 
 "SEO" タブは、ストアのSEOデータとして利用されます。URLキーワード、ページタイトル、メタ説明、イメージ代替テキストなどが利用可能です。
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_50_24.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_50_24.png" />
 
 URLキーワードは、制限された文字を含めることはできません。
 

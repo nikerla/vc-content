@@ -27,9 +27,9 @@ priority: 2
 1. **Fulfillment** モジュールを開きます。
 2. **Picklists** タブを開きます。
 3. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. 適切なフルフィルメントセンターを選択する為にポップアップダイアログが表示されます。(一か所の場合は、自動的に選択されます。)
-  <img src="../../../../assets/images/docs/image2013-6-14 16_18_42.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_16_18_42.png" />
 5. 出荷リストからピッキングする出荷を選択する。Released のみの出荷も、ここで選択できるようになります。
 6. **Finish** ボタンをクリックします。
 
@@ -59,10 +59,10 @@ priority: 2
 
 1. **Fulfillment** モジュールを開きます。
 2. 右上コーナーの
-  <img src="../../../../assets/images/docs/image2013-6-14 16_32_40.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_16_32_40.png" />
   ボタンをクリックします。
 3. 配送完了の注文を選択後ポップアップダイアログでは、配送完了する際、オプションとして Tracking number を入力します。
-  <img src="../../../../assets/images/docs/image2013-6-14 16_34_25.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_16_34_25.png" />
 4. 配送完了の為に **OK** ボタンをクリックします。
 
 **備考**: 梱包は、出荷が完了する為だけに準備されています。

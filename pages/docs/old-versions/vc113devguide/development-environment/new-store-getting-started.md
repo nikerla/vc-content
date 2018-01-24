@@ -392,7 +392,7 @@ Several shipping options are already provided with the VirtoCommerce SDK install
 4. Enter required fields.
 5. Choose shipping gateway that will be used to apply shipping data transactions.
 
-<img src="../../../../assets/images/image2013-11-26 _13_1_23.png" />
+<img src="../../../../assets/images/image2013-11-26_13_1_23.png" />
 
 > VirtoCommerce contains 1 sample shipping gateway out of the box. If you need to configure your own (new) shipping gateway, you need to implement IShippingGateway interface and add the class description into Gateway table of the VirtoCommerce store database:
 > <img src="../../../../assets/images/image2013-11-25_17_15_43.png" />

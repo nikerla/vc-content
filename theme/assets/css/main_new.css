@@ -1375,10 +1375,9 @@ a
 	background-position: -150px 0;
 }
 
-.__socials .list-item a, .footer-wrap .column .dev .menu-item .link-white::before, .footer-wrap .column .partner a,
-.no-touch .__socials .list-item a:hover, .no-touch .footer-wrap .column .dev .menu-item .link-white:hover::before, .no-touch .footer-wrap .column .partner a:hover
-{
-	background-color: transparent;
+.__socials .list-item a, .__socials.bg .list-item a, .footer-wrap .column .dev .menu-item .link-white::before, .footer-wrap .column .partner a,
+.no-touch .__socials .list-item a:hover, .no-touch .footer-wrap .column .dev .menu-item .link-white:hover::before, .no-touch .footer-wrap .column .partner a:hover {
+    background-color: transparent;
 }
 
 .footer-wrap .column .social
@@ -1416,6 +1415,35 @@ a
 .__socials .list-item.ln a
 {
 	background-position: -75px 0;
+}
+.__socials .list-item.mail a
+{
+    background-position: -100px 0;
+}
+
+.__socials.bg .list-item a
+{
+    background-image: url(bg_socials_icon.png) !important;
+    height: 25px;
+    width: 25px;
+}
+
+.__socials.bg .list-item.fb a
+{
+    background-position: -5px -5px;
+}
+
+.__socials.bg .list-item.plus a
+{
+    background-position: -40px -5px;
+}
+
+.__socials.bg .list-item.ln a {
+    background-position: -110px -5px;
+}
+
+.__socials.bg .list-item.twit a {
+    background-position: -75px -5px;
 }
 
 .new .banner

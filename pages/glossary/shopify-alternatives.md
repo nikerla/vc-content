@@ -55,20 +55,50 @@ tags :
         </div>
     </div>
             <p class="text">Just like Weebly, another Shopify alternative, this platform provides a good variety of how-tos, some useful tips, and videos that will help you in the process of setting up and running your store. With the advanced content-marketing features in this alternative to Shopify, you can also promote the product on the web and drastically increase conversion rates.</p>
-    <h2 >Virto Commerce</h2>
-    {% include 'vc-magento-banner' with current_url : 'glossary/shopify-alternatives' %}
+    <h2 class="section-title">LemonStand</h2>
     <div class="col-w">
         <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-           Another great Shopify alternative is Virto Commerce. It is the only enterprise-level e-commerce solution among Shopify competitors that offers fully open source software. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies. 
-            <p class="text">Virto Commerce is excellent in managing large volumes of SKUs. But what makes it truly stand out among other alternatives to Shopify is the fact that it provides clear product catalogs and maximizes your opportunities in content marketing, SEO, and product promotion. With this unique solution, you will be able to create your store’s page fast and easy. </p>
+            An exceptional open-source Shopify alternative that delivers solutions to its clients from the cloud. <a href="https://lemonstand.com/" rel="nofollow">LemonStand</a> is one of those Shopify competitors that deserve to be on top due to the fact that it lacks any significant cons and has always posed itself as a reliable platform. Due to its open-source features, this is the platform that is highly customizable and easy to scale. However, don’t be fooled by the fact that this platform is open source, therefore it should come for free. Be ready to pay more money for the packages compared to Shopify. With the packages you  receive the great design customization, product options and custom SSL. While the pricing may seem expensive, yet be sure that you are receiving straightforward features that worth it. 
         </div>
         <div class="col __col-30">
-            <img alt="Shopify Alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
+            <img alt="Shopify Alternative - LemonStand" src="assets/images/lemonstand.jpg" />
+        </div>
+    </div>
+    <p class="text">By building website with LemonStand, you are now free of credit card transaction charges from the platform itself, which actually can make a medium-large size business spend less money on the shopping cart platform as you would otherwise do with Shopify. Other than that, if you want a custom made storefront, be ready for the high customizability options that you may only take advantage of by hiring a web-design professional.</p>
+    <h2 class="section-title">Volusion</h2>
+    <div class="col-w">
+        <div class="col __col-30">
+            <img alt="Shopify Alternative - Volusion" src="assets/images/volusion1.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+            A major player in the e-commerce field and a direct Shopify alternative. It currently serves over 40,000 businesses and is a cloud-based shopping cart solution that can be a perfect fit for small-sized businesses. <a href="https://www.volusion.com/" rel="nofollow">Volusion</a>, like other capable ecommerce online Shopify competitors, allows you to focus on selling your product online without the need to worry about providing hosting or connecting necessary applications to your website. The packages vary on the amount of applications you can connect to your website. Volusion have been praised among ecommerce community for its prominent features: easy-to- use user interface, 24/7/365 customer support services, unlimited product options, and absence of any transaction fees whatsoever. For the last mentioned feature in particular, Volusion can be a better option for you. To add to this, add one-page checkout as well as eBay integration that is already embedded into the solution (you will have to purchase a separate add-on in Shopify).
+        </div>
+    </div>
+    <p class="text">Besides, select the design for your website from the extensive list of templates that are available with all of the packages. The only thing that you should be aware of when using Volusion, is that it can charge fees for overage bandwidth, the amount of which is varied in packages. The price you can be suddenly hit with when tipping over the limit is $7/GB.</p>
+        <h2 class="section-title">Big Cartel</h2>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+            Next shopping cart among our list of Shopify competitors is the one that is geared specifically toward art creators. More than million musicians, designers, painters and other artists using this particular solution to sell their masterpieces. More and more people are now trusting <a href="https://www.bigcartel.com/" rel="nofollow">Big Cartel</a> for their storefront due to its affordable pricing, essential features, unlimited bandwidth, HTML &  CSS customization, inventory tracking software, quick integration with PayPal, Google Analytics and Facebook. Get all the features you need to seamlessly set up your new website and start selling online with no prior coding experience required. Even though it is more limited in its features than Shopify, Big Cartel is cheaper if you do not have plans for building a large online store. 
+        </div>
+        <div class="col __col-30">
+            <img alt="Shopify Alternative - Big Cartel" src="assets/images/bigcartel.jpg" />
+        </div>
+    </div>
+    <p class="text">Also, despite the platform not charging any transaction fees, be ready for PayPal to charge you higher payments. The other disappointing fact is that Big Cartel does not offer chat or phone support, which is a crucial feature in building selling websites. In the end, if you are unsure whether you should use Big Cartel or not, you should definitely try it as the 5 product plan comes absolutely free of charge.</p>
+    <h2 class="section-title">Virto Commerce</h2>
+    {% include 'vc-magento-banner' with current_url : 'glossary/shopify-alternatives' %}
+    <div class="col-w">
+        <div class="col __col-30">
+            <img alt="Shopify Alternative - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />
+        </div>
+        <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+        Another great Shopify alternative is Virto Commerce. It is the only enterprise-level e-commerce solution among Shopify competitors that offers fully open source software. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies.         
+        <p class="text">Virto Commerce is excellent in managing large volumes of SKUs. But what makes it truly stand out among other alternatives to Shopify is the fact that it provides clear product catalogs and maximizes your opportunities in content marketing, SEO, and product promotion. With this unique solution, you will be able to create your store’s page fast and easy.</p>
         </div>
     </div>
     <p class="text">The Windows Cloud technology will also allow you to avoid any hosting issues, ensuring the security of your site. This alternative to Shopify offers the latest modern technology that will allow you to set up a website in less than an hour, providing such great features as technical documentation, tech support, cloud hosting and excellent markup tools. Great .NET architecture and free code architecture will allow you to customize your website with no sweat and for any niche you want!
 </p>
-    <p class="text">Both of these Shopify alternatives are known for their great simplicity, intuitive design and tremendous efforts put into customer support. Get on the board and start your online store right now!</p>
+    <p class="text">All these Shopify alternatives are known for their great simplicity, intuitive design and tremendous efforts put into customer support. Get on the board and start your online store right now!</p>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
         <a class="button fill" href="/contact-us">Request Information & Demo</a>

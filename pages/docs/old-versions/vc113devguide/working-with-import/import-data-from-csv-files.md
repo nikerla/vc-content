@@ -72,7 +72,7 @@ Steps to import items from the csv file:
 3. If you already have import job that matches your needs to import entities go to step 5.
 4. Add import job.
 
-<img src="../../../../assets/images/docs/image2013-11-19 13_31_33.png" />
+<img src="../../../../assets/images/docs/image2013-11-19_13_31_33.png" />
 
 According to the item type import job wizard can differ from the above. Above is the most complete set of available fields for the import job.
 
@@ -114,7 +114,7 @@ The example will demonstrate how to setup "Boutique" catalog using the above gui
 
 The Boutique catalog will have the next structure:
 
-<img src="../../../../assets/images/docs/image2013-11-21 17_23_19.png" />
+<img src="../../../../assets/images/docs/image2013-11-21_17_23_19.png" />
 
 **Prerequisite**: Create new Catalog and name it "Boutique" with properties and property sets using the VirtoCommerce manager.
 
@@ -143,31 +143,31 @@ There can be more required properties in the selected property set, that is sele
 
 Here is the import file for categories.
 
-<img src="../../../../assets/images/docs/image2013-11-21 17_6_8.png" />
+<img src="../../../../assets/images/docs/image2013-11-21_17_6_8.png" />
 
 In the example 8 categories will be created in the Boutique catalog. Clothes and Shoes categories will be added to the root of the catalog as their ParentCategory column value is empty. Men, Women, Kids categories will be subcategories of both the Clothes and Shoes categories as their ParentCategory column contains category code value for each of the root categories.
 
 Now prepare file to import Products. Those are the placeholders for variations.
 
-<img src="../../../../assets/images/docs/image2013-11-21 17_26_42.png" />
+<img src="../../../../assets/images/docs/image2013-11-21_17_26_42.png" />
 
 In the example there is 8 products that won't be sold directly, they will have related items (variations).
 
 Next, prepare import data to import tax categories.
 
-<img src="../../../../assets/images/docs/image2013-11-22 14_46_48.png" />
+<img src="../../../../assets/images/docs/image2013-11-22_14_46_48.png" />
 
 In this sample store there will be two tax categories. That is "Clothes" and "Shoes" so variations has to be assigned to one of the tax category for taxes to be applied on them.
 
 Next, prepare the variations import file.
 
-<img src="../../../../assets/images/docs/image2013-11-21 17_48_42.png" />
+<img src="../../../../assets/images/docs/image2013-11-21_17_48_42.png" />
 
 There are many variations described in the file. As you can see variations has more properties set in it. Those are weight of the item, tax category and property values for property set assigned.
 
 Next prepare data file fo item assets. Those are mainly images of the item.
 
-<img src="../../../../assets/images/docs/image2013-11-21 17_57_20.png" />
+<img src="../../../../assets/images/docs/image2013-11-21_17_57_20.png" />
 
 Assets should be placed under ~\Frontend\App_Data\Virto\Storage folder. In this case the "catalog" subfolder should be created and each products assets are placed in it's own subfolder named by the products code.
 
@@ -175,13 +175,13 @@ As you can see the path to the asset is relative to the ~\Frontend\App_Data\Vir
 
 Next prepare import file for relations. That is where relations between products and variations will be defined.
 
-<img src="../../../../assets/images/docs/image2013-11-21 17_53_23.png" />
+<img src="../../../../assets/images/docs/image2013-11-21_17_53_23.png" />
 
 As you can see the relation type is "sku". That means that child products are sku's of the main product. The "Group" column defines the property name by which child products will be grouped and shown as an option selection in the frontend later. Parent and child codes are codes of the items.
 
 Next prepare data file to import prices for the variations.
 
-<img src="../../../../assets/images/docs/image2013-11-21 18_2_23.png" />
+<img src="../../../../assets/images/docs/image2013-11-21_18_2_23.png" />
 
 In the pricelist the code of the pricelist should be provided. Quantity sets the amount of purchased items to apply the price. List price and sale price are self explanatory.
 
@@ -203,41 +203,41 @@ The data should be imported in a certain order. There should be categories befor
 
 1. Open Catalog module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the Step 1 of the wizard set import type "Category", select property set, click "Select file" navigate to Imports folder and choose the categories import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-22 16_24_50.png" />
+<img src="../../../../assets/images/image2013-11-22_16_24_50.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. The import file doesn't contain the required **Start Date** property, so it needs to be set manually. Also check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
-  <img src="../../../../assets/images/image2013-11-21 17_22_23.png" />
+  <img src="../../../../assets/images/image2013-11-21_17_22_23.png" />
 7. Finish the wizard.
 
 ### 2.2 Create Products import job
 
 1. Open catalog module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import type "Product", select property set, click "Select file" navigate to Imports folder and choose the products import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-22 16_49_22.png" />
+<img src="../../../../assets/images/image2013-11-22_16_49_22.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. The import file doesn't contain the required **Start Date** property, it's set automatically to current date. Also check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
 
 > **Is Active** should be set to True as products should be visible in the store, **Is Buyable** set to False as products can't be sold directly, only variation of the product can be sold.
-> <img src="../../../../assets/images/image2013-11-25 10_16_37.png" />
+> <img src="../../../../assets/images/image2013-11-25_10_16_37.png" />
 
 7. Finish the wizard.
 
@@ -246,21 +246,21 @@ The wizard step should look like on screenshot below:
 1. Open **Settings** module.
 2. Open **Taxes** tab.
 3. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 4. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 5. In the wizard Step 1 set import type "TaxCategory", enter import job name, click "Select file", navigate to Imports folder and choose the TaxCategories.csv import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 13_15_2.png" />
+<img src="../../../../assets/images/image2013-11-25_13_15_2.png" />
 
 6. Click "Next" to proceed to Step 2.
 7. The system automatically identified which columns match entity properties. Check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
 
-<img src="../../../../assets/images/image2013-11-25 13_15_37.png" />
+<img src="../../../../assets/images/image2013-11-25_13_15_37.png" />
 
 8. Finish the wizard.
 
@@ -268,22 +268,22 @@ The wizard step should look like on screenshot below:
 
 1. Open Merchandise Management module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import type "Sku", select property set, click "Select file" navigate to Imports folder and choose the variations import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 10_49_17.png" />
+<img src="../../../../assets/images/image2013-11-25_10_49_17.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. The import file doesn't contain the required **Start Date** property, it's set automatically to current date. Also check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
 
 > **Is Buyable** should be set to True as variations can be sold, **Is Active** set to False as variation can't be viewed directly it should be selected through product page.
-> <img src="../../../../assets/images/image2013-11-25 11_59_27.png" />
+> <img src="../../../../assets/images/image2013-11-25_11_59_27.png" />
 
 > As Color is multilingual property it has mapping property per locale.
 
@@ -293,21 +293,21 @@ The wizard step should look like on screenshot below:
 
 1. Open Merchandise Management module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import type "ItemRelation", click "Select file", navigate to Imports folder and choose the item relation import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_24_14.png" />
+<img src="../../../../assets/images/image2013-11-25_12_24_14.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. Check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below.
 
-<img src="../../../../assets/images/image2013-11-25 12_28_37.png" />
+<img src="../../../../assets/images/image2013-11-25_12_28_37.png" />
 
 > There are two properties Source item catalog and Target item catalog . These properties can be set in case you're not sure if there can be items with the same codes in several catalogs, to point where to locate the items.
 
@@ -317,21 +317,21 @@ The wizard step should look like on screenshot below:
 
 1. Open Merchandise Management module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import type "ItemAsset", click "Select file", navigate to Imports folder and choose the assets import file as template. The column delimiter and name will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_45_55.png" />
+<img src="../../../../assets/images/image2013-11-25_12_45_55.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. Check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_47_8.png" />
+<img src="../../../../assets/images/image2013-11-25_12_47_8.png" />
 
 7. Finish the wizard.
 
@@ -339,21 +339,21 @@ The wizard step should look like on screenshot below:
 
 1. Open **Price Lists** module.
 2. Go to
-  <img src="../../../../assets/images/image2013-11-22 15_29_24.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_29_24.png" />
   tab.
 3. Click
-  <img src="../../../../assets/images/image2013-11-22 15_28_31.png" />
+  <img src="../../../../assets/images/image2013-11-22_15_28_31.png" />
   to launch wizard.
 4. In the wizard Step 1 set import job name, click "Select file", navigate to Imports folder and choose the prices import file as template. The column delimiter will be set automatically. Leave other properties default.
 
 The wizard step should look like on screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_52_3.png" />
+<img src="../../../../assets/images/image2013-11-25_12_52_3.png" />
 
 5. Click "Next" to proceed to Step 2.
 6. The system automatically identified which columns match entity properties. Check if properties are mapped correctly by automatic mapping. The mapping should look like on the screenshot below:
 
-<img src="../../../../assets/images/image2013-11-25 12_59_3.png" />
+<img src="../../../../assets/images/image2013-11-25_12_59_3.png" />
 
 7. Finish the wizard.
 

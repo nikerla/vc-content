@@ -51,7 +51,7 @@ The types of conditions and actions available depend on the promotion type.
 
 There are many options available when configuring promotion rules. For detailed descriptions of the available options, see **Promotion Conditions and Rules**.
 
-<img src="../../../../assets/images/docs/image2013-6-3 11_17_4.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_11_17_4.png" />
 
 ## Expression builder's visitor block
 
@@ -88,7 +88,7 @@ Coupons can be used by any eligible customer. This means that any customer who q
 
 From the **Marketing** module's Promotions tab select filters for Promotion name, Promotion status, Promotion type:
 
-<img src="../../../../assets/images/docs/image2013-6-3 11_36_18.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_11_36_18.png" />
 
 The promotions of the selected type, state and with the name that contains the entered text (case-insensitive search) will be filtered and displayed in the list of promotions.
 
@@ -99,11 +99,11 @@ All the search fields are optional. If all search fields are empty - all promoti
 1. Open **Marketing** module.
 2. Select **Promotions** tab.
 3. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. Before the wizard starts in the popup dialog select the type of promotion you need to create (the cart promotion). Click OK.
-  <img src="../../../../assets/images/docs/image2013-6-3 11_44_55.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_11_44_55.png" />
 5. In the first step of the wizard setup promotion properties.
-  <img src="../../../../assets/images/docs/image2013-6-3 12_21_53.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_12_21_53.png" />
 
 |Field name|Description|
 |----------|-----------|
@@ -121,30 +121,30 @@ All the search fields are optional. If all search fields are empty - all promoti
 6. Click **Next**.
 7. In the promotion step 2 setup rules (conditions) under which the promotion will be applied.
 
-<img src="../../../../assets/images/docs/image2013-6-3 15_35_10.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_15_35_10.png" />
 
 To set usergroup click
 
-<img src="../../../../assets/images/docs/image2013-6-3 15_41_43.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_15_41_43.png" />
 
 and select the target usergroup.
 
 To set condtion click
 
-<img src="../../../../assets/images/docs/image2013-6-3 15_42_52.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_15_42_52.png" />
 
 select required condition and setup required values of the selected condition.
 
 To set effect click
 
-<img src="../../../../assets/images/docs/image2013-6-3 15_43_27.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_15_43_27.png" />
 
 select required effect and setup values.
 
 8. Click **Next**.
 9. In step 3 of the wizard setup if the promotion applicable only if coupon with the specified value provided.
 
-<img src="../../../../assets/images/docs/image2013-6-3 15_40_14.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_15_40_14.png" />
 
 10. Click **Finish**.
 
@@ -155,11 +155,11 @@ The created promotion will be saved and displayed in the list of promotions.
 1. Open **Marketing** module.
 2. Select **Promotions** tab.
 3. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. Before the wizard starts in the popup dialog select the type of promotion you need to create (the catalog promotion). Click OK.
-  <img src="../../../../assets/images/docs/image2013-6-3 15_47_57.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_15_47_57.png" />
 5. In the first step of the wizard setup promotion properties.
-  <img src="../../../../assets/images/docs/image2013-6-3 15_53_27.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_15_53_27.png" />
 
 |Field name|Description|
 |----------|-----------|
@@ -177,17 +177,17 @@ The created promotion will be saved and displayed in the list of promotions.
 6. Click **Next**.
 7. In the promotion step 2 setup rules (conditions) under which the promotion will be applied.
 
-<img src="../../../../assets/images/docs/image2013-6-3 15_54_9.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_15_54_9.png" />
 
 To set condtion click
 
-<img src="../../../../assets/images/docs/image2013-6-3 15_42_52.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_15_42_52.png" />
 
 select required condition and setup required values of the selected condition.
 
 To set effect click 
 
-<img src="../../../../assets/images/docs/image2013-6-3 15_43_27.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_15_43_27.png" />
 
 select required effect and setup values.
 

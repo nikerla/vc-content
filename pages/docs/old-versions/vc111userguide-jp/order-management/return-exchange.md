@@ -18,18 +18,18 @@ priority: 3
 1. **Orders** モジュールを開き、注文リストから注文を選択します。
 2. **Summary** タブの Create return ボタンをクリックします。
 3. ウィザードのステップ２が表示されます。注文リストのアイテムは、数量を持つアイテムを含んでいます。返品リストのアイテムは、返品商品を含んでいます。
-  <img src="../../../../assets/images/docs/image2013-6-3 17_38_41.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_17_38_41.png" />
 4. リストからアイテムを選択し、
-  <img src="../../../../assets/images/docs/image2013-6-3 17_45_54.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_17_45_54.png" />
   ボタンをクリックします。Tip: 別の方法として、アイテムのダブルクリックでもできます。
 5. "Specify return data" ダイアログが表示されます。
-  <img src="../../../../assets/images/docs/image2013-6-3 17_53_56.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_17_53_56.png" />
 6. **Return quantity and Reason** を入力し、**OK** ボタンをクリックします。
 7. 新しいレコードが、**Items to return** リストに追加されます。(更新が必要な数１). 数量とアイテム名・返品理由が表示されます。また、リストの下の "Return summary" が更新されます。
-  <img src="../../../../assets/images/docs/image2013-6-3 18_5_23.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_18_5_23.png" />
 8. 必要があれば、Customer comment を入力します。
 9. Next をクリックします。 Adjust Return processing details が表示されます。
-  <img src="../../../../assets/images/docs/image2013-6-3 18_11_51.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_18_11_51.png" />
 10. 総払い戻し金額は、前のステップから引き継がれます。返品が払い戻し前に必要かどうか指定することができます。このオプションは、デフォルトではオフになっています。
 11. Finish ボタンをクリックします。新しく作成されたRMAが自動的にDBに保存され、返品/払い戻しタブがアクティブになります。
 
@@ -46,7 +46,7 @@ priority: 3
 
 1. Return / Exchange タブからRMA リクエスト完了を選択します。
 2. MAリクエスト選択後、 Complete ボタンをクリックします。払い戻しが必要な場合は、Create Refund for RMA Requestウィザードが表示されます。これは、支払数量項目に RMA リクエスト合計欄に払い戻し金額が設定されている場合、ウィザードが起動されます。
-  <img src="../../../../assets/images/docs/image2013-6-4 13_51_23.png" />
+  <img src="../../../../assets/images/docs/image2013-6-4_13_51_23.png" />
 3. 返金を完了するために払い戻しの指示に従ってください。
 4. 払い戻し成功後、
   - RMAリクエストステータスが完了に設定されている。
@@ -60,4 +60,4 @@ priority: 3
 1. Return / Exchange タブの交換を作成するRMAリクエストを選択します。
 2. 選択したRMAリクエストでCreate Exchange Orderボタンをクリックします。
 3. ２ステップのCreate an exchange Order ウィザードが表示します。ウィザードの最初のステップは、購入した商品を選択、カタログ選択、検索キーワードを入力、カートに追加します。利用可能な商品は、購入された商品が含まれています。カートのリスト内の項目は、ショッピングカートの項目が含まれています。
-  <img src="../../../../assets/images/docs/image2013-6-4 18_30_57.png" />
+  <img src="../../../../assets/images/docs/image2013-6-4_18_30_57.png" />

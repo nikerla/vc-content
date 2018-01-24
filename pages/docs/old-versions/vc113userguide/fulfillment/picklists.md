@@ -31,9 +31,9 @@ At this stage in the order life cycle, the funds for the shipment have not yet b
 1. Open **Fulfillment** module.
 2. Open **Picklists** tab.
 3. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. In the popup dialog select appropriate Fulfillment center (if it is the only one - it will be selected automatically)
-  <img src="../../../../assets/images/docs/image2013-6-14 16_18_42.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_16_18_42.png" />
 5. In the Shipments list select shipments to be picked. Note that only shipments with "Released" will be available here.
 6. Click **Finish**.
 
@@ -63,10 +63,10 @@ The slips PDF file will be generated and opened to print.
 
 1. Open Fulfillment module.
 2. In the right upper corner click
-  <img src="../../../../assets/images/docs/image2013-6-14 16_32_40.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_16_32_40.png" />
   button.
 3. In the popup dialog select Shipment that is shipped should be completed and enter the optional field 'Tracking number' if provided by the post service.
-  <img src="../../../../assets/images/docs/image2013-6-14 16_34_25.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_16_34_25.png" />
 4. Click **OK** to complete the shipment.
 
 > Only shipments that are Packing are available for completion.

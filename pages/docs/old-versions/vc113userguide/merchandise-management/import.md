@@ -29,7 +29,7 @@ The import will take a few minutes depending on the imported data size.
 
 Double click necessary import job in the list to view or edit it. Use "OK" to save the changes if they were made.
 
-<img src="../../../../assets/images/docs/image2013-10-24 10_51_41.png" />
+<img src="../../../../assets/images/docs/image2013-10-24_10_51_41.png" />
 
 ## Creating an Import Job
 
@@ -49,13 +49,13 @@ A "Create Import job definition" wizard is displayed. On the first step fill in 
 
 Once all the fields marked by an asterisk are filled out, click "Next".
 
-<img src="../../../../assets/images/docs/image2013-10-24 10_52_31.png" />
+<img src="../../../../assets/images/docs/image2013-10-24_10_52_31.png" />
 
 ## Running Import Job
 
 Open Import tab in the "Catalogs" block. You will see the list of import jobs created before.
 
-<img src="../../../../assets/images/docs/014-import-jobs.PNG" />
+<img src="../../../../assets/images/docs/014-import-jobs.png" />
 
 Select an import job (by clicking on it) that you would like to run and click "Run" button:
 
@@ -63,4 +63,4 @@ Select an import job (by clicking on it) that you would like to run and click "R
 
 Select a CSV file and click "OK" to initiate data importing:
 
-<img src="../../../../assets/images/docs/016-select-csv-file.PNG" />
+<img src="../../../../assets/images/docs/016-select-csv-file.png" />

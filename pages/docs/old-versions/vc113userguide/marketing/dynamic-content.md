@@ -104,16 +104,16 @@ Creating Content Publishing specifies which Dynamic Content(s) to view and condi
 1. Open **Marketing** module.
 2. Select **Dynamic Content** tab.
 3. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. In the first step of the wizard enter Name, Description and Content Type of the Dynamic Content
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_29.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_29.png" />
 
 > Select the right Content type that matches the content you want to add.
 
 5. Click **Next**.
 6. In the second step of the wizard setup properties of the selected content type
 
-<img src="../../../../assets/images/docs/image2013-5-29 17_38_2.png" />
+<img src="../../../../assets/images/docs/image2013-5-29_17_38_2.png" />
 
 In the example screenshot the ImageClickable is selected, so AlternativeText, ImageUrl, TargetUrl, Title should be set in step 2.
 
@@ -121,7 +121,7 @@ In the example screenshot the ImageClickable is selected, so AlternativeText, Im
   * Alternative text - in the edit popup view enter the text in the textbox.
   * ImageUrl - in the edit popup click Select Image button and in the assets dialog box choose the image file for the Dynamic Content. The image should be uploaded to the assets beforehand
 
-<img src="../../../../assets/images/docs/image2013-5-29 17_37_24.png" />
+<img src="../../../../assets/images/docs/image2013-5-29_17_37_24.png" />
 
   * TargetUrl - in the edit popup enter target link where should be navigated when the Image will be clicked.
   * Title - in the edit popup enter Title text or leave it blank if no text should appear.
@@ -167,9 +167,9 @@ Content publishing sets the delivery conditions of the Dynamic Content. Therefor
 1. Open **Marketing** Module.
 2. Select **Content publishing** tab.
 3. Click **Add** button.
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. In the wizard's step 1 setup the Content Publishing Name, Description, Priority, Activity and Availability dates.
-  <img src="../../../../assets/images/docs/image2013-5-30 12_40_18.png" />
+  <img src="../../../../assets/images/docs/image2013-5-30_12_40_18.png" />
 
 Name and Description fields are self explanatory. The main suggestion is to use meaningful name to easily find the Content Publishing in the future. The good example of name is "15% Christmas discount for TVs", the bad is "Content Publishing 17". Priority property sets the priority of the Content Publishing. If more than one Dynamic Content configured to be displayed in the Content Place at some conditions, the Dynamic Content configured in the Content Publishing with higher priority will be displayed.
 
@@ -178,19 +178,19 @@ Is Active property sets activity of the Content Publishing. If checkbox not chec
 5. Click **Next**.
 6. In step 2 of the Content Publishing wizard set Content Place(s) where the Dynamic Content should be displayed.
 
-<img src="../../../../assets/images/docs/image2013-5-30 12_58_45.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_12_58_45.png" />
 
 Content Places are predefined by the personnel that has permissions to register Content Places in the system. More than one Content Place can be selected if the Dynamic content should be displayed in more than one Content Place.
 
 7. After the required Content has been selected click **Next**.
 8. In step 3 of the Content Publishing wizard set Dynamic Content items that should be displayed.
 
-<img src="../../../../assets/images/docs/image2013-5-30 13_38_40.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_13_38_40.png" />
 
 9. Click **Next**
 10. In step 4 of the wizard setup conditions in which the dynamic content should be published.
 
-<img src="../../../../assets/images/docs/image2013-5-30 13_40_4.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_13_40_4.png" />
 
 By default the Dynamic Content will be displayed to any customer that viewed the page with the selected Content Place. If the Dynamic Content should be displayed under specified conditions set them in this step using Expression builder.
 
@@ -204,7 +204,7 @@ Expression builder is used to create a human readable conditions set under which
 
 Expression builder consists of two main parts. The first is the global operator for the whole conditions set. It sets if the expression returns true if any of the conditions satisfied or if all of the conditions are satisfied. The behavior is set using all/any operand.
 
-<img src="../../../../assets/images/docs/image2013-5-30 15_14_51.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_15_14_51.png" />
 
 The second part is the conditions collection. Available conditions are grouped into four groups:
 
@@ -234,13 +234,13 @@ There are special conditions that uses system values.
 
 For example, "**Current store is**" condition uses registered stores selector (combobox) as available values for the operand of comparison operation.
 
-<img src="../../../../assets/images/docs/image2013-5-30 15_39_45.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_15_39_45.png" />
 
 It compares the store id Tag of the context to the selected and if those match - returns true.
 
 Another example of special condition is "**Shopper gender**", which can only be male of female. Thus only those two options available.
 
-<img src="../../../../assets/images/docs/image2013-5-30 15_43_52.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_15_43_52.png" />
 
 To add a new condition to the expression click "+ add condition". The menu with condition groups will appear. Hover the required group the conditions of the group will expand. Click the required condition. It will appear in the expression builder. Set the operator and operand values of the condition. If you need to setup more conditions click "+ add condition" and add conditions as many times as many conditions you need.
 

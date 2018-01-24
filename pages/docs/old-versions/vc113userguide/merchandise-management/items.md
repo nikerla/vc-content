@@ -35,13 +35,13 @@ Store visible - select this check box to let this item appear in the store.
 
 Information in overview tab is filled when an item is created manually. These are the data fields of the created item itself. Other tabs - Properties, Pricing, SEO, Product Items, Associations, Editorial Reviews, Categories and Assets - are filled in with data loaded upon request from different datatables stored in a single database. This data is loaded and can be edited by double-clicking the necessary item in the Virto Commerce Manager.
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_38_41.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_38_41.png" />
 
 ## SEO
 
 The "SEO" tab is used to specify SEO data for the item, such as URL Keyword, Page title, Meta description, Image alternative text.
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_39_18.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_39_18.png" />
 
 URL Keyword should not contain restricted characters, otherwise validation will not allow to save such a Keyword.
 

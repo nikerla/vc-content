@@ -58,7 +58,7 @@ protected TypedExpressionElementBase(string displayName, IExpressionViewModel ex
 
 So in this case the label of the condition in the context menu will be "Cart total $ []"
 
-<img src="../../../../assets/images/image2013-10-7 17_31_6.png" />
+<img src="../../../../assets/images/image2013-10-7_17_31_6.png" />
 
 In the constructor body the label of the condition value prefix is set:
 
@@ -66,7 +66,7 @@ In the constructor body the label of the condition value prefix is set:
 WithLabel("Cart total is $ ");
 ```
 
-<img src="../../../../assets/images/image2013-10-7 17_32_16.png" />
+<img src="../../../../assets/images/image2013-10-7_17_32_16.png" />
 
 and CartTotalElement used as an value setup element:
 
