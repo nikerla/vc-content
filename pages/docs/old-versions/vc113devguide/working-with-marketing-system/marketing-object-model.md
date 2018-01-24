@@ -9,10 +9,10 @@ priority: 1
 
 The following figure shows the marketing promotions related classes with their properties and relationships between them.
 
-<img src="../../../../assets/images/docs/image2013-11-6 17_42_24.png" />
+<img src="../../../../assets/images/docs/image2013-11-6_17_42_24.png" />
 
 ## Dynamic content class diagram
 
 The following figure shows the dynamic content subsystem related classes with their properties and relationships between them.
 
-<img src="../../../../assets/images/docs/image2013-11-7 11_7_11.png" />
+<img src="../../../../assets/images/docs/image2013-11-7_11_7_11.png" />

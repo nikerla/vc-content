@@ -21,7 +21,7 @@ These settings are grouped into tabs by their means for quick and easy navigatio
 
 The "Settings" sub-tab is intended for creating and keeping the list of custom settings that can be applied in the frontend or backend. For example available languages list, available Currencies list. Administrator or user with appropriate permissions can add more settings. Settings can be system (or required) that can't be deleted and user settings (not required) that can be deleted. If the setting set as system during creation it can't be set as user setting later in the edit view. So you should be careful in this respect while creating the setting.
 
-<img src="../../../../assets/images/docs/image2014-2-3 14_55_25.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_14_55_25.png" />
 
 To add new setting click "Add" button and fill in all the fields of the wizard. 
 
@@ -85,18 +85,18 @@ To edit an email template, select it in the list and click "Edit" button. To del
 
 In the localization tab you can localize the frontend texts to different system's available languages.
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_9_23.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_9_23.png" />
 
 In order to localize the frontend to the new language you need to select the source and the target languages in the filter pane.
 
 Then double-click on the entry you want to translate. The entry edit view will open:
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_11_57.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_11_57.png" />
 
 Enter the translation and click "Save" button to save the changes.
 
 Another option to localize the frontend would be exporting the list of text to be translated to the CSV file using
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_17_32.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_17_32.png" />
 
 button. Translate the saved file in the text editor. After all the text has been translated import it into the system using Localization import funcionality. To import the translation go to "Import" tab which is under Localization tab. Create an import job and run it.

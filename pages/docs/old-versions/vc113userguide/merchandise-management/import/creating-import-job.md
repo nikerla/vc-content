@@ -21,4 +21,4 @@ On the first step define the following fields:
 
 Once all the fields marked by an asterisk are filled out, click "Next".
 
-<img src="../../../../../assets/images/docs/image2013-10-24 10_52_31.png" />
+<img src="../../../../../assets/images/docs/image2013-10-24_10_52_31.png" />

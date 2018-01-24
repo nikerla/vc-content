@@ -18,9 +18,9 @@ priority: 1
 1. **Settings** モジュールを開きます。
 2. **Content Places** タブに移動します。
 3. **ADD** ボタンをクリックします。
-  <img src="../../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. ウィザードで名前・説明項目を設定します。
-  <img src="../../../../../assets/images/docs/image2013-5-30 16_20_35.png" />
+  <img src="../../../../../assets/images/docs/image2013-5-30_16_20_35.png" />
 
 名前は、Web開発者によって作成されたページテンプレートのエリア名と同じでなければなりません。
 

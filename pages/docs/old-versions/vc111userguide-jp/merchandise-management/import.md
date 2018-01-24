@@ -29,7 +29,7 @@ priority: 4
 
 インポートジョブを表示・編集するには、リストをダブルクリックします。修正が必要な場合は、内容を修正し、"OK" ボタンをクリックし修正内容を保存します。
 
-<img src="../../../../assets/images/docs/image2013-10-24 10_51_41.png" />
+<img src="../../../../assets/images/docs/image2013-10-24_10_51_41.png" />
 
 ## インポートジョブの作成
 
@@ -49,7 +49,7 @@ Commerce Manager の Catalogs ブロックの Inport タブを開き、インポ
 
 アスタリスクでマークされた項目を全て入力後、"Next" ボタンをクリックします。
 
-<img src="../../../../assets/images/docs/image2013-10-24 10_52_31.png" />
+<img src="../../../../assets/images/docs/image2013-10-24_10_52_31.png" />
 
 ## インポートジョブの実行
 

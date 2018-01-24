@@ -7,7 +7,7 @@ priority: 1
 ---
 The "Settings" module of Virto Commerce Manager contains block of settings grouped in tabs by their meaning: **Application**, **Customers**, **Stores**, **Content places**, **Fulfillment**, **Payments**, **Shipping**, **Taxes**, **Search**.
 
-<img src="../../../../assets/images/docs/image2014-2-3 14_53_4.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_14_53_4.png" />
 
 ## [Application](docs/old-versions/vc113userguide/settings/application-settings)
 

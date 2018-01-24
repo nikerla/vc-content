@@ -30,13 +30,13 @@ Virto Commerce の製品は、販売・促進されるストア内製品と対�
 
 このデータは、Virto Commerce マネージャーでダブルクリックし、項目の編集を行うことができます。
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_38_41.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_38_41.png" />
 
 ## SEO
 
 "SEO" タブは、URLキーワード、ページタイトル、メタ情報、画像の代替テキストなどSEO データを指定する為に利用します。
 
-<img src="../../../../assets/images/docs/image2014-2-3 15_39_18.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_15_39_18.png" />
 
 URLキーワードは、制限された文字を含めることはできません。それ以外の文字についても、キーワードを保存することはできません。
 

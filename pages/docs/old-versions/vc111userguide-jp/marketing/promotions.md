@@ -51,7 +51,7 @@ Virto Commerce は、プロモーションとして２つのタイプをサポ�
 
 プロモーションルールの構成により多くの利用可能なオプションがあります。利用可能なオプションの詳細説明については、**Promotion Condition and Rules** を参照してください。
 
-<img src="../../../../assets/images/docs/image2013-6-3 11_17_4.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_11_17_4.png" />
 
 ## 式ビルダーのビジターブロック
 
@@ -88,7 +88,7 @@ Virto Commerce は、プロモーションとして２つのタイプをサポ�
 
 **Marketing** モジュールの Promotion タブからプロモーションの名前・ステータス・タイプで条件指定ができます。
 
-<img src="../../../../assets/images/docs/image2013-6-3 11_36_18.png" />
+<img src="../../../../assets/images/docs/image2013-6-3_11_36_18.png" />
 
 選択されたタイプ・ステータス・名前で入力したテキストを含むプロモーションをフィルターし、プロモーションリストとして表示します。
 
@@ -99,11 +99,11 @@ Virto Commerce は、プロモーションとして２つのタイプをサポ�
 1. **Marketing** モジュールを開きます。
 2. **Promotions** タブを選択します。
 3. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. ポップアップダイアログのウィザードが開始される前に作成する作成するプロモーションのタイプを選択します。(カートプロモーション). そして、OK ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-6-3 11_44_55.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_11_44_55.png" />
 5. ウィザードの最初のステップで、プロモーションプロパティを設定します。
-  <img src="../../../../assets/images/docs/image2013-6-3 12_21_53.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_12_21_53.png" />
 
 |項目名|説明|
 |-----|----|
@@ -120,19 +120,19 @@ Virto Commerce は、プロモーションとして２つのタイプをサポ�
 
 6. **Next** をクリックします。
 7. プロモーションステップ2 では、プロモーションに適用されるルール(条件)を設定します。
-  <img src="../../../../assets/images/docs/image2013-6-3 15_35_10.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_15_35_10.png" />
   - usergroup
-    <img src="../../../../assets/images/docs/image2013-6-3 15_41_43.png" />
+    <img src="../../../../assets/images/docs/image2013-6-3_15_41_43.png" />
     をクリックし、ターゲット usergroup を選択します。
   - condtion
-    <img src="../../../../assets/images/docs/image2013-6-3 15_42_52.png" />
+    <img src="../../../../assets/images/docs/image2013-6-3_15_42_52.png" />
     をクリックし、必要な条件を選択し、選択した条件の必要な値を設定
   - effect
-    <img src="../../../../assets/images/docs/image2013-6-3 15_43_27.png" />
+    <img src="../../../../assets/images/docs/image2013-6-3_15_43_27.png" />
     をクリックし、必要な効果を選択し、値を設定
 8. **Next** ボタンをクリックします。
 9. ウィザードのステップ3 では、クーポンを提供する場合にのみプロモーションを適用します。
-  <img src="../../../../assets/images/docs/image2013-6-3 15_40_14.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_15_40_14.png" />
 10. **Finish** ボタンをクリックします。
 
 作成したプロモーションが保存され、プロモーションリストに表示されます。
@@ -142,11 +142,11 @@ Virto Commerce は、プロモーションとして２つのタイプをサポ�
 1. **Marketing** モジュールを開きます。
 2. **Promotions** タブを選択します。
 3. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. ウィザード開始前に作成するプロモーションのタイプ(カタログプロモーション)を選択し、**OK** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-6-3 15_47_57.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_15_47_57.png" />
 5. ウィザードセットの最初のステップは、プロモーションのプロパティを設定します。
-  <img src="../../../../assets/images/docs/image2013-6-3 15_53_27.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_15_53_27.png" />
 
 |項目名|説明|
 |-----|----|
@@ -163,12 +163,12 @@ Virto Commerce は、プロモーションとして２つのタイプをサポ�
 
 6. **Next** をクリックします。
 7. プロモーションのステップ2 では、プロモーションが適用されるルール(条件)を設定します。
-  <img src="../../../../assets/images/docs/image2013-6-3 15_54_9.png" />
+  <img src="../../../../assets/images/docs/image2013-6-3_15_54_9.png" />
   - condtion
-    <img src="../../../../assets/images/docs/image2013-6-3 15_42_52.png" />
+    <img src="../../../../assets/images/docs/image2013-6-3_15_42_52.png" />
      をクリックし、必要な条件を選択し、選択された条件の値を設定します。
   - effect
-    <img src="../../../../assets/images/docs/image2013-6-3 15_43_27.png" />
+    <img src="../../../../assets/images/docs/image2013-6-3_15_43_27.png" />
      をクリックし、効果を選択し、値を設定します。
 8. **Finish** ボタンをクリックします。
 

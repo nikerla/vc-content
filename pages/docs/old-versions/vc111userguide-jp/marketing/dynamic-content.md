@@ -108,22 +108,22 @@ Virto Commerce 管理アプリケーションでダイナミックコンテン�
 1. **Marketing** モジュールを開きます。
 2. **Dynamic Content** タブを選択します。
 3. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. ウィザードの最初のステップでは、ダイナミックコンテンツの名前・説明・コンテンツタイプを入力します。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_29.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_29.png" />
 
 **備考**: 追加するコンテンツにあった正しいコンテンツタイプを選択します。
 
 5. **Next** をクリックします。
 6. ウィザードのステップ２では、選択されたコンテンツタイプのプロパティを設定します。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_2.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_2.png" />
 
 サンプル画面のように ImageClickable が選択されている場合は、AlternativeText, ImageUrl, TargetUrl, Title を設定します。
 
 7. 選択した内容をダブルクリックするかクリックし、リスト上のメニューリストから EDIT ボタンをクリックします。
   - Alternative text - 編集ポップアップビューでテキストボックスにテキストを入力
   - ImageUrl - Edit ポップアップで Select Image ボタンをクリックし、アセットダイアログでダイナミックコンテントのイメージファイル選択します。イメージは、事前にアセットにアップロードする必要があります。
-    <img src="../../../assets/images/docs/image2013-5-29 17_37_24.png" />
+    <img src="../../../assets/images/docs/image2013-5-29_17_37_24.png" />
   - TargetUrl - Edit ポップアップ画像がクリックされたときにナビゲートされるターゲットリンクを入力
   - Title - Edit ポップアップでタイトルを入力
 8. 必要な項目を入力後、**Finish** ボタンをクリックします。
@@ -165,9 +165,9 @@ Virto Commerce 管理アプリケーションでダイナミックコンテン�
 1. **Marketing** モジュールを開きます。
 2. **Content publishing** タブを選択します。
 3. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 4. ウィザードステップ1では、コンテンツ配布、名前、説明、優先度、アクティブ日を入力します。
-  <img src="../../../../assets/images/docs/image2013-5-30 12_40_18.png" />
+  <img src="../../../../assets/images/docs/image2013-5-30_12_40_18.png" />
 
 名前と説明は、わかり易く入力します。将来的にコンテンツ配信を簡単に見つけることができるように意味のある名前を利用します。良い名前としては、テレビの15パーセントクリスマス割引 悪い名前は、コンテンツ配布17です。優先順位は、コンテンツ配信の優先順位を設定します。複数のダイナミックコンテンツは、いくつかの条件でコンテンツ場所に表示されるように構成されている場合、優先度の高いコンテンツ配布に構成されたダイナミックコンテンツが表示されます。
 
@@ -178,18 +178,18 @@ Virto Commerce 管理アプリケーションでダイナミックコンテン�
 5. **Next** をクリックします。
 
 6. コンテンツ配信ウィザードのステップ２は、ダイナミックコンテンツを表示する場所を指定します。
-  <img src="../../../../assets/images/docs/image2013-5-30 12_58_45.png" />
+  <img src="../../../../assets/images/docs/image2013-5-30_12_58_45.png" />
 
 コンテンツの場所は、コンテンツの場所を登録する権限を持つ担当者が事前に定義されています。ダイナミックコンテンツ複数の場所に表示する場合、複数のコンテンツを選択することができます。
 
 7. 必要なコンテンツが選択された後に、**Next** をクリックします。
 
 8. コンテンツ配信ウィザードのステップ３は、表示するダイナミックコンテンツ項目を設定します。
-  <img src="../../../../assets/images/docs/image2013-5-30 13_38_40.png" />
+  <img src="../../../../assets/images/docs/image2013-5-30_13_38_40.png" />
 9. **Next** ボタンをクリックします。
 
 10. ダイナミック配信ウィザードのステップ４では、条件を設定します。
-  <img src="../../../../assets/images/docs/image2013-5-30 13_40_4.png" />
+  <img src="../../../../assets/images/docs/image2013-5-30_13_40_4.png" />
 
 デフォルトでは、ダイナミックコンテンツは、選択したコンテンツプレースでページを表示した全てのお客様に対して表示されます。ダイナミックコンテンツは、特定の条件で表示されるようにするには、式ビルダーを使用します。この段階で条件を設定します。
 
@@ -203,7 +203,7 @@ Virto Commerce 管理アプリケーションでダイナミックコンテン�
 
 式ビルダーは、主に２つの部分から構成されています。最初は、全体の条件設定の為のグローバル演算子です。条件が全て又はいずれかが満たされた場合真の値を返すよう設定します。動作は、 all/any オペランドを利用して設定されています。
 
-<img src="../../../../assets/images/docs/image2013-5-30 15_14_51.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_15_14_51.png" />
 
 2番目のパートでは、条件のコレクションについての説明です。利用可能条件は、４つのグループに分類されます。
 
@@ -233,13 +233,13 @@ Virto Commerce 管理アプリケーションでダイナミックコンテン�
 
 例として、 **"Current store is"** 条件は、比較演算子としてストアセレクタ(コンボボックス)として登録された値を利用します。
 
-<img src="../../../../assets/images/docs/image2013-5-30 15_39_45.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_15_39_45.png" />
 
 It compares the store id Tag of the context to the selected and if those match - returns *true*.
 
 Another example of special condition is "**Shopper gender**", which can only be male of female. Thus only those two options available.
 
-<img src="../../../../assets/images/docs/image2013-5-30 15_43_52.png" />
+<img src="../../../../assets/images/docs/image2013-5-30_15_43_52.png" />
 
 新しい条件式を追加するには、 +add Condition をクリックします。条件グループのメニューが表示されます。グループの条件式を増やすことができるようになります。必要な条件をクリックします。式ビルダーが表示されます。条件演算子と値を設定します。より多くの条件を設定する場合は、追加する条件の回数 +add condition をクリックします。
 

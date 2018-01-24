@@ -9,7 +9,7 @@ Virto Commerce マネージャーの設定モジュールでは、意味によ�
 
 アプリケーション・顧客・ストア・コンテンツプレース・フルフィルメント・支払・配送・税・検索
 
-<img src="../../../../assets/images/docs/image2014-2-3 14_53_4.png" />
+<img src="../../../../assets/images/docs/image2014-2-3_14_53_4.png" />
 
 ### [アプリケーション](docs/old-versions/vc111userguide-jp/settings/application-settings)
 

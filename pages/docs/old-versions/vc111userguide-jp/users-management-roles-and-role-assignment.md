@@ -52,11 +52,11 @@ Virto Commerce 管理ツールを利用する組織内の個々人は、個人�
 1. モジュールリストから **Users** モジュールを選択します。
 2. Users モジュールの **Accounts** タブを選択します。
 3. ユーザーリストの右上にある **Add** ボタンをクリックします。
-  <img src="../../../assets/images/docs/image2013-5-27 13_14_58.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_13_14_58.png" />
 4. ポップアップウィザードの最初のステップは、必須項目の入力です。(ログイン/パスワード):
-  <img src="../../../assets/images/docs/image2013-5-27 13_19_32.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_13_19_32.png" />
 5. ポップアップウィザードの次のステップは、事前に作成済のロールリストからロールを割り当てます。
-  <img src="../../../assets/images/docs/image2013-5-27 13_24_9.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_13_24_9.png" />
 6. 全ての必須項目入力後、Finish ボタンをクリックします。
 
 作成されたユーザーは、ユーザーリストに表示されます。
@@ -117,10 +117,10 @@ Virto Commerce インストール後には、次のユーザーロールが作�
 1. モジュールリストから、**Users** モジュールを選択します。
 2. **Users** モジュールの **Roles** タブ をクリックします。
 3. ロールリストの右上の **Add** ボタンをクリックします。
-  <img src="../../../assets/images/docs/image2013-5-27 13_14_58.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_13_14_58.png" />
 4. ポップアップウィザードでは、必須項目を入力します。(Name, Permissions)
 5. **Finish** ボタンをクリックします。
-  <img src="../../../assets/images/docs/image2013-5-27 17_25_54.png" />
+  <img src="../../../assets/images/docs/image2013-5-27_17_25_54.png" />
 
 ## ロール編集
 

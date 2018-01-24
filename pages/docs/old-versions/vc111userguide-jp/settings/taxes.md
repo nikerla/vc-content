@@ -40,9 +40,9 @@ priority: 8
 2. **Taxes** タブを開きます。
 3. **Taxes** チャイルドタブを開きます。
 4. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 5. まず最初にウィザードのステップで税カテゴリーの名前を入力します。
-  <img src="../../../../assets/images/docs/image2013-6-7 10_29_26.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_10_29_26.png" />
 6. **Finish** ボタンをクリックします。
 
 カテゴリーは、税カテゴリーのリストに表示されます。
@@ -73,9 +73,9 @@ priority: 8
 2. **Taxes** タブを開きます。
 3. **Jurisdictions** チャイルドタブを開きます。
 4. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 5. まず最初に、ウィザードのステップで税管轄プロパティを設定します。
-  <img src="../../../../assets/images/docs/image2013-6-7 10_52_21.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_10_52_21.png" />
 
 |プロパティ|説明|
 |---------|----|
@@ -123,9 +123,9 @@ priority: 8
 2. **Taxes** タブを開きます。
 3. **Jurisdiction groups** チャイルドタブを開きます。
 4. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 5. 最初にウィザードのステップ税管轄グループのプロパティを設定します。
-  <img src="../../../../assets/images/docs/image2013-6-7 11_5_51.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_11_5_51.png" />
 
 |プロパティ|説明|
 |---------|----|
@@ -166,9 +166,9 @@ priority: 8
 2. **Taxes** タブを開きます。
 3. **Taxes** チャイルドタブを開きます。
 4. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 5. 最初に、ウィザードのステップで税プロパティを設定します。
-  <img src="../../../../assets/images/docs/image2013-6-7 11_41_55.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_11_41_55.png" />
 
 |プロパティ|説明|
 |---------|----|
@@ -178,11 +178,11 @@ priority: 8
 
 6. **Next** ボタンをクリックします。
 7. ウィザードの２番目では、利用可能言語の表示されている名前を設定します。
-  <img src="../../../../assets/images/docs/image2013-6-7 12_16_46.png" />
+  <img src="../../../../assets/images/docs/image2013-6-7_12_16_46.png" />
   - 表示名のリスト上で Add ボタンをクリックします。
-    <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+    <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
   - ポップアップダイアログからターゲット言語の選択と表示名の入力を行います。
-    <img src="../../../../assets/images/docs/image2013-6-7 12_7_54.png" />
+    <img src="../../../../assets/images/docs/image2013-6-7_12_7_54.png" />
   - **OK** ボタンをクリックします。
   作成された表示名が、リストに表示されます。
 8. **Finish** ボタンをクリックします。
@@ -194,9 +194,9 @@ priority: 8
 9. **Tax** を開きます。(税を開くには、このガイドの税セクションの編集を参照ください).
 10. **Tax values** タブを開きます。
 11. **Add** ボタンをクリックします。
-  <img src="../../../../assets/images/docs/image2013-5-29 17_38_44.png" />
+  <img src="../../../../assets/images/docs/image2013-5-29_17_38_44.png" />
 12. ポップアップダイアログでプロパティを設定します。
-  <img src="../../../../assets/images/docs/image2013-9-20 16_1_5.png" />
+  <img src="../../../../assets/images/docs/image2013-9-20_16_1_5.png" />
 
 |プロパティ|説明|
 |---------|----|

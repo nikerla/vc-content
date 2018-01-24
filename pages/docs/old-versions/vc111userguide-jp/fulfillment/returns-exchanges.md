@@ -29,10 +29,10 @@ CSRは、払い戻しを実行する前に商品を返品する必要がある�
 1. **Fulfillment** モジュールを開きます。
 2. **Returns & Exchanges** タブを開きます。
 3. **Filter** 項目を使いRMAリクエストを区分けします。
-  <img src="../../../../assets/images/docs/image2013-6-14 17_28_24.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_17_28_24.png" />
 4. MAリクエストをダブルクリックします。
 5. ポップアップダイアログで必要な項目を修正します。
-  <img src="../../../../assets/images/docs/image2013-6-14 17_40_26.png" />
+  <img src="../../../../assets/images/docs/image2013-6-14_17_40_26.png" />
 
 全てのアイテムが返品された場合やAwaitingStockReturn から AwaitingCompletionへステータスが変更された際、返品完了になります。
 
