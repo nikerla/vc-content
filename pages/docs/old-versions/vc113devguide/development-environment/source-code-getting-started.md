@@ -19,11 +19,11 @@ priority: 3
 
 1. Download the latest source code from <a href="http://virtocommerce.codeplex.com" rel="nofollow">http://virtocommerce.codeplex.com</a>
 2. Unblock the archive file.
-  <img src="../../../../assets/images/docs/image2013-9-19 11_48_33.png" />
+  <img src="../../../../assets/images/docs/image2013-9-19_11_48_33.png" />
 3. Extract the source code project.
 4. Open the VirtoCommerce.sln solution file and build it.
 5. Go to ~\src\Extensions\Setup\VirtoCommerce.PowerShell\ folder right-click and run setup-database.ps1 Powershell script
-  <img src="../../../../assets/images/docs/image2013-9-19 12_0_47.png" />
+  <img src="../../../../assets/images/docs/image2013-9-19_12_0_47.png" />
 
 > Powershell v3.0 should be installed (<a href="http://www.microsoft.com/en-us/download/details.aspx?id=34595" rel="nofollow">download</a>) or if you have Powershell v2.0 in the system create a file “powershell.exe.config” in the C:\Windows\System32\WindowsPowerShell\v1.0 with content:
 > ```

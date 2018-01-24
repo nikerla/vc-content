@@ -21,7 +21,7 @@ public enum RmaRequestStatus
 
 RmaReturn is always in one of enumeration's RmaRequestStatus states. If exact enumeration mach wouldn't be found then it's considered to be in a state of **AwaitingStockReturn**. State changing is controlled by StateMachineBase<string> implementation (RmaRequestStateMachineImpl class). This actually implements the state diagram depicted below and controls state transitions.
 
-<img src="../../../../assets/images/docs/image2013-6-6 16_23_30.png" />
+<img src="../../../../assets/images/docs/image2013-6-6_16_23_30.png" />
 
 ## Create return
 
