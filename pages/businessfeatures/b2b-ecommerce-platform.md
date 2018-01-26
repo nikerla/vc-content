@@ -262,7 +262,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
 				<div class="col">
 					<div class="integration-item">
 						<div class="integration-img">
-							<img style="height:90px;" src="//virtocommerce.com/admin/assets/catalog/3f99c499-cd54-4fa7-8ffe-26e9eeae1ca0.png" alt="">
+							<img style="height:90px;" src="//vc4prod.blob.core.windows.net/catalog/3f99c499-cd54-4fa7-8ffe-26e9eeae1ca0.png" alt="">
 						</div>
 						<div class="integration-t">
 							Mailchimp integration with Virto Commerce <br>Enhanced
@@ -299,7 +299,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
 				<div class="col">
 					<div class="integration-item">
 						<div class="integration-img">
-							<img style="height:75px;" src="//virtocommerce.com/admin/assets/catalog/FHQ-67784017/NewLogo.jpg" alt="">
+							<img style="height:75px;" src="//vc4prod.blob.core.windows.net/catalog/FHQ-67784017/NewLogo.jpg" alt="">
 						</div>
 						<div class="integration-t">
 							Marketo Integration module <br>Enhanced
