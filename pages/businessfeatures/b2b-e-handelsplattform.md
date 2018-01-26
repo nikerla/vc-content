@@ -88,7 +88,7 @@ tags:
                         <li class="list-item">
                             <a class="list-link" href="/apps/extensions/google-analytics-enhanced-ecommerce">
                                 <figure class="image-outer">
-                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/ART-54159384/enhanced-ecommerce1.png" />
+                                    <img class="list-img" src="//vc4prod.blob.core.windows.net/catalog/ART-54159384/enhanced-ecommerce1.png" />
                                 </figure>
                                 <h3 class="list-name">Google Analytics Enhanced Ecommerce</h3>
                                 <span class="list-vendor">By Virto Commerce</span>
@@ -99,7 +99,7 @@ tags:
                         <li class="list-item">
                             <a class="list-link" href="/apps/extensions/sendgrid-email-marketing">
                                 <figure class="image-outer">
-                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/YDM-44995513/Image01.png" />
+                                    <img class="list-img" src="//vc4prod.blob.core.windows.net/catalog/YDM-44995513/Image01.png" />
                                 </figure>
                                 <h3 class="list-name">SendGrid Integration module</h3>
                                 <span class="list-vendor">By Virto Commerce</span>
@@ -111,7 +111,7 @@ tags:
                             <a class="list-link" href="/apps/extensions/marketo-marketing-automation">
                                 <div class="list-item-bar">In progress</div>
                                 <figure class="image-outer">
-                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/FHQ-67784017/marketo-1.png" />
+                                    <img class="list-img" src="//vc4prod.blob.core.windows.net/catalog/FHQ-67784017/marketo-1.png" />
                                 </figure>
                                 <h3 class="list-name">Marketo Integration module</h3>
                                 <span class="list-vendor">By Virto Commerce</span>
@@ -122,7 +122,7 @@ tags:
                         <li class="list-item">
                             <a class="list-link" href="/apps/extensions/klarna-checkout">
                                 <figure class="image-outer">
-                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/Klarna_Checkout_Euro/blue-black.png" />
+                                    <img class="list-img" src="//vc4prod.blob.core.windows.net/catalog/Klarna_Checkout_Euro/blue-black.png" />
                                 </figure>
                                 <h3 class="list-name">Klarna Checkout Europe payment gateway</h3>
                                 <span class="list-vendor">By Virto Commerce</span>
@@ -133,7 +133,7 @@ tags:
                         <li class="list-item">
                             <a class="list-link" href="/apps/extensions/mailchimp">
                                 <figure class="image-outer">
-                                    <img class="list-img" src="//virtocommerce.com/admin/assets/catalog/3f99c499-cd54-4fa7-8ffe-26e9eeae1ca0.png" />
+                                    <img class="list-img" src="//vc4prod.blob.core.windows.net/catalog/3f99c499-cd54-4fa7-8ffe-26e9eeae1ca0.png" />
                                 </figure>
                                 <h3 class="list-name">Mailchimp integration with Virto Commerce</h3>
                                 <span class="list-vendor">By Virto Commerce</span>
