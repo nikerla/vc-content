@@ -1,11 +1,11 @@
 ---
-title: E procurement software and tools. E procurement system from Virto Commerce
-description: What is e procurement software? E procurement system definition. E procurement tools and solutions.
+title: E procurement software and tools. E procurement system.
+description: What is e procurement software? E procurement system definition. E procurement tools and solutions. E procurement platform from Virto Commerce.
 date: 2014-01-30
 canonical: https://virtocommerce.com/glossary/e-procurement-software
 permalink: glossary/e-procurement-software
 ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
-ogtitle: E procurement software system - Definition| Glossary Virto Commerce.
+ogtitle: E procurement software system - Definition | Glossary Virto Commerce.
 ogsitename: Virtocommerce
 twittercard: summary
 twittertitle: Virto Commerce
@@ -28,7 +28,8 @@ tags :
     <p class="text">It’s a cost-effective e procurement software system that helps streamline purchasing processes eliminating unessential paperwork, providing better control over spending and saving time and resources for your team.</p>
     {% include 'vc-b2b_b2c-banner' %}
     <div class="section-title">Transform your team’s spending practice</div>
-    <p class="text">Track spending along with costs and warranty information. Encourage everyone to spend smarter and save on everyday operating costs by using the Virto Commerce’s eprocurement software to track inventory items, service and expiration deadlines, stock and more.</p>
+    <p class="text">Track spending along with costs and warranty information. Encourage everyone to spend smarter and save on everyday operating costs by using the Virto Commerce’s e 
+        procurement software to track inventory items, service and expiration deadlines, stock and more.</p>
     <p class="text">Virto Commerce e procurement software system helps stick to the budget, eliminates unwanted spending and really improves savings by enabling buyers, CFOs, CEOs and purchasing management to enforce pre-purchase approvals on a consistent basis and providing them with maximum visibility.</p>
     <p class="text">Offering both SaaS and On-Premise Purchasing Software Solutions our e procurement platform is the best way to automation of purchasing processes and control of spending.</p>
     <p class="text">Virto Commerce is an e procurement solution your teams will actually enjoy using! The result is you being able to keep better track of costs, a more eager user adoption within your organization, and better informed financial decisions.</p>
