@@ -1,5 +1,5 @@
 --- 
-title: Shopify Alternatives and Competitors
+title: Shopify alternatives. 5 best Shopify competitors.
 description: Any ecommerce platform has the great support base, which offers you a wide variety of tools to alter your store. One of the best shopping cart platforms for an e-commerce website is Shopify, but there are some great alternatives and competitors that you should check out.  
 date: 2017-08-07 
 canonical: https://virtocommerce.com/glossary/shopify-alternatives
@@ -21,7 +21,7 @@ tags :
 ---
 <div class="business-cnt">
     <div class="head __cart">
-        <h1 class="title">Shopify Alternatives and Competitors</h1>
+        <h1 class="title">Shopify alternatives. 5 best Shopify competitors. The best alternatives to Shopify in 2017-2018.</h1>
     </div>
     <img alt="Shopify Alternatives and Competitors" src="assets/images/shopify-alternatives.jpg" />
     {% include 'vc-magento-banner' with current_url : 'glossary/shopify-alternatives' %}
