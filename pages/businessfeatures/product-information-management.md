@@ -135,7 +135,7 @@ tags :
 				    <div style="padding-left:45px;" class="col">
 					    <div class="integration-item">
 						    <div class="integration-img">
-							    <img style="height:30px;" src="//virtocommerce.com/admin/assets/catalog/Klarna_Checkout_Euro/blue-black.png" alt="">
+							    <img style="height:30px;" src="//vc4prod.blob.core.windows.net/catalog/Klarna_Checkout_Euro/blue-black.png" alt="">
 						    </div>
 					    	<div class="integration-t">
 				    			Klarna Checkout Europe payment gateway<br>Enhanced
@@ -154,7 +154,7 @@ tags :
 				    <div style="padding-left:25px;" class="col">
 					    <div class="integration-item">
 						    <div class="integration-img">
-							    <img style="height:60px;" src="//virtocommerce.com/admin/assets/catalog/Zapier_Integration/Zapier-300x155.png" alt="">
+							    <img style="height:60px;" src="//vc4prod.blob.core.windows.net/catalog/Zapier_Integration/Zapier-300x155.png" alt="">
 						    </div>
 						    <div class="integration-t">
 							    Zapier integration module <br>Enhanced
@@ -171,7 +171,7 @@ tags :
 				    <div style="padding-right:45px;" class="col">
 					    <div class="integration-item">
 						    <div class="integration-img">
-							    <img style="height:60px;" src="//virtocommerce.com/admin/assets/catalog/HEJ-09262773/logo.png" alt="">
+							    <img style="height:60px;" src="//vc4prod.blob.core.windows.net/catalog/HEJ-09262773/logo.png" alt="">
 						    </div>
 						    <div class="integration-t">
 							    Stripe integration module <br>Enhanced

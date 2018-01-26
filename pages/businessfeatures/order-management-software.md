@@ -83,7 +83,7 @@ We have multiple OMS pricing options available, so you can always find one that 
 				    <div style="padding-left:45px;" class="col">
 					    <div class="integration-item">
 						    <div class="integration-img">
-							    <img style="height:50px;" src="//virtocommerce.com/admin/assets/catalog/Paypal_code/paypal_2014_logo.png" alt="">
+							    <img style="height:50px;" src="//vc4qc.blob.core.windows.net/catalog/Paypal_code/paypal_2014_logo.png" alt="">
 						    </div>
 					    	<div class="integration-t">
 				    			Paypal Express Checkout<br>Enhanced
@@ -101,7 +101,7 @@ We have multiple OMS pricing options available, so you can always find one that 
 				    <div style="padding-left:25px;" class="col">
 					    <div class="integration-item">
 						    <div class="integration-img">
-							    <img style="height:60px;" src="//virtocommerce.com/admin/assets/catalog/Altsoft_ShopifyImport/shopify.png" alt="">
+							    <img style="height:60px;" src="//vc4qc.blob.core.windows.net/catalog/Altsoft_ShopifyImport/shopify.png" alt="">
 						    </div>
 						    <div class="integration-t">
 							    Import from Shopify module <br>Enhanced
@@ -120,7 +120,7 @@ We have multiple OMS pricing options available, so you can always find one that 
 				    <div style="padding-right:45px;" class="col">
 					    <div class="integration-item">
 						    <div class="integration-img">
-							    <img style="height:70px;" src="//virtocommerce.com/admin/assets/catalog/VPC-36447525/surveymonkey.png" alt="">
+							    <img style="height:70px;" src="//vc4qc.blob.core.windows.net/catalog/HEJ-09262773/logo.png" alt="">
 						    </div>
 						    <div class="integration-t">
 							    SurveyMonkey integration module <br>Enhanced
