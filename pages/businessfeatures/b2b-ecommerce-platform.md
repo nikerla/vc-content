@@ -214,7 +214,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
 						</div>
 					</div>
 					<div class="customer-text">
-						«The new B2B platform takes advantage of a lot of the latest thoughts on high performance, high quality software development. By adopting this B2B ecommerce solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally.»
+						«Using Virto Commerce platform capabilities we have created very powerful system of gathering, publication and managing customer reviews. This system helps Kupinatao customers make the right choice out of millions of positions and drives our sales.»
 					</div>
 				</div>
 				<div class="col">
@@ -228,7 +228,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
 						</div>
 					</div>
 					<div class="customer-text">
-						«The new B2B platform takes advantage of a lot of the latest thoughts on high performance, high quality software development. By adopting this B2B ecommerce solution, we are adopting technologies that will allow us to better structure how we build the rest of our systems internally.»
+						«Virto Commerce lets us reduce the number of people involved in management of B2B product promotions from six to one. We don’t depend on IT guys anymore, and everybody benefits from this.»
 					</div>
 				</div>
 			</div>
