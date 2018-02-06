@@ -9,7 +9,7 @@ permalink: vc-community/become-contributor
         <div ng-if="!formCompleted" class="banner-t">Become a contributor</div>
          <div ng-if="formCompleted" class="banner-t">Thank you for registration! Now you have become our partner </div>
     </div>
-    <form class="responsive">
+    <form ng-if="!formCompleted" class="responsive">
         <div ng-init="step = 'licenseTerms'" class="steps">
             <div  ng-click="step = 'licenseTerms';reloadContributorData();" class="step">
                 <a class="step-link" ng-class="{'selected': (step === 'licenseTerms')}"></a>
