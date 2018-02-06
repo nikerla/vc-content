@@ -2,7 +2,7 @@
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 date: 2014-01-30
-permalink: vc-comunity
+permalink: vc-community
 ---
 <div ng-app="storefrontApp" ng-controller="communityController" class="vc-comunity">
     <div class="bg-banner">
@@ -24,7 +24,7 @@ permalink: vc-comunity
                             If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill.
                         </div>
                         <div class="list-actions">
-                            <a href="/vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="/vc-community/become-contributor" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -38,7 +38,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="/vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="/vc-community/become-contributor" class="button fill disable">Start</a>
                         </div>
                     </div>
                 </li>
@@ -52,7 +52,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="/vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="/vc-community/become-contributor" class="button fill disable">Start</a>
                         </div>
                     </div>
                 </li>
@@ -90,7 +90,7 @@ permalink: vc-comunity
                             Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                         </div>
                         <div class="list-actions">
-                            <a href="/vc-comunity/become-contributor" class="button fill">Start</a>
+                            <a href="/vc-community/become-contributor" class="button fill disable">Start</a>
                         </div>
                     </div>
                 </li>
@@ -105,6 +105,7 @@ permalink: vc-comunity
                 </div>
                 <p><a href="account/profile">Add info</a></p>
                 <p ng-bind="'(Point - ' + points + ')'"></p>
+                <p><a href="/account/logout">Sign out</a></p>
             </div>
             <div class="aside">
                 <div class="aside-t"><img src="so-ico.png" alt=""> Stackoverflow</div>

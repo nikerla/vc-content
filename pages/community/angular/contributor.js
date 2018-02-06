@@ -6,7 +6,7 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
 
         customerService.getCurrentCustomer().then(function (customer) {
             if (customer.data.userName == "Anonymous") {
-                document.location.href = "account/login";
+                //document.location.href = "account/login";
             };
             $scope.user_name = customer.data.firstName;
             $scope.reloadContributorData();
@@ -29,7 +29,7 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
             $scope.step = 'projectInfo'
         else {
             $scope.formCompleted = true;
-            $timeout(function () { document.location.href = "/vc-comunity" }, 1700)
+            $timeout(function () { document.location.href = "/vc-community" }, 1700)
         }
         $scope.reloadContributorData();
     }
