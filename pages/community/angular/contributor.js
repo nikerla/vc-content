@@ -29,7 +29,7 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
             $scope.step = 'projectInfo'
         else {
             $scope.formCompleted = true;
-            $timeout(function () { document.location.href = "/vc-community" }, 1700)
+            $timeout(function() { document.location.href = "/vc-community" }, 1700);
         }
         $scope.reloadContributorData();
     }
