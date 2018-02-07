@@ -67,6 +67,18 @@ We operate in Switzerland and some other parts of Europe.</p>
 				<a class="button" href="/contact-partner?pid=delaware" rel="nofollow">Contact partner</a>
 			</div>
 		</li>
+        <li class="list-item">
+			<a href="https://makingwaves.com" class="list-pic" rel="nofollow">
+				<img alt="" src="../assets/images/vendors/making-waves-logo.png">
+			</a>
+			<div class="list-info">
+				<a href="https://makingwaves.com" class="link" rel="nofollow">Making Waves</a>
+				<p class="country">UK, Germany, Switzerland, Netherlands, Denmark, Sweden, Norway, Poland, US</p>
+				<p class="lang">Languages Spoken: English, Swedish, Norwegian, German, Polish</p>
+				<p class="text">Making Waves are experts in digital service development and innovation. Best described as a cross between a creative software house and an interactive agency, we design and develop a full range of digital services and solutions – portals, e-commerce, intranets, mobile solutions, custom built applications and market communication. We are a digital innovation partner to many of the European biggest brands and public sector institutions. Making Waves has 400 employees in Oslo, Krakow, Stockholm and Chicago. We are a member of The North Alliance, a family of leading communications agencies. By bridging the gaps between communication, design and technology, we create new paths to growth.</p>
+				<a class="button" href="/contact-partner?pid=makingwaves" rel="nofollow">Contact partner</a>
+			</div>
+		</li>
 	</ul>
 </div>
 {% include 'technologies' %}
