@@ -1,6 +1,6 @@
 ---
-title: Product information management software (PIM) solutions and tools
-description: Product information management software (PIM) from Virto Commerce. What is product information management? Product information management tools, solutions and systems.
+title: Product information management software. PIM system solutions and tools
+description: Product information management software (PIM management) from Virto Commerce. What is product information management? Product information management tools, solutions and systems.
 date: 2014-01-30
 canonical: https://virtocommerce.com/product-information-management-software
 permalink: product-information-management-software
@@ -23,7 +23,7 @@ tags :
 	{% include 'features-left-menu' %}
 	<div class="business-cnt">
 		<div class="head __cnt">
-			<h1 class="title">Product information management software (PIM). Product information management tools and solutions. </h1>
+			<h1 class="title">Product information management software (PIM management system). Product information management tools and solutions. </h1>
 		</div>
         <div class="col-w">
             <div class="col __col-50">
@@ -36,7 +36,6 @@ tags :
         </div>
             <p class="text">Without a centralized location for storing data, companies rely on tedious and time-consuming spreadsheet-based manual data management as their product information management solutions, which makes it virtually impossible to satisfy the increasing demands of ecommerce markets. </p>
             <p class="text">Product information management systems offer the concept of entering and storing the product information once in a single place. This place is the source from which that information is then distributed without needing to be re-entered manually into a number of different systems. There is no need to spread all across your data, as you can easily manage, consolidate and improve media websites, ERP systems, print catalogs, and data feeds by implementing useful product information management tools. Therefore, if your goal is to find a product information management system that is centralized, offers independent data maintenance and collection product information, management capabilities are the right fit for you!</p>
-        <p class="text"> </p>
         <div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
             <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
@@ -75,6 +74,7 @@ tags :
 			<a class="button fill" href="/try-now">Try It Now</a>
             <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
     </div>
+    <br>
     <h2 class="sub-title">Product information management software by Virto Commerce</h2>
     <br>
         <div class="col-w">
@@ -122,6 +122,7 @@ tags :
 			    <a class="button fill" href="/try-now">Try It Now</a>
                 <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
 		    </div>
+                <br>
             <h2>Product Information Management Software Screenshots</h2>
             <br>
     <img alt="Product Information Management Software" src="../assets/images/oms-poms-pim-screenshot.jpg" />

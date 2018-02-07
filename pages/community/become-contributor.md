@@ -2,14 +2,14 @@
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 date: 2014-01-30
-permalink: vc-comunity/become-contributor
+permalink: vc-community/become-contributor
 ---
 <div ng-controller="contributorController" class="vc-contributor">
     <div class="bg-banner">
         <div ng-if="!formCompleted" class="banner-t">Become a contributor</div>
          <div ng-if="formCompleted" class="banner-t">Thank you for registration! Now you have become our partner </div>
     </div>
-    <form class="responsive">
+    <form ng-if="!formCompleted" class="responsive">
         <div ng-init="step = 'licenseTerms'" class="steps">
             <div  ng-click="step = 'licenseTerms';reloadContributorData();" class="step">
                 <a class="step-link" ng-class="{'selected': (step === 'licenseTerms')}"></a>

@@ -25,7 +25,7 @@ permalink: account/profile
                 </div>
                 <div class="control-group right">
                     <a ng-click="updateAccount(user,newAddresses);" class="button fill">Save</a>
-                    <a href="/vc-comunity" class="button fill">Cancel</a>
+                    <a href="/vc-community" class="button fill">Cancel</a>
                 </div>
             </div>
         </div>
