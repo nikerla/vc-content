@@ -92,7 +92,6 @@ These would normally be the tasks for the shipping, service or customer training
 The service department staff can often stay in a customer’s office for a long time, which gives them a great opportunity to solidify that strong relationship you have with that customer.
 
 In addition, their prolonged interaction allows them to develop a unique perspective of customer requirements, which is why it is so critical for your company to get the feedback from them through debriefing.
-<br>
-
+<br></br>
 To sum it up, it is important for companies to clearly identify the stages of their order management process, determine the roles of different teams at each stage and promote cooperation. That way each department can draw attention to its main focus making sure that the company’s costs and procedures stay on track while the customer’s experience remains a priority.
 
