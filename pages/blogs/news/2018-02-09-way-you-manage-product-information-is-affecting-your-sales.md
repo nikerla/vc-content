@@ -72,8 +72,6 @@ Your PIM system will make sure that all these new updates are properly implement
 <h2>3.	Improve quality assurance</h2>
 
 No more human error factor! A good <a href="{{ 'https://virtocommerce.com/product-information-management-software' | absolute_url }}">PIM software</a> can be set up to automatically detect any missing information in the required fields for every product record. You can configure it to serve your specific needs and mark certain fields as “required” or set a minimum percentage of information that needs to be filled in. This helps to avoid incomplete product content items from being published. 
-
 <br></br>
-
 Product information management can be a complex and resource consuming process, but the new generation PIM systems make it a whole lot easier for brands to adhere to retailer requirements and for vendors to provide the most comprehensive data to the consumers. With the right technology at hand, retailers are getting more and more opportunities to offer high-quality product information and increase customer satisfaction, which leads to better digital sales.
 
