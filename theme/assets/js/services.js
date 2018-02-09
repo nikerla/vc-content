@@ -38,7 +38,7 @@ storefrontApp.service('feedbackService', ['$http', function ($http) {
 storefrontApp.service('customerService', ['$http', function ($http) {
     return {
         getCurrentCustomer: function () {
-            return $http.get('/account?t=' + new Date().getTime());
+            return $http.get('storefrontapi/account?t=' + new Date().getTime());
         }
     }
 }]);
