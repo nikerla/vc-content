@@ -16,8 +16,8 @@ storefrontApp.controller('accountController', ['$scope', '$window', '$localStora
     $scope.updateAccount = function (changedData, newAddresses) {
         var changedAddresses = communityService.getProfileParameters(newAddresses);
         accountApi.updateAccount(changedData, mainContext.getCustomer).$promise;
-        accountApi.updateAddresses([changedAddresses], mainContext.getCustomer).$promise;
-        document.location.href = "account/login";
+        //accountApi.updateAddresses([changedAddresses], mainContext.getCustomer).$promise;
+        document.location.href = "/vc-community";
     }
 
 
