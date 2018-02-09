@@ -11,6 +11,8 @@ tags:
 - virtocommerce
 title: 5 ways your Order Management process can make or break your relationship with the customers
 ---
+### <dfn>5 ways your Order Management process can make or break your relationship with the customers</dfn>
+
 An <a href="{{ 'https://virtocommerce.com/order-management-software' | absolute_url }}">order management</a> process of any company that deals with manufacturing or retail is relatively similar and includes roughly the following steps: 
 
 •	order planning;
