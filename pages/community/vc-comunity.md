@@ -108,7 +108,7 @@ authorize: true
                 <p ng-bind="'(Point - ' + points + ')'"></p>
                 <p><a href="/account/logout">Sign out</a></p>
             </div>
-            <div class="aside">
+            <!--<div class="aside">
                 <div class="aside-t"><img src="so-ico.png" alt=""> Stackoverflow</div>
                 <a ng-hide="stackExchange" href="account/externallogin?authType=StackExchange">Link account</a>
                 <div ng-show="stackExchange">
@@ -117,7 +117,7 @@ authorize: true
                     <p>Answer – <span ng-bind="stackExchange.answers"></span></p>
                     <p>Questions – <span ng-bind="stackExchange.questions"></span></p>
                 </div>
-            </div>
+            </div>-->
             <div class="aside">
                 <div class="aside-t"><img src="gh-ico.png" alt=""> Github</div>
                 <a ng-hide="github" href="account/externallogin?authType=GitHub">Link account</a>
