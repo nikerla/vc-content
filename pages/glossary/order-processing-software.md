@@ -24,18 +24,18 @@ tags :
     </div>
     <img alt="Order Processing Software" src="assets/images/order-processing-software.jpg" />
     <p class="text">
-    Virto Commerce’s order processing <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}"> software</a> is very flexible and easy to integrate into your existing <a href="{{ '/glossary/order-management-software' | absolute_url }}">order management system</a>. If you are looking to start managing your customers’ life cycles and have a customer-centric view on your company, you may want to check for the relevant software available on the market and consider our product for order fulfillment. The size of your business would not be an issue, as our order processing software is capable of handling high volumes of <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}">purchases</a> at any given time, giving you the ability to easily manage and scale order flows. 
+    Virto Commerce’s order processing <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}"> software</a> is very flexible and easy to integrate into your existing <a href="{{ '/glossary/order-management-software' | absolute_url }}">order management system</a>. If you are looking to start managing your customers’ life cycles and have a customer-centric view on your company, you may want to check for the relevant order fulfillment software available on the market and consider our product for order fulfillment. The size of your business would not be an issue, as our order processing software is capable of handling high volumes of <a href="{{ '/glossary/purchase-order-management-software' | absolute_url }}">purchases</a> at any given time, giving you the ability to easily manage and scale order flows. 
     </p>  
     <p class="text">
-    Ship orders from all of your sales channels and stay on top of the delivery using the cutting-edge order tracking software. The top-notch sales order tracking software will also be at your service ensuring that your customers will always be satisfied with the delivery of your product. 
+    Ship orders from all of your sales channels and stay on top of the delivery using the cutting-edge order tracking software. The top-notch sales order tracking software will also be at your service ensuring that your customers will always be satisfied with the delivery of your product.
     </p>
     <div class="section-title">What is Order Processing Software?</div>
     <p class="text">
-    Order processing software is a system that is specifically tailored to manage businesses’ time properly by reducing the length of the sales order processing. With a good order processing software, your business will be able to improve operational efficiency, increase revenues, eliminate billing errors, and deliver the highest level of customer satisfaction. Besides that, the right order fulfillment software enables you to track order-to-cash processes and to integrate unique billing capabilities.  
+    Order processing software is a system that is specifically tailored to manage businesses’ time properly by reducing the length of the sales order processing. With a good order processing software, your business will be able to improve operational efficiency, increase revenues, eliminate billing errors, and deliver the highest level of customer satisfaction. Besides that, the right order fulfillment software enables you to track order-to-cash processes and to integrate unique billing capabilities.
     </p>
     <div class="section-title">Criteria for Choosing a Great Order Processing Software</div>
     <p class="text">
-    Outstanding order processing software should have these following features to help businesses increase their efficiency:
+    A good order processing software should have these following features to help businesses increase their efficiency:
     </p>
     <p class="text">•	Order tracking software that integrates business process across all of the branches of the company;</p>
     <p class="text">•	Price tracking system to count for the latest discounts and price rules;</p>
@@ -59,29 +59,29 @@ tags :
         The right order processing software will unify all your stakeholders within a centralized system from sales and service reps to executives, to fulfillment specialists and finance managers.
     </p>
     <p class="text">
-        Such collaborative setup of your order fulfillment software also helps the customer-supplier relationship thrive.  
+        Such collaborative setup of your order fulfillment software also helps the customer-supplier relationship thrive.
     </p>
     <div class="section-title">Benefits of using an Order Fulfillment System</div>
     <p class="text">
-    The main benefit of using such software is, of course, faster turnaround times and the ability to implement order tracking system. Other than that, the main advantages are:
+    The main benefit of using such software is, of course, faster turnaround times and the ability to implement order tracking software. Other than that, the main advantages are:
     </p>
     <p class="text">•	Automated invoices on payment terms and billing processes;</p>
     <p class="text">•	Backorder Management. Tracking the inventory, registering of the new arrived items for backorders, and moving the orders to processing so that they can be shipped; </p>
     <p class="text">•	Stronger Customer Relationships. Order self-service along with the ability to inquire order, delivery, and payment information for the customer helps increase customer satisfaction;</p>
     <p class="text">•	Improved cash flow among your finance and sales departments;</p>
-    <p class="text">•	A more streamlined process of order management. Reduced times for reports creation, full control of the quote and order processing with an intelligent workflow for approval routing, pricing, and special discounts.;</p>
-    <p class="text">•	Improved efficiency of order processing. A good system will allow you to ship products from multiple warehouses and automate order routes to the correct fulfillment center. Plus, a multi-channel inventory management solution will let you send orders from any sales channel to your centralized system, saving massive amounts of time on a daily basis.; </p>
-    <p class="text">•	Order Combining and Prioritization. Batch orders in bulk and set processing priorities.;</p>
+    <p class="text">•	A more streamlined process of order management. Reduced times for reports creation, full control of the quote and order processing with an intelligent workflow for approval routing, pricing, and special discounts;</p>
+    <p class="text">•	Improved efficiency of order processing. A good system will allow you to ship products from multiple warehouses and automate order routes to the correct fulfillment center. Plus, a multi-channel inventory management solution will let you send orders from any sales channel to your centralized system, saving massive amounts of time on a daily basis; </p>
+    <p class="text">•	Order Combining and Prioritization. Batch orders in bulk and set processing priorities;</p>
     <p class="text">•	Improved sales thanks to order tracking software;</p>
     <p class="text">•	Multi-Tier Support. To allow your order tracking software grow with your retail and wholesale business accommodating flexible pricing options and order management capabilities; </p>
     <p class="text">•	Reduced costs by eliminating manual data entries;</p>
     <p class="text">•	Increased data control due to the absence of human error in the process of using order fulfillment software;</p>
-    <p class="text">•	Improved business performance with the ability to enable faster shipping thanks to the high-end order tracking system with constant real-time access to all daily tasks, day sales outstanding as well as important order-related information.;</p>
-    <p class="text">•	•	Increased customer satisfaction because of the reduced load of paperwork on your team, which enables them to service your customers at their best abilities. </p>
+    <p class="text">•	Improved business performance with the ability to enable faster shipping thanks to the high-end order tracking system with constant real-time access to all daily tasks, day sales outstanding as well as important order-related information;</p>
+    <p class="text">•	Increased customer satisfaction because of the reduced load of paperwork on your team, which enables them to service your customers at their best abilities.</p>
     <p class="text">
     Having a good <a href="{{ '/glossary/what-is-inventory-management' | absolute_url }}">order</a> fulfillment system can be extremely beneficial for your business giving it more flexibility, increased performance, and a highly needed sales order tracking software. 
     </p>
-    <p class="text">An order tracking system by Virto Commerce introduces the best practices when it comes to order fulfillment and helps manufacturers, wholesalers, and distributors reduce costs, improve customer support and start selling globally without the pain of processing orders manually.  Virto Commerce allows you to consolidate and process your orders across multiple sales channels with seamless tracking. 
+    <p class="text">An order tracking system by Virto Commerce introduces the best practices when it comes to order fulfillment and helps manufacturers, wholesalers, and distributors reduce costs, improve customer support and start selling globally without the pain of processing orders manually. Virto Commerce allows you to consolidate and process your orders across multiple sales channels with seamless tracking.
     </p>
 <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
