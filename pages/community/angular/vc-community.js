@@ -4,9 +4,9 @@ storefrontApp.controller('communityController', ['$scope', '$q', '$window', '$lo
     $scope.loaded = false;
 
     customerService.getCurrentCustomer().then(function (user) {
-        if (user.data.userName == "Anonymous" ) {
-            document.location.href = "account/login";
-        };
+        //if (user.data.userName == "Anonymous" ) {
+        //    document.location.href = "account/login";
+        //};
         
         $scope.user = user.data;
         if (!_.isEmpty($scope.user.addresses)) {
