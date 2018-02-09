@@ -4,7 +4,7 @@ storefrontApp.controller('accountController', ['$scope', '$window', '$localStora
     
     $scope.initialize = function () {
         customerService.getCurrentCustomer().then(function (customer) {
-            $scope.temp = angular.copy(customer.data)
+            $scope.temp = angular.copy(customer.data);
             $scope.user = customer.data;
             $scope.newAddresses = {};
             if (!_.isEmpty($scope.user.addresses))
@@ -16,7 +16,7 @@ storefrontApp.controller('accountController', ['$scope', '$window', '$localStora
     $scope.updateAccount = function (changedData, newAddresses) {
         var changedAddresses = communityService.getProfileParameters(newAddresses);
         accountApi.updateAccount(changedData, mainContext.getCustomer).$promise;
-        //accountApi.updateAddresses([changedAddresses], mainContext.getCustomer).$promise;
+        accountApi.updateAddresses([changedAddresses], mainContext.getCustomer).$promise;
         document.location.href = "/vc-community";
     }
 
