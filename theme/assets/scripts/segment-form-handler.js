@@ -7,12 +7,17 @@ if(forms)
     var form = $(element);
     
     // Setup a handler to run when the form is submitted
-    form.on('submit', function(e) {
+    form.on('submit', function (e) {
+
+        // fix for other forms
+        if (e.target.id === 'create_customer' || e.target.id === 'customer_login' ) {
+            return true;
+        }
 
       // If some client-side validation kicked in and wants to prevent
       // the form from submitting, bail out now without calling track or identify
       if ( e.isDefaultPrevented() ) {
-        return
+          return;
       }
 
       // If we got here, it's okay to fire our events and submit the form      

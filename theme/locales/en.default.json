@@ -367,7 +367,16 @@
             "localization": "Localization"
         }
     },
+    "common": {
+        "or": "OR"
+    },
     "customer": {
+        "login": {
+            "user_name": "User Name",
+            "password": "Password",
+            "forgot_password": "Forgot your password?",
+            "sign_in": "Sign In"
+        },
         "register": {
             "title": "Create Account",
             "first_name": "First Name",
@@ -376,7 +385,7 @@
             "user_name": "User Name",
             "password": "Password",
             "submit": "Create",
-            "cancel": "Return to Store"
+            "cancel": "Cancel"
         },
         "recover_password": {
             "title": "Reset your password",

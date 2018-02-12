@@ -152,6 +152,8 @@
             <add key="/glossary/what-is-pim" value="product-information-management" />
             <add key="/product-information-management" value="product-information-management-software" />
             <add key="/b2b-ecommerce" value="b2b-ecommerce-platform" />
+            <add key="/customers/account" value="/vc-community" />
+            <add key="/account" value="/vc-community" />
         </rewriteMap>
     </rewriteMaps>
     <rules>
@@ -201,6 +203,10 @@
                 <add input="{REQUEST_URI}" pattern="^/(?!admin)$" />
             </conditions>
             <action type="Redirect" redirectType="Permanent" url="{R:1}" />
+        </rule>
+        <rule name="Redirect to vc community" stopProcessing="true">
+            <match url="(.*)(\/account)$" />
+            <action type="Redirect" url="/vc-community" />
         </rule>
     </rules>
 </rewrite>

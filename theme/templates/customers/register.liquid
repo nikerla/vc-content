@@ -1,4 +1,3 @@
-{% layout settings.customer_layout %}
 <div ng-controller="accountController" class="roadmap responsive">
     <h1 style="margin-left: 18px;" class="head-title">Create account</h1>
     <div class="columns">
@@ -9,27 +8,30 @@
 
                 <div class="control-group">
                     <label for="first_name" class="hidden-label">{{ 'customer.register.first_name' | t }}</label>
-                    <input type="text" class="form-input" style="width:300px;" value="" name="customer[first_name]" id="first_name" placeholder="{{ 'customer.register.first_name' | t }}" {% if form.errors contains "first_name" %} class="error" {% endif %} autocapitalize="words" autofocus>
+                    <input type="text" value="" class="form-input" name="customer[first_name]" id="first_name" placeholder="{{ 'customer.register.first_name' | t }}" {% if form.errors contains "first_name" %} class="error" {% endif %} autocapitalize="words" autofocus>
                 </div>
                 <div class="control-group">
                     <label for="last_name" class="hidden-label">{{ 'customer.register.last_name' | t }}</label>
-                    <input type="text" class="form-input" style="width:300px;" value="" name="customer[last_name]" id="last_name" placeholder="{{ 'customer.register.last_name' | t }}" {% if form.errors contains "last_name" %} class="error" {% endif %} autocapitalize="words">
+                    <input type="text" value="" class="form-input" name="customer[last_name]" id="last_name" placeholder="{{ 'customer.register.last_name' | t }}" {% if form.errors contains "last_name" %} class="error" {% endif %} autocapitalize="words">
                 </div>
                 <div class="control-group">
                     <label for="email" class="hidden-label">{{ 'customer.register.email' | t }}</label>
-                    <input type="email" class="form-input" style="width:300px;" value="" name="customer[email]" id="email" placeholder="{{ 'customer.register.email' | t }}" {% if form.errors contains "email" %} class="error" {% endif %} autocorrect="off" autocapitalize="off">
+                    <input type="email" value="" class="form-input" name="customer[email]" id="email" placeholder="{{ 'customer.register.email' | t }}" {% if form.errors contains "email" %} class="error" {% endif %} autocorrect="off" autocapitalize="off">
                 </div>
+
                 <div class="control-group">
                     <label for="user_name" class="hidden-label">{{ 'customer.register.user_name' | t }}</label>
-                    <input type="text" class="form-input" style="width:300px;" value="" name="customer[user_name]" id="user_name" placeholder="{{ 'customer.register.user_name' | t }}" {% if form.errors contains "user_name" %} class="error" {% endif %} autocorrect="off" autocapitalize="off">
+                    <input type="text" value="" class="form-input" name="customer[user_name]" id="user_name" placeholder="{{ 'customer.register.user_name' | t }}" {% if form.errors contains "user_name" %} class="error" {% endif %} autocorrect="off" autocapitalize="off">
                 </div>
+
                 <div class="control-group">
                     <label for="password" class="hidden-label">{{ 'customer.register.password' | t }}</label>
-                    <input type="password" class="form-input" style="width:300px;" minlength="5" value="" name="customer[password]" id="create_password" placeholder="{{ 'customer.register.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
+                    <input type="password" value="" class="form-input" name="customer[password]" id="create_password" placeholder="{{ 'customer.register.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
                 </div>
                 <p>
                     <div style="top: 25px; position: relative;" class="control-group">
-                        <input type="submit" value="{{ 'customer.register.submit' | t }}" class="button fill">
+                        <input type="submit" class="button fill" value="{{ 'customer.register.submit' | t }}">
+                        <a class="button fill" href="{{ shop.url }}">{{ 'customer.register.cancel' | t }}</a>
                     </div>
                 </p>
                 {% endform %}

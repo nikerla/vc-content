@@ -4,28 +4,33 @@
         <div style="bottom: 20px; position: relative;" class="column">
             <div class="block">
                 <div style="width:500px;">
-                    <a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
+                    <a class="btn btn-default btn-lg btn-block" style="width:500px;" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
                     <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
                 </div>
-                <p align="center">&mdash; OR &mdash;</p>
-                <form name="loginForm" method="post">
-                    <input type="hidden" name="Contact[Subject]" value="Contact Partner" />
-                    <input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-contact-partner' />
-                    <input style="display: none" name="Contact[PartnerId]" value="" />
-                    <div class="control-group">
-                        <input ng-model="user.user_name" class="form-input" style="width:500px;" type="text" value="" name="customer[user_name]" id="customer_user_name" placeholder="User Name" autocorrect="off" autocapitalize="off" autofocus ng-required="user.user_name" />
-                    </div>
-                    <div class="control-group">
-                        <input ng-model="user.password" class="form-input" style="width:500px;" type="password" value="" name="customer[password]" id="customer_password" placeholder="Password" ng-required="user.password" />
-                    </div>
-                    <div position: relative;" class="control-group">
-                        <button class="button fill" ng-required="loginForm.$valid" style="width:500px;">Log in</button>
-                    </div>
-                </form>
-                <div class="" align="center" >
-                    <a href="account/register">Register</a>
+                <p align="center">&mdash; {{ 'common.or' | t }}  &mdash;</p>
+
+                {% form 'customer_login' %}
+
+                {% include 'form-errors-custom' %}
+
+                <div class="control-group">
+                    <input type="text" value="" class="form-input" style="width:500px;" name="customer[user_name]" id="customer_user_name" placeholder="{{ 'customer.login.user_name' | t }}" {% if form.errors contains "user_name" %} class="error" {% endif %} autocorrect="off" autocapitalize="off" autofocus>
+                </div>
+                <div class="control-group">
+                    <input type="password" value=""  class="form-input" style="width:500px;" name="customer[password]" id="customer_password" placeholder="{{ 'customer.login.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
+                </div>
+                <div position: relative;" class="control-group">
+                    <p>
+                        <input type="submit" class="button fill" style="width:500px;" value="{{ 'customer.login.sign_in' | t }}">
+                    </p>
+                </div>
+
+                {% endform %}
+
+                <div class="" align="center">
+                        <a href="account/register">Register</a>
                     <span> | </span>
-                    <a href="account/forgotpassword">Forgot your password?</a>
+                        <a href="{{ '/account/forgotpassword' | absolute_url }}">{{ 'customer.login.forgot_password' | t }}</a>
                 </div>
             </div>
         </div>
