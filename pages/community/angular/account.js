@@ -20,26 +20,6 @@ storefrontApp.controller('accountController', ['$scope', '$window', '$localStora
         document.location.href = "/vc-community";
     }
 
-    $scope.createAccount = function (account) {
-        var data = {
-            "customer[first_name]": account.name,
-            "customer[last_name]": account.lastName,
-            "customer[email]": account.email,
-            "customer[user_name]": account.user_name,
-            "customer[password]": account.password
-        };
-
-        accountService.register($.param(data))
-            .then(function(result) {
-                    debugger;
-                })
-            .catch(function(error) {
-                    debugger;
-                })
-            ;
-
-    };
-
     $scope.cancel = function () {
         $scope.user = angular.copy($scope.temp);
     }

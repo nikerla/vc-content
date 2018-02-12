@@ -4,10 +4,7 @@ storefrontApp.controller('communityController', ['$scope', '$q', '$window', '$lo
     $scope.loaded = false;
 
     customerService.getCurrentCustomer().then(function (user) {
-        //if (user.data.userName == "Anonymous" ) {
-        //    document.location.href = "account/login";
-        //};
-        
+
         $scope.user = user.data;
         if (!_.isEmpty($scope.user.addresses)) {
             if (!angular.isUndefined(_.first($scope.user.addresses).organization))
@@ -15,8 +12,7 @@ storefrontApp.controller('communityController', ['$scope', '$q', '$window', '$lo
         }
 
         var githubAccount = _.find(user.data.externalLogins, { loginProvider: 'GitHub' });
-        debugger;
-        //user..externalLogins
+
         var stackExchangeAccount = _.find(user.data.externalLogins, { loginProvider: 'StackExchange' });
                
         if (!angular.isUndefined(githubAccount)) {

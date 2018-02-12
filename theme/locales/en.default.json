@@ -392,7 +392,8 @@
             "email": "Email",
             "submit": "Submit",
             "cancel": "Cancel",
-            "subtext": "We will send you an email to reset your password."
+            "subtext": "We will send you an email to reset your password.",
+            "reset_password_success": "We've sent you an email with a link to update your password."
         }
     }
 }

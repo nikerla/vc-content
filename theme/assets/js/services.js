@@ -27,18 +27,6 @@ storefrontApp.factory('accountApi', ['$resource', function ($resource) {
     });
 }]);
 
-storefrontApp.service('accountService', ['$http', function ($http) {
-    return {
-        register: function (data) {
-            return $http({
-                method: 'POST',
-                url: '/account/register',
-                data: data,
-                headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
-            })}
-    }
-}]);
-
 storefrontApp.service('feedbackService', ['$http', function ($http) {
     return {
         postFeedback: function (data) {

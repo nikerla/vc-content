@@ -10,7 +10,7 @@ if(forms)
     form.on('submit', function (e) {
 
         // fix for other forms
-        if (e.target.id === 'create_customer' || e.target.id === 'customer_login' ) {
+        if (e.target.id === 'create_customer' || e.target.id === 'customer_login' || e.target.id === 'recover_customer_password') {
             return true;
         }
 

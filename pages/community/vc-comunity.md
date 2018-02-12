@@ -120,7 +120,7 @@ authorize: true
             </div>-->
             <div class="aside">
                 <div class="aside-t"><img src="gh-ico.png" alt=""> Github</div>
-                <a ng-hide="github" href="account/externallogin?authType=GitHub">Link account</a>
+                <a ng-hide="github" href="account/externallogin?authType=GitHub&returnUrl=/vc-community">Link account</a>
                 <div ng-show="github">
                     <p>Name – <span ng-bind="github.userName"></span></p>
                     <p>Virto commerce rating – <span ng-bind="rating"></span></p>
