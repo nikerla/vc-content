@@ -366,5 +366,24 @@
             "setting-up-new-store": "Setting up new store",
             "localization": "Localization"
         }
+    },
+    "customer": {
+        "register": {
+            "title": "Create Account",
+            "first_name": "First Name",
+            "last_name": "Last Name",
+            "email": "Email",
+            "user_name": "User Name",
+            "password": "Password",
+            "submit": "Create",
+            "cancel": "Return to Store"
+        },
+        "recover_password": {
+            "title": "Reset your password",
+            "email": "Email",
+            "submit": "Submit",
+            "cancel": "Cancel",
+            "subtext": "We will send you an email to reset your password."
+        }
     }
 }

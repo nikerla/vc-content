@@ -13,17 +13,20 @@
                     <input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-contact-partner' />
                     <input style="display: none" name="Contact[PartnerId]" value="" />
                     <div class="control-group">
-                         <input ng-model="user.user_name" class="form-input" style="width:500px;" type="text" value="" name="customer[user_name]" id="customer_user_name" placeholder="User Name" autocorrect="off" autocapitalize="off" autofocus ng-required="user.user_name" />
+                        <input ng-model="user.user_name" class="form-input" style="width:500px;" type="text" value="" name="customer[user_name]" id="customer_user_name" placeholder="User Name" autocorrect="off" autocapitalize="off" autofocus ng-required="user.user_name" />
                     </div>
                     <div class="control-group">
                         <input ng-model="user.password" class="form-input" style="width:500px;" type="password" value="" name="customer[password]" id="customer_password" placeholder="Password" ng-required="user.password" />
                     </div>
-                    <p>
-                        <div style="top: 25px; position: relative;" class="control-group">
-                            <button ng-disabled=true; class="button fill" ng-required="loginForm.$valid" style="width:500px;">Log in</button>
-                        </div>
-                    </p>
+                    <div position: relative;" class="control-group">
+                        <button class="button fill" ng-required="loginForm.$valid" style="width:500px;">Log in</button>
+                    </div>
                 </form>
+                <div class="" align="center" >
+                    <a href="account/register">Register</a>
+                    <span> | </span>
+                    <a href="account/forgotpassword">Forgot your password?</a>
+                </div>
             </div>
         </div>
         <div class="column">
