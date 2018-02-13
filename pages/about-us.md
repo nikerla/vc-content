@@ -116,11 +116,11 @@ tags :
             </li>
             <li class="list-item" itemscope itemtype="http://schema.org/Organization">
                 <div class="list-map">
-                    <div class="marker" data-lat="54.721994" data-lng="25.236373"></div>
+                    <div class="marker" data-lat="54.717376" data-lng="25.2832098"></div>
                 </div>
                 <div class="list-location">Vilnius, Lithuania</div>
                 <div class="list-descr">
-                    <p itemprop="address">Laisvės pr. 79E<br>Vilnius, Lithuania 06122</p>
+                    <p itemprop="address">Technopolis Ozas, Ozo St. 12A<br>Vilnius, Lithuania</p>
                     <p>
                         Email: <a href="mailto:sales@virtocommerce.com?subject=Virto Commerce Lithuania" itemprop="email">sales@virtocommerce.com</a>
                     </p>
