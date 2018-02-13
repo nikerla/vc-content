@@ -1,6 +1,6 @@
 var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('accountController', ['$scope', '$window', '$localStorage', '$location', 'communityService', 'customerService', 'accountApi', 'mainContext', 'accountService', '$httpParamSerializer', function ($scope, $window, $localStorage, $location, communityService, customerService, accountApi, mainContext, accountService, $httpParamSerializer) {
+storefrontApp.controller('accountController', ['$scope', '$window', '$localStorage', '$location', 'communityService', 'customerService', 'accountApi', 'mainContext', function ($scope, $window, $localStorage, $location, communityService, customerService, accountApi, mainContext) {
     
     $scope.initialize = function () {
         customerService.getCurrentCustomer().then(function (customer) {
