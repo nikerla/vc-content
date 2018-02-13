@@ -1,5 +1,5 @@
 // Grab a reference to our form
-var forms = $('form');
+var forms = $("form[name='contact_partner']");
 
 if(forms)
 {
@@ -8,11 +8,6 @@ if(forms)
     
     // Setup a handler to run when the form is submitted
     form.on('submit', function (e) {
-
-        // fix for other forms
-        if (e.target.id === 'create_customer' || e.target.id === 'customer_login' || e.target.id === 'recover_customer_password') {
-            return true;
-        }
 
       // If some client-side validation kicked in and wants to prevent
       // the form from submitting, bail out now without calling track or identify

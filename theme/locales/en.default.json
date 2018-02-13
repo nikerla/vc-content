@@ -376,10 +376,14 @@
     },
     "customer": {
         "login": {
-            "user_name": "User Name",
+            "user_name": "Email adress",
             "password": "Password",
             "forgot_password": "Forgot your password?",
-            "sign_in": "Sign In"
+            "sign_in": "Sign In",
+            "error": {
+                "user_name": "test"
+
+            }
         },
         "register": {
             "title": "Create Account",

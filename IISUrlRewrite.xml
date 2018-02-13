@@ -153,6 +153,7 @@
             <add key="/product-information-management" value="product-information-management-software" />
             <add key="/b2b-ecommerce" value="b2b-ecommerce-platform" />
             <add key="/customers/account" value="vc-community" />
+            <add key="/account" value="vc-community" />
         </rewriteMap>
     </rewriteMaps>
     <rules>

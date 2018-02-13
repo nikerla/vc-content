@@ -17,7 +17,7 @@
                     <input type="text" value="" class="form-input" style="width:500px;" name="customer[user_name]" id="customer_user_name" placeholder="{{ 'customer.login.user_name' | t }}" {% if form.errors contains "user_name" %} class="error" {% endif %} autocorrect="off" autocapitalize="off" autofocus>
                 </div>
                 <div class="control-group">
-                    <input type="password" value=""  class="form-input" style="width:500px;" name="customer[password]" id="customer_password" placeholder="{{ 'customer.login.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
+                    <input type="password" value="" class="form-input" style="width:500px;" name="customer[password]" id="customer_password" placeholder="{{ 'customer.login.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
                 </div>
                 <div position: relative;" class="control-group">
                     <p>
@@ -28,9 +28,9 @@
                 {% endform %}
 
                 <div class="" align="center">
-                        <a href="account/register">Register</a>
+                    <a href="account/register">Register</a>
                     <span> | </span>
-                        <a href="{{ '/account/forgotpassword' | absolute_url }}">{{ 'customer.login.forgot_password' | t }}</a>
+                    <a href="{{ '/account/forgotpassword' | absolute_url }}">{{ 'customer.login.forgot_password' | t }}</a>
                 </div>
             </div>
         </div>
@@ -50,3 +50,24 @@
         </div>
     </div>
 </div>
+{{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
+{{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
+<script type="text/javascript">
+    $(function () {
+    //custom validation
+        $('form#customer_login').validate({
+            rules: {
+                'customer[user_name]': "required",
+                'customer[password]': "required"
+            },
+            errorElement: "span",
+            messages: {
+                'customer[user_name]': "Please enter your Email Adress",
+                'customer[password]': "Please enter your Password"
+            },
+            submitHandler: function (form) {
+                form.submit();
+            }
+        });
+    });
+</script>
