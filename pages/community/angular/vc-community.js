@@ -4,6 +4,7 @@ storefrontApp.controller('communityController', ['$scope', '$q', '$window', '$lo
     $scope.loaded = false;
 
     customerService.getCurrentCustomer().then(function (user) {
+        debugger;
 
         $scope.user = user.data;
         if (!_.isEmpty($scope.user.addresses)) {

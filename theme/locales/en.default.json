@@ -53,7 +53,11 @@
         "privacy": "Privacy",
         "shopping_cart": "ASP.NET Shopping Cart",
         "best_ecommerce_platform": "Best Ecommerce Platform",
-        "e_procurement_software": "E procurement software"
+        "e_procurement_software": "E procurement software",
+        "forms": {
+            "post_error": "Sorry, looks like something went wrong. Please correct the following and submit again:",
+            "post_field_error_html": "The <strong>{{ field }}</strong> {{ error }}"
+        }
     },
     "main_page": {
         "about": {

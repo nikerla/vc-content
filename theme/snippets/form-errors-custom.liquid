@@ -5,6 +5,7 @@
   <ul> wrapped with <div class="errors">
     - {{ form.errors | default_errors }}
 {% endcomment %}
+
 {% if form.errors %}
   <div class="note form-error">
     <p>{{ 'general.forms.post_error' | t }}</p>
