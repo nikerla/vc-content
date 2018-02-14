@@ -69,7 +69,19 @@ tags :
                         B2B sales focused with experience in new business development, relationship management, digital project management, automated marketing, and digital strategic planning. Leading teams of designers, developers, and marketing professionals executing digital transformation has taught me to successfully grow and manage enterprise level projects with executive stakeholders. 
                     </p>
                 </div>
-            </li>            
+            </li>         
+            <li class="list-item" style="width: 33%;">
+                <figure class="list-pic" data-office="Partnerships">
+                    <img src="assets/images/about/stephen-shao.jpg" alt="Stephen Shao">
+                </figure>
+                <div class="list-name">Stephen Shao</div>
+                <div class="list-office">Strategic Alliances</div>
+                <div class="list-descr">
+                    <p>
+                        Stephen brings his extensive B2B experience to help empower Virto Commerce and its partners. Previously at Philips, where he led the North American and EMEA marketing initiatives for their professional display division, he brings an enthusiasm for building relationships and keen strategic insight for communal growth.
+                    </p>
+                </div>
+            </li>
             <!--
             <li class="list-item">
                 <figure class="list-pic" data-office="SA">
