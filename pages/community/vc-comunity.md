@@ -88,7 +88,7 @@ authorize: true
                 <!--<div class="aside-t">Profile <span ng-bind="('(completed') + ' ' + (percentage) + ('%)')"></span></div>-->
                 <div class="aside-other" >
                     <span ng-show="github">
-                        <img  ng-src="{% raw %}{{ githubUser.avatar_url }}{% endraw %}" width="80" height="" style="border-radius: 50%; />
+                        <img  ng-src="{% raw %}{{ githubUser.avatar_url }}{% endraw %}" width="80" height="" style="border-radius: 50%;" />
                     </span>
                     <span style="font-size: 12pt;font-weight: 700;" ng-bind="user.firstName"></span>
                     <span ng-if="user.organization" ng-bind="'(' + user.organization + ')'"></span>

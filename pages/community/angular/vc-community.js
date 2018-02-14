@@ -4,7 +4,7 @@ storefrontApp.controller('communityController', ['$scope', '$q', '$window', '$lo
     $scope.loaded = false;
     $scope.githubUser = null;
 
-    customerService.getCurrentCustomer().then(function(user) {
+    customerService.getCurrentCustomer().then(function (user) {
         $scope.user = user.data;
         if (!_.isEmpty($scope.user.addresses)) {
             if (!angular.isUndefined(_.first($scope.user.addresses).organization))
