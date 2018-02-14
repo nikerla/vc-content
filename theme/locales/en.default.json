@@ -392,6 +392,7 @@
             "email": "Email",
             "user_name": "User Name",
             "password": "Password",
+            "password_confirm": "Confirm password",
             "submit": "Create",
             "cancel": "Cancel"
         },

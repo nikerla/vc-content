@@ -4,7 +4,7 @@ storefrontApp.controller('contributorController', ['$scope', '$window', '$timeou
 
     function initialize() {
 
-        customerService.getCurrentCustomer().then(function(customer) {
+customerService.getCurrentCustomer().then(function(customer) {
             $scope.user_name = customer.data.firstName;
             $scope.reloadContributorData();
         });

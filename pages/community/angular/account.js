@@ -3,14 +3,14 @@ var storefrontApp = angular.module('storefrontApp');
 storefrontApp.controller('accountController', ['$scope', '$window', '$localStorage', '$location', 'communityService', 'customerService', 'accountApi', 'mainContext', function ($scope, $window, $localStorage, $location, communityService, customerService, accountApi, mainContext) {
     
     $scope.initialize = function () {
-        customerService.getCurrentCustomer().then(function (customer) {
+        customerService.getCurrentCustomer().then(function(customer) {
             $scope.temp = angular.copy(customer.data);
             $scope.user = customer.data;
             $scope.newAddresses = {};
             if (!_.isEmpty($scope.user.addresses))
                 if (!angular.isUndefined(_.first($scope.user.addresses).organization))
                     angular.extend($scope.newAddresses, { organization: _.first($scope.user.addresses).organization });
-        })
+        });
     }
 
     $scope.updateAccount = function (changedData, newAddresses) {
