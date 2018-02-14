@@ -70,7 +70,7 @@ tags :
                     </p>
                 </div>
             </li>         
-            <li class="list-item">
+            <li class="list-item" style="width: 33%;">
                 <figure class="list-pic" data-office="SA">
                     <img src="assets/images/about/stephen-shao.jpg" alt="Stephen Shao">
                 </figure>
