@@ -44,10 +44,10 @@ authorize: true
                                     <a href="/roadmap">Roadmap</a>
                                 </li>
                                 <li>
-                                    <a href="https://github.com/VirtoCommerce/vc-platform">Github repisitories structure</a>
+                                    <a href="https://github.com/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Github repisitories structure</a>
                                 </li>
                                 <li>
-                                    <a href="#">Stackoverflow channel</a>
+                                    <a href="https://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Stackoverflow channel</a>
                                 </li>
                             </ul>
                         </div>
@@ -60,10 +60,10 @@ authorize: true
                         </div>
                         <div class="list-t">Get lisence</div>
                         <div class="list-descr">
-                            Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                            Coming soon ...
                         </div>
                         <div class="list-actions">
-                            <a href="/vc-community/become-contributor" class="button fill disable">Start</a>
+                            <a href="/vc-community/become-contributor" class="button disable">Start</a>
                         </div>
                     </div>
                 </li>
@@ -74,10 +74,10 @@ authorize: true
                         </div>
                         <div class="list-t">Add app to marketplace</div>
                         <div class="list-descr">
-                            Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                            Coming soon ...
                         </div>
                         <div class="list-actions">
-                            <a href="/vc-community/become-contributor" class="button fill disable">Start</a>
+                            <a href="/vc-community/become-contributor" class="button disable">Start</a>
                         </div>
                     </div>
                 </li>
