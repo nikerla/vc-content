@@ -2745,7 +2745,15 @@ a
 }
 
 .product-info-best-articles .post-descr,
-.product-info-best-articles .post-link,
+.product-info-best-articles .post-link
 {
 	font-size: 16px;
+}
+
+
+ul.breadcrumbs {
+    list-style-type: none;
+}
+ul.breadcrumbs li {
+    display: inline;
 }

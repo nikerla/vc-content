@@ -9,7 +9,7 @@ authorize: true
     <div class="bg-banner">
         <div class="banner-inner __responsive">
             <div class="banner-t">Virto commerce community</div>
-            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" class="button fill">Become a contributor</a>
+            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" rel="nofollow" class="button fill">Become a contributor</a>
         </div>
     </div>
     <div ng-show="loaded" class="vc-content __responsive">
@@ -25,7 +25,7 @@ authorize: true
                             If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill.
                         </div>
                         <div class="list-actions">
-                            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" class="button fill">Start</a>
+                            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" rel="nofollow" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
