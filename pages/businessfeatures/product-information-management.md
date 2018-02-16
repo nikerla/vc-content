@@ -2,8 +2,8 @@
 title: Product information management software. PIM system solutions and tools
 description: Product information management software (PIM management) from Virto Commerce. What is product information management? Product information management tools, solutions and systems.
 date: 2014-01-30
-canonical: https://virtocommerce.com/product-information-management-software-pim
-permalink: product-information-management-software-pim
+canonical: https://virtocommerce.com/product-information-management-software
+permalink: product-information-management-software
 ogimage: https://virtocommerce.com/assets/images/vc_fb.jpg
 ogtitle: Best .NET Catalog management software - Free Community Edition
 ogsitename: Virtocommerce
