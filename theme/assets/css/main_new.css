@@ -2812,7 +2812,16 @@ ul.contact-list {
 
 ul.breadcrumbs {
     list-style-type: none;
+    padding-left: 30px;
 }
-ul.breadcrumbs li {
-    display: inline;
-}
+
+    ul.breadcrumbs > li {
+        display: inline;
+        font-size: 14px
+    }
+
+        ul.breadcrumbs > li + li::before {
+            padding: 0 5px;
+            color: #ccc;
+            content: "/\00a0";
+        }
