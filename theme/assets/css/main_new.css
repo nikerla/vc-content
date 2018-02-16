@@ -2750,6 +2750,61 @@ a
 	font-size: 16px;
 }
 
+.cu-dialog
+{
+	background: #fff;
+	bottom: 20px;
+	box-shadow: 0 0 5px rgba(0,0,0,.5);
+	position: fixed;
+	right: 20px;
+	width: 345px;
+	z-index: 500;
+}
+
+.cu-dialog .cu-head
+{
+	background: #666;
+	padding: 10px;
+	position: relative;
+}
+
+.cu-dialog .cu-t
+{
+	color: #fff;
+	font-size: 20px;
+}
+
+.cu-dialog .cu-close
+{
+	border-left: 1px solid rgba(255,255,255,.5);
+	cursor: pointer;
+	padding: 0 0 0 5px;
+	position: absolute;
+	right: 5px;
+	top: 50%;
+
+	-webkit-transform: translateY(-50%);
+			transform: translateY(-50%);
+}
+
+.cu-dialog .cu-body
+{
+	background: #fff;
+	min-height: 400px;
+	padding: 10px;
+}
+
+@media (max-width: 767px) {
+	.cu-dialog
+	{
+		bottom: 0;
+		height: 100%;
+		left: 0;
+		right: 0;
+		width: 100%;
+	}
+}
+
 
 ul.breadcrumbs {
     list-style-type: none;
