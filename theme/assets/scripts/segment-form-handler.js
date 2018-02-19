@@ -1,5 +1,5 @@
 // Grab a reference to our form
-var forms = $('form');
+var forms = $("form[name='contact_partner']");
 
 if(forms)
 {
@@ -7,12 +7,12 @@ if(forms)
     var form = $(element);
     
     // Setup a handler to run when the form is submitted
-    form.on('submit', function(e) {
+    form.on('submit', function (e) {
 
       // If some client-side validation kicked in and wants to prevent
       // the form from submitting, bail out now without calling track or identify
       if ( e.isDefaultPrevented() ) {
-        return
+          return;
       }
 
       // If we got here, it's okay to fire our events and submit the form      

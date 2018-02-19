@@ -10,7 +10,7 @@ permalink: contact-partner
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post">
+				<form method="post" name="contact_partner">
 					<input type="hidden" name="Contact[Subject]" value="Contact Partner" />
 					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-contact-partner' />
 					<input style="display: none" name="Contact[PartnerId]" value="" />

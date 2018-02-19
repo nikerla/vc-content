@@ -48,7 +48,7 @@ tags :
         </div>
         <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
             While originally the main purpose of Wordpress is to be a social blogging software, when paired with Woocommerce it becomes a major Episerver alternative in the field of ecommerce. It is particularly great for small business owners because it offers free hosting with limited features. 
-            <a href="https://wordpress.org/" rel="nofollow">Wordpress</a> Shopify</a> can become a great tool for your content management because it can work with lots and lots of plugins. However, to uncover the full potential of Wordpress you would need to purchase the plan that will cost around $25 a month. 
+            <a href="https://wordpress.org/" rel="nofollow">Wordpress</a> can become a great tool for your content management because it can work with lots and lots of plugins. However, to uncover the full potential of Wordpress you would need to purchase the plan that will cost around $25 a month. 
             </div>
         </div>
         <p class="text">

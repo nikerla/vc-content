@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html ng-class="{ 'loading': loading }" ng-controller="docsController" ng-app="storefrontApp">
 <head>
     <meta charset="utf-8" />
@@ -218,7 +218,7 @@
     {{ '//cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.0/moment.min.js' | script_tag }}
     {{ '//cdnjs.cloudflare.com/ajax/libs/angular-moment/0.7.0/angular-moment.min.js' | script_tag }}
     {{ 'app.js' | asset_url | script_tag }}
-    {{ 'docs.js' | asset_url | script_tag }}
+    {{ 'themes/assets/scripts/angular/docs.js' | script_tag }}
     {{ 'main.js' | asset_url | script_tag }}
     <script>
         window.abdoluteUrl = '{{ page.url | full_url }}';

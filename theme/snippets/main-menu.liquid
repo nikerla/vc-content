@@ -1,4 +1,4 @@
-﻿<nav class="head-menu">
+<nav class="head-menu">
     <ul class="menu __inline">
         {% for link in menu.links %}
             {% assign child_list_handle = link.title | handleize %}
@@ -19,8 +19,5 @@
                 {% endif %}
             </li>
         {% endfor %}
-        <li class="menu-item try">
-            <a class="button fill try" href="{{ '/try-now' | absolute_url }}">{{ 'general.try_now' | t }}</a>
-        </li>
     </ul>
 </nav>

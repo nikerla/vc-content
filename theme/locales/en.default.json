@@ -53,7 +53,11 @@
         "privacy": "Privacy",
         "shopping_cart": "ASP.NET Shopping Cart",
         "best_ecommerce_platform": "Best Ecommerce Platform",
-        "e_procurement_software": "E procurement software"
+        "e_procurement_software": "E procurement software",
+        "forms": {
+            "post_error": "Sorry, looks like something went wrong. Please correct the following and submit again:",
+            "post_field_error_html": "The <strong>{{ field }}</strong> {{ error }}"
+        }
     },
     "main_page": {
         "about": {
@@ -365,6 +369,40 @@
             "tutorials": "Tutorials",
             "setting-up-new-store": "Setting up new store",
             "localization": "Localization"
+        }
+    },
+    "common": {
+        "or": "OR"
+    },
+    "customer": {
+        "login": {
+            "user_name": "Email adress",
+            "password": "Password",
+            "forgot_password": "Forgot your password?",
+            "sign_in": "Sign In",
+            "error": {
+                "user_name": "test"
+
+            }
+        },
+        "register": {
+            "title": "Create Account",
+            "first_name": "First Name",
+            "last_name": "Last Name",
+            "email": "Email",
+            "user_name": "User Name",
+            "password": "Password",
+            "password_confirm": "Confirm password",
+            "submit": "Create",
+            "cancel": "Cancel"
+        },
+        "recover_password": {
+            "title": "Reset your password",
+            "email": "Email",
+            "submit": "Submit",
+            "cancel": "Cancel",
+            "subtext": "We will send you an email to reset your password.",
+            "reset_password_success": "We've sent you an email with a link to update your password."
         }
     }
 }

@@ -3,12 +3,13 @@ title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. A
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. About Us
 date: 2014-01-30
 permalink: vc-community
+authorize: true
 ---
-<div ng-app="storefrontApp" ng-controller="communityController" class="vc-comunity">
+<div ng-app="storefrontApp" ng-controller="communityController" ng-cloak class="vc-comunity">
     <div class="bg-banner">
         <div class="banner-inner __responsive">
             <div class="banner-t">Virto commerce community</div>
-            <a href="/try-now" class="button fill">Request demo & Trial</a>
+            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" rel="nofollow" class="button fill">Become a contributor</a>
         </div>
     </div>
     <div ng-show="loaded" class="vc-content __responsive">
@@ -24,35 +25,7 @@ permalink: vc-community
                             If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill.
                         </div>
                         <div class="list-actions">
-                            <a href="/vc-community/become-contributor" class="button fill">Start</a>
-                        </div>
-                    </div>
-                </li>
-                <li class="list-item">
-                    <div class="list-inner">
-                        <div class="list-img">
-                            <img src="licence-ico.png" alt="" class="list-ico">
-                        </div>
-                        <div class="list-t">Get lisence</div>
-                        <div class="list-descr">
-                            Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                        </div>
-                        <div class="list-actions">
-                            <a href="/vc-community/become-contributor" class="button fill disable">Start</a>
-                        </div>
-                    </div>
-                </li>
-                <li class="list-item">
-                    <div class="list-inner">
-                        <div class="list-img">
-                            <img src="become-2-ico.png" alt="" class="list-ico">
-                        </div>
-                        <div class="list-t">Become a contributor</div>
-                        <div class="list-descr">
-                            Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                        </div>
-                        <div class="list-actions">
-                            <a href="/vc-community/become-contributor" class="button fill disable">Start</a>
+                            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" rel="nofollow" class="button fill">Start</a>
                         </div>
                     </div>
                 </li>
@@ -71,12 +44,26 @@ permalink: vc-community
                                     <a href="/roadmap">Roadmap</a>
                                 </li>
                                 <li>
-                                    <a href="https://github.com/VirtoCommerce/vc-platform">Github repisitories structure</a>
+                                    <a href="https://github.com/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Github repisitories structure</a>
                                 </li>
                                 <li>
-                                    <a href="#">Stackoverflow channel</a>
+                                    <a href="https://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Stackoverflow channel</a>
                                 </li>
                             </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="list-item">
+                    <div class="list-inner">
+                        <div class="list-img">
+                            <img src="licence-ico.png" alt="" class="list-ico">
+                        </div>
+                        <div class="list-t">Get lisence</div>
+                        <div class="list-descr">
+                            Coming soon ...
+                        </div>
+                        <div class="list-actions">
+                            <a href="/vc-community/become-contributor" class="button disable">Start</a>
                         </div>
                     </div>
                 </li>
@@ -87,10 +74,10 @@ permalink: vc-community
                         </div>
                         <div class="list-t">Add app to marketplace</div>
                         <div class="list-descr">
-                            Lorem Ipsum has been the industry's standard dummy text, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                            Coming soon ...
                         </div>
                         <div class="list-actions">
-                            <a href="/vc-community/become-contributor" class="button fill disable">Start</a>
+                            <a href="/vc-community/become-contributor" class="button disable">Start</a>
                         </div>
                     </div>
                 </li>
@@ -98,16 +85,19 @@ permalink: vc-community
         </div>
         <div class="vc-sidebar">
             <div class="aside" data-name="profile">
-                <div class="aside-t">Profile <span ng-bind="('(completed') + ' ' + (percentage) + ('%)')"></span></div>
+                <!--<div class="aside-t">Profile <span ng-bind="('(completed') + ' ' + (percentage) + ('%)')"></span></div>-->
                 <div class="aside-other" >
-                    <span style="font-size: 12pt;font-weight: 700;" ng-bind="user.fullName"></span>
+                    <span ng-show="github">
+                        <img  ng-src="{% raw %}{{ githubUser.avatar_url }}{% endraw %}" width="80" height="" style="border-radius: 50%;" />
+                    </span>
+                    <span style="font-size: 12pt;font-weight: 700;" ng-bind="user.firstName"></span>
                     <span ng-if="user.organization" ng-bind="'(' + user.organization + ')'"></span>
                 </div>
-                <p><a href="account/profile">Add info</a></p>
-                <p ng-bind="'(Point - ' + points + ')'"></p>
+                <p><a href="account/profile">Edit</a></p>
+                <!--<p ng-bind="'(Point - ' + points + ')'"></p>-->
                 <p><a href="/account/logout">Sign out</a></p>
             </div>
-            <div class="aside">
+            <!--<div class="aside">
                 <div class="aside-t"><img src="so-ico.png" alt=""> Stackoverflow</div>
                 <a ng-hide="stackExchange" href="account/externallogin?authType=StackExchange">Link account</a>
                 <div ng-show="stackExchange">
@@ -116,14 +106,13 @@ permalink: vc-community
                     <p>Answer – <span ng-bind="stackExchange.answers"></span></p>
                     <p>Questions – <span ng-bind="stackExchange.questions"></span></p>
                 </div>
-            </div>
+            </div>-->
             <div class="aside">
                 <div class="aside-t"><img src="gh-ico.png" alt=""> Github</div>
-                <a ng-hide="github" href="account/externallogin?authType=GitHub">Link account</a>
+                <a ng-hide="github" href="account/externallogin?authType=GitHub&returnUrl=/vc-community">Link account</a>
                 <div ng-show="github">
-                    <p>Name – <span ng-bind="github.userName"></span></p>
                     <p>Virto commerce rating – <span ng-bind="rating"></span></p>
-                    <p>Pool request – <span ng-bind="github.poolRequest"></span></p>
+                    <p>Pull request – <span ng-bind="github.poolRequest"></span></p>
                 </div>
             </div>
         </div>

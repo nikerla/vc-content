@@ -4785,7 +4785,7 @@ textarea:disabled
     .partner form
     {
         padding: 0px 0 0px 20px;
-        word-spacing: -6px;
+        word-spacing: 0px;
     }
 
 form.fixed
@@ -7478,4 +7478,10 @@ ol.text, ul.text {
         background-image: url(business-featuresx2.png);
         background-size: 378px 42px;
     }
+}
+
+/* Errors list*/
+ul.disc {
+    list-style-type: none;
+    color: red;
 }

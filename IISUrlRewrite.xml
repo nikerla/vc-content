@@ -152,6 +152,9 @@
             <add key="/glossary/what-is-pim" value="product-information-management" />
             <add key="/product-information-management" value="product-information-management-software" />
             <add key="/b2b-ecommerce" value="b2b-ecommerce-platform" />
+            <add key="/customers/account" value="vc-community" />
+            <add key="/account" value="vc-community" />
+            <add key="/product-information-management-software" value="product-information-management-software-pim" />
         </rewriteMap>
     </rewriteMaps>
     <rules>
@@ -191,7 +194,7 @@
             <conditions>
                 <add input="{VC-redirects:{REQUEST_URI}}" pattern="(.+)" />
             </conditions>
-            <action type="Redirect" url="https://virtocommerce.com/{C:1}" redirectType="Permanent" />
+            <action type="Redirect" url="{C:1}" redirectType="Permanent" />
         </rule>
         <rule name="Remove trailing slash from the URL" stopProcessing="true">
             <match url="(.*)/$" />
@@ -202,5 +205,9 @@
             </conditions>
             <action type="Redirect" redirectType="Permanent" url="{R:1}" />
         </rule>
+        <!--<rule name="Redirect to vc community" stopProcessing="true">
+            <match url="(.*)(\/account)$" />
+            <action type="Redirect" url="vc-community" />
+        </rule>-->
     </rules>
 </rewrite>
