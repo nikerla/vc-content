@@ -124,6 +124,12 @@
         </div>
     </div>
     <script type="text/javascript">
+
+        function openContactUs(event) {
+            event.preventDefault();
+            $('.cu-dialog').toggle();
+        }
+
         var ShareIt = {
             facebook: function (url) {
                 window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url), '_blank');
