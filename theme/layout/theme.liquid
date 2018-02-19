@@ -143,13 +143,10 @@
     {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
     <script>
         $(function () {
-            $('a.button.fill.try').on('click', function (event) {
-                event.preventDefault();
-                $('.cu-dialog').toggle();
-            });
-            $('svg.cu-close').on('click', function (event) {
-                $('.cu-dialog').toggle();
-            });
+            //$('a.button.fill.try').on('click', openContactUs);
+            //$('svg.cu-close').on('click', function (event) {
+            //    $('.cu-dialog').toggle();
+            //});
 
             var items = $('.menu.__business-features li a');
             for (var i = 0; i < items.length; i++) {
@@ -158,7 +155,13 @@
                     $(items[i]).parent().addClass('__selected');
                 }
             }
+
+            //function openContactUs(event) {
+            //    event.preventDefault();
+            //    $('.cu-dialog').toggle();
+            //}
         });
+
     </script>
     {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
     {{ '//ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js' | script_tag }}
