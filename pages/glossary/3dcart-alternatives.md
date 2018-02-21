@@ -1,6 +1,6 @@
---- 
+---
 title: 3dCart alternatives and competitors
-description: 3dCart is a hosted ecommerce platform that offers a wide variety of features, ranging from content management to store marketing and well beyond, but there are some downsides which might be an issue for your business, so have a look at some of the most prominent 3dcart alternatives and competitors. 
+description: 3dCart is a hosted ecommerce platform that offers a wide variety of features, ranging from content management to store marketing and well beyond, but there are some downsides which might be an issue for your business, so have a look at some of the most prominent 3dcart alternatives and competitors.
 date: 2017-09-06
 canonical: https://virtocommerce.com/glossary/3dcart-alternatives
 permalink: glossary/3dcart-alternatives
@@ -13,31 +13,27 @@ twitterdescription: Virto Commerce is a powerful ecommerce platform that include
 twitterimage: ../../assets/images/3dcart-alternatives.jpg
 twittersite: Virtocommerce
 layout: glossary
-tags : 
+tags :
 - ecommerce
 - ecommerce platform
 - SAAS Platform
-- virtocommerce 
+- virtocommerce
 ---
+
 <div class="business-cnt" itemscope itemtype="http://schema.org/Article">
     <div class="head __cart">
         <h1 class="title" itemprop="headline">3dCart alternatives and competitors</h1>
     </div>
+
     <meta itemprop="datePublished" content="2017-09-06" />
     <meta itemprop="dateModified" content="2018-02-21" />
     <meta itemprop="author" content="Virtocommerce" />
 
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-        <meta itemprop="name" content="virtocommerce.com">
-        <meta itemprop="address" content="20945 Devonshire St Suite 102 Los Angeles, California 91311" />
-        <meta itemprop="telephone" content="+18009805288" />
-    </div>
-
     <div itemprop="articleBody">
         <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
             <img itemprop="url contentUrl" alt="3dCart alternatives" src="assets/images/3dcart-alternatives.jpg" />
-            <meta itemprop="width" content="412">
-            <meta itemprop="height" content="336">
+            <meta itemprop="width" content="412" />
+            <meta itemprop="height" content="336" />
         </span>
         <p class="text">
             3dCart is a hosted ecommerce platform that offers a wide variety of features, ranging from content management to store marketing and well beyond. It is an all-in-one store builder that is currently used by more than 16,000 stores.
@@ -112,9 +108,14 @@ tags :
         </p>
     </div>
     <div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
-        <meta itemprop="bestRating" content="5">
-        <meta itemprop="ratingValue" content="4.9">
-        <meta itemprop="ratingCount" content="450">
+        <meta itemprop="bestRating" content="5" />
+        <meta itemprop="ratingValue" content="4.9" />
+        <meta itemprop="ratingCount" content="450" />
+    </div>
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+        <meta itemprop="name" content="virtocommerce.com" />
+        <meta itemprop="address" content="20945 Devonshire St Suite 102 Los Angeles, California 91311" />
+        <meta itemprop="telephone" content="+18009805288" />
     </div>
     <div class="buttons">
         <a class="button fill" href="/try-now">Try It Now</a>
