@@ -124,6 +124,10 @@
         </div>
     </div>
     <script type="text/javascript">
+        function openContactUs(e) {
+            e.preventDefault();
+            $('.cu-dialog').toggle();
+        }
         var ShareIt = {
             facebook: function (url) {
                 window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(url), '_blank');
@@ -143,10 +147,9 @@
     {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
     <script>
         $(function () {
-            //$('a.button.fill.try').on('click', openContactUs);
-            //$('svg.cu-close').on('click', function (event) {
-            //    $('.cu-dialog').toggle();
-            //});
+            $('svg.cu-close').on('click', function (event) {
+                $('.cu-dialog').toggle();
+            });
 
             var items = $('.menu.__business-features li a');
             for (var i = 0; i < items.length; i++) {
@@ -155,11 +158,6 @@
                     $(items[i]).parent().addClass('__selected');
                 }
             }
-
-            //function openContactUs(event) {
-            //    event.preventDefault();
-            //    $('.cu-dialog').toggle();
-            //}
         });
 
     </script>
