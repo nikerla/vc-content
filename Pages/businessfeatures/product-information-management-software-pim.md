@@ -26,8 +26,8 @@ tags :
     <div itemprop="articleBody" class="business-features clearfix __responsive">
         {% include 'features-left-menu' %}
         <div class="business-cnt">
-            <div itemprop="mainEntityOfPage" class="head __cnt">
-                <h1 itemprop="headline" class="title">Product information management software (PIM management system). Product information management tools and solutions. </h1>
+            <div class="head __cnt">
+                <h1 class="title">Product information management software (PIM management system). Product information management tools and solutions. </h1>
             </div>
             <div class="col-w">
                 <div class="col __col-50">
@@ -37,13 +37,15 @@ tags :
                         <meta itemprop="height" content="233">
                     </span>
                 </div>
-                <div class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
+                <div itemprop="mainEntityOfPage" class="col __col-50 text" style="margin-top: 0; padding-left: 20px;">
                     <h2>What is product information management? Product information management software meaning.</h2>
-                    <p class="text"><strong>Product Information Management Software (PIM)</strong> is a solution that is used to market and sell various types of products via distribution channels. Product information management tools coordinate changing product information across all channels of communication, thus ensuring that a business’s entire ecosystem has consistent and up-to-date information. Wikipedia offers the following definition: “Product information management or PIM refers to processes and technologies focused on centrally managing information about products, with a focus on the data required to market and sell the products through one or more distribution channels”. </p>
+                    <p class="text"><strong itemprop="headline">Product Information Management Software (PIM)</strong> is a solution that is used to market and sell various types of products via distribution channels. Product information management tools coordinate changing product information across all channels of communication, thus ensuring that a business’s entire ecosystem has consistent and up-to-date information. Wikipedia offers the following definition: “Product information management or PIM refers to processes and technologies focused on centrally managing information about products, with a focus on the data required to market and sell the products through one or more distribution channels”. </p>
                 </div>
             </div>
             <p class="text">Without a centralized location for storing data, companies rely on tedious and time-consuming spreadsheet-based manual data management as their product information management solutions, which makes it virtually impossible to satisfy the increasing demands of ecommerce markets. </p>
             <p class="text">Product information management systems offer the concept of entering and storing the product information once in a single place. This place is the source from which that information is then distributed without needing to be re-entered manually into a number of different systems. There is no need to spread all across your data, as you can easily manage, consolidate and improve media websites, ERP systems, print catalogs, and data feeds by implementing useful product information management tools. Therefore, if your goal is to find a product information management system that is centralized, offers independent data maintenance and collection product information, management capabilities are the right fit for you!</p>
+            {% include 'micro-mark-publisher' %}
+            {% include 'micro-mark-rating', bestRating: 5, ratingValue: 4, ratingCount: 485 %}
             <div class="buttons">
                 <a class="button fill" href="/try-now">Try It Now</a>
                 <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
