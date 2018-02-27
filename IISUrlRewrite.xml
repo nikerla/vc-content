@@ -155,6 +155,7 @@
             <add key="/customers/account" value="vc-community" />
             <add key="/account" value="vc-community" />
             <add key="/product-information-management-software" value="product-information-management-software-pim" />
+            <add key="/order-management-software" value="order-management-software-oms" />
         </rewriteMap>
     </rewriteMaps>
     <rules>
