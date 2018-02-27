@@ -70,6 +70,158 @@ tags :
     <p class="text">•	360 degrees product overview will satisfy the customers’ demands for the full view of the entire products.</p>
     <p class="text">•	Cloud: Product data that can be stored in the cloud prevents you from unexpected data loss and increases the number of available data to the customer at a given moment.</p>
     <p class="text">In the end, while looking for your perfect product information management system, always consider your end goals and ways meeting them. This article helps you to discover the qualities that each PIM should possess. If you are striving for a successful ecommerce website, you must consider enriching your data with modern PIM (product information management) software.</p>
+    <h2>Product information management solutions</h2>
+    <div class="section-title">Webcollage</div>
+        <div class="col-w">
+            <div class="col __col-30">
+                <img alt="Product information management - Webcollage " src="assets/images/webcollage-screen.jpg" />
+            </div>
+            <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                Webcollage is a product information management system that is cloud-based and allows manufacturers to publish product information on the retailers' websites around the world. With this product information management (PIM) solution you can be sure that all of your listings will have same quality images, videos, charts, product descriptions and more across all of the websites. In addition, all the product information will deliver consistent customer experience whether the store is browsed from a phone, tablet or laptop. 
+            </div>
+        </div>
+        <p class="text">
+            What is unique about this product information management system is that it lets you have control over product stories across different retail platforms. No need to keep up with different upload processes – you can control the information in an organized fashion, chaos-free. The amount of time you will save is tremendous, and once you start using the software, you will realize how it helps in providing your product with integrity and consistency.  
+        </p>
+    <div class="section-title">Salsify</div>
+        <div class="col-w">
+            <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+                The product information management software that offers 2 in 1 solution to empower brand manufacturers to deliver the product experiences that consumers demand across multiple web stores. This product experience management platform has the power of PIM management and digital asset management, which increases your company’s capabilities in managing crucial product data and in receiving insights and ultimately providing the greatest product experience. With Salsify, not only you get the cutting-edge features of a strong PIM platform, but also a flexible solution that is designed to seamlessly adapt inside any web store.
+            </div>
+            <div class="col __col-30">
+                <img alt="Product information management - Salsify " src="assets/images/salsify-screen.jpg" />
+            </div>
+        </div>
+        <p class="text">
+            Salsify is prominent for incorporating PIM and DAM into one platform, alongside with robust features and capabilities for syndication. Salsify is also able to assess whether the content that you created for the web store is acceptable and how it can be improved upon the set requirements. 
+   </p>
+   <p class="text">
+    For the sales channels operated by the platform, there is a wide range of APIs and imports with exports that can be scheduled. The product information management software is specifically tailored to transmit data from and to any source and any system imaginable. While the data is being transmitted, the location of the content is completely visible to you and the platform maintains its safety. In addition, there is an option for the customers to create custom product catalogs, which can be used when downloading specific information about a product. 
+    </p>
+    <p class="text">
+    With Salsify, you do not have to worry about functionality updates and improvements. Being a Software as a Service (SaaS) platform, it enables machine learning algorithms to deliver the best experience to you. You will also be stunned by the scalability and the security features of the system that can meet the demand of global corporations like Coca Cola, Bosch, GSK, etc. Its elastic structure gives you peace of mind whether you have 100 or 100 million products to manage. 
+    </p>
+    <div class="section-title">eJeeva </div>
+        <div class="col-w">
+            <div class="col __col-30">
+                <img alt="Product information management - eJeeva  " src="assets/images/ejeeva-screen.jpg" />
+            </div>
+            <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                eJeeva is a web-based PIM (product information management) that also offers catalog publishing software. With eJeeva as your PIM tool, it has never been easier to manage products online, including the product hierarchies, suppliers’ attributes, product descriptions and media management, and publishing across multiple channels. 
+            </div>
+        </div>
+        <p class="text">
+            What is the benefit of using eJeeva compared to other product information management tools? The short answer is that it is a web-based system that allows you to manage product data from an integrated web database. With that, many other attributes can be easily accessed:
+        </p>
+    <p class="text">●	Aggregate product data;</p>
+    <p class="text">●	Synchronization of data;</p>
+    <p class="text">●	Multichanneling publishing;</p>
+    <p class="text">●	Unlimited attributes and extensive list of taxonomies; </p>
+    <p class="text">●	Foundation for your data management framework;</p>
+    <p class="text">Overall, eJeeva presents a solid product information management solution for your business and its extensive web-based features will certainly not disappoint you.
+    </p>
+        <div class="section-title">Qliktag</div>
+        <div class="col-w">
+            <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+                Qliktag was built as a collaborative platform on the GS1 Source data model, which had been created for PIM management and syndication. With this product information management software brands, retailers, manufacturers, and suppliers are now able to aggregate, manage, improve, and share the trusted product information with multiple parties within the channel of retail environment. Multiple big companies can attest to Qliktag speed of processing as well as to its sophisticated customer experience engine and mobile SDK. 
+            </div>
+            <div class="col __col-30">
+                <img alt="Product information management - Qliktag " src="assets/images/qliktag-screen.jpg" />
+            </div>
+        </div>
+        <p class="text">
+            Some of the other notable features of the platform include:
+            </p>
+            <p class="text">●	Extendable attributes for product catalogs, tailored toward Healthcare & Beauty, Food & Beverage categories;</p>
+            <p class="text">●	Out of the box GDSN connectivity with the ability to work with or without and already existing PIM/MDM deployment. </p>
+            <p class="text">●	Precise access control with the unique API, that can give or deny permissions at multiple levels. </p>
+            <p class="text">●	Syndication of data with the internal parties that do not have PIM deployment.</p>
+            <p class="text">●	Rich data channels for formatting to suit the requirements of any data recipient that is hooked to the system. </p>
+            <p class="text">●	Customer experience engine that delivers analytics right to you. </p>
+    <div class="section-title">Profisee</div>
+        <div class="col-w">
+            <div class="col __col-30">
+                <img alt="Product information management - Profisee " src="assets/images/profisee-screen.jpg" />
+            </div>
+            <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                One of the most consistent product information management solutions out there. No matter, if you are a system administrator or a data steward, this platform provides a consistent user experience to you. With Profisee you will be also able to create batch integrations, and move data in an out of the web stores in big numbers. Even though there will be huge transmissions of data, you can rest assured that all data will be secured.
+            </div>
+        </div>
+        <p class="text">
+            Profisee a product information management solutions that is secure, flexible as well as powerful, which makes it easy to promote it across higher environments and automate it on a manual basis. 
+        </p>
+    <div class="section-title">CatalogStudio</div>
+        <div class="col-w">
+            <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+                CatalogStudio is a browser-based product information management software. It offers multichannel catalog publishing, ecommerce integration, vendor portals and product marketing. Questudio the developer of this software is a large provider of solutions for vendors, manufacturers, distributors, and catalogers, which makes it easy to manage product content in the most efficient way and deliver robust product content to the customers across the world while integrating into multiple selling channels simultaneously.
+            </div>
+            <div class="col __col-30">
+                <img alt="Product information management - CatalogStudio " src="assets/images/catalogstudio-screen.jpg" />
+            </div>
+        </div>
+        <p class="text">
+            With this PIM, it has never been easier to organize media and PDFs, and to aggregate content successfully. CatalogStudio allows catalog content normalization, as well as serves as an overall well-rounded solution for all industries. 
+            </p>
+    <div class="section-title">InRiver</div>
+        <div class="col-w">
+            <div class="col __col-30">
+                <img alt="Product information management - InRiver " src="assets/images/inriver-screen.jpg" />
+            </div>
+            <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                InRiver is there when you need to transfer any type of product information to virtually any channel that you may have, which can include ecommerce stores, catalogs, mobile devices, in-store point of sale systems and much more. With the product information management system, you can even transfer online-only information, like customer testimonials, comments and reviews in order to use them in other spheres of retail business.
+            </div>
+        </div>
+        <p class="text">
+            Some of the most stunning features have been implemented into the inRiver platform: 
+        </p>
+    <p class="text">●	Suitable for both B2B and B2C retailers;</p>
+    <p class="text">●	Ideal for any business that has to manage large amounts of online product data across multiple sales channels with lots of consumer participation;</p>
+    <p class="text">●	Robust amount of extensions for stores that were built on Magento; </p>
+    <p class="text">●	In-platform tools that increase your flexibility when it comes to product information management; </p>
+    <p class="text">●	Tools to enhance the quality of information and to rid of errors; </p>
+    <p class="text">●	Improved search capabilities;</p>
+    <p class="text">●	Planner app to help you create a publishing strategy for your content, launch it across the web stores, and create future campaigns and promotions.</p>
+    <p class="text">●	Seamless management of data across all of the channels. </p>
+    <div class="section-title">Oracle Product Information Management</div>
+        <div class="col-w">
+            <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+                Oracle’s product information management solutions can help you create a central repository for any of your business’ product data: supplier information, as well as individual channel information. Oracle presents a great solution for enterprises and is one of the most widely used platforms across the web. This PIM software is tailored mainly for B2C work - sharing product info between the members of the company, as well as business partners and suppliers. Some of the most crucial features include the ability to comply with any industry regulations before selling and to secure the information about your product and share it with others in your company. 
+            </div>
+            <div class="col __col-30">
+                <img alt="Product information management - Oracle Product Information Management " src="assets/images/oracle-product-information-management-screen.jpg" />
+            </div>
+        </div>
+        <p class="text">
+            The platform can be easily scaled, which is why many big enterprises started to move to it. It is a well-rounded solution that gives you a great view of the product data and room for digital transformation within the company. 
+            </p>
+            <p class="text">
+    Oracle can give you a better inventory accuracy and product output, by connecting information from manufacturers, suppliers, retailers, service providers and customers. This platform will help reduce production costs, enhance the security of your information and make your system run faster.  With Oracle PIM you will be able to create and handle the intricacies of product information and apply specialized techniques to your data. 
+    </p>
+    <div class="section-title">Hybris Software</div>
+        <div class="col-w">
+            <div class="col __col-30">
+                <img alt="Product information management - Hybris Software " src="assets/images/hybris-software-screen.jpg" />
+            </div>
+            <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                If you want to get a comprehensive overview of all your products and customer data, there is no better product information management solution than Hybris. It helps you centralize all data in one view and allow for better analysis. You will be able to access information in real time using internal and external data sources, offline and online channels and extensive sorting feature list. The feature list includes the ability to work with user-generated content across various devices. It also allows for unique chanelling product placements on different websites and has the extensive list of built-in search engine optimization tools. 
+            </div>
+        </div>
+        <p class="text">
+            If you’re looking to sell on the worldwide markets, the platform is there to offer seamless conversion between currencies with the inclusion of all of the intricacies of various markets. 
+        </p>
+    <div class="section-title">Agility</div>
+        <div class="col-w">
+            <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+                Agility is a PIM management solution that can be tailored specifically to any organizational need or individual role. Agility multi-channeling can provide you with dynamic workflows, streamline the process of managing product information, enrich the content and rid it of errors. 
+Built-in tools for integration make the platform easy to scale as well as gather info about the products. Agility works well for B2C and B2B vendors who have a need to customize and improve the data. 
+            </div>
+            <div class="col __col-30">
+                <img alt="Product information management - Agility " src="assets/images/agility-screen.jpg" />
+            </div>
+        </div>
+        <p class="text">
+            If you want visibility for your performance and financial data, you would benefit from using Agility. Some of the most prominent features include easy integration with existing ecommerce systems, automation of every step of the process, real-time financial analytics and performance reports, content auditing and content history. 
+            </p>
     <div class="buttons">
 			<a class="button fill" href="/try-now">Try It Now</a>
             <a class="button fill" href="/contact-us">Request Information & Personal Demo</a>
