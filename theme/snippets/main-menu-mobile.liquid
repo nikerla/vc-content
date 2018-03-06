@@ -1,4 +1,4 @@
-﻿{% assign url_parts = page.url | split: '/' %}
+{% assign url_parts = page.url | split: '/' %}
 {% if url_parts contains 'docs' or search.search_in == '/docs' %}
     <form class="search" action="{{ '/content/search' | absolute_url }}" method="post">
         <input name="SearchIn" id="SearchIn" type="hidden" value="/docs">
@@ -12,18 +12,22 @@
     <ul class="menu">
         {% for link in menu.links %}
             {% assign child_list_handle = link.title | handleize %}
-            <li class="menu-item" data-id="swipeli">
+        <li class="menu-item" data-id="swipeli">
                 <a href="{{ link.url }}" data-swipe="opened">{{ link.title | escape }}</a>
-                {% if linklists[child_list_handle].links.size > 0 %}
-                    <ul class="menu sub-menu">
-                        {% for child_link in linklists[child_list_handle].links %}
-                            <li class="menu-item">
-                                <a href="{{ child_link.url }}">{{ child_link.title | escape }}</a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-            </li>
+            {% if linklists[child_list_handle].links.size > 0 %}
+            <ul class="menu sub-menu">
+                {% for child_link in linklists[child_list_handle].links %}
+                <li class="menu-item">
+                    {% if child_link.url contains '/#' %}
+                        <span>{{ child_link.title  }}</span>
+                    {% else %}
+                        <a href="{{ child_link.url }}">{{ child_link.title | escape }}</a>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </li>
         {% endfor %}
     </ul>
 {% endif %}
