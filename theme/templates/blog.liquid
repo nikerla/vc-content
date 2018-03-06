@@ -33,11 +33,6 @@
 
     {% include 'blog-trending-list' %}
 </div>
-
-    {{ 'app.js' | asset_url | script_tag }}
-    {{ 'services.js' | asset_url | script_tag }}
-    {{ 'main-layout.min.js' | asset_url | script_tag }}
-    {{ 'segment-form-handler.js' | asset_url | script_tag }}
 <script>
     window.blogName = '{{ blog.handle }}';
     window.currentBlogCategory = '{{ blog_search.category }}';
