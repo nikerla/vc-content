@@ -1,5 +1,5 @@
 --- 
-title: Shopify alternatives. 5 best Shopify competitors.
+title: Shopify alternatives. 10 best Shopify competitors.
 description: Any ecommerce platform has the great support base, which offers you a wide variety of tools to alter your store. One of the best shopping cart platforms for an e-commerce website is Shopify, but there are some great alternatives and competitors that you should check out.  
 date: 2017-08-07 
 canonical: https://virtocommerce.com/glossary/shopify-alternatives
@@ -25,7 +25,7 @@ tags :
     <meta itemprop="dateModified" content="2018-02-22">
     <div itemprop="articleBody" class="business-cnt">
         <div itemprop="mainEntityOfPage" class="head __cart">
-            <h1 itemprop="headline" class="title">Shopify alternatives. 5 best Shopify competitors. The best alternatives to Shopify in 2017-2018.</h1>
+            <h1 itemprop="headline" class="title">Shopify alternatives. 10 best Shopify competitors. The best alternatives to Shopify in 2017-2018.</h1>
         </div>
         <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
             <img itemprop="url contentUrl"  alt="Shopify Alternatives and Competitors" src="assets/images/shopify-alternatives.jpg" />
@@ -93,6 +93,80 @@ tags :
         </div>
     </div>
     <p class="text">Also, despite the platform not charging any transaction fees, be ready for PayPal to charge you higher payments. The other disappointing fact is that Big Cartel does not offer chat or phone support, which is a crucial feature in building selling websites. In the end, if you are unsure whether you should use Big Cartel or not, you should definitely try it as the 5 product plan comes absolutely free of charge.</p>
+        <div class="section-title">Magento</div>
+            <div class="col-w">
+                <div class="col __col-30">
+                    <img alt="Shopify Alternatives - Magento" src="assets/images/magento-1.jpg" />
+                </div>
+                <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                    Open source, free of charge shopping cart solution that is among other Shopify competitors serves as a perfect platform for mid-sized to large businesses. It is not a great idea for a small business who just entered the world of ecommerce to start their webstore using Magento. <a href="https://magento.com/" rel="nofollow">Magento</a> is a premier league and its solution is suitable for large corporations with sufficient funds to sponsor knowledgeable programmers, and the time to adjust the platform to your needs. If you have such vast resources, this can serve as one of the most flexible of other shopify alternatives and be optimized to handle thousands of products, vast amounts of traffic and large counts of sales. 
+    </div>
+    </div>
+    <p class="text">Magento is a downloadable solution, which means that you will later have to have it hosted on some other platform. Due to the fact that it is open source, Magento is very powerful, scalable and rich in features. Some of the most prominent ones include: </p>
+    <p class="text">●	Rich SEO features;</p>
+    <p class="text">●	Inventory management;</p>
+    <p class="text">●	Shipping charges handling;</p>
+    <p class="text">●	Coupon, gift, promotions management;</p>
+    <p class="text">●	Robust payment gateway options;</p>
+    <p class="text">●	API for web services; </p>
+    <p class="text">●	Thousands of extensions available; </p>
+    <p class="text">●	Built-in multilingual support;</p>
+    <p class="text">●	Responsive design features; </p>
+    <p class="text">●	Marketing tools;</p>
+    <p class="text">●	Site management;</p>
+    <p class="text">●	Order processing;</p>
+    <p class="text">The following features exist, yet hard to program, which makes it almost unusable by novices in ecommerce. A perfect user would be an already established business that wants to have a complete control over the online store and has the funds to sponsor own hosting and IT professionals to do all of the web design and security work. The pricing is another tricky part of this platform. You can get the community version of Magento for free. However, you will have to program your store by yourself. If you purchase the Enterprise Edition, the developers from Magento will come to your aid, for $15,000 - $50,000 a year. </p>
+    <p class="text">In the end, even though Magento attracts a very narrow range of customers, you might want to have it for your storefront because of these great features: absence of monthly service charges (be prepared to pay for your own hosting), better multi-lingual support when compared to Shopify, a greater variety of application, add-ons and plugins that will ensure you have the greatest customization possible along with the full control over all of the processes involved with your website.</p>
+    <h2 class="section-title">Woocommerce + Wordpress</h2>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+            If you love using <a href="https://woocommerce.com/" rel="nofollow">Wordpress</a>, you might want to consider Woocommerce among other Shopify alternatives. It is an open source WordPress shopping cart plugin that can be installed for free and used along with any WordPress account. Woocommerce can easily turn your website into a feature-packed web shop.  With this plugin, you do not have to worry about being charged with any credit card transaction fees. Taking into an account that both solutions are free, the store can be hosted anywhere after you install WordPress. Take into a consideration that you will have to purchase a separate hosting subscription and this may take some money from your pocket. Having a website hosted on the other platform may involve you knowing some technical skills.
+        </div>
+        <div class="col __col-30">
+            <img alt="Shopify Alternative - Woocommerce + Wordpress" src="assets/images/woocommerce-screen-1.jpg" />
+        </div>
+    </div>
+    <p class="text">Moreover, you can expand WooCommerce’s functionality by downloading more extensions and add-ons. The only thing you have to keep in mind as far as pricing, you will sometimes have to pay for those add ons as well as for your WordPress hosting. Other than that, WooCommerce is valued among its users for seamless WordPress integration, absence of monthly service charge, ability to create a responsive, mobile friendly website, and for it having a developer- friendly environment that increases the productivity. </p>
+    <p class="text">Once you have set up your basic store with the plugin, it would be beneficial to purchase some advanced feature packages to it. There are two prominent packages that you might want to consider. The first is Product Bundles, which can be used to increase the sales of your store. The feature comes at a price of $49 and gives you the option to bundle multiple products of yours for sale and enhance the sales on your website. The second add-on is WooCommerce Freshdesk which costs $79 and enables you to provide customer support for the visitors of your store by being able to receive and handle support tickets. Woocommerce plugins come in all shapes and sizes for you to increase the productivity of you web shop.</p>
+    <p class="text">Therefore, if you have a business which is already running on a WordPress platform, you can quickly integrate this plugin into an existing website. Enjoy the freedom and flexibility even more by not disclosing any of your data with third-party software platforms and by doing only a single payment for any add-ons you will possibly install (compare to Shopify’s monthly subscription feature).</p>
+    <div class="section-title">3dcart</div>
+            <div class="col-w">
+                <div class="col __col-30">
+                    <img alt="Shopify Alternatives - 3dcart" src="assets/images/3dcart.jpg" />
+                </div>
+                <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                   A cloud-hosted cart solution that is prominent among other Shopify competitors for its robust features that are offered at a small price. It is most suited for small business owners whose goal is not to post too many products and have large amounts of traffic on the website. The packages vary in amount of bandwidth provided per month, so if you are a big company looking to open an online outlet, pass this option right away. If you just getting started in ecommerce, this is the platform that will not disappoint you with features and functionality that it provides. Therefore, be aware of bandwidth overage fees of $5 per each GB exceeded. The main things that 3dcart offers are web design services to skillfully tailor your website’s UI and UX as well as SSL certificates. One of the most important features 3dcart is being praised upon is its unlimited product storage options. 
+    </div>
+    </div>
+    <p class="text">It does not matter how large of a business you are, there will never be a limit on the amount of products that you want to post. With that in mind, imagine if your business is experiencing rapid growth, how easy it would be to scale the platform. Another thing to mention is that <a href="https://www.3dcart.com/" rel="nofollow">3dcart</a> can seamlessly support over 100 different payment gateways, which can provide your customers with flexible options, making sure that you provide the payment method they want. One last thing that stands out among other Shopify alternatives is the tremendous support the company provides while you are launching the store. Instant chat and phone customer support will leave you assured that you have chosen the right people and will help you feel supported in the community.  </p>
+    <p class="text">Overall, 3dcart is a well rounded solution that is a strong Shopify alternative due to some valuable features have been praised by its customers, which include: free 50 templates for customizing the design of your website, product bundle options, discounts and special deals at the registry, SEO tools, and full integration with over 100 payment gateways. The “Nano” package comes only for $9.99/month and gives you the availability to post up to 10 products, with unlimited storage and majority of features. Also, get 15% discount if you purchase the subscription for the entire year.</p>
+    <h2 class="section-title">Ecwid</h2>
+    <div class="col-w">
+        <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
+            If you want to sell a few items on an already existing website or blog, and you don’t want to build a full-fledged web store, this is may be the right ecommerce solution for you! <a href="https://www.ecwid.com/" rel="nofollow">Ecwid</a> is a widget that can be easily incorporated in an already established website. As long as the website of yours comes with HTML or Javascript editor, you will be able to set up Ecwid on the site. The only thing it takes is to copy and paste little bit of code into the editor. Or another great way to set up Ecwid is to use the pre-made integration module with CMS (Drupal, Wordpress, Joomla, etc.). The platform stands among the best Shopify competitors for small to medium sized businesses. Almost no amount of resources is required from you, and the platform’s control panel is very easy to navigate, even if you hadn’t had any previous experience with Wordpress. 
+        </div>
+        <div class="col __col-30">
+            <img alt="Shopify Alternative - Ecwid" src="assets/images/ecwid.jpg" />
+        </div>
+    </div>
+    <p class="text">Adding products to your store simply brings down to adding a few lines of code for the as an attribute. If you are trying to sell up to 10 items, this is the great solution that is offered free of charge along with unlimited bandwidth, automatic updates and real-time shipping rates. The setup wizard will be quite beneficial and will help you in achieving many features that can be linked to your store. As far as features, the solution is packed with them from the get-go. Being a cloud-based platform, you automatically receive the following ones:</p>
+    <p class="text">●	Social media integration: Link your Ecwid store to a Facebook page and double the amount of sales you make as well as increase traffic through Facebook targeted marketing. </p>
+    <p class="text">●	Multi channeled selling: Want the comfort of selling through multiple websites? Have at it! Manage them all through a single admin account. </p>
+    <p class="text">●	Language: Automatically translate your store to 45 languages.</p>
+    <p class="text">●	Promotions: Manage promotional content and pricing. </p>
+    <p class="text">●	Digital Goods: Good option if you provide intangible services. </p>
+    <p class="text">If you have an online presence, you can set up an Ecwid store in no time and at a low cost, with the features that are present in high-end shopping cart solutions. The only downside of it will be the absence of any web-design templates, as the company expects you to already have an existing website in place, to which the ecommerce function can be integrated. </p>
+    <div class="section-title">PinnacleCart </div>
+            <div class="col-w">
+                <div class="col __col-30">
+                    <img alt="Shopify Alternatives - PinnacleCart " src="assets/images/pinnacle-cart.jpg" />
+                </div>
+                <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
+                   Created in 2004, this software as a service solution come with a variety of great features and offers a great usability to all its users. If you would like to have a solution that will give you control over every single aspect of your website, while not demanding high technical knowledge, you have just found the right one. With around the same price as Shopify, this tool will allow you to open unlimited amount of admin accounts for managing your stores, will provide you with ability to upload unlimited product images and get a real-time shipping quotes with shipping tracking features.
+    </div>
+    </div>
+    <p class="text"><a href="https://www.pinnaclecart.com/" rel="nofollow">PinaccleCart</a> can be treated as one of the easiest platforms to use for building a custom eCommerce website. You can easily choose from 30 free templates offered to you, or order a customized one from the company. While the templates are sufficient in their design, you are free to edit HTML or CSS to edit them or specify the layout of your products. The platform can offer you a domain and even integrate it with WordPress. Over 30 payment gateways are available to connect. Guest and PayPal checkout options are allowed and can be integrated into the mobile version, which makes it easier for customers to buy your product. For more advanced plans, you will get fraud protection with a dedicated SSL certificate which will deliver a great protection to your website and payment gateways. Customer support is a priority of PinnacleCart, with 24/7 customer support on the phone and online text. With that, online knowledge base is also available to you to help you in your ecommerce journey. The store, however, does not offer custom store email which can seem as a drawback.</p>
+    <p class="text">You can feel this particular shopping cart well-suited for you if you would like to have a great variety of features out of the box, and therefore, not lose a lot of website speed by burdening your store with lots of plugins (compare to Shopify, where you have to install multiple add ons to have these features). Another great advantage of Pinnacle cart is its absence of any credit card transaction fees with the competitive rate pricing.</p>
     <h2 class="section-title">Virto Commerce</h2>
     {% include 'vc-magento-banner' with current_url : 'glossary/shopify-alternatives' %}
     <div class="col-w">

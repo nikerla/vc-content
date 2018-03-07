@@ -17,13 +17,13 @@ storefrontApp.service('dialogService', ['$uibModal', function ($uibModal) {
 }]);
 
 storefrontApp.factory('accountApi', ['$resource', function ($resource) {
-    return $resource('/account', null, {
-        updateAccount: { url: '/account', method: 'POST' },
-        changePassword: { url: '/account/password', method: 'POST' },
-        getQuotes: { url: '/account/quotes' },
-        updateAddresses: { url: '/account/addresses', method: 'POST' },
-        getCountries: { url: '/countries', isArray: true },
-        getCountryRegions: { url: '/countries/:code3/regions', isArray: true }
+    return $resource('storefrontapi/account', null, {
+        updateAccount: { url: 'storefrontapi/account', method: 'POST' },
+        changePassword: { url: 'storefrontapi/account/password', method: 'POST' },
+        getQuotes: { url: 'storefrontapi/account/quotes' },
+        updateAddresses: { url: 'storefrontapi/account/addresses', method: 'POST' },
+        getCountries: { url: 'storefrontapi/countries', isArray: true },
+        getCountryRegions: { url: 'storefrontapi/countries/:code3/regions', isArray: true }
     });
 }]);
 
