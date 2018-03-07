@@ -4785,7 +4785,7 @@ textarea:disabled
     .partner form
     {
         padding: 0px 0 0px 20px;
-        word-spacing: 0px;
+        word-spacing: -6px;
     }
 
 form.fixed
