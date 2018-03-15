@@ -28,7 +28,7 @@
                 {% endform %}
 
                 <div class="" align="center">
-                    <a href="account/register">Register</a>
+                    <a href="account/registerbyinvite">Get free account</a>
                     <span> | </span>
                     <a href="{{ '/account/forgotpassword' | absolute_url }}">{{ 'customer.login.forgot_password' | t }}</a>
                 </div>
@@ -53,7 +53,7 @@
 {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
 <script type="text/javascript">
     $(function () {
-    //custom validation
+        //custom validation
         $('form#customer_login').validate({
             rules: {
                 'customer[user_name]': "required",

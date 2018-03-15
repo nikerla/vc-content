@@ -2825,3 +2825,14 @@ ul.breadcrumbs {
             color: #ccc;
             content: "/\00a0";
         }
+.sent-mail-bg {
+    background: url(sent-mail.png) no-repeat 0 0;
+    width: 285px;
+    height: 256px;
+    margin: 0 auto;
+}
+
+/* text alignment*/
+.text-left {
+    text-align: left
+}
