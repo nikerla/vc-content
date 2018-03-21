@@ -93,46 +93,6 @@ Open properties for **C:\inetpub\wwwroot\admin\App_Data** folder and give perm
 * Select the **Frontend Hmac** key
 * Click **Generate**, then **OK**, then **Save**.
 
-### Configure permissions for App_Data folder
-
-Open properties for **C:\inetpub\wwwroot\admin\App_Data** folder and give permission **Modify** to **IIS_IUSRS** user group.
-
-![Setting App_Data folder security options](../../../pages/assets/images/docs/image2015-3-18_16-44-47.png "Setting App_Data folder security options")
-
-### Configure IIS
-
-* Open the **IIS Manager** and create a new website or new application named **admin** inside an existing website.
-* In the **Physical path** field enter the full path to the platform site data folder **C:\inetpub\wwwroot\admin**
-![Website configuration in IIS](../../../pages/assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
-* Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
-![Select application pool for Virto Commerce Platform](../../../pages/assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce Platform")
-* Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it.
-![Create a virtual folder for Virto Commerce Platform assets](../../../pages/assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
-
-## First sign in
-
-* Open the Virto Commerce Platform application in the browser.
-* On the first request the application will create and initialize database. After that you should see the sign in page. Use the following credentials:
-  * Login: **admin**
-  * Password: **store**
-
-### Change administrator password
-
-* In the left menu select **More → Configuration → Security**.
-* Select **Users**
-* Select the **admin** user.
-* Click **Change password**.
-* Enter the new password twice and click **OK**.
-
-### Change API credentials for storefront application
-
-* In the left menu select **More → Configuration → Security**.
-* Select **Users**
-* Select the **frontend** user.
-* Click the **API Keys** widget.
-* Select the **Frontend Hmac** key
-* Click **Generate**, then **OK**, then **Save**.
-
 ## Initial configuration of VirtoCommerce Storefront (Runtime version).
 
 Navigate to the <a href="https://github.com/VirtoCommerce/vc-storefront/releases">Releases section of Virto Commerce Storefront in GitHub.</a>
@@ -145,7 +105,7 @@ Unpack this zip to a local directory **C:\vc-storefront**. After that you will h
 
 Upload all data from **C:\vc-storefront** folder to the web server in IIS application root directory **C:\inetpub\wwwroot**.
 
-## Setup
+## Setup of Virto Commerce Storefront
 
 ### Configure Web API base URL
 
