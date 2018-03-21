@@ -57,17 +57,17 @@ Upload all data from **C:\vc-platform** folder to the web server in IIS applica
 
 Open properties for **C:\inetpub\wwwroot\admin\App_Data** folder and give permission **Modify** to **IIS_IUSRS** user group.
 
-![Setting App_Data folder security options](../../../../assets/images/docs/image2015-3-18_16-44-47.png "Setting App_Data folder security options")
+![Setting App_Data folder security options](../../../pages/assets/images/docs/image2015-3-18_16-44-47.png "Setting App_Data folder security options")
 
 ### Configure IIS
 
 * Open the **IIS Manager** and create a new website or new application named **admin** inside an existing website.
 * In the **Physical path** field enter the full path to the platform site data folder **C:\inetpub\wwwroot\admin**
-![Website configuration in IIS](../../../../assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
+![Website configuration in IIS](../../../pages/assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
 * Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
-![Select application pool for Virto Commerce Platform](../../../../assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce Platform")
+![Select application pool for Virto Commerce Platform](../../../pages/assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce Platform")
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it.
-![Create a virtual folder for Virto Commerce Platform assets](../../../../assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
+![Create a virtual folder for Virto Commerce Platform assets](../../../pages/assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
 
 ## First sign in
 
@@ -97,17 +97,17 @@ Open properties for **C:\inetpub\wwwroot\admin\App_Data** folder and give perm
 
 Open properties for **C:\inetpub\wwwroot\admin\App_Data** folder and give permission **Modify** to **IIS_IUSRS** user group.
 
-![Setting App_Data folder security options](../../../../assets/images/docs/image2015-3-18_16-44-47.png "Setting App_Data folder security options")
+![Setting App_Data folder security options](../../../pages/assets/images/docs/image2015-3-18_16-44-47.png "Setting App_Data folder security options")
 
 ### Configure IIS
 
 * Open the **IIS Manager** and create a new website or new application named **admin** inside an existing website.
 * In the **Physical path** field enter the full path to the platform site data folder **C:\inetpub\wwwroot\admin**
-![Website configuration in IIS](../../../../assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
+![Website configuration in IIS](../../../pages/assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
 * Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
-![Select application pool for Virto Commerce Platform](../../../../assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce Platform")
+![Select application pool for Virto Commerce Platform](../../../pages/assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce Platform")
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it.
-![Create a virtual folder for Virto Commerce Platform assets](../../../../assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
+![Create a virtual folder for Virto Commerce Platform assets](../../../pages/assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
 
 ## First sign in
 
@@ -166,15 +166,15 @@ Upload all data from **C:\vc-storefront** folder to the web server in IIS appli
 
 Open properties for **C:\inetpub\wwwroot\App_Data** folder and give permission **Modify** to **IIS_IUSRS** user group:
 
-![Setting permissions for App_Data folder](../../../../assets/images/docs/image2016-4-29_17-18-17.png "Setting permissions for App_Data folder")
+![Setting permissions for App_Data folder](../../../pages/assets/images/docs/image2016-4-29_17-18-17.png "Setting permissions for App_Data folder")
 
 ### Configure IIS
 
 * Open the **IIS Manager** and create a new website or new application inside an existing website.
 * In the **Physical path** field enter the full path to the **C:\inetpub\wwwroot** folder:
-![Website configuration in IIS](../../../../assets/images/docs/add-storefront-website.png "Website configuration in IIS")
+![Website configuration in IIS](../../../pages/assets/images/docs/add-storefront-website.png "Website configuration in IIS")
 * Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
-![Select an application pool](../../../../assets/images/docs/image2016-4-29_17-20-13.png "Select an application pool")
+![Select an application pool](../../../pages/assets/images/docs/image2016-4-29_17-20-13.png "Select an application pool")
 
 Open the VirtoCommerce Storefront application in the browser.
 
