@@ -24,29 +24,25 @@ Navigate to the <a href="https://github.com/VirtoCommerce/vc-platform/releases" 
 
 You will find **VirtoCommerce.Platform.2.x.x.zip** file. In this file the site has already been built and can be run without additional compilation. It does not includes all the source code.
 
-Unpack follow zip to local disk to path **C:\vc-platform**. In result you should get the folder which contains platform precompiled code.
-
-### Upload files to the web server
-
-Copy all data from **C:\vc-platform** folder to the web server in IIS application root directory **C:\inetpub\wwwroot\admin**. If there is no **admin** directory inside **wwwroot**, create it.
+Unpack follow zip to the web server in IIS application root directory **C:\inetpub\wwwroot\admin**. If there is no **admin** directory inside **wwwroot**, create it.
 
 ## Setup of Virto Commerce Platform
 
 ### Configure connection strings
 
-* Open the **C:\vc-platform\Web.config** file in a text editor.
+* Open the **C:\inetpub\wwwroot\admin\Web.config** file in a text editor.
 * In the **connectionStrings** section change **add** nodes:
   * **VirtoCommerce**: parameters for  SQL server database. Search the name of SQL Server: Start -> Windows Administartive Tools -> Services -> search in list SQL Server(...) - name is in round brackets. Change (local) to .\Name-Of-SQL-Server like .\SQLEXPRESS. 
     ```
     <add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
     ```
-### Configure permissions for App_Data folder of VirtoCommerce Platform
+### Configure permissions for App_Data folder of VirtoCommerce Platform (optional)
 
 Open properties for **C:\inetpub\wwwroot\admin\App_Data** folder and give permission **Modify** to **IIS_IUSRS** user group.
 
 ![Setting App_Data folder security options](../../../pages/assets/images/docs/image2015-3-18_16-44-47.png "Setting App_Data folder security options")
 
-### Configure IIS
+### Configure IIS (optional)
 
 * Open the **IIS Manager** and create a new website or new application named **admin** inside an existing website.
 * In the **Physical path** field enter the full path to the platform site data folder **C:\inetpub\wwwroot\admin**
@@ -59,7 +55,9 @@ Open properties for **C:\inetpub\wwwroot\admin\App_Data** folder and give perm
 ## First sign in
 
 * Open the Virto Commerce Platform application in the browser - in  the **IIS Manager** select **admin** and click on right column to "Browse *:80(http)".
-* On the first request the application will create and initialize Virtocommerce2 database. After that you should see the sign in page.
+* **On the first request the application will create and initialize Virtocommerce2 database**.
+* After that you should see the sign in page.
+
 ![Sign in page](../../../pages/assets/images/docs/platform-sign-in-page.png "Sign in page")
 * Use the following credentials:
   * Login: **admin**
@@ -88,27 +86,23 @@ Navigate to the <a href="https://github.com/VirtoCommerce/vc-storefront/releases
 
 You will find **VirtoCommerce.Storefront.2.x.x.zip** file. In this file the site has already been built and can be run without additional compilation. It does not includes all the source code.
 
-Unpack this zip to a local directory **C:\vc-storefront**. After that you will have the directory with storefront precompiled files.
-
-### Upload files to the web server
-
-Copy all data from **C:\vc-storefront** folder to the web server in IIS application root directory **C:\inetpub\wwwroot**.
+Unpack this zip to the web server in IIS application root directory **C:\inetpub\wwwroot**.
 
 ## Setup of Virto Commerce Storefront
 
 ### Configure Web API base URL
 
-* Open the **C:\vc-storefront\Web.config** in a text editor.
+* Open the **C:\inetpub\wwwroot\Web.config** in a text editor.
 * In the **connectionStrings** section find the **add** node named **VirtoCommerce BaseUrl**. Change its **connectionString** attribute value to the URL of your **VirtoCommerce Platform** application.
 
 ### Configure Web API credentials
 
-* Open the **C:\vc-storefront\Web.config** in a text editor.
+* Open the **C:\inetpub\wwwroot\Web.config** in a text editor.
 * In the **appSettings** section find the **add** nodes named **vc-public-ApiAppId** and **vc-public-ApiSecretKey** and change its values to values generated in **VirtoCommerce Platform** application.
 
 ### Configure CMS content storage
 
-* Open the **C:\vc-storefront\Web.config** in a text editor.
+* Open the **C:\inetpub\wwwroot\Web.config** in a text editor.
 * In the **connectionStrings** section find the **add** node named **ContentConnectionString**. Change its **connectionString** attribute value to the path of folder specified in **CmsContentConnectionString** connection string in your **VirtoCommerce Platform** installation (**~/App_Data/cms-content** by default, i.e. you must use **provider=LocalStorage;rootPath=C:\inetpub\wwwroot\admin\App_Data\cms-content** connection string in this case).
 
 ### Configure permissions for App_Data folder of VirtoCommerce Storefront
