@@ -142,5 +142,5 @@ Open properties for **C:\inetpub\wwwroot\storefront\App_Data** folder and give
 
 Now you could first open the **VirtoCommerce Storefront** application in the browser after full modules and sample data installation on **Virtocommerce Platform** - in  the **IIS Manager** select **storefront** and click on right column to "Browse *:80(http)".
 
-![First storefront page](../../../pages/assets/images/docs/storefront-first-page.png "First storefront page")
+![First storefront page](../../../pages/assets/images/docs/storefront.png "First storefront page")
 
