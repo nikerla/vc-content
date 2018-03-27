@@ -1,36 +1,33 @@
 <div class="roadmap __responsive" style="text-align:center; padding-bottom: 40px;">
-    <h1 class="head-title">{{ 'customer.recover_password.title' | t }}</h1>
+    <h1 class="head-title">Get started for free!</h1>
+    <p class="text">You'll have full, free access to the Platform during your trial period.</p>
     <div class="columns">
         <div class="block">
-            <div class="column">
-                {% if form.posted_successfully %}
-                <div class="note form-success" id="resetSuccess">
-                    {{ 'customer.recover_password.reset_password_success' | t }}
-                </div>
-
-                {% else %}
-                <div id="recover_password">
-
-                    {% form 'recover_customer_password' %}
-                    {% include 'form-errors-custom' %}
-                    <div class="control-group">
-                        <input type="email" style="width: 400px;" value="" class="form-input" name="email" id="recover-email" placeholder="{{ 'customer.recover_password.email' | t }}" autocorrect="off" autocapitalize="off">
-                        <p>
-                            <input style="width: 400px;" type="submit" class="button fill" tabindex="2" value="Reset Password " />
-                        </p>
+            {% form 'register_by_invite' %}
+            {% include 'form-errors-custom' %}
+                <div class="control-group">
+                    <label for="email">Create Your Account</label>
+                    <input style="width: 400px;" type="email" tabindex="1" value="" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}" autocorrect="off" autocapitalize="off">
+                    <p>
+                        <input style="width: 400px;" type="submit" class="button fill" tabindex="2" value="Sign in for a free account" />
+                    </p>
+                    <p>&mdash; {{ 'common.or' | t }}  &mdash;</p>
+                    <div>
+                        <a class="button fill" style="width: 400px;" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
+                        <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
                     </div>
-                    {% endform %}
+
                 </div>
-                {% endif %}
-            </div>
+            {% endform %}
         </div>
+    </div>
 </div>
 {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
 {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
 <script type="text/javascript">
     $(function () {
         //custom validation
-        $('form#recover_customer_password').validate({
+        $('form#register_by_invite').validate({
             rules: {
                 email: {
                     required: true,
@@ -51,7 +48,7 @@
 
 
 <!--<div ng-controller="accountController" class="roadmap responsive">
-    <h1 style="margin-left: 18px;" class="head-title">{{ 'customer.recover_password.title' | t }}</h1>
+    <h1 style="margin-left: 18px;" class="head-title">Get Invite</h1>
     <div class="column">
         <div class="block">
 
@@ -62,7 +59,7 @@
 
             {% else %}
             <div id="recover_password">
-                {% form 'recover_customer_password' %}
+                {% form 'register_by_invite' %}
                 {% include 'form-errors-custom' %}
                 <div class="control-group">
                     <span>
