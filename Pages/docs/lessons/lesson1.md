@@ -13,12 +13,12 @@ Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce
 ## Prerequisites
 
 * <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016" target="_blank">Windows Server 2008 R2 SP1 or later</a>
-* Enable Internet Information Services. You may use PowerShell command: Install-WindowsFeature -name Web-Server -IncludeAllSubFeature
+* Enable Internet Information Services. You may use PowerShell command: **Install-WindowsFeature -name Web-Server -IncludeAllSubFeature**
 * <a href="https://www.microsoft.com/en-us/download/details.aspx?id=49981" target="_blank">Microsoft .NET Framework 4.6.1</a>
 * <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2017-rtm" target="_blank">Microsoft SQL Server 2008 or later with SQL Management Studio(free MS SQL Express would be enough)</a>
 * <a href="https://go.microsoft.com/fwlink/?LinkId=746572" target="_blank">Visual C++ Redistributable Packages for Visual Studio</a>
 
-## Initial configuration of VirtoCommerce Platform.
+## Initial configuration of VirtoCommerce Platform (*backend*).
 
 Navigate to the <a href="https://github.com/VirtoCommerce/vc-platform/releases" rel="nofollow">Releases section of Virto Commerce Platform in GitHub.</a>
 
@@ -34,7 +34,7 @@ Unpack follow zip to the web server in IIS application root directory **C:\inetp
 
 * Open the **C:\inetpub\wwwroot\admin\Web.config** file in a text editor.
 * In the **connectionStrings** section find the **add** node:
-  * **VirtoCommerce**: parameters for  SQL server database. Change (local) to IP address of your SQL Server. For locally running instance SQL Express set Data Source=.\SQLEXPRESS. 
+  * **VirtoCommerce**: parameters for  SQL server database. Change (local) to IP address of your SQL Server. For locally running instance SQL Express set **Data Source=.\SQLEXPRESS**. 
     ```
     <add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
     ```
@@ -48,7 +48,8 @@ Unpack follow zip to the web server in IIS application root directory **C:\inetp
 Open properties for **C:\inetpub\wwwroot\admin** folder and give permission **Modify** to **IIS_IUSRS** user group.
 
 ![Setting admin folder security options](../../../pages/assets/images/docs/iis_iusrs-rights-on-admin-folder.png "Setting admin folder security options")
-* The same can be done with PowerShell commands:
+
+The same can be done with PowerShell commands:
 * **$acl = Get-Acl $folder**
 * **$acl.SetAccessRuleProtection($True, $True)**
 * **Set-Acl -Path $folder -AclObject $acl**
@@ -64,7 +65,9 @@ Open properties for **C:\inetpub\wwwroot\admin** folder and give permission *
 ![Website configuration in IIS](../../../pages/assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
 * Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
 ![Select application pool for Virto Commerce Platform](../../../pages/assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce Platform")
-* Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it.
+* Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it manually or with PowerShell commands:
+* **$folder="C:\inetpub\wwwroot\admin\App_Data\Assets"**
+* **New-Item -ItemType directory -Path $folder -Force**
 ![Create a virtual folder for Virto Commerce Platform assets](../../../pages/assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
 
 ## First sign in
@@ -107,7 +110,7 @@ Open properties for **C:\inetpub\wwwroot\admin** folder and give permission *
 * Select the **Frontend Hmac** key
 * Click **Generate**, then **OK**, then **Save**.
 
-## Initial configuration of VirtoCommerce Storefront (frontend).
+## Initial configuration of VirtoCommerce Storefront (*frontend*).
 
 Navigate to the <a href="https://github.com/VirtoCommerce/vc-storefront/releases">Releases section of Virto Commerce Storefront in GitHub.</a>
 
@@ -116,7 +119,8 @@ You will find **VirtoCommerce.Storefront.2.x.x.zip** file.
 Create new folder named **storefront** in IIS application root directory **C:\inetpub\wwwroot** manually or with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\storefront"**
 * **New-Item -ItemType directory -Path $folder -Force**
-* and unpack this zip file to this folder of web server.
+
+and unpack this zip file to this folder of web server.
 
 ## Setup of Virto Commerce Storefront
 
@@ -148,7 +152,8 @@ Create new folder named **storefront** in IIS application root directory **C:\in
 
 * Open the **IIS Manager** and add a new virtual directory named **cms-content** inside **C:\inetpub\wwwroot\storefront\App_Data**.
 * Physical path is **C:\inetpub\wwwroot\admin\App_Data\cms-content**.
-* The same can be done with PowerShell commands:
+
+The same can be done with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\storefront\App_Data\cms-content"**
 * **New-Item -ItemType directory -Path $folder -Force**
 * **New-Item -Path C:\inetpub\wwwroot\storefront\App_Data\cms-content -ItemType SymbolicLink -Value C:\inetpub\wwwroot\admin\App_Data\cms-content**
