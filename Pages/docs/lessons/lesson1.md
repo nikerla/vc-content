@@ -68,6 +68,7 @@ The same can be done with PowerShell commands:
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it manually or with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\admin\App_Data\Assets"**
 * **New-Item -ItemType directory -Path $folder -Force**
+
 ![Create a virtual folder for Virto Commerce Platform assets](../../../pages/assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
 
 ## First sign in
