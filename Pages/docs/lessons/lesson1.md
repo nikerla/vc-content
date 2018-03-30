@@ -63,8 +63,7 @@ The same can be done with PowerShell commands:
 * Open the **IIS Manager** and create a new application named **admin** inside an existing **Default Web Site**.
 * In the **Physical path** field enter the full path to the platform site data folder **C:\inetpub\wwwroot\admin**
 ![Website configuration in IIS](../../../pages/assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
-* Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
-![Select application pool for Virto Commerce Platform](../../../pages/assets/images/docs/image2015-3-19_9-39-32.png "Select application pool for Virto Commerce Platform")
+* Select application pool named DefaultAppPool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it manually or with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\admin\App_Data\Assets"**
 * **New-Item -ItemType directory -Path $folder -Force**
@@ -145,14 +144,15 @@ and unpack this zip file to this folder of web server.
 
 * Open the **IIS Manager** and add a new application named **storefront** inside an existing **Default Web Site**.
 * In the **Physical path** field enter the full path to the **C:\inetpub\wwwroot\storefront** folder:
-![Website configuration in IIS](../../../pages/assets/images/docs/add-storefront-website.png "Website configuration in IIS")
-* Select application pool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode:
-![Select an application pool](../../../pages/assets/images/docs/image2016-4-29_17-20-13.png "Select an application pool")
+![Add application in IIS](../../../pages/assets/images/docs/add-application-storefront.png "Add application in IIS")
+* Select application pool named DefaultAppPool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode
 
 ## Add default themе for **VirtoCommerce Storefront** 
 
 * Open the **IIS Manager** and add a new virtual directory named **cms-content** inside **C:\inetpub\wwwroot\storefront\App_Data**.
 * Physical path is **C:\inetpub\wwwroot\admin\App_Data\cms-content**.
+
+![Add virtual directory cms-content](../../../pages/assets/images/docs/add-virtual-directory-cms-content.png "Add virtual directory cms-content")
 
 The same can be done with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\storefront\App_Data\cms-content"**
