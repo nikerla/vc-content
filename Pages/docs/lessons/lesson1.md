@@ -22,7 +22,7 @@ Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce
 
 Navigate to the <a href="https://github.com/VirtoCommerce/vc-platform/releases" rel="nofollow">Releases section of Virto Commerce Platform in GitHub.</a>
 
-You will find **VirtoCommerce.Platform.2.x.x.zip** file.
+You will find and download **VirtoCommerce.Platform.2.x.x.zip** file.
 
 Unpack follow zip to the web server in IIS application root directory **C:\inetpub\wwwroot\admin**. If there is no **admin** directory inside **wwwroot**, create it manually or with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\admin"**
@@ -68,6 +68,7 @@ The same can be done with PowerShell commands:
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it manually or with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\admin\App_Data\Assets"**
 * **New-Item -ItemType directory -Path $folder -Force**
+
 ![Create a virtual folder for Virto Commerce Platform assets](../../../pages/assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
 
 ## First sign in
@@ -89,7 +90,7 @@ The same can be done with PowerShell commands:
 
 ## Sample data installation
 
-* After restart you should see next page with possibillity to sample data installation(you should choose Closing and Electronics option - new products would be added to your Virtocommerce2 database )
+* After restart you should see next page with possibillity to sample data installation (you should choose **Closing and Electronics** option - new products would be added to your **Virtocommerce2** database).
 
 ![Sample data installation page](../../../pages/assets/images/docs/sample-data-installation-page.png "Sample data installation page")
 
@@ -114,7 +115,7 @@ The same can be done with PowerShell commands:
 
 Navigate to the <a href="https://github.com/VirtoCommerce/vc-storefront/releases">Releases section of Virto Commerce Storefront in GitHub.</a>
 
-You will find **VirtoCommerce.Storefront.2.x.x.zip** file.
+You will find and download **VirtoCommerce.Storefront.2.x.x.zip** file.
 
 Create new folder named **storefront** in IIS application root directory **C:\inetpub\wwwroot** manually or with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\storefront"**
