@@ -1,10 +1,9 @@
 ---
-aliases:
-  - docs/lessons/lesson1
-date: '2018-03-20'
+title: Lesson 1
+description: Get start
 layout: docs
-title: 'Lesson 1'
-
+date: 2018-04-04T02:41:36.373Z
+priority: 1
 ---
 ## Summary
 
@@ -34,9 +33,9 @@ Unpack follow zip to the web server in IIS application root directory **C:\inetp
 
 * Open the **C:\inetpub\wwwroot\admin\Web.config** file in a text editor.
 * In the **connectionStrings** section find the **add** node:
-  * **VirtoCommerce**: parameters for  SQL server database. Change (local) to IP address of your SQL Server. For locally running instance SQL Express set **Data Source=.\SQLEXPRESS**. 
+  * **VirtoCommerce**: parameters for  SQL server database. Change (local) to IP address of your SQL Server. For locally running instance SQL Express set **Data Source=.\SQLEXPRESS**.
     ```
-    <add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
+<add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
     ```
 
 ### Create virto user in SQL Server Manager
@@ -46,8 +45,7 @@ Unpack follow zip to the web server in IIS application root directory **C:\inetp
 ### Configure permissions for admin folder of VirtoCommerce Platform
 
 Open properties for **C:\inetpub\wwwroot\admin** folder and give permission **Modify** to **IIS_IUSRS** user group.
-
-![Setting admin folder security options](../../../pages/assets/images/docs/iis_iusrs-rights-on-admin-folder.png "Setting admin folder security options")
+![Setting admin folder security options](../../assets/images/docs/iis_iusrs-rights-on-admin-folder.png "Setting admin folder security options")
 
 The same can be done with PowerShell commands:
 * **$acl = Get-Acl $folder**
@@ -62,13 +60,13 @@ The same can be done with PowerShell commands:
 
 * Open the **IIS Manager** and create a new application named **admin** inside an existing **Default Web Site**.
 * In the **Physical path** field enter the full path to the platform site data folder **C:\inetpub\wwwroot\admin**
-![Website configuration in IIS](../../../pages/assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
+![Website configuration in IIS](../../assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
 * Select application pool named DefaultAppPool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it manually or with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\admin\App_Data\Assets"**
 * **New-Item -ItemType directory -Path $folder -Force**
 
-![Create a virtual folder for Virto Commerce Platform assets](../../../pages/assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
+![Create a virtual folder for Virto Commerce Platform assets](../../assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
 
 ## First sign in
 
@@ -76,7 +74,7 @@ The same can be done with PowerShell commands:
 * **On the first request the application will create and initialize Virtocommerce2 database**. Wait a minute...
 * After that you should see the sign in page.
 
-![Sign in page](../../../pages/assets/images/docs/platform-first-sign-in-page.png "Sign in page")
+![Sign in page](../../assets/images/docs/platform-first-sign-in-page.png "Sign in page")
 * Use the following credentials:
   * Login: **admin**
   * Password: **store**
@@ -85,13 +83,13 @@ The same can be done with PowerShell commands:
 
 * Next step - platform modules auto installation, after that you should click the **Restart** button.
 
-![Modules auto installation page](../../../pages/assets/images/docs/modules-auto-installation-page.png "Modules auto installation page")
+![Modules auto installation page](../../assets/images/docs/modules-auto-installation-page.png "Modules auto installation page")
 
 ## Sample data installation
 
 * After restart you should see next page with possibillity to sample data installation (you should choose **Closing and Electronics** option - new products would be added to your **Virtocommerce2** database).
 
-![Sample data installation page](../../../pages/assets/images/docs/sample-data-installation-page.png "Sample data installation page")
+![Sample data installation page](../../assets/images/docs/sample-data-installation-page.png "Sample data installation page")
 
 ### Change administrator password
 
@@ -127,9 +125,9 @@ and unpack this zip file to this folder of web server.
 ### Configure Web API base URL
 
 * Open the **C:\inetpub\wwwroot\storefront\Web.config** in a text editor.
-* In the **connectionStrings** section find the **add** node named **VirtoCommerceBaseUrl**. Make sure that its **connectionString** attribute value is **http://localhost/admin**. 
+* In the **connectionStrings** section find the **add** node named **VirtoCommerceBaseUrl**. Make sure that its **connectionString** attribute value is **http://localhost/admin**.
     ```
-    <add name="VirtoCommerceBaseUrl" connectionString="http://localhost/admin" />
+<add name="VirtoCommerceBaseUrl" connectionString="http://localhost/admin" />
     ```
 
 ### Configure CMS content storage
@@ -137,27 +135,26 @@ and unpack this zip file to this folder of web server.
 * Open the **C:\inetpub\wwwroot\storefront\Web.config** in a text editor.
 * In the **connectionStrings** section find the **add** node named **ContentConnectionString**. Make sure that its **connectionString** attribute rootPath value is **~/App_Data/cms-content**.
     ```
-    <add name="ContentConnectionString" connectionString="provider=LocalStorage;rootPath=~/App_Data/cms-content" />
+<add name="ContentConnectionString" connectionString="provider=LocalStorage;rootPath=~/App_Data/cms-content" />
     ```
- 
+
 ### Configure IIS
 
 * Open the **IIS Manager** and add a new application named **storefront** inside an existing **Default Web Site**.
 * In the **Physical path** field enter the full path to the **C:\inetpub\wwwroot\storefront** folder:
-![Add application in IIS](../../../pages/assets/images/docs/add-application-storefront.png "Add application in IIS")
+![Add application in IIS](../../assets/images/docs/add-application-storefront.png "Add application in IIS")
 * Select application pool named DefaultAppPool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode
 
-## Add default themе for **VirtoCommerce Storefront** 
+## Add default themе for **VirtoCommerce Storefront**
 
 * Open the **IIS Manager** and add a new virtual directory named **cms-content** inside **C:\inetpub\wwwroot\storefront\App_Data**.
 * Physical path is **C:\inetpub\wwwroot\admin\App_Data\cms-content**.
 
-![Add virtual directory cms-content](../../../pages/assets/images/docs/add-virtual-directory-cms-content.png "Add virtual directory cms-content")
+![Add virtual directory cms-content](../../assets/images/docs/add-virtual-directory-cms-content.png "Add virtual directory cms-content")
 
 The same can be done with PowerShell commands:
 * **New-Item -Path C:\inetpub\wwwroot\storefront\App_Data\cms-content -ItemType SymbolicLink -Value C:\inetpub\wwwroot\admin\App_Data\cms-content**
 
 Now you could first open the **VirtoCommerce Storefront** application in the browser after full modules and sample data installation on **Virtocommerce Platform** - in  the **IIS Manager** select **storefront** and click on right column to "Browse *:80(http)".
 
-![First storefront page](../../../pages/assets/images/docs/storefront.png "First storefront page")
-
+![First storefront page](../../assets/images/docs/storefront.png "First storefront page")
