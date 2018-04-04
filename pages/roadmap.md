@@ -14,7 +14,7 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">2017</p>
+				<p class="roadmap-title">2018</p>
 				<p class="roadmap-descr">Our roadmap is defined on Virto Commerce GitHub page <a href="https://github.com/VirtoCommerce/vc-platform/milestone/25" rel="nofollow" target="_blank">GitHub page</a>. You can submit your suggestions or discuss specific features there. Below are just some highlights of what has been done and what is planned.</p>
 				<div class="columns">
 					<div class="column">
@@ -32,20 +32,12 @@ tags :
 									<span class="title">Advanced recommendation engine</span>
 									<span class="descr">Provide product recommendations based on customer behaviour.</span>
 								</li>								
-								<li>
-									<span class="title">Personalized <a href="/b2b-ecommerce-platform">B2B product catalog</a></span>
-									<span class="descr">Out of the box module that allows creating business rules to customer B2B user experiences based on contract and terms.</span>
-								</li>
 							</ul>
 						</div>
 					</div>
 					<div class="column">
 						<div class="block">
 							<ul class="list">				
-								<li>
-									<span class="title">Azure Search Support</span>
-									<span class="descr">Provide Microsoft Azure Search provider.</span>
-								</li>							
 								<li>
 									<span class="title">PunchOut Support</span>
 									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP, Unimarket, Oracle, PeopleSoft Punchout, Oracle Punchout, TBlox, Perfect Commerce, etc.</span>
@@ -71,6 +63,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-azure-search" target="_blank">Azure Search Support</a></span>
+									<span class="descr">Provide Microsoft Azure Search provider.</span>
+								</li>							                                
 								<li>
 									<span class="title"><a href="https://github.com/VirtoCommerce/vc-platform/issues/572" target="_blank">Recurring billing/subscription module</a></span>
 									<span class="descr">Add support for recurring billing and subscription management.</span>
@@ -109,6 +105,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title">Personalized <a href="/b2b-ecommerce-platform">B2B product catalog</a></span>
+									<span class="descr"><a href="https://github.com/VirtoCommerce/vc-module-catalog-personalization" target="_blank">Out of the box module</a> that allows creating business rules to customer B2B user experiences based on contract and terms.</span>
+								</li>                                
 								<li>
 									<span class="title">Bulk Order Support</span>
 									<span class="descr">Allow B2B ordering of items in bulk using simple form.</span>

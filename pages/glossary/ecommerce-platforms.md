@@ -20,7 +20,7 @@ tags:
 <section itemscope itemtype="http://schema.org/Article">
     <meta itemprop="author" content="Virtocommerce">
     <meta itemprop="datePublished" content="2017-09-06">
-    <meta itemprop="dateModified" content="2018-02-22">
+    <meta itemprop="dateModified" content="2017-02-22">
     <div itemprop="articleBody" class="business-cnt">
         <div class="head __cart">
             <h1 itemprop="headline" class="title">The best ecommerce platforms for websites in 2018. Top ecommerce platforms list</h1>
