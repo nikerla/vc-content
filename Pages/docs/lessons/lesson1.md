@@ -34,9 +34,9 @@ Unpack follow zip to the web server in IIS application root directory **C:\inetp
 * Open the **C:\inetpub\wwwroot\admin\Web.config** file in a text editor.
 * In the **connectionStrings** section find the **add** node:
   * **VirtoCommerce**: parameters for  SQL server database. Change (local) to IP address of your SQL Server. For locally running instance SQL Express set **Data Source=.\SQLEXPRESS**.
-    ```
+```
 <add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
-    ```
+```
 
 ### Create virto user in SQL Server Manager
 
@@ -126,17 +126,17 @@ and unpack this zip file to this folder of web server.
 
 * Open the **C:\inetpub\wwwroot\storefront\Web.config** in a text editor.
 * In the **connectionStrings** section find the **add** node named **VirtoCommerceBaseUrl**. Make sure that its **connectionString** attribute value is **http://localhost/admin**.
-    ```
+```
 <add name="VirtoCommerceBaseUrl" connectionString="http://localhost/admin" />
-    ```
+```
 
 ### Configure CMS content storage
 
 * Open the **C:\inetpub\wwwroot\storefront\Web.config** in a text editor.
 * In the **connectionStrings** section find the **add** node named **ContentConnectionString**. Make sure that its **connectionString** attribute rootPath value is **~/App_Data/cms-content**.
-    ```
+```
 <add name="ContentConnectionString" connectionString="provider=LocalStorage;rootPath=~/App_Data/cms-content" />
-    ```
+```
 
 ### Configure IIS
 
