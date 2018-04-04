@@ -2,7 +2,7 @@
 title: Virto Commerce Lessons
 description: Virto Commerce Lessons
 layout: docs
-date: 2015-09-19T03:02:04.137Z
+date: 2018-04-04
 priority: 1
 ---
 Welcome to the Virto Commerce lessons

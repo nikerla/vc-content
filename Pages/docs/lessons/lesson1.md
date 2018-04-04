@@ -2,7 +2,7 @@
 title: Lesson 1
 description: Get start
 layout: docs
-date: 2018-04-04T02:41:36.373Z
+date: 2018-04-04
 priority: 1
 ---
 ## Summary

@@ -1,7 +1,7 @@
 ---
-title: The best ecommerce platforms for websites in 2017. Top ecommerce platforms list
-description: The best ecommerce platforms for websites. 2017 top ecommerce platforms list. How to choose the best ecommerce platform for your business?
-date: 2017-05-12
+title: The best ecommerce platforms for websites in 2018. Top ecommerce platforms list
+description: The best ecommerce platforms for websites. 2018 top ecommerce platforms list. How to choose the best ecommerce platform for your business?
+date: 2018-05-12
 canonical: https://virtocommerce.com/glossary/ecommerce-platforms
 permalink: glossary/best-ecommerce-platforms
 ogtitle: Best ecommerce platforms
@@ -23,7 +23,7 @@ tags:
     <meta itemprop="dateModified" content="2018-02-22">
     <div itemprop="articleBody" class="business-cnt">
         <div class="head __cart">
-            <h1 itemprop="headline" class="title">The best ecommerce platforms for websites in 2017. Top ecommerce platforms list</h1>
+            <h1 itemprop="headline" class="title">The best ecommerce platforms for websites in 2018. Top ecommerce platforms list</h1>
         </div>
         <div class="col-w">
             <div class="col __col-30">
@@ -58,7 +58,7 @@ tags:
             <ol>
                 <li>Stock size. What is the size of your inventory? Try to find the ecommerce platform where you will be able to create flexible product catalogs with the ability to list thousands of product items without losing website performance.</li>
                 <li>Physical or digital. Do you provide online services or physical products? It will make you think about shipping costs and the ways your product will be delivered to your customer. There are ecommerce platforms that are specifically tied to physical or digital goods’ sales.</li>
-                <li>Payment methods. Not all online store platforms choose third-party payment methods, and you need to consider this as well. PayPal is usually a good option that is easy to use in making arrangements with the best ecommerce platforms. Stripe is also the “must-have” for the platform in 2017.</li>
+                <li>Payment methods. Not all online store platforms choose third-party payment methods, and you need to consider this as well. PayPal is usually a good option that is easy to use in making arrangements with the best ecommerce platforms. Stripe is also the “must-have” for the platform in 2018.</li>
                 <li>Self-hosted or hosted by the online store platform. The option of self-hosting a website is preferable to you in case you want to control the source code of your online store and modify it on a regular basis. Platform-hosted solutions save your time taking care of server management and system administration.</li>
             </ol>
             <p>Considering that choosing a platform can be challenging and daunting, in this article, we wanted to review the top ecommerce platforms that will match your needs and will provide you with a perfect solution for your business.</p>
