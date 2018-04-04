@@ -12,7 +12,10 @@ Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce
 ## Prerequisites
 
 * <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016" target="_blank">Windows Server 2008 R2 SP1 or later</a>
-* Enable Internet Information Services. You may use PowerShell command: **Install-WindowsFeature -name Web-Server -IncludeAllSubFeature**
+* Enable Internet Information Services. You may use PowerShell command: 
+```
+Install-WindowsFeature -name Web-Server -IncludeAllSubFeature
+```
 * <a href="https://www.microsoft.com/en-us/download/details.aspx?id=49981" target="_blank">Microsoft .NET Framework 4.6.1</a>
 * <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2017-rtm" target="_blank">Microsoft SQL Server 2008 or later with SQL Management Studio(free MS SQL Express would be enough)</a>
 * <a href="https://go.microsoft.com/fwlink/?LinkId=746572" target="_blank">Visual C++ Redistributable Packages for Visual Studio</a>
@@ -24,8 +27,10 @@ Navigate to the <a href="https://github.com/VirtoCommerce/vc-platform/releases" 
 You will find and download **VirtoCommerce.Platform.2.x.x.zip** file.
 
 Unpack follow zip to the web server in IIS application root directory **C:\inetpub\wwwroot\admin**. If there is no **admin** directory inside **wwwroot**, create it manually or with PowerShell commands:
-* **$folder="C:\inetpub\wwwroot\admin"**
-* **New-Item -ItemType directory -Path $folder -Force**
+```
+$folder="C:\inetpub\wwwroot\admin"
+New-Item -ItemType directory -Path $folder -Force
+```
 
 ## Setup of Virto Commerce Platform
 
@@ -50,13 +55,15 @@ Open properties for **C:\inetpub\wwwroot\admin** folder and give permission *
 ![Setting admin folder security options](../../assets/images/docs/iis_iusrs-rights-on-admin-folder.png "Setting admin folder security options")
 
 The same can be done with PowerShell commands:
-* **$acl = Get-Acl $folder**
-* **$acl.SetAccessRuleProtection($True, $True)**
-* **Set-Acl -Path $folder -AclObject $acl**
-* **$permission = "BUILTIN\IIS_IUSRS","Modify, Synchronize", "ContainerInherit, ObjectInherit", "None", "Allow"**
-* **$accessRule = New-Object System.Security.AccessControl.FileSystemAccessRule $permission**
-* **$acl.SetAccessRule($accessRule)**
-* **$acl | Set-Acl $folder**
+```
+$acl = Get-Acl $folder
+$acl.SetAccessRuleProtection($True, $True)
+Set-Acl -Path $folder -AclObject $acl
+$permission = "BUILTIN\IIS_IUSRS","Modify, Synchronize", "ContainerInherit, ObjectInherit", "None", "Allow"
+$accessRule = New-Object System.Security.AccessControl.FileSystemAccessRule $permission
+$acl.SetAccessRule($accessRule)
+$acl | Set-Acl $folder
+```
 
 ### Configure IIS
 
@@ -67,8 +74,10 @@ The same can be done with PowerShell commands:
 
 * Select application pool named DefaultAppPool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it manually or with PowerShell commands:
-* **$folder="C:\inetpub\wwwroot\admin\App_Data\Assets"**
-* **New-Item -ItemType directory -Path $folder -Force**
+```
+$folder="C:\inetpub\wwwroot\admin\App_Data\Assets"
+New-Item -ItemType directory -Path $folder -Force
+```
 
 ![Create a virtual folder for Virto Commerce Platform assets](../../assets/images/docs/create-platform-assets-virtual-folder-binaries.png "Create a virtual folder for Virto Commerce Platform assets")
 
@@ -120,8 +129,10 @@ Navigate to the <a href="https://github.com/VirtoCommerce/vc-storefront/releases
 You will find and download **VirtoCommerce.Storefront.2.x.x.zip** file.
 
 Create new folder named **storefront** in IIS application root directory **C:\inetpub\wwwroot** manually or with PowerShell commands:
-* **$folder="C:\inetpub\wwwroot\storefront"**
-* **New-Item -ItemType directory -Path $folder -Force**
+```
+$folder="C:\inetpub\wwwroot\storefront"
+New-Item -ItemType directory -Path $folder -Force
+```
 
 and unpack this zip file to this folder of web server.
 
@@ -160,7 +171,9 @@ and unpack this zip file to this folder of web server.
 ![Add virtual directory cms-content](../../assets/images/docs/add-virtual-directory-cms-content.png "Add virtual directory cms-content")
 
 The same can be done with PowerShell commands:
-* **New-Item -Path C:\inetpub\wwwroot\storefront\App_Data\cms-content -ItemType SymbolicLink -Value C:\inetpub\wwwroot\admin\App_Data\cms-content**
+```
+New-Item -Path C:\inetpub\wwwroot\storefront\App_Data\cms-content -ItemType SymbolicLink -Value C:\inetpub\wwwroot\admin\App_Data\cms-content
+```
 
 Now you could first open the **VirtoCommerce Storefront** application in the browser after full modules and sample data installation on **Virtocommerce Platform** - in  the **IIS Manager** select **storefront** and click on right column to "Browse *:80(http)".
 
