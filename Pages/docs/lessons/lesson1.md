@@ -33,10 +33,11 @@ Unpack follow zip to the web server in IIS application root directory **C:\inetp
 
 * Open the **C:\inetpub\wwwroot\admin\Web.config** file in a text editor.
 * In the **connectionStrings** section find the **add** node:
-  * **VirtoCommerce**: parameters for  SQL server database. Change (local) to IP address of your SQL Server. For locally running instance SQL Express set **Data Source=.\SQLEXPRESS**.
-```
-<add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
-```
+  
+  **VirtoCommerce**: parameters for  SQL server database. Change (local) to IP address of your SQL Server. For locally running instance   SQL Express set **Data Source=.\SQLEXPRESS**.
+  ```
+  <add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User       ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
+  ```
 
 ### Create virto user in SQL Server Manager
 
@@ -45,6 +46,7 @@ Unpack follow zip to the web server in IIS application root directory **C:\inetp
 ### Configure permissions for admin folder of VirtoCommerce Platform
 
 Open properties for **C:\inetpub\wwwroot\admin** folder and give permission **Modify** to **IIS_IUSRS** user group.
+
 ![Setting admin folder security options](../../assets/images/docs/iis_iusrs-rights-on-admin-folder.png "Setting admin folder security options")
 
 The same can be done with PowerShell commands:
@@ -60,7 +62,9 @@ The same can be done with PowerShell commands:
 
 * Open the **IIS Manager** and create a new application named **admin** inside an existing **Default Web Site**.
 * In the **Physical path** field enter the full path to the platform site data folder **C:\inetpub\wwwroot\admin**
+
 ![Website configuration in IIS](../../assets/images/docs/add-admin-application-binaries.png "Website configuration in IIS")
+
 * Select application pool named DefaultAppPool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode
 * Inside the admin application add the new virtual directory with alias **assets** and physical path **C:\inetpub\wwwroot\admin\App_Data\Assets**. If there is no **Assets** directory inside **App_Data**, create it manually or with PowerShell commands:
 * **$folder="C:\inetpub\wwwroot\admin\App_Data\Assets"**
@@ -75,6 +79,7 @@ The same can be done with PowerShell commands:
 * After that you should see the sign in page.
 
 ![Sign in page](../../assets/images/docs/platform-first-sign-in-page.png "Sign in page")
+
 * Use the following credentials:
   * Login: **admin**
   * Password: **store**
@@ -126,23 +131,25 @@ and unpack this zip file to this folder of web server.
 
 * Open the **C:\inetpub\wwwroot\storefront\Web.config** in a text editor.
 * In the **connectionStrings** section find the **add** node named **VirtoCommerceBaseUrl**. Make sure that its **connectionString** attribute value is **http://localhost/admin**.
-```
-<add name="VirtoCommerceBaseUrl" connectionString="http://localhost/admin" />
-```
+  ```
+  <add name="VirtoCommerceBaseUrl" connectionString="http://localhost/admin" />
+  ```
 
 ### Configure CMS content storage
 
 * Open the **C:\inetpub\wwwroot\storefront\Web.config** in a text editor.
 * In the **connectionStrings** section find the **add** node named **ContentConnectionString**. Make sure that its **connectionString** attribute rootPath value is **~/App_Data/cms-content**.
-```
-<add name="ContentConnectionString" connectionString="provider=LocalStorage;rootPath=~/App_Data/cms-content" />
-```
+  ```
+  <add name="ContentConnectionString" connectionString="provider=LocalStorage;rootPath=~/App_Data/cms-content" />
+  ```
 
 ### Configure IIS
 
 * Open the **IIS Manager** and add a new application named **storefront** inside an existing **Default Web Site**.
 * In the **Physical path** field enter the full path to the **C:\inetpub\wwwroot\storefront** folder:
+
 ![Add application in IIS](../../assets/images/docs/add-application-storefront.png "Add application in IIS")
+
 * Select application pool named DefaultAppPool which uses **.NET CLR Version 4.0** and **Integrated** pipeline mode
 
 ## Add default themе for **VirtoCommerce Storefront**
