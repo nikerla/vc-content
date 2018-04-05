@@ -1,6 +1,6 @@
 ---
-title: Lesson 1 - How to deploy and and configure Virto Commerce.
-description: Lesson 1 - How to deploy and and configure Virto Commerce.
+title: Lesson 1 - How to deploy and and configure Virto Commerce
+description: Lesson 1 - How to deploy and and configure Virto Commerce
 layout: docs
 date: 2018-04-04
 priority: 1
@@ -11,7 +11,7 @@ Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce
 
 ## Video
 * <a href="https://www.youtube.com/watch?v=oRL2jxv2Knc" target="_blank">Part 1. How to deploy and configure Virto Commerce Platform.</a>
-* <a href="https://www.youtube.com/watch?v=QuA1ATgzWwc" target="_blank">Part 2. How to deploy and configure Virto Commerce Storefront</a>
+* <a href="https://www.youtube.com/watch?v=QuA1ATgzWwc" target="_blank">Part 2. How to deploy and configure Virto Commerce Storefront.</a>
 
 
 ## Prerequisites
