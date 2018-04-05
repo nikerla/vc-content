@@ -29,8 +29,8 @@ tags :
 									<span class="descr">Create Web Hooks API to allow for easier integration with external systems.</span>
 								</li>
 								<li>
-									<span class="title">Advanced recommendation engine</span>
-									<span class="descr">Provide product recommendations based on customer behaviour.</span>
+									<span class="title">Advanced B2B starter store</span>
+									<span class="descr">Storefront that showcases B2B capabilities common to many real-life B2B deployments.</span>
 								</li>								
 							</ul>
 						</div>
@@ -63,6 +63,10 @@ tags :
 					<div class="column">
 						<div class="block">
 							<ul class="list">
+								<li>
+									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-product-recommendations" rel="nofollow">Advanced recommendation engine</a></span>
+									<span class="descr">Provide product recommendations based on customer behaviour.</span>
+								</li>							
 								<li>
 									<span class="title"><a href="https://github.com/VirtoCommerce/vc-module-azure-search" target="_blank">Azure Search Support</a></span>
 									<span class="descr">Provide Microsoft Azure Search provider.</span>
