@@ -1,10 +1,9 @@
 ---
-aliases:
-  - docs/lessons/lesson2
-date: '2018-04-04'
+title: Lesson 2
+description: Import data
 layout: docs
-title: 'Lesson 2'
-
+date: 2018-04-04
+priority: 2
 ---
 ## Summary
 
@@ -15,26 +14,13 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 * <a href="" target="_blank">Download the catalog-example.csv file with new products</a>
 * Word Excel or <a href="https://www.libreoffice.org/" target="_blank">LibreOffice(*free*)</a>
 
-## How to create new Catalog or use an existing one
-
-* Open locally Virto Commerce Platform(see <a href="" target="_blank">Lesson 1</a>)
-* There are 2 scenarios for adding new products: adding to a new catalog or to an existing one
-### Create a new catalog and product categories
-* Click on **More > Catalog**. If you want to create new catalog, click on **+Add** and choose the **Catalog**, add catalog name and language(optional), push on button **Create**
-* Click on the new catalog name. To create new category, click on **+Add** at **Categories & Items** tab and choose the **Category**, add category name and code(optional), push on button **Create**
-* Select the catalog and category names in which you want to add new products
-* You need to create search index - click on **Search index missing** and on **Build index** icon
-
-### Use an existing catalog and categories
-* Click on **More > Catalog**. Select the catalog and category names in which you want to add new products
-
-### Product default properties in Virto Commerce Platform
+## Product default properties in Virto Commerce Platform
 
 To create a new catalog file, you need to know which product properties you can use:
 * Name
 * Id
-* Sku
-* CategoryPath
+* Sku - required(number)
+* CategoryPath - required(name of category for new products)
 * CategoryId
 * MainProductId
 * PrimaryImage
@@ -71,7 +57,37 @@ To create a new catalog file, you need to know which product properties you can 
 * DownloadExpiration
 * HasUserAgreement
 
-## How to create Catalog Data in Excel format
-* To create file with products like catalog-example.csv you need to create new file in any of Word Excel or LibreOffice programm
-* In Excel just select the product properties you need from the list and fill in the product properties columns as in our document
-* In LibreOffice you need to create table with the number of columns equal to the number of properties of your products and fill it 
+## Create catalog data file in .csv format
+
+* To create file with products like downloaded **electronics-new-products-example.csv** you need to create new file in any of Word Excel or LibreOffice programm.
+* In Excel just select the product properties you need from the list and fill in the product properties columns as in our document.
+* In LibreOffice you need to create table with the number of columns equal to the number of properties of your products and fill it. For a delimiter, select a comma.
+* Save file in .csv format.
+
+## How to create new Catalog or use an existing one
+
+* Open locally Virto Commerce Platform(see how to deploy and open it in <a href="" target="_blank">Lesson 1</a>)
+* There are 2 scenarios for adding new products: adding to a new catalog or to an existing one.
+
+### Create a new category and subcategory
+* To create new category in **Electronics Theme** click on **More > Catalog > Electronics** > click on **+Add** > choose the **Category** > add category name **Laptops** and code(optional), push on button **Create**.
+* You need to create search index: click on **Search index missing** and on **Build index** icon, next - select **Tax type**. Save new category by click button **Save**.
+* Click on the **Laptops** in categories list. To create new subcategory, click on **+Add** > choose the **Category** > add category name **Asus-Laptops** and code(optional), push on button **Create**.
+* You need to create search index: click on **Search index missing** and on **Build index** icon, next - select **Tax type**. Save new subcategory by click button **Save**.
+* By click on **More > Catalog > Laptops > Asus-Laptops** you will see all created categories.
+
+### Use an existing catalog and categories
+* Click on **More > Catalog**. Select the catalog and category names in which you want to add new products.
+
+## Import and mapping your catalog data to Virto Commerce Platform
+
+* At the top of the **Asus-Laptops** category page click the **Import** icon > **VirtoCommerce CSV import** > select **Comma** in **Csv column delimiter** > click on image to upload **electronics-new-products-example.csv** file. Wait a minute...
+* After uploading your data, click on **Map column**. On this page you will see and edit how the properties of your products will be maped to the default properties defined in application, just so they will be saved to the database after you clicking buttons **Ok** and **Start Import**. Wait a minute...
+
+## Open new products in Virto Commerce Platform(*backend*)
+
+* Now you can see and edit all new products after clicking on **More > Catalog > Laptops > Asus-Laptops**
+
+## Open new products in Virto Commerce Storefront(*frontend*)
+
+* Open locally Virto Commerce Storefront(see how to deploy and open it in <a href="" target="_blank">Lesson 1</a>)
