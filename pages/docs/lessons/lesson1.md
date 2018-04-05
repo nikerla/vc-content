@@ -1,17 +1,17 @@
 ---
-title: Lesson 1 - How to deploy and and configure Virto Commerce Platform.
-description: Lesson 1 - How to deploy and and configure Virto Commerce Platform.
+title: Lesson 1 - How to deploy and and configure Virto Commerce.
+description: Lesson 1 - How to deploy and and configure Virto Commerce.
 layout: docs
 date: 2018-04-04
 priority: 1
 ---
 ## Summary
 
-Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Platform(backend) and Virto Commerce Storefront(frontend).
+Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Platform (backend) and Virto Commerce Storefront (frontend).
 
 ## Video
-* <a href="https://www.youtube.com/watch?v=oRL2jxv2Knc" target="_blank">Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Platform.</a>
-* <a href="https://www.youtube.com/watch?v=QuA1ATgzWwc" target="_blank">Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Storefront</a>
+* <a href="https://www.youtube.com/watch?v=oRL2jxv2Knc" target="_blank">Part 1. How to deploy and configure Virto Commerce Platform.</a>
+* <a href="https://www.youtube.com/watch?v=QuA1ATgzWwc" target="_blank">Part 2. How to deploy and configure Virto Commerce Storefront</a>
 
 
 ## Prerequisites
@@ -25,7 +25,7 @@ Install-WindowsFeature -name Web-Server -IncludeAllSubFeature
 * <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-sql-server-2017-rtm" target="_blank">Microsoft SQL Server 2008 or later with SQL Management Studio(free MS SQL Express would be enough)</a>
 * <a href="https://go.microsoft.com/fwlink/?LinkId=746572" target="_blank">Visual C++ Redistributable Packages for Visual Studio</a>
 
-## Initial configuration of VirtoCommerce Platform (*backend*).
+## Initial configuration of VirtoCommerce Platform (backend).
 
 Navigate to the <a href="https://github.com/VirtoCommerce/vc-platform/releases" rel="nofollow">Releases section of Virto Commerce Platform in GitHub.</a>
 
@@ -127,7 +127,7 @@ New-Item -ItemType directory -Path $folder -Force
 * Select the **Frontend Hmac** key
 * Click **Generate**, then **OK**, then **Save**.
 
-## Initial configuration of VirtoCommerce Storefront (*frontend*).
+## Initial configuration of VirtoCommerce Storefront (frontend).
 
 Navigate to the <a href="https://github.com/VirtoCommerce/vc-storefront/releases">Releases section of Virto Commerce Storefront in GitHub.</a>
 

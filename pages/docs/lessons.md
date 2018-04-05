@@ -1,6 +1,6 @@
 ---
-title: VirtoCommerce Lessons
-description: This lessons will show you basic of VirtoCommerce and will also take you through some advance concepts related to VirtoCommerce application development.
+title: Virto Commerce Lessons
+description: This lessons will show you basic of Virto Commerce and will also take you through some advance concepts related to VirtoCommerce application development.
 layout: docs
 date: 2018-04-04
 priority: 1
