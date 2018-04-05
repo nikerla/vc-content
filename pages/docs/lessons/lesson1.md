@@ -1,6 +1,6 @@
 ---
-title: Lesson 1
-description: Get start
+title: Lesson 1 - How to deploy and and configure Virto Commerce Platform.
+description: Lesson 1 - How to deploy and and configure Virto Commerce Platform.
 layout: docs
 date: 2018-04-04
 priority: 1
@@ -8,6 +8,11 @@ priority: 1
 ## Summary
 
 Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Platform(backend) and Virto Commerce Storefront(frontend).
+
+## Video
+* <a href="https://www.youtube.com/watch?v=oRL2jxv2Knc" target="_blank">Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Platform.</a>
+* <a href="https://www.youtube.com/watch?v=QuA1ATgzWwc" target="_blank">Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce-hosting" target="_blank">deploy</a> and configure precompiled Virto Commerce Storefront</a>
+
 
 ## Prerequisites
 
