@@ -1,6 +1,6 @@
 ---
-title: Lesson 1 - How to deploy and and configure Virto Commerce
-description: Lesson 1 - How to deploy and and configure Virto Commerce
+title: Lesson 1 - How to deploy and configure Virto Commerce
+description: Lesson 1 - How to deploy and configure Virto Commerce
 layout: docs
 date: 2018-04-04
 priority: 1
