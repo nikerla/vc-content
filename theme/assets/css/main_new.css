@@ -2835,7 +2835,7 @@ ul.breadcrumbs {
 
 .glosary .glosary-t,
 .glosary .glosary-sub-t {
-    background: #ffffff;
+    background: #eee;
     font-size: 20px;
     font-weight: bold;
     margin: 0 0 30px;
@@ -2844,7 +2844,6 @@ ul.breadcrumbs {
 }
 
 .glosary .glosary-sub-t {
-    background: #eee;
     font-size: 18px;
     font-weight: 600;
 }
