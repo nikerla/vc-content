@@ -34,12 +34,7 @@ tags :
             </div>
             <p class="glosary-date">Updated: March 30, 2018 | Virtocommerce | 0 Comments</p>
             <div class="glosary-article">
-                <div class="glosary-videos">
-                    <div class="list-item">
-                        <div class="video">
-                            <iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                    </div>
+                <div class="glosary-videos center">
                     <div class="list-item">
                         <div class="video">
                             <iframe src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
