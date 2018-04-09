@@ -48,23 +48,33 @@ tags :
                 </div>
             </div>
             <div class="glosary-article">
-                <div class="glosary-inner">
-                    <p>With the advancement of internet, information technologies, digital systems, and standards of their interaction, the new way of doing business has evolved. E-business is a unique form of doing business that is executed by implementing information technologies in the process of production, trading, and distribution of goods and services. It is becoming <a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}"> more and more popular</a> for companies to go online in all of the areas of business, including B2B commerce. When we mention B2B, the first thing that comes to mind is e-commerce systems – software and websites, which become tools for purchasing products and goods for businesses via the Internet.</p>
-                    <p>Nowadays, B2B e-commerce sites keep gaining popularity. Using business-to-business e-commerce sites (or b2b portals) is becoming more favorable for B2B e commerce companies that do not want to deal with expensive and complicated EDI (Electronic Data Interchange) data exchange systems. The most important thing for them is to connect with small suppliers. When using business to business e-commerce websites, small businesses have a chance to compete with the larger companies. B2B <a href="/glossary/ecommerce-platforms">platforms</a> are valued for their usability and include various solutions for the suppliers, as well as for the customers.</p>
-                    <p>There has been a drastic shift in the e-commerce from <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C (business to consumer)</a> to B2B. B2B e-commerce sites are more complex and contain way more features than B2C. In this article, we would like to present you the top B2B e commerce sites.</p>
+                <div class="col-w">
+                    <div class="col __col-70">
+                        <p class="text">
+                            With the advancement of internet, information technologies, digital systems, and standards of their interaction, the new way of doing business has evolved. E-business is a unique form of doing business that is executed by implementing information technologies in the process of production, trading, and distribution of goods and services. It is becoming <a href="{{ '/glossary/b2b-ecommerce-trends' | absolute_url }}"> more and more popular</a> for companies to go online in all of the areas of business, including B2B commerce. When we mention B2B, the first thing that comes to mind is e-commerce systems – software and websites, which become tools for purchasing products and goods for businesses via the Internet.
+                        </p>
+                        <p class="text">
+                            Nowadays, B2B e-commerce sites keep gaining popularity. Using business-to-business e-commerce sites (or b2b portals) is becoming more favorable for B2B e commerce companies that do not want to deal with expensive and complicated EDI (Electronic Data Interchange) data exchange systems. The most important thing for them is to connect with small suppliers. When using business to business e-commerce websites, small businesses have a chance to compete with the larger companies. B2B <a href="/glossary/ecommerce-platforms">platforms</a> are valued for their usability and include various solutions for the suppliers, as well as for the customers.
+                        </p>
+                        <p class="text">
+                            There has been a drastic shift in the e-commerce from <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C (business to consumer)</a> to B2B. B2B e-commerce sites are more complex and contain way more features than B2C. In this article, we would like to present you the top B2B e commerce sites.
+                        </p>
+                    </div>
+                    <div class="col __col-30">
+                        <div class="block" style="margin-left: 25px">
+                            <h3 class="section-title-h3">Top 5 B2B challenges and solutions</h3>
+                            <p class="text">
+                                <a href="/glossary/what-is-b2b-ecommerce">B2B ecommerce</a> has specific business model and process challenges which require customized solutions or special <a href="/b2b-ecommerce-platform">software platform</a>. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
+                            </p>
+                            <a href="/download-b2b-whitepaper">
+                                <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;" />
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <h2 class="glosary-sub-t">Top 5 B2B challenges and solutions</h2>
-            <div class="glosary-article">
-                <div class="glosary-inner">
-                    <p class="text">
-                        <a href="/glossary/what-is-b2b-ecommerce">B2B ecommerce</a> has specific business model and process challenges which require customized solutions or special <a href="/b2b-ecommerce-platform">software platform</a>. In this whitepaper we'll provide top 5 challenges that B2B ecommerce websites face and their best solutions.
-                    </p>
-                    <a href="/download-b2b-whitepaper">
-                        <img src="../assets/images/whitepaper-download.png" style="width:80px; height:80px; display: block; margin: 0 auto;" />
-                    </a>
-                </div>
-            </div>
+            {% include 'vc-b2b_b2c-banner' %}
+            <h2 class="glosary-sub-t">What is the focus of top B2B e commerce sites?</h2>
             <div class="glosary-article">
                 <figure style="text-align: center;">
                     <img itemprop="url contentUrl" alt="B2B e commerce companies and websites" src="assets/images/what-is-b2b-ecommerce.jpg"></img>
