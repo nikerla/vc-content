@@ -67,6 +67,86 @@ tags:
                 </ol>
                 <p>Considering that choosing a platform can be challenging and daunting, in this article, we wanted to review the top ecommerce platforms that will match your needs and will provide you with a perfect solution for your business.</p>
             </div>
+            <h2 class="glosary-sub-t">B2B Ecommerce Case Studies from Virto Commerce</h2>
+            <div class="glosary-article">
+                <ul class="list list-studios">
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/proffs.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail equipment</div>
+                                <div class="list-text">Objective: B2C/B2B Online Store</div>
+                                <div class="list-descr">
+                                    Providing maximum
+                                    scalability and
+                                    centralizationfor
+                                    expanding business
+                                    internationally.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="#" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/gc-logo.jpg" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">B2B Gifts</div>
+                                <div class="list-text">Objective: Platform</div>
+                                <div class="list-descr">
+                                    Consolidate various system using single
+                                    platform to manage gift certificates for largest companies in the world. Provides both B2C and B2B solutions.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="#" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/belysnings-design-logo.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail lighting</div>
+                                <div class="list-text">Objective: B2C Online Store</div>
+                                <div class="list-descr">
+                                    Create value through growth in profits by
+                                    expanding the existing stores.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="#" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/budget-blinds.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail blinds</div>
+                                <div class="list-text">Objective: B2C/B2B Online Store</div>
+                                <div class="list-descr">
+                                    Flexible solution with
+                                    maximum customization for the online window-treatment website.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="#" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
             <h2 class="glosary-sub-t">Shopify</h2>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Best Ecommerce Platforms - Shopify" src="assets/images/shopify1.jpg" />

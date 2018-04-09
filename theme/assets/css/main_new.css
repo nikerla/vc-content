@@ -2900,6 +2900,12 @@ ul.breadcrumbs {
 	margin: 25px -20px;
 }
 
+.glosary .glosary-videos.center
+{
+	-webkit-justify-content: center;
+			justify-content: center;
+}
+
 .glosary .glosary-videos .list-item
 {
 	box-sizing: border-box;
@@ -2986,4 +2992,127 @@ ul.breadcrumbs {
 		max-width: 100%;
 		width: 100%;
 	}
+}
+
+/* Case studios list */
+.list-studios
+{
+	margin: 0 -15px;
+
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+
+	-webkit-flex-wrap: wrap;
+			flex-wrap: wrap;
+}
+
+.list-studios .list-item
+{
+	box-sizing: border-box;
+	padding: 15px;
+	width: 25%;
+}
+
+@media (min-width: 768px) and (max-width: 1019px) {
+	.list-studios .list-item
+	{
+		width: 50%;
+	}
+}
+
+@media (max-width: 767px) {
+	.list-studios .list-item
+	{
+		width: 50%;
+	}
+}
+
+@media (max-width: 510px) {
+	.list-studios .list-item
+	{
+		width: 100%;
+	}
+}
+
+.list-studios .list-inner
+{
+	background: #fff;
+	box-shadow: 0 0 15px rgba(0,0,0,.15);
+	height: 100%;
+
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+
+	-webkit-flex-direction: column;
+			flex-direction: column;
+}
+
+.list-studios .list-head
+{
+	border-bottom: 1px solid #eee;
+	height: 100px;
+	margin: 0 20px;
+
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+
+	-webkit-align-items: center;
+			align-items: center;
+
+	-webkit-justify-content: center;
+			justify-content: center;
+}
+
+.list-studios .list-pic
+{
+	max-height: 50px;
+}
+
+.list-studios .list-body
+{
+	padding: 25px 35px;
+	text-align: center;
+
+	-webkit-flex-grow: 1;
+			flex-grow: 1;
+}
+
+.list-studios .list-t
+{
+	color: #f89406;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.list-studios .list-text
+{
+	color: #939393;
+	font-size: 13px;
+}
+
+.list-studios .list-descr
+{
+	font-size: 16px;
+	margin: 20px 0 0;
+}
+
+.list-studios .list-foot
+{
+	padding: 0 20px 25px;
+}
+
+.list-studios .list-foot .button
+{
+	padding: 0;
+	width: 100%;
 }
