@@ -2278,7 +2278,6 @@ a
 .vc-sections-container .product-descr
 {
 	background: #eee;
-	margin: 0 0 80px;
 	padding: 0;
 }
 
@@ -2302,6 +2301,13 @@ a
 	}
 }
 
+@media (max-width: 767px) {
+	.vc-sections-container .section-text
+	{
+		margin: 0 0 20px;
+	}
+}
+
 .vc-sections-container .section-img
 {
 	min-width: 300px;
@@ -2311,6 +2317,20 @@ a
 .vc-sections-container .section-img ~ .section-text
 {
 	margin: 0 0 0 40px;
+}
+
+@media (min-width: 768px) and (max-width: 1019px) {
+	.vc-sections-container .section-img ~ .section-text
+	{
+		margin: 0 0 20px;
+	}
+}
+
+@media (max-width: 767px) {
+	.vc-sections-container .section-img ~ .section-text
+	{
+		margin: 0 0 20px;
+	}
 }
 
 .vc-sections-container .section-cnt .section-t
