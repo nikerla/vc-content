@@ -45,7 +45,11 @@ tags :
                     <figcaption>Source: Statista</figcaption>
                 </figure>
                 <p>As we can see in the graph below, we can expect further expansion of the B2B businesses on digital markets, as of 2014, only 22% of American business-to-business companies are currently selling their products and services online.</p>
-                {% include 'vc-b2b_b2c-banner' %}
+                <div class="glosary-article">
+                    <div class="glosary-videos center">
+                        {% include 'vc-b2b_b2c-banner' %}
+                    </div>
+                </div>
                 <figure style="text-align: center;">
                     <img alt="What is B2B e commerce? B2B e-commerce examples" src="assets/images/what-is-b2b-2.jpg" />
                     <figcaption>Source: Statista</figcaption>
@@ -53,6 +57,91 @@ tags :
                 <p>It is a lot of revenue for almost a quarter of U.S. B2B-businesses. We can understand why the rapid growth is occurring and explain the rush about starting a digital B2B ecommerce business.</p>
                 <p>In order to understand what business to business e commerce is in reality, imagine a complex network of cross-company transactions and supply chains that stand behind the range of goods in a supermarket. Every purchase is supported by B2B sales.</p>
                 <p>B2B (business to business) is focused on sales of products, services, or information to other businesses, and stands in contrast to <a href="{{ '/glossary/what-is-b2c-ecommerce' | absolute_url }}">B2C (business to consumer)</a> and B2G (business to government) models. All these marketing principles involve the same basics, but B2B relies mostly on valuable and robust business relationships to guarantee long-term involved customers. Among the success factors of the B2B leaders are effective account management team, good process optimization, and benefits from technological innovations.</p>
+            </div>
+            <h2 class="glosary-sub-t">B2B Ecommerce Case Studies from Virto Commerce</h2>
+            <div class="glosary-article">
+                <ul class="list list-studios">
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/proffs.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail equipment</div>
+                                <div class="list-text">Objective: B2C/B2B Online Store</div>
+                                <div class="list-descr">
+                                    Providing maximum
+                                    scalability and
+                                    centralizationfor
+                                    expanding business
+                                    internationally.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="../assets/files/case-study-proffs.pdf" target="_blank" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/gc-logo.jpg" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">B2B Gifts</div>
+                                <div class="list-text">Objective: Platform</div>
+                                <div class="list-descr">
+                                    Consolidate various system using single
+                                    platform to manage gift certificates for largest companies in the world. Provides both B2C and B2B solutions.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="../assets/files/gc-case-study.pdf" target="_blank" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/belysnings-design-logo.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail lighting</div>
+                                <div class="list-text">Objective: B2C Online Store</div>
+                                <div class="list-descr">
+                                    Create value through growth in profits by
+                                    expanding the existing stores.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="../assets/files/sd-case-study.pdf" target="_blank" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/budget-blinds.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail blinds</div>
+                                <div class="list-text">Objective: B2C/B2B Online Store</div>
+                                <div class="list-descr">
+                                    Flexible solution with
+                                    maximum customization for the online window-treatment website.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="../assets/files/case-study-budget-blinds.pdf" target="_blank" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    <a class="button striped" href="/case-studies">Read More Case Studies</a>
+                </div>
             </div>
             <h2 class="glosary-sub-t">What is B2B e commerce company?</h2>
             <div class="glosary-article">
@@ -79,13 +168,7 @@ tags :
                 </ol>
             </div>
             <div class="glosary-article">
-                <div class="glosary-videos">
-                    <div class="list-item">
-                        <div class="video">
-                            <iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                        <a class="button fill" href="/contact-us">Request Information & Demo</a>
-                    </div>
+                <div class="glosary-videos center">
                     <div class="list-item">
                         <div class="video">
                             <iframe src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
@@ -94,7 +177,11 @@ tags :
                     </div>
                 </div>
             </div>
-            {% include 'vc-b2b_b2c-banner' %}
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
+            </div>
             <h2 class="glosary-sub-t">What is B2B e-commerce software?</h2>
             <div class="glosary-article">
                 <div class="glosary-inner">
@@ -188,7 +275,11 @@ tags :
                     </div>
                 </div>
             </div>
-            {% include 'vc-b2b_b2c-banner' %}
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
+            </div>
             <h2 class="glosary-sub-t">What are b2b e commerce KPIs?</h2>
             <div class="glosary-article">
                 <div class="glosary-inner">

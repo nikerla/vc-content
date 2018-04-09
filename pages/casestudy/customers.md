@@ -52,7 +52,7 @@ permalink: customers
                     <div class="list-name">
                         <div class="name">Volvo Cars</div>
                     </div>
-                </diva>
+                </div>
             </li>  
             <li class="list-item">
                 <div class="list-link">
@@ -62,7 +62,7 @@ permalink: customers
                     <div class="list-name">
                         <div class="name">Ingram Micro</div>
                     </div>
-                </diva>
+                </div>
             </li>                 
             <li class="list-item">
                 <a class="list-link" href="http://travelcommercesolutions.com" target="_blank" rel="nofollow">
@@ -122,7 +122,7 @@ permalink: customers
                     <div class="list-name">
                         <div class="name">Mitsubishi - Caterpillar</div>
                     </div>
-                </diva>
+                </div>
             </li> 
             <li class="list-item">
                 <div class="list-link">
@@ -132,7 +132,7 @@ permalink: customers
                     <div class="list-name">
                         <div class="name">BDO</div>
                     </div>
-                </diva>
+                </div>
             </li>            
             <li class="list-item">
                 <a class="list-link link-case" href="/assets/files/kupinatao-case-study.pdf">
@@ -162,7 +162,7 @@ permalink: customers
                     <div class="list-name">
                         <div class="name">Comcast</div>
                     </div>
-                </diva>
+                </div>
             </li>              
             <li class="list-item">
                 <div class="list-link">
@@ -172,7 +172,7 @@ permalink: customers
                     <div class="list-name">
                         <div class="name">Chevron</div>
                     </div>
-                </diva>
+                </div>
             </li>              
             <li class="list-item">
                 <div class="list-link">
@@ -182,7 +182,7 @@ permalink: customers
                     <div class="list-name">
                         <div class="name">HBO</div>
                     </div>
-                </diva>
+                </div>
             </li>               
             <li class="list-item">
                 <div class="list-link">
@@ -192,7 +192,7 @@ permalink: customers
                     <div class="list-name">
                         <div class="name">Helvetia</div>
                     </div>
-                </diva>
+                </div>
             </li>               
             <li class="list-item">
                 <a class="list-link" href="http://Kalla.com" target="_blank" rel="nofollow">

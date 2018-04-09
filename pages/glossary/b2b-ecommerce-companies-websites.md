@@ -68,7 +68,96 @@ tags :
                     </div>
                 </div>
             </div>
-            {% include 'vc-b2b_b2c-banner' %}
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
+            </div>
+            <h2 class="glosary-sub-t">B2B Ecommerce Case Studies from Virto Commerce</h2>
+            <div class="glosary-article">
+                <ul class="list list-studios">
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/proffs.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail equipment</div>
+                                <div class="list-text">Objective: B2C/B2B Online Store</div>
+                                <div class="list-descr">
+                                    Providing maximum
+                                    scalability and
+                                    centralizationfor
+                                    expanding business
+                                    internationally.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="../assets/files/case-study-proffs.pdf" target="_blank" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/gc-logo.jpg" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">B2B Gifts</div>
+                                <div class="list-text">Objective: Platform</div>
+                                <div class="list-descr">
+                                    Consolidate various system using single
+                                    platform to manage gift certificates for largest companies in the world. Provides both B2C and B2B solutions.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="../assets/files/gc-case-study.pdf" target="_blank" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/belysnings-design-logo.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail lighting</div>
+                                <div class="list-text">Objective: B2C Online Store</div>
+                                <div class="list-descr">
+                                    Create value through growth in profits by
+                                    expanding the existing stores.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="../assets/files/sd-case-study.pdf" target="_blank" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-head">
+                                <img src="assets/images/casestudies/budget-blinds.png" alt="" class="list-pic">
+                            </div>
+                            <div class="list-body">
+                                <div class="list-t">Retail blinds</div>
+                                <div class="list-text">Objective: B2C/B2B Online Store</div>
+                                <div class="list-descr">
+                                    Flexible solution with
+                                    maximum customization for the online window-treatment website.
+                                </div>
+                            </div>
+                            <div class="list-foot">
+                                <a href="../assets/files/case-study-budget-blinds.pdf" target="_blank" class="button fill">Read case study</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    <a class="button striped" href="/case-studies">Read More Case Studies</a>
+                </div>
+            </div>
             <h2 class="glosary-sub-t">What is the focus of top B2B e commerce sites?</h2>
             <div class="glosary-article">
                 <figure style="text-align: center;">
@@ -95,7 +184,7 @@ tags :
                     <p>The e-commerce company based in China and launched in 1999. It is currently the world’s largest global e-commerce platform for small businesses. More than 18 million buyers and sellers from around 240 countries and regions use this platform. It showcases a great variety of products in more than 40 industry categories ranging from raw materials to finished goods. Alibaba Group does not sell products and services directly. Instead, it offers a platform that connects B2B sellers and buyers from around the world. The huge benefit of Alibaba is that it is free to join, as it makes most of its profits via commissions and advertising. Being a seller, you can display up to 50 products/services with no fee, and with the Gold membership, you get a mini- website to display the unlimited amount of goods or services. As a buyer, the only thing that you need to do is “Request a Quote” and let sellers come to you. We consider Alibaba to be the go-to English-language platform for cross-border trade and for expanding to overseas markets.</p>
                 </div>
             </div>
-            <h2 class="glosary-sub-t">Made-in-China&#046;com</h2>
+            <h2 class="glosary-sub-t"><span>Made-in-China</span>.com</h2>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Made-in-China B2B e commerce company" src="assets/images/madeinChina.png"></img>
                 <a href="https://www.opencart.com/" rel="nofollow">The platform</a> that is highly valued for its top-notch security protocols. It is also reliable in providing sufficient data about your website that will help in content marketing as well as in SEO optimization. The platform is open to discussion and has its own forums where people help each other in the laborious process of setting up a web store.
@@ -107,7 +196,9 @@ tags :
                 <p>The history of ThomasNet dates back to over a century ago, and still, nowadays, it connects manufacturing and industrial buyers and sellers. It is the leading online platform for B2B vendor search and product sourcing and is visited by more than 1.9 million customers each month. ThomasNet attracts a lot of engineers, facility managers and purchasing agents from around the world. The platform is entirely free. It makes it simple to find a supplier thanks to its semantic product search technology with informative company profiles. This marketplace promotes more than 650,000 distributors, manufacturers and service companies within 67,000 industrial categories. The only downside of ThomasNet is that unlike Alibaba it does not allow a buyer to publish a general “Request for Quote.”</p>
             </div>
             <div class="glosary-article">
-                {% include 'vc-b2b_b2c-banner' %}
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
             </div>
             <h2 class="glosary-sub-t">Trade Key</h2>
             <div class="glosary-article">
@@ -124,13 +215,15 @@ tags :
                 <img class="glosary-pic" alt="Grainger B2B e commerce company" src="assets/images/Grainer.png" />
                 <p>Just like MSC Industrial Supply Co., Grainger is one of the market’s leading B2B industrial suppliers. A mobile app makes purchasing easy and convenient for the customers by reducing the time for re-orders of the same product. There is an option to just scan the barcode of the product or get help from the customer service team. The great filtering options in the search feed allow, for example, to only see the items you have previously purchased. Another nice feature is estimated product arrival times.</p>
             </div>
-            <h2 class="glosary-sub-t">Quill&#046;com</h2>
+            <h2 class="glosary-sub-t"><span>Quill</span>.com</h2>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Quill B2B e commerce site" src="assets/images/quill.png"></img>
                 <p>Being owned by Staples, Quill.com is the largest office supplier, which is purposefully created for B2B e-commerce. The company’s website is prominent for its user-friendly interface, a wide variety of educational and office supplies, offering many great customer-benefit coupons, special deals, and rewards. Businesses of all sizes value the site for the variety of its general office supplies, electronics, furniture, cleaning supplies and break room products. The benefits of using Quill.com include a balanced marketing package that includes logo design, SEO, and social coupon services. Quill’s customer service is quite decent, offering to e-mail, call or chat with an advisor in case you need any help. The great thing you can do when shopping on this website is subscribe to their newsletter to receive exclusive e-mail coupons and deals, offering a huge variety of bulk-buy discounts for businesses of all sizes.</p>
             </div>
             <div class="glosary-article">
-                {% include 'vc-b2b_b2c-banner' %}
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
             </div>
             <h2 class="glosary-sub-t">Ferguson</h2>
             <div class="glosary-article">
@@ -139,7 +232,7 @@ tags :
                     Ferguson is one of the few websites that employ all of the best practices highlighted earlier in the article. This company definitely knows how to do their research when it comes to attracting customers to its brand. The difference between Ferguson and other B2B e commerce websites is noticeable right from the home page. The company has applied all the best practices of modern web-design to their website - it looks professional and is focused on its great and unique products. They are currently presenting the biggest share of marketing in their niche, and their popularity seems to be growing from month to month. Ferguson can be credited for using bright and fresh images and detailed descriptions. The merchandising team has put a lot of effort into making sure you can find the right product that perfectly fits your needs.
                 </p>
             </div>
-            <h2 class="glosary-sub-t">Medline&#046;com</h2>
+            <h2 class="glosary-sub-t"><span>Medline</span>.com</h2>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Medline B2B ecommerce website" src="assets/images/Medline1.png" />
                 <p>

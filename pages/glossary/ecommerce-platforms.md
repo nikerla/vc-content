@@ -40,7 +40,11 @@ tags:
                     </span>
                     Choosing the best online store platform can be overwhelming taking in the account a number of options that have appeared in the recent years. Just like purchasing any product, whether it is a house, a car or a cell-phone, each particular business has to do its research and correctly determine what it is looking for, remember to consider all the tradeoffs among the available choices. In the past couple years a few of the best ecommerce platforms on the market have been gaining popularity among small businesses thanks to their ease of use, usability, and availability of a large developer community. With some of these top ecommerce platforms, their on-staff web-developers may provide professional services to the platform client; and you will be most likely to receive good support in the long run from a digital commerce platform.
                 </div>
-                {% include 'vc-magento-banner' with current_url : 'glossary/best-ecommerce-platforms' %}
+            </div>
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
             </div>
             <h2 class="glosary-sub-t">Best ecommerce platform</h2>
             <div class="glosary-article">
@@ -87,7 +91,7 @@ tags:
                                 </div>
                             </div>
                             <div class="list-foot">
-                                <a href="#" class="button fill">Read case study</a>
+                                <a href="../assets/files/case-study-proffs.pdf" target="_blank" class="button fill">Read case study</a>
                             </div>
                         </div>
                     </li>
@@ -105,7 +109,7 @@ tags:
                                 </div>
                             </div>
                             <div class="list-foot">
-                                <a href="#" class="button fill">Read case study</a>
+                                <a href="../assets/files/gc-case-study.pdf" target="_blank" class="button fill">Read case study</a>
                             </div>
                         </div>
                     </li>
@@ -123,7 +127,7 @@ tags:
                                 </div>
                             </div>
                             <div class="list-foot">
-                                <a href="#" class="button fill">Read case study</a>
+                                <a href="../assets/files/sd-case-study.pdf" target="_blank" class="button fill">Read case study</a>
                             </div>
                         </div>
                     </li>
@@ -141,11 +145,16 @@ tags:
                                 </div>
                             </div>
                             <div class="list-foot">
-                                <a href="#" class="button fill">Read case study</a>
+                                <a href="../assets/files/case-study-budget-blinds.pdf" target="_blank" class="button fill">Read case study</a>
                             </div>
                         </div>
                     </li>
                 </ul>
+            </div>
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    <a class="button striped" href="/case-studies">Read More Case Studies</a>
+                </div>
             </div>
             <h2 class="glosary-sub-t">Shopify</h2>
             <div class="glosary-article">
@@ -264,7 +273,11 @@ tags:
                     <a href="https://www.prestashop.com/en" rel="nofollow">A service</a> that allows you to have an advanced e-commerce store with the ability to have it hosted via the platform itself. It is free just like Wordpress.com that lets you use both the same tools in the cloud or on your own. Despite the choice, it stays open. Starting with basic features, you can add popovers for customers to see your product options and browse through them quickly.
                     <p>Also included, is the filtered search option along with e-mail marketing and detailed analytics about the visiting rates of every single page of your store. Another great feature of the platform is that you can run multiple stores at ones by only using one account to manage them. You can also buy additional themes and templates along with customer support services to help you get the largest conversion rates possible. Pricing varies according to the add-ons installed on the platform.</p>
                 </div>
-                {% include 'vc-magento-banner' with current_url : 'glossary/best-ecommerce-platforms' %}
+            </div>
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
             </div>
             <h2 class="glosary-sub-t">Foxycart</h2>
             <div class="glosary-article">
@@ -281,18 +294,14 @@ tags:
             <h2 class="glosary-sub-t">Digital commerce platform for your business - Conslusions</h2>
             <div class="glosary-article">
                 <p>There is no single “best platform for ecommerce website” and the choice of the best ecommerce platform will always be upon you. None of the e-commerce platforms offer a “one size fits all” solution, and it’s up to you to consider different options depending on your solution. To choose the best e commerce platform you need to define the solution features and configuration that you need in advance. Test the ecommerce platforms with the necessary features using trial versions, compare support and documentation during the trial period – this will give you a better understanding of the customer service.</p>
-                <div class="glosary-videos">
-                    <div class="list-item">
-                        <div class="video">
-                            <iframe src="https://www.youtube.com/embed/QpRG-HOlrbc?ecver=1" frameborder="0" allowfullscreen></iframe>
+                <div class="glosary-article">
+                    <div class="glosary-videos center">
+                        <div class="list-item">
+                            <div class="video">
+                                <iframe src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            <a class="button fill" href="/migration-whitepaper">Download Migration Whitepaper</a>
                         </div>
-                        <a class="button fill" href="/contact-us">Request Information & Demo</a>
-                    </div>
-                    <div class="list-item">
-                        <div class="video">
-                            <iframe src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                        <a class="button fill" href="/migration-whitepaper">Download Migration Whitepaper</a>
                     </div>
                 </div>
             </div>
