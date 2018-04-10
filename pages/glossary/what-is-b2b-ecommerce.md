@@ -173,7 +173,7 @@ tags :
                         <div class="video">
                             <iframe src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" frameborder="0" allowfullscreen></iframe>
                         </div>
-                        <a class="button fill" href="/migration-whitepaper">Download Migration Whitepaper</a>
+                        <a class="button fill" href="/migration-whitepaper">Download B2B Whitepaper</a>
                     </div>
                 </div>
             </div>
