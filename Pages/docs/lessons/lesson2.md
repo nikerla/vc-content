@@ -11,8 +11,8 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 
 ## Prerequisites
 
-* <a href="" target="_blank">Download the **electronics-new-products-example.csv** file with new products</a>
-* Word Excel or <a href="https://www.libreoffice.org/" target="_blank">LibreOffice(*free*)</a>
+* Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/electronics-new-products-example.csv" target="_blank">electronics-new-products-example.csv</a> file with new products.
+* Word Excel or <a href="https://www.libreoffice.org/" target="_blank">LibreOffice(*free*)</a>.
 
 ## Create catalog data file in .csv format
 
@@ -23,7 +23,7 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 
 ## How to create new Catalog or use an existing one
 
-* Open locally Virto Commerce Platform(see how to deploy and open it in <a href="" target="_blank">Lesson 1</a>)
+* Open locally Virto Commerce Platform(see how to deploy and open it in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>)
 * There are 2 scenarios for adding new products: adding to a new catalog or to an existing one.
 
 ### Create a new category and subcategory
@@ -58,7 +58,7 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 
 ## Open new products in Virto Commerce Storefront(*frontend*)
 
-* Open locally Virto Commerce Storefront(see how to deploy and open it in <a href="" target="_blank">Lesson 1</a>).
+* Open locally Virto Commerce Storefront(see how to deploy and open it in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>).
 * Now you can see new menu item **Laptops**, new subitem **Asus Laptops** and all new products in Virto Commerce Storefront(*frontend*).
 
 ## Product default properties in Virto Commerce Platform(*backend*)
@@ -67,9 +67,9 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 
 <table> 
   <th> 
-     <td>*Property Name*</td 
-     <td>*Data type*</td> 
-     <td>*Example*</td> 
+     <td><b>Property Name</b></td> 
+     <td><b>Data Type</b></td> 
+     <td><b>Example</b></td> 
   </th> 
   <tr> 
      <td>Name(required)</td> 
