@@ -66,11 +66,11 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 * To create a new catalog file, you need to know which defined product properties you can use:
 
 <table> 
-  <th> 
-     <td><b>Property Name</b></td> 
-     <td><b>Data Type</b></td> 
-     <td><b>Example</b></td> 
-  </th> 
+  <tr> 
+     <th><b>Property Name</b></th> 
+     <th><b>Data Type</b></th> 
+     <th><b>Example</b></th> 
+  </tr> 
   <tr> 
      <td>Name(required)</td> 
      <td>text</td> 
