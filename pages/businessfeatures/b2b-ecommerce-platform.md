@@ -12,8 +12,25 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
     <meta itemprop="author" content="Virtocommerce">
     <meta itemprop="datePublished" content="2017-09-06">
     <meta itemprop="dateModified" content="2018-02-22">
+    <section class="enterprise" data-name="section">
+        <div class="section-inner responsive">
+            <div itemprop="mainEntityOfPage">
+                <h1 itemprop="headline" class="section-t">B2B Ecommerce Platform</h1>
+                <h2 class="section-descr">The best agile B2B e-commerce solution</h2>
+            </div>
+            <div class="mac">
+                <div class="inner">
+                    <iframe id="video" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" allowfullscreen="" frameborder="0"></iframe>
+                </div>
+            </div>
+            <div class="section-actions">
+                <a href="/try-now" class="button white fill">Request demo & trial</a>
+                <a href="/features/for-business-professionals" class="button white">Download whitepaper</a>
+            </div>
+        </div>
+    </section>
     <div itemprop="articleBody" class="vc-sections-container">
-        <section class="ecommerce" data-name="section">
+        <!-- <section class="ecommerce" data-name="section">
             <div class="section-inner responsive">
                 <div class="cols">
                     <div itemprop="mainEntityOfPage" class="col">
@@ -21,7 +38,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                         <div class="section-descr">The best agile B2B e-commerce solution</div>
                         <div class="section-actions">
                             <a href="/try-now" class="button white fill">Request demo & trial</a>
-                            <a href="/download-b2b-whitepaper" class="button white">Download whitepaper</a>
+                            <a href="/features/for-business-professionals" class="button white">Download whitepaper</a>
                         </div>
                     </div>
                     <div class="col">
@@ -33,7 +50,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         {% include 'micro-mark-publisher' %}
         {% include 'micro-mark-rating', bestRating: 5, ratingValue: 4.8, ratingCount: 1784 %}
         <section class="costumers" data-name="section">
