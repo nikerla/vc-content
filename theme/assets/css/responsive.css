@@ -2653,7 +2653,7 @@
         width: 50%;
     }
 
-    .enterprise
+    [data-name="section"].enterprise
     {
         height: auto;
         padding: 20px 0;
