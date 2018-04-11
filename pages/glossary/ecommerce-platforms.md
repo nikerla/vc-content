@@ -169,7 +169,11 @@ tags:
                     <p>The good thing about this platform is a vast variety of how-tos, advice, and letters about running a successful store. It doesn’t seem very well-organized, but the information from the BigCommerce University will help you to set up and promote your website. Just like Shopify, it provides a hassle-free setup and security with intuitive features and an all-in-one solution for your website.</p>
                     <p>An important thing to consider with this platform is pricing. For a smaller online store, it can get too much very fast. There is a whole number of fees, like monthly fees, credit card fees, platform transaction fees and add-on fees that could drain your budget really quickly. Another one is customization. While having a great variety of built-in options, it lacks add-ons and themes for your website as well as good inventory management. Nevertheless, it’s still commonly named among the top ecommerce platforms.</p>
                 </div>
-                {% include 'vc-magento-banner' with current_url : 'glossary/best-ecommerce-platforms' %}
+            </div>
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
             </div>
             <h2 class="glosary-sub-t">Woocommerce</h2>
             <div class="glosary-article">
@@ -198,7 +202,11 @@ tags:
                     <p>While having useful apps and add-ons, 3dcart still lacks the variety of them unlike its competitors Shopify or BigCommerce.</p>
                     <p>The process of making a website is straightforward and intuitive, offering some tutorials for you along the process. The support is smooth and reliable, but without any interesting features that other companies don’t have. 3dcart also offers a big variety of responsive templates and a great set of tools for marketing and inventory.</p>
                 </div>
-                {% include 'vc-magento-banner' with current_url : 'glossary/best-ecommerce-platforms' %}
+            </div>
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
             </div>
             <h2 class="glosary-sub-t">Gumroad</h2>
             <div class="glosary-article">
