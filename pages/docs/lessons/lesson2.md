@@ -1,4 +1,4 @@
----
+﻿---
 title: Lesson 2
 description: Import data
 layout: docs
@@ -21,17 +21,27 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 * In LibreOffice you need to create table with the number of columns equal to the number of properties of your products and fill it. For a delimiter, select a comma.
 * Save file in .csv format.
 
+![Сsv example](../../assets/images/docs/csv-example.png "Сsv example")
+
 ## How to create new Catalog or use an existing one
 
 * Open locally Virto Commerce Platform(see how to deploy and open it in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>)
 * There are 2 scenarios for adding new products: adding to a new catalog or to an existing one.
 
-### Create a new category and subcategory
+### Create new category and subcategory
 * To create new category in **Electronics Theme** click on **More > Catalog > Electronics** > click on **+Add** > choose the **Category** > add category name **Laptops** and code(optional), push on button **Create**.
+
+![Create new category](../../assets/images/docs/new-category.png "Create new category")
+
+![New category details](../../assets/images/docs/new-category-details.png "New category details")
+
 * You need to create search index: click on **Search index missing** and on **Build index** icon, next - select **Tax type**. Save new category by click button **Save**.
+
+![New category index](../../assets/images/docs/new-category-index.png "New category index")
+
 * Click on the **Laptops** in categories list. To create new subcategory, click on **+Add** > choose the **Category** > add category name **Asus-Laptops** and code(optional), push on button **Create**.
 * You need to create search index: click on **Search index missing** and on **Build index** icon, next - select **Tax type**. Save new subcategory by click button **Save**.
-* By click on **More > Catalog > Laptops > Asus-Laptops** you will see all created categories.
+* By click on **More > Catalog > Electronics > Laptops > Asus-Laptops** you will see all created categories.
 
 ### Use an existing catalog and categories
 * Click on **More > Catalog**. Select the catalog and category names in which you want to add new products.
@@ -39,27 +49,49 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 ## Import and mapping your catalog data to Virto Commerce Platform(*backend*)
 
 * At the top of the **Asus-Laptops** category page click the **Import** icon > **VirtoCommerce CSV import** > select **Comma** in **Csv column delimiter** > click on image to upload **electronics-new-products-example.csv** file. Wait a minute...
+
+![Сsv import](../../assets/images/docs/csv-import.png "Сsv import")
+
 * After uploading your data, click on **Map column**. On this page you will see and edit how the properties of your products will be maped to the default properties defined in application, just so they will be saved to the database after you clicking buttons **Ok** and **Start Import**. Wait a minute...
+
+![Сsv import mapping](../../assets/images/docs/csv-import-mapping.png "Сsv import mapping")
+
+![Сsv import mapping done](../../assets/images/docs/csv-import-mapping-done.png "Сsv import mapping done")
 
 ## Open new products in Virto Commerce Platform(*backend*)
 
-* Now you can see and edit all new products after clicking on **More > Catalog > Laptops > Asus-Laptops**
+* Now you can see and edit all new products after clicking on **More > Catalog > Electronics > Laptops > Asus-Laptops**
+
+![Сsv import result](../../assets/images/docs/csv-import-result.png "Сsv import result")
 
 ## Creating a new menu item in Virto Commerce Storefront(*frontend*)
 
-* To add new category to menu in Virto Commerce Storefront(*frontend*) open Virto Commerce Platform(*backend*), click on **More > Content > Link list in Electronics > en-US main menu > icon + Add link** and add Link Title - **Laptops**, URL - **~/laptops**, Links to - **Category**, Linked object **Laptops**, save changes.
-* To add new subcategory to menu in Virto Commerce Storefront(*frontend*) open Virto Commerce Platform(*backend*), click on **More > Content > Link list in Electronics > icon + Add** and add Name - **Laptops**, Language - **en-US**, Links to - **Category**, Linked object **Laptops** and click on button **Create**.
-* To add new link for subcategory **Asus Laptops** to menu in Virto Commerce Storefront(*frontend*) open Virto Commerce Platform(*backend*), click on **More > Content > Link list in Electronics > en-US Laptops > icon + Add link** and add Name - **Laptops**, Language - **en-US**, Link Title - **Asus Laptops**, URL - **~/asus-laptops**, save changes.
+* To add new category to menu in Virto Commerce Storefront(*frontend*) open Virto Commerce Platform(*backend*), click on **More > Content >** Link list in **Electronics > en-US main menu >** icon **+ Add link** and add Link Title - **Laptops**, URL - **~/laptops**, Links to - **Category**, Linked object - **Laptops**: click on button **Select > Electronics**, select **Laptops** via check box and click on icon **+ Pick selected**, save changes.
+
+![New category link](../../assets/images/docs/new-category-link.png "New category link")
+
+![Pick selected category](../../assets/images/docs/pick-selected-category.png "Pick selected category")
+
+* To add new link for subcategory **Asus Laptops** to menu in Virto Commerce Storefront(*frontend*) open Virto Commerce Platform(*backend*), click on **More > Content >** Link list in **Electronics >** icon **+ Add** >** icon **+ Add link**. Add Name - **Asus-Laptops**, Language - **en-US**, Link Title - **Asus Laptops**, URL - **~/asus-laptops**, push on button **Create**.
+
+![New subcategory link](../../assets/images/docs/new-subcategory-link.png "New subcategory link")
 
 ## Build search indexes and reset cache
 
-* You need to build search indexes for new categories and products - open Virto Commerce Platform(*backend*), go to **More > Search index** > select all document types via check boxes > click on icon Build index**.
-* You need to reset cache - open Virto Commerce Platform(*backend*), go to **More > Stores > Electronics > icon Reset cache on Store details**, save changes.
+* You need to build search indexes for new categories and products - open Virto Commerce Platform(*backend*), go to **More > Search index >** select all document types via check boxes **>** click on icon **Build index**, in pop-up window push on button **Build**.
+
+![Build search indexes](../../assets/images/docs/build-search-indexes.png "Build search indexes")
+
+* You need to reset cache - open Virto Commerce Platform(*backend*), go to **More > Stores > Electronics >** icon **Reset cache** on **Store details** page, push on button **Ok**.
+
+![Reset cache](../../assets/images/docs/reset-cache.png "Reset cache")
 
 ## Open new products in Virto Commerce Storefront(*frontend*)
 
 * Open locally Virto Commerce Storefront(see how to deploy and open it in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>).
 * Now you can see new menu item **Laptops**, new subitem **Asus Laptops** and all new products in Virto Commerce Storefront(*frontend*).
+
+![Laptops on storefront](../../assets/images/docs/laptops-on-storefront.png "Laptops on storefront")
 
 ## Product default properties in Virto Commerce Platform(*backend*)
 
@@ -107,4 +139,12 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 | DownloadExpiration                             | date            | 2018-04-05 21:47                                                          |
 | HasUserAgreement                               | number (0 or 1) | 1                                                                         |
 
-* To create your custom property of product you need to define it: in Virto Commerce Platform(*backend*) go to needed category > click on it's name by right mouse button and select **Manage** > **Properties** > **+ Add property**. Add new property name, 2 Display names - in english and deutsch, enable Multi language switch, if the property can have multiple value - enable mulivalue switch, select in Applies to **Product** and choose Value Type. If you need, set up Validation rules and Attributes. Click on **Save** at Manage property and **Ok buttons at Properties list of your category. Now you can add this property to .csv file for all products of this category. 
+* To create your custom property of product you need to define it: in Virto Commerce Platform(*backend*) go to needed category > click on it's name by right mouse button and select **Manage** > **Properties** > **+ Add property**. Add new property name, 2 Display names - in english and deutsch, enable Multi language switch, if the property can have multiple value - enable mulivalue switch, select in Applies to **Product** and choose Value Type. If you need, set up Validation rules and Attributes. Click on **Save** at Manage property and **Ok buttons at Properties list of your category.
+
+![Custom property add](../../assets/images/docs/custom-property-add.png "Custom property add")
+
+![Custom property details](../../assets/images/docs/custom-property-details.png "Custom property details")
+
+![Custom properties list](../../assets/images/docs/custom-properties-list.png "Custom properties list")
+
+* Now you can add this property to .csv file for all products of this category.
