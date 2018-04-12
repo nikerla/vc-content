@@ -1,6 +1,6 @@
-﻿---
-title: Lesson 2
-description: Import data
+---
+title: Lesson 2 - How to import new products into Virto Commerce catalog
+description: Lesson 2 - How to import new products into Virto Commerce catalog
 layout: docs
 date: 2018-04-04
 priority: 2
