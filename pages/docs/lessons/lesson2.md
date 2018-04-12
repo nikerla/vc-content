@@ -37,6 +37,8 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 
 * You need to create search index: click on **Search index missing** and on **Build index** icon, next - select **Tax type**. Save new category by click button **Save**.
 
+![New category details](../../assets/images/docs/new-category-details.png "New category details")
+
 ![New category index](../../assets/images/docs/new-category-index.png "New category index")
 
 * Click on the **Laptops** in categories list. To create new subcategory, click on **+Add** > choose the **Category** > add category name **Asus-Laptops** and code(optional), push on button **Create**.
@@ -105,7 +107,7 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 | CategoryPath (required if CategoryId is empty) | text            | Laptops/Asus-Laptops                                                      |
 | CategoryId (required if CategoryPath is empty) | text            | 53e239451c844442a3b2fe9aa82d95c8                                          |
 | MainProductId                                  | text            | a82d95c853e239451c238442a3b2fe9a                                          |
-| PrimaryImage                                   | text            | http://localhost/admin/assets/catalog/PAHCVX870/1420483149000_1109406.jpg |
+| PrimaryImage (image url in app)                | text            | http://localhost/admin/assets/catalog/PAHCVX870/1420483149000_1109406.jpg |
 | AltImage                                       | text            | panasonic-hc-vx870k-4k-ultra-hd-camcorder                                 |
 | SeoUrl                                         | text            | panasonic-hc-vx870k-4k-ultra-hd-camcorder                                 |
 | SeoTitle                                       | text            |                                                                           |
