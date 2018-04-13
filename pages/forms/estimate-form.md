@@ -53,7 +53,11 @@ tags :
                     </div>
                     <div class="control-group">
                         <label for="Contact[File]">File</label>
-                        <input id="Contact[File]" tabindex="5" type="file" name="Contact[File]" class="form-input " />
+                        <div class="form-file">
+                            <input id="Contact[File]" tabindex="5" type="file" name="Contact[File]" class="form-input" />
+                            <button type="button" class="button fill">Upload file</button>
+                            <div class="form-name">File name</div>
+                        </div>
                     </div>
                     <div class="control-group">
                         <button type="submit" class="button fill" tabindex="11">Submit Request</button>
