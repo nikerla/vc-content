@@ -3004,3 +3004,30 @@ ul.breadcrumbs {
 .text-center {
     text-align: center !important;
 }
+
+.form-file
+{
+	position: relative;
+}
+
+.form-file input[type="file"]
+{
+	left: 0;
+	height: 0;
+	position: absolute;
+	top: 0;
+	opacity: 0;
+	width: 0;
+}
+
+.form-file .button
+{
+	margin: 0 0 10px;
+}
+
+.form-file .form-name
+{
+	color: #999;
+	display: block;
+	font-size: 14px;
+}
