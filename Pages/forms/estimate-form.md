@@ -13,7 +13,6 @@ tags :
 ---
 <div class="roadmap __responsive">
     <h1 class="head-title">Estimate my project</h1>
-    <p class="text">Tell us about your project and requirements and we’ll contact you shortly.</p>
     <div class="columns">
         <div class="column">
             <div class="block">
@@ -60,22 +59,24 @@ tags :
         </div>
         <div class="column">
             <div class="block">
-                <h3>Frequently asked questions</h3>
+                <h3>How does it work?</h3>
                 <ul class="list">
                     <li>
-                        <span class="title">Is the source code provided?</span>
-                        <span class="descr">Yes, complete source code of Virto Commerce can be accessed from our repository.</span>
-                    </li>
-                    <li>
-                        <span class="title">How do I request for a demo?</span>
+                        <span class="title">Process</span>
                         <span class="descr">
-                            We'd love to demo our awesome platform for you! Please fill out the form on this page and include a note that you'd love to have a demo,
-                            its as simple as that! Or if you prefer, you can also email us at sales@virtocommerce.com and we'll be right on it.
+                            Simply tell us about your project and requirements, and we’ll craft an
+                            estimate of the hours it would take to complete your e-commerce transformation
+                            using the Virto Commerce Platform. All at no cost to you.
                         </span>
                     </li>
                     <li>
-                        <span class="title">What is Cloud Edition?</span>
-                        <span class="descr">Cloud edition is a unique service we offer that allow our customers to focus on developing business features while our experienced engineers handle code and architecture validation, product code merges in your source repository, deployments to production and much more.</span>
+                        <span class="title">What about confidentiality?</span>
+                        <span class="descr">
+                            We will never share your project details with parties that are not directly
+                            specified by your team. We’re happy to execute an NDA, and you can
+                            expedite this process by downloading, signing, and sending this form. We
+                            will sign it and return for your records.
+                        </span>
                     </li>
                 </ul>
             </div>

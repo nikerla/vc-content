@@ -4,22 +4,51 @@ description: Virto commerce - Enterprise .NET open-source ecommerce cloud platf
 date: 2014-01-30
 permalink: account/invite
 ---
-<div class="roadmap __responsive" style="text-align:center; padding-bottom: 40px;">
+<div class="roadmap __responsive">
     <h1 class="head-title">Get started for free!</h1>
-    <p class="text">Welcome to the developer community</p>
+    <p class="text">Welcome to the developer community.</p>
     <div class="columns">
-        <div class="block">
-            <div class="control-group">
-                <div>
-                    <a class="button fill" style="width: 400px;" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
-                    <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
+        <div class="column">
+            <div class="block">
+                <div class="control-group">
+                    <div>
+                        <a class="button fill" style="width: 400px;" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
+                        <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
+                    </div>
+                    <p>&mdash; {{ 'common.or' | t }}  &mdash;</p>
+                    <label for="email">Create Your Account</label>
+                    <input style="width: 400px;" type="email" tabindex="1" value="" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}" autocorrect="off" autocapitalize="off">
+                    <p>
+                        <input style="width: 400px;" type="submit" class="button fill" tabindex="2" value="Sign in for a free account" />
+                    </p>
                 </div>
-                <p>&mdash; {{ 'common.or' | t }}  &mdash;</p>
-                <label for="email">Create Your Account</label>
-                <input style="width: 400px;" type="email" tabindex="1" value="" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}" autocorrect="off" autocapitalize="off">
-                <p>
-                    <input style="width: 400px;" type="submit" class="button fill" tabindex="2" value="Sign in for a free account" />
-                </p>
+            </div>
+        </div>
+        <div class="column">
+            <div class="block">
+                <h3>Why join?</h3>
+                <ul class="list">
+                    <li>
+                        <span class="title">Get documentation and source code</span>
+                        <span class="descr">
+                            Get full access to our source code, along with up-to-date documentation.
+                        </span>
+                    </li>
+                    <li>
+                        <span class="title">Receive support</span>
+                        <span class="descr">
+                            Have questions? Find answers on our developer community support
+                            pages, or interact with other team memebers of Virto Commerce
+                            community
+                        </span>
+                    </li>
+                    <li>
+                        <span class="title">Licenses</span>
+                        <span class="descr">
+                            Add, access, and manage your Virto Commerce licenses
+                        </span>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
