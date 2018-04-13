@@ -35,14 +35,7 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 
 ![New category details](../../assets/images/docs/new-category-details.png "New category details")
 
-* You need to create search index: click on **Search index missing** and on **Build index** icon, next - select **Tax type**. Save new category by click button **Save**.
-
-![New category details](../../assets/images/docs/new-category-details.png "New category details")
-
-![New category index](../../assets/images/docs/new-category-index.png "New category index")
-
 * Click on the **Laptops** in categories list. To create new subcategory, click on **+Add** > choose the **Category** > add category name **Asus-Laptops** and code(optional), push on button **Create**.
-* You need to create search index: click on **Search index missing** and on **Build index** icon, next - select **Tax type**. Save new subcategory by click button **Save**.
 * By click on **More > Catalog > Electronics > Laptops > Asus-Laptops** you will see all created categories.
 
 ### Use an existing catalog and categories
