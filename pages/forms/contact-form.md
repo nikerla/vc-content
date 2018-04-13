@@ -1,4 +1,4 @@
-﻿---
+---
 title: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 description: Virto commerce - Enterprise .NET open-source ecommerce cloud platform. Request Services
 date: 2015-06-09
@@ -60,20 +60,31 @@ tags :
 		</div>
 		<div class="column">
 			<div class="block">
-				<h3>Frequently asked questions</h3>
+                <h3>What to expect</h3>
 				<ul class="list">
 					<li>
-						<span class="title">Is the source code provided?</span>
-						<span class="descr">Yes, complete source code of Virto Commerce can be accessed from our repository.</span>
+                        <span class="title">Response time</span>
+                        <span class="descr">
+                            We will respond within 1-2 business days. Requests with more information
+                            provided will be prioritized, so please provide as much detail as
+                            possible.
+                        </span>
 					</li>
 					<li>
-						<span class="title">How do I request for a demo?</span>
-						<span class="descr">We'd love to demo our awesome platform for you! Please fill out the form on this page and include a note that you'd love to have a demo, 
-						its as simple as that! Or if you prefer, you can also email us at sales@virtocommerce.com and we'll be right on it.</span>
+                        <span class="title">Set your meeting</span>
+                        <span class="descr">
+                            When we field your request, we’ll follow up in response to any questions
+                            that are asked, provide any relevant links or resoureces, and pass along a
+                            link to schedule a meeting at the time that works best for you (and team).
+                        </span>
 					</li>
 					<li>
-						<span class="title">What is Cloud Edition?</span>
-						<span class="descr">Cloud edition is a unique service we offer that allow our customers to focus on developing business features while our experienced engineers handle code and architecture validation, product code merges in your source repository, deployments to production and much more.</span>
+                        <span class="title">Get the details</span>
+                        <span class="descr">
+                            Once you’ve submitted a meeting request, we’ll update the calendar
+                            invitation with questions we have about your project, a high level agenda
+                            and conference call details.
+                        </span>
 					</li>
 				</ul>
 			</div>
