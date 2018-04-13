@@ -51,7 +51,7 @@ tags :
                         <label for="Message">Tell us about your site, company and traffic (required)</label>
                         <textarea id="Contact[Message]" rows="10" cols="30" name="Contact[Message]" class="form-text" required="required" tabindex="10"></textarea>
                     </div>
-                    <div class="control-group">
+                    <div class="control-group" style="display: none;">
                         <label for="Contact[File]">File</label>
                         <div class="form-file">
                             <input id="Contact[File]" tabindex="5" type="file" name="Contact[File]" class="form-input" />
