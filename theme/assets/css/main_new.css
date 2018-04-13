@@ -2988,3 +2988,19 @@ ul.breadcrumbs {
 		width: 100%;
 	}
 }
+
+/* Helpers */
+.buffer-top {
+    padding-top: 20px;
+}
+.buffer-bot {
+    padding-bottom: 20px;
+}
+
+.width-full {
+    width: 100%
+}
+
+.text-center {
+    text-align: center !important;
+}

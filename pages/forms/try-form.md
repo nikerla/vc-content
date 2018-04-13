@@ -10,7 +10,7 @@ aliases:
 ---
 <div class="roadmap __responsive">
 	<h1 class="head-title">Try Virto Commerce</h1>
-    <p class="text">Explore our online demo.</p>
+    <p class="text">Explore our online demo</p>
 	<div class="columns">
 		<div class="column">
 			<div class="block">

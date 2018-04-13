@@ -5,33 +5,33 @@ date: 2014-01-30
 permalink: account/invite
 ---
 <div class="roadmap __responsive">
-    <h1 class="head-title">Get started for free!</h1>
-    <p class="text">Welcome to the developer community.</p>
-    <div class="columns">
+    <div class="columns buffer-bot">
         <div class="column">
             <div class="block">
+                <h1 class="head-title text-center">Get started for free!</h1>
+                <p class="text text-center">Welcome to the developer community</p>
                 <div class="control-group">
                     <div>
-                        <a class="button fill" style="width: 400px;" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
+                        <a class="button fill width-full" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
                         <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
                     </div>
-                    <p>&mdash; {{ 'common.or' | t }}  &mdash;</p>
-                    <label for="email">Create Your Account</label>
-                    <input style="width: 400px;" type="email" tabindex="1" value="" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}" autocorrect="off" autocapitalize="off">
+                    <p class="text-center">&mdash; {{ 'common.or' | t }}  &mdash;</p>
+                    <label class="text-center" for="email">Create Your Account</label>
+                    <input type="email" tabindex="1" value="" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}" autocorrect="off" autocapitalize="off">
                     <p>
-                        <input style="width: 400px;" type="submit" class="button fill" tabindex="2" value="Sign in for a free account" />
+                        <input type="submit" class="button fill width-full" tabindex="2" value="Sign in for a free account" />
                     </p>
                 </div>
             </div>
         </div>
         <div class="column">
-            <div class="block">
+            <div class="block buffer-top">
                 <h3>Why join?</h3>
                 <ul class="list">
                     <li>
                         <span class="title">Get documentation and source code</span>
                         <span class="descr">
-                            Get full access to our source code, along with up-to-date documentation.
+                            Get full access to our source code, along with up-to-date documentation
                         </span>
                     </li>
                     <li>
