@@ -16,7 +16,7 @@ tags :
     <div class="columns">
         <div class="column">
             <div class="block">
-                <form action="" method="post" accept-charset="UTF-8" id="contact">
+                <form action="" method="post" accept-charset="UTF-8" id="contact" enctype="multipart/form-data">
                     <input id="Contact[Subject]" type="hidden" name="Contact[Subject]" value="Contact Us" />
                     <input id="Contact[RedirectUrl]" type="hidden" name="Contact[RedirectUrl]" value="~/thank-you" />
                     <div class="column">
@@ -52,6 +52,10 @@ tags :
                         <textarea id="Contact[Message]" rows="10" cols="30" name="Contact[Message]" class="form-text" required="required" tabindex="10"></textarea>
                     </div>
                     <div class="control-group">
+                        <label for="Contact[File]">File</label>
+                        <input id="Contact[File]" tabindex="5" type="file" name="Contact[File]" class="form-input " />
+                    </div>
+                    <div class="control-group">
                         <button type="submit" class="button fill" tabindex="11">Submit Request</button>
                     </div>
                 </form>
@@ -66,7 +70,7 @@ tags :
                         <span class="descr">
                             Simply tell us about your project and requirements, and we’ll craft an
                             estimate of the hours it would take to complete your e-commerce transformation
-                            using the Virto Commerce Platform. All at no cost to you.
+                            using the Virto Commerce Platform. All at no cost to you
                         </span>
                     </li>
                     <li>
@@ -75,7 +79,7 @@ tags :
                             We will never share your project details with parties that are not directly
                             specified by your team. We’re happy to execute an NDA, and you can
                             expedite this process by downloading, signing, and sending this form. We
-                            will sign it and return for your records.
+                            will sign it and return for your records
                         </span>
                     </li>
                 </ul>
