@@ -4,7 +4,7 @@ description: Virto commerce - Enterprise .NET open-source ecommerce cloud platf
 date: 2014-01-30
 permalink: account/invite
 ---
-<div class="roadmap __responsive">
+<div class="roadmap __responsive" ng-controller="accountController">
     <div class="columns buffer-bot">
         <div class="column">
             <div class="block">
@@ -17,9 +17,9 @@ permalink: account/invite
                     </div>
                     <p class="text-center">&mdash; {{ 'common.or' | t }}  &mdash;</p>
                     <label class="text-center" for="email">Create Your Account</label>
-                    <input type="email" tabindex="1" value="" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}" autocorrect="off" autocapitalize="off">
+                    <input ng-model="customer.email" type="email" tabindex="1" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}">
                     <p>
-                        <input type="submit" class="button fill width-full" tabindex="2" value="Sign in for a free account" />
+                        <input ng-click="getInvite()" type="submit" class="button fill width-full" tabindex="2" value="Sign in for a free account" />
                     </p>
                 </div>
             </div>

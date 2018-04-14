@@ -13,7 +13,7 @@ var config = {
 gulp.task('scripts', function () {
     return gulp.src(config.src)
       .pipe(concat('main-layout.min.js'))
-      .pipe(uglify())
+      //.pipe(uglify())
       .pipe(gulp.dest('theme/assets/scripts/bundles/.'));
 });
 
