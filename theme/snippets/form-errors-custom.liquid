@@ -7,11 +7,11 @@
         {% for field in form.errors %}
 
         {% if field == 'form' %}
-        <li>
+        <li class="text-normal">
             {{ form.errors.messages[field] }}
         </li>
         {% else %}
-        <li>
+        <li class="text-normal">
             {% assign field_name = field | replace: 'body', message %}
             {{ 'general.forms.post_field_error_html' | t: field: field_name, error: form.errors.messages[field] }}
         </li>
