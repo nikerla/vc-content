@@ -12,12 +12,14 @@ permalink: account/againinvite
     </p>
     <div class="columns">
         <div id="recover_password">
-            <div class="control-group">
-                <input ng-model="customer.email" required ng-pattern="emailPattern" type="text" tabindex="1" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}">
-                <p>
-                    <input ng-click="getInvite()" ng-disabled="inviteform.$invalid" type="submit" class="button fill width-full" tabindex="2" value="Resend Activation Email" />
-                </p>
-            </div>
+            <form name="inviteform" novalidate>
+                <div class="control-group block-400 block-center">
+                    <input ng-model="customer.email" required ng-pattern="emailPattern" type="text" tabindex="1" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}">
+                    <p>
+                        <input ng-click="getInvite()" ng-disabled="inviteform.$invalid" type="submit" class="button fill width-full" tabindex="2" value="Resend Activation Email" />
+                    </p>
+                </div>
+            </form>
         </div>
     </div>
 </div>
