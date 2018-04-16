@@ -1,10 +1,11 @@
 var storefrontApp = angular.module('storefrontApp');
 
 storefrontApp.controller('accountController', ['$scope', '$window', '$localStorage', '$location', 'communityService', 'customerService', 'accountApi', 'mainContext', function ($scope, $window, $localStorage, $location, communityService, customerService, accountApi, mainContext) {
-    $scope.customer = {};
-    var customer = $scope.customer;
 
+$scope.emailPattern = new RegExp(/((^|((?!^)([,;]|\r|\r\n|\n)))([a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*))+$/);
+    $scope.customer = {}
     $scope.initialize = function () {
+
         customerService.getCurrentCustomer().then(function(customer) {
             $scope.temp = angular.copy(customer.data);
             $scope.user = customer.data;
@@ -39,19 +40,15 @@ storefrontApp.controller('accountController', ['$scope', '$window', '$localStora
     };
 
     $scope.getInvite = function () {
-        debugger;
         var email = $scope.customer.email; 
         accountApi.getInvite({ Emails: [email] }).$promise.then(function (response) {
-            debugger;
             if (response.succeeded)
                 document.location.href = "account/confirminvite";
-            else
-                console.log(response.errors);
         });
     }
 
     $scope.initialize();
 }])
-   .factory('mainContext', function () {
+    .factory('mainContext', function () {
        return {};
    });

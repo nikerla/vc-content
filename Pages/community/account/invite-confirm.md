@@ -11,7 +11,7 @@ permalink: account/confirminvite
         <div class="column">
             <div class="sent-mail-bg"></div>
             <p>Check your inbox to activate your account</p>
-            <a href="/account/getinviteagain">Didn't get your activation link?</a>
+            <a href="/account/againinvite">Didn't get your activation link?</a>
         </div>
     </div>
 </div>

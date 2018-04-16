@@ -10,18 +10,20 @@ permalink: account/invite
             <div class="block">
                 <h1 class="head-title text-center">Get started for free!</h1>
                 <p class="text text-center">Welcome to the developer community</p>
-                <div class="control-group">
-                    <div>
-                        <a class="button fill width-full" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
-                        <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
+                <form name="inviteform"  novalidate>
+                    <div class="control-group">
+                        <div>
+                            <a class="button fill width-full" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
+                            <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
+                        </div>
+                        <p class="text-center">&mdash; {{ 'common.or' | t }}  &mdash;</p>
+                        <label class="text-center" for="email">Create Your Account</label>
+                        <input ng-model="customer.email" type="text" tabindex="1" class="form-input" name="email" id="email" required ng-pattern="emailPattern" placeholder="{{ 'customer.recover_password.email' | t }}">
+                        <p>
+                            <input ng-click="getInvite()" ng-disabled="inviteform.$invalid" type="submit" class="button fill width-full" tabindex="2" value="Sign in for a free account" />
+                        </p>
                     </div>
-                    <p class="text-center">&mdash; {{ 'common.or' | t }}  &mdash;</p>
-                    <label class="text-center" for="email">Create Your Account</label>
-                    <input ng-model="customer.email" type="email" tabindex="1" class="form-input" name="email" id="email" placeholder="{{ 'customer.recover_password.email' | t }}">
-                    <p>
-                        <input ng-click="getInvite()" type="submit" class="button fill width-full" tabindex="2" value="Sign in for a free account" />
-                    </p>
-                </div>
+                </form>
             </div>
         </div>
         <div class="column">
@@ -53,25 +55,3 @@ permalink: account/invite
         </div>
     </div>
 </div>
-{{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
-{{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
-<script type="text/javascript">
-    $(function () {
-        //custom validation
-        $('form#register_by_invite').validate({
-            rules: {
-                email: {
-                    required: true,
-                    email: true
-                },
-            },
-            errorElement: "p",
-            messages: {
-                email: "Please enter your Email Address",
-            },
-            submitHandler: function (form) {
-                form.submit();
-            }
-        });
-    });
-</script>
