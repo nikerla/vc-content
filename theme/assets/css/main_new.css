@@ -3001,6 +3001,10 @@ ul.breadcrumbs {
     width: 100%;
 }
 
+.width-auto {
+    width: auto;
+}
+
 .text-center {
     text-align: center;
 }

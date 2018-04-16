@@ -5,13 +5,16 @@ date: 2014-01-30
 permalink: vc-community
 authorize: true
 ---
-<div ng-app="storefrontApp" ng-controller="communityController" ng-cloak class="vc-comunity">
-    <div class="bg-banner">
-        <div class="banner-inner __responsive">
-            <div class="banner-t">Virto commerce community</div>
-            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" rel="nofollow" class="button fill">Become a contributor</a>
+<section class="enterprise" data-name="section">
+    <div class="section-inner responsive">
+        <h1 class="section-t">Virto commerce community</h1>
+        <h2 class="section-descr">Enterprise e-commerce platform<br />Microsoft .NET developers deserve</h2>
+        <div class="section-actions">
+            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" rel="nofollow" class="button white fill width-auto" style="width:auto;">Become a contributor</a>
         </div>
     </div>
+</section>
+<div ng-app="storefrontApp" ng-controller="communityController" ng-cloak class="vc-comunity">
     <div ng-show="loaded" class="vc-content __responsive">
         <div class="vc-cnt">
             <ul class="list">
@@ -86,9 +89,9 @@ authorize: true
         <div class="vc-sidebar">
             <div class="aside" data-name="profile">
                 <!--<div class="aside-t">Profile <span ng-bind="('(completed') + ' ' + (percentage) + ('%)')"></span></div>-->
-                <div class="aside-other" >
+                <div class="aside-other">
                     <span ng-show="github">
-                        <img  ng-src="{% raw %}{{ githubUser.avatar_url }}{% endraw %}" width="80" height="" style="border-radius: 50%;" />
+                        <img ng-src="{% raw %}{{ githubUser.avatar_url }}{% endraw %}" width="80" height="" style="border-radius: 50%;" />
                     </span>
                     <span style="font-size: 12pt;font-weight: 700;" ng-bind="user.firstName"></span>
                     <span ng-if="user.organization" ng-bind="'(' + user.organization + ')'"></span>
