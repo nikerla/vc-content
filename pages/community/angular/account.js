@@ -47,7 +47,7 @@ $scope.emailPattern = new RegExp(/((^|((?!^)([,;]|\r|\r\n|\n)))([a-zA-Z0-9.!#$%&
         });
     }
 
-    $scope.initialize();
+    $scope.getCustomer();
 }])
     .factory('mainContext', function () {
        return {};
