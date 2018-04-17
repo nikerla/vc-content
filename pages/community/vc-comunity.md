@@ -27,6 +27,14 @@ authorize: true
                         <div class="list-descr">
                             <ul>
                                 <li>
+                                    <a href="https://github.com/VirtoCommerce" target="_blank" rel="nofollow">Virto Commerce source code</a>
+                                    <ul>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Platform repository</a></li>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-storefront" target="_blank" rel="nofollow">Storefront for ASP.NET repository</a></li>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-storefront-core" target="_blank" rel="nofollow">Storefront for ASP.NET Core 2.0 repository</a></li>
+                                    </ul>
+                                </li>
+                                <li>
                                     <a href="/docs">Documentation</a>
                                     <ul>
                                         <li><a href="/docs/vc2devguide/getting-started">Getting Started</a></li>
@@ -35,14 +43,6 @@ authorize: true
                                 </li>
                                 <li>
                                     <a href="/roadmap">Roadmap</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/VirtoCommerce" target="_blank" rel="nofollow">Github repisitories structure</a>
-                                    <ul>
-                                        <li><a href="https://github.com/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Platform repository</a></li>
-                                        <li><a href="https://github.com/VirtoCommerce/vc-storefront" target="_blank" rel="nofollow">Storefront for ASP.NET repository</a></li>
-                                        <li><a href="https://github.com/VirtoCommerce/vc-storefront-core" target="_blank" rel="nofollow">Storefront for ASP.NET Core 2.0 repository</a></li>
-                                    </ul>
                                 </li>
                             </ul>
                         </div>
@@ -82,7 +82,7 @@ authorize: true
                         <div class="list-img">
                             <img src="licence-ico.png" alt="" class="list-ico">
                         </div>
-                        <div class="list-t">Get license</div>
+                        <div class="list-t">Get community license</div>
                         <div class="list-descr">
                             Coming soon ...
                         </div>
