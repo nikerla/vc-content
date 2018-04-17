@@ -28,7 +28,6 @@
                     <div class="control-group">
                         <input type="password" value="" class="form-input" name="customer[password]" id="customer_password" placeholder="{{ 'customer.login.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
                     </div>
-
                     <div class="control-group">
                         <input type="submit" class="button fill width-full" tabindex="2" value="Sign In" />
                     </div>
@@ -36,7 +35,9 @@
                         <a href="/account/invite" class="button fill width-full" tabindex="2">Sign in for a free account</a>
                     </div>
                     {% endform %}
-
+                    <div class="" align="center">
+                        <a href="{{ '/account/forgotpassword' | absolute_url }}">{{ 'customer.login.forgot_password' | t }}</a>
+                    </div>
                 </div>
             </div>
         </div>
