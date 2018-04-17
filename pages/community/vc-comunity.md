@@ -44,9 +44,6 @@ authorize: true
                                         <li><a href="https://github.com/VirtoCommerce/vc-storefront-core" target="_blank" rel="nofollow">Storefront for ASP.NET Core 2.0 repository</a></li>
                                     </ul>
                                 </li>
-                                <li>
-                                    <a href="https://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Stackoverflow channel</a>
-                                </li>
                             </ul>
                         </div>
                     </div>
