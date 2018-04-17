@@ -10,7 +10,7 @@ aliases:
 ---
 <div class="roadmap __responsive">
 	<h1 class="head-title">Try Virto Commerce</h1>
-	<p class="text">Download latest platform release or explore our online demo.</p>
+    <p class="text">Explore our online demo</p>
 	<div class="columns">
 		<div class="column">
 			<div class="block">
@@ -57,14 +57,18 @@ aliases:
 			</div>
 		</div>
 		<div class="column">
-			<h3>Frequently asked questions</h3>
+            <h3>Get firsthand access</h3>
 			<div class="block">
 				<ul class="list">
 					<li>
-						<span class="title">Is the source code provided?</span>
-						<span class="descr">Yes, link to a complete source code will be provided after completing the form.</span>
+                        <span class="descr">
+                            See how our platform can fit your busienss requirments by getting
+                            firsthand experience on Virto Commerce. We’ll guide you through our
+                            platform, and afterwards you’ll have access to explore the Virto
+                            Commerce experience on your own
+                        </span>
 					</li>
-					<li>
+					<!--<li>
 						<span class="title">What to expect?</span>
 						<ul class="list">
 							<li>View our online demo (both admin and storefront)</li>
@@ -74,7 +78,7 @@ aliases:
 							<li>Create products, categories, place orders etc</li>
 							<li>Launch complete B2B or B2C solution using Virto Commerce platform</li>
 						</ul>						
-					</li>
+					</li>-->
 				</ul>
 			</div>
 		</div>		

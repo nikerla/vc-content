@@ -1,16 +1,19 @@
 var storefrontApp = angular.module('storefrontApp');
 
 storefrontApp.controller('accountController', ['$scope', '$window', '$localStorage', '$location', 'communityService', 'customerService', 'accountApi', 'mainContext', function ($scope, $window, $localStorage, $location, communityService, customerService, accountApi, mainContext) {
-    
+
+    $scope.emailPattern = new RegExp(/((^|((?!^)([,;]|\r|\r\n|\n)))([a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*))+$/);
+    $scope.customer = {}
     $scope.initialize = function () {
-        customerService.getCurrentCustomer().then(function(customer) {
-            $scope.temp = angular.copy(customer.data);
-            $scope.user = customer.data;
-            $scope.newAddresses = {};
-            if (!_.isEmpty($scope.user.addresses))
-                if (!angular.isUndefined(_.first($scope.user.addresses).organization))
-                    angular.extend($scope.newAddresses, { organization: _.first($scope.user.addresses).organization });
-        });
+
+    customerService.getCurrentCustomer().then(function (customer) {
+        $scope.temp = angular.copy(customer.data);
+        $scope.user = customer.data;
+        $scope.newAddresses = {};
+        if (!_.isEmpty($scope.user.addresses))
+            if (!angular.isUndefined(_.first($scope.user.addresses).organization))
+                angular.extend($scope.newAddresses, { organization: _.first($scope.user.addresses).organization });
+    });
     }
 
     $scope.updateAccount = function (changedData, newAddresses) {
@@ -35,9 +38,17 @@ storefrontApp.controller('accountController', ['$scope', '$window', '$localStora
             mainContext.customer = $scope.customer = response.data;
         });
     };
+
+    $scope.getInvite = function () {
+        var email = $scope.customer.email;
+        accountApi.getInvite({ Emails: [email] }).$promise.then(function (response) {
+            if (response.succeeded)
+                document.location.href = "account/confirminvite";
+        });
+    }
+
     $scope.getCustomer();
-      
 }])
-   .factory('mainContext', function () {
-       return {};
-   });
+    .factory('mainContext', function () {
+        return {};
+    });

@@ -1,15 +1,25 @@
 <div class="roadmap __responsive" style="text-align:center; padding-bottom: 40px;">
-    <h1 class="head-title">{{ 'customer.reset_password.title' | t }}</h1>
-    <p class="text">{{ 'customer.reset_password.subtext' | t: email: email }}</p>
+    <h1 class="head-title">Activate account</h1>
+    <p class="text">Fill in the information to complete activation.</p>
     <div class="columns">
         <div class="block">
             <div class="column">
-                {% form 'reset_customer_password' %}
-
-                <input type="hidden" value="{{ reset_password.email }}" name="customer[email]">
-                <input type="hidden" value="{{ reset_password.token }}" name="customer[token]">
-
+                {% form 'confirm_invitation' %}
                 {% include 'form-errors-custom' %}
+
+                <input type="hidden" value="{{ form.email }}" name="customer[email]">
+                <input type="hidden" value="{{ form.email }}" name="customer[user_name]">
+                <input type="hidden" value="{{ form.organization_id }}" name="customer[organization_id]">
+                <input type="hidden" value="{{ form.token }}" name="customer[token]">
+
+                <div class="control-group">
+                    <label for="first_name" class="hidden-label text-left">First name (required)</label>
+                    <input type="text" value="" class="form-input" name="customer[first_name]" id="first_name" placeholder="{{ 'customer.register.first_name' | t }}" {% if form.errors contains "first_name" %} class="error" {% endif %} autocapitalize="words" autofocus>
+                </div>
+                <div class="control-group">
+                    <label for="last_name" class="hidden-label text-left">Last name (required)</label>
+                    <input type="text" value="" class="form-input" name="customer[last_name]" id="last_name" placeholder="{{ 'customer.register.last_name' | t }}" {% if form.errors contains "last_name" %} class="error" {% endif %} autocapitalize="words">
+                </div>
                 <div class="control-group">
                     <label for="create_password" class="hidden-label text-left">Password (required)</label>
                     <input type="password" value="" class="form-input" name="customer[password]" id="create_password" placeholder="{{ 'customer.register.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
@@ -19,7 +29,7 @@
                     <input type="password" value="" class="form-input" name="customer[password_confirm]" id="confirm_password" placeholder="{{ 'customer.register.password_confirm' | t }}">
                 </div>
                 <p style="margin-right: 20px;">
-                    <input style="width: 100%;" type="submit" class="button fill no-transparent" value="{{ 'customer.reset_password.submit' | t }}">
+                    <input style="width: 100%;" type="submit" class="button fill no-transparent" value="Activate">
             </div>
             {% endform %}
         </div>
@@ -30,8 +40,10 @@
 <script type="text/javascript">
     $(function () {
         //custom validation
-        $('form#reset_customer_password').validate({
+        $('form#confirm_invitation').validate({
             rules: {
+                'customer[first_name]': "required",
+                'customer[last_name]': "required",
                 'customer[password]': {
                     required: true,
                     minlength: 5
@@ -44,6 +56,8 @@
             },
             errorElement: "span",
             messages: {
+                'customer[first_name]': "Please enter your First Name",
+                'customer[last_name]': "Please enter your Last Name",
                 'customer[password]': {
                     required: "Please provide a password",
                     minlength: "Your password must be at least 5 characters long"
@@ -59,35 +73,3 @@
         });
     });
 </script>
-
-
-<!--<div class="grid">
-    <div class="grid-item large--one-third push--large--one-third">
-
-        <h1>{{ 'customer.reset_password.title' | t }}</h1>
-
-        <p>{{ 'customer.reset_password.subtext' | t: email: email }}</p>
-
-        {% form 'reset_customer_password' %}
-
-        <input type="hidden" value="{{ reset_password.email }}" name="customer[email]">
-        <input type="hidden" value="{{ reset_password.token }}" name="customer[token]">
-
-        {% include 'form-errors-custom' %}
-        <div class="control-group">
-            <label for="reset_password">{{ 'customer.reset_password.password' | t }}</label>
-            <input type="password" value="" name="customer[password]" id="reset_password" {% if form.errors contains "password" %} class="error" {% endif %}>
-        </div>
-        <div class="control-group">
-            <label for="password_confirmation">{{ 'customer.reset_password.password_confirm' | t }}</label>
-            <input type="password" value="" name="customer[password_confirmation]" id="password_confirmation" {% if form.errors contains "password_confirmation" %} class="error" {% endif %}>
-        </div>
-
-        <div class="text-center">
-            <input type="submit" class="btn" value="{{ 'customer.reset_password.submit' | t }}">
-        </div>
-
-        {% endform %}
-
-    </div>
-</div>-->

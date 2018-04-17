@@ -28,5 +28,12 @@ gulp.task('styles', function () {
       .pipe(gulp.dest('theme/assets/css/bundles/.'));
 });
 
+gulp.task('styles', function () {
+    return gulp.src(configCss.src)
+        .pipe(concat('main-styles.min.css'))
+        .pipe(cssmin())
+        .pipe(gulp.dest('theme/assets/css/bundles/.'));
+});
+
 //default tasks
 gulp.task('default', ['scripts', 'styles'], function () { });
