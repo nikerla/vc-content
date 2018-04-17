@@ -1,17 +1,17 @@
 {% if form.errors %}
-<div class="alert alert-danger">
-    <p class="text-normal">{{ 'general.forms.post_error' | t }}</p>
+<div class="alert alert-danger text-normal">
+    <p>{{ 'general.forms.post_error' | t }}</p>
 
-    <ul class="disc text-normal">
+    <ul class="disc">
         {% assign message = 'contact.form.message' | t %}
         {% for field in form.errors %}
 
         {% if field == 'form' %}
-        <li class="text-normal">
+        <li>
             {{ form.errors.messages[field] }}
         </li>
         {% else %}
-        <li class="text-normal">
+        <li>
             {% assign field_name = field | replace: 'body', message %}
             {{ 'general.forms.post_field_error_html' | t: field: field_name, error: form.errors.messages[field] }}
         </li>
