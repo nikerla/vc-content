@@ -5,16 +5,49 @@ date: 2014-01-30
 permalink: vc-community
 authorize: true
 ---
-<div ng-app="storefrontApp" ng-controller="communityController" ng-cloak class="vc-comunity">
-    <div class="bg-banner">
-        <div class="banner-inner __responsive">
-            <div class="banner-t">Virto commerce community</div>
-            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" rel="nofollow" class="button fill">Become a contributor</a>
+<section class="enterprise" data-name="section">
+    <div class="section-inner responsive">
+        <h1 class="section-t">Virto commerce community</h1>
+        <h2 class="section-descr">Enterprise e-commerce platform<br />Microsoft .NET developers deserve</h2>
+        <div class="section-actions">
+            <a href="https://cla-assistant.io/VirtoCommerce/vc-platform" target="_blank" rel="nofollow" class="button white fill width-auto" style="width:auto;">Become a contributor</a>
         </div>
     </div>
+</section>
+<div ng-app="storefrontApp" ng-controller="communityController" ng-cloak class="vc-comunity">
     <div ng-show="loaded" class="vc-content __responsive">
         <div class="vc-cnt">
             <ul class="list">
+                <li class="list-item">
+                    <div class="list-inner">
+                        <div class="list-img">
+                            <img src="resource-ico.png" alt="" class="list-ico">
+                        </div>
+                        <div class="list-t">Community resources</div>
+                        <div class="list-descr">
+                            <ul>
+                                <li>
+                                    <a href="/docs">Documentation</a>
+                                    <ul>
+                                        <li><a href="/docs/vc2devguide/getting-started">Getting Started</a></li>
+                                        <li><a href="/docs/lessons">Lessons </a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="/roadmap">Roadmap</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/VirtoCommerce" target="_blank" rel="nofollow">Github repisitories structure</a>
+                                    <ul>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Platform repository</a></li>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-storefront" target="_blank" rel="nofollow">Storefront for ASP.NET repository</a></li>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-storefront-core" target="_blank" rel="nofollow">Storefront for ASP.NET Core 2.0 repository</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
@@ -32,23 +65,14 @@ authorize: true
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="resource-ico.png" alt="" class="list-ico">
+                            <img src="become-2-ico.png" alt="" class="list-ico">
                         </div>
-                        <div class="list-t">Community resources</div>
+                        <div class="list-t">Community support</div>
                         <div class="list-descr">
                             <ul>
-                                <li>
-                                    <a href="/docs">Documentation</a>
-                                </li>
-                                <li>
-                                    <a href="/roadmap">Roadmap</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Github repisitories structure</a>
-                                </li>
-                                <li>
-                                    <a href="https://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Stackoverflow channel</a>
-                                </li>
+                                <li><a href="https://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Stackoverflow channel</a></li>
+                                <li><a href="https://gitter.im/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Gitter channel</a></li>
+                                <li><a href="https://github.com/VirtoCommerce/vc-platform/issues" target="_blank" rel="nofollow">Github issues</a></li>
                             </ul>
                         </div>
                     </div>
@@ -58,7 +82,7 @@ authorize: true
                         <div class="list-img">
                             <img src="licence-ico.png" alt="" class="list-ico">
                         </div>
-                        <div class="list-t">Get lisence</div>
+                        <div class="list-t">Get license</div>
                         <div class="list-descr">
                             Coming soon ...
                         </div>
@@ -86,9 +110,9 @@ authorize: true
         <div class="vc-sidebar">
             <div class="aside" data-name="profile">
                 <!--<div class="aside-t">Profile <span ng-bind="('(completed') + ' ' + (percentage) + ('%)')"></span></div>-->
-                <div class="aside-other" >
+                <div class="aside-other">
                     <span ng-show="github">
-                        <img  ng-src="{% raw %}{{ githubUser.avatar_url }}{% endraw %}" width="80" height="" style="border-radius: 50%;" />
+                        <img ng-src="{% raw %}{{ githubUser.avatar_url }}{% endraw %}" width="80" height="" style="border-radius: 50%;" />
                     </span>
                     <span style="font-size: 12pt;font-weight: 700;" ng-bind="user.firstName"></span>
                     <span ng-if="user.organization" ng-bind="'(' + user.organization + ')'"></span>

@@ -17,13 +17,14 @@ storefrontApp.service('dialogService', ['$uibModal', function ($uibModal) {
 }]);
 
 storefrontApp.factory('accountApi', ['$resource', function ($resource) {
-    return $resource('storefrontapi/account', null, {
+    return $resource('storefrontapi/account', {}, {
         updateAccount: { url: 'storefrontapi/account', method: 'POST' },
         changePassword: { url: 'storefrontapi/account/password', method: 'POST' },
         getQuotes: { url: 'storefrontapi/account/quotes' },
         updateAddresses: { url: 'storefrontapi/account/addresses', method: 'POST' },
         getCountries: { url: 'storefrontapi/countries', isArray: true },
-        getCountryRegions: { url: 'storefrontapi/countries/:code3/regions', isArray: true }
+        getCountryRegions: { url: 'storefrontapi/countries/:code3/regions', isArray: true },
+        getInvite: { url: 'storefrontapi/account/invitation', method: 'POST'}
     });
 }]);
 
@@ -54,7 +55,7 @@ storefrontApp.service('marketingService', ['$http', function ($http) {
 storefrontApp.service('pricingService', ['$http', function ($http) {
 	return {
 		getActualProductPrices: function (products) {
-		    return $http.post('storefrontapi/pricing/actualprices', { products: products });
+            return $http.post('storefrontapi/pricing/actualprices', { products: products });
 		}
 	}
 }]);

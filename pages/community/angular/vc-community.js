@@ -2,7 +2,7 @@ var storefrontApp = angular.module('storefrontApp');
 
 storefrontApp.controller('communityController', ['$scope', '$q', '$window', '$location', '$localStorage', 'communityService', 'customerService', function ($scope, $q, $window, $location, $localStorage, communityService, customerService) {
     $scope.loaded = false;
-    $scope.githubUser = null;
+    $scope.githubUser = {};
 
     customerService.getCurrentCustomer().then(function (user) {
         $scope.user = user.data;
@@ -16,8 +16,11 @@ storefrontApp.controller('communityController', ['$scope', '$q', '$window', '$lo
         var stackExchangeAccount = _.find(user.data.externalLogins, { loginProvider: 'StackExchange' });
 
         if (!angular.isUndefined(githubAccount)) {
-            communityService.getGithubProfile(githubAccount.providerKey).then(function(profile) {
-                var profile = profile.data;
+            communityService.getGithubProfile(githubAccount.providerKey).then(function (response) {
+                var profile = response.data;
+                $scope.user.firstName = profile.name || profile.login;
+                $scope.user.organization = profile.company;
+
                 communityService.getGithubStatistic(profile.login).then(function (statistic) {
                     $scope.github = { poolRequest: statistic.data.total_count };
                     $scope.githubUser = profile;

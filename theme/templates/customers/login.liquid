@@ -1,47 +1,68 @@
-<div class="roadmap responsive ">
-    <h1 style="margin-left: 80px;" class="head-title">Log in to account</h1>
-    <div class="columns">
-        <div style="bottom: 20px; position: relative;" class="column">
+<style>
+.roadmap form {
+        padding: 0 !important;
+    }
+    a {
+        word-spacing: 0px;
+    }
+</style>
+
+<div class="roadmap __responsive">
+    <div class="columns buffer-bot">
+        <div class="column">
             <div class="block">
-                <div style="width:500px;">
-                    <a class="btn btn-default btn-lg btn-block" style="width:500px;" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
-                    <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
-                </div>
-                <p align="center">&mdash; {{ 'common.or' | t }}  &mdash;</p>
-
-                {% form 'customer_login' %}
-
-                {% include 'form-errors-custom' %}
-
+                <h1 class="head-title text-center">Get started for free!</h1>
+                <p class="text text-center">Welcome to the developer community</p>
                 <div class="control-group">
-                    <input type="text" value="" class="form-input" style="width:500px;" name="customer[user_name]" id="customer_user_name" placeholder="{{ 'customer.login.user_name' | t }}" {% if form.errors contains "user_name" %} class="error" {% endif %} autocorrect="off" autocapitalize="off" autofocus>
-                </div>
-                <div class="control-group">
-                    <input type="password" value="" class="form-input" style="width:500px;" name="customer[password]" id="customer_password" placeholder="{{ 'customer.login.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
-                </div>
-                <div position: relative;" class="control-group">
-                    <p>
-                        <input type="submit" class="button fill" style="width:500px;" value="{{ 'customer.login.sign_in' | t }}">
-                    </p>
-                </div>
+                    <div class="control-group">
+                        <a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=GitHub&returnUrl=/vc-community"><i class="fa fa-github"></i> Log in with GitHub</a>
+                        <!--<a class="btn btn-default btn-lg btn-block" href="account/externallogin?authType=StackExchange&returnUrl=/vccom/vc-community"><i class="fa fa-stack-overflow"></i> Log in with StackExchange</a>-->
+                    </div>
+                    <p class="text-center">&mdash; {{ 'common.or' | t }}  &mdash;</p>
+                    {% form 'customer_login' %}
 
-                {% endform %}
-
-                <div class="" align="center">
-                    <a href="account/register">Register</a>
-                    <span> | </span>
-                    <a href="{{ '/account/forgotpassword' | absolute_url }}">{{ 'customer.login.forgot_password' | t }}</a>
+                    {% include 'form-errors-custom' %}
+                    <div class="control-group">
+                        <input type="text" value="" class="form-input" name="customer[user_name]" id="customer_user_name" placeholder="{{ 'customer.login.user_name' | t }}" {% if form.errors contains "user_name" %} class="error" {% endif %} autocorrect="off" autocapitalize="off" autofocus>
+                    </div>
+                    <div class="control-group">
+                        <input type="password" value="" class="form-input" name="customer[password]" id="customer_password" placeholder="{{ 'customer.login.password' | t }}" {% if form.errors contains "password" %} class="error" {% endif %}>
+                    </div>
+                    <div class="control-group">
+                        <input type="submit" class="button fill width-full" tabindex="2" value="Sign In" />
+                    </div>
+                    <div class="control-group">
+                        <a href="/account/invite" class="button fill width-full" tabindex="2">Sign in for a free account</a>
+                    </div>
+                    {% endform %}
+                    <div class="" align="center">
+                        <a href="{{ '/account/forgotpassword' | absolute_url }}">{{ 'customer.login.forgot_password' | t }}</a>
+                    </div>
                 </div>
             </div>
         </div>
         <div class="column">
-            <div class="block">
-                <h3>Frequently asked questions</h3>
+            <div class="block buffer-top">
+                <h3>Why join?</h3>
                 <ul class="list">
                     <li>
-                        <span class="title">Get started for free!</span>
+                        <span class="title">Get documentation and source code</span>
                         <span class="descr">
-                            Welcome to the Virto Commerce developer community! You can find all the documentation and resources needed to help build and manage your Virto Commerce experience.
+                            Get full access to our source code, along with up-to-date documentation
+                        </span>
+                    </li>
+                    <li>
+                        <span class="title">Receive support</span>
+                        <span class="descr">
+                            Have questions? Find answers on our developer community support
+                            pages, or interact with other team memebers of Virto Commerce
+                            community
+                        </span>
+                    </li>
+                    <li>
+                        <span class="title">Licenses</span>
+                        <span class="descr">
+                            Add, access, and manage your Virto Commerce licenses
                         </span>
                     </li>
                 </ul>
@@ -53,7 +74,7 @@
 {{ '//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js' | script_tag }}
 <script type="text/javascript">
     $(function () {
-    //custom validation
+        //custom validation
         $('form#customer_login').validate({
             rules: {
                 'customer[user_name]': "required",
