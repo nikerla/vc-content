@@ -21,6 +21,39 @@ authorize: true
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
+                            <img src="resource-ico.png" alt="" class="list-ico">
+                        </div>
+                        <div class="list-t">Community resources</div>
+                        <div class="list-descr">
+                            <ul>
+                                <li>
+                                    <a href="/docs">Documentation</a>
+                                    <ul>
+                                        <li><a href="/docs/vc2devguide/getting-started">Getting Started</a></li>
+                                        <li><a href="/docs/lessons">Lessons </a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="/roadmap">Roadmap</a>
+                                </li>
+                                <li>
+                                    <a href="https://github.com/VirtoCommerce" target="_blank" rel="nofollow">Github repisitories structure</a>
+                                    <ul>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Platform repository</a></li>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-storefront" target="_blank" rel="nofollow">Storefront for ASP.NET repository</a></li>
+                                        <li><a href="https://github.com/VirtoCommerce/vc-storefront-core" target="_blank" rel="nofollow">Storefront for ASP.NET Core 2.0 repository</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="https://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Stackoverflow channel</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="list-item">
+                    <div class="list-inner">
+                        <div class="list-img">
                             <img src="become-ico.png" alt="" class="list-ico">
                         </div>
                         <div class="list-t">Become a contributor</div>
@@ -35,23 +68,14 @@ authorize: true
                 <li class="list-item">
                     <div class="list-inner">
                         <div class="list-img">
-                            <img src="resource-ico.png" alt="" class="list-ico">
+                            <img src="become-2-ico.png" alt="" class="list-ico">
                         </div>
-                        <div class="list-t">Community resources</div>
+                        <div class="list-t">Community support</div>
                         <div class="list-descr">
                             <ul>
-                                <li>
-                                    <a href="/docs">Documentation</a>
-                                </li>
-                                <li>
-                                    <a href="/roadmap">Roadmap</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Github repisitories structure</a>
-                                </li>
-                                <li>
-                                    <a href="https://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Stackoverflow channel</a>
-                                </li>
+                                <li><a href="https://stackoverflow.com/questions/tagged/virtocommerce" target="_blank" rel="nofollow">Stackoverflow channel</a></li>
+                                <li><a href="https://gitter.im/VirtoCommerce/vc-platform" target="_blank" rel="nofollow">Gitter channel</a></li>
+                                <li><a href="https://github.com/VirtoCommerce/vc-platform/issues" target="_blank" rel="nofollow">Github issues</a></li>
                             </ul>
                         </div>
                     </div>
@@ -61,7 +85,7 @@ authorize: true
                         <div class="list-img">
                             <img src="licence-ico.png" alt="" class="list-ico">
                         </div>
-                        <div class="list-t">Get lisence</div>
+                        <div class="list-t">Get license</div>
                         <div class="list-descr">
                             Coming soon ...
                         </div>
