@@ -11,13 +11,14 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 
 ## Prerequisites
 
-* Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/electronics-new-products-example.csv" target="_blank">electronics-new-products-example.csv</a> file with new products.
+* Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/electronics-new-products-example.csv" target="_blank">electronics-new-products-example.csv</a> file with new products.
+* Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/images-example.zip" **images-example.zip** file with 15 images of new products.
 * Word Excel or <a href="https://www.libreoffice.org/" target="_blank">LibreOffice(*free*)</a>.
 
 ## Create catalog data file in .csv format
 
 * To create file with products like downloaded **electronics-new-products-example.csv** you need to create new file in any of Word Excel or LibreOffice programm.
-* In Excel just select the product properties you need from the list and fill in the product properties columns as in our document.
+* In Excel just select the product properties you need from the list and fill in the product properties columns as in our document. Set to the PrimaryImage column pathes to your images in **Assets**.
 * In LibreOffice you need to create table with the number of columns equal to the number of properties of your products and fill it. For a delimiter, select a comma.
 * Save file in .csv format.
 
@@ -29,21 +30,35 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 * There are 2 scenarios for adding new products: adding to a new catalog or to an existing one.
 
 ### Create new category and subcategory
+
 * To create new category in **Electronics Theme** click on **More > Catalog > Electronics** > click on **+Add** > choose the **Category** > add category name **Laptops** and code(optional), push on button **Create**.
 
 ![Create new category](../../assets/images/docs/new-category.png "Create new category")
 
 ![New category details](../../assets/images/docs/new-category-details.png "New category details")
 
-* Click on the **Laptops** in categories list. To create new subcategory, click on **+Add** > choose the **Category** > add category name **Asus-Laptops** and code(optional), push on button **Create**.
-* By click on **More > Catalog > Electronics > Laptops > Asus-Laptops** you will see all created categories.
+* Click on the **Laptops** in categories list. To create new subcategory, click on **+ Add** > choose the **Category** > add category name **Asus-Laptops** and code(optional), push on button **Create**.
+* By click on **More > Catalog > Electronics > Laptops > Asus-Laptops** you will see all created categories. If you want to get Asus-Laptops CategoryId for using it in .csv file - click on categories page menu, select **Id** by check box and copy Asus-Laptops Id value.
 
 ### Use an existing catalog and categories
+
 * Click on **More > Catalog**. Select the catalog and category names in which you want to add new products.
+
+## Upload images for new products
+
+* You need to add images for products: go to **More > Assets > catalog >** click on the **New folder** icon, type **ASUS** name, click button **Ok**.
+
+![New folder for images](../../assets/images/docs/assets-new-folder.png "New folder for images")
+
+![Upload new images](../../assets/images/docs/assets-upload-image.png "Upload new images")
+
+* Click on the **Upload** icon and select in File Explorer all downloaded example images from **images-example.zip**. Now you could see all images in the new **ASUS** catalog.
+
+![New images list](../../assets/images/docs/assets-new-products.png "New images list")
 
 ## Import and mapping your catalog data to Virto Commerce Platform(*backend*)
 
-* At the top of the **Asus-Laptops** category page click the **Import** icon > **VirtoCommerce CSV import** > select **Comma** in **Csv column delimiter** > click on image to upload **electronics-new-products-example.csv** file. Wait a minute...
+* At the top of the **Asus-Laptops** category page click on the **Import** icon > **VirtoCommerce CSV import** > select **Semicolon** in **Csv column delimiter** > click on image to upload **electronics-new-products-example.csv** file. Wait a minute... **Note** that importing new products from the file without specifying either the id category or the category path in it, defaults to the root directory - to the catalog.
 
 ![Сsv import](../../assets/images/docs/csv-import.png "Сsv import")
 
@@ -71,9 +86,24 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 
 ![New subcategory link](../../assets/images/docs/new-subcategory-link.png "New subcategory link")
 
+## Creating thumbnails for new product images
+
+* You need to create thumbnails for new images. For this need to **only once** creating new task for thumbnails generation: go to **More > Thumbnails >** click on **+ Add** icon, enter Name - **catalog images**, Path to images - **/catalog**, click on penсil icon near **Thumbnail setting** and on **+ Add** icon.
+
+![New thumbnail task](../../assets/images/docs/new-thumbnail-task.png "New thumbnail task")
+
+* Create and save thumbnail option details: Name - **348x348**, Thumbnail file name suffix - **348x348**, Resize method - **FixedSize**, Width - **348**, Height - **348**, Anchor Position - **Center**. Similarly for 3 other resolutions: **216x216, 168x168, 64x64**. 
+* Put the cursor in the **Thumbnail settings** field, add all settings, save new thumbnails generation task.
+
+![New thumbnail options](../../assets/images/docs/new-subcategory-link.png "New thumbnail options")
+
+* Select **catalog images** task in task list by check box, click on **! Run** icon, push button **Regenerate** in pop-up window. Wait a minute... All done.
+
+![New thumbnails was generated](../../assets/images/docs/new-thumbnails-generated.png "New thumbnails was generated")
+
 ## Build search indexes and reset cache
 
-* You need to build search indexes for new categories and products - open Virto Commerce Platform(*backend*), go to **More > Search index >** select all document types via check boxes **>** click on icon **Build index**, in pop-up window push on button **Build**.
+* By default indexes building by system throughout 5 minutes. If you want to build search indexes for new categories and products immediately, open Virto Commerce Platform(*backend*), go to **More > Search index >** select all document types via check boxes **>** click on icon **Build index**, in pop-up window push on button **Build**.
 
 ![Build search indexes](../../assets/images/docs/build-search-indexes.png "Build search indexes")
 
@@ -95,30 +125,30 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 | Property Name                                  | Data Type       | Example                                                                   |
 |------------------------------------------------|-----------------|---------------------------------------------------------------------------|
 | Name (required)                                | text            | Asus VivoBook W202NA-DH02 Rugged 11.6-inch Windows 10 Home Laptop         |
-| Id                                             | text            | 689dad074edd495897dd34d1846c4bfe                                          |
-| Sku                                            | text            | 123123hgf                                                                 |
+| Id                                             | text            |                                                                           |
+| Sku                                            | text            |                                                                           |
 | CategoryPath (required if CategoryId is empty) | text            | Laptops/Asus-Laptops                                                      |
-| CategoryId (required if CategoryPath is empty) | text            | 53e239451c844442a3b2fe9aa82d95c8                                          |
-| MainProductId                                  | text            | a82d95c853e239451c238442a3b2fe9a                                          |
+| CategoryId (required if CategoryPath is empty) | text            |                                                                           |
+| MainProductId                                  | text            |                                                                           |
 | PrimaryImage (image url in app)                | text            | http://localhost/admin/assets/catalog/PAHCVX870/1420483149000_1109406.jpg |
-| AltImage                                       | text            | panasonic-hc-vx870k-4k-ultra-hd-camcorder                                 |
-| SeoUrl                                         | text            | panasonic-hc-vx870k-4k-ultra-hd-camcorder                                 |
+| AltImage                                       | text            | asus-vivobook-w202na-dh02                                                 |
+| SeoUrl                                         | text            | asus-vivobook-w202na-dh02                                                 |
 | SeoTitle                                       | text            |                                                                           |
 | SeoDescription                                 | text            |                                                                           |
 | SeoLanguage                                    | text            | en-US                                                                     |
-| SeoStore (Id of Store)                         | text            | 844442a3b2fe9aa82d95c853e239451c                                          |
+| SeoStore (Id of Store)                         | text            |                                                                           |
 | Review                                         | number (0 or 1) | 1                                                                         |
-| ReviewType (Id of Review Type)                 | text            | 8a82d95c44442a3b2fe9a853e239451c                                          |
+| ReviewType                                     | text            | FullReview(or QuickReview)                                                |
 | IsActive                                       | number (0 or 1) | 1                                                                         |
 | IsBuyable                                      | number (0 or 1) | 1                                                                         |
 | TrackInventory                                 | number (0 or 1) | 1                                                                         |
-| PriceId                                        | text            | d95c448a82442a3b2fe9a853e239451c                                          |
+| PriceId                                        | text            |                                                                           |
 | SalePrice                                      | number          | 199.5                                                                     |
 | ListPrice (required)                           | number          | 199.5                                                                     |
 | Currency                                       | text            | USD                                                                       |
-| PriceListId                                    | text            | 8a82442a3b2fed95c449a853e239451c                                          |
+| PriceListId                                    | text            |                                                                           |
 | Quantity (required, 0 and more)                | number          | 25                                                                        |
-| ManufacturerPartNumber                         | text            | 8a82442a3b2fed95c449a853e239451c                                          |
+| ManufacturerPartNumber                         | text            | ASDJHG34GH-23                                                             |
 | Gtin                                           | text            |                                                                           |
 | MeasureUnit                                    | text            | mm                                                                        |
 | WeightUnit                                     | text            | gram                                                                      |
@@ -126,11 +156,11 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 | Height                                         | number          | 125                                                                       |
 | Length                                         | number          | 125                                                                       |
 | Width                                          | number          | 125                                                                       |
-| TaxType                                        | text            | 582fed9c449a853e239a82442a3b451c                                          |
-| ProductType                                    | text            | 89a853e239a8242fed95c4442a3b451c                                          |
-| ShippingType                                   | text            | 95c449a853e239a82442a3b4582fed1c                                          |
+| TaxType                                        | text            |                                                                           |
+| ProductType                                    | text            | Physical(or Digital)                                                      |
+| ShippingType                                   | text            |                                                                           |
 | Vendor                                         | text            | Asus                                                                      |
-| DownloadType (Id of Download Type)             | text            | 95c449a853e239a82442a3b4582fed1c                                          |
+| DownloadType                                   | text            | Standard Product(or Software, or Music)                                   |
 | DownloadExpiration                             | date            | 2018-04-05 21:47                                                          |
 | HasUserAgreement                               | number (0 or 1) | 1                                                                         |
 
