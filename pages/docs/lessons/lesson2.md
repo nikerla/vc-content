@@ -130,7 +130,7 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 | CategoryPath (required if CategoryId is empty) | text            | Laptops/Asus-Laptops                                                      |
 | CategoryId (required if CategoryPath is empty) | text            |                                                                           |
 | MainProductId                                  | text            |                                                                           |
-| PrimaryImage (image url in app)                | text            | http://localhost/admin/assets/catalog/PAHCVX870/1420483149000_1109406.jpg |
+| PrimaryImage (image url in app)                | text            | http://localhost/admin/assets/catalog/ASUS/99bb9e00c.jpg |
 | AltImage                                       | text            | asus-vivobook-w202na-dh02                                                 |
 | SeoUrl                                         | text            | asus-vivobook-w202na-dh02                                                 |
 | SeoTitle                                       | text            |                                                                           |
