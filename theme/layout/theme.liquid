@@ -158,6 +158,13 @@
                     $(items[i]).parent().addClass('__selected');
                 }
             }
+
+            $("#anchor").on("click", "a", function (event) {
+                event.preventDefault();
+                var id = $(this).attr('href');
+                var top = $(id).offset().top - 120;
+                $('body,html').animate({ scrollTop: top }, 1500);
+            });
         });
 
     </script>

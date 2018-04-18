@@ -3264,6 +3264,11 @@ ul.breadcrumbs {
     margin: 0 auto;
 }
 
+.justify-center {
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
 
 /* Forms */
 .form-file
@@ -3302,4 +3307,12 @@ input.ng-pristine.ng-invalid {
 input.ng-dirty.ng-invalid {
     background-color: #fce7e6;
     border: 1px solid #ea5564;
+}
+
+/* Anchor links*/
+.main.blog.glossary-anchor {
+    padding: 10px 0;
+}
+.list-link.anchor {
+    font-size: 20px !important;
 }
