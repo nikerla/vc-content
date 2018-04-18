@@ -65,9 +65,10 @@
     {% include 'form-contact-vendor' %}
     {% include 'form-support-vendor' %}
     {% include 'form-thank-you' %}
+    {% include 'getting-started' %}
     {% assign menu = linklists.main-menu %}
     {% if isAppsStore %}
-        {% assign menu = linklists.apps-menu %}
+    {% assign menu = linklists.apps-menu %}
     {% endif %}
     <div id="layout">
         <div class="layout-canvas">
@@ -78,9 +79,9 @@
             <div class="header-wrap">
                 <header class="responsive" role="banner">
                     {% if isAppsStore %}
-                        <a class="appstore-logo logo" href="{{ '/apps' | absolute_url }}"></a>
+                    <a class="appstore-logo logo" href="{{ '/apps' | absolute_url }}"></a>
                     {% else %}
-                        <a class="logo" href="{{ '/' | absolute_url }}"></a>
+                    <a class="logo" href="{{ '/' | absolute_url }}"></a>
                     {% endif %}
                     <a class="mobile-btn">
                         <span></span>
@@ -89,14 +90,14 @@
                     </a>
 
                     {% if isAppsStore == false %}
-                        {% include 'main-menu-static' %}
+                    {% include 'main-menu-static' %}
                     {% comment %}
                     <div class="head-phone">
                         <div class="head-phone_num">+1 (800) 980-5288</div>
                     </div>
                     {% endcomment %}
                     {% else %}
-                        {% include 'main-menu' %}
+                    {% include 'main-menu' %}
                     {% endif %}
                     {% if isAppsStore == true %}
                     <div class="head-search">
@@ -107,14 +108,14 @@
             </div>
             <article class="main" role="main">
                 <div class="business-features clearfix __responsive">
-                <ul class="breadcrumbs">
-                    <li><a href="/">VirtoCommerce</a></li>
-                    <li><a href="/glossary">Ecommerce Glossary</a></li>
-                </ul>
+                    <ul class="breadcrumbs">
+                        <li><a href="/">VirtoCommerce</a></li>
+                        <li><a href="/glossary">Ecommerce Glossary</a></li>
+                    </ul>
 
-	            {% include 'glossary-left-menu' %}
+                    {% include 'glossary-left-menu' %}
                     {{ content_for_layout }}
-                    {% include 'disqus' %}                      
+                    {% include 'disqus' %}
                 </div>
             </article>
             {% include 'footer' %}
@@ -140,19 +141,19 @@
             var BASE_URL = '{{ "/" | full_url }}';
     </script>
     <script src="//apis.google.com/js/platform.js" async defer></script>
-	{{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
+    {{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
     <script>
-            $(function () {
-                //set breadcrums
-                $('ul.breadcrumbs').append('<li><a href="' + $(location).attr('pathname') + '">' + $('h1.title').text() + '</a></li>');
+        $(function () {
+            //set breadcrums
+            $('ul.breadcrumbs').append('<li><a href="' + $(location).attr('pathname') + '">' + $('h1.title').text() + '</a></li>');
 
-                var items = $('.menu.__business-features li a');
-                for (var i = 0; i < items.length; i++) {
-                    $(items[i]).parent().removeClass('__selected');
-                    if ($(items[i]).attr('href') === window.location.pathname.replace('/', '')) {
-                        $(items[i]).parent().addClass('__selected');
-                    }
+            var items = $('.menu.__business-features li a');
+            for (var i = 0; i < items.length; i++) {
+                $(items[i]).parent().removeClass('__selected');
+                if ($(items[i]).attr('href') === window.location.pathname.replace('/', '')) {
+                    $(items[i]).parent().addClass('__selected');
                 }
+            }
         });
     </script>
     {{ '//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js' | script_tag }}
@@ -167,8 +168,8 @@
     {{ '//cdnjs.cloudflare.com/ajax/libs/angular-translate/2.12.1/angular-translate-loader-url/angular-translate-loader-url.min.js' | script_tag }}
 
 
-	{{ 'app.js' | asset_url | script_tag }}
-	{{ 'services.js' | asset_url | script_tag }}
-	{{ 'main-layout.min.js' | asset_url | script_tag }}
+    {{ 'app.js' | asset_url | script_tag }}
+    {{ 'services.js' | asset_url | script_tag }}
+    {{ 'main-layout.min.js' | asset_url | script_tag }}
 </body>
 </html>

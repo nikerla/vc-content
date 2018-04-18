@@ -1,0 +1,40 @@
+<div class="cu-dialog">
+    <div class="cu-head">
+        <div class="cu-t">Getting Started</div>
+        <svg class="cu-close" width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="umx-close-icon-24">
+                    <g id="close" transform="translate(6.000000, 6.000000)">
+                        <g id="Icon" transform="translate(4.500000, 4.500000)" fill="#fff" fill-rule="nonzero">
+                            <polygon id="Shape" points="15 1.0575 13.9425 0 7.5 6.4425 1.0575 0 0 1.0575 6.4425 7.5 0 13.9425 1.0575 15 7.5 8.5575 13.9425 15 15 13.9425 8.5575 7.5"></polygon>
+                        </g>
+                        <g id="Transparent_Rectangle">
+                            <rect id="Rectangle-path" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </div>
+    <div class="cu-body">
+        <p class="contact-info">Call Virto Commerce (US Only) <br />1-800-980-5288</p>
+        <ul class="contact-list">
+            <li><a href="/contact-us">Schedule a Discovery Call</a></li>
+            <li><a href="/estimate-project">Estimate my project</a></li>
+            <li><a href="/try-now">Try Virto Commerce</a></li>
+            <li><a href="/vc-community">Join developer community</a></li>
+        </ul>
+    </div>
+</div>
+{{ '//ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.1.min.js' | script_tag }}
+<script>
+    $(function () {
+        $('svg.cu-close').on('click', function (event) {
+            $('.cu-dialog').toggle();
+        });
+    });
+    function openContactUs(e) {
+        e.preventDefault();
+        $('.cu-dialog').toggle();
+    }
+</script>

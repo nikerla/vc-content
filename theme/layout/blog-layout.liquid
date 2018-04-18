@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html ng-app="storefrontApp">
 <head>
     <meta charset="UTF-8" />
@@ -9,27 +9,27 @@
     {% assign blog.title = 'Virto Commerce Blog' %}
 
     {% if blog_search.category %}
-        {% assign search_category = "blogs.categories." | append: blog_search.category | t %}
+    {% assign search_category = "blogs.categories." | append: blog_search.category | t %}
     {% elseif blog_search.tag %}
-        {% assign search_tag = "blogs.tags." | append: blog_search.tag | t %}
+    {% assign search_tag = "blogs.tags." | append: blog_search.tag | t %}
     {% endif %}
 
     {% if article %}
-        {% assign page_url = article.url | full_url %}
-        {% assign title = article.title | append: ' - ' | append: blog.title %}
-        {% assign description = article.excerpt %}
+    {% assign page_url = article.url | full_url %}
+    {% assign title = article.title | append: ' - ' | append: blog.title %}
+    {% assign description = article.excerpt %}
     {% else %}
-        {% assign page_url = blog.url | full_url %}
-        {% assign title = blog.title %}
-        {% assign description = blog.title %}
-        {% if search_category %}
-            {% assign title = search_category | append: ' - ' | append: blog.title %}
-            {% assign description = 'Posts about ' | append: search_category | append: ' - ' | append: blog.title %}
-        {% endif %}
-        {% if search_tag %}
-            {% assign title = search_tag | append: ' - ' | append: blog.title %}
-            {% assign description = 'Posts about ' | append: search_tag | append: ' - ' | append: blog.title %}
-        {% endif %}
+    {% assign page_url = blog.url | full_url %}
+    {% assign title = blog.title %}
+    {% assign description = blog.title %}
+    {% if search_category %}
+    {% assign title = search_category | append: ' - ' | append: blog.title %}
+    {% assign description = 'Posts about ' | append: search_category | append: ' - ' | append: blog.title %}
+    {% endif %}
+    {% if search_tag %}
+    {% assign title = search_tag | append: ' - ' | append: blog.title %}
+    {% assign description = 'Posts about ' | append: search_tag | append: ' - ' | append: blog.title %}
+    {% endif %}
     {% endif %}
 
     <meta name="description" content="{{ description }}" />
@@ -40,9 +40,9 @@
 
     {% assign full_base_url = '/' | full_url %}
     {% if page_image_url %}
-        {% assign page_image_full_url = full_base_url | append: page_image_url %}
+    {% assign page_image_full_url = full_base_url | append: page_image_url %}
     {% else %}
-        {% assign page_image_full_url = full_base_url | append: 'themes/assets/logox2.jpg' %}
+    {% assign page_image_full_url = full_base_url | append: 'themes/assets/logox2.jpg' %}
     {% endif %}
     <meta content="{{ page_image_full_url }}" property="og:image" />
 
@@ -53,19 +53,20 @@
     <meta content="{{ blog.title }}" property="og:site_name" />
 
     {% if article %}
-        {% for tag in article.tags %}
-            <meta content="{{ tag }}" property="article:tag" />
-        {% endfor %}
-		<meta content="{{ article.category }}" property="article:section" />
-		<meta content="{{ article.created_at }}" property="article:published_time" />
-		<meta content="{{ article.created_at }}" property="article:modified_time" />
-		<meta content="{{ article.created_at }}" property="og:updated_time" />
+    {% for tag in article.tags %}
+    <meta content="{{ tag }}" property="article:tag" />
+    {% endfor %}
+    <meta content="{{ article.category }}" property="article:section" />
+    <meta content="{{ article.created_at }}" property="article:published_time" />
+    <meta content="{{ article.created_at }}" property="article:modified_time" />
+    <meta content="{{ article.created_at }}" property="og:updated_time" />
     {% endif %}
 
     <meta name="twitter:card" content="summary" />
     <meta content="{{ description }}" name="twitter:description" />
-    <meta content="{{ title }}" name="twitter:title"/>
-    {% comment %}<meta content="{{ page_image_url | absolute_url }}" name="twitter:image"/>{% endcomment %}
+    <meta content="{{ title }}" name="twitter:title" />
+    {% comment %}
+    <meta content="{{ page_image_url | absolute_url }}" name="twitter:image" />{% endcomment %}
     <!-- Facebook Open Graph Meta Tags END: -->
 
     <title>{{ title }}</title>
@@ -89,6 +90,7 @@
     {{ '//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css' | stylesheet_tag }}
     {{ 'reset.css' | asset_url | stylesheet_tag }}
     {{ 'main.css' | asset_url | stylesheet_tag }}
+    {{ 'main-styles.min.css' | asset_url | stylesheet_tag }}
     {{ 'responsive.css' | asset_url | stylesheet_tag }}
 
     {% include 'google-tag-manager-head' %}
@@ -101,47 +103,45 @@
         <script src="/js/ie.js"></script>
         <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
     <!-- css3-mediaqueries.js for IE less than 9 -->
     <!--[if lt IE 9]>
         <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
     <![endif]-->
-
     {% if article %}
-        <script type="application/ld+json">
-            {
-                "@context": "http://schema.org",
-                "@type": "BlogPosting",
-                "mainEntityOfPage":{
-                    "@type":"WebPage",
-                    "@id":"{{ canonical_url }}"
-                },
-                "headline": "{{ article.title }}",
-                "image": {
-                    "@type": "ImageObject",
-                    "url": "{{ page_image_url | absolute_url }}",
-                    "height": 800,
-                    "width": 800
-                },
-                "datePublished": "{{ article.created_at }}",
-                "dateModified": "{{ article.created_at }}",
-                "author": {
-                    "@type": "Person",
-                    "name": "{{ article.author }}"
-                },
-                "publisher": {
-                    "@type": "Organization",
-                    "name": "{{ article.author }}",
-                    "logo": {
-                        "@type": "ImageObject",
-                        "url": "{{}}",
-                        "width": 600,
-                        "height": 60
-                    }
-                },
-                "description": "{{ page_description }}"
-            }
-        </script>
+    <script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage":{
+        "@type":"WebPage",
+        "@id":"{{ canonical_url }}"
+        },
+        "headline": "{{ article.title }}",
+        "image": {
+        "@type": "ImageObject",
+        "url": "{{ page_image_url | absolute_url }}",
+        "height": 800,
+        "width": 800
+        },
+        "datePublished": "{{ article.created_at }}",
+        "dateModified": "{{ article.created_at }}",
+        "author": {
+        "@type": "Person",
+        "name": "{{ article.author }}"
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "{{ article.author }}",
+        "logo": {
+        "@type": "ImageObject",
+        "url": "{{}}",
+        "width": 600,
+        "height": 60
+        }
+        },
+        "description": "{{ page_description }}"
+        }
+    </script>
     {% endif %}
     <script>
         var BASE_URL = '{{ "/" | full_url }}';
@@ -149,6 +149,7 @@
 </head>
 <body>
     {% include 'google-tag-manager-body' %}
+    {% include 'getting-started' %}
     {% assign menu = linklists.main-menu %}
     <div id="layout">
         <div class="layout-canvas">
