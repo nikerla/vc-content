@@ -12,7 +12,7 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 ## Prerequisites
 
 * Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/electronics-new-products-example.csv" target="_blank">electronics-new-products-example.csv</a> file with new products.
-* Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/images-example.zip" **images-example.zip** file with 15 images of new products.
+* Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/images-example.zip" target="_blank">images-example.zip</a> file with 15 images of new products.
 * Word Excel or <a href="https://www.libreoffice.org/" target="_blank">LibreOffice(*free*)</a>.
 
 ## Create catalog data file in .csv format
@@ -95,9 +95,9 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 * Create and save thumbnail option details: Name - **348x348**, Thumbnail file name suffix - **348x348**, Resize method - **FixedSize**, Width - **348**, Height - **348**, Anchor Position - **Center**. Similarly for 3 other resolutions: **216x216, 168x168, 64x64**. 
 * Put the cursor in the **Thumbnail settings** field, add all settings, save new thumbnails generation task.
 
-![New thumbnail options](../../assets/images/docs/new-subcategory-link.png "New thumbnail options")
+![New thumbnail options](../../assets/images/docs/add-thumbnail-settings.png "New thumbnail options")
 
-* Select **catalog images** task in task list by check box, click on **! Run** icon, push button **Regenerate** in pop-up window. Wait a minute... All done.
+* Select **catalog images** task in task list by check box, click on **! Run** icon, push button **Regenerate** in pop-up window. Wait a minute... All done. If you later add new pictures and generate thumbnails for them, select the button **Process changes**.
 
 ![New thumbnails was generated](../../assets/images/docs/new-thumbnails-generated.png "New thumbnails was generated")
 
