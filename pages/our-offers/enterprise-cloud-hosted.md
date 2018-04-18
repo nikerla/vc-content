@@ -75,6 +75,124 @@ permalink: our-offers/cloud-ecommerce-platform
 	</ul>
 </div>
 <div class="responsive">
+	<ul class="list list-studios three-items">
+        <li class="list-item">
+            <div class="list-inner">
+                <div class="list-head">
+                    <img src="assets/images/casestudies/proffs.png" alt="" class="list-pic">
+                </div>
+                <div class="list-body">
+                    <div class="list-t">Retail equipment</div>
+                    <div class="list-text">Objective: B2C/B2B Online Store</div>
+                    <div class="list-descr">
+                        Providing maximum
+                        scalability and
+                        centralizationfor
+                        expanding business
+                        internationally.
+                    </div>
+                </div>
+                <div class="list-foot">
+                    <a href="../assets/files/case-study-proffs.pdf" target="_blank" class="button fill">Read case study</a>
+                </div>
+            </div>
+        </li>
+        <li class="list-item">
+            <div class="list-inner">
+                <div class="list-head">
+                    <img src="assets/images/casestudies/gc-logo.jpg" alt="" class="list-pic">
+                </div>
+                <div class="list-body">
+                    <div class="list-t">B2B Gifts</div>
+                    <div class="list-text">Objective: Platform</div>
+                    <div class="list-descr">
+                        Consolidate various system using single
+                        platform to manage gift certificates for largest companies in the world. Provides both B2C and B2B solutions.
+                    </div>
+                </div>
+                <div class="list-foot">
+                    <a href="../assets/files/gc-case-study.pdf" target="_blank" class="button fill">Read case study</a>
+                </div>
+            </div>
+        </li>
+        <li class="list-item">
+            <div class="list-inner">
+                <div class="list-head">
+                    <img src="assets/images/casestudies/belysnings-design-logo.png" alt="" class="list-pic">
+                </div>
+                <div class="list-body">
+                    <div class="list-t">Retail lighting</div>
+                    <div class="list-text">Objective: B2C Online Store</div>
+                    <div class="list-descr">
+                        Create value through growth in profits by
+                        expanding the existing stores.
+                    </div>
+                </div>
+                <div class="list-foot">
+                    <a href="../assets/files/sd-case-study.pdf" target="_blank" class="button fill">Read case study</a>
+                </div>
+            </div>
+        </li>
+        <li class="list-item">
+            <div class="list-inner">
+                <div class="list-head">
+                    <img src="assets/images/casestudies/proffs.png" alt="" class="list-pic">
+                </div>
+                <div class="list-body">
+                    <div class="list-t">Retail equipment</div>
+                    <div class="list-text">Objective: B2C/B2B Online Store</div>
+                    <div class="list-descr">
+                        Providing maximum
+                        scalability and
+                        centralizationfor
+                        expanding business
+                        internationally.
+                    </div>
+                </div>
+                <div class="list-foot">
+                    <a href="../assets/files/case-study-proffs.pdf" target="_blank" class="button fill">Read case study</a>
+                </div>
+            </div>
+        </li>
+        <li class="list-item">
+            <div class="list-inner">
+                <div class="list-head">
+                    <img src="assets/images/casestudies/gc-logo.jpg" alt="" class="list-pic">
+                </div>
+                <div class="list-body">
+                    <div class="list-t">B2B Gifts</div>
+                    <div class="list-text">Objective: Platform</div>
+                    <div class="list-descr">
+                        Consolidate various system using single
+                        platform to manage gift certificates for largest companies in the world. Provides both B2C and B2B solutions.
+                    </div>
+                </div>
+                <div class="list-foot">
+                    <a href="../assets/files/gc-case-study.pdf" target="_blank" class="button fill">Read case study</a>
+                </div>
+            </div>
+        </li>
+        <li class="list-item">
+            <div class="list-inner">
+                <div class="list-head">
+                    <img src="assets/images/casestudies/belysnings-design-logo.png" alt="" class="list-pic">
+                </div>
+                <div class="list-body">
+                    <div class="list-t">Retail lighting</div>
+                    <div class="list-text">Objective: B2C Online Store</div>
+                    <div class="list-descr">
+                        Create value through growth in profits by
+                        expanding the existing stores.
+                    </div>
+                </div>
+                <div class="list-foot">
+                    <a href="../assets/files/sd-case-study.pdf" target="_blank" class="button fill">Read case study</a>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+<div class="responsive">
 	<h2 class="head-title">Cloud eCommerce Platform Pricing</h2>
 	{% include 'pricing-paas' %}
 </div>

@@ -3115,6 +3115,11 @@ ul.breadcrumbs {
 			flex-wrap: wrap;
 }
 
+.list-studios.three-items .list-item
+{
+	width: 33.3333%;
+}
+
 .list-studios .list-item
 {
 	box-sizing: border-box;
@@ -3123,21 +3128,24 @@ ul.breadcrumbs {
 }
 
 @media (min-width: 768px) and (max-width: 1019px) {
-	.list-studios .list-item
+	.list-studios .list-item,
+	.list-studios.three-items .list-item
 	{
 		width: 50%;
 	}
 }
 
 @media (max-width: 767px) {
-	.list-studios .list-item
+	.list-studios .list-item,
+	.list-studios.three-items .list-item
 	{
 		width: 50%;
 	}
 }
 
 @media (max-width: 510px) {
-	.list-studios .list-item
+	.list-studios .list-item,
+	.list-studios.three-items .list-item
 	{
 		width: 100%;
 	}
