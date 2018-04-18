@@ -42,11 +42,6 @@ tags :
                         <meta itemprop="height" content="401">
                     </span>
                 </figure>
-                <div class="glosary-article">
-                    <div class="glosary-videos center">
-                        {% include 'vc-b2b_b2c-banner' %}
-                    </div>
-                </div>
                 <p>
                     However, with its multitudes of features, like AppStore, cloud services, and good quality customer support, Shopify can get a little expensive compared to some Shopify alternatives, especially for a small business owner. In addition, the lack of any content-marketing features or blogging platforms, that many of the Shopify competitors, offer makes it very hard to promote your product. Content-marketing opportunities have become a prominent requirement on the ecommerce market these days. With good content marketing, you can almost double your conversion rates, making your customers aware of your competitiveness and expertise in any given field. There are also other issues that may cause you to consider switching to one of the Shopify competitors. For example:
                 </p>
@@ -57,32 +52,54 @@ tags :
                 </ol>
                 <p>If you are not satisfied with your Shopify experience or just like to keep your options open, here are some of the best alternatives to Shopify you can check out.</p>
             </div>
-            <p class="glosary-sub-t">BigCommerce</p>
+            <div class="glosary-article">
+                <div class="glosary-videos center">
+                    {% include 'vc-b2b_b2c-banner' %}
+                </div>
+            </div>
+            <div class="glosary-article blog" style="padding: 20px 0; background: #eee; text-align:center">
+                <div class="glosary-article post-tags">
+                    <p style="font-size: 22px; font-weight: 600;">10 BEST SHOPIFY ALTERNATIVE CONTENDERS</p>
+                    <ul id="anchor" class="tags list justify-center">
+                        <li class="list-item"><a class="list-link anchor" href="#bigcommerce">BigCommerce</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#lemonstand">LemonStand</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#volusion">Volusion</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#bigcartel">Big Cartel</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#magento">Magento</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#woocommerce">Woocommerce + Wordpress</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#3dcart">3dcart</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#ecwid">Ecwid</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#pinnaclecart">PinnacleCart</a></li>
+                        <li class="list-item"><a class="list-link anchor" href="#virtocommerce">Virto Commerce</a></li>
+                    </ul>
+                </div>
+            </div>
+            <p id="bigcommerce" class="glosary-sub-t">BigCommerce</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternatives - BigCommerce" src="assets/images/big-commerce-screen.jpg"></img>
                 <p>Probably the most well-known alternative to Shopify is <a href="https://www.bigcommerce.com/" rel="nofollow">Bigcommerce</a>. It is a huge player in the field of e-commerce solutions and is one of the biggest among all Shopify alternatives. Bigcommerce is a great solution, if you require a full cycle ecommerce platform for your business’ website. This is a solid platform that allows you to build a unique site without any advanced knowledge or skills in web programming. It also uses same markup language as a few other alternatives to Shopify, making it easier to get familiar with when switching from other platforms.</p>
                 <p>The big advantage of Bigcommerce in comparison to some other alternatives to Shopify is its design templates which are unlimited, regardless of the plan you choose. Big difference from Shopify! </p>
                 <p>Just like Weebly, another Shopify alternative, this platform provides a good variety of how-tos, some useful tips, and videos that will help you in the process of setting up and running your store. With the advanced content-marketing features in this alternative to Shopify, you can also promote the product on the web and drastically increase conversion rates.</p>
             </div>
-            <p class="glosary-sub-t">LemonStand</p>
+            <p id="lemonstand" class="glosary-sub-t">LemonStand</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - LemonStand" src="assets/images/lemonstand.jpg"></img>
                 <p>An exceptional open-source Shopify alternative that delivers solutions to its clients from the cloud. <a href="https://lemonstand.com/" rel="nofollow">LemonStand</a> is one of those Shopify competitors that deserve to be on top due to the fact that it lacks any significant cons and has always posed itself as a reliable platform. Due to its open-source features, this is the platform that is highly customizable and easy to scale. However, don’t be fooled by the fact that this platform is open source, therefore it should come for free. Be ready to pay more money for the packages compared to Shopify and other Shopify alternatives. With the packages you  receive the great design customization, product options and custom SSL. While the pricing may seem expensive, yet be sure that you are receiving straightforward features that worth it.</p>
                 <p>By building website with LemonStand, you are now free of credit card transaction charges from the platform itself, which actually can make a medium-large size business spend less money on the shopping cart platform as you would otherwise do with Shopify. Other than that, if you want a custom made storefront, be ready for the high customizability options that you may only take advantage of by hiring a web-design professional.</p>
             </div>
-            <p class="glosary-sub-t">Volusion</p>
+            <p id="volusion" class="glosary-sub-t">Volusion</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - Volusion" src="assets/images/volusion1.jpg"></img>
                 <p>A major player in the e-commerce field and a direct Shopify alternative. It currently serves over 40,000 businesses and is a cloud-based shopping cart solution that can be a perfect fit for small-sized businesses. <a href="https://www.volusion.com/" rel="nofollow">Volusion</a>, like other capable ecommerce online Shopify competitors, allows you to focus on selling your product online without the need to worry about providing hosting or connecting necessary applications to your website. The packages vary on the amount of applications you can connect to your website. Volusion have been praised among ecommerce community for its prominent features: easy-to- use user interface, 24/7/365 customer support services, unlimited product options, and absence of any transaction fees whatsoever. For the last mentioned feature in particular, Volusion can be a better option for you. To add to this, add one-page checkout as well as eBay integration that is already embedded into this alternative to Shopify (you will have to purchase a separate add-on).</p>
                 <p>Besides, select the design for your website from the extensive list of templates that are available with all of the packages. The only thing among the other Shopify aternatives that you should be aware of when using Volusion, is that it can charge fees for overage bandwidth, the amount of which is varied in packages. The price you can be suddenly hit with when tipping over the limit is $7/GB.</p>
             </div>
-            <p class="glosary-sub-t">Big Cartel</p>
+            <p id="bigcartel" class="glosary-sub-t">Big Cartel</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - Big Cartel" src="assets/images/bigcartel.jpg"></img>
                 <p>Next shopping cart among our list of Shopify competitors is the one that is geared specifically toward art creators. More than million musicians, designers, painters and other artists using this particular alternative to Shopify to sell their masterpieces. More and more people are now trusting <a href="https://www.bigcartel.com/" rel="nofollow">Big Cartel</a> for their storefront due to its affordable pricing, essential features, unlimited bandwidth, HTML &  CSS customization, inventory tracking software, quick integration with PayPal, Google Analytics and Facebook. Get all the features you need to seamlessly set up your new website and start selling online with no prior coding experience required. Even though it is more limited in its features than Shopify and other Shopify alternatives, Big Cartel is cheaper if you do not have plans for building a large online store.</p>
                 <p>Also, despite the platform not charging any transaction fees, be ready for PayPal to charge you higher payments. The other disappointing fact is that Big Cartel does not offer chat or phone support, which is a crucial feature in building selling websites. In the end, if you are unsure whether you should use Big Cartel or not, you should definitely try it as the 5 product plan comes absolutely free of charge.</p>
             </div>
-            <p class="glosary-sub-t">Magento</p>
+            <p id="magento" class="glosary-sub-t">Magento</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - Magento" src="assets/images/magento-1.jpg"></img>
                 <p>Open source, free of charge shopping cart solution that is among other Shopify competitors serves as a perfect platform for mid-sized to large businesses. It is not a great idea for a small business who just entered the world of ecommerce to start their webstore using Magento. <a href="https://magento.com/" rel="nofollow">Magento</a> is a premier league and its solution is suitable for large corporations with sufficient funds to sponsor knowledgeable programmers, and the time to adjust the platform to your needs. If you have such vast resources, this can serve as one of the most flexible of other shopify alternatives and be optimized to handle thousands of products, vast amounts of traffic and large counts of sales.</p>
@@ -104,7 +121,7 @@ tags :
                 <p>The following features exist, yet hard to program, which makes it almost unusable by novices in ecommerce. A perfect user would be an already established business that wants to have a complete control over the online store and has the funds to sponsor own hosting and IT professionals to do all of the web design and security work. The pricing is another tricky part of this platform. You can get the community version of Magento for free. However, you will have to program your store by yourself. If you purchase the Enterprise Edition, the developers from Magento will come to your aid, for $15,000 - $50,000 a year. </p>
                 <p>In the end, even though Magento attracts a very narrow range of customers, you might want to have it for your storefront because of these great features: absence of monthly service charges (be prepared to pay for your own hosting), better multi-lingual support when compared to Shopify, a greater variety of application, add-ons and plugins that will ensure you have the greatest customization possible along with the full control over all of the processes involved with your website.</p>
             </div>
-            <p class="glosary-sub-t">Woocommerce + Wordpress</p>
+            <p id="woocommerce" class="glosary-sub-t">Woocommerce + Wordpress</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - Woocommerce + Wordpress" src="assets/images/woocommerce-screen-1.jpg"></img>
                 <p>If you love using <a href="https://woocommerce.com/" rel="nofollow">Wordpress</a>, you might want to consider Woocommerce among other Shopify alternatives. It is an open source WordPress shopping cart plugin that can be installed for free and used along with any WordPress account. Woocommerce can easily turn your website into a feature-packed web shop.  With this alternative to the other Shopify competitors, you do not have to worry about being charged with any credit card transaction fees. Taking into an account that both alternatives to Shopify are free, the store can be hosted anywhere after you install WordPress. Take into a consideration that you will have to purchase a separate hosting subscription and this may take some money from your pocket. Having a website hosted on the other platform may involve you knowing some technical skills.</p>
@@ -112,14 +129,14 @@ tags :
                 <p>Once you have set up your basic store with the plugin, it would be beneficial to purchase some advanced feature packages to it. There are two prominent packages that you might want to consider. The first is Product Bundles, which can be used to increase the sales of your store. The feature comes at a price of $49 and gives you the option to bundle multiple products of yours for sale and enhance the sales on your website. The second add-on is WooCommerce Freshdesk which costs $79 and enables you to provide customer support for the visitors of your store by being able to receive and handle support tickets. Woocommerce plugins come in all shapes and sizes for you to increase the productivity of you web shop.</p>
                 <p>Therefore, if you have a business which is already running on a WordPress platform, you can quickly integrate this plugin into an existing website. Enjoy the freedom and flexibility even more by not disclosing any of your data with third-party software platforms and by doing only a single payment for any add-ons you will possibly install (compare to Shopify’s monthly subscription feature).</p>
             </div>
-            <p class="glosary-sub-t">3dcart</p>
+            <p id="3dcart" class="glosary-sub-t">3dcart</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - 3dcart" src="assets/images/3dcart.jpg"></img>
                 <p>A cloud-hosted cart solution that is prominent among other Shopify competitors for its robust features that are offered at a small price. It is most suited for small business owners whose goal is not to post too many products and have large amounts of traffic on the website. The packages vary in amount of bandwidth provided per month, so if you are a big company looking to open an online outlet, pass this option right away. If you just getting started in ecommerce, this is the platform that will not disappoint you with features and functionality that it provides. Therefore, be aware of bandwidth overage fees of $5 per each GB exceeded. The main things that 3dcart offers are web design services to skillfully tailor your website’s UI and UX as well as SSL certificates. One of the most important features 3dcart is being praised upon is its unlimited product storage options.</p>
                 <p>It does not matter how large of a business you are, there will never be a limit on the amount of products that you want to post. With that in mind, imagine if your business is experiencing rapid growth, how easy it would be to scale the platform. Another thing to mention is that <a href="https://www.3dcart.com/" rel="nofollow">3dcart</a> can seamlessly support over 100 different payment gateways, which can provide your customers with flexible options, making sure that you provide the payment method they want. One last thing that stands out among other Shopify alternatives is the tremendous support the company provides while you are launching the store. Instant chat and phone customer support will leave you assured that you have chosen the right people and will help you feel supported in the community.  </p>
                 <p>Overall, 3dcart is a well rounded solution that is a strong Shopify alternative due to some valuable features have been praised by its customers, which include: free 50 templates for customizing the design of your website, product bundle options, discounts and special deals at the registry, SEO tools, and full integration with over 100 payment gateways. The “Nano” package comes only for $9.99/month and gives you the availability to post up to 10 products, with unlimited storage and majority of features. Also, get 15% discount if you purchase the subscription for the entire year.</p>
             </div>
-            <p class="glosary-sub-t">Ecwid</p>
+            <p id="ecwid" class="glosary-sub-t">Ecwid</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - Ecwid" src="assets/images/ecwid.jpg"></img>
                 <p>
@@ -135,7 +152,7 @@ tags :
                 </ol>
                 <p>If you have an online presence, you can set up an Ecwid store in no time and at a low cost, with the features that are present in high-end shopping cart solutions. The only downside of it will be the absence of any web-design templates, as the company expects you to already have an existing website in place, to which the ecommerce function can be integrated. </p>
             </div>
-            <p class="glosary-sub-t">PinnacleCart</p>
+            <p id="pinnaclecart" class="glosary-sub-t">PinnacleCart</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - PinnacleCart" src="assets/images/pinnacle-cart.jpg"></img>
                 <p>
@@ -149,7 +166,7 @@ tags :
                     {% include 'vc-b2b_b2c-banner' %}
                 </div>
             </div>
-            <h2 class="glosary-sub-t">Virto Commerce</h2>
+            <h2 id="virtocommerce" class="glosary-sub-t">Virto Commerce</h2>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - Virto Commerce" src="assets/images/virto-commerce-screen.jpg"></img>
                 <p>
