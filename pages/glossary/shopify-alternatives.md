@@ -57,10 +57,10 @@ tags :
                     {% include 'vc-b2b_b2c-banner' %}
                 </div>
             </div>
+            <p id="bigcommerce" class="glosary-sub-t">10 best shopify alternative contenders</p>
             <div class="glosary-article">
                 <div class="glosary-article">
-                    <p style="font-size: 22px; font-weight: 600; text-align: center;">10 BEST SHOPIFY ALTERNATIVE CONTENDERS</p>
-                    <ul id="anchor" class="list text-center">
+                    <ul id="anchor" class="list">
                         <li class="list-item"><a class="list-link" href="#bigcommerce">BigCommerce</a></li>
                         <li class="list-item"><a class="list-link" href="#lemonstand">LemonStand</a></li>
                         <li class="list-item"><a class="list-link" href="#volusion">Volusion</a></li>
