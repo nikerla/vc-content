@@ -124,7 +124,7 @@ permalink: our-offers/cloud-ecommerce-platform
 </div>
 {% include 'platform-integrations' %}
 <div class="responsive">
-    <h2 class="head-title">Cloud eCommerce Platform Pricing</h2>
+    <h2 class="head-title text-center">Cloud eCommerce Platform Pricing</h2>
     {% include 'pricing-paas' %}
 </div>
 <div class="try-it">
