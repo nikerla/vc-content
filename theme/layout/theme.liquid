@@ -124,7 +124,7 @@
                 }
             }
 
-            $("#anchor").on("click", "a", function (event) {
+            $("#anchor, #anchor-part-2 ").on("click", "a", function (event) {
                 event.preventDefault();
                 var id = $(this).attr('href');
                 var top = $(id).offset().top - 120;

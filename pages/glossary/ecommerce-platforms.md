@@ -46,31 +46,39 @@ tags:
                     {% include 'vc-b2b_b2c-banner' %}
                 </div>
             </div>
-            <div class="glosary-article blog" style="padding: 20px 0; background: #eee; text-align:center">
-                <div class="glosary-article post-tags">
-                    <p style="font-size: 22px; font-weight: 600;">20 BEST E COMMERCE PLATFORM CONTENDER</p>
-                    <ul id="anchor" class="tags list justify-center">
-                        <li class="list-item"><a class="list-link anchor" href="#shopify">Shopify</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#bigcommerce">BigCommerce</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#woocommerce">Woocommerce</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#magento">Magento</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#volusion">Volusion</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#3dcart">3dCart</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#gumroad">Gumroad</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#storenvy">Storenvy</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#jimdo">Jimdo</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#wix">Wix</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#squarespace">Squarespace</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#weebly">Weebly</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#bigcartel">Big Cartel</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#sendowl">Send Owl</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#ecwid">Ecwid</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#ejunkie">E-junkie</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#xcart">X-cart</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#prestashop">PrestaShop</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#foxycart">Foxycart</a></li>
-                        <li class="list-item"><a class="list-link anchor" href="#opencart">OpenCart</a></li>
-                    </ul>
+            <div class="glosary-article">
+                <div class="glosary-article">
+                    <p style="font-size: 22px; font-weight: 600; text-align:center">20 BEST E COMMERCE PLATFORM CONTENDER</p>
+                    <div class="col-w">
+                        <div class="col __col-50">
+                                <ul id="anchor" class="list">
+                                    <li class="list-item"><a class="list-link" href="#shopify">Shopify</a></li>
+                                    <li class="list-item"><a class="list-link" href="#bigcommerce">BigCommerce</a></li>
+                                    <li class="list-item"><a class="list-link" href="#woocommerce">Woocommerce</a></li>
+                                    <li class="list-item"><a class="list-link" href="#magento">Magento</a></li>
+                                    <li class="list-item"><a class="list-link" href="#volusion">Volusion</a></li>
+                                    <li class="list-item"><a class="list-link" href="#3dcart">3dCart</a></li>
+                                    <li class="list-item"><a class="list-link" href="#gumroad">Gumroad</a></li>
+                                    <li class="list-item"><a class="list-link" href="#storenvy">Storenvy</a></li>
+                                    <li class="list-item"><a class="list-link" href="#jimdo">Jimdo</a></li>
+                                    <li class="list-item"><a class="list-link" href="#wix">Wix</a></li>
+                                </ul>
+                        </div>
+                        <div class="col __col-50">
+                            <ul id="anchor-part-2" class="list">
+                                <li class="list-item"><a class="list-link" href="#squarespace">Squarespace</a></li>
+                                <li class="list-item"><a class="list-link" href="#weebly">Weebly</a></li>
+                                <li class="list-item"><a class="list-link" href="#bigcartel">Big Cartel</a></li>
+                                <li class="list-item"><a class="list-link" href="#sendowl">Send Owl</a></li>
+                                <li class="list-item"><a class="list-link" href="#ecwid">Ecwid</a></li>
+                                <li class="list-item"><a class="list-link" href="#ejunkie">E-junkie</a></li>
+                                <li class="list-item"><a class="list-link" href="#xcart">X-cart</a></li>
+                                <li class="list-item"><a class="list-link" href="#prestashop">PrestaShop</a></li>
+                                <li class="list-item"><a class="list-link" href="#foxycart">Foxycart</a></li>
+                                <li class="list-item"><a class="list-link" href="#opencart">OpenCart</a></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </div>
             <h2 class="glosary-sub-t">Best ecommerce platform</h2>
