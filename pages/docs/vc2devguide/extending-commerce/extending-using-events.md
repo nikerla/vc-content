@@ -7,17 +7,20 @@ priority: 7
 ---
 ## Events overview
 
-Events are notifications that are broadcasted to interested parties. Events can be triggered on data changes like inserts, updates and deletes. There should be a publisher and consumer (subscriber) for events.
+An event is something that has happened in the past. A domain event is, logically, something that happened in a particular domain, and something you want other parts of the same domain (in-process) to be aware of and potentially react to.
 
-## Define the new event
+An important benefit of domain events is that side effects after something happened in a domain can be expressed explicitly instead of implicitly. Those side effects must be consistent so either all the operations related to the business task happen, or none of them. In addition, domain events enable a better separation of concerns among classes within the same domain.
 
+## How to define domain events
+A domain event is just a simple POCO that represents an interesting occurence in the domain.
 ```
 public class CustomDomainEvent : DomainEvent
 {
+ public Customer Customer { get; set; }
 }
 ```
 
-## Define the new event handler
+## How to define a new event handler 
 
 ```
 public class CutomDomainEventHandler : IEventHandler<CustomDomainEvent>
@@ -29,22 +32,21 @@ public class CutomDomainEventHandler : IEventHandler<CustomDomainEvent>
 }
 ```
 
-## Register the event handler
+## How to register an event handler, subscribe to a domain event
 
 ```
 var eventHandlerRegistrar = _container.Resolve<IHandlerRegistrar>();
 eventHandlerRegistrar.RegisterHandler<CustomDomainEvent>(async (message, token) => await _container.Resolve<CustomDomainEventHandler>().Handle(message));
 ```
 
-## Raise the domain event
-
+## How to raise domain events
+In your domain entities, when a significant state change happens you’ll want to raise your domain events like this
 ```
 var eventPublisher = _container.Resolve<IEventPublisher>();
 eventPublisher .Publish(new CustomDomainEvent()));
 ```
 
-## Override already exist event handler with new derived type
-
+## How to override an existing event handler with a new derived type
 ```
 public class CustomDomainEventHandler2 : CustomDomainEventHandler
 { .... }
