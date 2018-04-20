@@ -60,7 +60,7 @@ tags :
             <p id="bigcommerce" class="glosary-sub-t">10 best shopify alternative contenders</p>
             <div class="glosary-article">
                 <div class="glosary-article">
-                    <ul id="anchor" class="list">
+                    <ol id="anchor" class="list anchor-list">
                         <li class="list-item"><a class="list-link" href="#bigcommerce">BigCommerce</a></li>
                         <li class="list-item"><a class="list-link" href="#lemonstand">LemonStand</a></li>
                         <li class="list-item"><a class="list-link" href="#volusion">Volusion</a></li>
@@ -71,7 +71,7 @@ tags :
                         <li class="list-item"><a class="list-link" href="#ecwid">Ecwid</a></li>
                         <li class="list-item"><a class="list-link" href="#pinnaclecart">PinnacleCart</a></li>
                         <li class="list-item"><a class="list-link" href="#virtocommerce">Virto Commerce</a></li>
-                    </ul>
+                    </ol>
                 </div>
             </div>
             <p id="bigcommerce" class="glosary-sub-t">BigCommerce</p>

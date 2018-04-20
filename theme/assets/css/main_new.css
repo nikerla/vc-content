@@ -3316,3 +3316,15 @@ input.ng-dirty.ng-invalid {
 .list-link.anchor {
     font-size: 20px !important;
 }
+ol.anchor-list {
+    list-style-type: decimal !important;
+    padding-left: 40px !important;
+    color: #f89406 !important;
+}
+    ol.anchor-list li a {
+        color: #000000 !important;
+    }
+
+        ol.anchor-list li a:hover {
+            color: #f89406 !important;
+        }
