@@ -31,26 +31,26 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
     </section>
     <div itemprop="articleBody" class="vc-sections-container">
         <!-- <section class="ecommerce" data-name="section">
-            <div class="section-inner responsive">
-                <div class="cols">
-                    <div itemprop="mainEntityOfPage" class="col">
-                        <div itemprop="headline" class="section-t">B2B Ecommerce Platform</div>
-                        <div class="section-descr">The best agile B2B e-commerce solution</div>
-                        <div class="section-actions">
-                            <a href="/try-now" class="button white fill">Request demo & trial</a>
-                            <a href="/features/for-business-professionals" class="button white">Download whitepaper</a>
-                        </div>
+        <div class="section-inner responsive">
+            <div class="cols">
+                <div itemprop="mainEntityOfPage" class="col">
+                    <div itemprop="headline" class="section-t">B2B Ecommerce Platform</div>
+                    <div class="section-descr">The best agile B2B e-commerce solution</div>
+                    <div class="section-actions">
+                        <a href="/try-now" class="button white fill">Request demo & trial</a>
+                        <a href="/features/for-business-professionals" class="button white">Download whitepaper</a>
                     </div>
-                    <div class="col">
-                        <div class="mac">
-                            <div class="inner">
-                                <iframe id="video" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" allowfullscreen="" frameborder="0"></iframe>
-                            </div>
+                </div>
+                <div class="col">
+                    <div class="mac">
+                        <div class="inner">
+                            <iframe id="video" src="https://www.youtube.com/embed/22BMH86RQys?ecver=1" allowfullscreen="" frameborder="0"></iframe>
                         </div>
                     </div>
                 </div>
             </div>
-        </section> -->
+        </div>
+    </section> -->
         {% include 'micro-mark-publisher' %}
         {% include 'micro-mark-rating', bestRating: 5, ratingValue: 4.8, ratingCount: 1784 %}
         <section class="costumers" data-name="section">
@@ -140,6 +140,44 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                         </div>
                     </div>
                 </div>
+            </div>
+        </section>
+        <section class="app-blocks-section" data-name="section">
+            <div class="section-inner responsive">
+                <div class="section-t">What experts are saying about our B2B ecommerce software?</div>
+                <ul class="list list-studios three-items">
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-body">
+                                <div class="list-t">5/5</div>
+                                <div class="list-text"><a href="https://ecommerce-platforms.com/articles/virtocommerce-review-highly-advanced-enterprise-ecommerce-platform-serious-business" target="_blank" rel="nofollow">Ecommerce-Platforms.com</a></div>
+                                <div class="list-descr">"A Highly Advanced Cloud Ecommerce Platform For Serious Business"</div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-body">
+                                <div class="list-t">5/5</div>
+                                <div class="list-text"><a href="https://www.capterra.com/p/147200/VirtoCommerce/" target="_blank" rel="nofollow">Capterra.com</a></div>
+                                <div class="list-descr">
+                                    "A Highly Advanced Cloud Ecommerce Platform For Serious Business"
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="list-item">
+                        <div class="list-inner">
+                            <div class="list-body">
+                                <div class="list-t">5/5</div>
+                                <div class="list-text"><a href="https://www.g2crowd.com/products/virtocommerce/reviews" target="_blank" rel="nofollow">G2Crowd.com</a></div>
+                                <div class="list-descr">
+                                    "The ease to build complex B2B scenarios, solutions for distributors and manufacturers."
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </section>
         <section class="ecommerce-features" data-name="section">
@@ -428,6 +466,20 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                                 Using our personal experience and the E-consultancy blog reviews, we have compiled a list of B2B ecommerce websites and companies, who provide inspiration and have truly been revolutionary and innovative.
                             </div>
                             <a href="{{ '/glossary/b2b-ecommerce-companies-websites' | absolute_url }}" class="post-link">Read more...</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="best-articles-section" data-name="section" style="background: #6c6f71; height: 30px; padding:0">
+            <div class="section-inner responsive">
+                <div class="cols">
+                    <div class="col">
+                        <div class="post-item">
+                            <ul class="breadcrumbs-footer">
+                                <li><a href="/">VirtoCommerce</a></li>
+                                <li><a href="/b2b-ecommerce-platform">B2B Ecommerce Platform</a></li>
+                            </ul>
                         </div>
                     </div>
                 </div>
