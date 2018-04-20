@@ -3127,6 +3127,12 @@ ul.breadcrumbs {
 	width: 25%;
 }
 
+.list-studios .list-item.inner
+{
+    box-sizing: border-box;
+    padding: 0px;
+    width: 100%;
+}
 @media (min-width: 768px) and (max-width: 1019px) {
 	.list-studios .list-item,
 	.list-studios.three-items .list-item

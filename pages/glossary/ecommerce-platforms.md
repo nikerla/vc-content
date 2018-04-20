@@ -46,40 +46,40 @@ tags:
                     {% include 'vc-b2b_b2c-banner' %}
                 </div>
             </div>
+            <p class="glosary-sub-t">20 best e commerce platform contenders</p>
             <div class="glosary-article">
-                <div class="glosary-article">
-                    <p style="font-size: 22px; font-weight: 600; text-align:center">20 BEST E COMMERCE PLATFORM CONTENDER</p>
-                    <div class="col-w">
-                        <div class="col __col-50">
-                                <ul id="anchor" class="list">
-                                    <li class="list-item"><a class="list-link" href="#shopify">Shopify</a></li>
-                                    <li class="list-item"><a class="list-link" href="#bigcommerce">BigCommerce</a></li>
-                                    <li class="list-item"><a class="list-link" href="#woocommerce">Woocommerce</a></li>
-                                    <li class="list-item"><a class="list-link" href="#magento">Magento</a></li>
-                                    <li class="list-item"><a class="list-link" href="#volusion">Volusion</a></li>
-                                    <li class="list-item"><a class="list-link" href="#3dcart">3dCart</a></li>
-                                    <li class="list-item"><a class="list-link" href="#gumroad">Gumroad</a></li>
-                                    <li class="list-item"><a class="list-link" href="#storenvy">Storenvy</a></li>
-                                    <li class="list-item"><a class="list-link" href="#jimdo">Jimdo</a></li>
-                                    <li class="list-item"><a class="list-link" href="#wix">Wix</a></li>
-                                </ul>
-                        </div>
-                        <div class="col __col-50">
-                            <ul id="anchor-part-2" class="list">
-                                <li class="list-item"><a class="list-link" href="#squarespace">Squarespace</a></li>
-                                <li class="list-item"><a class="list-link" href="#weebly">Weebly</a></li>
-                                <li class="list-item"><a class="list-link" href="#bigcartel">Big Cartel</a></li>
-                                <li class="list-item"><a class="list-link" href="#sendowl">Send Owl</a></li>
-                                <li class="list-item"><a class="list-link" href="#ecwid">Ecwid</a></li>
-                                <li class="list-item"><a class="list-link" href="#ejunkie">E-junkie</a></li>
-                                <li class="list-item"><a class="list-link" href="#xcart">X-cart</a></li>
-                                <li class="list-item"><a class="list-link" href="#prestashop">PrestaShop</a></li>
-                                <li class="list-item"><a class="list-link" href="#foxycart">Foxycart</a></li>
-                                <li class="list-item"><a class="list-link" href="#opencart">OpenCart</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+                <ul class="list list-studios">
+                    <li class="list-item">
+                    </li>
+                    <li class="list-item">
+                        <ol id="anchor" class="list anchor-list">
+                            <li class="list-item inner"><a class="list-link" href="#shopify">Shopify</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#bigcommerce">BigCommerce</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#woocommerce">Woocommerce</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#magento">Magento</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#volusion">Volusion</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#3dcart">3dCart</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#gumroad">Gumroad</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#storenvy">Storenvy</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#jimdo">Jimdo</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#wix">Wix</a></li>
+                        </ol>
+                    </li>
+                    <li class="list-item">
+                        <ol id="anchor-part-2" class="list anchor-list">
+                            <li class="list-item inner" value="11"><a class="list-link" href="#squarespace">Squarespace</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#weebly">Weebly</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#bigcartel">Big Cartel</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#sendowl">Send Owl</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#ecwid">Ecwid</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#ejunkie">E-junkie</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#xcart">X-cart</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#prestashop">PrestaShop</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#foxycart">Foxycart</a></li>
+                            <li class="list-item inner"><a class="list-link" href="#opencart">OpenCart</a></li>
+                        </ol>
+                    </li>
+                </ul>
             </div>
             <h2 class="glosary-sub-t">Best ecommerce platform</h2>
             <div class="glosary-article">
@@ -255,7 +255,7 @@ tags:
                 A wonderful tool to build your customized store in an already existing marketplace. This means that you can launch your web store almost as you were using such grand platforms like Amazon or eBay. The main advantage of such stores is that they have a large customer base that allows you to gain visitors quickly.
                 <p>The only downside is that they can’t allow you to create a personalized store as YOU want it. Wanting to combine the best of two worlds of ecommerce, <a href="http://www.storenvy.com/" rel="nofollow">Storenvy</a> was created. It lets you easily launch you unique and customized store inside a Storenvy marketplace with the essential tools offered by the platform. Facebook store integration along with social-style “watch” and ‘’envy” buttons allow you to easily grow your store and attract more people to follow your products. The huge advantage of the platform is that it is free, making you able to upload up to 500 product listings, only taking 10% of each sale when your product is posted up front on the Storenvy Marketplace.</p>
             </div>
-            <p id="jimdo"class="glosary-sub-t">Jimdo</p>
+            <p id="jimdo" class="glosary-sub-t">Jimdo</p>
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Best E commerce Platforms - Jimdo" src="assets/images/jimdo.jpg" />
                 If you want to quickly change the appearance or description of your product, then <a href="https://www.jimdo.com/" rel="nofollow">this ecommerce platform</a> is suited just for you! Its easy interface allows you to manage your website with a single click. It makes it quick and easy for you to set your site’s design and start selling online.
