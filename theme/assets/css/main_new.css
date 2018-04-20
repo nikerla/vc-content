@@ -3328,3 +3328,21 @@ ol.anchor-list {
         ol.anchor-list li a:hover {
             color: #f89406 !important;
         }
+
+/* Footer breadcrumbs */
+
+ul.breadcrumbs-footer {
+    list-style-type: none;
+    padding-top: 30px;
+}
+
+    ul.breadcrumbs-footer > li {
+        display: inline;
+        font-size: 14px
+    }
+
+        ul.breadcrumbs-footer > li + li::before {
+            padding: 0 5px;
+            color: #ccc;
+            content: "/\00a0";
+        }

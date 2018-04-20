@@ -471,5 +471,19 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                 </div>
             </div>
         </section>
+        <section class="best-articles-section" data-name="section" style="background: #6c6f71; height: 30px; padding:0">
+            <div class="section-inner responsive">
+                <div class="cols">
+                    <div class="col">
+                        <div class="post-item">
+                            <ul class="breadcrumbs-footer">
+                                <li><a href="/">VirtoCommerce</a></li>
+                                <li><a href="/b2b-ecommerce-platform">B2B Ecommerce Platform</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
     </div>
 </section>
