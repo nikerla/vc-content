@@ -7,7 +7,7 @@ priority: 2
 ---
 ## Summary
 
-Use this guide to import new products into Virto Commerce Platform(backend) catalog and see or view or can observe them locally in Virto Commerce Storefront(frontend).
+Use this guide to import new products into Virto Commerce Platform(backend) catalog and can observe them locally on Virto Commerce Storefront(frontend).
 
 ## Prerequisites
 
