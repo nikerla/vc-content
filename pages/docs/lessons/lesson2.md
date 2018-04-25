@@ -60,7 +60,9 @@ Use this guide to import new products into Virto Commerce Platform(backend) cata
 ## Import and mapping your catalog data to Virto Commerce Platform(*backend*)
 
 * At the top of the **Asus-Laptops** category page click on the **Import** icon **> VirtoCommerce CSV import >** select **Semicolon** in **Csv column delimiter >** click on image to upload **electronics-new-products-example.csv** file. Wait a minute... 
-__Note:__ importing new products from the file without specifying either the id category or the category path in it, defaults to the root directory - to the catalog.
+
+>Note: importing new products from the file without specifying either the id category 
+>or the category path in it, defaults to the root directory - to the catalog.
 
 ![Сsv import](../../assets/images/docs/csv-import.png "Сsv import")
 
