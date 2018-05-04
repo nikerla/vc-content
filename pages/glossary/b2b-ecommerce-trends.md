@@ -1,6 +1,6 @@
 ---
-title: B2B ecommerce trends
-description: What are the main B2B Ecommerce trends in 2017? Learn more in our article.
+title: B2B ecommerce trends in 2018
+description: What are the main B2B Ecommerce trends in 2018? Learn more in our article.
 date: 2017-04-27
 canonical: https://virtocommerce.com/glossary/b2b-ecommerce-trends
 permalink: glossary/b2b-ecommerce-trends
@@ -24,7 +24,7 @@ tags :
     <meta itemprop="dateModified" content="2018-02-22">
     <div itemprop="articleBody" class="business-cnt">
         <div itemprop="mainEntityOfPage"  class="head __cart">
-            <h1 itemprop="headline" class="title">B2B Ecommerce trends</h1>
+            <h1 itemprop="headline" class="title">B2B Ecommerce Trends in 2018</h1>
         </div>
         <div class="blog b2b-e-commerce">
             <ul class="socials list" style="margin-top: 20px;">
