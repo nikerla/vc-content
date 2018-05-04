@@ -5,7 +5,7 @@ tags:
   - b2b-ecommerce
   - b2b
   - commerce
-title: 'B2B eCommerce Platform | Best Software by Virto Commerce'
+title: 'B2B eCommerce Platform | Best B2B eCommerce Software by Virto Commerce'
 description: The agile B2B e-commerce solution. The best B2B ecommerce software developers deserve.
 ---
 <section itemscope itemtype="http://schema.org/Article">
