@@ -86,7 +86,7 @@ permalink: our-offers/cloud-ecommerce-platform
 </div>
 <div class="responsive buffer-bot">
     <div class="text-center">
-        <p style="font-size: 24px;">What experts are saying about our cloud platform?</p>
+        <p style="font-size: 24px;">What experts are saying about our cloud ecommerce platform?</p>
     </div>
     <ul class="list list-studios three-items">
         <li class="list-item">
