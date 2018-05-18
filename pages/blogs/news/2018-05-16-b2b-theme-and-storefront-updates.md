@@ -23,7 +23,7 @@ Here is a preview of what the new B2B theme looks like https://demo.virtocommerc
 
 <h2>B2B theme updates</h2>
 
-These are main changes in the B2B theme we have implemented with the latest update:
+<ins>These are main changes in the B2B theme we have implemented with the latest update:</ins>
 
 •	New sign up a process that allows registering as an organization or personal customer.
 
@@ -42,12 +42,14 @@ These are main changes in the B2B theme we have implemented with the latest upda
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-4.jpg" /></div>
 
 •	New customer cabinet is designed to cover all basic requirements for an organization or customer management such as:	
-o	manage organization members and their roles
-o	invite new members of the organization 
-o	edit company information and address
-o	view all employee data, such as orders or personal lists
-o	manage preferences and checkout defaults
-o	create and use unlimited named lists for favorited and planned purchases
+<ul type="circle">
+<li>manage organization members and their roles</li>
+<li>invite new members of the organization </li>
+<li>edit company information and address</li>
+<li>view all employee data, such as orders or personal lists</li>
+<li>manage preferences and checkout defaults</li>
+<li>create and use unlimited named lists for favorited and planned purchases</li>
+</ul>
 
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-5.jpg" /></div>
 <br>
@@ -59,28 +61,28 @@ o	create and use unlimited named lists for favorited and planned purchases
 
 The Storefront has been revamped quite significantly as well. We have added many new amazing features for enterprise and business solutions.
 
-Here is the list of the most important Storefront changes:
+<ins>Here is the list of the most important Storefront changes:</ins>
 
 •	We added permission-based authorization to our storefront that allows users to check permissions and roles defined in the platform.
  
- [Authorize(SecurityConstants.Permissions.CanEditUsers)]
+ <small>[Authorize(SecurityConstants.Permissions.CanEditUsers)]</small>
 
 •	Reworked API for working with  lists 
 
 •	Completely reworked authentication/authorization system to work independently from the Core module API. This allows using custom security settings (password strong, or lockout policy) independently of the platform settings.
 
-DELETE: storefrontapi/account/{userId}<br>
-POST: storefrontapi/account/organization<br>
-POST: storefrontapi/account/user<br>
-PUT: storefrontapi/account/organization<br>
-GET: storefrontapi/account/organization/current<br>
-POST: storefrontapi/account/organization/users/search<br>
-POST: storefrontapi/account/{userId}/lock<br>
-POST: storefrontapi/account/{userId}/unlock<br>
+<small>DELETE: storefrontapi/account/{userId}</small><br>
+<small>POST: storefrontapi/account/organization</small><br>
+<small>POST: storefrontapi/account/user</small><br>
+<small>PUT: storefrontapi/account/organization</small><br>
+<small>GET: storefrontapi/account/organization/current</small><br>
+<small>POST: storefrontapi/account/organization/users/search</small><br>
+<small>POST: storefrontapi/account/{userId}/lock</small><br>
+<small>POST: storefrontapi/account/{userId}/unlock</small><br>
 
 •	Added support of user invitation 
 
-POST: storefrontapi/account/invitation
+<small>POST: storefrontapi/account/invitation</small>
 
 •	Added new methods of managing user accounts and organizations
 
