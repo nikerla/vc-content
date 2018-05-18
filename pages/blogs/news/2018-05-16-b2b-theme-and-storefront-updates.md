@@ -50,7 +50,7 @@ o	manage preferences and checkout defaults
 o	create and use unlimited named lists for favorited and planned purchases
 
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-5.jpg" /></div>
-
+<br>
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-6.jpg" /></div>
 
 •	The theme is built on the CSS framework Bootstrap 3.0 and has an adaptive markup that allows it to work on mobile devices with small resolutions.
@@ -62,22 +62,24 @@ The Storefront has been revamped quite significantly as well. We have added many
 Here is the list of the most important Storefront changes:
 
 •	We added permission-based authorization to our storefront that allows users to check permissions and roles defined in the platform.
+ 
  [Authorize(SecurityConstants.Permissions.CanEditUsers)]
 
 •	Reworked API for working with  lists 
 
 •	Completely reworked authentication/authorization system to work independently from the Core module API. This allows using custom security settings (password strong, or lockout policy) independently of the platform settings.
 
-DELETE: storefrontapi/account/{userId}
-POST: storefrontapi/account/organization
-POST: storefrontapi/account/user
-PUT: storefrontapi/account/organization
-GET: storefrontapi/account/organization/current
-POST: storefrontapi/account/organization/users/search
-POST: storefrontapi/account/{userId}/lock
-POST: storefrontapi/account/{userId}/unlock
+DELETE: storefrontapi/account/{userId}<br>
+POST: storefrontapi/account/organization<br>
+POST: storefrontapi/account/user<br>
+PUT: storefrontapi/account/organization<br>
+GET: storefrontapi/account/organization/current<br>
+POST: storefrontapi/account/organization/users/search<br>
+POST: storefrontapi/account/{userId}/lock<br>
+POST: storefrontapi/account/{userId}/unlock<br>
 
 •	Added support of user invitation 
+
 POST: storefrontapi/account/invitation
 
 •	Added new methods of managing user accounts and organizations
@@ -89,15 +91,15 @@ And stay tuned for more enhancements to the VirtoCommerce platform – our journ
 <h2>Old B2B theme version 1.0  appearance</h2>
 
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-7.jpg" /></div>
-
+<br>
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-8.jpg" /></div>
-
+<br>
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-9.jpg" /></div>
 
 <h2>New B2B theme version 2.0 appearance</h2>
 
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-10.jpg" /></div>
-
+<br>
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-11.jpg" /></div>
-
+<br>
 <div style="text-align: center;"><img src="../../assets/images/blog/b2b-theme-and-storefront-updates-12.jpg" /></div>
