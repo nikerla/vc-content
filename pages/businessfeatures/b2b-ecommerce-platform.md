@@ -151,7 +151,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                             <div class="list-body">
                                 <div class="list-t">5/5</div>
                                 <div class="list-text"><a href="https://ecommerce-platforms.com/articles/virtocommerce-review-highly-advanced-enterprise-ecommerce-platform-serious-business" target="_blank" rel="nofollow">Ecommerce-Platforms.com</a></div>
-                                <div class="list-descr">"A Highly Advanced Cloud Ecommerce Platform For Serious Business"</div>
+                                <div class="list-descr">"A Highly Advanced B2B Ecommerce Platform For Serious Business"</div>
                             </div>
                         </div>
                     </li>
@@ -161,7 +161,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                                 <div class="list-t">5/5</div>
                                 <div class="list-text"><a href="https://www.capterra.com/p/147200/VirtoCommerce/" target="_blank" rel="nofollow">Capterra.com</a></div>
                                 <div class="list-descr">
-                                    "A Highly Advanced Cloud Ecommerce Platform For Serious Business"
+                                    "The best B2B e-commerce software - these guys knows what they do!"
                                 </div>
                             </div>
                         </div>
