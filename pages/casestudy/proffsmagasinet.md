@@ -8,7 +8,7 @@ permalink: case-studies/proffsmagasinet
     <div class="header bg-proffsmagasinet ">
         <div class="bg-container">
             <div class="inner">
-                <h2>Proffmagasinet success story</h2>
+                <h2>Proffsmagasinet success story</h2>
             </div>
         </div>
     </div>
