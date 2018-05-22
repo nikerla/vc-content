@@ -2789,6 +2789,11 @@ ul.breadcrumbs {
     color: #787878;
 }
 
+.text-14 {
+    font-size: 14px;
+}
+
+
 .block-400 {
     width: 400px;
 }
@@ -2891,7 +2896,12 @@ blockquote {
 }
 
     blockquote::after {
-        content: '';
+        content: "\201C";
+        color: #f89406;
+        font-size: 4em;
+        position: absolute;
+        right: 10px;
+        bottom: -10px
     }
 
     blockquote::before {
@@ -2911,8 +2921,16 @@ blockquote {
         margin-top: 1em
     }
 
+/* Case Study */
+
 .case-studies > .header {
-    height: 340px;}
+    height: 340px;
+
+}
+.case-studies > .body {
+    margin-top: 20px;
+
+}
 
 .case-studies > .header > .bg-container {
     background-color: rgba(51, 51, 51, .7);
