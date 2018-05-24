@@ -14,45 +14,48 @@ tags :
 	<div class="columns">
 		<div class="column">
 			<div class="block">
-				<form method="post">
-					<input type="hidden" name="Contact[Subject]" value="Become a partner" />
-					<input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-partner' />
-					<div class="column">
-						<div class="control-group">
-							<label for="FullName">Full name</label>
-							<input id="Contact[FullName]" type="text" tabindex="1" name="Contact[FullName]" class="form-input" required="required" />
-						</div>
-						<div class="control-group">
-							<label for="Phone">Phone</label>
-							<input id="Contact[Phone]" type="text" tabindex="3" name="Contact[Phone]" class="form-input" required="required" />
-						</div>
-						<div class="control-group">
-							<label for="JobTitle">Job Title</label>
-							<input id="Contact[JobTitle]" type="text" tabindex="5" name="Contact[JobTitle]" class="form-input" required="required" />
-						</div>
-					</div>
-					<div class="column">
-						<div class="control-group">
-							<label for="Email">Email</label>
-							<input id="Contact[Email]" type="text" tabindex="2" name="Contact[Email]" class="form-input" required="required" />
-						</div>
-						<div class="control-group">
-							<label for="CompanyName">Company</label>
-							<input id="Contact[CompanyName]" type="text" tabindex="4" name="Contact[CompanyName]" class="form-input" required="required" />
-						</div>
-						<div class="control-group">
-							<label for="Website">Website</label>
-							<input id="Contact[Website]" type="text" tabindex="6" name="Contact[Website]" class="form-input" required="required" />
-						</div>
-					</div>
-					<div class="control-group">
-						<label for="Message">Comments</label>
-						<textarea id="Contact[Message]" rows="10" tabindex="7" cols="30" name="Contact[Message]" class="form-text" required="required"></textarea>
-					</div>
-					<div class="control-group">
-						<button type="submit" class="button fill">Send Message</button>
-					</div>
-				</form>
+                <form method="post">
+                    <input type="hidden" name="Contact[Subject]" value="Become a partner" />
+                    <input type="hidden" name="Contact[RedirectUrl]" value='~/thank-you-partner' />
+                    <div class="column">
+                        <div class="control-group">
+                            <label for="FullName">Full name</label>
+                            <input id="Contact[FullName]" type="text" tabindex="1" name="Contact[FullName]" class="form-input" required="required" />
+                        </div>
+                        <div class="control-group">
+                            <label for="Phone">Phone</label>
+                            <input id="Contact[Phone]" type="text" tabindex="3" name="Contact[Phone]" class="form-input" required="required" />
+                        </div>
+                        <div class="control-group">
+                            <label for="JobTitle">Job Title</label>
+                            <input id="Contact[JobTitle]" type="text" tabindex="5" name="Contact[JobTitle]" class="form-input" required="required" />
+                        </div>
+                    </div>
+                    <div class="column">
+                        <div class="control-group">
+                            <label for="Email">Email</label>
+                            <input id="Contact[Email]" type="text" tabindex="2" name="Contact[Email]" class="form-input" required="required" />
+                        </div>
+                        <div class="control-group">
+                            <label for="CompanyName">Company</label>
+                            <input id="Contact[CompanyName]" type="text" tabindex="4" name="Contact[CompanyName]" class="form-input" required="required" />
+                        </div>
+                        <div class="control-group">
+                            <label for="Website">Website</label>
+                            <input id="Contact[Website]" type="text" tabindex="6" name="Contact[Website]" class="form-input" required="required" />
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label for="Message">Comments</label>
+                        <textarea id="Contact[Message]" rows="10" tabindex="7" cols="30" name="Contact[Message]" class="form-text" required="required"></textarea>
+                    </div>
+                    <div class="control-group">
+                        <button type="submit" class="button fill">Send Message</button>
+                    </div>
+                    <div class="control-group">
+                        <label class="text-14">By clicking «Send Message» I agree to the Virto Commerce <a href="/terms">Terms</a> and <a href="">Privacy</a>.</label>
+                    </div>
+                </form>
 			</div>
 		</div>
 		<div class="column">
