@@ -63,7 +63,7 @@ tags :
                         <button type="submit" class="button fill" tabindex="11">Submit Request</button>
                     </div>
                     <div class="control-group">
-                        <label class="text-14">By clicking «Download Whitepaper» I agree to the Virto Commerce <a href="/terms">Terms</a> and <a href="">Privacy</a>.</label>
+                        <label class="text-14">By clicking «Download Whitepaper» I agree to the Virto Commerce <a href="/terms">Terms</a> and <a href="/privacy">Privacy</a>.</label>
                     </div>
                 </form>
             </div>
