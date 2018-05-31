@@ -11,7 +11,6 @@ tags:
   - features
   - open-source
 title: 'March 2017 release notes'
-
 ---
 We have recently released a new update that includes a number of significant improvements to the platform!
 Here are the most major changes we’ve made:

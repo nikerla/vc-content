@@ -5,7 +5,6 @@ permalink: blog/4-ways-to-increase-revenue-through-on-site-search
 main-image: ../../assets/images/blog/4-ways-to-increase-revenue-through-on-site-search.jpg
 excerpt: With the eCommerce world becoming increasingly saturated, retailers must make sure that their online stores exceed consumers’ expectations which means to be simple and easy to navigate for shoppers to successfully check out, and return for further purchases. 
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

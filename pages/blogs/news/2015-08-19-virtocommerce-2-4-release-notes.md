@@ -1,4 +1,4 @@
-﻿---
+---
 author: VirtoCommerce
 category: release
 date: 2015-08-19 15:31

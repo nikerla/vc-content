@@ -5,7 +5,6 @@ permalink: blog/agile-platform
 main-image: ../../assets/images/blog/agile-platform.jpg
 excerpt: Agile is the most recognized and widely used methodology in software development presently. What are advantages for business of using it? How does it help reduce costs and allow a business to stay ultra-competitive in today’s dynamic e-commerce market?
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

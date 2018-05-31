@@ -5,7 +5,6 @@ permalink: blog/3-tips-to-maximize-conversions-through-on-site-search
 main-image: ../../assets/images/blog/3-tips-to-maximize-conversions-through-on-site-search.jpg
 excerpt: This Black Friday and Cyber Monday, enhance your online store’s shopping experience and increase revenue by implementing these three simple tools.  
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

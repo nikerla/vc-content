@@ -5,7 +5,6 @@ permalink: blog/vc-latest-updates
 main-image: ../../assets/images/blog/vc-latest-updates.jpg
 excerpt: Our Virto Commerce platform is constantly evolving, getting better, faster, and more versatile with each update. We’re always on top of the latest marketing, e-commerce and software development trends. Here’re the latest updates to the Virto Commerce platform.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

@@ -5,7 +5,6 @@ permalink: blog/5-common-issues-in-handling-order-management
 main-image: ../../assets/images/blog/5-common-issues-in-handling-order-management.jpg
 excerpt: Do you want to save your regular clients and win the loyality of potential customers? Then learn 5 ways of making your order management process more effective in this article.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

@@ -11,7 +11,6 @@ tags:
   - open-source
   - bulk-order
 title: 'January 2017 release notes'
-
 ---
 The main topics for the release: new Subscriptions module, updated Personal cabinet and Bulk orders in storefront.
 
