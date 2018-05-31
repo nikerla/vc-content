@@ -154,5 +154,5 @@ tags :
         </ul>
     </div>
 </div>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0imdd0c9r5SR_lOJCRCegRGY9AX5pm3s&v=3.exp&sensor=false"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVE7fcdVSIH14bpwkBuS3mAn9RzMSzobo&sensor=false"></script>
 <script type="text/javascript" src="https://virtocommerce.com/themes/assets/about-us.js"></script>
