@@ -49,7 +49,7 @@ permalink: contact-partner
                         <button type="submit" class="button fill">Submit request</button>
                     </div>
                     <div class="control-group">
-                        <label class="text-14">By clicking «Submit Request» I agree to the Virto Commerce <a href="/terms">Terms</a> and <a href="">Privacy</a>.</label>
+                        <label class="text-14">By clicking «Submit Request» I agree to the Virto Commerce <a href="/terms">Terms</a> and <a href="/privacy">Privacy</a>.</label>
                     </div>
                 </form>
 			</div>
