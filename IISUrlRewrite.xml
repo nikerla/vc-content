@@ -179,7 +179,7 @@
             <add key="/blog/for-developers" value="/" />
             <add key="/blog/become-partner" value="/partners/become-partner" />
             <add key="/blog/list-of-partners" value="/partners/list-of-partners" />
-            <add key="/blog/best-ecommerce-platforms,404" value="/glossary/best-ecommerce-platforms" />
+            <add key="/blog/best-ecommerce-platforms" value="/glossary/best-ecommerce-platforms" />
         </rewriteMap>
     </rewriteMaps>
     <rules>
