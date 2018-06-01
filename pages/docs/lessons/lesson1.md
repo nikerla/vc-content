@@ -118,6 +118,14 @@ New-Item -ItemType directory -Path $folder -Force
 * Click **Change password**.
 * Enter the new password twice and click **OK**.
 
+### Change frontend password
+
+* In the left menu select **More > Configuration > Security**.
+* Select **Users**
+* Select the **frontend** user.
+* Click **Change password**.
+* Enter the new password twice and click **OK**.
+
 ### Change API credentials for storefront application
 
 * In the left menu select **More > Configuration > Security**.
