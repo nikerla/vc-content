@@ -154,5 +154,29 @@ tags :
         </ul>
     </div>
 </div>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVE7fcdVSIH14bpwkBuS3mAn9RzMSzobo"></script>
-<script type="text/javascript" src="https://virtocommerce.com/themes/assets/about-us.js"></script>
+<script>
+    $(function () {
+        $('.list-map').each(function () {
+            initMap($(this));
+        });
+    });
+
+    function initMap($mapBlock) {
+
+        var $latlng = $mapBlock.find('.marker');
+        var $lat = parseFloat($latlng.attr('data-lat'));
+        var $lng = parseFloat($latlng.attr('data-lng'));
+
+        debugger;
+        var uluru = { lat: $lat, lng: $lng };
+        var map = new google.maps.Map($mapBlock[0], {
+            zoom: 16,
+            center: uluru
+        });
+        var marker = new google.maps.Marker({
+            position: uluru,
+            map: map
+        });
+    }
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVE7fcdVSIH14bpwkBuS3mAn9RzMSzobo"></script>
