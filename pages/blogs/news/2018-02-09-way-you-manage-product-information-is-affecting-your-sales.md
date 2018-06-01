@@ -5,7 +5,6 @@ permalink: blog/way-you-manage-product-information-is-affecting-your-sales
 main-image: ../../assets/images/blog/way-you-manage-product-information-is-affecting-your-sales.jpg
 excerpt: Do you know that the quality and completeness of product information has a direct impact on company’s sales? Learn how to avoid the negative impact and have your PIM help increase your sales in this article.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

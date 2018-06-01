@@ -7,7 +7,6 @@ permalink: blog/search-index-improvements
 tags:
   - announcements
 title: 'Search index improvements'
-
 ---
 ## Search index improvements
 Most of the data has to be indexed before showing up on your Storefront website. The background processes are constantly indexing the items to keep the site up to date. Despite this, there used to be a frequent question like "Why my newly created product not showing up in the Storefront?". 

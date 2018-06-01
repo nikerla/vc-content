@@ -5,7 +5,6 @@ permalink: blog/stripe-checkout-payment-module
 main-image: ../../assets/images/blog/stripe-checkout-payment-module.jpg
 excerpt: We have released the new Stripe Checkout payment module that will allow you to integrate your Virto Commerce based online store with the Stripe payment API.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

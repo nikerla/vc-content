@@ -5,7 +5,6 @@ permalink: blog/b2b-theme-and-storefront-updates
 main-image: ../../assets/images/blog/b2b-theme-and-storefront-updates.jpg
 excerpt: The VirtoCommerce team released the latest updates of B2B Theme and Storefront! Check it out in this article.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

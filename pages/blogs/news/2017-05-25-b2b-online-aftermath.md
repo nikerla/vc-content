@@ -6,13 +6,11 @@ permalink: blog/b2b-online-aftermath
 main-image: ../../assets/images/blog/b2b-online-aftermath1.jpg
 excerpt: B2B Online is where world leading manufacturers share their experience  with the fellow professionals in the field. Now we're excited to share our impressions from this experience.
 tags:
-
-- technical leadership
+- technical-leadership
 - ecommerce
 - enterprise-ecommerce
 - features
 - virtocommerce
-
 title: B2B Online Aftermath
 ---
 

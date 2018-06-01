@@ -6,7 +6,7 @@ main-image: ../../assets/images/blog/DevOps-MAIN.jpg
 excerpt: Virto Commerce team is constantly improving its technical leadership. Our Solutions Architect has just visited the DevOps conference and shared his thoughts on what he has seen.
 tags:
   - devops
-  - technical leadership
+  - technical-leadership
   - ecommerce
   - enterprise-ecommerce
   - features

@@ -5,9 +5,9 @@ permalink: blog/virtocommerce-releases-product-recommendation
 main-image: ../../assets/images/blog/ai.jpg
 excerpt: Virto Commerce team is constantly improving its technical leadership. Our Solutions Architect has just visited the DevOps conference and shared his thoughts on what he has seen.
 tags:
-  - product recommendations
+  - product-recommendations
   - AI
-  - technical leadership
+  - technical-leadership
   - ecommerce
   - enterprise-ecommerce
   - features

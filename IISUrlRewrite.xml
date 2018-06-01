@@ -3,7 +3,9 @@
         <rewriteMap name="VC-redirects">
             <add key="/platform/styleguide" value="docs/vc2devguide/working-with-platform-manager/style-guide" />
             <add key="/styleguide/blade-constructor.html" value="guides/blade-constructor" />
+            <add key="/platform/styleguide/blade-constructor.html" value="guides/blade-constructor" />
             <add key="/styleguide/index.html" value="guides/style-guide"/>
+            <add key="/platform/styleguide/" value="guides/style-guide"/>
             <add key="/docs/vc113userguide/dashboard" value="docs/old-versions/vc113userguide/dashboard" />
             <add key="/docs/vc111userguide-jp/merchandise-management/creating-editing-and-deleting-a-catalog" value="docs/old-versions/vc111userguide-jp/merchandise-management/creating-editing-and-deleting-a-catalog" />
             <add key="/docs/vc113userguide/settings/settings-tab" value="docs/old-versions/vc113userguide/settings/settings-tab" />
@@ -156,6 +158,28 @@
             <add key="/account" value="vc-community" />
             <add key="/product-information-management-software" value="product-information-management-software-pim" />
             <add key="/order-management-software" value="order-management-software-oms" />
+            <add key="/glossary/purchase-order-management" value="glossary/purchase-order-management-software" />
+            <add key="/glossary/order-management-software" value="order-management-software-oms" />
+            <add key="/docs/vc113devguide/working-with-catalog-system/database-model" value="/docs/old-versions/vc113devguide/working-with-catalog-system/database-model" />
+            <add key="/docs/vc113userguide/getting-started/creating-new-store-from-empty-database" value="/docs/old-versions/vc113userguide/getting-started/creating-new-store-from-empty-database" />
+            <add key="/docs/vc113userguide/price-lists/viewing-a-price-list" value="/docs" />
+            <add key="/docs/vc113userguide/fulfillment/inventory" value="/docs" />
+            <add key="/blog/docs" value="/docs" />
+            <add key="/blog/terms" value="/terms" />
+            <add key="/blog/support" value="/support" />
+            <add key="/blog/try-now" value="/try-now" />
+            <add key="/blog/roadmap" value="/roadmap" />
+            <add key="/blog/about-us" value="/about-us" />
+            <add key="/blog/resources" value="/resources" />
+            <add key="/blog/case-studies" value="/case-studies" />
+            <add key="/blog/vc-community" value="/vc-community" />
+            <add key="/blog/try-now-download" value="/try-now-download" />
+            <add key="/blog/estimate-project" value="/estimate-project" />
+            <add key="/blog/b2b-ecommerce-platform" value="/b2b-ecommerce-platform" />
+            <add key="/blog/for-developers" value="/" />
+            <add key="/blog/become-partner" value="/partners/become-partner" />
+            <add key="/blog/list-of-partners" value="/partners/list-of-partners" />
+            <add key="/blog/best-ecommerce-platforms" value="/glossary/best-ecommerce-platforms" />
         </rewriteMap>
     </rewriteMaps>
     <rules>

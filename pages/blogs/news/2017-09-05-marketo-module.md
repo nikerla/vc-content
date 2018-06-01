@@ -5,7 +5,6 @@ permalink: blog/marketo-module
 main-image: ../../assets/images/blog/marketo-module.jpg
 excerpt: We have created a new VirtoCommerce.Marketo module which provides integration with https://marketo.com Marketing Service, allowing more effective work with clients, to create and update leads.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

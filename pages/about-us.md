@@ -16,9 +16,9 @@ tags :
     </div>
     <div class="our-team">
         <div class="our-inner __responsive">
-                <h3>Our Team</h3>
-                <p>Virto Commerce is an innovative, enthusiastic, open-minded community of more than 100 technophiles collaborating across offices in Los Angeles, Vilnius, Kaliningrad and Beijing. Though we’re a diverse group, personally and professionally, we’re all united in our focus on two very important things: <br>1) exceeding the expectations of our clients and 2) having fun with what we do, both in the office and outside.</p>
-            </div>
+            <h3>Our Team</h3>
+            <p>Virto Commerce is an innovative, enthusiastic, open-minded community of more than 100 technophiles collaborating across offices in Los Angeles, Vilnius, Kaliningrad and Beijing. Though we’re a diverse group, personally and professionally, we’re all united in our focus on two very important things: <br>1) exceeding the expectations of our clients and 2) having fun with what we do, both in the office and outside.</p>
+        </div>
     </div>
     <div class="management-team __responsive">
         <h3>Management Team</h3>
@@ -53,7 +53,7 @@ tags :
                         project management product to the marketplace by managing technical risks and opportunities:
                         making key software design and implementation decisions with the development teams;
                         scheduling of tasks including tracking dependencies, managing change requests,
-                        and guaranteeing quality of deliveries; and educating the team on technical best practices. 
+                        and guaranteeing quality of deliveries; and educating the team on technical best practices.
                         He holds degree in physics from Emmanuel Kant State University.
                     </p>
                 </div>
@@ -66,10 +66,10 @@ tags :
                 <div class="list-office">Director of Sales</div>
                 <div class="list-descr">
                     <p>
-                        B2B sales focused with experience in new business development, relationship management, digital project management, automated marketing, and digital strategic planning. Leading teams of designers, developers, and marketing professionals executing digital transformation has taught me to successfully grow and manage enterprise level projects with executive stakeholders. 
+                        B2B sales focused with experience in new business development, relationship management, digital project management, automated marketing, and digital strategic planning. Leading teams of designers, developers, and marketing professionals executing digital transformation has taught me to successfully grow and manage enterprise level projects with executive stakeholders.
                     </p>
                 </div>
-            </li>         
+            </li>
             <li class="list-item" style="width: 33%;">
                 <figure class="list-pic" data-office="SA">
                     <img src="assets/images/about/stephen-shao.jpg" alt="Stephen Shao">
@@ -109,12 +109,12 @@ tags :
             -->
         </ul>
     </div>
-        <div class="our-offices __responsive">
+    <div class="our-offices __responsive">
         <h3>Our Offices</h3>
         <ul class="list list-studios three-items">
             <li class="list-item" itemscope itemtype="http://schema.org/Organization">
                 <div class="list-map">
-                    <div class="marker" data-lat="34.257451" data-lng="-118.590180"></div>
+                    <div class="marker" data-lat="34.257555" data-lng="-118.590205"></div>
                 </div>
                 <div class="list-location">Los Angeles, USA</div>
                 <div class="list-descr">
@@ -128,7 +128,7 @@ tags :
             </li>
             <li class="list-item" itemscope itemtype="http://schema.org/Organization">
                 <div class="list-map">
-                    <div class="marker" data-lat="54.717376" data-lng="25.2832098"></div>
+                    <div class="marker" data-lat="54.717486" data-lng="25.285831"></div>
                 </div>
                 <div class="list-location">Vilnius, Lithuania</div>
                 <div class="list-descr">
@@ -140,7 +140,7 @@ tags :
             </li>
             <li class="list-item" itemscope itemtype="http://schema.org/PostalAddress">
                 <div class="list-map">
-                    <div class="marker" data-lat="54.731876" data-lng="20.524388"></div>
+                    <div class="marker" data-lat="54.732310" data-lng="20.525650"></div>
                 </div>
                 <div class="list-location">Kaliningrad, Russia</div>
                 <div class="list-descr">
@@ -154,5 +154,23 @@ tags :
         </ul>
     </div>
 </div>
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
-<script type="text/javascript" src="https://virtocommerce.com/themes/assets/about-us.js"></script>
+<script>
+    function initMap() {
+            $('.list-map').each(function () {
+                $mapBlock = $(this);
+                var $latlng = $mapBlock.find('.marker');
+                var $lat = parseFloat($latlng.attr('data-lat'));
+                var $lng = parseFloat($latlng.attr('data-lng'));
+                var uluru = { lat: $lat, lng: $lng };
+                var map = new google.maps.Map($mapBlock[0], {
+                    zoom: 16,
+                    center: uluru
+                });
+                var marker = new google.maps.Marker({
+                    position: uluru,
+                    map: map
+                });
+            });
+    }
+</script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVE7fcdVSIH14bpwkBuS3mAn9RzMSzobo&callback=initMap"></script>

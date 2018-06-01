@@ -7,7 +7,7 @@ main-image: ../../assets/images/blog/belysningsdesign-case-study-preview.jpg
 excerpt: Belysningsdesign is one of today's leading online lighting stores in Scandinavia with an active customer base of nearly 48 000 buyers. The company has completed its migration to the Virto Commerce platform and we have released a case study to showcase their success.
 tags:
 
-- technical leadership
+- technical-leadership
 - ecommerce
 - enterprise-ecommerce
 - features

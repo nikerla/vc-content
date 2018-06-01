@@ -5,7 +5,6 @@ permalink: blog/elastic-search-advantages
 main-image: ../../assets/images/blog/elastic-search-advantages.jpg
 excerpt: Elastic Search is a great feature to find something among big amounts of data for seconds. Learn where we use it and what is the result in our new article.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

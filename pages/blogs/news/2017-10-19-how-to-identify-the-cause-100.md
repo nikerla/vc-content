@@ -5,7 +5,6 @@ permalink: blog/how-to-identify-the-cause-100
 main-image: ../../assets/images/blog/how-to-identify-the-cause-100-main.jpg
 excerpt: In Virto Commerce, we have multiple apps in an Azure App Service Plan, all different copies of the same app for different clients. Learn how to identify the cause 100% CPU usage in Azure App Service in our new article.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

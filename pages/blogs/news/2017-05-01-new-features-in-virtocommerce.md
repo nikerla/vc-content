@@ -5,7 +5,7 @@ permalink: blog/new-features-in-virtocommerce
 main-image: ../../assets/images/blog/update.jpg
 excerpt: What’s in the works – New features coming up in the Virto Commerce platform.
 tags:
-  - technical leadership
+  - technical-leadership
   - ecommerce
   - enterprise-ecommerce
   - features

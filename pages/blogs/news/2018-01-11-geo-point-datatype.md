@@ -5,7 +5,6 @@ permalink: blog/geo-point-datatype
 main-image: ../../assets/images/blog/geo-point-datatype.jpg
 excerpt: What is a geo-point? What changes and additions are avaliable with this feature? Learn it in our new article.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

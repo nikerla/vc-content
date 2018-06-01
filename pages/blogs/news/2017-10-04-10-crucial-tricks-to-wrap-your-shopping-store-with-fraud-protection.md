@@ -5,7 +5,6 @@ permalink: blog/10-crucial-tricks-to-wrap-your-shopping-store-with-fraud-protect
 main-image: ../../assets/images/blog/10-crucial-tricks-to-wrap-your-shopping-store-with-fraud-protection.jpg
 excerpt: Fraud protection is a vital question for any running eCommerce project as well as startup. Learn some key actions to increase customers' safety and protect the store. Check out 10 tricks to wrap your shopping store with fraud protection in our new article.
 tags:
-- virto commerce
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce

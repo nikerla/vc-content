@@ -5,7 +5,7 @@ permalink: blog/ecommerce-websites-migration
 main-image: ../../assets/images/blog/b2b-online-aftermath.jpg
 excerpt: Migration of an entire system to a new ecommerce platform is a complicated process that needs to be executed with surgical precision in order to avoid disaster. Learn more about common pains of eCommerce Websites Migtation and ways to avoid them in this article.
 tags:
-- websites migration
+- websites-migration
 - ecommerce
 - enterprise-ecommerce
 - virtocommerce
