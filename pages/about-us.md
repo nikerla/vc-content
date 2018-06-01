@@ -114,7 +114,7 @@ tags :
         <ul class="list list-studios three-items">
             <li class="list-item" itemscope itemtype="http://schema.org/Organization">
                 <div class="list-map">
-                    <div class="marker" data-lat="34.257451" data-lng="-118.590180"></div>
+                    <div class="marker" data-lat="34.257555" data-lng="-118.590205"></div>
                 </div>
                 <div class="list-location">Los Angeles, USA</div>
                 <div class="list-descr">
@@ -128,7 +128,7 @@ tags :
             </li>
             <li class="list-item" itemscope itemtype="http://schema.org/Organization">
                 <div class="list-map">
-                    <div class="marker" data-lat="54.717376" data-lng="25.2832098"></div>
+                    <div class="marker" data-lat="54.717486" data-lng="25.285831"></div>
                 </div>
                 <div class="list-location">Vilnius, Lithuania</div>
                 <div class="list-descr">
@@ -140,7 +140,7 @@ tags :
             </li>
             <li class="list-item" itemscope itemtype="http://schema.org/PostalAddress">
                 <div class="list-map">
-                    <div class="marker" data-lat="54.731876" data-lng="20.524388"></div>
+                    <div class="marker" data-lat="54.732310" data-lng="20.525650"></div>
                 </div>
                 <div class="list-location">Kaliningrad, Russia</div>
                 <div class="list-descr">
@@ -155,28 +155,22 @@ tags :
     </div>
 </div>
 <script>
-    $(function () {
-        $('.list-map').each(function () {
-            initMap($(this));
-        });
-    });
-
-    function initMap($mapBlock) {
-
-        var $latlng = $mapBlock.find('.marker');
-        var $lat = parseFloat($latlng.attr('data-lat'));
-        var $lng = parseFloat($latlng.attr('data-lng'));
-
-        debugger;
-        var uluru = { lat: $lat, lng: $lng };
-        var map = new google.maps.Map($mapBlock[0], {
-            zoom: 16,
-            center: uluru
-        });
-        var marker = new google.maps.Marker({
-            position: uluru,
-            map: map
-        });
+    function initMap() {
+            $('.list-map').each(function () {
+                $mapBlock = $(this);
+                var $latlng = $mapBlock.find('.marker');
+                var $lat = parseFloat($latlng.attr('data-lat'));
+                var $lng = parseFloat($latlng.attr('data-lng'));
+                var uluru = { lat: $lat, lng: $lng };
+                var map = new google.maps.Map($mapBlock[0], {
+                    zoom: 16,
+                    center: uluru
+                });
+                var marker = new google.maps.Marker({
+                    position: uluru,
+                    map: map
+                });
+            });
     }
 </script>
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVE7fcdVSIH14bpwkBuS3mAn9RzMSzobo"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVE7fcdVSIH14bpwkBuS3mAn9RzMSzobo&callback=initMap"></script>
