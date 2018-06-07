@@ -22,6 +22,9 @@ permalink: account/invite
                         <p>
                             <input ng-click="getInvite()" ng-disabled="inviteform.$invalid" type="submit" class="button fill width-full" tabindex="2" value="Sign in for a free account" />
                         </p>
+                        <p>
+                            <label>By clicking «Sign in for a free account» I agree to the Virto Commerce <a href="/terms">Terms</a> and <a href="/privacy">Privacy</a>.</label>
+                        </p>
                     </div>
                 </form>
             </div>
