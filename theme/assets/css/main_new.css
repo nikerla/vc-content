@@ -2789,8 +2789,12 @@ ul.breadcrumbs {
     color: #787878;
 }
 
+.text-12 {
+    font-size: 12px !important;
+}
+
 .text-14 {
-    font-size: 14px;
+    font-size: 14px !important;
 }
 
 
