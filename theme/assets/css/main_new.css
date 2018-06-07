@@ -2769,6 +2769,14 @@ ul.breadcrumbs {
     padding-bottom: 20px;
 }
 
+.buffer-left {
+    padding-left: 20px;
+}
+
+.buffer-right {
+    padding-right: 20px;
+}
+
 .width-full {
     width: 100%;
 }
