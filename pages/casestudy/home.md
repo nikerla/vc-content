@@ -17,7 +17,7 @@ permalink: case-studies
                     <div class="list-text">Objective: B2C/B2B Online Store</div>
                     <div class="list-descr">Providing maximum scalability and centralizationfor expanding business internationally</div>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/proffsmagasinet">View case study</a>
+                        <a class="button fill" href="../assets/files/case-study-proffs.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>
@@ -30,7 +30,7 @@ permalink: case-studies
                     <div class="list-text">Objective: Platform</div>
                     <div class="list-descr">Consolidate various system using single platform to manage gift certificates for largest companies in the world. Provides both B2C and B2B solutions.</div>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/giftcertificates">View case study</a>
+                        <a class="button fill" href="../assets/files/gc-case-study.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>
@@ -43,7 +43,7 @@ permalink: case-studies
                     <div class="list-text">Objective: B2C Online Store</div>
                     <div class="list-descr">Create value through growth in profits by expanding the existing stores.</div>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/belysningsdesign">View case study</a>
+                        <a class="button fill" href="../assets/files/sd-case-study.pdf">Read case study</a>
                     </div>
                 </div>
             </li>
@@ -69,7 +69,7 @@ permalink: case-studies
                     <div class="list-text">Objective: New Marketplace</div>
                     <div class="list-descr">Used platform capabilities to develop marketplace that sells thousands of products to CIS countries.<br /></div>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/kitmall">View case study</a>
+                        <a class="button fill" href="../assets/files/kitmall-case-study.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>
@@ -82,7 +82,7 @@ permalink: case-studies
                     <div class="list-text">Objective: B2C/B2B Online Store</div>
                     <div class="list-descr">Flexible solution with maximum customization for the online window-treatment website.</div>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/blinds">View case study</a>
+                        <a class="button fill" href="../assets/files/case-study-budget-blinds.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>
@@ -96,7 +96,7 @@ permalink: case-studies
                     <div class="list-descr">Created platform that allows sellers from china sell to the eastern europe countries. Integrated warehouse, merchandising, customer support and marketing.</div>
                     <a class="list-link">Play video</a>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/kupinatao">View case study</a>
+                        <a class="button fill" href="../assets/files/kupinatao-case-study.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>
@@ -122,7 +122,7 @@ permalink: case-studies
                     <div class="list-text">Objective: Platform</div>
                     <div class="list-descr">Create a simple system for clients to directly search for available and compatible resources, thereby facilitating the trading process between clients and consultants.</div>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/niteco">View case study</a>
+                        <a class="button fill" href="../assets/files/niteco-cifereca-case-study.pdf" target="_blank">Read case study</a>
                     </div>
                 </div>
             </li>

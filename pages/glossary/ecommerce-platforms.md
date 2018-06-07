@@ -309,7 +309,7 @@ tags:
                 This is considered to be the platform that is ideally suited for building a self-hosted store and starting selling in-person on eBay. It has multiple eCommerce tools that will help to gain more customers and attract them to the point they will come back for more goods.
                 <p>Promotions and special deals, incorporated by <a href="https://www.x-cart.com/" rel="nofollow">the platform</a> will assist in increasing your sales, while store connection with social media accounts will help in marketing. Syncing with eBay and PayPal is perfect, allowing for quick checkout and payment, without any sweat. Pricing is a bit different from other stores and includes a one-time $495 purchase of Business edition that lets you upload multiple products, control your social media marketing and more.</p>
             </div>
-            <p id="prestaShop" class="glosary-sub-t">PrestaShop</p>
+            <p id="prestashop" class="glosary-sub-t">PrestaShop</p>
             <div class="glosary-article">
                 <div class="glosary-inner">
                     <img class="glosary-pic" alt="Best Ecommerce Platforms - PrestaShop" src="assets/images/prestashop.jpg" />
