@@ -1,9 +1,10 @@
 var storefrontApp = angular.module('storefrontApp');
 
-storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$anchorScroll', 'feedbackService', 'dialogService', 'customerService', function ($scope, $window, $location, $anchorScroll, feedbackService, dialogService, customerSerivce) {
+storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$anchorScroll', 'feedbackService', 'dialogService', 'customerService', "$cookies", function ($scope, $window, $location, $anchorScroll, feedbackService, dialogService, customerSerivce, $cookies) {
     $scope.formModel = {};
     $scope.$location = $location;
-
+    $scope.isShowCookiesInformer = !angular.isDefined($cookies.get('gdpr-vccom'));
+    debugger;
     $scope.scrollTo = function (id) {
         var old = $location.hash();
         $location.hash(id);
@@ -43,5 +44,10 @@ storefrontApp.controller('mainController', ['$scope', '$window', '$location', '$
 
     $scope.showSupportVendorForm = function () {
         dialogService.showDialog(null, 'feedbackController', 'storefront.form-support-vendor.tpl');
+    }
+
+    $scope.acceptCookiesInformer = function () {
+        $cookies.put('gdpr-vccom', '1', { path: '/'});
+        $scope.isShowCookiesInformer = false;
     }
 }]);

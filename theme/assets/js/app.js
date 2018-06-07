@@ -4,7 +4,9 @@ var storefrontAppDependencies = [
     'pascalprecht.translate',
     'ngSanitize',
     'ngResource',
-]
+    'ngCookies'
+];
+
 var storefrontApp = angular.module('storefrontApp', storefrontAppDependencies);
 
 storefrontApp.factory('httpErrorInterceptor', ['$q', '$rootScope', function ($q, $rootScope) {

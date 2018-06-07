@@ -2833,6 +2833,10 @@ ul.breadcrumbs {
     }
 
 /* Angular helpers*/
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+
 input.ng-pristine.ng-invalid {
     -webkit-box-shadow: none;
     -ms-box-shadow: none;
@@ -2991,4 +2995,62 @@ blockquote {
     background: url(pdf-download.png) no-repeat;
     padding-top: 140px;
     margin: 20px
+}
+
+/* GDPR Cookie Compliance */
+.cookie-bar {
+    background: #eee;
+    box-sizing: border-box;
+    height: 80px;
+    margin: -80px 0 0;
+    position: relative;
+    transition: margin 0.35s ease;
+    display: flex;
+    align-items: center;
+    left: 0;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: 9500;
+}
+.cookie-bar .cookie-inner {
+    display: flex;
+}
+.cookie-bar .cookie-col + .cookie-col {
+    margin: 0 0 0 60px;
+}
+.cookie-bar .cookie-col a {
+    font-size: 14px;
+    font-weight: bold;
+}
+.cookie-bar .cookie-col a .fa {
+    margin: 0 10px 0 0;
+}
+.cookie-bar .cookie-col .highlight {
+    font-weight: normal;
+}
+.cookie-bar .cookie-col .highlight,
+.cookie-bar .cookie-col a {
+    color: #f89406;
+}
+.cookie-bar .cookie-t {
+    font-size: 14px;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+}
+.cookie-bar .cookie-t .cookie-ico {
+    border: 1px solid #000;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: normal;
+    height: 20px;
+    margin: 0 5px 0 0;
+    width: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.cookie-bar.show {
+    margin: 0;
 }
