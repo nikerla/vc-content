@@ -2,7 +2,7 @@
 title: Case Studies - Virto commerce
 description: Case Studies - Virto commerce
 date: 2014-01-30
-permalink: case-studies/giftcertificates
+permalink: case-studies/gift
 ---
 <div class="case-studies" ng-controller="caseStudyController">
     <div class="header bg-giftcertificates ">

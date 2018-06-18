@@ -30,7 +30,7 @@ permalink: case-studies
                     <div class="list-text">Objective: Platform</div>
                     <div class="list-descr">Consolidate various system using single platform to manage gift certificates for largest companies in the world. Provides both B2C and B2B solutions.</div>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/giftcertificates">View case study</a>
+                        <a class="button fill" href="case-studies/gift">View case study</a>
                     </div>
                 </div>
             </li>
