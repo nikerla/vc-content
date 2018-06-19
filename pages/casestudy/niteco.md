@@ -37,7 +37,7 @@ permalink: case-studies/niteco
                 </p>
             </div>
             <div class="col __col-30">
-                {% include 'case-study-download', downloadUrl: "../assets/files/niteco-cifereca-case-study.pdf" %}
+                {% include 'case-study-download', downloadUrl: "../assets/files/niteco-cifereca-case-study.pdf", caseName: "niteco" %}
             </div>
         </div>
     </div>

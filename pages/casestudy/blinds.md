@@ -37,7 +37,7 @@ permalink: case-studies/blinds
                 </p>
             </div>
             <div class="col __col-30">
-                {% include 'case-study-download', downloadUrl: "../assets/files/case-study-budget-blinds.pdf" %}
+                {% include 'case-study-download', downloadUrl: "../assets/files/case-study-budget-blinds.pdf", caseName: "blinds" %}
             </div>
         </div>
     </div>

@@ -44,7 +44,7 @@ permalink: case-studies/belysningsdesign
                 </p>
             </div>
             <div class="col __col-30">
-                {% include 'case-study-download', downloadUrl: "../assets/files/sd-case-study.pdf" %}
+                {% include 'case-study-download', downloadUrl: "../assets/files/sd-case-study.pdf", caseName: "belysningsdesign"  %}
             </div>
         </div>
     </div>

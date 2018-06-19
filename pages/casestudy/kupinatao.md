@@ -62,7 +62,7 @@ permalink: case-studies/kupinatao
                 </ul>
             </div>
             <div class="col __col-30">
-                {% include 'case-study-download', downloadUrl: "../assets/files/kupinatao-case-study.pdf" %}
+                {% include 'case-study-download', downloadUrl: "../assets/files/kupinatao-case-study.pdf", caseName: "kupinatao" %}
             </div>
         </div>
     </div>

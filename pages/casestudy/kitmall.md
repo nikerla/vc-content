@@ -47,7 +47,7 @@ permalink: case-studies/kitmall
                 </p>
             </div>
             <div class="col __col-30">
-                {% include 'case-study-download', downloadUrl: "../assets/files/kitmall-case-study.pdf" %}
+                {% include 'case-study-download', downloadUrl: "../assets/files/kitmall-case-study.pdf", caseName: "kitmall" %}
             </div>
         </div>
     </div>
