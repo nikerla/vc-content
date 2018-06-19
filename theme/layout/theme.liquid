@@ -43,7 +43,9 @@
     {% include 'autopilot' %}
 </head>
 <body ng-controller="mainController" ng-cloak>
-    {% include 'gdpr-cookie-compliance' %}
+    {% if can_track %}
+        {% include 'gdpr-cookie-compliance' %}
+    {% endif %}
     {% include 'apps-identifier' %}
     {% include 'form-become-a-developer' %}
     {% include 'form-write-a-review' %}
@@ -132,6 +134,11 @@
                     $(items[i]).parent().addClass('__selected');
                 }
             }
+
+            $('#cookieConsentAccept').on('click', function () {
+                document.cookie = '{{consent_cookie }}';
+                $('.cookie-bar').hide();
+            });
 
             $("#anchor, #anchor-part-2 ").on("click", "a", function (event) {
                 event.preventDefault();
