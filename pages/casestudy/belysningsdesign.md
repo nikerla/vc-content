@@ -31,16 +31,6 @@ permalink: case-studies/belysningsdesign
                         Christoffer Iveslätt, Marketing Manager at Belysningsdesign
                     </span>
                 </blockquote>
-                <p>
-                    Founded in 2006 Belysningsdesign has a long history in the industry and is one of today's leading
-                    online lighting stores in Scandinavia. With an active customer base of nearly 48 000 buyers, Belysningsdesign
-                    has taken a unique position on the market offering a wide variety of brands in a broad
-                    price range. Belysningsdesign started well before e-commerce had a breakthrough, and has always
-                    aspired to be the most customer-oriented business selling lighting in Scandinavia.
-                    Belysningsdesign focuses on putting user experience at the head of the table. A new system with a
-                    web platform allows the company to meet that goal as well as to adapt to future e-commerce business
-                    needs.
-                </p>
                 <h4>CHALLENGE</h4>
                 <p>
                     One of the most time-consuming tasks for the company was product content and therefore
