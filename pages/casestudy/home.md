@@ -122,7 +122,7 @@ permalink: case-studies
                     <div class="list-text">Objective: Platform</div>
                     <div class="list-descr">Create a simple system for clients to directly search for available and compatible resources, thereby facilitating the trading process between clients and consultants.</div>
                     <div class="list-btn">
-                        <a class="button fill" href="case-studies/niteco">View case study</a>
+                        <a class="button fill" href="case-studies/сifereca-ab">View case study</a>
                     </div>
                 </div>
             </li>
