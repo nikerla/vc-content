@@ -2,7 +2,7 @@
 title: Case Studies - Virto commerce
 description: Case Studies - Virto commerce
 date: 2014-01-30
-permalink: case-studies/сifereca-ab
+permalink: case-studies/сifereca
 ---
 <div class="case-studies" ng-controller="caseStudyController">
     <div class="header bg-niteco ">
