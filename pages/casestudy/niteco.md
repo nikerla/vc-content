@@ -2,7 +2,7 @@
 title: Case Studies - Virto commerce
 description: Case Studies - Virto commerce
 date: 2014-01-30
-permalink: case-studies/niteco
+permalink: case-studies/сifereca-ab
 ---
 <div class="case-studies" ng-controller="caseStudyController">
     <div class="header bg-niteco ">
@@ -37,7 +37,7 @@ permalink: case-studies/niteco
                 </p>
             </div>
             <div class="col __col-30">
-                {% include 'case-study-download', downloadUrl: "../assets/files/niteco-cifereca-case-study.pdf", caseName: "niteco" %}
+                {% include 'case-study-download', downloadUrl: "../assets/files/niteco-cifereca-case-study.pdf", caseName: "сifereca-ab" %}
             </div>
         </div>
     </div>
