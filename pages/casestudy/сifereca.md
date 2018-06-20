@@ -31,10 +31,7 @@ permalink: case-studies/cifereca
                     existing brokerage models
                 </p>
                 <h4>CHALLENGE</h4>
-                <p>
-                    This is Cifereca's fist impresiion on the
-                    market, so we had zero room for error.
-                </p>
+                <p>This is Cifereca's fist impresiion on the market, so we had zero room for error.</p>
             </div>
             <div class="col __col-30">
                 {% include 'case-study-download', downloadUrl: "../assets/files/niteco-cifereca-case-study.pdf", caseName: "сifereca" %}
