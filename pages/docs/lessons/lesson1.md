@@ -167,6 +167,14 @@ and unpack this zip file to this folder of web server.
   <add name="ContentConnectionString" connectionString="provider=LocalStorage;rootPath=~/App_Data/cms-content" />
   ```
 
+### Configure Api credentials
+
+* Open the **C:\inetpub\wwwroot\storefront\Web.config** in a text editor.
+* In the **appSettings** section find the **add** node with key attribute named **vc-public-ApiSecretKey**. Make sure that its **value** attribute is set to the value obtained earlier in the 'Change API credentials for storefront application' step.
+  ```
+  <add key="vc-public-ApiSecretKey" value="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" />
+  ```
+
 ### Configure IIS
 
 * Open the **IIS Manager** and add a new application named **storefront** inside an existing **Default Web Site**.
