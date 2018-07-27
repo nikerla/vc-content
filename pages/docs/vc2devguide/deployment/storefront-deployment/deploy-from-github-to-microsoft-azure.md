@@ -10,7 +10,7 @@ Before starting <a class="crosslink" href="https://virtocommerce.com/ecommerce-w
 
 ## Step-by-step guide
 
-* Open the code repository <a href="https://github.com/VirtoCommerce/vc-storefront" rel="nofollow">https://github.com/VirtoCommerce/vc-storefront-core</a>
+* Open the code repository <a href="https://github.com/VirtoCommerce/vc-storefront-core" rel="nofollow">https://github.com/VirtoCommerce/vc-storefront-core</a>
 * Scroll to the end of the page and click the **Deploy to Azure** button
   ![Deploy to Azure button](../../../../assets/images/docs/image2015-4-6_16-43-13.png "Deploy to Azure button")
   You will see the first page of the deployment wizard:
