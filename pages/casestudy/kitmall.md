@@ -36,12 +36,10 @@ permalink: case-studies/kitmall
                             activities.
                         </li>
                         <li>
-                            Make all product catalogs uniform and consistent, even if the catalogs were from different
-                            suppliers.
+                            Make all product catalogs uniform and consistent, even if the catalogs were from different suppliers.
                         </li>
                         <li>
-                            Quickly adjust to a changing market by allowing immediate changes in prices, promotions,
-                            and discounts.
+                            Quickly adjust to a changing market by allowing immediate changes in prices, promotions, and discounts.
                         </li>
                     </ul>
                 </p>
