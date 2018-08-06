@@ -64,7 +64,8 @@ tags :
                     <img itemprop="url contentUrl" alt="B2B ecommerce trends" src="assets/images/technology-investments.jpg" />
                     <meta itemprop="width" content="273">
                     <meta itemprop="height" content="170">
-                </span>            </div>
+                </span>
+            </div>
             <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
                 <strong>Technology investments are set to grow.</strong> The latest development trends of B2B e-commerce marketplaces have made them a more favorable option for wholesalers, rather than retail stores. B2B companies have become robust and very adaptable to changes. Let’s take the example of Virto Commerce e-commerce platform. It is very affordable and flexible to use. Investing in the integration of platforms like this will allow your business to grow rapidly as well as give you the smoothest experience of expanding your outreach.
             </div>

@@ -309,7 +309,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                                 <img src="assets/images/b2b/icon-google.png" alt="">
                             </div>
                             <div class="integration-t">
-                                Google Analitics <br>Enhanced
+                                Google Analytics <br>Enhanced
                             </div>
                             <div class="integration-name">
                                 by Virto Commerce
