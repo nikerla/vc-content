@@ -1,5 +1,5 @@
 // Grab a reference to our form
-var forms = $("form[name='contact_partner']");
+var forms = $("form");
 
 if(forms)
 {
