@@ -5933,6 +5933,7 @@ form.fixed
     left: 0;
     margin: auto;
     max-width: 60%;
+    max-height: 80%;
     position: absolute;
     right: 0;
     top: 0;
