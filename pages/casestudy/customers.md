@@ -53,16 +53,6 @@ permalink: customers
                         <div class="name">Volvo Cars</div>
                     </div>
                 </div>
-            </li>  
-            <li class="list-item">
-                <div class="list-link">
-                    <figure class="list-img">
-                        <img src="/assets/images/casestudies/ingram-micro.png" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">Ingram Micro</div>
-                    </div>
-                </div>
             </li>                 
             <li class="list-item">
                 <a class="list-link" href="http://travelcommercesolutions.com" target="_blank" rel="nofollow">
@@ -73,17 +63,7 @@ permalink: customers
                         <div class="name">travelcommercesolutions.com</div>
                     </div>
                 </a>
-            </li>           
-            <li class="list-item">
-                <a class="list-link" href="http://proffsmagasinet.se" target="_blank" rel="nofollow">
-                    <figure class="list-img">
-                        <img src="/assets/images/casestudies/pm-logo.svg" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">proffsmagasinet.se</div>
-                    </div>
-                </a>
-            </li>         
+            </li>    
             <li class="list-item">
                 <a class="list-link" href="https://www.madeblinds.com" target="_blank" rel="nofollow">
                     <figure class="list-img">
@@ -93,7 +73,7 @@ permalink: customers
                         <div class="name">MadeBlinds.com</div>
                     </div>
                 </a>
-            </li>        
+            </li>    
             <li class="list-item">
                 <a class="list-link gifts link-case" href="https://virtocommerce.com/assets/files/gc-case-study.pdf">
                     <figure class="list-img">
@@ -103,156 +83,116 @@ permalink: customers
                         <div class="name">GCIncentives.com</div>
                     </div>
                 </a>
-            </li>
+            </li>   
             <li class="list-item">
-                <a class="list-link" href="http://staypro.no" target="_blank" rel="nofollow">
+                <a class="list-link" href="http://proffsmagasinet.se" target="_blank" rel="nofollow">
                     <figure class="list-img">
-                        <img src="https://virtocommerce.com/assets/images/casestudies/staypro-logo.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/pm-logo.svg" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">StayPro.no</div>
+                        <div class="name">proffsmagasinet.se</div>
                     </div>
                 </a>
             </li>
             <li class="list-item">
                 <div class="list-link">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/mitsubishi.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/bosch.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">Mitsubishi - Caterpillar</div>
-                    </div>
-                </div>
-            </li> 
-            <li class="list-item">
-                <div class="list-link">
-                    <figure class="list-img">
-                        <img src="/assets/images/casestudies/bdo-logo.gif" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">BDO</div>
-                    </div>
-                </div>
-            </li>            
-            <li class="list-item">
-                <a class="list-link link-case" href="/assets/files/kupinatao-case-study.pdf">
-                    <figure class="list-img">
-                        <img src="/assets/images/casestudies/kupinatao-logo.png" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">kupinatao.com</div>
-                    </div>
-                </a>
-            </li>            
-            <li class="list-item">
-                <a class="list-link" href="http://www.mailinghouse.ch" target="_blank" rel="nofollow">
-                    <figure class="list-img">
-                        <img src="/assets/images/casestudies/fluehmann-logo.jpg" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">Markus Fluhmann AG</div>
-                    </div>
-                </a>
-            </li>            
-            <li class="list-item">
-                <div class="list-link">
-                    <figure class="list-img">
-                        <img src="/assets/images/casestudies/comcast.jpg" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">Comcast</div>
+                        <div class="name">Bosch</div>
                     </div>
                 </div>
             </li>              
             <li class="list-item">
                 <div class="list-link">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/chevron.jpg" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/country-malt-group.jpg" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">Chevron</div>
+                        <div class="name">The Country Malt Group</div>
                     </div>
                 </div>
-            </li>              
+            </li>
             <li class="list-item">
                 <div class="list-link">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/hbo.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/heineken.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">HBO</div>
+                        <div class="name">Heineken</div>
                     </div>
                 </div>
-            </li>               
+            </li>
             <li class="list-item">
                 <div class="list-link">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/helvetia.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/takara.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">Helvetia</div>
+                        <div class="name">Takara</div>
                     </div>
                 </div>
-            </li>               
-            <li class="list-item">
-                <a class="list-link" href="http://Kalla.com" target="_blank" rel="nofollow">
-                    <figure class="list-img">
-                        <img src="https://virtocommerce.com/assets/images/casestudies/pf-logo.png" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">Kalla.com (ProFlowers brand)</div>
-                    </div>
-                </a>
             </li>
             <li class="list-item">
-                <a class="list-link link-case" href="https://virtocommerce.com/assets/files/niteco-cifereca-case-study.pdf">
+                <div class="list-link">
                     <figure class="list-img">
-                        <img src="https://virtocommerce.com/assets/images/casestudies/erb-logo.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/oasis-health.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">Cifereca</div>
+                        <div class="name">Oasis Health</div>
                     </div>
-                </a>
-            </li>            
-            <li class="list-item">
-                <a class="list-link kitmall link-case" href="https://virtocommerce.com/assets/files/kitmall-case-study.pdf">
-                    <figure class="list-img">
-                        <img src="https://virtocommerce.com/assets/images/casestudies/kitmall-logo.png" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">Kitmall.ru</div>
-                    </div>
-                </a>
+                </div>
             </li>
             <li class="list-item">
-                <a class="list-link" href="http://mycanvas.com" target="_blank" rel="nofollow">
+                <div class="list-link">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/mycanvas.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/zoeller.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">MyCanvas.com</div>
+                        <div class="name">Zoeller</div>
                     </div>
-                </a>
-            </li>             
-            <li class="list-item">
-                <a class="list-link" href="https://www.graphicproducts.com" target="_blank" rel="nofollow">
-                    <figure class="list-img">
-                        <img src="/assets/images/casestudies/graphic-products.png" alt="" class="list-pic">
-                    </figure>
-                    <div class="list-name">
-                        <div class="name">graphicproducts.com</div>
-                    </div>
-                </a>
+                </div>
             </li>
             <li class="list-item">
-                <a class="list-link caromba" href="http://Caromba.se" target="_blank" rel="nofollow">
+                <div class="list-link">
                     <figure class="list-img">
-                        <img src="https://virtocommerce.com/assets/images/casestudies/caromba-logo.svg" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/trendmark.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">Caromba.se</div>
+                        <div class="name">Trendmark</div>
                     </div>
-                </a>
+                </div>
+            </li>
+            <li class="list-item">
+                <div class="list-link">
+                    <figure class="list-img">
+                        <img src="/assets/images/casestudies/guitar-center.png" alt="" class="list-pic">
+                    </figure>
+                    <div class="list-name">
+                        <div class="name">Guitar Center</div>
+                    </div>
+                </div>
+            </li>
+            <li class="list-item">
+                <div class="list-link">
+                    <figure class="list-img">
+                        <img src="/assets/images/casestudies/rainbow.png" alt="" class="list-pic">
+                    </figure>
+                    <div class="list-name">
+                        <div class="name">Rainbow</div>
+                    </div>
+                </div>
+            </li>
+            <li class="list-item">
+                <div class="list-link">
+                    <figure class="list-img">
+                        <img src="/assets/images/casestudies/vivint-smart-home.png" alt="" class="list-pic">
+                    </figure>
+                    <div class="list-name">
+                        <div class="name">Vivint.SmartHome</div>
+                    </div>
+                </div>
             </li>
         </ul>
     </div>
