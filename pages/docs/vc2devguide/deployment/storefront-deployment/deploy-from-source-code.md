@@ -10,111 +10,74 @@ title: 'Deploy Storefront from source code'
 
 Use this guide to deploy and configure Virto Commerce Storefront from source code and setup development environment.
 
-## Prerequisites
 
-* Microsoft .NET Framework 4.6.1
-* Internet Information Services 7 or later
-* <a href="https://www.microsoft.com/en-us/download/details.aspx?id=40784" rel="nofollow">Visual C++ Redistributable Packages for Visual Studio</a>
-* Visual Studio 2015 or later (*optional*)
-* Git
+## Source code getting started
 
-## Downloading source code
+### Prerequisites
+[Prerequisites for .NET Core on Windows](https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites)
+
+[Microsoft Visual C++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=53840) (required for SCSS engine)
+
+### Downloading source code
 
 Fork your own copy of VirtoCommerce Storefront to your account on GitHub:
-1. Open <a href="https://github.com/VirtoCommerce/vc-storefront" rel="nofollow">VirtoCommerce Storefront in GitHub</a> and click **Fork** in the upper right corner.
-2. If you are a member of an organization on GitHub, select the target for the fork.
-3. Clone the forked repository to local machine:
-  ```
-  git clone https://github.com/<<your GitHub user name>>/vc-storefront.git C:\vc-storefront
-  ```
-4. Switch to the cloned directory:
-  ```
-  cd C:\vc-storefront
-  ```
-5. Add a reference to the original repository:
-  ```
-  git remote add upstream https://github.com/VirtoCommerce/vc-storefront.git
-  ```
-In result you should get the **C:\vc-storefront** folder which contains full storefront source code.
-To retrieve changes from original Virto Commerce Storefront repository, merge **upstream/master** branch.
 
-Restore NuGet packages in one of the following ways:
-* Open **VirtoCommerce.Storefront.sln** solution in Visual Studio. In Solution Explorer window right-click on solution and select **Manage NuGet Packages for Solution**. In the opened window click the **Restore** button.
-![Restore NuGet packages for solution](../../../../assets/images/docs/restore-packages-in-storefront.png "Restore NuGet packages for solution")
-* Run this command:
-   ```
-   nuget restore C:\vc-storefront\VirtoCommerce.Storefront\VirtoCommerce.Storefront.sln
-   ```
-Build the solution.
+1. Open VirtoCommerce Storefront in GitHub and click Fork in the upper right corner.
+If you are a member of an organization on GitHub, select the target for the fork.
+2. Clone the forked repository to local machine:
+```
+git clone https://github.com/<<your GitHub user name>>/vc-storefront-core.git C:\vc-storefront-core
+```
+3. Switch to the cloned directory:
 
-## Configuring VirtoCommerce Platform URL
+```cd C:\vc-storefront-core```
 
-* In the **C:\vc-storefront\VirtoCommerce.Storefront\web.config** file in the **connectionStrings** section find the **add** node named **VirtoCommerceBaseUrl**.
-* Change its **connectionString** attribute value to the URL of your **VirtoCommerce Platform** application.
+4. Add a reference to the original repository:
 
-  ```
-  <connectionStrings>
-    ...
-    <add name="VirtoCommerceBaseUrl" connectionString="{VirtoCommerce Platform URL}" />
-    ...
-  </connectionStrings>
-  ```
+```git remote add upstream https://github.com/VirtoCommerce/vc-storefront-core.git```
 
-## Configuring API client credentials
+In result you should get the C:\vc-storefront-core folder which contains full storefront source code. To retrieve changes from original Virto Commerce Storefront repository, merge upstream/master branch.
 
-VirtoCommerce Platform supports 2 types of authentication for API calls:
-
-* Simple - when user id is passed in url for each API request, e.g. http://demo.virtocommerce.com/admin/api/catalog/catalogs?api_key=a348fa7508d342f6a32f8bf6c6681a2a%20
-* HMAC - Hash-based message authentication code (HMAC) is used to identify a client and ensure the request integrity.
-
-In order to enable Storefront app using VirtoCommerce Platform API, first of all create a user in VirtoCommerce Platform and generate API key of appropriate type (Simple or HMAC). Article [Working with platform API](docs/vc2devguide/development-scenarios/working-with-platform-api) describes how to configure and use API in your custom solution. Then set API client credentials in **C:\vc-storefront\VirtoCommerce.Storefront\web.config**
-
-### Example of HMAC authentication configuration
+### Configuring VirtoCommerce Platform Endpoint
+Set actual platform endpoint values in the C:\vc-storefront-core\VirtoCommerce.Storefront\appsettings.json.
+Read more about how to generate API keys [here](https://virtocommerce.com/docs/vc2devguide/development-scenarios/working-with-platform-api)
 
 ```
-<appSettings>
-  ...
-  <add key="vc-public-ApiAppId" value="27e0d789f12641049bd0e939185b4fd2" />
-  <add key="vc-public-ApiSecretKey" value="34f0a3c12c9dbb59b63b5fece955b7b2b9a3b20f84370cba1524dd5c53503a2e2cb733536ecf7ea1e77319a47084a3a2c9d94d36069a432ecc73b72aeba6ea78" />
-  ...
-</appSettings>
+ ...
+  "VirtoCommerce": {
+    "Endpoint": {
+	   //Virto Commerce platform manager url
+      "Url": "http://localhost/admin",
+	   //HMAC authentification user credentials on whose behalf the API calls will be made.
+      "AppId": "Enter your AppId here"
+      "SecretKey": "Enter your SecretKey here",
+    }
+	...
 ```
+ASP.NET Core represents a new tools a **Secret Manager tool**, which allows in development to keep secrets out of your code.
+You can find more about them [here](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets?tabs=visual-studio)
 
-### Example of Simple authentication configuration
-
+### Configure themes
+Storefront  **appsettings.json** file contains **ContentConnectionString** setting with pointed to the folder with actual themes and pages content
 ```
-<appSettings>
-  ...
-  <add key="vc-public-ApiAppId" value="a348fa7508d342f6a32f8bf6c6681a2a" />
-  ...
-</appSettings>
+...
+"ConnectionStrings": {
+    //For themes stored in local file system
+    "ContentConnectionString": "provider=LocalStorage;rootPath=~/cms-content"
+	//For themes stored in azure blob storage
+    //"ContentConnectionString" connectionString="provider=AzureBlobStorage;rootPath=cms-content;DefaultEndpointsProtocol=https;AccountName=yourAccountName;AccountKey=yourAccountKey"
+  },
+...
 ```
+You can set this connection string in one of the following ways:
+1. If you have already have installed  platform with sample data, your platform already contains `~/App_Data/cms-content` folder with themes for sample stores and you need only to make symbolic link to this folder by this command:
+```
+mklink /d C:\vc-storefront-core\VirtoCommerce.Storefront\wwwroot\cms-content C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content
+```
+2. If you did not install sample data with your platform, you need to create new store in platform manager and download themes as it described in this article
+[Theme development](https://virtocommerce.com/docs/vc2devguide/working-with-storefront/theme-development)
 
-## Configure CMS content storage
-
-You can configure CMS content storage path in one of the following ways:
-* Create a link to VirtoCommerce Platform **cms-content** folder:
-  ```
-  mklink /d C:\vc-storefront\VirtoCommerce.Storefront\App_Data\cms-content C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content
-  ```
-* Change CMS content connection string:
-  * In the **C:\vc-storefront\VirtoCommerce.Storefront\web.config** file in the **connectionStrings** section find the **add** node named **ContentConnectionString**
-  * Change its **connectionString** attribute value to the path of folder specified in **CmsContentConnectionString** connection string in your VirtoCommerce Platform installation (**~/App_Data/cms-content** by default, i.e. you must use **provider=LocalStorage;rootPath=C:\vc-platform\VirtoCommerce.Platform.Web\App_Data\cms-content** connection string in this case)
-  ```
-  <connectionStrings>
-    ...
-    <add name="ContentConnectionString" connectionString="provider={provider name};rootPath={URL to CMS content location}" />
-    ...
-  </connectionStrings>
-  ```
-
-## Configure themes
-
-If you did not install sample data for your platform, you need to configure theme for you storefront stores.
-To upload theme in VirtoCommerce Platform UI, follow this steps:
-1. Download zip file from latest release of [any storefront theme](apps/themes).
-2. Go to [VirtoCommerce CMS Content module](apps/extensions/virto-cms-module) in VirtoCommerce Platform UI (**More → Content**).
-3. Open **Themes** widget for your store.
-4. Click to **Upload** button and select downloaded zip file.
-
-If you want to develop storefront theme, follow [theme development documentation](docs/vc2devguide/working-with-storefront/theme-development) to learn how to setup theme for your store in theme development environment.
+### Host on Windows with IIS
+VirtoCommerce.Storefront project already include the **web.config** file with all necessary settings for runing in IIS.
+How to configure IIS application to host ASP.NET Core site please learn more in the official Microsoft ASP.NET Core documentation
+[Host ASP.NET Core on Windows with IIS](https://docs.microsoft.com/en-us/aspnet/core/publishing/iis)
