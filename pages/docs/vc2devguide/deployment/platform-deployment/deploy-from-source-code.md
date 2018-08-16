@@ -18,15 +18,6 @@ Use this guide to deploy and configure Virto Commerce Platform from source code 
 * Visual Studio 2015 or later (*optional*)
 * Git
 
-## SQL Express configuration prerequisites
-To be able to use default sql connection string with **(local)** hostname and **server authentication** credentials
-  ```
- <add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
-  ```
-you need to check the next options in the SQL Express setup
-![Restore NuGet packages for solution](../../../../assets/images/docs/sqlexpress-setup-2.JPG "Set default instance")
-![Restore NuGet packages for solution](../../../../assets/images/docs/sqlexpress-setup-1.JPG "Mixed server and Windows authentication")
-
 ## Downloading source code
 
 Fork your own copy of VirtoCommerce Platform to your account on GitHub:
@@ -59,8 +50,14 @@ Build the solution.
 
 ## Configure SQL Server
 
+To be able to use default sql connection string with **(local)** hostname and **server authentication** credentials
+  ```
+ <add name="VirtoCommerce" connectionString="Data Source=(local);Initial Catalog=VirtoCommerce2;Persist Security Info=True;User ID=virto;Password=virto;MultipleActiveResultSets=True;Connect Timeout=420" providerName="System.Data.SqlClient" />
+  ```
+You need to check the follow options in the SQL/SqlExpress setup
+![Restore NuGet packages for solution](../../../../assets/images/docs/sqlexpress-setup-2.JPG "Set default instance")
 SQL Server Authentication mode must be enabled.  
-![Configure SQL Server](../../../../assets/images/docs/image2015-4-7_11-44-53.png "Configure SQL Server") 
+![Restore NuGet packages for solution](../../../../assets/images/docs/sqlexpress-setup-1.JPG "Mixed server and Windows authentication")
 
 Create the new login named **virto** with password **virto**. The password policy enforcement should be switched off for a simple password like this.
 
