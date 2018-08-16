@@ -1,7 +1,7 @@
 ---
 aliases:
   - docs/vc2devguide/deployment/storefront-deployment/storefront-source-code-getting-started
-date: '2017-08-31'
+date: '2018-08-30'
 layout: docs
 title: 'Deploy Storefront from source code'
 

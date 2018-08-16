@@ -1,5 +1,5 @@
 ---
-date: '2017-08-31'
+date: '2018-08-30'
 title: 'Deploy Storefront from precompiled binaries'
 layout: docs
 ---
