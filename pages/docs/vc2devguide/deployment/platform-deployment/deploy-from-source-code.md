@@ -25,7 +25,7 @@ Fork your own copy of VirtoCommerce Platform to your account on GitHub:
 2. If you are a member of an organization on GitHub, select the target for the fork.
 3. Clone the forked repository to local machine:
   ```
-  git clone https://github.com/<<your GitHub user name>>/vc-platform.git C:\vc-platform
+  git clone https://github.com/vc-platform/vc-platform.git C:\vc-platform
   ```
 4. Switch to the cloned directory:
   ```
