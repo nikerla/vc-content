@@ -62,7 +62,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                 </li>
                 <li class="list-item">
                     <a class="list-link">
-                        <img src="assets/images/casestudies/heineken.png" alt="Heineken" class="list-pic">
+                        <img src="assets/images/casestudies/volvocars-logo.jpg" alt="volvocars" class="list-pic">
                     </a>
                 </li>
                 <li class="list-item">
@@ -77,7 +77,7 @@ description: The agile B2B e-commerce solution. The best B2B ecommerce software 
                 </li>
                 <li class="list-item">
                     <a class="list-link">
-                        <img src="assets/images/casestudies/rainbow.png" alt="Rainbow Sandals" class="list-pic">
+                        <img src="assets/images/casestudies/trendmark.png" alt="Trendmark" class="list-pic">
                     </a>
                 </li>
             </ul>
