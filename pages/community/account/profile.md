@@ -13,12 +13,8 @@ authorize: true
         <div class="columns">
             <div class="column">
                 <div class="control-group">
-                    <label>First Name</label>
+                    <label>Name</label>
                     <input ng-model="user.firstName" type="text" class="form-input">
-                </div>
-                <div class="control-group">
-                    <label>Last Name</label>
-                    <input ng-model="user.lastName" type="text" class="form-input">
                 </div>
                 <div class="control-group">
                     <label>Organization</label>
