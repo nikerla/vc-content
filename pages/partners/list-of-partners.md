@@ -10,7 +10,7 @@ tags :
 ---
 <div class="partner __responsive">
 	<h1 class="head-title">Solution Partners</h1>
-	<p class="text">These are hand picked companies with expertise reviewed by us. They all have experiences delivering successful e-commerce solutions for medium and large businesses.</p>
+	<p class="text">Our diverse group of partners are carefully selected and provide expertise to deliver successful e-commerce solutions for medium and large businesses.</p>
 	<ul class="list">
 		<li class="list-item">
 			<a href="http://jbecker.com/" class="list-pic" rel="nofollow">
@@ -20,7 +20,7 @@ tags :
 				<a href="http://www.jbssolutions.com/" class="link" rel="nofollow">JBS</a>
 				<p class="country">United States</p>
 				<p class="lang">Languages Spoken: English</p>
-				<p class="text">JBS is a custom application development and ecommerce solutions provider that has been in business since 1999. We are a long term Microsoft Gold Certified Partner with a highly experienced team of senior level Solutions Architects, Developers, Designers and Project Managers. We have a long track record of delivering custom solutions that work. Our clients range from companies on the Retail 100 list to mid-sized organizations to early round startups. JBS is USA based organization with project coverage capabilities on a national basis.</p>
+				<p class="text">JBS is a custom application development and e-commerce solutions provider with a track record of success since its start in 1999. As a long term Microsoft Gold Certified Partner, JBS has a highly experienced team of senior level Solutions Architects, Developers, Designers and Project Managers. Clients range from companies on the Retail 100 list to mid-sized organizations to emerging startups. JBS is USA based organization with project coverage capabilities nationwide.</p>
 				<a class="button" href="/contact-partner?pid=jbs" rel="nofollow">Contact partner</a>
 			</div>
 		</li>
@@ -33,7 +33,7 @@ tags :
 				<p class="country">United States, Sweden, Vietnam</p>
 				<p class="lang">Languages Spoken: English, Swedish</p>
 				<p class="text">Niteco is a fast-growing software development company with offices in the USA, Sweden and Vietnam.<br><br>
-					We offer an extensive range of IT outsourcing services, such as software development, testing, hosting, support, and technical staffing, using the best web technologies at a reasonable cost.</p>
+					Niteco offers an extensive range of IT outsourcing services, such as software development, testing, hosting, support, and technical staffing, using the best web technologies at a reasonable cost.</p>
 				<a class="button" href="/contact-partner?pid=niteco" rel="nofollow">Contact partner</a>
 			</div>
 		</li>
@@ -45,13 +45,13 @@ tags :
 				<a href="https://bambit.ch/" class="link" rel="nofollow">Bambit</a>
 				<p class="country">Switzerland</p>
 				<p class="lang">Languages Spoken: English, German, French</p>
-				<p class="text">bambit transforms ideas into software. As a software company from Switzerland we build outstanding E-Commerce Solutions for our customers. <br><br>
+				<p class="text">See how bambit transforms ideas into software. As a European software company based in Switzerland, bambit builds outstanding e-commerce solutions for customers. <br><br>
  
-Our mission is to enable our clients to accomplish and excel their E-Commerce visions in less time and effort. This means understanding their business as deeply as technology. Our employees are long term E-Commerce, Software- and Microsoft-Specialists. <br><br>
+Their mission is to enable clients to accomplish their E-Commerce visions efficiently and effectively. This means understanding their business as deeply as technology. The seasoned team at bambit are specialists in e-commerce, software, and Microsoft technology. <br><br>
  
-You can expect a comprehensive range of services from our team and our network: e-commerce consulting, business analysis, requirement engineering, solution architecture, design, usability, software development and project management. <br><br>
+Expect a comprehensive range of services from the bambit team and network: e-commerce consulting, business analysis, requirement engineering, solution architecture, design, usability, software development and project management. <br><br>
  
-We operate in Switzerland and some other parts of Europe.</p>
+</p>
 				<a class="button" href="/contact-partner?pid=bambit" rel="nofollow">Contact partner</a>
 			</div>
 		</li>
