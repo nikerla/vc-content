@@ -34,7 +34,7 @@ tags :
                         Alexander has nearly 20 years of experience in software
                         product development and ecommerce operations. He was a creator and chief product
                         architect for what is now known as EPiServer Commerce before founding Virto Commerce in 2011.
-                        He helped launch multi national ecommerce solutions, including Canon, Coffee Bean & Tea Leaf, Hershey's and many others.
+                        He helped launch multi-national ecommerce solutions, including Canon, Coffee Bean & Tea Leaf, Hershey's and many others.
                         <br />
                         He has a Masters in Computer Science from California State University, Fullerton.
                     </p>
