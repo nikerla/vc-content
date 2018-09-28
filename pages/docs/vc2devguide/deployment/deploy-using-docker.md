@@ -9,9 +9,9 @@ Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce
 
 
 ### Prerequisites
-[Docker](https://docs.docker.com/docker-for-windows/install/)
+[Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
 
-[Docker Compose](https://docs.docker.com/compose/install/)
+[Install Docker Compose](https://docs.docker.com/compose/install/)
 
 ## Overview:
 
@@ -19,7 +19,7 @@ There are two types of docker images that are generated. One from the dev branch
 
 ## Setup
 
-Download [docker-compose.yml](https://github.com/VirtoCommerce/vc-docker/blob/master/windows/aspnetcore/docker-compose.yml) to any folder on your computer. Then open command line in the context of the folder you downloaded docker-compose.yml to and run the following command:
+Download [docker-compose.yml](https://github.com/VirtoCommerce/vc-docker/blob/master/windows/aspnetcore/docker-compose.yml) and save it to any folder on your computer. Then open command line and navigate to the folder you saved docker-compose.yml to and run the following command:
 
 ```
 $ docker-compose up -d
@@ -27,7 +27,7 @@ $ docker-compose up -d
 
 This will download all dependencies and start 3 instances (storefront, admin and sql express).
 
-PS: make sure to run "docker-compose pull" to get the latest version of the docker images from the registry if you already ran docker before.
+**Note:** make sure to run "docker-compose pull" to get the latest version of the docker images from the registry if you already ran docker before.
 
 Once images are started, open the administration site using the following URL and complete installation by following simple wizards:
 
