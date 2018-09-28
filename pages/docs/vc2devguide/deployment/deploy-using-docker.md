@@ -10,6 +10,7 @@ Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce
 
 ### Prerequisites
 [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
+
 [Install Docker Compose](https://docs.docker.com/compose/install/)
 
 ## Overview:
