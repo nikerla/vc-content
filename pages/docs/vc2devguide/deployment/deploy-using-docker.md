@@ -1,5 +1,5 @@
 ---
-date: '2018-08-30'
+date: '2018-09-28'
 title: 'Deploy using Docker'
 layout: docs
 ---
@@ -29,11 +29,9 @@ This will download all dependencies and start 3 instances (storefront, admin and
 
 **Note:** make sure to run "docker-compose pull" to get the latest version of the docker images from the registry if you already ran docker before.
 
-Once images are started, open the administration site using the following URL and complete installation by following simple wizards:
+Once images are started, open the [Backend Administration Console](http://localhost:8090) and complete installation by following simple wizards.
 
-[Backend Administration Console](http://localhost:8090).
-
-After backend is completed, you can open storefront using the following URL: [Storefront](http://localhost:8080).
+After backend setup is completed, you can open [Storefront](http://localhost:8080) and browse stores.
 
 Note: you can change mapped addresses inside docker-compose.yml.
 
