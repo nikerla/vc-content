@@ -15,7 +15,7 @@ tags :
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
 				<p class="roadmap-title">2019</p>
-				<p class="roadmap-descr">Our roadmap is defined on Virto Commerce GitHub page <a href="https://github.com/VirtoCommerce/vc-platform/milestone/25" rel="nofollow" target="_blank">GitHub page</a>. You can submit your suggestions or discuss specific features there. Below are just some highlights of what has been done and what is planned.</p>
+				<p class="roadmap-descr">Our roadmap is defined on Virto Commerce GitHub page <a href="https://github.com/VirtoCommerce/vc-platform" rel="nofollow" target="_blank">GitHub page</a>. You can submit your suggestions or discuss specific features there. Below are just some highlights of what has been done and what is planned.</p>
 				<div class="columns">
 					<div class="column">
 						<div class="block">
