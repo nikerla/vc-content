@@ -1,7 +1,7 @@
 ﻿---
 title: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
 description: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
-date: 2014-01-30
+date: 2018-09-30
 permalink: roadmap
 tags : 
 - roadmap
@@ -14,7 +14,7 @@ tags :
 		<ul class="list">
 			<li class="list-item">
 				<div class="roadmap-ico"></div>
-				<p class="roadmap-title">2018</p>
+				<p class="roadmap-title">2019</p>
 				<p class="roadmap-descr">Our roadmap is defined on Virto Commerce GitHub page <a href="https://github.com/VirtoCommerce/vc-platform/milestone/25" rel="nofollow" target="_blank">GitHub page</a>. You can submit your suggestions or discuss specific features there. Below are just some highlights of what has been done and what is planned.</p>
 				<div class="columns">
 					<div class="column">
@@ -29,9 +29,25 @@ tags :
 									<span class="descr">Create Web Hooks API to allow for easier integration with external systems.</span>
 								</li>
 								<li>
-									<span class="title">Advanced B2B starter store</span>
-									<span class="descr">Storefront that showcases B2B capabilities common to many real-life B2B deployments.</span>
-								</li>								
+									<span class="title">Migration to TypeScript/Angular6</span>
+									<span class="descr">We will be migrating all backend modules to the latest TypeScript framework.</span>
+								</li>			
+								<li>
+									<span class="title">Publishing workflow</span>
+									<span class="descr">Introduce publishing workflow for CMS and Product contents.</span>
+								</li>	
+								<li>
+									<span class="title">CMS Landing Page Builder</span>
+									<span class="descr">GUI Editor to allow marketing team to quickly build landing pages.</span>
+								</li>	
+								<li>
+									<span class="title">Marketing Campaign</span>
+									<span class="descr">Introduction of marketing campaign manager that allows grouping multiple discounts under single campaign with its own start and end dates.</span>
+								</li>	
+								<li>
+									<span class="title">Product data versioning</span>
+									<span class="descr">Persist multiple versions of the product data and allow reverting to previous version if needed.</span>
+								</li>														
 							</ul>
 						</div>
 					</div>
@@ -116,11 +132,13 @@ tags :
 								<li>
 									<span class="title">Bulk Order Support</span>
 									<span class="descr">Allow B2B ordering of items in bulk using simple form.</span>
-								</li>							
+								</li>				
+								<!--			
 								<li>
 									<span class="title"><a href="/features/umbraco-cms-ecommerce">Umbraco CMS integration</a></span>
 									<span class="descr">Extension for open source Umbraco CMS product.</span>
 								</li>
+								-->
 								<li>
 									<span class="title">Redesigned frontend</span>
 									<span class="descr">Implements AngularJS, full page caching for ultimate performance, product comparison, dependency injection, SDK client libraries.</span>
