@@ -1,7 +1,7 @@
 ﻿---
 title: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
 description: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
-date: 2018-09-30
+date: 2018-09-29
 permalink: roadmap
 tags : 
 - roadmap
