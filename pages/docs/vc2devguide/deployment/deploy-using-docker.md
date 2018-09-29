@@ -11,6 +11,10 @@ Use this guide to <a class="crosslink" href="https://virtocommerce.com/ecommerce
 ### Prerequisites
 [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install/)
 
+Make sure to setup docker to use Windows Containers:
+
+![Installing Docker](../../../assets/images/docs/docker/configure-1.png "Installing Docker")
+
 ## Overview:
 
 There are two types of docker images that are generated. One from the dev branch and one from the master branch. By default we will be setting up environment using latest master based images. If you want to use dev branch instead, you'll have to modify docker-compose.yml replacing ":latest" with ":dev" for all image names.
@@ -26,6 +30,8 @@ $ docker-compose up -d
 ```
 
 This will download all dependencies and start 3 instances (storefront, admin and sql express).
+
+![Setting up images](../../../assets/images/docs/docker/configure-2.png "Setting up images")
 
 **Note:** make sure to run "docker-compose pull" to get the latest version of the docker images from the registry if you already ran docker before.
 
