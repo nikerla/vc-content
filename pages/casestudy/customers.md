@@ -114,7 +114,7 @@ permalink: customers
                     </div>
                 </div>
             </li>
-            <!-- <li class="list-item">
+            <li class="list-item">
                 <div class="list-link">
                     <figure class="list-img">
                         <img src="/assets/images/casestudies/heineken.png" alt="" class="list-pic">
@@ -123,7 +123,7 @@ permalink: customers
                         <div class="name">Heineken</div>
                     </div>
                 </div>
-            </li> -->
+            </li>
             <li class="list-item">
                 <div class="list-link">
                     <figure class="list-img">
