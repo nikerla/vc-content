@@ -35,7 +35,13 @@ tags :
 								<li>
 									<span class="title">Publishing workflow</span>
 									<span class="descr">Introduce publishing workflow for CMS and Product contents.</span>
-								</li>	
+								</li>														
+							</ul>
+						</div>
+					</div>
+					<div class="column">
+						<div class="block">
+							<ul class="list">	
 								<li>
 									<span class="title">CMS Landing Page Builder</span>
 									<span class="descr">GUI Editor to allow marketing team to quickly build landing pages.</span>
@@ -47,13 +53,12 @@ tags :
 								<li>
 									<span class="title">Product data versioning</span>
 									<span class="descr">Persist multiple versions of the product data and allow reverting to previous version if needed.</span>
-								</li>														
-							</ul>
-						</div>
-					</div>
-					<div class="column">
-						<div class="block">
-							<ul class="list">				
+								</li>	
+								<li>
+									<span class="title">Order approval workflow</span>
+									<span class="descr">This functionality has been used by many of our existing clients and we will now include it as part of the default feature in Virto Commerce.</span>
+								</li>		
+								<!--		
 								<li>
 									<span class="title">PunchOut Support</span>
 									<span class="descr">Adding support for integration with your procurement system, we support Ariba, SciQuest, Coupa, SAP, Unimarket, Oracle, PeopleSoft Punchout, Oracle Punchout, TBlox, Perfect Commerce, etc.</span>
@@ -66,6 +71,7 @@ tags :
 									<span class="title">Marketing automation modules</span>
 									<span class="descr">Integration with popular marketing platforms Silverpop, Marketo, SpotHub</span>
 								</li>
+								-->
 							</ul>
 						</div>
 					</div>
