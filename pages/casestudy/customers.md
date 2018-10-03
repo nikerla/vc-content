@@ -53,17 +53,17 @@ permalink: customers
                         <div class="name">Volvo Cars</div>
                     </div>
                 </div>
-            </li>                 
+            </li>
             <li class="list-item">
-                <a class="list-link" href="http://travelcommercesolutions.com" target="_blank" rel="nofollow">
+                <div class="list-link">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/tcs.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/heineken.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">travelcommercesolutions.com</div>
+                        <div class="name">Heineken</div>
                     </div>
-                </a>
-            </li>    
+                </div>
+            </li>  
             <li class="list-item">
                 <a class="list-link" href="https://www.madeblinds.com" target="_blank" rel="nofollow">
                     <figure class="list-img">
@@ -73,26 +73,26 @@ permalink: customers
                         <div class="name">MadeBlinds.com</div>
                     </div>
                 </a>
-            </li>    
+            </li>
             <li class="list-item">
-                <a class="list-link gifts link-case" href="https://virtocommerce.com/assets/files/gc-case-study.pdf">
+                <div class="list-link">
                     <figure class="list-img">
-                        <img src="https://virtocommerce.com/assets/images/casestudies/gc-logo.jpg" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/vivint-smart-home.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">GCIncentives.com</div>
+                        <div class="name">Vivint.SmartHome</div>
                     </div>
-                </a>
-            </li>   
+                </div>
+            </li>  
             <li class="list-item">
-                <a class="list-link" href="http://proffsmagasinet.se" target="_blank" rel="nofollow">
+                <div class="list-link">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/pm-logo.svg" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/country-malt-group.jpg" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">proffsmagasinet.se</div>
+                        <div class="name">The Country Malt Group</div>
                     </div>
-                </a>
+                </div>
             </li>
             <li class="list-item">
                 <div class="list-link">
@@ -105,25 +105,25 @@ permalink: customers
                 </div>
             </li>              
             <li class="list-item">
-                <div class="list-link">
+                <a class="list-link" href="http://proffsmagasinet.se" target="_blank" rel="nofollow">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/country-malt-group.jpg" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/pm-logo.svg" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">The Country Malt Group</div>
+                        <div class="name">proffsmagasinet.se</div>
                     </div>
-                </div>
+                </a>
             </li>
-            <!-- <li class="list-item">
-                <div class="list-link">
+            <li class="list-item">
+                <a class="list-link" href="http://travelcommercesolutions.com" target="_blank" rel="nofollow">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/heineken.png" alt="" class="list-pic">
+                        <img src="/assets/images/casestudies/tcs.png" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">Heineken</div>
+                        <div class="name">travelcommercesolutions.com</div>
                     </div>
-                </div>
-            </li> -->
+                </a>
+            </li>
             <li class="list-item">
                 <div class="list-link">
                     <figure class="list-img">
@@ -185,15 +185,15 @@ permalink: customers
                 </div>
             </li> -->
             <li class="list-item">
-                <div class="list-link">
+                <a class="list-link gifts link-case" href="https://virtocommerce.com/assets/files/gc-case-study.pdf">
                     <figure class="list-img">
-                        <img src="/assets/images/casestudies/vivint-smart-home.png" alt="" class="list-pic">
+                        <img src="https://virtocommerce.com/assets/images/casestudies/gc-logo.jpg" alt="" class="list-pic">
                     </figure>
                     <div class="list-name">
-                        <div class="name">Vivint.SmartHome</div>
+                        <div class="name">GCIncentives.com</div>
                     </div>
-                </div>
-            </li>
+                </a>
+            </li> 
         </ul>
     </div>
 </div>

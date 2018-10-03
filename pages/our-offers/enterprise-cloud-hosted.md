@@ -123,10 +123,6 @@ permalink: our-offers/cloud-ecommerce-platform
     </ul>
 </div>
 {% include 'platform-integrations' %}
-<div class="responsive">
-    <h2 class="head-title text-center">Cloud eCommerce Platform Pricing</h2>
-    {% include 'pricing-paas' %}
-</div>
 <div class="try-it">
     <span class="try-it-text">Ready to Order?</span> <a class="button fill" href="/contact-us">Try Cloud Edition</a>
     <a class="button fill" href="/download-whitepaper">5 Cloud Edition Benefits Whitepaper</a>
