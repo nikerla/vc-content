@@ -170,7 +170,7 @@ tags :
             <div class="glosary-article">
                 <img class="glosary-pic" alt="Shopify Alternative - Virto Commerce" src="assets/images/virto-commerce-screen.jpg"></img>
                 <p>
-                    Another great Shopify alternative is Virto Commerce. It is the only enterprise-level e-commerce solution among Shopify competitors that offers fully open source software. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies.
+                    Another great Shopify alternative is Virto Commerce. It is the only enterprise-level e-commerce solution among Shopify competitors that offers fully open source software. It is based on .NET 4.6 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting-edge technologies.
                 </p>
                 <p>Virto Commerce is excellent in managing large volumes of SKUs. But what makes it truly stand out among other alternatives to Shopify is the fact that it provides clear product catalogs and maximizes your opportunities in content marketing, SEO, and product promotion. With this unique solution, you will be able to create your store’s page fast and easy.</p>
                 <p>

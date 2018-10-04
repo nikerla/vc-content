@@ -94,7 +94,7 @@ tags :
             </div>
             <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
                 Unlike most other 3dcart competitors, this platform is open source and it offers all of the tools and features needed to build a full-fledged web store and to easily set up the processes for selling your products and services.
-                This ecommerce solution is based on .NET 4.5 framework and uses cutting-edge technologies that give you all the freedom and flexibility you need when creating your website. Launch and scale your website using Microsoft cloud and market it with agile features.
+                This ecommerce solution is based on .NET 4.6 framework and uses cutting-edge technologies that give you all the freedom and flexibility you need when creating your website. Launch and scale your website using Microsoft cloud and market it with agile features.
             </div>
         </div>
         <p class="text">

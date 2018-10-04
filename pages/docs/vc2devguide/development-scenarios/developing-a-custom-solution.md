@@ -1,4 +1,4 @@
-﻿---
+---
 title: Developing a custom solution
 description: This article describes custom solution development process using Virto Commerce (VC) platform
 layout: docs
@@ -65,7 +65,7 @@ If a custom module exposes any managed code extension point, it should be pac
 > <a href="http://shazwazza.com/post/all-about-aspnet-file-change-notification-fcn/" rel="nofollow">ASP.Net File Change Notification</a> feature is disabled in VC Platform app by default. It would be much more convenient to have it enabled **while developing** your new module. In the **VirtoCommerce.Platform.Web** project open **web.config** file. In **system.web** section find the **httpRuntime** node and **fcnMode** attribute. Change its value from **Disabled** to **Default**.
 > **platform web.config**
 > ```
-> <httpRuntime targetFramework="4.5.1" maxRequestLength="512000" fcnMode="Default"/>
+> <httpRuntime targetFramework="4.6.1" maxRequestLength="512000" fcnMode="Default"/>
 > ```
 > Set the value back to **Disabled** in production environment or while testing modules installation.
 

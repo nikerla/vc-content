@@ -1,4 +1,4 @@
-﻿---
+---
 title: System Requirements - Virto Commerce 2 Developer Guide
 description: System Requirements for Virto Commerce
 layout: docs
@@ -8,7 +8,7 @@ priority: 2
 ## Software requirements
 
 * Windows Server 2008 or later (IIS 7 or later) 
-* Microsoft .NET Framework 4.5.1 
+* Microsoft .NET Framework 4.6.1 
 * Visual C++ Redistributable Packages for Visual Studio 2013 (for storefront) 
 * Microsoft SQL Server 2008 or later
 
