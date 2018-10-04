@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise .NET open-source ecommerce cloud platform. Features
 description: Enterprise .NET open-source ecommerce cloud platform. Features
 date: 2014-01-30
@@ -40,7 +40,7 @@ tags :
 					Virto Commerce is the only enterprise level
 					e-commerce product fully available under Open
 					Source license. Virto Commerce is based on .NET
-					4.5 with extensive use of MVC, IoC, EF, Azure and
+					4.6 with extensive use of MVC, IoC, EF, Azure and
 					many other cutting edge technologies. Developed by
 					the team that created Mediachase eCommerce
 					Framework (now EPiServer Commerce), Virto
@@ -54,8 +54,8 @@ tags :
 			</div>
 			<p class="feature-descr">
 				Developed by the team that created Mediachase eCommerce Framework (now EPiServer Commerce), Virto Commerce is the only
-				enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive
-				use of MVC, IoC, EF, Azure and many other cutting edge technologies. Developed by the team that created Mediachase eCommerce Framework (now EPiServer Commerce), Virto Commerce is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure and many other cutting edge
+				enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.6 with extensive
+				use of MVC, IoC, EF, Azure and many other cutting edge technologies. Developed by the team that created Mediachase eCommerce Framework (now EPiServer Commerce), Virto Commerce is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.6 with extensive use of MVC, IoC, EF, Azure and many other cutting edge
 				technologies.
 			</p>
 		</div>
