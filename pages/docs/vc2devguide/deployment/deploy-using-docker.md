@@ -18,7 +18,7 @@ Make sure to setup docker to use Windows Containers:
 
 Make sure you have Docker running using Windows Containers (storefront can run in linux environment, however platform still requires windows to run).
 
-Download [docker-compose.yml](https://github.com/VirtoCommerce/vc-docker/blob/master/windows/aspnetcore/docker-compose.yml) and save it to any folder on your computer. Then open command line (cmd.exe) and navigate to the folder you saved docker-compose.yml to and run the following command:
+Download [docker-compose.yml](https://raw.githubusercontent.com/VirtoCommerce/vc-docker/master/windows/aspnetcore/docker-compose.yml) and save it to any folder on your computer. Then open command line (cmd.exe) and navigate to the folder you saved docker-compose.yml to and run the following command:
 
 ```
 $ docker-compose up -d
