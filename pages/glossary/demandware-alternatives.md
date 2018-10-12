@@ -100,7 +100,7 @@ tags :
         <div class="section-title">Virto Commerce</div>
         <div class="col-w">
             <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-                When using Virto Commerce as a Demandware alternative, you can be sure that you are getting the platform that will suit all your needs. There are almost no complicated processes involved in creating your website. The cutting-edge .NET 4.5 framework along with AngularJS and Liquid technologies will let you build your website in no time and start selling products and services as soon as possible. This is the solution that can be used by any vendor from small businesses to enterprise-level companies.
+                When using Virto Commerce as a Demandware alternative, you can be sure that you are getting the platform that will suit all your needs. There are almost no complicated processes involved in creating your website. The cutting-edge .NET 4.6 framework along with AngularJS and Liquid technologies will let you build your website in no time and start selling products and services as soon as possible. This is the solution that can be used by any vendor from small businesses to enterprise-level companies.
             </div>
             <div class="col __col-30">
                 <img alt="Demandware alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />

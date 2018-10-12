@@ -43,7 +43,7 @@ tags :
 		<li class="list-item big">
 			<div class="list-info">
 				<span class="title">Latest Technologies</span>
-				<span class="descr">Built using Microsoft .Net 4.5 framework, it encompasses latest architecture practices and technologies for .NET platform. Some of them are: Entity Framework 6, MVC5/Liquid, Web API, Unity, HTML5, AngularJS.</span>
+				<span class="descr">Built using Microsoft .Net 4.6 framework, it encompasses latest architecture practices and technologies for .NET platform. Some of them are: Entity Framework 6, MVC5/Liquid, Web API, Unity, HTML5, AngularJS.</span>
 				<span class="title">Use what you need, replace what you don't</span>
 				<span class="descr">Virto Commerce is designed to be a flexible and non-monolithic framework where each part can be replaced or changed when needed. If you have an existing e-Commerce product and simply like how product catalogs are managed in Virto Commerce, you can integrate just the catalog module leaving all other parts of your existing commerce solution intact. This design paradigm minimizes risks of upgrading or creating e-Commerce solution.</span>
 			</div>

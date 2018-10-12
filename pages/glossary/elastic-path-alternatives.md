@@ -94,7 +94,7 @@ tags :
         <h2>Virto Commerce</h2>
         <div class="col-w">
             <div class="col __col-70 text" style="margin-top: 0; padding-right: 20px;">
-                When choosing Virto Commerce as an Elasticpath alternative, you can be confident that you are using the platform that is best suited for any of your ecommerce needs. This platform is an open source solution, however, there will be no stress involved for a person who is not all that familiar with coding. Thanks to cutting edge .NET 4.5 framework and technologies like Angular and Liquid on which the platform is built upon, it provides an easy set-up and operation. You will be able to build your website in no time and start selling fast.
+                When choosing Virto Commerce as an Elasticpath alternative, you can be confident that you are using the platform that is best suited for any of your ecommerce needs. This platform is an open source solution, however, there will be no stress involved for a person who is not all that familiar with coding. Thanks to cutting edge .NET 4.6 framework and technologies like Angular and Liquid on which the platform is built upon, it provides an easy set-up and operation. You will be able to build your website in no time and start selling fast.
             </div>
             <div class="col __col-30">
                 <img alt="Elasticpath Alternatives - Virto Commerce" src="assets/images/virto-commerce-screen.jpg" />

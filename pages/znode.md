@@ -1,4 +1,4 @@
-﻿---
+---
 title: Enterprise .NET open-source ecommerce cloud platform. Virto Commerce vs Znode
 description: Enterprise .NET open-source ecommerce cloud platform. Virto Commerce vs Znode
 date: 2014-01-30
@@ -13,7 +13,7 @@ tags :
 		<div class="column">
 			<div class="block">
 				<h3 class="title">Virto Commerce</h3>
-				<p class="text">Developed from 2011 as an enterprise platform with focus on Azure cloud and all the latest technologies available including .NET 4.5, Windows Workflow Foundation, Entity Framework 6, Web API, Elastic Search etc.</p>
+				<p class="text">Developed from 2011 as an enterprise platform with focus on Azure cloud and all the latest technologies available including .NET 4.6, Windows Workflow Foundation, Entity Framework 6, Web API, Elastic Search etc.</p>
 			</div>
 		</div>
 		<div class="column">
@@ -39,7 +39,7 @@ tags :
 				<td>Technology Highlights</td>
 				<td>
 					<ul class="list">
-						<li>.NET 4.5</li>
+						<li>.NET 4.6</li>
 						<li>MVC 5/Liquid/Razor</li>
 						<li>Entity Framework 6</li>
 						<li>Angular JS based Backend</li>

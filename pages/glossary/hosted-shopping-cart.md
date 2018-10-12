@@ -143,7 +143,7 @@ tags:
                 </span>
             </div>
             <div class="col __col-70 text" style="margin-top: 0; padding-left: 20px;">
-                The enterprise-level e-commerce solution that is fully open-source. It is based on .NET 4.5 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting edge technology advancements. If you are to manage high volumes of items, this is the platform that can provide product catalogs with the maximum ability for marketing and promotion. This platform is a well-built solution that eliminates the problem of creating a store’s website in no time. It's modern technology will allow you to set up a website in less than an hour, bringing such incredible features to you as technical documentation, tech support and so on. Great .NET architecture will allow you to customize your website with no sweat.
+                The enterprise-level e-commerce solution that is fully open-source. It is based on .NET 4.6 with extensive use of IoC, EF, AngularJS, Liquid, MVC and many other cutting edge technology advancements. If you are to manage high volumes of items, this is the platform that can provide product catalogs with the maximum ability for marketing and promotion. This platform is a well-built solution that eliminates the problem of creating a store’s website in no time. It's modern technology will allow you to set up a website in less than an hour, bringing such incredible features to you as technical documentation, tech support and so on. Great .NET architecture will allow you to customize your website with no sweat.
             </div>
         </div>
         {% include 'micro-mark-publisher' %}
