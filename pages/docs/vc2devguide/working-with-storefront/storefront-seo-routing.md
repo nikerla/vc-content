@@ -28,3 +28,21 @@ Each storefront url has the following structure **/{store id?}/{locale?}/{path}
 ## Storefront slug URL resolution rules
 
 ![](../../../assets/images/docs/image2016-4-21_14-23-4.png)
+
+## Storefront slug URL generation modes
+
+The each VC store has a special setting which controls behavior how the SEO Slug URLs being generated on the storefront  
+![image](https://user-images.githubusercontent.com/7566324/46813276-b4ebfe00-cd76-11e8-9eea-a8d0bb15c640.png)
+
+Let's assume that we have followed virtual catalog structure
+
+**Physical catalog**: _physical-parent-category/my-cool-category/my-cool-product_ 
+**Virtual catalog**:  _virtual-parent-category <- physical-parent-category_ (category link from **Physical catalog**)
+
+So the resulting links on the storefront will be follow depend on active  mode
+
+**Long**: _/virtual-parent-category/physical-parent-category/my-cool-category/my-cool-product_ - which represent full object outline path in hierarhy including virtual categories
+**Collapsed**: _/virtual-parent-category/my-cool-category/my-cool-product_ -From URL will be excluded physical category which directly linked to the virtual category (very helpful mode if you want to link all products belongs to one or multiple  physical categories to one virtual  and hide their physical categories from resulting path)
+**Short** : _/my-cool-product_ - used only  SEO slug  defined for end object without hierarchy path
+**None**: _/product/123_ - doesn't used slug at all, object type and identifiers used instead
+
