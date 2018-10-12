@@ -20,6 +20,8 @@ storefrontApp.controller('docsController', ['$scope', '$http', '$location', '$co
             })
             $scope.authors = _.map(_.groupBy(article,
                 function (author) {
+                    if(author == null) // handle null exception
+                        return "";
                     return author.login;
                 }),
                 function (grouped) {
