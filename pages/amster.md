@@ -1,6 +1,6 @@
 ﻿---
-title: Amster title - Virto Commerce
-description: Amster description
+title: B2B Online Europe | Amsterdam | Postillion Convention Center - Virto Commerce
+description: Join Virto Commerce at the B2B Online Europe Conference for Manufacturers and Distributors  With 300+ attendees and experts in B2B Ecommerce
 date: 2018-10-15
 permalink: amster
 tags :
