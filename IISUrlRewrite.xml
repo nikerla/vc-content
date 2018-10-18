@@ -88,6 +88,7 @@
             <add key="/Us" value="/about-us" />
             <add key="/integrations" value="/" />
             <add key="/coremodules" value="/" />
+            <add key="/amster" value="/amster" />
             <add key="/docs/vc113userguide/what-is-commerce-manager" value="/" />
             <add key="/docs/vc113userguide/users-management-roles-and-role-assignment" value="/" />
             <add key="/apps/CMSExtensions" value="/" />
