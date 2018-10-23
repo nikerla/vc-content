@@ -23,13 +23,6 @@ var configCss = {
 
 gulp.task('styles', function () {
     return gulp.src(configCss.src)
-      .pipe(concat('main-styles.min.css'))
-      .pipe(cssmin())
-      .pipe(gulp.dest('theme/assets/css/bundles/.'));
-});
-
-gulp.task('styles', function () {
-    return gulp.src(configCss.src)
         .pipe(concat('main-styles.min.css'))
         .pipe(cssmin())
         .pipe(gulp.dest('theme/assets/css/bundles/.'));
