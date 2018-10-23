@@ -3079,13 +3079,10 @@ ul.breadcrumbs>li+li::before {
 
 .amster~.costumers .list-item {
     width: 33.3333%;
-
-    -webkit-align-items: flex-end;
-    align-items: flex-end;
 }
 
 .amster~.costumers .list-pic {
-    max-height: 100%;
+    max-height: 100px;
     max-width: 100%;
 }
 
