@@ -21,70 +21,70 @@ tags :
                     to refine your B2B Ecommerce strategy.</p>
                     <img src="../assets/images/amster/b2b.jpg" alt="">
                 </div>
-                <div class="col-auto form">
+                <form class="col-auto form" action="" method="post">
                     <div class="form-t">Will you be there? <span class="br"></span>Sign up for a Meeting</div>
                     <div class="control-group">
-                        <input type="text" placeholder="First name" class="form-input">
+                        <input type="text" name="Contact[FirstName]" placeholder="First name" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Last name" class="form-input">
+                        <input type="text" name="Contact[LastName]" placeholder="Last name" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Company" class="form-input">
+                        <input type="text" name="Contact[Company]" placeholder="Company" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Job Title" class="form-input">
+                        <input type="text" name="Contact[JobTitle]" placeholder="Job Title" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="E-mail" class="form-input">
+                        <input type="text" name="Contact[Email]" placeholder="E-mail" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Phone" class="form-input">
+                        <input type="text" name="Contact[Phone]" placeholder="Phone" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Industry" class="form-input">
+                        <input type="text" name="Contact[Industry]" placeholder="Industry" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Country" class="form-input">
+                        <input type="text" name="Contact[Country]" placeholder="Country" class="form-input">
                     </div>
                     <p>By clicking «Request» I agree to the <span class="br"></span>Virto Commerce <a href="#">Terms</a> and <a href="#">Privacy</a>.</p>
                     <button class="button white fill">
                         Request Meeting
                     </button>
-                </div>
+                </form>
             </div>
         </div>
     </div>
-    <div class="form mobile">
+    <form class="form mobile" action="" method="post">
         <div class="responsive">
             <div class="form-t">Will you be there? <span class="br"></span>Sign up for a Meeting</div>
             <div class="cols">
                 <div class="form-col">
                     <div class="control-group">
-                        <input type="text" placeholder="First name" class="form-input">
+                        <input type="text" name="Contact[FirstName]" placeholder="First name" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Last name" class="form-input">
+                        <input type="text" name="Contact[LastName]" placeholder="Last name" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Company" class="form-input">
+                        <input type="text" name="Contact[Company]" placeholder="Company" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Job Title" class="form-input">
+                        <input type="text" name="Contact[JobTitle]" placeholder="Job Title" class="form-input">
                     </div>
                 </div>
                 <div class="form-col">
                     <div class="control-group">
-                        <input type="text" placeholder="E-mail" class="form-input">
+                        <input type="text" name="Contact[Email]" placeholder="E-mail" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Phone" class="form-input">
+                        <input type="text" name="Contact[Phone]" placeholder="Phone" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Industry" class="form-input">
+                        <input type="text" name="Contact[Industry]" placeholder="Industry" class="form-input">
                     </div>
                     <div class="control-group">
-                        <input type="text" placeholder="Country" class="form-input">
+                        <input type="text" name="Contact[Country]" placeholder="Country" class="form-input">
                     </div>
                 </div>
             </div>
@@ -93,7 +93,7 @@ tags :
                 Request Meeting
             </button>
         </div>
-    </div>
+    </form>
     <div class="costumers">
         <div class="responsive">
             <p>Join us to and learn how these enterprise companies <span class="br"></span>
