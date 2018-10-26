@@ -79,6 +79,30 @@ Expect a comprehensive range of services from the bambit team and network: e-com
 				<a class="button" href="/contact-partner?pid=makingwaves" rel="nofollow">Contact partner</a>
 			</div>
 		</li>
+		<li class="list-item">
+			<a href="https://ntara.com" class="list-pic" rel="nofollow">
+				<img alt="" src="../assets/images/vendors/ntara.png">
+			</a>
+			<div class="list-info">
+				<a href="https://ntara.com" class="link" rel="nofollow">Ntara</a>
+				<p class="country">United States</p>
+				<p class="lang">Languages Spoken: English</p>
+				<p class="text">Founded in 1999, Ntara is a full-service digital agency specializing in commerce solutions within three verticals: branded manufacturing & distribution, healthcare & institutions, and high technology.</p>
+				<a class="button" href="/contact-partner?pid=ntara" rel="nofollow">Contact partner</a>
+			</div>
+		</li>
+		<li class="list-item">
+			<a href="https://fortedigital.no" class="list-pic" rel="nofollow">
+				<img alt="" src="../assets/images/vendors/forte-digital.png">
+			</a>
+			<div class="list-info">
+				<a href="https://fortedigital.no" class="link" rel="nofollow">Forte_ Digital</a>
+				<p class="country">Norway, Sweden, Denmark, UK, Switzerland, Poland</p>
+				<p class="lang">Languages Spoken: English, Swedish, Norwegian, Polish</p>
+				<p class="text">Forte_Digital is an innovative software consulting company. Our group of experts has significant business understanding and deep experience. We provide advisory, user experience, development and integration services to our international customers. We work with startups and well-established businesses to help them with their digital business. Our main solution areas are B2C and B2B e-commerce platforms and dedicated digital products and services. We employ 40 consultants located in offices in Oslo, Norway and Kraków, Poland.</p>
+				<a class="button" href="/contact-partner?pid=fortedigital" rel="nofollow">Contact partner</a>
+			</div>
+		</li>
 	</ul>
 </div>
 {% include 'technologies' %}
