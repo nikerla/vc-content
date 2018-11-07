@@ -11,6 +11,19 @@ permalink: case-studies
             <li class="list-item">
                 <div class="list-inner">
                     <div class="list-img">
+                        <img alt="" src="../assets/images/casestudies/bosch.png" />
+                    </div>
+                    <div class="list-t">Manufacturer equipment</div>
+                    <div class="list-text">Objective: B2C/B2B Customer Loyalty Online Store</div>
+                    <div class="list-descr">Building customer loyalty and gaining customer knowledge through a Customer Loyalty eCommerce Store</div>
+                    <div class="list-btn">
+                        <a class="button fill" href="case-studies/bosch">View case study</a>
+                    </div>
+                </div>
+            </li>
+            <li class="list-item">
+                <div class="list-inner">
+                    <div class="list-img">
                         <img alt="" src="../assets/images/casestudies/proffs.png" />
                     </div>
                     <div class="list-t">Retail Equipment</div>
