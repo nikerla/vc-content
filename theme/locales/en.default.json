@@ -251,7 +251,15 @@
             "ai": "AI",
             "product-recommendations": "Product Recommendations",
             "websites-migration": "Websites Migration",
-            "marketo": "Marketo"
+            "marketo": "Marketo",
+            "cio": "CIO",
+            "digital": "Digital",
+            "distribution": "Distribution",
+            "manufacturing": "Manufacturing",
+            "online": "Online",
+            "software": "Software",
+            "solution": "Solution",
+            "technology": "Technology"
         },
         "categories": {
             "virtocommerce-news": "Virto Commerce News",
