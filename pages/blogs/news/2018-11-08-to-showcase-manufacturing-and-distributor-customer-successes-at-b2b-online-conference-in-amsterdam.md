@@ -5,11 +5,11 @@ permalink: blog/to-showcase-manufacturing-and-distributor-customer-successes-at-
 main-image: ../../assets/images/blog/b2b-theme-and-storefront-updates.jpg
 excerpt: Leading Beverage Distributor and Major Tools Manufacturer among top Virto Commerce B2B solutions to be showcased
 tags:
-- CIO
+- cio
 - digital
 - distribution
-- e-commerce
 - ecommerce
+- commerce
 - manufacturing
 - online
 - platform
