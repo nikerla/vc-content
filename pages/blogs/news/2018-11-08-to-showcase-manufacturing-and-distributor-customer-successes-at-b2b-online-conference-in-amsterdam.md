@@ -2,7 +2,7 @@
 category: virtocommerce-news
 date: '2018-11-08'
 permalink: blog/to-showcase-manufacturing-and-distributor-customer-successes-at-b2b-online-conference-in-amsterdam
-main-image: ../../assets/images/blog/b2b-theme-and-storefront-updates.jpg
+main-image: ../../assets/images/blog/amster-bg-hero.jpg
 excerpt: Leading Beverage Distributor and Major Tools Manufacturer among top Virto Commerce B2B solutions to be showcased
 tags:
 - cio
