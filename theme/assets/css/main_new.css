@@ -3251,6 +3251,11 @@ input.ng-dirty.ng-invalid {
     background-size: cover;
 }
 
+.bg-eminent {
+    background: url(eminent.jpg) no-repeat;
+    background-size: cover;
+}
+
 .download-pdf {
     background: url(pdf-download.png) no-repeat;
     padding-top: 140px;
