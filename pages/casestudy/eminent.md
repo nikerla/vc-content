@@ -17,7 +17,7 @@ permalink: case-studies/eminent
             <div class="col __col-70">
                 <h4>CHALLENGE</h4>
                 <p>
-                    The Executive Office of the US Government wanted to improve its supply chain solution for internal product ordering, approval, and tracking management. They contracted with Eminent IT, a technology colsulting firm specializing in working with government and modernizing the customer experience of both citizen-facing and internal services by replacing obsolete legacy applications, systems, and business processes. The US Governement needed a new system to improve its supply chain ordering online, delivery of products, and tracking.
+                    The Executive Office of the US Government wanted to improve its supply chain solution for internal product ordering, approval, and tracking management. They contracted with Eminent IT, a technology consulting firm specializing in working with government and modernizing the customer experience of both citizen-facing and internal services by replacing obsolete legacy applications, systems, and business processes. The US Governement needed a new system to improve its supply chain ordering online, delivery of products, and tracking.
                 </p>
                 <blockquote>
                     To improve the supply chain ordering process and tracking, the Executive Office of the US Government wanted an improved eCommerce system customized to accommodate their approval and tracking process business requirements.
