@@ -164,6 +164,19 @@ permalink: case-studies
                     </div>
                 </div>
             </li>
+            <li class="list-item">
+                <div class="list-inner">
+                    <div class="list-img">
+                        <img src="../assets/images/casestudies/eminent-logo.png" alt="eminent">
+                    </div>
+                    <div class="list-t">GOVERNMENT SUPPLY CHAIN</div>
+                    <div class="list-text">Objective: Order platform</div>
+                    <div class="list-descr">US Government Supply Chain Ecommerce Expedites Order Processing and Efficiency.</div>
+                    <div class="list-btn">
+                        <a class="button fill" href="case-studies/eminent">View case study</a>
+                    </div>
+                </div>
+            </li>
         </ul>
     </div>
 </div>
