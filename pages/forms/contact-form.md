@@ -12,7 +12,7 @@ tags :
 - commerce
 ---
 <div class="roadmap __responsive">
-    <h1 class="head-title">Contact Sales</h1>
+    <h1 class="head-title">Let's Talk</h1>
     <div class="columns">
         <div class="column">
             <div class="block">
