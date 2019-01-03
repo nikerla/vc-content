@@ -7,18 +7,18 @@ priority: 2
 ---
 ## Summary
 
-Use this guide to import new products into Virto Commerce Platform(backend) catalog and can observe them locally on Virto Commerce Storefront(frontend).
+Use this guide to import new products into Virto Commerce Platform (backend) catalog and can observe them locally on Virto Commerce Storefront (frontend).
 
 ## Prerequisites
 
-* You need to have locally preinstalled Virto Commerce Platform(backend) and Virto Commerce Storefront(frontend) - see how to deploy and open them in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>.
+* You need to have locally preinstalled Virto Commerce Platform (backend) and Virto Commerce Storefront (frontend) - see how to deploy and open them in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>.
 * Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/electronics-new-products-example.csv" target="_blank">electronics-new-products-example.csv</a> file with new products.
-* Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/images-example.zip" target="_blank">images-example.zip</a> file with 15 images of new products.
+* Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/images-example.zip" target="_blank">images-example.zip</a> file and extract the content. There will be 15 images of new products.
 * Word Excel or <a href="https://www.libreoffice.org/" target="_blank">LibreOffice(*free*)</a>.
 
 ## Create catalog data file in .csv format
 
-* To create file with products like downloaded **electronics-new-products-example.csv** you need to create new file in any of Word Excel or LibreOffice programm.
+* To create file with products like downloaded **electronics-new-products-example.csv** you need to create new file in any of Word Excel or LibreOffice program.
 * In Excel just select the product properties you need from the list and fill in the product properties columns as in our document. Set to the PrimaryImage column pathes to your images in **Assets**.
 * In LibreOffice you need to create table with the number of columns equal to the number of properties of your products and fill it. For a delimiter, select a comma.
 * Save file in .csv format.
