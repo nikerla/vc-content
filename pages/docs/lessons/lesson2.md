@@ -14,59 +14,60 @@ Use this guide to import new products into Virto Commerce Platform (backend) cat
 * You need to have locally preinstalled Virto Commerce Platform (backend) and Virto Commerce Storefront (frontend) - see how to deploy and open them in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>.
 * Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/electronics-new-products-example.csv" target="_blank">electronics-new-products-example.csv</a> file with new products.
 * Download the <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/pages/docs/lessons/images-example.zip" target="_blank">images-example.zip</a> file and extract the content. There will be 15 images of new products.
-* Word Excel or <a href="https://www.libreoffice.org/" target="_blank">LibreOffice(*free*)</a>.
+* Microsoft Excel, <a href="https://www.libreoffice.org/" target="_blank">LibreOffice(*free*)</a> or any other csv file editor.
 
 ## Create catalog data file in .csv format
 
-* To create file with products like downloaded **electronics-new-products-example.csv** you need to create new file in any of Word Excel or LibreOffice program.
-* In Excel just select the product properties you need from the list and fill in the product properties columns as in our document. Set to the PrimaryImage column pathes to your images in **Assets**.
+In order to have a file with your own products like downloaded **electronics-new-products-example.csv**, you need to create new *.csv file in csv file editor.
+* In Excel just select the product properties you need from the list and fill in the product properties columns as in our document. Set the PrimaryImage column values to URLs to your images in **Assets**.
 * In LibreOffice you need to create table with the number of columns equal to the number of properties of your products and fill it. For a delimiter, select a comma.
 * Save file in .csv format.
 
 ![Сsv example](../../assets/images/docs/csv-example.png "Сsv example")
 
-## How to create new Catalog or use an existing one
+## Create new Catalog or use an existing one
 
-* Open locally Virto Commerce Platform(see how to deploy and open it in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>)
+* Open Virto Commerce Platform (see how to deploy and open it in <a href="https://github.com/VirtoCommerce/vc-content/tree/lesson2/Pages/docs/lessons/lesson1.md" target="_blank">Lesson 1</a>)
 * There are 2 scenarios for adding new products: adding to a new catalog or to an existing one.
 
-### Create new category and subcategory
+### Creating new category and subcategory
 
-* To create new category in **Electronics Theme** click on **More > Catalog > Electronics>** click on **+Add** > choose the **Category >** add category name **Laptops** and code(optional), push on button **Create**.
+* To create new category in **Electronics** catalog click on **More > Catalog > Electronics>** click **+Add** > choose **Category >** fill category name **Laptops** and code (optional), click **Create** button.
 
 ![Create new category](../../assets/images/docs/new-category.png "Create new category")
 
+
 ![New category details](../../assets/images/docs/new-category-details.png "New category details")
 
-* Click on the **Laptops** in categories list. To create new subcategory, click on **+Add >** choose the **Category >** add category name **Asus-Laptops** and code(optional), push on button **Create**.
-* By click on **More > Catalog > Electronics > Laptops > Asus-Laptops** you will see all created categories. If you want to get Asus-Laptops CategoryId for using it in .csv file - click on categories page menu, select **Id** by check box and copy Asus-Laptops Id value.
+* Click on the **Laptops** in categories list. To create new subcategory, click **+Add >** choose **Category >** add category name **Asus-Laptops** and code (optional), click **Create**.
+* By clicking on **More > Catalog > Electronics > Laptops > Asus-Laptops** you will see all created categories. If you want to get Asus-Laptops CategoryId for using it in .csv file - click on categories page menu, select **Id** by check box and copy the Id value.
 
-### How to use an existing catalog and category
+### Using an existing catalog and category
 
 * Click on **More > Catalog**. Select the catalog and category names in which you want to add new products, click on categories page menu, select **Id** by check box and copy category Id value to use in your .csv file.
 
 ## Upload images for new products
 
-* You need to add images for products: go to **More > Assets > catalog >** click on the **New folder** icon, type **ASUS** name, click button **Ok**.
+You need to add images for products: go to **More > Assets > catalog >** click on the **New folder** icon, type **ASUS** folder name, click **Ok** button.
 
 ![New folder for images](../../assets/images/docs/assets-new-folder.png "New folder for images")
 
+
 ![Upload new images](../../assets/images/docs/assets-upload-image.png "Upload new images")
 
-* Click on the **Upload** icon and select in File Explorer all downloaded example images from **images-example.zip**. Now you could see all images in the new **ASUS** catalog.
+* Click on the **Upload** icon. An **Asset upload** blade opens. Select all the previously extracted sample images from **images-example.zip** in File Explorer and drag&drop onto specified area. Now you should see all images in the **ASUS** folder uploaded.
 
 ![New images list](../../assets/images/docs/assets-new-products.png "New images list")
 
-## Import and mapping your catalog data to Virto Commerce Platform(*backend*)
+## Importing and mapping your catalog data into Virto Commerce
 
-* At the top of the **Asus-Laptops** category page click on the **Import** icon **> VirtoCommerce CSV import >** select **Semicolon** in **Csv column delimiter >** click on image to upload **electronics-new-products-example.csv** file. Wait a minute... 
+* At the top of the **Asus-Laptops** category blade click the **Import** icon **> VirtoCommerce CSV import >** select **Semicolon** in **Csv column delimiter >** click on the image and select **electronics-new-products-example.csv** file to upload. Wait a little... 
 
->Note: importing new products from the file without specifying either the id category 
->or the category path in it, defaults to the root directory - to the catalog.
+>Note: importing new products from the file without specifying either the category id or the category path in it, defaults to the root directory - to the catalog.
 
 ![Сsv import](../../assets/images/docs/csv-import.png "Сsv import")
 
-* After uploading your data, click on **Map column**. On this page you will see and edit how the properties of your products will be maped to the default properties defined in application, just so they will be saved to the database after you clicking buttons **Ok** and **Start Import**. Wait a minute...
+* After uploading your data, click on **Map columns**. On this page you will see and configure how the properties of your products will be mapped to the default properties defined in application, just so they will be saved to the database after you click buttons **Ok** and **Start Import**. Wait a little...
 
 ![Сsv import mapping](../../assets/images/docs/csv-import-mapping.png "Сsv import mapping")
 
@@ -101,7 +102,7 @@ Use this guide to import new products into Virto Commerce Platform (backend) cat
 
 ![New thumbnail options](../../assets/images/docs/add-thumbnail-settings.png "New thumbnail options")
 
-* Select **catalog images** task in task list by check box, click on **!Run** icon, push button **Regenerate** in pop-up window. Wait a minute... All done. If you later add new pictures and generate thumbnails for them, select the button **Process changes**.
+* Select **catalog images** task in task list by check box, click on **!Run** icon, push button **Regenerate** in pop-up window. Wait a little... All done. If you later add new pictures and generate thumbnails for them, select the button **Process changes**.
 
 ![New thumbnails was generated](../../assets/images/docs/new-thumbnails-generated.png "New thumbnails was generated")
 
