@@ -40,12 +40,10 @@ aliases:
                         <label for="Email">Your email (required)</label>
                         <input id="Contact[Email]" tabindex="5" type="text" name="Contact[Email]" class="form-input" required="required" autocomplete="email" />
                     </div>
- </div>
                     <div class="control-group">
                         <label for="Job Title">Job Title (required)</label>
                         <input id="Contact[Job Title]" tabindex="6" type="text" name="Contact[Job Title]" class="form-input" required="required" autocomplete="jobtitle" />
                     </div>
-                     </div>
                     <div class="control-group">
                         <label for="Message">What region are you located in? (required)</label>
                         <select id="Contact[Message]" name="Contact[Message]" type="text" class="form-input" required="required" tabindex="7">
@@ -55,8 +53,6 @@ aliases:
                             <option value="Asia Pacific">Asia Pacific</option>
                         </select>
                     </div>
-                    <div class="control-group">
-                </div>
                     <div class="control-group">
                         <label for="Message">What is your Company Revenue? (required)</label>
                         <select id="Contact[Message]" name="Contact[Message]" type="text" class="form-input" required="required" tabindex="8">
