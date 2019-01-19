@@ -77,7 +77,7 @@ aliases:
 				<ul class="list">
 					<li>
                         <span class="descr">
-                            See how our platform can fit your busienss requirments by getting
+                            See how our platform can fit your business requirements by getting
                             firsthand experience using Virto Commerce. We’ll guide you through our
                             platform, and afterwards you’ll have access to explore Virto
                             Commerce on your own.
