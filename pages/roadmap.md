@@ -1,4 +1,4 @@
-﻿---
+---
 title: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
 description: Virto commerce - ASP.NET open-source ecommerce framework. Roadmap
 date: 2018-09-29
@@ -35,7 +35,15 @@ tags :
 								<li>
 									<span class="title">Drastic Performance Improvements</span>
 									<span class="descr">Order creation, catalog browsing, cart management, indexed search and some other functions will work even faster.</span>
-								</li>														
+								</li>
+                                <li>
+									<span class="title">Full Context Searching in a Storefront</span>
+									<span class="descr">Use a generic search engine to search a storefront for both products and text.</span>
+								</li>
+                                 <li>
+									<span class="title">Property Management Improvements</span>
+									<span class="descr">Property role-based access, property render type management, properties grouping.</span>
+								</li>
 							</ul>
 						</div>
 					</div>
@@ -65,14 +73,6 @@ tags :
                                   <li>
 									<span class="title">Direct Links to Entities</span>
 									<span class="descr">Direct URLs for key entities: products, categories, contacts, orders.</span>
-								</li>
-                                     <li>
-									<span class="title">Full Context Searching in a Storefront</span>
-									<span class="descr">Use a generic search engine to search a storefront for both products and text.</span>
-								</li>
-                                 <li>
-									<span class="title">Property Management Improvements</span>
-									<span class="descr">Property role-based access, property render type management, properties grouping.</span>
 								</li>
 								<!--		
 								<li>
